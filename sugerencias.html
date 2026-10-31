@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sugerencias y temas · Medicina en resumen</title>
+<meta name="description" content="Pide un tema, sugiere una mejora o reporta un error en un video, guía en resumen o artículo explicado.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Inter:wght@400;600&display=swap">
+<link rel="stylesheet" href="assets/style.css?v=20261030b">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="index.html"><b>Medicina en resumen</b><span>Más allá del abstract</span></a>
+  <nav class="main" aria-label="Secciones"><a href="index.html">Inicio</a><a href="articulos.html">Artículo explicado</a><a href="guias.html">Guías en resumen</a><a href="fuentes.html">Fuentes</a><a href="videos.html">Videos largos</a><a href="sugerencias.html" aria-current="page">Sugerencias</a></nav>
+</div></header>
+<main class="wrap">
+
+<section class="page-head">
+  <span class="kicker">Tu opinión decide los siguientes temas</span>
+  <h1>Sugerencias y peticiones de tema</h1>
+  <p>¿Qué guía, artículo o tema quieres que revisemos? ¿Viste una cifra que no cuadra? Escríbenos. Leemos todo; los temas más pedidos entran primero al calendario.</p>
+</section>
+<section class="section" style="padding-top:0"><div class="signup">
+  <div>
+    <h2>¿Qué quieres decirnos?</h2>
+    <p>Si reportas un error, dinos en qué video, guía en resumen o artículo y en qué minuto o página. Si pides un tema, la guía o el artículo concreto nos ayuda mucho.</p>
+    <p>El correo es opcional: déjalo solo si quieres que te avisemos cuando tu tema esté listo.</p>
+  </div>
+  <form name="sugerencias" method="POST" action="gracias-sugerencia.html" data-netlify="true" netlify-honeypot="campo-bot">
+    <input type="hidden" name="form-name" value="sugerencias">
+    <p class="hidden-field"><label>No llenar: <input name="campo-bot"></label></p>
+    <div><label for="tipo">Tipo</label>
+      <select id="tipo" name="tipo" required>
+        <option value="Petición de tema">Quiero que revisen un tema, guía o artículo</option>
+        <option value="Error">Encontré un error</option>
+        <option value="Sugerencia">Sugerencia para el sitio o los videos</option>
+        <option value="Otro">Otro</option>
+      </select></div>
+    <div><label for="tema">Tema, guía o material (opcional)</label><input id="tema" name="tema" maxlength="160" placeholder="Ej. guía de gota ACR, guía en resumen de HTA, página 4"></div>
+    <div><label for="mensaje">Mensaje</label><textarea id="mensaje" name="mensaje" rows="5" required maxlength="2000" placeholder="Escribe aquí"></textarea></div>
+    <div><label for="correo-s">Correo (opcional)</label><input id="correo-s" type="email" name="correo" autocomplete="email" placeholder="tu@correo.com"></div>
+    <button class="btn primary" type="submit">Enviar</button>
+    <span class="fine">No compartas datos de pacientes. Usamos tu correo solo para responderte. <a href="privacidad.html">Aviso de privacidad</a>.</span>
+  </form>
+</div></section>
+
+</main>
+<footer class="site"><div class="wrap">
+  <div class="social"><a href="https://instagram.com/medicina.en.resumen" target="_blank" rel="noopener">Instagram</a><a href="https://tiktok.com/@medicina.en.resumen" target="_blank" rel="noopener">TikTok</a><a href="https://youtube.com/@Medicina.en.resumen" target="_blank" rel="noopener">YouTube</a><a href="https://facebook.com/medicina.en.resumen" target="_blank" rel="noopener">Facebook</a></div>
+  <div>Material educativo para profesionales de la salud y estudiantes de posgrado. Elaborado con apoyo de inteligencia artificial y verificado contra las fuentes originales. No sustituye el juicio clínico ni la ficha técnica de cada medicamento.</div>
+  <div>¿Encontraste un error o quieres que revisemos un tema? <a href="sugerencias.html">Escríbenos aquí</a> · <a href="privacidad.html">Aviso de privacidad</a> · @medicina.en.resumen</div>
+</div></footer>
+
+</body>
+</html>
