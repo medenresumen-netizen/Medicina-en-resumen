@@ -2,6 +2,21 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "diureticos-asa-ototoxicidad-ic",
+    edicion: 20,
+    titulo: "Diuréticos de asa IV a dosis altas en insuficiencia cardiaca: ¿causan ototoxicidad permanente?",
+    especialidad: "Cardiología",
+    revista: "JAMA Cardiol",
+    fecha: "oct 2026",
+    tipo: "Análisis multicohorte (2 cohortes prospectivas con audiometría + 1 cohorte retrospectiva)",
+    veredicto: "ref",
+    veredictoTexto: "Refuerza: el temor a la ototoxicidad no debería frenar la descongestión, con condiciones",
+    resumen: "En 90 pacientes con IC (50 estables con bumetanida IV en orden aleatorio y doble ciego, y 40 hospitalizados con furosemida IV de hasta 500 mg infundidos en 1 hora) no hubo ototoxicidad clínica ni tinnitus. En el pico del diurético hubo cambios audiométricos desfavorables en 6 % de las mediciones oído-dosis, dependientes de la dosis (OR 1.99 por duplicación; IC 95 % 1.21 a 3.28), que en su mayoría se resolvieron en horas. En 22 656 hospitalizaciones, la dosis no se asoció con ototoxicidad diagnosticada (≥400 mg: OR 1.28; IC 95 % 0.71 a 2.31). Exposición breve, sin aminoglucósidos, cisplatino ni diálisis.",
+    leccion: "Ausencia de evidencia no es evidencia de ausencia: regla de 3 con cero eventos, IC amplios que no descartan daño, control positivo y falsos positivos de criterios muy sensibles",
+    pdf: "pdf/articulo-explicado/Diureticos-asa-ototoxicidad-IC-El-articulo-explicado.pdf",
+    doi: "10.1001/jamacardio.2026.4913"
+  },
+  {
     id: "mild-mt-trombectomia-ictus-leve",
     edicion: 19,
     titulo: "Trombectomía en ictus leve por oclusión de gran vaso (MILD-MT): ¿un NIHSS bajo justifica no intervenir?",
