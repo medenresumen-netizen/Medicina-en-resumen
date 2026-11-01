@@ -2,6 +2,21 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "keynote-c93-pembrolizumab-endometrio-dmmr",
+    edicion: 26,
+    titulo: "Cáncer de endometrio dMMR avanzado: ¿pembrolizumab solo, sin quimioterapia, en primera línea? El ensayo KEYNOTE-C93",
+    especialidad: "Oncología ginecológica",
+    revista: "Lancet",
+    fecha: "oct 2026",
+    tipo: "Ensayo clínico fase 3 aleatorizado y abierto (análisis intermedio)",
+    veredicto: "ref",
+    veredictoTexto: "Abre una opción sin quimioterapia; no se comparó con inmunoterapia más quimioterapia, el estándar actual",
+    resumen: "En 299 pacientes con cáncer de endometrio avanzado o recurrente dMMR, pembrolizumab solo prolongó la supervivencia libre de progresión frente a carboplatino con paclitaxel (mediana 38.2 frente a 8.4 meses; HR 0.57, IC 95 % 0.42 a 0.79), con menos eventos adversos relacionados de grado 3 o más (18 % frente a 51 %). Las curvas se cruzaron a los 6 meses: al inicio no hubo ventaja. La supervivencia global no alcanzó significancia en el análisis intermedio (HR 0.77; 0.52 a 1.15), con 85 % de cruce a inmunoterapia entre las pacientes del grupo control que progresaron.",
+    leccion: "Riesgos no proporcionales: cuando las curvas se cruzan el HR es un promedio; puntos de corte de Kaplan-Meier, cruce de tratamiento y comparador superado",
+    pdf: "pdf/articulo-explicado/KEYNOTE-C93-pembrolizumab-endometrio-dMMR-El-articulo-explicado.pdf",
+    doi: "10.1016/S0140-6736(26)02095-7"
+  },
+  {
     id: "save-icu-sedacion-inhalada-isoflurano",
     edicion: 25,
     titulo: "Sedación inhalada con isoflurano en ventilación mecánica: ¿reduce la mortalidad? El ensayo SAVE-ICU",
