@@ -2,6 +2,36 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "fibromialgia-perdida-de-peso-meta",
+    edicion: 23,
+    titulo: "Fibromialgia y obesidad: ¿cuánto peso hay que perder para notar mejoría? Una primera meta numérica",
+    especialidad: "Reumatología",
+    revista: "Rheumatology (Oxford)",
+    fecha: "oct 2026",
+    tipo: "Carta: modelo exploratorio con datos agregados de 8 estudios",
+    veredicto: "no",
+    veredictoTexto: "No cambia la práctica: genera hipótesis, no metas",
+    resumen: "Con 8 estudios de intervención para bajar de peso en fibromialgia con obesidad (405 pacientes), una curva ajustada a los 5 estudios convencionales (dieta hipocalórica y cirugía bariátrica) asoció una mejoría promedio mayor de 30 % con 15.3 % de pérdida de peso (IC 95 % 11.4 a 19.9) y mayor de 50 % con 30.6 % (25.4 a 50.0). Las dietas de muy bajo aporte o cetogénicas lograron 42–63 % de mejoría con solo 6–13 % de pérdida. Relación entre promedios de estudios, sin grupo control: no aplica a cada paciente.",
+    leccion: "Datos agregados y falacia ecológica: promedios de estudios no son efectos individuales, extrapolación de curvas, métricas compuestas y hallazgos exploratorios",
+    pdf: "pdf/articulo-explicado/Fibromialgia-perdida-de-peso-meta-El-articulo-explicado.pdf",
+    doi: "10.1093/rheumatology/keag611"
+  },
+  {
+    id: "metotrexato-artrosis-mano-rodilla",
+    edicion: 22,
+    titulo: "Metotrexato para el dolor de la artrosis de mano y rodilla: ¿ya hay evidencia suficiente?",
+    especialidad: "Reumatología",
+    revista: "Reumatol Clin",
+    fecha: "2026",
+    tipo: "Revisión sistemática y metaanálisis (5 ECA doble ciego)",
+    veredicto: "no",
+    veredictoTexto: "No de rutina: señal modesta, frágil y no concluyente",
+    resumen: "Cinco ECA doble ciego (474 pacientes; metotrexato 7.5 a 25 mg por semana contra placebo). Con todas las escalas de dolor, el metotrexato redujo el dolor de mano a los 3–4 meses y de rodilla a los 6 meses, pero no el de rodilla a los 3–4 meses (IC ajustados por Bonferroni, en unidades estandarizadas). Con solo el desenlace primario de cada ensayo, el efecto en mano dejó de ser significativo, y al quitar el ensayo con alto riesgo de sesgo la rodilla a 6 meses depende de un solo ECA. No permite saber qué pacientes se benefician.",
+    leccion: "Metaanálisis de pocos ensayos pequeños: análisis de sensibilidad, varias escalas por estudio, heterogeneidad (τ² frente a I²) y corrección por comparaciones múltiples",
+    pdf: "pdf/articulo-explicado/Metotrexato-artrosis-mano-rodilla-El-articulo-explicado.pdf",
+    doi: "10.1016/j.reumae.2026.502248"
+  },
+  {
     id: "flowpromote-regresion-placa-ldl",
     edicion: 21,
     titulo: "LDL más bajo, más regresión de placa coronaria (FLOWPROMOTE): ¿atorvastatina 40 mg o rosuvastatina 40 mg + ezetimiba?",
