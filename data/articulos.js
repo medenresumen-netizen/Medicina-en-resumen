@@ -2,6 +2,21 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "save-icu-sedacion-inhalada-isoflurano",
+    edicion: 25,
+    titulo: "Sedación inhalada con isoflurano en ventilación mecánica: ¿reduce la mortalidad? El ensayo SAVE-ICU",
+    especialidad: "Medicina crítica",
+    revista: "JAMA",
+    fecha: "oct 2026",
+    tipo: "Ensayo clínico aleatorizado pragmático y abierto",
+    veredicto: "no",
+    veredictoTexto: "No reduce la mortalidad; no hay razón para adoptarla esperando mejorar la supervivencia",
+    resumen: "En 780 adultos con insuficiencia respiratoria aguda hipoxémica en ventilación mecánica de 14 UCI de Canadá, una estrategia de sedación inhalada con isoflurano (con sedantes IV adicionales si se necesitaban) no redujo la mortalidad hospitalaria frente a la sedación IV habitual (42.5 % frente a 43.8 %; RR 0.98, IC 95 % 0.84 a 1.14). Los días libres de ventilador y de UCI y la calidad de vida a 3 meses fueron similares. El grupo inhalado usó más terapias adyuvantes para hipoxemia y tuvo más días de coma.",
+    leccion: "Qué responde un ensayo neutro: IC de la diferencia absoluta frente al efecto buscado, estrategia frente a fármaco y multiplicidad en desenlaces secundarios",
+    pdf: "pdf/articulo-explicado/SAVE-ICU-sedacion-inhalada-isoflurano-El-articulo-explicado.pdf",
+    doi: "10.1001/jama.2026.18471"
+  },
+  {
     id: "uveitis-aij-metotrexato",
     edicion: 24,
     titulo: "Uveítis en artritis idiopática juvenil: ¿suspender el metotrexato aumenta el riesgo?",
