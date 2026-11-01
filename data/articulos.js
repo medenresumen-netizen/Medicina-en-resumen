@@ -2,6 +2,21 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "uveitis-aij-metotrexato",
+    edicion: 24,
+    titulo: "Uveítis en artritis idiopática juvenil: ¿suspender el metotrexato aumenta el riesgo?",
+    especialidad: "Reumatología pediátrica",
+    revista: "Reumatol Clin",
+    fecha: "2026",
+    tipo: "Cohorte retrospectiva multicéntrica con análisis pareado",
+    veredicto: "ref",
+    veredictoTexto: "No demuestra causalidad; refuerza la vigilancia oftalmológica tras suspender el metotrexato",
+    resumen: "En 404 niños con AIJ de 3 hospitales de Madrid, 77 (19 %) desarrollaron uveítis, sobre todo anterior crónica, con una mediana de 1.7 años desde el diagnóstico. En el análisis pareado (62 frente a 62), la exposición temprana a metotrexato no difirió de forma significativa (82 % frente a 91 %; p = 0.14). Entre quienes tuvieron uveítis tras suspender el metotrexato, la mediana fue de 1.7 años después de la suspensión. El único hallazgo significativo a favor de la hipótesis se basa en 7 pacientes, y el artículo tiene varias inconsistencias internas.",
+    leccion: "Cohortes retrospectivas: confusión por indicación y temporalidad, límites del pareamiento, no significativo no es sin efecto y subgrupos muy pequeños",
+    pdf: "pdf/articulo-explicado/Uveitis-AIJ-metotrexato-El-articulo-explicado.pdf",
+    doi: "10.1016/j.reumae.2026.502221"
+  },
+  {
     id: "fibromialgia-perdida-de-peso-meta",
     edicion: 23,
     titulo: "Fibromialgia y obesidad: ¿cuánto peso hay que perder para notar mejoría? Una primera meta numérica",
