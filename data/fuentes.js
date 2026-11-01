@@ -160,12 +160,19 @@ const R = {
   murilloICEP24: { c: "Murillo AD, Castrillon AI, Serrano CD, Fernandez-Trujillo L. Monoclonal antibodies in idiopathic chronic eosinophilic pneumonia: a scoping review. BMC Pulm Med 2024;24:74.", d: "10.1186/s12890-024-02868-3" },
   scelfoCEP26: { c: "Scelfo C, Simonazzi A, Ruggiero P, Pellegrino MR, Facciolongo N. New perspectives in the treatment of chronic eosinophilic pneumonia in the era of targeted therapies. Front Immunol 2026;17:1893402.", d: "10.3389/fimmu.2026.1893402" },
   previteroCEP26: { c: "Previtero D, Castelli G, Padrin Y, et al. Fibrotic chronic eosinophilic pneumonia: from inflammation to fibrosis and therapeutic implications. Eur Respir Rev 2026;35:260076.", d: "10.1183/16000617.0076-2026" },
+  rheeAEP13: { c: "Rhee CK, Min KH, Yim NY, et al. Clinical characteristics and corticosteroid treatment of acute eosinophilic pneumonia. Eur Respir J 2013;41:402–409.", d: "10.1183/09031936.00221811" },
+  oyamaCEP15: { c: "Oyama Y, Fujisawa T, Hashimoto D, et al. Efficacy of short-term prednisolone treatment in patients with chronic eosinophilic pneumonia. Eur Respir J 2015;45:1624–1631.", d: "10.1183/09031936.00199614" },
+  philitIAEP02: { c: "Philit F, Etienne-Mastroïanni B, Parrot A, et al. Idiopathic acute eosinophilic pneumonia: a study of 22 patients. Am J Respir Crit Care Med 2002;166:1235–1239.", d: "10.1164/rccm.2112056" },
+  uchiyamaAEP08: { c: "Uchiyama H, Suda T, Nakamura Y, et al. Alterations in smoking habits are associated with acute eosinophilic pneumonia. Chest 2008;133:1174–1180.", d: "10.1378/chest.07-2669" },
+  ishamABPA24: { c: "Agarwal R, Sehgal IS, Muthu V, et al. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63:2400061.", d: "10.1183/13993003.00061-2024" },
+  cdcStrongyOv: { c: "Centers for Disease Control and Prevention. Clinical Overview of Strongyloides. Actualizado el 11 de febrero de 2026.", u: "https://www.cdc.gov/strongyloides/hcp/clinical-overview/index.html" },
+  cdcStrongyCare: { c: "Centers for Disease Control and Prevention. Clinical Care of Strongyloides. Revisado el 16 de febrero de 2024.", u: "https://www.cdc.gov/strongyloides/hcp/clinical-care/index.html" },
 };
 
 const S = [
   { id: "neumonia-eosinofilica", k: "Guía en resumen", t: "Neumonías eosinofílicas",
     v: [["Guía en resumen", "Guía en resumen de neumonías eosinofílicas"]],
-    r: [["cottinELD25", "Guía en resumen"], ["carboneEP24", "Guía en resumen"], ["cottinEP05", "Guía en resumen (parásitos)"], ["gidariDapto24", "Guía en resumen (daptomicina)"], ["murilloICEP24", "Guía en resumen (biológicos)"], ["scelfoCEP26", "Guía en resumen (biológicos)"], ["previteroCEP26", "Guía en resumen (fibrosis)"]] },
+    r: [["cottinELD25", "Guía en resumen"], ["carboneEP24", "Guía en resumen"], ["cottinEP05", "Guía en resumen (parásitos)"], ["gidariDapto24", "Guía en resumen (daptomicina)"], ["murilloICEP24", "Guía en resumen (biológicos)"], ["scelfoCEP26", "Guía en resumen (biológicos)"], ["previteroCEP26", "Guía en resumen (fibrosis)"], ["rheeAEP13", "Guía en resumen (NEA, duración del corticoide)"], ["oyamaCEP15", "Guía en resumen (NEC, duración del corticoide)"], ["philitIAEP02", "Guía en resumen (NEA)"], ["uchiyamaAEP08", "Guía en resumen (NEA y tabaco)"], ["ishamABPA24", "Guía en resumen (ABPA)"], ["cdcStrongyOv", "Guía en resumen (Strongyloides)"], ["cdcStrongyCare", "Guía en resumen (Strongyloides)"]] },
   { id: "udmi5", k: "Guía en resumen", t: "Quinta definición universal del infarto · 2026",
     v: [["Guía en resumen", "Guía en resumen: quinta definición universal del infarto"]],
     r: [["millsUDMI26", "Guía en resumen"], ["helsethOMI26", "Guía en resumen"], ["byrneESC23", "Guía en resumen"]] },
