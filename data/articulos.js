@@ -2,6 +2,21 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "flowpromote-regresion-placa-ldl",
+    edicion: 21,
+    titulo: "LDL más bajo, más regresión de placa coronaria (FLOWPROMOTE): ¿atorvastatina 40 mg o rosuvastatina 40 mg + ezetimiba?",
+    especialidad: "Cardiología",
+    revista: "JAMA Cardiol",
+    fecha: "oct 2026",
+    tipo: "ECA abierto con lectura cegada (análisis secundario preespecificado)",
+    veredicto: "ref",
+    veredictoTexto: "Refuerza bajar el LDL de forma intensa; mide placa, no eventos",
+    resumen: "En 104 pacientes sin estatina crónica previa, con enfermedad coronaria estable recién diagnosticada (estenosis mayor de 50 % y FFR por tomografía de 0.80 o menos), rosuvastatina 40 mg + ezetimiba bajó el LDL a 42.5 mg/dL frente a 69.5 mg/dL con atorvastatina 40 mg y produjo más regresión de placa a 18 meses: total −21.1 % vs −13.6 % (diferencia −30.9 mm³; IC 95 % −57.2 a −4.5) y no calcificada −28.2 % vs −20.0 %. La placa calcificada aumentó en ambos grupos. Desenlace sustituto, análisis secundario y sin eventos clínicos.",
+    leccion: "Desenlaces sustitutos y análisis secundarios: placa no es igual a eventos, la métrica cambia la significancia y el análisis por LDL alcanzado ya no es aleatorizado",
+    pdf: "pdf/articulo-explicado/FLOWPROMOTE-regresion-placa-LDL-El-articulo-explicado.pdf",
+    doi: "10.1001/jamacardio.2026.4788"
+  },
+  {
     id: "diureticos-asa-ototoxicidad-ic",
     edicion: 20,
     titulo: "Diuréticos de asa IV a dosis altas en insuficiencia cardiaca: ¿causan ototoxicidad permanente?",
