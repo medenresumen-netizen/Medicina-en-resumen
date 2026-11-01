@@ -152,10 +152,20 @@ const R = {
   siebert23: { c: "Siebert JN, et al. Outdoor cold air versus room temperature exposure for croup symptoms: a randomized controlled trial. Pediatrics 2023;152.", d: "10.1542/peds.2023-061365" },
   hiebert16: { c: "Hiebert JC, et al. Bronchoscopy findings in recurrent croup: a systematic review and meta-analysis. Int J Pediatr Otorhinolaryngol 2016;90:86–90.", u: pm("Hiebert bronchoscopy findings recurrent croup meta-analysis") },
   sowa23: { c: "Sowa LE, et al. Prophylactic inhaled corticosteroids for the management of recurrent croup. Int J Pediatr Otorhinolaryngol 2023;170:111600.", d: "10.1016/j.ijporl.2023.111600" },
-  quraishi22: { c: "Quraishi H, Lee DJ. Recurrent croup. Pediatr Clin North Am 2022;69:319–328.", d: "10.1016/j.pcl.2021.12.004" }
+  quraishi22: { c: "Quraishi H, Lee DJ. Recurrent croup. Pediatr Clin North Am 2022;69:319–328.", d: "10.1016/j.pcl.2021.12.004" },
+  cottinELD25: { c: "Cottin V. Eosinophilic lung diseases. Clin Chest Med 2025;46:667–684.", d: "10.1016/j.ccm.2025.07.007" },
+  carboneEP24: { c: "Carbone RG, Puppo F, Mattar E, Roden AC, Hirani N. Acute and chronic eosinophilic pneumonia: an overview. Front Med 2024;11:1355247.", d: "10.3389/fmed.2024.1355247" },
+  cottinEP05: { c: "Cottin V, Cordier JF. Eosinophilic pneumonias. Allergy 2005;60:841–857.", d: "10.1111/j.1398-9995.2005.00812.x" },
+  gidariDapto24: { c: "Gidari A, Pallotto C, Francisci D. Daptomycin eosinophilic pneumonia, a systematic review of the literature and case series. Infection 2024;52:2145–2168.", d: "10.1007/s15010-024-02349-z" },
+  murilloICEP24: { c: "Murillo AD, Castrillon AI, Serrano CD, Fernandez-Trujillo L. Monoclonal antibodies in idiopathic chronic eosinophilic pneumonia: a scoping review. BMC Pulm Med 2024;24:74.", d: "10.1186/s12890-024-02868-3" },
+  scelfoCEP26: { c: "Scelfo C, Simonazzi A, Ruggiero P, Pellegrino MR, Facciolongo N. New perspectives in the treatment of chronic eosinophilic pneumonia in the era of targeted therapies. Front Immunol 2026;17:1893402.", d: "10.3389/fimmu.2026.1893402" },
+  previteroCEP26: { c: "Previtero D, Castelli G, Padrin Y, et al. Fibrotic chronic eosinophilic pneumonia: from inflammation to fibrosis and therapeutic implications. Eur Respir Rev 2026;35:260076.", d: "10.1183/16000617.0076-2026" },
 };
 
 const S = [
+  { id: "neumonia-eosinofilica", k: "Guía en resumen", t: "Neumonías eosinofílicas",
+    v: [["Guía en resumen", "Guía en resumen de neumonías eosinofílicas"]],
+    r: [["cottinELD25", "Guía en resumen"], ["carboneEP24", "Guía en resumen"], ["cottinEP05", "Guía en resumen (parásitos)"], ["gidariDapto24", "Guía en resumen (daptomicina)"], ["murilloICEP24", "Guía en resumen (biológicos)"], ["scelfoCEP26", "Guía en resumen (biológicos)"], ["previteroCEP26", "Guía en resumen (fibrosis)"]] },
   { id: "udmi5", k: "Guía en resumen", t: "Quinta definición universal del infarto · 2026",
     v: [["Guía en resumen", "Guía en resumen: quinta definición universal del infarto"]],
     r: [["millsUDMI26", "Guía en resumen"], ["helsethOMI26", "Guía en resumen"], ["byrneESC23", "Guía en resumen"]] },
