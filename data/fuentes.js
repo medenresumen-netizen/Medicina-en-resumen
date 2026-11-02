@@ -114,6 +114,12 @@ const R = {
   tapperACG26: { c: "Tapper EB, Kardashian A, Debes JD, et al. ACG Clinical Guideline: preventive care for patients with cirrhosis. Am J Gastroenterol 2026.", d: "10.14309/ajg.0000000000004186" },
   tapperJAMA23: { c: "Tapper EB, Parikh ND. Diagnosis and management of cirrhosis and its complications: a review. JAMA 2023;329:1589–1602.", d: "10.1001/jama.2023.5997" },
   kaplanAASLD24: { c: "Kaplan DE, Ripoll C, Thiele M, et al. AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis. Hepatology 2024;79:1180–1211.", d: "10.1097/HEP.0000000000000647" },
+  adaSoc26_2: { c: "American Diabetes Association Professional Practice Committee for Diabetes. 2. Diagnosis and classification of diabetes: Standards of Care in Diabetes—2026. Diabetes Care 2026;49(Suppl 1):S27–S49.", d: "10.2337/dc26-S002" },
+  adaSoc26_15: { c: "American Diabetes Association Professional Practice Committee for Diabetes. 15. Management of diabetes in pregnancy: Standards of Care in Diabetes—2026. Diabetes Care 2026;49(Suppl 1):S321–S338.", d: "10.2337/dc26-S015" },
+  niceNG3: { c: "National Institute for Health and Care Excellence. Diabetes in pregnancy: management from preconception to the postnatal period (NG3). 2015, actualizada en 2020.", u: "https://www.nice.org.uk/guidance/ng3" },
+  oedgGDM26: { c: "Kautzky-Willer A, Winhofer Y, Leutner M, et al. Management der Hyperglykämie in der Schwangerschaft (Update 2026). Wien Klin Wochenschr 2026;138(Suppl 4):S250–S271.", d: "10.1007/s00508-025-02695-4" },
+  landonGDM09: { c: "Landon MB, Spong CY, Thom E, et al. A multicenter, randomized trial of treatment for mild gestational diabetes. N Engl J Med 2009;361:1339–1348.", d: "10.1056/NEJMoa0902430" },
+  tobogm23: { c: "Simmons D, Immanuel J, Hague WM, et al; TOBOGM Research Group. Treatment of gestational diabetes mellitus diagnosed early in pregnancy. N Engl J Med 2023;388:2132–2144.", d: "10.1056/NEJMoa2214956" },
   teixeiraHRS: { c: "Teixeira JP, Karvellas CJ, Velez JCQ. The diagnosis and management of hepatorenal syndrome: a comprehensive update for the intensivist. J Intensive Care Med 2025;41(11):1070–1090.", d: "10.1177/08850666251345408" },
   adqiIca24: { c: "Nadim MK, Kellum JA, Forni L, et al. Acute kidney injury in patients with cirrhosis: ADQI and ICA joint multidisciplinary consensus meeting. J Hepatol 2024;81(1):163–183.", d: "10.1016/j.jhep.2024.03.031" },
   confirmTerli: { c: "Wong F, Pappas SC, Curry MP, et al. Terlipressin plus albumin for the treatment of type 1 hepatorenal syndrome (CONFIRM). N Engl J Med 2021;384(9):818–828.", d: "10.1056/NEJMoa2008290" },
@@ -185,6 +191,9 @@ const R = {
 };
 
 const S = [
+  { id: "diabetes-embarazo", k: "Guía en resumen", t: "Diabetes y embarazo: pregestacional y gestacional",
+    v: [["Guía en resumen", "Guía en resumen de diabetes y embarazo"], ["Reel", "Diabetes gestacional: 92 en ayuno"]],
+    r: [["adaSoc26_2", "Guía en resumen y reel (diagnóstico)"], ["adaSoc26_15", "Guía en resumen y reel"], ["niceNG3", "Guía en resumen (comparación)"], ["oedgGDM26", "Guía en resumen (comparación, diabetes gestacional temprana)"], ["landonGDM09", "Guía en resumen y reel (beneficio del tratamiento)"], ["tobogm23", "Guía en resumen (hiperglucemia temprana)"]] },
   { id: "cirrosis-complicaciones", k: "Guía en resumen", t: "Complicaciones de la cirrosis",
     v: [["Guía en resumen", "Guía en resumen de complicaciones de la cirrosis"]],
     r: [["easlDecomp18", "Guía en resumen"], ["bigginsAASLD21", "Guía en resumen"], ["adqiIca24", "Guía en resumen (lesión renal aguda)"], ["teixeiraHRS", "Guía en resumen (síndrome hepatorrenal)"], ["easlHE22", "Guía en resumen (encefalopatía)"], ["laiAASLD21", "Guía en resumen (nutrición y sarcopenia)"], ["aclfGlobal26", "Guía en resumen (ACLF)"], ["easlACLF23", "Guía en resumen (ACLF)"], ["karvellasACLF24", "Guía en resumen (ACLF y paciente crítico)"], ["davisPVT25", "Guía en resumen (trombosis portal)"], ["tapperACG26", "Guía en resumen (prevención)"], ["tapperJAMA23", "Guía en resumen"], ["kaplanAASLD24", "Guía en resumen (descompensación y recompensación)"]] },
