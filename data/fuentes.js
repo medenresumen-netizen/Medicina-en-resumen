@@ -222,9 +222,16 @@ const R = {
   battelinoTIR19: { c: "Battelino T, Danne T, Bergenstal RM, et al. Clinical targets for continuous glucose monitoring data interpretation: recommendations from the International Consensus on Time in Range. Diabetes Care 2019;42:1593–1603.", d: "10.2337/dci19-0028" },
   ihsg17: { c: "International Hypoglycaemia Study Group. Glucose concentrations of less than 3.0 mmol/L (54 mg/dL) should be reported in clinical trials: a joint position statement of the American Diabetes Association and the European Association for the Study of Diabetes. Diabetes Care 2017;40:155–157.", d: "10.2337/dc16-2215" },
   mccallES23: { c: "McCall AL, Lieb DC, Gianchandani R, et al. Management of individuals with diabetes at high risk for hypoglycemia: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab 2023;108:529–562.", d: "10.1210/clinem/dgac596" },
+  ssc26: { c: "Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med 2026;54(4):725–812.", d: "10.1097/CCM.0000000000007075" },
+  ssc21: { c: "Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med 2021;47(11):1181–1247.", d: "10.1007/s00134-021-06506-y" },
+  sepsis3_16: { c: "Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock (Sepsis-3). JAMA 2016;315(8):801–810.", d: "10.1001/jama.2016.0287" },
+  castroCRT26: { c: "Castro R, Kattan E, Urbina T, et al; COPERNICUS Study Group. Capillary refill time prolongation in sepsis and septic shock: supported and potential mechanisms from a pathophysiological perspective. Crit Care 2026 (en prensa).", d: "10.1186/s13054-026-06409-8" },
 };
 
 const S = [
+  { id: "sepsis", k: "Guía en resumen", t: "Sepsis y choque séptico en adultos: Surviving Sepsis Campaign 2026",
+    v: [["Guía en resumen", "Guía en resumen de sepsis y choque séptico"]],
+    r: [["ssc26", "Guía en resumen (fuente principal)"], ["ssc21", "Guía en resumen (comparación con 2021)"], ["sepsis3_16", "Guía en resumen (definiciones)"], ["castroCRT26", "Guía en resumen (llenado capilar)"]] },
   { id: "hipoglucemia", k: "Guía en resumen", t: "Hipoglucemia en diabetes: clasificación, detección, prevención y tratamiento",
     v: [["Guía en resumen", "Guía en resumen de hipoglucemia"]],
     r: [["adaHipo26", "Guía en resumen (fuente principal)"], ["adaSoc26_6", "Guía en resumen (clasificación, metas y tratamiento)"], ["adaSoc26_7", "Guía en resumen (tecnología)"], ["adaSoc26_9", "Guía en resumen (fármacos)"], ["adaSoc26_13", "Guía en resumen (adultos mayores)"], ["adaSoc26_16", "Guía en resumen (hospital)"], ["adaSoc26_8", "Guía en resumen (ajuste con agonistas de GLP-1)"], ["adaSoc26_5", "Guía en resumen (educación y factores psicosociales)"], ["battelinoTIR19", "Guía en resumen (metas de MCG)"], ["ihsg17", "Guía en resumen (niveles de hipoglucemia)"], ["mccallES23", "Guía en resumen (Endocrine Society)"]] },
