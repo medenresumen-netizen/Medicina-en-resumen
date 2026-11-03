@@ -2,6 +2,21 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "bicarbonato-acidosis-uci",
+    edicion: 27,
+    titulo: "Bicarbonato de sodio en la acidosis metabólica del paciente crítico: ¿salva vidas o evita la diálisis?",
+    especialidad: "Medicina crítica",
+    revista: "Intensive Care Med",
+    fecha: "nov 2026",
+    tipo: "Revisión sistemática y metaanálisis bayesiano de ensayos aleatorizados",
+    veredicto: "ref",
+    veredictoTexto: "Refuerza el uso selectivo en acidemia grave con lesión renal aguda; no de rutina",
+    resumen: "Los 4 ensayos aleatorizados disponibles (BICAR-ICU, BICARICU-2, SODa-BIC piloto y SODa-BIC; 1544 adultos en UCI con acidosis metabólica) no muestran un beneficio claro del bicarbonato IV en la mortalidad a corto plazo (RR 0.94, IC creíble 95 % 0.73 a 1.22; probabilidad de beneficio 72.1 %), pero sí una alta probabilidad de reducir el inicio de terapia de reemplazo renal (RR 0.74, 0.59 a 0.98; 97.2 %). El efecto en diálisis se concentra en los ensayos abiertos con acidemia grave, y la decisión de dializar depende en parte del médico.",
+    leccion: "Cómo leer un metaanálisis bayesiano: probabilidad posterior, intervalo creíble frente a intervalo de confianza, intervalo predictivo, priors alternativos y desenlaces que decide el médico",
+    pdf: "pdf/articulo-explicado/Bicarbonato-acidosis-UCI-El-articulo-explicado.pdf",
+    doi: "10.1007/s00134-026-08602-3"
+  },
+  {
     id: "keynote-c93-pembrolizumab-endometrio-dmmr",
     edicion: 26,
     titulo: "Cáncer de endometrio dMMR avanzado: ¿pembrolizumab solo, sin quimioterapia, en primera línea? El ensayo KEYNOTE-C93",
