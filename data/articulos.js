@@ -2,6 +2,51 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "h-heft-hidralazina-dinitrato-ic",
+    edicion: 30,
+    titulo: "Hidralazina con dinitrato de isosorbida en IC con FEVI reducida y tratamiento actual: ¿todavía suma algo? El ensayo H-HeFT",
+    especialidad: "Cardiología",
+    revista: "Eur Heart J",
+    fecha: "nov 2026",
+    tipo: "Ensayo clínico aleatorizado, doble ciego, controlado con placebo",
+    veredicto: "no",
+    veredictoTexto: "No apoya agregarla de rutina; no evaluó a la población en la que se basa su indicación",
+    resumen: "En 592 pacientes de 23 hospitales de Dinamarca con IC sintomática, FEVI de 40 % o menos y tratamiento de base actual, hidralazina con dinitrato de isosorbida no redujo el desenlace compuesto de empeoramiento de IC, trasplante, asistencia ventricular o muerte frente a placebo (30.6 % frente a 30.5 %; HR 0.90, IC 95 % 0.67 a 1.21). La menor mortalidad (19.4 % frente a 24.2 %; HR 0.72, 0.51 a 1.02) fue un desenlace secundario no significativo. Solo 24 % alcanzó la dosis meta a los 6 meses y la suspensión por hipotensión, mareo o síncope fue de 89 frente a 26 pacientes.",
+    leccion: "Cómo leer un ensayo negativo con poco poder: qué efecto descarta el intervalo de confianza, por qué un secundario no rescata un primario neutro y cómo el abandono diluye el efecto por intención de tratar",
+    pdf: "pdf/articulo-explicado/H-HeFT-hidralazina-dinitrato-IC-El-articulo-explicado.pdf",
+    doi: "10.1093/eurheartj/ehag773"
+  },
+  {
+    id: "stop-v-povorcitinib-vitiligo",
+    edicion: 29,
+    titulo: "Povorcitinib oral en vitíligo: ¿cuánto repigmenta un inhibidor de JAK1 en un año? Los ensayos STOP-V",
+    especialidad: "Dermatología",
+    revista: "Nat Med",
+    fecha: "nov 2026",
+    tipo: "Dos ensayos clínicos fase 3 aleatorizados, doble ciego, controlados con placebo",
+    veredicto: "ref",
+    veredictoTexto: "Todavía no: fármaco en evaluación; respuesta facial en una minoría y solo 52 semanas de seguridad",
+    resumen: "En dos ensayos gemelos (916 adultos con vitíligo no segmentario moderado a grave), povorcitinib 30 mg al día logró una repigmentación facial de al menos 75 % (F-VASI75) a las 52 semanas en 18.9 % frente a 6.8 % (STOP-V1) y 18.9 % frente a 3.1 % (STOP-V2). En el cuerpo, la repigmentación de al menos 75 % fue rara (2 a 3 %). El exceso más claro sobre placebo fue el acné (~11 % frente a 2 a 3 %); no hubo MACE, tuberculosis ni muertes.",
+    leccion: "Cómo leer un ensayo con desenlace de respondedores: umbrales tipo VASI75, imputación de datos faltantes, OR frente a riesgo relativo y NNT, y el valor de dos ensayos gemelos",
+    pdf: "pdf/articulo-explicado/STOP-V-povorcitinib-vitiligo-El-articulo-explicado.pdf",
+    doi: "10.1038/s41591-026-04739-2"
+  },
+  {
+    id: "tamizaje-retinopatia-hidroxicloroquina",
+    edicion: 28,
+    titulo: "Retinopatía por hidroxicloroquina: ¿cuántos pacientes reciben realmente el tamizaje?",
+    especialidad: "Reumatología",
+    revista: "Arthritis Res Ther",
+    fecha: "nov 2026",
+    tipo: "Cohorte poblacional con datos administrativos",
+    veredicto: "si",
+    veredictoTexto: "Sí, en lo que haces hoy: pedir el examen basal y darle seguimiento",
+    resumen: "En 28,301 adultos con AR o LES que usaron hidroxicloroquina al menos un año en Columbia Británica (1997 a 2023), solo 24 % tuvo un tamizaje válido (OCT de dominio espectral o campo visual) en el primer año, y cada año siguiente solo entre 20 y 35 %. A los 15 años llevaban en promedio 2.7 tamizajes, cuando las guías piden al menos 12, y 1 de cada 5 nunca se había tamizado. El tamizaje basal fue el mayor predictor de tamizajes posteriores (OR ajustado 5.71).",
+    leccion: "Cómo leer un estudio con bases de datos administrativas: qué mide un código de facturación, error de clasificación, denominador que cambia cada año y por qué el OR no se lee como riesgo relativo cuando el desenlace es frecuente",
+    pdf: "pdf/articulo-explicado/Tamizaje-retinopatia-hidroxicloroquina-El-articulo-explicado.pdf",
+    doi: "10.1186/s13075-026-03878-8"
+  },
+  {
     id: "bicarbonato-acidosis-uci",
     edicion: 27,
     titulo: "Bicarbonato de sodio en la acidosis metabólica del paciente crítico: ¿salva vidas o evita la diálisis?",
