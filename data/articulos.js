@@ -2,6 +2,21 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "fibrinogeno-recaida-arteritis-celulas-gigantes",
+    edicion: 42,
+    titulo: "Arteritis de células gigantes: ¿el fibrinógeno al mes predice la recaída mejor que la PCR?",
+    especialidad: "Reumatología",
+    revista: "Semin Arthritis Rheum",
+    fecha: "nov 2026",
+    tipo: "Cohorte retrospectiva multicéntrica",
+    veredicto: "ref",
+    veredictoTexto: "Todavía no: hipótesis útil, con un punto de corte sin validación externa",
+    resumen: "En 465 pacientes con ACG de tres hospitales franceses, el 34 % recayó en 5 años, casi siempre durante el descenso de glucocorticoides. En un subgrupo con mediciones mensuales, tener el fibrinógeno normal al mes se asoció a mucho menos recaída en los 2 años siguientes (HR 0.14; IC 95 % 0.07 a 0.28; n = 70), y la PCR normal no. Un corte exploratorio de 3.77 g/L tuvo sensibilidad de 72 % y especificidad de 90 %, en una muestra de 59 pacientes en la que recayó el 66 %.",
+    leccion: "Puntos de corte derivados de los propios datos (índice de Youden) y optimismo, valores predictivos que dependen de la prevalencia de la muestra, análisis por hito temporal y asociación frente a predicción",
+    pdf: "pdf/articulo-explicado/Fibrinogeno-recaida-arteritis-celulas-gigantes-El-articulo-explicado.pdf",
+    doi: "10.1016/j.semarthrit.2026.153103"
+  },
+  {
     id: "sucralfato-vs-nitroglicerina-fisura-anal",
     edicion: 41,
     titulo: "Fisura anal crónica: ¿sucralfato tópico mejor que nitroglicerina?",
