@@ -2,6 +2,36 @@
 // veredicto: "si" (cambia la práctica) · "ref" (refuerza o todavía no) · "no" (no cambia)
 window.ARTICULOS = [
   {
+    id: "arglp1-cancer-relacionado-obesidad",
+    edicion: 44,
+    titulo: "arGLP-1 y cáncer relacionado con la obesidad: el resultado depende de contra qué los comparas",
+    especialidad: "Endocrinología",
+    revista: "JAMA Netw Open",
+    fecha: "nov 2026",
+    tipo: "Cohorte (emulación de ensayo objetivo), carta de investigación",
+    veredicto: "no",
+    veredictoTexto: "No: tranquiliza, pero no sirve para elegir el antidiabético por prevenir cáncer",
+    resumen: "En expedientes de un centro de Dallas, iniciar un arGLP-1 se asoció a menos cáncer relacionado con la obesidad a 3 años que iniciar insulina (2.0 vs. 3.3 %; HR 0.62) o sulfonilureas (HR 0.67), pero no significativamente menos que metformina, iSGLT2 o iDPP4. La ventaja aparece frente a comparadores que suelen usarse en enfermedad más avanzada.",
+    leccion: "El comparador define la pregunta: emulación de ensayo objetivo con usuarios nuevos y comparador activo, diferencia absoluta frente a HR y comparaciones múltiples sin ajuste",
+    pdf: "pdf/articulo-explicado/arGLP1-cancer-relacionado-obesidad-El-articulo-explicado.pdf",
+    doi: "10.1001/jamanetworkopen.2026.41869"
+  },
+  {
+    id: "velocidad-correccion-hipernatremia",
+    edicion: 43,
+    titulo: "Hipernatremia: ¿importa qué tan rápido corriges el sodio?",
+    especialidad: "Nefrología",
+    revista: "Kidney Res Clin Pract",
+    fecha: "nov 2026",
+    tipo: "Revisión sistemática y metaanálisis de estudios observacionales",
+    veredicto: "no",
+    veredictoTexto: "No: no demuestra ventaja de ninguna velocidad, ni tampoco que dé igual",
+    resumen: "Once estudios observacionales en adultos hospitalizados. Corregir más rápido no se asoció a la mortalidad global (OR 0.86; IC 95 % 0.55 a 1.34), pero con heterogeneidad enorme (I² 95 %) y un intervalo de predicción de 0.17 a 4.4. En un análisis exploratorio, la corrección rápida se asoció a más mortalidad en UCI (OR 1.39). La seguridad neurológica no pudo evaluarse.",
+    leccion: "Heterogeneidad (I², τ²) e intervalo de predicción frente al IC del promedio, subgrupos que comparan estudios entre sí, y confusión por indicación y tiempo inmortal cuando la exposición depende de la evolución",
+    pdf: "pdf/articulo-explicado/Velocidad-correccion-hipernatremia-El-articulo-explicado.pdf",
+    doi: "10.23876/j.krcp.26.419"
+  },
+  {
     id: "fibrinogeno-recaida-arteritis-celulas-gigantes",
     edicion: 42,
     titulo: "Arteritis de células gigantes: ¿el fibrinógeno al mes predice la recaída mejor que la PCR?",
