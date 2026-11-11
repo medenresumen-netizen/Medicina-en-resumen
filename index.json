@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T14:42Z",
- "n": 351,
+ "updated": "2026-11-11T14:43Z",
+ "n": 352,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -3507,20 +3507,36 @@
    "n_candidates": 25
   },
   {
+   "id_es": "metformina-xr",
+   "generic_en": "metformin hydrochloride",
+   "brand": [
+    "Glumetza"
+   ],
+   "manufacturer": [
+    "Santarus, Inc."
+   ],
+   "effective_time": "20260902",
+   "set_id": "fb832474-88d9-4e29-95cd-fbc446944cc4",
+   "application": [
+    "NDA021748"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "metformina",
    "generic_en": "metformin hydrochloride",
    "brand": [
-    "Metformin hydrochloride ER"
+    "Metformin Hydrochloride"
    ],
    "manufacturer": [
-    "Aphena Pharma Solutions - Tennessee, LLC"
+    "Aurobindo Pharma Limited"
    ],
-   "effective_time": "20230414",
-   "set_id": "1ebaab3a-3d62-4c36-853f-c8784993eafb",
+   "effective_time": "20260715",
+   "set_id": "4ac6d01a-af26-44e7-ae2e-3618de0080aa",
    "application": [
-    "ANDA207427"
+    "ANDA077095"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "metildopa",
