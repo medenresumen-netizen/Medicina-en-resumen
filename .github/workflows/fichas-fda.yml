@@ -1,0 +1,33 @@
+name: Fichas FDA (openFDA)
+on:
+  push:
+    branches: [datos-fda]
+    paths: [lista.tsv, pedir.tsv, disparo.txt, scripts/**, .github/workflows/fichas-fda.yml]
+permissions:
+  contents: write
+concurrency:
+  group: fichas-fda
+  cancel-in-progress: false
+jobs:
+  bajar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: datos-fda
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Descargar fichas
+        env:
+          OPENFDA_KEY: ${{ secrets.OPENFDA_KEY }}
+        run: python scripts/bajar_fichas.py
+      - name: Guardar en la rama
+        run: |
+          git config user.name "fichas-fda-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add labels index.json
+          if git diff --cached --quiet; then echo "sin cambios"; exit 0; fi
+          git commit -m "Fichas FDA: actualización automática [skip ci]"
+          git push origin HEAD:datos-fda
