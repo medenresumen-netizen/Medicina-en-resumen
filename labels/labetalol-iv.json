@@ -1,0 +1,737 @@
+{
+ "id_es": "labetalol-iv",
+ "generic_en": "labetalol hydrochloride",
+ "search": "openfda.generic_name.exact:\"LABETALOL HYDROCHLORIDE\"",
+ "pref": "labetalol hydrochloride|INTRAVENOUS|",
+ "downloaded": "2026-11-11T18:41Z",
+ "chosen": {
+  "set_id": "99a715a0-4579-410c-b102-7ef6fab8db55",
+  "id": "d0e3d92d-d96e-4d5e-98ca-3d18a4bc82d8",
+  "effective_time": "20251219",
+  "version": "9",
+  "brand_name": [
+   "Labetalol Hydrochloride",
+   "Labetalol HCl in Sodium Chloride",
+   "Labetalol HCl in Dextrose"
+  ],
+  "generic_name": [
+   "LABETALOL HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Hikma Pharmaceuticals USA Inc."
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA213330"
+  ],
+  "n_sections": 27
+ },
+ "candidates": [
+  {
+   "set_id": "e4562c70-f245-4dbe-8fe1-0bb64a91a315",
+   "id": "5f89f544-e101-20ee-e063-6394a90afa34",
+   "effective_time": "20261105",
+   "version": "6",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074787"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5e31f49d-51a1-c509-e063-6294a90a741c",
+   "id": "5e31f49d-517c-c509-e063-6294a90a741c",
+   "effective_time": "20261019",
+   "version": "1",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074787"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "30281c4d-2fd1-167a-e063-6294a90a77c4",
+   "id": "5cdb6738-0579-f918-e063-6294a90aa7fd",
+   "effective_time": "20261001",
+   "version": "4",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "abfc6b75-1ed5-41f1-0484-4597488237bc",
+   "id": "6401712a-fe23-46ba-85b6-6265596cc778",
+   "effective_time": "20260914",
+   "version": "30",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075240"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "63db5b00-e864-4b2d-84f2-00bf35211b9b",
+   "id": "7062c435-020b-46e3-be45-2807abcbaeed",
+   "effective_time": "20260904",
+   "version": "6",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207743"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "e2e50571-d8c1-43e7-b90f-877ba1c35c9b",
+   "id": "5a586a4f-98ae-5a57-e063-6394a90a6e46",
+   "effective_time": "20260831",
+   "version": "5",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075215"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "5954cc5c-3e73-e039-e063-6394a90a7d6a",
+   "id": "5954cba7-830e-2e01-e063-6294a90a52bd",
+   "effective_time": "20260818",
+   "version": "1",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074787"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "502bb655-9ad8-481b-9e26-1dec8adef471",
+   "id": "1b856828-2371-4bcc-adc0-146ac8b04460",
+   "effective_time": "20260708",
+   "version": "1",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Armas Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214533"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "6cb2c117-584c-4440-acfb-e4b1af4dc509",
+   "id": "556364b1-527d-bd9c-e063-6394a90aee8c",
+   "effective_time": "20260629",
+   "version": "1",
+   "brand_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Onesource Specialty Pharma Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079134"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "ed2293f8-2b82-c3db-e053-2995a90ad46c",
+   "id": "54d61630-01d9-0c4f-e063-6294a90a94e2",
+   "effective_time": "20260622",
+   "version": "2",
+   "brand_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211953"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "5101b8dd-6148-465c-9bba-0209ce823fe5",
+   "id": "53fe2403-184a-7425-e063-6294a90a0f4c",
+   "effective_time": "20260611",
+   "version": "6",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "63ede355-42ec-4c52-a941-51e5f6b35ed6",
+   "id": "53bd2b04-9eae-6b4f-e063-6394a90a0751",
+   "effective_time": "20260608",
+   "version": "4",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207743"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "9c3bb751-c425-43ff-b530-2460b568b689",
+   "id": "8d4c15db-5ffc-40eb-b025-9f501352c455",
+   "effective_time": "20260605",
+   "version": "4",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207743"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "fffb7c59-ad92-4e74-850d-d94d42b7fdc9",
+   "id": "34a0ed5b-31a6-49bc-87bf-b32fd9f9ebd2",
+   "effective_time": "20260604",
+   "version": "3",
+   "brand_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211953"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "1b96ddc9-d0c3-488a-a113-66491fd3d899",
+   "id": "77254c29-bfa3-4f35-aaca-d9950c63545a",
+   "effective_time": "20260603",
+   "version": "13",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075239"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "04f9dcdf-4023-48ee-9e7d-ca9366d9db72",
+   "id": "61f6ec35-0ee2-455a-a117-ef7a9d506342",
+   "effective_time": "20260522",
+   "version": "102",
+   "brand_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211953"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "d3ca153c-25b2-4506-91bd-bf9d6a4c01fe",
+   "id": "55cfd998-6ae8-4a20-878c-9c69bbecd6af",
+   "effective_time": "20260519",
+   "version": "4",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "c0c1a162-cd30-4ac9-bc62-407493ed54a5",
+   "id": "011e6658-2487-4212-b540-1d34e0acbc52",
+   "effective_time": "20260511",
+   "version": "102",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "54b75509-824b-4291-818d-71dc1b88915f",
+   "id": "54b75509-824b-4291-818d-71dc1b88915f",
+   "effective_time": "20260501",
+   "version": "1",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "371cb135-6a5f-433d-a87d-ab8521c4aa6d",
+   "id": "65ff7c23-7278-4c2b-a6f2-e109801d468e",
+   "effective_time": "20260416",
+   "version": "6",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "d5ce687f-4a37-d3e6-e053-2995a90aa974",
+   "id": "4f9b6911-a34d-5d03-e063-6294a90a7b82",
+   "effective_time": "20260416",
+   "version": "4",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "f9af85d3-a5a7-49d6-aff6-1ca2b2d75450",
+   "id": "d5cd2799-0bee-4d34-9ef8-ac6458dde7cb",
+   "effective_time": "20260416",
+   "version": "13",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209603"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "5bd81a8a-a480-4c8d-bd4f-3158412e6a73",
+   "id": "2a23ecd8-4a58-4f02-8bcd-e112364b12e9",
+   "effective_time": "20260413",
+   "version": "2",
+   "brand_name": [
+    "Labetalol Hydrochloride"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074787"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "ae5d7b3b-e444-48d3-9d85-9b07319f9374",
+   "id": "4f1df0e1-e950-902d-e063-6394a90a6ff4",
+   "effective_time": "20260410",
+   "version": "5",
+   "brand_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211953"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "106a0959-5830-489f-ba60-afd4eb0fac36",
+   "id": "4e7597b8-afba-8b90-e063-6394a90a85e4",
+   "effective_time": "20260402",
+   "version": "2",
+   "brand_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "LABETALOL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Ltd"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211953"
+   ],
+   "n_sections": 16
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Labetalol HCl Injection is indicated in severe hypertension, to lower blood pressure. Labetalol Hydrochloride (HCl) is a beta-adrenergic blocker. Labetalol HCl injection is indicated in severe hypertension, to lower blood pressure. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Administer Labetalol Hydrochloride in Sodium Chloride Injection or Dextrose Injection as a slow continuous intravenous infusion at a rate of 2 mL/min (2 mg/min). ( 2.2 ) Alternatively, administer Labetalol Hydrochloride Injection in a prefilled syringe or vial at 0.25 mg/kg (up to a maximum of 20 mg) intravenously over 2 minutes. Additional injections of 40 mg or 80 mg can be given at 10-minute intervals. ( 2.2 ) 2.1 General Information Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit. Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection: Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are ready-to-use solutions and do not require further dilution. Check for leaks by squeezing the bag firmly. If leaks are found, discard solution, as sterility may be impaired. Do not add any additional medications to the bag. Once infusion has started, discard any remaining at 24 hours. Labetalol HCl Injection in a prefilled syringe or vial: Labetalol HCl Injection, USP, in a prefilled syringe or vial are ready-to-use solutions that do not require further dilution. The prefilled syringe and vial are intended for single dose. Discard any unused portion. 2.2 Recommended Dosage Labetalol HCI can be administered by slow continuous intravenous infusion or repeated intravenous injection. Once supine diastolic blood pressure has begun to rise, transition to oral labetalol HCl. Slow Continuous Intravenous Infusion: Initiate at 2 mg/minute. Monitor blood pressure and adjust the dosage and duration of infusion accordingly. Repeated Intravenous Injection: Administer 0.25 mg/kg up to 20 mg over 2 minutes. Administer 20 mg to 80 mg over 2 minutes at 10-minute intervals until a desired supine blood pressure is achieved. The maximum effect usually occurs within 5 minutes of each injection. The safety of doses above 300 mg has not been established. 2.3 Instructions for Use of Labetalol HCl Injection Prefilled Syringe CAUTION: Glass syringes may malfunction, break or clog when connected to some Needleless Luer Access Devices (NLADs) and needles. The external collar must remain attached to the syringe (See Figure 1) . Spontaneous disconnection of this glass syringe from needles and NLADs with leakage of drug product may occur. Assure that the needle or NLAD is securely attached before beginning the injection. Inspect the glass syringe-needle or glass syringe –NLAD connection before and during drug administration. Figure 1 1. Push plunger rod slightly to break the stopper loose while tip cap is still on. 2. Remove tip cap by twisting it off. (See Figure 2) Figure 2 3. Connect the syringe to an appropriate injection connection. 4. Depress plunger rod to deliver the required dose. Figure 1 figure 2"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Labetalol HCl in Sodium Chloride Injection is a clear, colorless to pale yellow solution available as: 100 mg/100 mL (1 mg/mL) in a single-dose bag 200 mg/200 mL (1 mg/mL) in a single-dose bag 300 mg/300 mL (1 mg/mL) in a single-dose bag Labetalol HCl in Dextrose Injection is a clear, colorless to pale yellow solution available as: 200 mg/200 mL (1 mg/mL) in a single-dose bag Labetalol HCl Injection is a clear, colorless to pale yellow solution available as: 10 mg/2 mL (5 mg/mL) in a single-dose prefilled syringe 20 mg/4 mL (5 mg/mL) in a single-dose vial Labetalol HCl Injection solution: 100 mg/100 mL (1 mg/mL) in sodium chloride in a single-dose bag ( 3 ) 200 mg/200 mL (1 mg/mL) in sodium chloride in a single-dose bag ( 3 ) 300 mg/300 mL (1 mg/mL) in sodium chloride in a single-dose bag ( 3 ) 200 mg/200 mL (1 mg/mL) in dextrose in a single-dose bag ( 3 ) 10 mg/2 mL (5 mg/mL) in a single-dose prefilled syringe ( 3 ) 20 mg/4 mL (5 mg/mL) in a single-dose vial ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Labetalol Hydrochloride Injection is contraindicated in patients with: Bronchial asthma or obstructive airway disease. Severe sinus bradycardia: Heart block greater than first degree. Cardiogenic shock. IV administration of non-dihydropyridine calcium-channel antagonists (e.g., verapamil) Hypersensitivity reactions, including anaphylaxis, to labetalol Bronchial asthma ( 4 ) Overt cardiac failure ( 4 ) Greater-than-first-degree heart block ( 4 ) Cardiogenic shock ( 4 ) Severe bradycardia ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Exacerbation of heart failure: Avoid use. ( 5.3 ) Acute exacerbation of coronary artery disease upon cessation of therapy: Do not abruptly discontinue. ( 5.4 ) Non-allergic bronchospasm (e.g., chronic bronchitis and emphysema): Avoid since it has not been studied. ( 5.5 ) Diabetes: May mask symptoms of hypoglycemia and alter glucose levels; monitor ( 5.6 ) Exacerbation of pheochromocytoma: Paradoxical increases in blood pressure may occur. ( 5.7 ) Severe hepatocellular injury: Discontinue permanently for liver injury or jaundice ( 5.8 ) 5.1 Hypotension Symptomatic postural hypotension (incidence, 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol HCl injection. Before permitting any ambulation, establish patient’s ability to tolerate an upright position and observe the patient at the time of first ambulation. 5.2 Bradycardia Bradycardia, including sinus pause, heart block, severe bradycardia, and cardiac arrest have occurred with the use of beta blockers. Monitor heart rate and rhythm in patients receiving labetalol hydrochloride injection. 5.3 Cardiac Failure Sympathetic stimulation is a vital component supporting circulatory function in congestive heart failure. Beta-blockade carries a potential hazard of further depressing myocardial contractility and precipitating more severe failure. Avoid labetalol HCl injection in patients with overt congestive heart failure. If patients develop signs or symptoms of heart failure during administration, discontinue labetalol and treat appropriately. 5.4 Ischemic Heart Disease Abrupt cessation of therapy with beta blocking agents in patients with coronary artery disease, can cause exacerbations of angina pectoris and, in some cases, myocardial infarction has been reported. Therefore, even in the absence of overt angina pectoris, after the discontinuation of labetalol HCl injection observe patients for development or worsening of angina. If patient experiences angina or angina markedly worsens or if acute coronary insufficiency develops, promptly reinstitute labetalol HCl injection and manage as unstable angina. 5.5 Reactive Airway Disease and Nonallergic Bronchospasm Patients with reactive airways disease should, in general, not receive beta blockers. Labetalol HCl at the usual intravenous therapeutic doses has not been studied in patients with nonallergic bronchospastic disease. In the event of bronchospasm, stop the infusion immediately, and treat as appropriate. 5.6 Hypoglycemia Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting). If severe hypoglycemia occurs, patients should be instructed to see medical treatment. 5.7 Use in Patients with Pheochromocytoma Intravenous labetalol has been shown to lower blood pressure and relieve symptoms in patients with pheochromocytoma; higher than usual doses may be required. However, paradoxical hypertensive responses have been reported in a few patients with this tumor; therefore, monitor blood pressure when administering intravenous labetalol HCl to patients with pheochromocytoma. 5.8 Hepatic Injury Severe hepatocellular injury occurs rarely with labetalol therapy. The hepatic injury is usually reversible, but hepatic necrosis and death have been reported. If the patient develops signs or symptoms of liver injury, institute appropriate treatment and investigate the probable cause. Do not restart labetalol in patients without another explanation for the observed liver injury. 5.9 Use in Patients at Risk of Severe Acute Hypersensitivity Reactions Patients at risk of anaphylactic reactions may be more reactive to allergen exposure (accidental, diagnostic, or therapeutic). Patients using beta-blockers may be unresponsive to the usual doses of epinephrine used to treat anaphylactic or anaphylactoid reactions. Avoid labetalol HCl injection in patients at high risk of anaphylactic reactions. 5.10 Intraoperative Floppy Iris Syndrome (IFIS) IFIS has been observed during cataract surgery in some patients treated with alpha-1 blockers (labetalol is an alpha/beta blocker). This variant of small pupil syndrome is characterized by the combination of flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions. Inform the patient’s ophthalmologist to be prepared for possible modifications to the surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Hypotension [see Warnings and Precautions (5.1) ] Bradycardia [see Warnings and Precautions (5.2) ] Depression of myocardial contractility in patients with overt congestive heart failure [see Warnings and Precautions (5.3) ] Aggravation of angina [see Warnings and Precautions (5.4) ] Significant decline in cardiac output following coronary bypass [see Warnings and Precautions (5.3) ] Bronchospasm in patients with reactive airway disease [see Warnings and Precautions (5.5) ] Paradoxical hypertensive responses in patients with pheochromocytoma [see Warnings and Precautions (5.7) ] Hepatic injury [see Warnings and Precautions (5.8) ] Acute hypersensitivity reaction [see Warnings and Precautions (5.9) ] Most common adverse events: Symptomatic postural hypotension. ( 6 ) Nausea13%, dizziness 9% ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. For product Inquiry call 1-877-845-0689. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Most adverse effects have been mild and transient and, in controlled trials involving 92 patients, did not require labetalol withdrawal. Symptomatic postural hypotension (incidence, 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol HCl. Moderate hypotension occurred in 1 of 100 patients while supine. Increased sweating was noted in 4 of 100 patients, and flushing occurred in 1 of 100 patients. The following also were reported with labetalol HCl with the incidence as noted: Central and Peripheral Nervous Systems Dizziness in 9% Paresthesia, most frequently described as tingling of the scalp/skin in 7% Gastrointestinal System Nausea in 13% Vomiting in 4% Metabolic Disorders Transient increases in blood urea nitrogen and serum creatinine levels occurred in 8%; these were associated with drops in blood pressure, generally in patients with prior renal insufficiency. Respiratory System Bronchospasm In addition, a number of other less common adverse events have been reported: Cardiovascular: Hypotension, and rarely, syncope, bradycardia, heart block. Liver and Biliary System Hepatic necrosis, hepatitis, cholestatic jaundice, elevated liver function tests. Hypersensitivity Rare reports of hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea) and anaphylactoid reactions. The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with labetalol HCl during investigational use and extensive foreign marketing experience. Clinical Laboratory Tests Among patients dosed with labetalol tablets, there have been reversible increases of serum transaminases in 4% of patients tested and, more rarely, reversible increases in blood urea."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Beta blockers antagonize the bronchodilator effect of beta-receptor agonists. ( 7.1 ) Increase hypotension may occur with halothane anesthesia. ( 7.2 ) Nitroglycerin may result in additional hypotensive effects. ( 7.3 ) 7.1 Bronchodilators Labetalol HCl antagonizes the bronchodilatory effect of beta-receptor agonist drugs; therefore, labetalol HCl is contraindicated in patients with bronchial asthma [see Contraindications (4) ] . 7.2 Anesthesia Synergism has been shown between halothane anesthesia and intravenously administered labetalol. During controlled hypotensive anesthesia using labetalol in association with halothane, high concentrations (3% or above) of halothane should not be used because the degree of hypotension will be increased and because of the possibility of a large reduction in cardiac output and an increase in central venous pressure. 7.3 Nitroglycerin Coadministration of labetalol HCl and nitroglycerin will have an additive effect in lowering blood pressure. Additionally, labetalol HCl blunts the reflex tachycardia produced by nitroglycerin. If labetalol is used in patients with angina pectoris on nitroglycerin, monitor patients’ blood pressure and adjust labetalol HCl injection dose as needed. In these patients, avoid initiating labetalol HCl tablets. 7.4 Calcium Channel Blockers Coadministration of labetalol HCl with non-dihydropyrindine calcium-channel antagonists (e.g., verapamil) is contraindicated [see Contraindications (4) ]. Avoid the use of labetalol in patients receiving calcium-channel antagonists. 7.5 Drug/Laboratory Test Interactions The presence of labetalol metabolites in the urine may result in falsely elevated levels of urinary catecholamines, metanephrine, normetanephrine, and vanillylmandelic acid (VMA) when measured by fluorimetric or photometric methods. In screening patients suspected of having a pheochromocytoma and being treated with labetalol, a specific method, such as a high-performance liquid chromatographic assay with solid phase extraction should be employed in determining levels of catecholamines. Labetalol has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods. When patients being treated with labetalol have a positive urine test for amphetamine using these techniques, confirm using more specific methods, such as a gas chromatographic-mass spectrometer technique."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary The extensive experience with use of labetalol in pregnant women, based on published interventional and observational studies, has not identified a drug-associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data). Untreated hypertension during pregnancy can lead to serious adverse outcomes for the mother and the fetus (see Clinical Considerations) . In animal reproduction studies, oral administration of labetalol to pregnant rats and rabbits during organogenesis at doses up to approximately six and four times the maximum recommended human dose (MRHD), respectively, resulted in no fetal malformations; however, increased fetal resorptions were seen in both species at doses approximating the MRHD (see Data) . In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. The background risk of major birth defects and miscarriage for the indicated population is unknown. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Pregnant women with hypertension should be carefully monitored and managed accordingly. Fetal/Neonatal Adverse Reactions Labetalol crosses the placenta. Neonates born to mothers who are receiving labetalol during pregnancy, may be at risk for hypotension, bradycardia, hypoglycemia, and respiratory depression. Neonates should be monitored for symptoms of hypotension, bradycardia, hypoglycemia and respiratory depression and manage accordingly. Data Human Data Data from published interventional and observational studies did not demonstrate an association between major congenital malformations and the use of labetalol in pregnancy, however, most studies reported the maternal use of intravenous labetalol occurring after 20 weeks gestation. The published literature has reported inconsistent findings of intrauterine growth retardation, preterm birth and perinatal mortality with maternal use of labetalol during pregnancy; however, these studies have methodological limitations hindering interpretation. These studies cannot definitively establish the absence of risk during pregnancy. Animal Data Teratogenic studies were performed with labetalol in rats and rabbits at oral doses up to approximately six and four times the maximum recommended human dose (MRHD), respectively. No reproducible evidence of fetal malformations was observed. Increased fetal resorptions were seen in both species at doses approximating the MRHD. A teratology study performed with labetalol in rabbits at intravenous doses up to 1.7 times the MRHD revealed no evidence of drug-related harm to the fetus. Oral administration of labetalol to rats during late gestation through weaning at doses of two to four times the MRHD caused a decrease in neonatal survival. 8.2 Lactation Risk Summary Available published data report the presence of labetalol in human milk at low levels. There are no data on the effects on the breastfed infant and on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for labetalol and any potential adverse effects on the breastfed infant from labetalol or from the underlying maternal condition. 8.3 Females and Males of Reproductive Potential Infertility Based on the published literature, beta blockers, including labetalol, may cause erectile dysfunction and inhibit sperm motility. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.5 Geriatric Use Some pharmacokinetic studies indicate that the elimination of labetalol is reduced in elderly patients [see Clinical Pharmacology (12.3) ] . Geriatric patients treated with labetalol could initiate therapy at the currently recommended dose of 2 mg/minute by continuous intravenous infusion; however, lower maintenance dosages are generally required for elderly patients than nonelderly patients. Monitor blood pressure and adjust the dosage and duration of infusion accordingly until the desired response is obtained [see Dosage and Administration (2 ) ] ."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary The extensive experience with use of labetalol in pregnant women, based on published interventional and observational studies, has not identified a drug-associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data). Untreated hypertension during pregnancy can lead to serious adverse outcomes for the mother and the fetus (see Clinical Considerations) . In animal reproduction studies, oral administration of labetalol to pregnant rats and rabbits during organogenesis at doses up to approximately six and four times the maximum recommended human dose (MRHD), respectively, resulted in no fetal malformations; however, increased fetal resorptions were seen in both species at doses approximating the MRHD (see Data) . In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. The background risk of major birth defects and miscarriage for the indicated population is unknown. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Pregnant women with hypertension should be carefully monitored and managed accordingly. Fetal/Neonatal Adverse Reactions Labetalol crosses the placenta. Neonates born to mothers who are receiving labetalol during pregnancy, may be at risk for hypotension, bradycardia, hypoglycemia, and respiratory depression. Neonates should be monitored for symptoms of hypotension, bradycardia, hypoglycemia and respiratory depression and manage accordingly. Data Human Data Data from published interventional and observational studies did not demonstrate an association between major congenital malformations and the use of labetalol in pregnancy, however, most studies reported the maternal use of intravenous labetalol occurring after 20 weeks gestation. The published literature has reported inconsistent findings of intrauterine growth retardation, preterm birth and perinatal mortality with maternal use of labetalol during pregnancy; however, these studies have methodological limitations hindering interpretation. These studies cannot definitively establish the absence of risk during pregnancy. Animal Data Teratogenic studies were performed with labetalol in rats and rabbits at oral doses up to approximately six and four times the maximum recommended human dose (MRHD), respectively. No reproducible evidence of fetal malformations was observed. Increased fetal resorptions were seen in both species at doses approximating the MRHD. A teratology study performed with labetalol in rabbits at intravenous doses up to 1.7 times the MRHD revealed no evidence of drug-related harm to the fetus. Oral administration of labetalol to rats during late gestation through weaning at doses of two to four times the MRHD caused a decrease in neonatal survival."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Some pharmacokinetic studies indicate that the elimination of labetalol is reduced in elderly patients [see Clinical Pharmacology (12.3) ] . Geriatric patients treated with labetalol could initiate therapy at the currently recommended dose of 2 mg/minute by continuous intravenous infusion; however, lower maintenance dosages are generally required for elderly patients than nonelderly patients. Monitor blood pressure and adjust the dosage and duration of infusion accordingly until the desired response is obtained [see Dosage and Administration (2 ) ] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE 10.1 Signs and Symptoms of Overdose Overdosage with labetalol HCl causes excessive hypotension that is posture sensitive and, sometimes, excessive bradycardia. Patients should be placed supine and their legs raised if necessary, to improve the blood supply to the brain. Treat symptoms of overdose with standard supportive care. If overdosage with labetalol HCl follows oral ingestion, gastric lavage or pharmacologically induced emesis (using syrup of ipecac) may be useful for removal of the drug shortly after ingestion. Neither hemodialysis nor peritoneal dialysis removes a significant amount of labetalol from the general circulation (<1%). The oral LD 50 value of labetalol HCl in the mouse is approximately 600 mg/kg and in the rat is greater than 2 g/kg. The intravenous LD 50 in these species is 50 to 60 mg/kg."
+  ],
+  "description": [
+   "11 DESCRIPTION Labetalol HCl in Sodium Chloride Injection, Labetalol HCl in Dextrose Injection and Labetalol Hydrochloride Injection, USP contain labetalol HCl an adrenergic receptor blocking agent that has both selective alpha1-adrenergic and nonselective beta-adrenergic receptor blocking actions. Labetalol hydrochloride (HCl) is a racemate chemically designated as 5-[1-Hydroxy-2-[(1-methyl-3-phenylpropyl)amino]ethyl]-salicylamide monohydrochloride and it has the following structural formula: Labetalol HCl is a white or off-white crystalline powder, soluble in water. Labetalol HCl has the molecular formula C19H24N2O3•HCl and a molecular weight of 364.87. It has two asymmetric centers and therefore exists as a molecular complex of two diastereoisomeric pairs. Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are two preservative-free, ready- to use formulations of labetalol. Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are clear, colorless to pale yellow, aqueous, sterile, isotonic solution for intravenous injection. Each milliliter of Labetalol HCl in Sodium Chloride Injection contains 1 mg of labetalol HCl, 7.2 mg sodium chloride, 9 mg of anhydrous dextrose, 0.02 mg of edetate disodium; and citric acid monohydrate and sodium hydroxide, as necessary, to bring the solution into the pH range of 3.5 to 4.5. Each milliliter of Labetalol HCl in Dextrose Injection contains 1 mg of labetalol HCl, 45 mg of anhydrous dextrose, 0.02 mg of edetate disodium; and citric acid monohydrate and sodium hydroxide, as necessary, to bring the solution into the pH range of 3.5 to 4.5. Labetalol Hydrochloride Injection prefilled syringe and vial are two preservative-free, ready-to use formulations of labetalol. Labetalol Hydrochloride Injection is a clear, colorless to pale yellow, aqueous, sterile, isotonic solution for intravenous injection. Each milliliter of Labetalol Hydrochloride Injection, USP, contains 5 mg of labetalol HCI, 45 mg of anhydrous dextrose, 0.1 mg of edetate disodium, and citric acid monohydrate and sodium hydroxide, as necessary, to bring the solution into the pH range of 3.0 to 4.5. structural formula"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Labetalol has both competitive alpha1-adrenergic blocking and competitive beta-adrenergic blocking activity. In man, the ratio of alpha- to beta-blockade has been estimated to be approximately 1:7 following intravenous administration. Beta 2 -agonist activity has been demonstrated in animals with minimal beta 1 -agonist activity detected. 12.2 Pharmacodynamics In a clinical pharmacologic study in severe hypertensives, an initial 0.25 mg/kg injection of labetalol HCl administered to patients in the supine position decreased blood pressure by an average of 11/7 mmHg. Additional injections of 0.5 mg/kg at 15-minute intervals up to a total cumulative dose of 1.75 mg/kg of labetalol HCl caused further dose-related decreases in blood pressure. Some patients required cumulative doses of up to 3.25 mg/kg. The maximal effect of each dose level occurred within 5 minutes. Following discontinuation of intravenous treatment with labetalol HCl, the blood pressure rose gradually and progressively, approaching pretreatment baseline values within an average of 16 to 18 hours in the majority of patients. Similar results were obtained in the treatment of patients with severe hypertension who required urgent blood pressure reduction with an initial dose of 20 mg (which corresponds to 0.25 mg/kg for an 80 kg patient) followed by additional doses of either 40 mg or 80 mg at 10 minute intervals to achieve the desired effect, or up to a cumulative dose of 300 mg. Labetalol HCl administered as a continuous intravenous infusion, with a mean dose of 136 mg (27 mg to 300 mg) over a period of 2 to 3 hours (mean of 2 hours and 39 minutes), lowered the blood pressure by an average of 60/35 mmHg. 12.3 Pharmacokinetics Distribution Labetalol has been shown to cross the placental barrier in humans. Only negligible amounts of the drug crossed the blood-brain barrier in animal studies. Labetalol is approximately 50% protein bound. Neither hemodialysis nor peritoneal dialysis removes a significant amount of labetalol from the systemic circulation (<1%). Elimination Following intravenous infusion of labetalol, the elimination half-life is about 5.5 hours and the total body clearance is approximately 33 mL/min/kg. Steady-state plasma levels of labetalol during repetitive dosing are reached following 22 to 28 hours of continuous infusion. Metabolism The metabolism of labetalol is mainly through conjugation to glucuronide metabolites. Excretion Approximately 55% to 60% of a dose appears in the urine as conjugates or unchanged labetalol within the first 24 hours of dosing. The metabolites are present in plasma and are excreted in the urine and, via the bile, into the feces. Specific Populations Patients with Renal or Hepatic Impairment In patients with decreased hepatic or renal function, the elimination half-life of labetalol is not altered. Geriatric Patients Some pharmacokinetic studies indicate that the elimination of labetalol is reduced in elderly patients."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Labetalol has both competitive alpha1-adrenergic blocking and competitive beta-adrenergic blocking activity. In man, the ratio of alpha- to beta-blockade has been estimated to be approximately 1:7 following intravenous administration. Beta 2 -agonist activity has been demonstrated in animals with minimal beta 1 -agonist activity detected."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics In a clinical pharmacologic study in severe hypertensives, an initial 0.25 mg/kg injection of labetalol HCl administered to patients in the supine position decreased blood pressure by an average of 11/7 mmHg. Additional injections of 0.5 mg/kg at 15-minute intervals up to a total cumulative dose of 1.75 mg/kg of labetalol HCl caused further dose-related decreases in blood pressure. Some patients required cumulative doses of up to 3.25 mg/kg. The maximal effect of each dose level occurred within 5 minutes. Following discontinuation of intravenous treatment with labetalol HCl, the blood pressure rose gradually and progressively, approaching pretreatment baseline values within an average of 16 to 18 hours in the majority of patients. Similar results were obtained in the treatment of patients with severe hypertension who required urgent blood pressure reduction with an initial dose of 20 mg (which corresponds to 0.25 mg/kg for an 80 kg patient) followed by additional doses of either 40 mg or 80 mg at 10 minute intervals to achieve the desired effect, or up to a cumulative dose of 300 mg. Labetalol HCl administered as a continuous intravenous infusion, with a mean dose of 136 mg (27 mg to 300 mg) over a period of 2 to 3 hours (mean of 2 hours and 39 minutes), lowered the blood pressure by an average of 60/35 mmHg."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term oral dosing studies with labetalol for 18 months in mice and for 2 years in rats showed no evidence of carcinogenesis. Studies with labetalol using dominant lethal assays in rats and mice and exposing microorganisms according to modified Ames tests showed no evidence of mutagenesis."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term oral dosing studies with labetalol for 18 months in mice and for 2 years in rats showed no evidence of carcinogenesis. Studies with labetalol using dominant lethal assays in rats and mice and exposing microorganisms according to modified Ames tests showed no evidence of mutagenesis."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are preservative-free, clear, colorless to pale yellow sterile solutions that are available in a single-dose single-port bag with an aluminum overwrap. The container closure is not made with natural rubber latex. It is available in the following presentations: Product Strength Package NDC Number Labetalol HCl in Sodium Chloride Injection 100 mg/100 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9363-01 Box of 10 bags 0143-9363-10 Labetalol HCl in Sodium Chloride Injection 200 mg/200 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9364-01 Box of 10 bags 0143-9364-10 Labetalol HCl in Sodium Chloride Injection 300 mg/300 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9365-01 Box of 10 bags 0143-9365-10 Labetalol HCl in Dextrose Injection 200 mg/200 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9366-01 Box of 10 bags 0143-9366-10 Labetalol Hydrochloride Injection, USP is a preservative-free, clear, colorless to pale yellow sterile solution that is available in a single-dose prefilled syringe or vial. It is available in the following presentations: Product Strength Package NDC Number Labetalol Hydrochloride Injection, USP 10 mg/2 mL (5 mg/mL) preservative-free 1 single-dose prefilled syringe 0641-6252-01 Carton of 10 prefilled syringes 0641-6252-10 Labetalol Hydrochloride Injection, USP 20 mg/4 mL (5 mg/mL) preservative-free 1 single-dose vial 0143-9183-01 Carton of 10 vials 0143-9183-10 16.2 Storage Store at 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30° C (59°F to 86° F) [see USP Controlled Room Temperature]. DO NOT FREEZE. PROTECT FROM LIGHT. Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection: Do not remove from overwrap until ready to use. Labetalol Hydrochloride Injection, USP, prefilled syringe and vial: Retain in carton until time of use.",
+   "16.1 How Supplied Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are preservative-free, clear, colorless to pale yellow sterile solutions that are available in a single-dose single-port bag with an aluminum overwrap. The container closure is not made with natural rubber latex. It is available in the following presentations: Product Strength Package NDC Number Labetalol HCl in Sodium Chloride Injection 100 mg/100 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9363-01 Box of 10 bags 0143-9363-10 Labetalol HCl in Sodium Chloride Injection 200 mg/200 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9364-01 Box of 10 bags 0143-9364-10 Labetalol HCl in Sodium Chloride Injection 300 mg/300 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9365-01 Box of 10 bags 0143-9365-10 Labetalol HCl in Dextrose Injection 200 mg/200 mL (1 mg/mL) preservative-free 1 single-dose bag 0143-9366-01 Box of 10 bags 0143-9366-10 Labetalol Hydrochloride Injection, USP is a preservative-free, clear, colorless to pale yellow sterile solution that is available in a single-dose prefilled syringe or vial. It is available in the following presentations: Product Strength Package NDC Number Labetalol Hydrochloride Injection, USP 10 mg/2 mL (5 mg/mL) preservative-free 1 single-dose prefilled syringe 0641-6252-01 Carton of 10 prefilled syringes 0641-6252-10 Labetalol Hydrochloride Injection, USP 20 mg/4 mL (5 mg/mL) preservative-free 1 single-dose vial 0143-9183-01 Carton of 10 vials 0143-9183-10"
+  ],
+  "how_supplied_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"1\"><col width=\"108.3pt\"/><col width=\"108.3pt\"/><col width=\"95.1pt\"/><col width=\"95.1pt\"/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Product</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Package</content></paragraph></td><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">NDC Number</content></paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Sodium Chloride Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>100 mg/100 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9363-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9363-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Sodium Chloride Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>200 mg/200 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9364-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9364-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Sodium Chloride Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>300 mg/300 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9365-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9365-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Dextrose Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>200 mg/200 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9366-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9366-10</paragraph></td></tr></tbody></table>",
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"1\"><col width=\"132.2pt\"/><col width=\"93.75pt\"/><col width=\"115.1pt\"/><col width=\"59.25pt\"/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Product</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Package</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">NDC Number</content></paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol Hydrochloride Injection, USP</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>10 mg/2 mL (5 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose prefilled syringe</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0641-6252-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Carton of 10 prefilled syringes</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0641-6252-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\">Labetalol Hydrochloride Injection, USP </td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>20 mg/4 mL (5 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\">1 single-dose vial</td><td styleCode=\" Botrule Toprule Lrule Rrule\">0143-9183-01</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">Carton of 10 vials</td><td styleCode=\" Botrule Toprule Lrule Rrule\">0143-9183-10</td></tr></tbody></table>",
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"1\"><col width=\"108.3pt\"/><col width=\"108.3pt\"/><col width=\"95.1pt\"/><col width=\"95.1pt\"/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Product</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Package</content></paragraph></td><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">NDC Number</content></paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Sodium Chloride Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>100 mg/100 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9363-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9363-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Sodium Chloride Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>200 mg/200 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9364-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9364-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Sodium Chloride Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>300 mg/300 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9365-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9365-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol HCl in Dextrose Injection</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>200 mg/200 mL (1 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose bag</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9366-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Box of 10 bags</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0143-9366-10</paragraph></td></tr></tbody></table>",
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"1\"><col width=\"132.2pt\"/><col width=\"93.75pt\"/><col width=\"115.1pt\"/><col width=\"59.25pt\"/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Product</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Package</content></paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">NDC Number</content></paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Labetalol Hydrochloride Injection, USP</paragraph></td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>10 mg/2 mL (5 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 single-dose prefilled syringe</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0641-6252-01</paragraph></td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Carton of 10 prefilled syringes</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>0641-6252-10</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\">Labetalol Hydrochloride Injection, USP </td><td rowspan=\"2\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>20 mg/4 mL (5 mg/mL) preservative-free</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\">1 single-dose vial</td><td styleCode=\" Botrule Toprule Lrule Rrule\">0143-9183-01</td></tr><tr><td styleCode=\" Botrule Toprule Lrule Rrule\">Carton of 10 vials</td><td styleCode=\" Botrule Toprule Lrule Rrule\">0143-9183-10</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "16.2 Storage Store at 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C to 30° C (59°F to 86° F) [see USP Controlled Room Temperature]. DO NOT FREEZE. PROTECT FROM LIGHT. Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection: Do not remove from overwrap until ready to use. Labetalol Hydrochloride Injection, USP, prefilled syringe and vial: Retain in carton until time of use."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise patients to remain supine and to proceed gradually in becoming ambulatory during and immediately following infusion (for up to 3 hours) of labetalol HCl injection. Inform patient to notify their healthcare provider if they experience symptoms of hypotension. Advise about the risk of hypoglycemia when Labetalol is given to patients who are fasting or who are vomiting. Inform patient to notify their healthcare provider if they experience symptoms of hypoglycemia. [ See Warnings and Precautions (5.6) ]. Distributed by Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 PIN539-WES/6 Revised: August 2024"
+  ],
+  "set_id": "99a715a0-4579-410c-b102-7ef6fab8db55",
+  "id": "d0e3d92d-d96e-4d5e-98ca-3d18a4bc82d8",
+  "effective_time": "20251219",
+  "version": "9"
+ }
+}

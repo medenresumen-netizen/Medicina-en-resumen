@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T18:19Z",
- "n": 377,
+ "updated": "2026-11-11T18:41Z",
+ "n": 384,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -597,6 +597,22 @@
    "set_id": "a60cc18b-0631-4cf0-b021-9f52224ece65",
    "application": [
     "NDA020702"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "atropina-iv",
+   "generic_en": "atropine sulfate",
+   "brand": [
+    "ATROPINE SULFATE"
+   ],
+   "manufacturer": [
+    "Accord Healthcare Inc."
+   ],
+   "effective_time": "20261020",
+   "set_id": "d5e07279-48ca-4f83-9633-299e65a7f821",
+   "application": [
+    "NDA214652"
    ],
    "n_candidates": 25
   },
@@ -1687,6 +1703,20 @@
    "n_candidates": 25
   },
   {
+   "id_es": "dexametasona-iv",
+   "generic_en": "dexamethasone sodium phosphate",
+   "brand": [
+    "DMT SUIK"
+   ],
+   "manufacturer": [
+    "Advanced Rx of Tennessee, LLC"
+   ],
+   "effective_time": "20251107",
+   "set_id": "43045630-8bf8-59ae-e063-6294a90a2ebe",
+   "application": [],
+   "n_candidates": 25
+  },
+  {
    "id_es": "dexametasona",
    "generic_en": "dexamethasone sodium phosphate",
    "brand": [
@@ -1715,6 +1745,22 @@
     "NDA206628"
    ],
    "n_candidates": 12
+  },
+  {
+   "id_es": "diazepam-iv",
+   "generic_en": "diazepam",
+   "brand": [
+    "Diazepam"
+   ],
+   "manufacturer": [
+    "Sagent Pharmaceuticals"
+   ],
+   "effective_time": "20260204",
+   "set_id": "7a912f1a-deee-46df-a8df-22a0afb06529",
+   "application": [
+    "ANDA218450"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "diazepam",
@@ -2321,6 +2367,22 @@
    "set_id": "2f715e4e-b269-b935-d2c9-003cb29770be",
    "application": [
     "NDA212909"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fenitoina-iv",
+   "generic_en": "phenytoin sodium",
+   "brand": [
+    "Phenytoin Sodium"
+   ],
+   "manufacturer": [
+    "ProPharma Distribution"
+   ],
+   "effective_time": "20251107",
+   "set_id": "43060ca9-58a7-3371-e063-6294a90a5799",
+   "application": [
+    "ANDA084307"
    ],
    "n_candidates": 25
   },
@@ -3395,6 +3457,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "labetalol-iv",
+   "generic_en": "labetalol hydrochloride",
+   "brand": [
+    "Labetalol Hydrochloride"
+   ],
+   "manufacturer": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "effective_time": "20251219",
+   "set_id": "99a715a0-4579-410c-b102-7ef6fab8db55",
+   "application": [
+    "NDA213330"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "labetalol",
    "generic_en": "labetalol",
    "brand": [
@@ -4147,6 +4225,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "naloxona-iv",
+   "generic_en": "naloxone hydrochloride",
+   "brand": [
+    "Naloxone Hydrochloride"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20250731",
+   "set_id": "201fdedf-1736-4e52-9d7d-de14292547fd",
+   "application": [
+    "ANDA213573"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "naloxona",
    "generic_en": "naloxone",
    "brand": [
@@ -4191,6 +4285,22 @@
    "set_id": "8b8ad213-1dc8-454e-a524-075685c0e1a8",
    "application": [
     "NDA021742"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nicardipino-iv",
+   "generic_en": "nicardipine hydrochloride",
+   "brand": [
+    "CARDENE IV"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20251229",
+   "set_id": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+   "application": [
+    "NDA019734"
    ],
    "n_candidates": 25
   },

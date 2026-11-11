@@ -1,0 +1,741 @@
+{
+ "id_es": "nicardipino-iv",
+ "generic_en": "nicardipine hydrochloride",
+ "search": "brand:CARDENE",
+ "pref": "nicardipine hydrochloride|INTRAVENOUS|CARDENE",
+ "downloaded": "2026-11-11T18:41Z",
+ "chosen": {
+  "set_id": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+  "id": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+  "effective_time": "20251229",
+  "version": "1",
+  "brand_name": [
+   "CARDENE IV"
+  ],
+  "generic_name": [
+   "NICARDIPINE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Baxter Healthcare Corporation"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA019734"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "6fd1dafe-4b51-49c7-bce1-c4295b2bd292",
+   "id": "e0c21d94-9c67-43e5-8bf5-0ad9fb0d0f7a",
+   "effective_time": "20260907",
+   "version": "4",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219334"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "372a4381-7302-4df7-81bb-a9521907f867",
+   "id": "e47a5b80-6fcf-4cbf-8ca2-965a60f7d926",
+   "effective_time": "20260810",
+   "version": "5",
+   "brand_name": [
+    "nicardipine hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216819"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "8e8611e0-7d8c-4f30-b53a-76c6588b6ef7",
+   "id": "5833fe99-45b9-5677-e063-6394a90a7076",
+   "effective_time": "20260804",
+   "version": "3",
+   "brand_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216420"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d",
+   "id": "e1b14bfc-7eb1-4cc1-87fa-21f7e828cb85",
+   "effective_time": "20260731",
+   "version": "2",
+   "brand_name": [
+    "Nicardipine Hydrochloride in Sodium Chloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203978"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "575c5dab-e832-192a-e063-6294a90a34a1",
+   "id": "575c5db5-2aed-1948-e063-6294a90a34a0",
+   "effective_time": "20260724",
+   "version": "1",
+   "brand_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Amerisyn LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215377"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "9383f1dc-0310-4c87-a8f0-48c09a85d89b",
+   "id": "30b239fa-8a86-4f5d-b6b5-48e2ade1b95d",
+   "effective_time": "20260625",
+   "version": "2",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Caplin Steriles Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220243"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "b0e2bed3-f928-43ab-a05c-275bedc9856f",
+   "id": "81fbc156-3cdc-4088-84fd-2d2bf30ebc66",
+   "effective_time": "20260424",
+   "version": "3",
+   "brand_name": [
+    "Nicardipine hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lifestar Pharma LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090671"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "f8b49f59-7a54-425d-9eca-dfa4022a08d1",
+   "id": "035cb7ef-c5d5-4752-8d43-61b8e8420330",
+   "effective_time": "20260420",
+   "version": "2",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220243"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+   "id": "bf4088a4-3cf9-4963-bfdd-79a641a552d7",
+   "effective_time": "20260413",
+   "version": "11",
+   "brand_name": [
+    "Cardene IV"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019734"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "a3e33add-0d09-423a-9109-42e5ba7148d5",
+   "id": "122d15ac-142d-495b-99a6-45d76155f03c",
+   "effective_time": "20260413",
+   "version": "12",
+   "brand_name": [
+    "CARDENE IV"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019734"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e",
+   "id": "29b8dd22-cb60-44ee-b715-3f185a1118a7",
+   "effective_time": "20260327",
+   "version": "18",
+   "brand_name": [
+    "CARDENE IV"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019734"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "cdafe6cc-b03e-4e72-9d0a-6baa977149d6",
+   "id": "457af9c7-009c-4323-88fb-eb3b3a8e4b62",
+   "effective_time": "20260306",
+   "version": "3",
+   "brand_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217548"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "3955d43d-a87f-4d2c-b90e-3ecf0d6aa148",
+   "id": "eb131915-222b-49d9-8e66-cd0f0afd066c",
+   "effective_time": "20260129",
+   "version": "3",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Glenmark Pharmaceuticals Inc., USA"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216357"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "edda985c-004e-4487-b856-13cf2cdb900f",
+   "id": "3833f906-a53d-44ee-a0a2-17e6bee1d676",
+   "effective_time": "20260108",
+   "version": "1",
+   "brand_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Amici Pharma Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215377"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+   "id": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+   "effective_time": "20251229",
+   "version": "1",
+   "brand_name": [
+    "CARDENE IV"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019734"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "c576c9d5-853b-4e93-be6c-3579dfa5564c",
+   "id": "b5132d2b-418f-461f-9270-de5c89e2a514",
+   "effective_time": "20251229",
+   "version": "1",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219608"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "d1e275b8-c71a-4e8b-bca0-cfea048b5343",
+   "id": "351989dc-ac50-4cf7-a21e-1d70f5a3900c",
+   "effective_time": "20251222",
+   "version": "5",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074670"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "433dbca3-0a86-44c2-835d-1051c1c93878",
+   "id": "434901d7-2140-d6d8-e063-6394a90a07c4",
+   "effective_time": "20251110",
+   "version": "5",
+   "brand_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Chengdu Shuode Pharmaceutical Co., Ltd"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217548"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "7433b5cd-9c3a-428a-bcaf-00f02cd52633",
+   "id": "ea3b2399-f7da-417a-aa1d-b4525235b820",
+   "effective_time": "20250423",
+   "version": "9",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Qilu Pharmaceutical Co., Ltd."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219608"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "570af1f8-6718-4b40-ae89-0f738d330ebd",
+   "id": "d477e259-4e07-433c-b230-d3dd63331866",
+   "effective_time": "20250408",
+   "version": "4",
+   "brand_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cipla USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215592"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "9d898911-d811-2a78-e053-2995a90af784",
+   "id": "2b39b839-0c80-de03-e063-6294a90a243e",
+   "effective_time": "20250108",
+   "version": "3",
+   "brand_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022276"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "d0070638-bea5-413a-8658-4c752c6104f5",
+   "id": "28899230-4ee7-c689-e063-6294a90a1b6c",
+   "effective_time": "20241205",
+   "version": "2",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Archis Pharma LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090664"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "7bed5d8c-30c2-4598-acf3-2edba825a56d",
+   "id": "261ba7ea-d55b-1ba9-e063-6394a90a4c8c",
+   "effective_time": "20241104",
+   "version": "2",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bionpharma Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217555"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "18fb1c2b-0c1e-436c-a5b6-d4840b5da228",
+   "id": "299a0b28-ebf0-4753-983d-b9a16158d83c",
+   "effective_time": "20240824",
+   "version": "13",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022276"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "7226a518-164b-4755-9624-1cc75c939063",
+   "id": "a935edd9-4154-42a4-b769-0824200959e7",
+   "effective_time": "20240404",
+   "version": "1",
+   "brand_name": [
+    "Nicardipine Hydrochloride"
+   ],
+   "generic_name": [
+    "NICARDIPINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Armas Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216420"
+   ],
+   "n_sections": 28
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE • CARDENE I.V. is a calcium channel blocker indicated for the short-term treatment of hypertension when oral therapy is not feasible. ( 1.1 ) 1.1 Hypertension CARDENE I.V. (nicardipine hydrochloride) is indicated for the short-term treatment of hypertension when oral therapy is not feasible or not desirable. For prolonged control of blood pressure, transfer patients to oral medication as soon as their clinical condition permits [see Dosage and Administration (2.1) ] ."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • For Intravenous Use. ( 2.1 ) • Single-dose vials must be diluted before use. ( 2.3 ) • When substituting for oral nicardipine therapy, use the intravenous infusion rate from the table below ( 2.1 ): Oral CARDENE Dose Equivalent I.V. Infusion Rate (0.1 mg/mL) 20 mg q8h 0.5 mg/hr = 5 mL/hr 30 mg q8h 1.2 mg/hr = 12 mL/hr 40 mg q8h 2.2 mg/hr = 22 mL/hr • In a patient not receiving oral nicardipine, initiate therapy at 50 mL/hr (5 mg/hr) 0.1 mg/mL solution. Increase the infusion rate by 25 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr) until desired blood pressure reduction is achieved. ( 2.1 ) • If unacceptable hypotension or tachycardia occurs, discontinue the infusion. When blood pressure and heart rate stabilize, restart the infusion at low doses such as 30 mL/hr to 50 mL/hr (3 mg/hr to 5 mg/hr). ( 2.2 ) 2.1 Recommended Dosing CARDENE I.V. is intended for intravenous use. Vial must be diluted to 0.1 mg/mL before use [see Dosage and Administration (2.3 )] . Titrate dose to achieve the desired blood pressure reduction. Individualize dosage depending on the blood pressure to be obtained and the response of the patient. Dosage as a Substitute for Oral Nicardipine Therapy The intravenous infusion rate required to produce an average plasma concentration equivalent to a given oral dose at steady state is shown in the following table: Oral CARDENE Dose Equivalent I.V. Infusion Rate (0.1 mg/mL) 20 mg q8h 0.5 mg/hr = 5 mL/hr 30 mg q8h 1.2 mg/hr = 12 mL/hr 40 mg q8h 2.2 mg/hr = 22 mL/hr Dosage for Initiation of Therapy in a Patient Not Receiving Oral Nicardipine Initiate therapy at 50 mL/hr (5 mg/hr). If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved. Following achievement of the blood pressure goal utilizing rapid titration, decrease the infusion rate to 30 mL/hr (3 mg/hr). Drug Discontinuation and Transition to an Oral Antihypertensive Agent Discontinuation of infusion is followed by a 50% offset of action in about 30 minutes. If treatment includes transfer to an oral antihypertensive agent other than oral nicardipine, initiate therapy upon discontinuation of CARDENE I.V. If oral nicardipine is to be used, administer the first dose 1 hour prior to discontinuation of the infusion. Special Populations Titrate CARDENE I.V. slowly in patients with heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.2 , 5.3 and 5.4) ] 2.2 Monitoring The time course of blood pressure decrease is dependent on the initial rate of infusion and the frequency of dosage adjustment. With constant infusion, blood pressure begins to fall within minutes. It reaches about 50% of its ultimate decrease in about 45 minutes. Monitor blood pressure and heart rate continually during infusion and avoid too rapid or excessive blood pressure drop during treatment. If there is concern of impending hypotension or tachycardia, the infusion should be discontinued. Then, when blood pressure has stabilized, infusion of CARDENE I.V. may be restarted at low doses such as 30 mL/hr to 50 mL/hr (3 mg/hr to 5 mg/hr) and adjusted to maintain desired blood pressure. 2.3 Instructions for Administration Administer CARDENE I.V. by a central line or through a large peripheral vein. Change the infusion site every 12 hours if administered via peripheral vein [see Warnings and Precautions (5.5) ]. Preparation for administration Single-dose vial must be diluted before infusion. Inspection As with all parenteral drugs, CARDENE I.V. should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. CARDENE I.V. is normally a clear, pale yellow to yellow color solution and essentially, free from visible particles. Dilution CARDENE I.V. is administered by slow continuous infusion at a CONCENTRATION OF 0.1 MG/ML. Each vial (25 mg) should be diluted with 240 mL of compatible intravenous fluid (see below), resulting in 250 mL of solution at a concentration of 0.1 mg/mL. CARDENE I.V. has been found to be compatible and stable in glass or polyvinyl chloride containers for 24 hours at controlled room temperature with: • Dextrose (5%) Injection, USP • Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP • Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP • Dextrose (5%) with 40 mEq Potassium, USP • Sodium Chloride (0.45%) Injection, USP • Sodium Chloride (0.9%) Injection, USP CARDENE I.V. is NOT compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer’s Injection, USP. The diluted solution is stable for 24 hours at room temperature."
+  ],
+  "dosage_and_administration_table": [
+   "<table styleCode=\"Noautorules\" width=\"100%\"><col width=\"18%\"/><col width=\"25%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Oral CARDENE Dose</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"ordered\"><item><caption> </caption><content styleCode=\"bold\">Equivalent I.V. Infusion Rate </content></item></list><paragraph><content styleCode=\"bold\">(0.1 mg/mL)</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"bottom\"><paragraph>20 mg q8h</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>0.5 mg/hr = 5 mL/hr</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"bottom\"><paragraph>30 mg q8h</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>1.2 mg/hr = 12 mL/hr</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph>40 mg q8h</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph>2.2 mg/hr = 22 mL/hr</paragraph></td></tr></tbody></table>",
+   "<table width=\"100%\"><col width=\"22%\"/><col width=\"30%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Oral CARDENE Dose</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><list listType=\"ordered\"><item><caption> </caption><content styleCode=\"bold\">Equivalent I.V. Infusion Rate</content></item></list><paragraph><content styleCode=\"bold\">(0.1 mg/mL)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>20 mg q8h</paragraph></td><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>0.5 mg/hr = 5 mL/hr</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>30 mg q8h</paragraph></td><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>1.2 mg/hr = 12 mL/hr</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>40 mg q8h</paragraph></td><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>2.2 mg/hr = 22 mL/hr</paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection: Nicardipine hydrochloride is a clear, pale yellow to yellow color solution supplied as 25 mg/10 mL (2.5 mg/mL) in a single-dose vial for intravenous infusion. Injection: 25 mg/10 mL (2.5 mg/mL) nicardipine hydrochloride in a single-dose vial for intravenous infusion. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS • Do not use in patients with advanced aortic stenosis ( 4.1 ). 4.1 Advanced Aortic Stenosis CARDENE I.V. is contraindicated in patients with advanced aortic stenosis because part of the effect of CARDENE I.V. is secondary to reduced afterload. Reduction of diastolic pressure in these patients may worsen rather than improve myocardial oxygen balance."
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Closely monitor response in patients with angina, heart failure, impaired hepatic function, or renal impairment. ( 5.1 , 5.2 , 5.3 , 5.4 ) • To reduce the possibility of venous thrombosis, phlebitis, and vascular impairment, do not use small veins, such as those on the dorsum of the hand or wrist. Exercise extreme care to avoid intra-arterial administration or extravasation. ( 5.5 ) • To minimize the risk of peripheral venous irritation, change the site of infusion of CARDENE I.V. every 12 hours. ( 5.5 ) 5.1 Exacerbation of Angina Increases in frequency, duration, or severity of angina have been seen in chronic therapy with oral nicardipine. Induction or exacerbation of angina has been seen in less than 1% of coronary artery disease patients treated with CARDENE I.V. The mechanism of this effect has not been established. 5.2 Exacerbation of Heart Failure Titrate slowly when using CARDENE I.V., particularly in combination with a beta-blocker, in patients with heart failure or significant left ventricular dysfunction because of possible negative inotropic effects. 5.3 Increased effect with Impaired Hepatic Function Since nicardipine is metabolized in the liver, consider lower dosages and closely monitor responses in patients with impaired liver function or reduced hepatic blood flow. 5.4 Prolonged effect with Impaired Renal Function When CARDENE I.V. was given to mild to moderate hypertensive patients with moderate renal impairment, a significantly lower systemic clearance and higher area under the curve (AUC) was observed. These results are consistent with those seen after oral administration of nicardipine. Titrate gradually in patients with renal impairment. 5.5 Local Irritation To reduce the possibility of venous thrombosis, phlebitis, local irritation, swelling, extravasation, and the occurrence of vascular impairment, administer drug through large peripheral veins or central veins rather than arteries or small peripheral veins, such as those on the dorsum of the hand or wrist. To minimize the risk of peripheral venous irritation, change the site of the drug infusion every 12 hours."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Most common adverse reactions: are headache (15%), hypotension (6%), tachycardia (4%) and nausea/vomiting (5%). ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare Corporation at 1-866-888-2472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates. Two hundred forty-four patients participated in two multicenter, double-blind, placebo-controlled trials of CARDENE I.V. Adverse experiences were generally not serious and most were expected consequences of vasodilation. Adverse experiences occasionally required dosage adjustment. Therapy was discontinued in approximately 12% of patients, mainly due to hypotension, headache, and tachycardia. The table below shows percentage of patients with adverse events where the rate is >3% more common on CARDENE I.V. than placebo. Adverse Event CARDENE I.V. (N=144) Placebo (N=100) Body as a Whole Headache, n (%) 21 (15) 2 (2) Cardiovascular Hypotension, n (%) 8 (6) 1 (1) Tachycardia, n (%) 5 (4) 0 Digestive Nausea/vomiting, n (%) 7 (5) 1 (1) Other adverse events have been reported in clinical trials or in the literature in association with the use of intravenously administered nicardipine: Body as a Whole: fever, neck pain Cardiovascular: angina pectoris, atrioventricular block, ST segment depression, inverted T wave, deep-vein thrombophlebitis Digestive : dyspepsia Hemic and Lymphatic: thrombocytopenia Metabolic and Nutritional: hypophosphatemia, peripheral edema Nervous: confusion, hypertonia Respiratory: respiratory disorder Special Senses: conjunctivitis, ear disorder, tinnitus Urogenital: urinary frequency Sinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine. 6.2 Postmarketing Experience Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure. The following adverse reaction has been identified during post-approval use of CARDENE I.V.: decreased oxygen saturation (possible pulmonary shunting)."
+  ],
+  "adverse_reactions_table": [
+   "<table styleCode=\"Noautorules\" width=\"83.5%\"><col width=\"35%\"/><col width=\"30%\"/><col width=\"30%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Adverse Event</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">CARDENE I.V. (N=144)</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Placebo (N=100)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Body as a Whole</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"/><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"/></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Headache, n (%)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>21 (15)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>2 (2)</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Cardiovascular</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"/><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"/></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Hypotension, n (%)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>8 (6)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>1 (1)</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Tachycardia, n (%)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>5 (4)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph>0</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Digestive</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"/><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"/></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Nausea/vomiting, n (%)</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph>7 (5)</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph>1 (1)</paragraph></td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS • Cimetidine increases oral nicardipine plasma levels. ( 7.2 ) • Oral or intravenous nicardipine may increase cyclosporine and tacrolimus plasma levels. Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended when co-administering CARDENE I.V. ( 7.3 , 7.4 ) 7.1 Beta-Blockers In most patients, CARDENE I.V. can safely be used concomitantly with beta blockers. However, titrate slowly when using CARDENE I.V. in combination with a beta-blocker in heart failure patients [see Warnings and Precautions (5.2) ]. 7.2 Cimetidine Cimetidine has been shown to increase nicardipine plasma concentrations with oral nicardipine administration. Frequently monitor response in patients receiving both drugs. Data with other histamine-2 antagonists are not available. 7.3 Cyclosporine Concomitant administration of oral or intravenous nicardipine and cyclosporine results in elevated plasma cyclosporine levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Closely monitor plasma concentrations of cyclosporine during CARDENE I.V. administration, and reduce the dose of cyclosporine accordingly. 7.4 Tacrolimus Concomitant administration of intravenous nicardipine and tacrolimus may result in elevated plasma tacrolimus levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Closely monitor plasma concentrations of tacrolimus during CARDENE I.V. administration, and adjust the dose of tacrolimus accordingly. 7.5 In Vitro Interaction The plasma protein binding of nicardipine was not altered when therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine, or naproxen were added to human plasma in vitro ."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS • Pregnancy: Based on animal data may cause fetal harm. ( 8.1 ) • Nursing mothers: Minimally excreted into human milk. ( 8.3 ) • Safety and efficacy in patients under the age of 18 have not been established. ( 8.4 ) 8.1 Pregnancy There are no adequate and well-controlled studies of nicardipine use in pregnant women. However, limited human data in pregnant women with preeclampsia or pre-term labor are available. In animal studies, no embryotoxicity occurred in rats with oral doses 8 times the maximum recommended human dose (MRHD) based on body surface area (mg/m 2 ), but did occur in rabbits with oral doses at 24 times the maximum recommended human dose (MRHD) based on body surface area (mg/m 2 ). CARDENE I.V. should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Hypotension, reflex tachycardia, postpartum hemorrhage, tocolysis, headache, nausea, dizziness, and flushing have been reported in pregnant women who were treated with intravenous nicardipine for hypertension during pregnancy. Fetal safety results ranged from transient fetal heart rate decelerations to no adverse events. Neonatal safety data ranged from hypotension to no adverse events. Adverse events in women treated with intravenous nicardipine during pre-term labor include pulmonary edema, dyspnea, hypoxia, hypotension, tachycardia, headache, and phlebitis at site of injection. Neonatal adverse events include acidosis (pH<7.25). In embryofetal toxicity studies, nicardipine was administered intravenously to pregnant rats and rabbits during organogenesis at doses up to 0.14 times the MRHD based on body surface area (mg/m 2 ) (5 mg/kg/day) (rats) and 0.03 times the MRHD based on body surface area (mg/m 2 ) (0.5 mg/kg/day) (rabbits). No embryotoxicity or teratogenicity was seen at these doses. Embryotoxicity, but no teratogenicity was seen at 0.27 times the MRHD based on body surface area (mg/m 2 ) (10 mg/kg/day) in rats and at 0.05 times the MRHD based on body surface area (mg/m 2 ) (1 mg/kg/day) in rabbits. In other animal studies, pregnant Japanese White rabbits received oral nicardipine during organogenesis, at doses 8 and 24 times the MRHD based on body surface area (mg/m 2 ) (50 and 150 mg/kg/day). Embryotoxicity occurred at the high dose along with signs of maternal toxicity (marked maternal weight gain suppression). New Zealand albino rabbits received oral nicardipine during organogenesis, at doses up to 16 times the MRHD based on body surface area (mg/m 2 )(100 mg nicardipine/kg/day). While significant maternal mortality occurred, no adverse effects on the fetus were observed. Pregnant rats received oral nicardipine from day 6 through day 15 of gestation at doses up to 8 times the MRHD based on body surface area (mg/m 2 ) (100 mg/kg/day). There was no evidence of embryotoxicity or teratogenicity; however, dystocia, reduced birth weights, reduced neonatal survival, and reduced neonatal weight gain were noted. 8.3 Nursing Mothers Nicardipine is minimally excreted into human milk. Among 18 infants exposed to nicardipine through breast milk in the postpartum period, calculated daily infant dose was less than 0.3 mcg and there were no adverse events observed. Consider the possibility of infant exposure when using nicardipine in nursing mothers. In a study of 11 women who received oral nicardipine 4 to 14 days postpartum, 4 women received immediate-release nicardipine 40 to 80 mg daily, 6 received sustained-release nicardipine 100 to 150 mg daily, and one received intravenous nicardipine 120 mg daily. The peak milk concentration was 7.3 mcg/L (range 1.9-18.8), and the mean milk concentration was 4.4 mcg/L (range 1.3-13.8). Infants received an average of 0.073% of the weight-adjusted maternal oral dose and 0.14% of the weight-adjusted maternal intravenous dose. In another study of seven women who received intravenous nicardipine for an average of 1.9 days in the immediate postpartum period as therapy for preeclampsia, 34 milk samples were obtained at unspecified times and nicardipine was undetectable (<5 mcg/L) in 82% of the samples. Four women who received 1 to 6.5 mg/hour of nicardipine had 6 milk samples with detectable nicardipine levels (range 5.1 to 18.5 mcg/L). The highest concentration of 18.5 mcg/L was found in a woman who received 5.5 mg/hour of nicardipine. The estimated maximum dose in a breastfed infant was < 0.3 mcg daily or between 0.015 to 0.004% of the therapeutic dose in a 1 kg infant. 8.4 Pediatric Use Safety and efficacy in patients under the age of 18 have not been established. 8.5 Geriatric Use The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (>65 years) and young healthy adults. Clinical studies of nicardipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, use low initial doses in elderly patients, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy There are no adequate and well-controlled studies of nicardipine use in pregnant women. However, limited human data in pregnant women with preeclampsia or pre-term labor are available. In animal studies, no embryotoxicity occurred in rats with oral doses 8 times the maximum recommended human dose (MRHD) based on body surface area (mg/m 2 ), but did occur in rabbits with oral doses at 24 times the maximum recommended human dose (MRHD) based on body surface area (mg/m 2 ). CARDENE I.V. should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Hypotension, reflex tachycardia, postpartum hemorrhage, tocolysis, headache, nausea, dizziness, and flushing have been reported in pregnant women who were treated with intravenous nicardipine for hypertension during pregnancy. Fetal safety results ranged from transient fetal heart rate decelerations to no adverse events. Neonatal safety data ranged from hypotension to no adverse events. Adverse events in women treated with intravenous nicardipine during pre-term labor include pulmonary edema, dyspnea, hypoxia, hypotension, tachycardia, headache, and phlebitis at site of injection. Neonatal adverse events include acidosis (pH<7.25). In embryofetal toxicity studies, nicardipine was administered intravenously to pregnant rats and rabbits during organogenesis at doses up to 0.14 times the MRHD based on body surface area (mg/m 2 ) (5 mg/kg/day) (rats) and 0.03 times the MRHD based on body surface area (mg/m 2 ) (0.5 mg/kg/day) (rabbits). No embryotoxicity or teratogenicity was seen at these doses. Embryotoxicity, but no teratogenicity was seen at 0.27 times the MRHD based on body surface area (mg/m 2 ) (10 mg/kg/day) in rats and at 0.05 times the MRHD based on body surface area (mg/m 2 ) (1 mg/kg/day) in rabbits. In other animal studies, pregnant Japanese White rabbits received oral nicardipine during organogenesis, at doses 8 and 24 times the MRHD based on body surface area (mg/m 2 ) (50 and 150 mg/kg/day). Embryotoxicity occurred at the high dose along with signs of maternal toxicity (marked maternal weight gain suppression). New Zealand albino rabbits received oral nicardipine during organogenesis, at doses up to 16 times the MRHD based on body surface area (mg/m 2 )(100 mg nicardipine/kg/day). While significant maternal mortality occurred, no adverse effects on the fetus were observed. Pregnant rats received oral nicardipine from day 6 through day 15 of gestation at doses up to 8 times the MRHD based on body surface area (mg/m 2 ) (100 mg/kg/day). There was no evidence of embryotoxicity or teratogenicity; however, dystocia, reduced birth weights, reduced neonatal survival, and reduced neonatal weight gain were noted."
+  ],
+  "nursing_mothers": [
+   "8.3 Nursing Mothers Nicardipine is minimally excreted into human milk. Among 18 infants exposed to nicardipine through breast milk in the postpartum period, calculated daily infant dose was less than 0.3 mcg and there were no adverse events observed. Consider the possibility of infant exposure when using nicardipine in nursing mothers. In a study of 11 women who received oral nicardipine 4 to 14 days postpartum, 4 women received immediate-release nicardipine 40 to 80 mg daily, 6 received sustained-release nicardipine 100 to 150 mg daily, and one received intravenous nicardipine 120 mg daily. The peak milk concentration was 7.3 mcg/L (range 1.9-18.8), and the mean milk concentration was 4.4 mcg/L (range 1.3-13.8). Infants received an average of 0.073% of the weight-adjusted maternal oral dose and 0.14% of the weight-adjusted maternal intravenous dose. In another study of seven women who received intravenous nicardipine for an average of 1.9 days in the immediate postpartum period as therapy for preeclampsia, 34 milk samples were obtained at unspecified times and nicardipine was undetectable (<5 mcg/L) in 82% of the samples. Four women who received 1 to 6.5 mg/hour of nicardipine had 6 milk samples with detectable nicardipine levels (range 5.1 to 18.5 mcg/L). The highest concentration of 18.5 mcg/L was found in a woman who received 5.5 mg/hour of nicardipine. The estimated maximum dose in a breastfed infant was < 0.3 mcg daily or between 0.015 to 0.004% of the therapeutic dose in a 1 kg infant."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and efficacy in patients under the age of 18 have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (>65 years) and young healthy adults. Clinical studies of nicardipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, use low initial doses in elderly patients, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Several overdosages with orally administered nicardipine have been reported. One adult patient allegedly ingested 600 mg of immediate-release oral nicardipine, and another patient, 2160 mg of the sustained-release formulation of nicardipine. Symptoms included marked hypotension, bradycardia, palpitations, flushing, drowsiness, confusion and slurred speech. All symptoms resolved without sequelae. An overdosage occurred in a one year old child who ingested half of the powder in a 30 mg nicardipine standard capsule. The child remained asymptomatic. Based on results obtained in laboratory animals, lethal overdose may cause systemic hypotension, bradycardia (following initial tachycardia) and progressive atrioventricular conduction block. Reversible hepatic function abnormalities and sporadic focal hepatic necrosis were noted in some animal species receiving very large doses of nicardipine. For treatment of overdosage, implement standard measures including monitoring of cardiac and respiratory functions. Position the patient so as to avoid cerebral anoxia. Use vasopressors for patients exhibiting profound hypotension."
+  ],
+  "description": [
+   "11 DESCRIPTION CARDENE I.V. (nicardipine hydrochloride) is a calcium ion influx inhibitor (slow channel blocker or calcium channel blocker). CARDENE I.V. for intravenous administration contains 20 mg (0.1 mg/mL) of nicardipine hydrochloride per 200 mL in either dextrose or sodium chloride or 40 mg (0.2 mg/mL) of nicardipine hydrochloride per 200 mL in sodium chloride. Nicardipine hydrochloride is a dihydropyridine derivative with IUPAC (International Union of Pure and Applied Chemistry) chemical name (±)-2-(benzyl-methyl amino) ethyl methyl 1,4-dihydro-2,6-dimethyl-4-(m-nitrophenyl)-3,5-pyridinedicarboxylate monohydrochloride and has the following structure: Nicardipine hydrochloride is a greenish-yellow, odorless, crystalline powder that melts at about 169ºC. It is freely soluble in chloroform, methanol, and glacial acetic acid, sparingly soluble in anhydrous ethanol, slightly soluble in n-butanol, water, 0.01 M potassium dihydrogen phosphate, acetone, and dioxane, very slightly soluble in ethyl acetate, and practically insoluble in benzene, ether, and hexane. It has a molecular weight of 515.99. CARDENE I.V. is available as sterile, non-pyrogenic, a clear, pale yellow to yellow color solution, and essentially free from visible particles, in 10 mL single-dose vial for intravenous infusion after dilution. Each mL contains 2.5 mg nicardipine hydrochloride, 1 mg ascorbic acid, 0.525 mg citric acid monohydrate, 0.09 mg sodium hydroxide and 48 mg sorbitol (neosorb PF). Citric acid monohydrate and/or sodium hydroxide may have been added to adjust pH to 3.0 to 4.2. Cardene Structural Formula"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Nicardipine inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels. The effects of nicardipine are more selective to vascular smooth muscle than cardiac muscle. In animal models, nicardipine produced relaxation of coronary vascular smooth muscle at drug levels which cause little or no negative inotropic effect. 12.2 Pharmacodynamics Hemodynamics CARDENE I.V. produces significant decreases in systemic vascular resistance. In a study of intra-arterially administered CARDENE I.V., the degree of vasodilation and the resultant decrease in blood pressure were more prominent in hypertensive patients than in normotensive volunteers. Administration of CARDENE I.V. to normotensive volunteers at dosages of 0.25 to 3 mg/hr for eight hours produced changes of <5 mmHg in systolic blood pressure and <3 mmHg in diastolic blood pressure. An increase in heart rate is a normal response to vasodilation and decrease in blood pressure; in some patients these increases in heart rate may be pronounced. In placebo-controlled trials, the mean increases in heart rate were 7 ± 1 bpm in postoperative patients and 8 ± 1 bpm in patients with severe hypertension at the end of the maintenance period. Hemodynamic studies following intravenous dosing in patients with coronary artery disease and normal or moderately abnormal left ventricular function have shown significant increases in ejection fraction and cardiac output with no significant change, or a small decrease, in left ventricular end-diastolic pressure (LVEDP). There is evidence that CARDENE I.V. increases blood flow. Coronary dilatation induced by CARDENE I.V. improves perfusion and aerobic metabolism in areas with chronic ischemia, resulting in reduced lactate production and augmented oxygen consumption. In patients with coronary artery disease, CARDENE I.V., administered after beta-blockade, significantly improved systolic and diastolic left ventricular function. In congestive heart failure patients with impaired left ventricular function, CARDENE I.V. increased cardiac output both at rest and during exercise. Decreases in left ventricular end-diastolic pressure were also observed. However, in some patients with severe left ventricular dysfunction, it may have a negative inotropic effect and could lead to worsened failure. “Coronary steal” has not been observed during treatment with CARDENE I.V. (Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from underperfused areas toward better perfused areas.) CARDENE I.V. has been shown to improve systolic shortening in both normal and hypokinetic segments of myocardial muscle. Radionuclide angiography has confirmed that wall motion remained improved during increased oxygen demand. (Occasional patients have developed increased angina upon receiving oral nicardipine. Whether this represents coronary steal in these patients, or is the result of increased heart rate and decreased diastolic pressure, is not clear.) In patients with coronary artery disease, CARDENE I.V. improves left ventricular diastolic distensibility during the early filling phase, probably due to a faster rate of myocardial relaxation in previously underperfused areas. There is little or no effect on normal myocardium, suggesting the improvement is mainly by indirect mechanisms such as afterload reduction and reduced ischemia. CARDENE I.V. has no negative effect on myocardial relaxation at therapeutic doses. The clinical benefits of these properties have not yet been demonstrated. Electrophysiologic Effects In general, no detrimental effects on the cardiac conduction system have been seen with CARDENE I.V. During acute electrophysiologic studies, it increased heart rate and prolonged the corrected QT interval to a minor degree. It did not affect sinus node recovery or SA conduction times. The PA, AH, and HV intervals* or the functional and effective refractory periods of the atrium were not prolonged. The relative and effective refractory periods of the His-Purkinje system were slightly shortened. *PA = conduction time from high to low right atrium; AH = conduction time from low right atrium to His bundle deflection, or AV nodal conduction time; HV = conduction time through the His bundle and the bundle branch-Purkinje system. Hepatic Function Because the liver extensively metabolizes nicardipine, plasma concentrations are influenced by changes in hepatic function. In a clinical study with oral nicardipine in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.3) ] . Similar results were obtained in patients with hepatic disease when CARDENE I.V. (nicardipine hydrochloride) was administered for 24 hours at 0.6 mg/hr. Renal Function When CARDENE I.V. was given to mild to moderate hypertensive patients with moderate degrees of renal impairment, significant reduction in glomerular filtration rate (GFR) and effective renal plasma flow (RPF) was observed. No significant differences in liver blood flow were observed in these patients. A significantly lower systemic clearance and higher area under the curve (AUC) were observed. When oral nicardipine (20 mg or 30 mg TID) was given to hypertensive patients with impaired renal function, mean plasma concentrations, AUC, and C max were approximately two-fold higher than in healthy controls. There is a transient increase in electrolyte excretion, including sodium [see Warnings and Precautions (5.4) ]. Acute bolus administration of CARDENE I.V. (2.5 mg) in healthy volunteers decreased mean arterial pressure and renal vascular resistance; glomerular filtration rate (GFR), renal plasma flow (RPF), and the filtration fraction were unchanged. In healthy patients undergoing abdominal surgery, CARDENE I.V. (10 mg over 20 minutes) increased GFR with no change in RPF when compared with placebo. In hypertensive type II diabetic patients with nephropathy, oral nicardipine (20 mg TID) did not change RPF and GFR, but reduced renal vascular resistance. Pulmonary Function In two well-controlled studies of patients with obstructive airway disease treated with oral nicardipine, no evidence of increased bronchospasm was seen. In one of the studies, oral nicardipine improved forced expiratory volume 1 second (FEV 1 ) and forced vital capacity (FVC) in comparison with metoprolol. Adverse experiences reported in a limited number of patients with asthma, reactive airway disease, or obstructive airway disease are similar to all patients treated with oral nicardipine. 12.3 Pharmacokinetics Distribution Rapid dose-related increases in nicardipine plasma concentrations are seen during the first two hours after the start of an infusion of CARDENE I.V. Plasma concentrations increase at a much slower rate after the first few hours, and approach steady state at 24 to 48 hours. The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (>65 years) and young healthy adults. On termination of the infusion, nicardipine concentrations decrease rapidly, with at least a 50% decrease during the first two hours post-infusion. The effects of nicardipine on blood pressure significantly correlate with plasma concentrations. Nicardipine is highly protein bound (>95%) in human plasma over a wide concentration range. Following infusion, nicardipine plasma concentrations decline tri-exponentially, with a rapid early distribution phase (α-half-life of 2.7 minutes), an intermediate phase (β-half-life of 44.8 minutes), and a slow terminal phase (γ-half-life of 14.4 hours) that can only be detected after long-term infusions. Total plasma clearance (Cl) is 0.4 L/hr•kg, and the apparent volume of distribution (V d ) using a non-compartment model is 8.3 L/kg. The pharmacokinetics of CARDENE I.V. are linear over the dosage range of 0.5 to 40 mg/hr. Metabolism and Excretion CARDENE I.V. has been shown to be rapidly and extensively metabolized by the hepatic cytochrome P450 enzymes, CYP2C8, 2D6, and 3A4. Nicardipine does not induce or inhibit its own metabolism, however, nicardipine has been shown to inhibit certain cytochrome P450 enzymes (including CYP3A4, CYP2D6, CYP2C8, and CYP2C19). Inhibition of these enzymes may result in increased plasma levels of certain drugs, including cyclosporine and tacrolimus (7.3, 7.4). The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment. After coadministration of a radioactive intravenous dose of CARDENE I.V. with an oral 30 mg dose given every 8 hours, 49% of the radioactivity was recovered in the urine and 43% in the feces within 96 hours. None of the dose was recovered as unchanged nicardipine."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Nicardipine inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels. The effects of nicardipine are more selective to vascular smooth muscle than cardiac muscle. In animal models, nicardipine produced relaxation of coronary vascular smooth muscle at drug levels which cause little or no negative inotropic effect."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Hemodynamics CARDENE I.V. produces significant decreases in systemic vascular resistance. In a study of intra-arterially administered CARDENE I.V., the degree of vasodilation and the resultant decrease in blood pressure were more prominent in hypertensive patients than in normotensive volunteers. Administration of CARDENE I.V. to normotensive volunteers at dosages of 0.25 to 3 mg/hr for eight hours produced changes of <5 mmHg in systolic blood pressure and <3 mmHg in diastolic blood pressure. An increase in heart rate is a normal response to vasodilation and decrease in blood pressure; in some patients these increases in heart rate may be pronounced. In placebo-controlled trials, the mean increases in heart rate were 7 ± 1 bpm in postoperative patients and 8 ± 1 bpm in patients with severe hypertension at the end of the maintenance period. Hemodynamic studies following intravenous dosing in patients with coronary artery disease and normal or moderately abnormal left ventricular function have shown significant increases in ejection fraction and cardiac output with no significant change, or a small decrease, in left ventricular end-diastolic pressure (LVEDP). There is evidence that CARDENE I.V. increases blood flow. Coronary dilatation induced by CARDENE I.V. improves perfusion and aerobic metabolism in areas with chronic ischemia, resulting in reduced lactate production and augmented oxygen consumption. In patients with coronary artery disease, CARDENE I.V., administered after beta-blockade, significantly improved systolic and diastolic left ventricular function. In congestive heart failure patients with impaired left ventricular function, CARDENE I.V. increased cardiac output both at rest and during exercise. Decreases in left ventricular end-diastolic pressure were also observed. However, in some patients with severe left ventricular dysfunction, it may have a negative inotropic effect and could lead to worsened failure. “Coronary steal” has not been observed during treatment with CARDENE I.V. (Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from underperfused areas toward better perfused areas.) CARDENE I.V. has been shown to improve systolic shortening in both normal and hypokinetic segments of myocardial muscle. Radionuclide angiography has confirmed that wall motion remained improved during increased oxygen demand. (Occasional patients have developed increased angina upon receiving oral nicardipine. Whether this represents coronary steal in these patients, or is the result of increased heart rate and decreased diastolic pressure, is not clear.) In patients with coronary artery disease, CARDENE I.V. improves left ventricular diastolic distensibility during the early filling phase, probably due to a faster rate of myocardial relaxation in previously underperfused areas. There is little or no effect on normal myocardium, suggesting the improvement is mainly by indirect mechanisms such as afterload reduction and reduced ischemia. CARDENE I.V. has no negative effect on myocardial relaxation at therapeutic doses. The clinical benefits of these properties have not yet been demonstrated. Electrophysiologic Effects In general, no detrimental effects on the cardiac conduction system have been seen with CARDENE I.V. During acute electrophysiologic studies, it increased heart rate and prolonged the corrected QT interval to a minor degree. It did not affect sinus node recovery or SA conduction times. The PA, AH, and HV intervals* or the functional and effective refractory periods of the atrium were not prolonged. The relative and effective refractory periods of the His-Purkinje system were slightly shortened. *PA = conduction time from high to low right atrium; AH = conduction time from low right atrium to His bundle deflection, or AV nodal conduction time; HV = conduction time through the His bundle and the bundle branch-Purkinje system. Hepatic Function Because the liver extensively metabolizes nicardipine, plasma concentrations are influenced by changes in hepatic function. In a clinical study with oral nicardipine in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.3) ] . Similar results were obtained in patients with hepatic disease when CARDENE I.V. (nicardipine hydrochloride) was administered for 24 hours at 0.6 mg/hr. Renal Function When CARDENE I.V. was given to mild to moderate hypertensive patients with moderate degrees of renal impairment, significant reduction in glomerular filtration rate (GFR) and effective renal plasma flow (RPF) was observed. No significant differences in liver blood flow were observed in these patients. A significantly lower systemic clearance and higher area under the curve (AUC) were observed. When oral nicardipine (20 mg or 30 mg TID) was given to hypertensive patients with impaired renal function, mean plasma concentrations, AUC, and C max were approximately two-fold higher than in healthy controls. There is a transient increase in electrolyte excretion, including sodium [see Warnings and Precautions (5.4) ]. Acute bolus administration of CARDENE I.V. (2.5 mg) in healthy volunteers decreased mean arterial pressure and renal vascular resistance; glomerular filtration rate (GFR), renal plasma flow (RPF), and the filtration fraction were unchanged. In healthy patients undergoing abdominal surgery, CARDENE I.V. (10 mg over 20 minutes) increased GFR with no change in RPF when compared with placebo. In hypertensive type II diabetic patients with nephropathy, oral nicardipine (20 mg TID) did not change RPF and GFR, but reduced renal vascular resistance. Pulmonary Function In two well-controlled studies of patients with obstructive airway disease treated with oral nicardipine, no evidence of increased bronchospasm was seen. In one of the studies, oral nicardipine improved forced expiratory volume 1 second (FEV 1 ) and forced vital capacity (FVC) in comparison with metoprolol. Adverse experiences reported in a limited number of patients with asthma, reactive airway disease, or obstructive airway disease are similar to all patients treated with oral nicardipine."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Distribution Rapid dose-related increases in nicardipine plasma concentrations are seen during the first two hours after the start of an infusion of CARDENE I.V. Plasma concentrations increase at a much slower rate after the first few hours, and approach steady state at 24 to 48 hours. The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (>65 years) and young healthy adults. On termination of the infusion, nicardipine concentrations decrease rapidly, with at least a 50% decrease during the first two hours post-infusion. The effects of nicardipine on blood pressure significantly correlate with plasma concentrations. Nicardipine is highly protein bound (>95%) in human plasma over a wide concentration range. Following infusion, nicardipine plasma concentrations decline tri-exponentially, with a rapid early distribution phase (α-half-life of 2.7 minutes), an intermediate phase (β-half-life of 44.8 minutes), and a slow terminal phase (γ-half-life of 14.4 hours) that can only be detected after long-term infusions. Total plasma clearance (Cl) is 0.4 L/hr•kg, and the apparent volume of distribution (V d ) using a non-compartment model is 8.3 L/kg. The pharmacokinetics of CARDENE I.V. are linear over the dosage range of 0.5 to 40 mg/hr. Metabolism and Excretion CARDENE I.V. has been shown to be rapidly and extensively metabolized by the hepatic cytochrome P450 enzymes, CYP2C8, 2D6, and 3A4. Nicardipine does not induce or inhibit its own metabolism, however, nicardipine has been shown to inhibit certain cytochrome P450 enzymes (including CYP3A4, CYP2D6, CYP2C8, and CYP2C19). Inhibition of these enzymes may result in increased plasma levels of certain drugs, including cyclosporine and tacrolimus (7.3, 7.4). The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment. After coadministration of a radioactive intravenous dose of CARDENE I.V. with an oral 30 mg dose given every 8 hours, 49% of the radioactivity was recovered in the urine and 43% in the feces within 96 hours. None of the dose was recovered as unchanged nicardipine."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Rats treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of 5, 15, or 45 mg/kg/day) for two years showed a dose-dependent increase in thyroid hyperplasia and neoplasia (follicular adenoma/carcinoma). One- and three-month studies in the rat have suggested that these results are linked to a nicardipine-induced reduction in plasma thyroxine (T4) levels with a consequent increase in plasma levels of thyroid stimulating hormone (TSH). Chronic elevation of TSH is known to cause hyperstimulation of the thyroid. In rats on an iodine deficient diet, nicardipine administration for one month was associated with thyroid hyperplasia that was prevented by T4 supplementation. Mice treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of up to 100 mg/kg/day) for up to 18 months showed no evidence of neoplasia of any tissue and no evidence of thyroid changes. There was no evidence of thyroid pathology in dogs treated with up to 25 mg nicardipine/kg/day for one year and no evidence of effects of nicardipine on thyroid function (plasma T4 and TSH) in man. There was no evidence of a mutagenic potential of nicardipine in a battery of genotoxicity tests conducted on microbial indicator organisms, in micronucleus tests in mice and hamsters, or in a sister chromatid exchange study in hamsters. No impairment of fertility was seen in male or female rats administered nicardipine at oral doses as high as 100 mg/kg/day (human equivalent dose about 16 mg/kg/day, 8 times the maximum recommended oral dose). 13.3 Reproductive and Developmental Toxicology Embryotoxicity, but no teratogenicity, was seen at intravenous doses of 10 mg nicardipine/kg/day in rats and 1 mg/kg/day in rabbits. These doses in the rat and rabbit are equivalent to human IV doses of about 1.6 mg/kg/day and 0.32 mg/kg/day respectively. (The total daily human dose delivered by a continuous IV infusion ranges from 1.2 to 6 mg/kg/day, depending on duration at different infusion rates ranging from 3 to 15 mg/hr as individual patients are titrated for optimal results.) Nicardipine was also embryotoxic when administered orally to pregnant Japanese White rabbits, during organogenesis, at 150 mg/kg/day (a dose associated with marked body weight gain suppression in the treated doe), but not at 50 mg/kg/day (human equivalent dose about 16 mg/kg/day or about 8 times the maximum recommended human oral dose). No adverse effects on the fetus were observed when New Zealand albino rabbits were treated orally, during organogenesis, with up to 100 mg nicardipine/kg/day (a dose associated with significant mortality in the treated doe). In pregnant rats administered nicardipine orally at doses of up to 100 mg/kg/day (human equivalent dose about 16 mg/kg/day) there was no evidence of embryotoxicity or teratogenicity. However, dystocia, reduced birth weight, reduced neonatal survival and reduced neonatal weight gain were noted."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Rats treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of 5, 15, or 45 mg/kg/day) for two years showed a dose-dependent increase in thyroid hyperplasia and neoplasia (follicular adenoma/carcinoma). One- and three-month studies in the rat have suggested that these results are linked to a nicardipine-induced reduction in plasma thyroxine (T4) levels with a consequent increase in plasma levels of thyroid stimulating hormone (TSH). Chronic elevation of TSH is known to cause hyperstimulation of the thyroid. In rats on an iodine deficient diet, nicardipine administration for one month was associated with thyroid hyperplasia that was prevented by T4 supplementation. Mice treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of up to 100 mg/kg/day) for up to 18 months showed no evidence of neoplasia of any tissue and no evidence of thyroid changes. There was no evidence of thyroid pathology in dogs treated with up to 25 mg nicardipine/kg/day for one year and no evidence of effects of nicardipine on thyroid function (plasma T4 and TSH) in man. There was no evidence of a mutagenic potential of nicardipine in a battery of genotoxicity tests conducted on microbial indicator organisms, in micronucleus tests in mice and hamsters, or in a sister chromatid exchange study in hamsters. No impairment of fertility was seen in male or female rats administered nicardipine at oral doses as high as 100 mg/kg/day (human equivalent dose about 16 mg/kg/day, 8 times the maximum recommended oral dose)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES Effects In Hypertension In patients with mild to moderate chronic stable essential hypertension, CARDENE I.V. (0.5 to 4 mg/hr) produced dose-dependent decreases in blood pressure. At the end of a 48-hour infusion at 4 mg/hr, the decreases were 26 mmHg (17%) in systolic blood pressure and 20.7 mmHg (20%) in diastolic blood pressure. In other settings (e.g., patients with severe or postoperative hypertension), CARDENE I.V. (5 to 15 mg/hr) produced dose-dependent decreases in blood pressure. Higher infusion rates produced therapeutic responses more rapidly. The mean time to therapeutic response for severe hypertension, defined as diastolic blood pressure ≤95 mmHg or ≥25 mmHg decrease and systolic blood pressure ≤160 mmHg, was 77 ± 5.2 minutes. The average maintenance dose was 8 mg/hr. The mean time to therapeutic response for postoperative hypertension, defined as ≥15% reduction in diastolic or systolic blood pressure, was 11.5 ± 0.8 minutes. The average maintenance dose was 3 mg/hr."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied CARDENE I.V. (nicardipine hydrochloride) injection is clear, pale yellow to yellow color solution supplied as 25 mg/10 mL (2.5 mg/mL) single-dose vial for intravenous infusion after dilution, is available as below: Strength NDC Number Package Size 25 mg/10 mL (2.5 mg/mL) NDC 43066-029-01 10 mL Single-Dose Vial NDC 43066-029-10 10 Single-Dose Vials in carton 16.2 Storage and Handling Store at controlled room temperature 20° C to 25° C (68° F to 77° F), refer to USP Controlled Room Temperature. Protect from light, store vials in carton until ready to use. Discard unused portion."
+  ],
+  "how_supplied_table": [
+   "<table styleCode=\"Noautorules\" width=\"91.16%\"><col width=\"37%\"/><col width=\"32%\"/><col width=\"32%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Strength</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>NDC Number</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Package Size</paragraph></td></tr><tr><td rowspan=\"2\" styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">25 mg/10 mL (2.5 mg/mL)</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 43066-029-01</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>10 mL Single-Dose Vial</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>NDC 43066-029-10</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>10 Single-Dose Vials in carton</paragraph></td></tr></tbody></table>"
+  ],
+  "set_id": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+  "id": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+  "effective_time": "20251229",
+  "version": "1"
+ }
+}

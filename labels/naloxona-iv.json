@@ -1,0 +1,770 @@
+{
+ "id_es": "naloxona-iv",
+ "generic_en": "naloxone hydrochloride",
+ "search": "openfda.generic_name.exact:\"NALOXONE HYDROCHLORIDE\"",
+ "pref": "naloxone hydrochloride|INTRAVENOUS|",
+ "downloaded": "2026-11-11T18:41Z",
+ "chosen": {
+  "set_id": "201fdedf-1736-4e52-9d7d-de14292547fd",
+  "id": "6503f42d-3303-497a-9653-4b6d89bf7833",
+  "effective_time": "20250731",
+  "version": "5",
+  "brand_name": [
+   "Naloxone Hydrochloride"
+  ],
+  "generic_name": [
+   "NALOXONE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Fresenius Kabi USA, LLC"
+  ],
+  "route": [
+   "INTRAMUSCULAR",
+   "INTRAVENOUS",
+   "SUBCUTANEOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA213573"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "d39635a4-ddb3-4d32-8211-eb84c78e9f59",
+   "id": "a035d31b-b121-4913-bf37-4615a6acd0c6",
+   "effective_time": "20261105",
+   "version": "6",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070172"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "ddeebc32-9aab-4a2f-8c87-74335d17d5ef",
+   "id": "2a924559-e0aa-4490-af43-88f465444ad1",
+   "effective_time": "20261105",
+   "version": "2",
+   "brand_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218404"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "5b13a13f-6ec8-41eb-b216-e43ffd68f01e",
+   "id": "5f4ae3c9-f3ba-dcab-e063-6394a90abe2c",
+   "effective_time": "20261102",
+   "version": "1",
+   "brand_name": [
+    "naloxone hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218404"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "b59ee3cc-9604-4abc-81be-897e2f42aa67",
+   "id": "50f2800b-875b-4729-8115-a81c58491e35",
+   "effective_time": "20261015",
+   "version": "10",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207634"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "fe9735db-c57e-44a8-bffb-b87a84c2a6f3",
+   "id": "3bfbdfba-2f14-4e34-9abc-6555d4a3d093",
+   "effective_time": "20260930",
+   "version": "9",
+   "brand_name": [
+    "REXTOVY"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "International Medication Systems, Ltd."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208969"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "8091a73d-9ecd-4578-a57b-5d85a2c5a16a",
+   "id": "38da0633-039b-450a-9b04-592db2238396",
+   "effective_time": "20260825",
+   "version": "12",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA217992"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "3750bf77-342c-4469-8bbb-f71009aa03fa",
+   "id": "559a5cc6-47d5-a9e6-e063-6394a90a30b6",
+   "effective_time": "20260702",
+   "version": "1",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA209522"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "53ed164c-dd09-4ea4-e063-6294a90a2434",
+   "id": "53ff9b83-0e45-67e4-e063-6294a90aed3c",
+   "effective_time": "20260611",
+   "version": "2",
+   "brand_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213209"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "5906381c-81f4-4635-867a-e56e4d629692",
+   "id": "20b753cc-cd09-4bf4-9566-8bea9f9e608e",
+   "effective_time": "20260603",
+   "version": "8",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207633"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "8535cc84-ad4a-4d67-8480-fb5a2e3406f8",
+   "id": "f1e72697-b477-4007-a9c0-d572576117fe",
+   "effective_time": "20260527",
+   "version": "35",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070256",
+    "ANDA070257"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "dfa48492-d83b-48cc-9ad1-bdc0c2ac9931",
+   "id": "c30c2699-564b-4c18-89ec-36dfd7df3bb2",
+   "effective_time": "20260505",
+   "version": "10",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207633"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "327004b0-560a-84d0-e063-6294a90aa743",
+   "id": "4e580310-91b7-9fe4-e063-6394a90a5d83",
+   "effective_time": "20260402",
+   "version": "3",
+   "brand_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211951"
+   ],
+   "n_sections": 12
+  },
+  {
+   "set_id": "4d66b96a-acbb-2292-e063-6294a90af788",
+   "id": "4d66b96a-acbc-2292-e063-6294a90af788",
+   "effective_time": "20260319",
+   "version": "1",
+   "brand_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co. LLC. DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207634"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "bd65e3fe-cd7a-4855-8f55-8cc3a0921ccc",
+   "id": "ace20fdd-3422-48d9-acf4-da37f78f13a7",
+   "effective_time": "20260302",
+   "version": "10",
+   "brand_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc"
+   ],
+   "route": [
+    "PARENTERAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072076"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "68df290c-d776-4cfc-9565-332eb56c4723",
+   "id": "4a7f0729-7531-bba3-e063-6294a90a001b",
+   "effective_time": "20260210",
+   "version": "8",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "PARENTERAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072076"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "aef6719c-cd71-46ee-b7b1-1806b939bf3e",
+   "id": "2a618429-eb01-4c0b-8291-dca1ebc037c4",
+   "effective_time": "20260209",
+   "version": "1",
+   "brand_name": [
+    "naloxone hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lifestar Pharma LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218404"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "1766a7f1-d301-945f-e063-6294a90ac6f4",
+   "id": "485f83f8-8404-eae8-e063-6294a90a3c33",
+   "effective_time": "20260114",
+   "version": "2",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA217992"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "1c4f1b9d-1c70-4666-a90e-2f5d2c670d4d",
+   "id": "4e308ade-33a2-4daa-acdd-af1559b90c17",
+   "effective_time": "20260113",
+   "version": "2",
+   "brand_name": [
+    "RiVive"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Harm Reduction Therapeutics, Inc."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "NDA217722"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "2879294f-9af9-459e-e063-6394a90a0820",
+   "id": "48355744-9af7-05f7-e063-6294a90ae4a0",
+   "effective_time": "20260112",
+   "version": "11",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sina Health Inc"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207633"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "b5d40220-f194-4835-b70c-f304ecb222d5",
+   "id": "10534467-f259-44bb-bdf7-b09de54411ed",
+   "effective_time": "20260106",
+   "version": "5",
+   "brand_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Padagis Israel Pharmaceuticals Ltd"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211951"
+   ],
+   "n_sections": 12
+  },
+  {
+   "set_id": "b1303f15-c48b-a44d-b28a-72f370094e02",
+   "id": "cf2be511-ff7d-c118-791c-985ee6ab5e5f",
+   "effective_time": "20260101",
+   "version": "9",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213209"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "5de44ee7-6525-4857-9a67-8882e96dbeb5",
+   "id": "f0223f84-ddc4-45a8-94e8-22cd1a39f19e",
+   "effective_time": "20251226",
+   "version": "4",
+   "brand_name": [
+    "Naloxone Hydrochloride"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BPI Labs LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216977"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "724df050-5332-4d0a-9a5f-17bf08a547e1",
+   "id": "4536fef4-e317-a7fd-e063-6294a90aa0e3",
+   "effective_time": "20251205",
+   "version": "24",
+   "brand_name": [
+    "Narcan"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Emergent Devices Inc."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208411"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "523c0909-bff6-4010-988a-53de18b7cb3f",
+   "id": "4525b96b-5ab9-b8fd-e063-6294a90aa699",
+   "effective_time": "20251204",
+   "version": "3",
+   "brand_name": [
+    "ZIMHI"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ZMI Pharma Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA212854"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "577fbd57-7054-4536-86c1-d43bc99cc7b1",
+   "id": "f2811e51-2239-492f-9e6e-bfe53668f877",
+   "effective_time": "20251119",
+   "version": "2",
+   "brand_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "NALOXONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Strategic Sourcing Services LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211951"
+   ],
+   "n_sections": 12
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Naloxone Hydrochloride Injection, USP, an opioid antagonist, is a synthetic congener of oxymorphone. In structure it differs from oxymorphone in that the methyl group on the nitrogen atom is replaced by an allyl group. Naloxone hydrochloride occurs as a white to slightly off-white powder, and is soluble in water, in dilute acids, and in strong alkali; slightly soluble in alcohol; practically insoluble in ether and in chloroform. Naloxone Hydrochloride Injection is available as a sterile solution for intravenous, intramuscular and subcutaneous administration in two concentrations: 0.4 mg and 1 mg of naloxone hydrochloride per mL. pH is adjusted to 3.5 ± 0.5 with hydrochloric acid. The 0.4 mg/mL prefilled syringe is available in an unpreserved, paraben-free formulation containing 9 mg/mL of sodium chloride. The 1 mg/mL prefilled syringe is available in an unpreserved, paraben-free formulation containing 9 mg/mL of sodium chloride. nalox-struc-01.jpg"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Complete or Partial Reversal of Opioid Depression Naloxone prevents or reverses the effects of opioids including respiratory depression, sedation and hypotension. Also, Naloxone can reverse the psychotomimetic and dysphoric effects of agonist-antagonists such as pentazocine. Naloxone is an essentially pure opioid antagonist, i.e., it does not possess the “agonistic” or morphine-like properties characteristic of other opioid antagonists. When administered in usual doses and in the absence of opioids or agonistic effects of other opioid antagonists, it exhibits essentially no pharmacologic activity. Naloxone has not been shown to produce tolerance or cause physical or psychological dependence. In the presence of physical dependence on opioids, Naloxone will produce withdrawal symptoms. However, in the presence of opioid dependence, opiate withdrawal symptoms may appear within minutes of Naloxone administration and subside in about 2 hours. The severity and duration of the withdrawal syndrome are related to the dose of Naloxone and to the degree and type of opioid dependence. While the mechanism of action of Naloxone is not fully understood, in vitro evidence suggests that Naloxone antagonizes opioid effects by competing for the μ, κ and σ opiate receptor sites in the CNS, with the greatest affinity for the μ receptor. When Naloxone is administered intravenously (I.V.), the onset of action is generally apparent within two minutes. The onset of action is slightly less rapid when it is administered subcutaneously (S.C.) or intramuscularly (I.M.). The duration of action is dependent upon the dose and route of administration of Naloxone. Intramuscular administration produces a more prolonged effect than intravenous administration. Since the duration of action of Naloxone may be shorter than that of some opiates, the effects of the opiate may return as the effects of Naloxone dissipates. The requirement for repeat doses of Naloxone will also be dependent upon the amount, type and route of administration of the opioid being antagonized. Adjunctive Use in Septic Shock Naloxone has been shown in some cases of septic shock to produce a rise in blood pressure that may last up to several hours; however, this pressor response has not been demonstrated to improve patient survival. In some studies, treatment with Naloxone in the setting of septic shock has been associated with adverse effects, including agitation, nausea and vomiting, pulmonary edema, hypotension, cardiac arrhythmias, and seizures. The decision to use Naloxone in septic shock should be exercised with caution, particularly in patients who may have underlying pain or have previously received opioid therapy and may have developed opioid tolerance. Because of the limited number of patients who have been treated, optimal dosage and treatment regimens have not been established."
+  ],
+  "pharmacokinetics": [
+   "PHARMACOKINETICS Distribution Following parenteral administration, Naloxone is rapidly distributed in the body and readily crosses the placenta. Plasma protein binding occurs but is relatively weak. Plasma albumin is the major binding constituent but significant binding of naloxone also occurs to plasma constituents other than albumin. It is not known whether naloxone is excreted into human milk. Metabolism and Elimination Naloxone is metabolized in the liver, primarily by glucuronide conjugation with naloxone-3-glucoronide as the major metabolite. In one study the serum half-life in adults ranged from 30 to 81 minutes (mean 64 ± 12 minutes). In a neonatal study the mean plasma half-life was observed to be 3.1 ± 0.5 hours. After an oral or intravenous dose, about 25-40% of the drug is excreted as metabolites in urine within 6 hours, about 50% in 24 hours, and 60-70% in 72 hours."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Naloxone is indicated for the complete or partial reversal of opioid depression, including respiratory depression, induced by natural and synthetic opioids, including propoxyphene, methadone and certain mixed agonist-antagonist analgesics: nalbuphine, pentazocine, butorphanol, and cyclazocine. Naloxone is also indicated for diagnosis of suspected or known acute opioid overdosage. Naloxone may be useful as an adjunctive agent to increase blood pressure in the management of septic shock (see CLINICAL PHARMACOLOGY; Adjunctive Use in Septic Shock )."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Naloxone is contraindicated in patients known to be hypersensitive to naloxone hydrochloride or to any of the other ingredients in Naloxone."
+  ],
+  "warnings": [
+   "WARNINGS Drug Dependence Naloxone should be administered cautiously to persons including newborns of mothers who are known or suspected to be physically dependent on opioids. In such cases an abrupt and complete reversal of opioid effects may precipitate an acute withdrawal syndrome. The signs and symptoms of opioid withdrawal in a patient physically dependent on opioids may include, but are not limited to, the following: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure. In the neonate, opioid withdrawal may also include: convulsions, excessive crying, and hyperactive reflexes. Repeat Administration The patient who has satisfactorily responded to Naloxone should be kept under continued surveillance and repeated doses of Naloxone should be administered, as necessary, since the duration of action of some opioids may exceed that of Naloxone. Respiratory Depression due to Other Drugs Naloxone is not effective against respiratory depression due to non-opioid drugs and in the management of acute toxicity caused by levopropoxyphene. Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete or require higher doses of naloxone. If an incomplete response occurs, respirations should be mechanically assisted as clinically indicated."
+  ],
+  "dependence": [
+   "Drug Dependence Naloxone should be administered cautiously to persons including newborns of mothers who are known or suspected to be physically dependent on opioids. In such cases an abrupt and complete reversal of opioid effects may precipitate an acute withdrawal syndrome. The signs and symptoms of opioid withdrawal in a patient physically dependent on opioids may include, but are not limited to, the following: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure. In the neonate, opioid withdrawal may also include: convulsions, excessive crying, and hyperactive reflexes."
+  ],
+  "precautions": [
+   "PRECAUTIONS General In addition to Naloxone, other resuscitative measures such as maintenance of a free airway, artificial ventilation, cardiac massage, and vasopressor agents should be available and employed when necessary to counteract acute opioid poisoning. Abrupt postoperative reversal of opioid depression may result in nausea, vomiting, sweating, tremulousness, tachycardia, increased blood pressure, seizures, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest which may result in death. Excessive doses of Naloxone in postoperative patients may result in significant reversal of analgesia and may cause agitation (see PRECAUTIONS and DOSAGE AND ADMINISTRATION; Usage in Adults-Postoperative Opioid Depression ). Several instances of hypotension, hypertension, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest have been reported in postoperative patients. Death, coma, and encephalopathy have been reported as sequelae of these events. These have occurred in patients most of whom had pre-existing cardiovascular disorders or received other drugs which may have similar adverse cardiovascular effects. Although a direct cause and effect relationship has not been established, Naloxone should be used with caution in patients with pre-existing cardiac disease or patients who have received medications with potential adverse cardiovascular effects, such as hypotension, ventricular tachycardia or fibrillation, and pulmonary edema. It has been suggested that the pathogenesis of pulmonary edema associated with the use of Naloxone is similar to neurogenic pulmonary edema, i.e., a centrally mediated massive catecholamine response leading to a dramatic shift of blood volume into the pulmonary vascular bed resulting in increased hydrostatic pressures. Drug Interactions Large doses of Naloxone are required to antagonize buprenorphine since the latter has a long duration of action due to its slow rate of binding and subsequent slow dissociation from the opioid receptor. Buprenorphine antagonism is characterized by a gradual onset of the reversal effects and a decreased duration of action of the normally prolonged respiratory depression. The barbiturate methohexital appears to block the acute onset of withdrawal symptoms induced by naloxone in opiate addicts. Carcinogenesis, Mutagenesis, Impairment of Fertility Studies in animals to assess the carcinogenic potential of Naloxone have not been conducted. Naloxone was weakly positive in the Ames mutagenicity and in the in vitro human lymphocyte chromosome aberration test but was negative in the in vitro Chinese hamster V79 cell HGPRT mutagenicity assay and in the in vivo rat bone marrow chromosome aberration study. Reproduction studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m 2 ), demonstrated no embryotoxic or teratogenic effects due to Naloxone. Use in Pregnancy Teratogenic Effects: Teratology studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m 2 ), demonstrated no embryotoxic or teratogenic effects due to Naloxone. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, Naloxone should be used during pregnancy only if clearly needed. Non-teratogenic Effects: Risk-benefit must be considered before Naloxone is administered to a pregnant woman who is known or suspected to be opioid-dependent since maternal dependence may often be accompanied by fetal dependence. Naloxone crosses the placenta, and may precipitate withdrawal in the fetus as well as in the mother. Patients with mild to moderate hypertension who receive naloxone during labor should be carefully monitored as severe hypertension may occur. Use in Labor and Delivery It is not known if Naloxone (naloxone hydrochloride injection, USP) affects the duration of labor and/or delivery. However, published reports indicated that administration of Naloxone during labor did not adversely affect maternal or neonatal status. Nursing Mothers It is not known whether Naloxone is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Naloxone is administered to a nursing woman. Pediatric Use Naloxone Hydrochloride Injection, USP may be administered intravenously, intramuscularly or subcutaneously in children and neonates to reverse the effects of opiates. The American Academy of Pediatrics, however, does not endorse subcutaneous or intramuscular administration in opiate intoxication since absorption may be erratic or delayed. Although the opiate-intoxicated child responds dramatically to Naloxone, he/she must be carefully monitored for at least 24 hours as a relapse may occur as Naloxone is metabolized. When Naloxone is given to the mother shortly before delivery, the duration of its effect lasts only for the first two hours of neonatal life. It is preferable to administer Naloxone directly to the neonate if needed after delivery. Naloxone has no apparent benefit as an additional method of resuscitation in the newly born infant with intrauterine asphyxia which is not related to opioid use. Usage in Pediatric Patients and Neonates for Septic Shock: The safety and effectiveness of Naloxone in the treatment of hypotension in pediatric patients and neonates with septic shock have not been established. One study of two neonates in septic shock reported a positive pressor response; however, one patient subsequently died after intractable seizures. Geriatric Use Clinical studies of Naloxone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Renal Insufficiency/Failure The safety and effectiveness of Naloxone in patients with renal insufficiency/failure have not been established in well-controlled clinical trials. Caution should be exercised when Naloxone is administered to this patient population. Liver Disease The safety and effectiveness of Naloxone in patients with liver disease have not been established in well-controlled clinical trials. Caution should be exercised when Naloxone is administered to patients with liver disease."
+  ],
+  "general_precautions": [
+   "General In addition to Naloxone, other resuscitative measures such as maintenance of a free airway, artificial ventilation, cardiac massage, and vasopressor agents should be available and employed when necessary to counteract acute opioid poisoning. Abrupt postoperative reversal of opioid depression may result in nausea, vomiting, sweating, tremulousness, tachycardia, increased blood pressure, seizures, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest which may result in death. Excessive doses of Naloxone in postoperative patients may result in significant reversal of analgesia and may cause agitation (see PRECAUTIONS and DOSAGE AND ADMINISTRATION; Usage in Adults-Postoperative Opioid Depression ). Several instances of hypotension, hypertension, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest have been reported in postoperative patients. Death, coma, and encephalopathy have been reported as sequelae of these events. These have occurred in patients most of whom had pre-existing cardiovascular disorders or received other drugs which may have similar adverse cardiovascular effects. Although a direct cause and effect relationship has not been established, Naloxone should be used with caution in patients with pre-existing cardiac disease or patients who have received medications with potential adverse cardiovascular effects, such as hypotension, ventricular tachycardia or fibrillation, and pulmonary edema. It has been suggested that the pathogenesis of pulmonary edema associated with the use of Naloxone is similar to neurogenic pulmonary edema, i.e., a centrally mediated massive catecholamine response leading to a dramatic shift of blood volume into the pulmonary vascular bed resulting in increased hydrostatic pressures."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Large doses of Naloxone are required to antagonize buprenorphine since the latter has a long duration of action due to its slow rate of binding and subsequent slow dissociation from the opioid receptor. Buprenorphine antagonism is characterized by a gradual onset of the reversal effects and a decreased duration of action of the normally prolonged respiratory depression. The barbiturate methohexital appears to block the acute onset of withdrawal symptoms induced by naloxone in opiate addicts."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Studies in animals to assess the carcinogenic potential of Naloxone have not been conducted. Naloxone was weakly positive in the Ames mutagenicity and in the in vitro human lymphocyte chromosome aberration test but was negative in the in vitro Chinese hamster V79 cell HGPRT mutagenicity assay and in the in vivo rat bone marrow chromosome aberration study. Reproduction studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m 2 ), demonstrated no embryotoxic or teratogenic effects due to Naloxone."
+  ],
+  "pregnancy": [
+   "Use in Pregnancy Teratogenic Effects: Teratology studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m 2 ), demonstrated no embryotoxic or teratogenic effects due to Naloxone. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, Naloxone should be used during pregnancy only if clearly needed. Non-teratogenic Effects: Risk-benefit must be considered before Naloxone is administered to a pregnant woman who is known or suspected to be opioid-dependent since maternal dependence may often be accompanied by fetal dependence. Naloxone crosses the placenta, and may precipitate withdrawal in the fetus as well as in the mother. Patients with mild to moderate hypertension who receive naloxone during labor should be carefully monitored as severe hypertension may occur."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects: Teratology studies conducted in mice and rats at doses 4-times and 8-times, respectively, the dose of a 50 kg human given 10 mg/day (when based on surface area or mg/m 2 ), demonstrated no embryotoxic or teratogenic effects due to Naloxone. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, Naloxone should be used during pregnancy only if clearly needed."
+  ],
+  "nonteratogenic_effects": [
+   "Non-teratogenic Effects: Risk-benefit must be considered before Naloxone is administered to a pregnant woman who is known or suspected to be opioid-dependent since maternal dependence may often be accompanied by fetal dependence. Naloxone crosses the placenta, and may precipitate withdrawal in the fetus as well as in the mother. Patients with mild to moderate hypertension who receive naloxone during labor should be carefully monitored as severe hypertension may occur."
+  ],
+  "labor_and_delivery": [
+   "Use in Labor and Delivery It is not known if Naloxone (naloxone hydrochloride injection, USP) affects the duration of labor and/or delivery. However, published reports indicated that administration of Naloxone during labor did not adversely affect maternal or neonatal status."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether Naloxone is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Naloxone is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Naloxone Hydrochloride Injection, USP may be administered intravenously, intramuscularly or subcutaneously in children and neonates to reverse the effects of opiates. The American Academy of Pediatrics, however, does not endorse subcutaneous or intramuscular administration in opiate intoxication since absorption may be erratic or delayed. Although the opiate-intoxicated child responds dramatically to Naloxone, he/she must be carefully monitored for at least 24 hours as a relapse may occur as Naloxone is metabolized. When Naloxone is given to the mother shortly before delivery, the duration of its effect lasts only for the first two hours of neonatal life. It is preferable to administer Naloxone directly to the neonate if needed after delivery. Naloxone has no apparent benefit as an additional method of resuscitation in the newly born infant with intrauterine asphyxia which is not related to opioid use. Usage in Pediatric Patients and Neonates for Septic Shock: The safety and effectiveness of Naloxone in the treatment of hypotension in pediatric patients and neonates with septic shock have not been established. One study of two neonates in septic shock reported a positive pressor response; however, one patient subsequently died after intractable seizures."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of Naloxone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Postoperative The following adverse events have been associated with the use of Naloxone in postoperative patients: hypotension, hypertension, ventricular tachycardia and fibrillation, dyspnea, pulmonary edema, and cardiac arrest. Death, coma, and encephalopathy have been reported as sequelae of these events. Excessive doses of Naloxone in postoperative patients may result in significant reversal of analgesia and may cause agitation (see PRECAUTIONS and DOSAGE AND ADMINISTRATION; Usage in Adults-Postoperative Opioid Depression ). Opioid Depression Abrupt reversal of opioid depression may result in nausea, vomiting, sweating, tachycardia, increased blood pressure, tremulousness, seizures, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest which may result in death (see PRECAUTIONS ). Opioid Dependence Abrupt reversal of opioid effects in persons who are physically dependent on opioids may precipitate an acute withdrawal syndrome which may include, but is not limited to, the following signs and symptoms: body aches, fever, sweating, runny nose, sneezing, piloerection, yawning, weakness, shivering or trembling, nervousness, restlessness or irritability, diarrhea, nausea or vomiting, abdominal cramps, increased blood pressure, tachycardia. In the neonate, opioid withdrawal may also include: convulsions; excessive crying; hyperactive reflexes (see WARNINGS ). Adverse events associated with the postoperative use of Naloxone are listed by organ system and in decreasing order of frequency as follows: Cardiac Disorders: pulmonary edema, cardiac arrest or failure, tachycardia, ventricular fibrillation, and ventricular tachycardia. Death, coma, and encephalopathy have been reported as sequelae of these events. Gastrointestinal Disorders: vomiting, nausea Nervous System Disorders: convulsions, paraesthesia, grand mal convulsion Psychiatric Disorders: agitation, hallucination, tremulousness Respiratory, Thoracic and Mediastinal Disorders: dyspnea, respiratory depression, hypoxia Skin and Subcutaneous Tissue Disorders: nonspecific injection site reactions, sweating Vascular Disorders: hypertension, hypotension, hot flushes or flushing. See also PRECAUTIONS and DOSAGE AND ADMINISTRATION; Usage in Adults; Postoperative Opioid Depression ."
+  ],
+  "drug_abuse_and_dependence": [
+   "DRUG ABUSE AND DEPENDENCE Naloxone is an opioid antagonist. Physical dependence associated with the use of Naloxone has not been reported. Tolerance to the opioid antagonist effect of Naloxone is not known to occur."
+  ],
+  "overdosage": [
+   "OVERDOSAGE There is limited clinical experience with Naloxone overdosage in humans. Adult Patients In one small study, volunteers who received 24 mg/70 kg did not demonstrate toxicity. In another study, 36 patients with acute stroke received a loading dose of 4 mg/kg (10 mg/m 2 /min) of Naloxone followed immediately by 2 mg/kg/hr for 24 hours. Twenty- three patients experienced adverse events associated with Naloxone use, and Naloxone was discontinued in seven patients because of adverse effects. The most serious adverse events were: seizures (2 patients), severe hypertension (1), and hypotension and/or bradycardia (3). At doses of 2 mg/kg in normal subjects, cognitive impairment and behavioral symptoms, including irritability, anxiety, tension, suspiciousness, sadness, difficulty concentrating, and lack of appetite have been reported. In addition, somatic symptoms, including dizziness, heaviness, sweating, nausea, and stomachaches were also reported. Although complete information is not available, behavioral symptoms were reported to often persist for 2-3 days. Pediatric Patients Up to 11 doses of 0.2 mg of Naloxone (2.2 mg) have been administered to children following overdose of diphenoxylate hydrochloride with atropine sulfate. Pediatric reports include a 2-1/2 year-old child who inadvertently received a dose of 20 mg of Naloxone for treatment of respiratory depression following overdose with diphenoxylate hydrochloride with atropine sulfate. The child responded well and recovered without adverse sequelae. There is also a report of a 4-1/2 year-old child who received 11 doses during a 12-hour period, with no adverse sequelae. Patient Management Patients who experience a Naloxone overdose should be treated symptomatically in a closely supervised environment. Physicians should contact a poison control center for the most up-to-date patient management information."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Naloxone may be administered intravenously, intramuscularly, or subcutaneously. The most rapid onset of action is achieved by intravenous administration, which is recommended in emergency situations. Since the duration of action of some opioids may exceed that of Naloxone, the patient should be kept under continued surveillance. Repeated doses of Naloxone should be administered, as necessary. Intravenous Infusion Naloxone may be diluted for intravenous infusion in normal saline or 5% dextrose solutions. The addition of 2 mg of Naloxone in 500 mL of either solution provides a concentration of 0.004 mg/mL. Mixtures should be used within 24 hours. After 24 hours, the remaining unused mixture must be discarded. The rate of administration should be titrated in accordance with the patient's response. Naloxone should not be mixed with preparations containing bisulfite, metabisulfite, long-chain or high molecular weight anions, or any solution having an alkaline pH. No drug or chemical agent should be added to Naloxone unless its effect on the chemical and physical stability of the solution has first been established. General Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit. Usage in Adults Opioid Overdose–Known or Suspected: An initial dose of 0.4 mg to 2 mg of Naloxone may be administered intravenously. If the desired degree of counteraction and improvement in respiratory functions are not obtained, it may be repeated at two- to three-minute intervals. If no response is observed after 10 mg of Naloxone have been administered, the diagnosis of opioid-induced or partial opioid-induced toxicity should be questioned. Intramuscular or subcutaneous administration may be necessary if the intravenous route is not available. Postoperative Opioid Depression: For the partial reversal of opioid depression following the use of opioids during surgery, smaller doses of Naloxone are usually sufficient. The dose of Naloxone should be titrated according to the patient's response. For the initial reversal of respiratory depression, Naloxone should be injected in increments of 0.1 to 0.2 mg intravenously at two- to three-minute intervals to the desired degree of reversal, i.e., adequate ventilation and alertness without significant pain or discomfort. Larger than necessary dosage of Naloxone may result in significant reversal of analgesia and increase in blood pressure. Similarly, too rapid reversal may induce nausea, vomiting, sweating or circulatory stress. Repeat doses of Naloxone may be required within one- to two-hour intervals depending upon the amount, type (i.e., short or long acting) and time interval since last administration of an opioid. Supplemental intramuscular doses have been shown to produce a longer lasting effect. Septic Shock: The optimal dosage of Naloxone or duration of therapy for the treatment of hypotension in septic shock patients has not been established (see CLINICAL PHARMACOLOGY ). Usage in Children Opioid Overdose–Known or Suspected: The usual initial dose in children is 0.01 mg/kg body weight given I.V. If this dose does not result in the desired degree of clinical improvement, a subsequent dose of 0.1 mg/kg body weight may be administered. If an I.V. route of administration is not available, Naloxone may be administered I.M. or S.C. in divided doses. If necessary, Naloxone can be diluted with sterile water for injection. Postoperative Opioid Depression: Follow the recommendations and cautions under Adult Postoperative Depression . For the initial reversal of respiratory depression, Naloxone should be injected in increments of 0.005 mg to 0.01 mg intravenously at two- to three-minute intervals to the desired degree of reversal. Usage in Neonates Opioid-induced Depression: The usual initial dose is 0.01 mg/kg body weight administered I.V., I.M. or S.C. This dose may be repeated in accordance with adult administration guidelines for postoperative opioid depression."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Naloxone Hydrochloride Injection, USP for intravenous, intramuscular and subcutaneous administration is available as: Product Code Unit of Sale Strength Each 761120 NDC 76045-112-20 Unit of 24 2 mg/2 mL (1 mg/mL) NDC 76045-112-01 2 mL Single-Dose prefilled syringe (Needle not included) 761410 NDC 76045-114-10 Unit of 24 0.4 mg/mL NDC 76045-114-01 1 mL Single-Dose prefilled syringe (Needle not included) Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature]. Protect from light."
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\"><col width=\"10%\"/><col width=\"20%\"/><col width=\"24%\"/><col width=\"44%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Product Code</content></paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Unit of Sale</content></paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Each</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>761120 </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>NDC 76045-112-20 Unit of 24 </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>2 mg/2 mL (1 mg/mL) </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>NDC 76045-112-01 2 mL Single-Dose prefilled syringe (Needle not included) </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>761410 </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>NDC 76045-114-10 Unit of 24 </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>0.4 mg/mL </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>NDC 76045-114-01 1 mL Single-Dose prefilled syringe (Needle not included) </paragraph></td></tr></tbody></table>"
+  ],
+  "instructions_for_use": [
+   "INSTRUCTIONS FOR USE Figure 1: Outer Packaging and Prefilled Syringe NOTES: • Do not introduce any other fluid into the syringe at any time. • Do not dilute for IV push. • Do not re-sterilize the syringe. • Do not use this product on a sterile field. • This product is for single dose only. 1. Inspect the outer packaging (blister pack) to confirm the integrity of the packaging. Do not use if the blister pack or the prefilled syringe has been damaged. 2. Remove the syringe from the outer packaging. (See Figure 2 ) Figure 2 3. Visually inspect the syringe. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. 4. Twist off the syringe tip cap. Do not remove the label around the luer lock collar. (See Figure 3 ) Figure 3 5. Expel air bubble(s). Adjust the dose (if applicable). 6. Administer the dose ensuring that pressure is maintained on the plunger rod during the entire administration. 7. Discard the used syringe into an appropriate receptacle. For more information concerning this drug, please call Fresenius Kabi USA, LLC at 1-800-551-7176. To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. The brand names mentioned in this document are the trademarks of their respective owners. www.fresenius-kabi.com/us 451691A Revised: 05/2023 nalox-img-02.jpg nalox-img-03.jpg nalox-img-04.jpg nalox-img-05.jpg"
+  ],
+  "set_id": "201fdedf-1736-4e52-9d7d-de14292547fd",
+  "id": "6503f42d-3303-497a-9653-4b6d89bf7833",
+  "effective_time": "20250731",
+  "version": "5"
+ }
+}
