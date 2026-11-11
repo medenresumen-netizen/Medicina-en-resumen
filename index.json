@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-11T17:53Z",
- "n": 375,
+ "n": 376,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -3439,6 +3439,22 @@
    "set_id": "320f63f2-fac3-4aee-aff8-85724e00ef52",
    "application": [
     "NDA020905"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "levetiracetam-iv",
+   "generic_en": "levetiracetam",
+   "brand": [
+    "Levetiracetam"
+   ],
+   "manufacturer": [
+    "WG Critical Care, LLC"
+   ],
+   "effective_time": "20240329",
+   "set_id": "62f3d1c8-ca5b-4760-9fc9-41e4fb4cc926",
+   "application": [
+    "NDA202543"
    ],
    "n_candidates": 25
   },
