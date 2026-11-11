@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T18:41Z",
- "n": 384,
+ "updated": "2026-11-11T18:46Z",
+ "n": 387,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -199,6 +199,54 @@
     "BLA125057"
    ],
    "n_candidates": 4
+  },
+  {
+   "id_es": "adenosina-a",
+   "generic_en": "adenosine",
+   "brand": [
+    "Adenosine"
+   ],
+   "manufacturer": [
+    "Sagent Pharmaceuticals"
+   ],
+   "effective_time": "20260727",
+   "set_id": "546642f2-662f-46cf-9d82-5bb3bdcc7677",
+   "application": [
+    "ANDA206778"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "adenosina-b",
+   "generic_en": "adenosine",
+   "brand": [
+    "adenosine"
+   ],
+   "manufacturer": [
+    "Sagent Pharmaceuticals"
+   ],
+   "effective_time": "20241204",
+   "set_id": "5a55b45d-9cee-4c0c-9e44-021dbf70a018",
+   "application": [
+    "ANDA077283"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "adenosina-c",
+   "generic_en": "adenosine",
+   "brand": [
+    "Adenosine"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20230302",
+   "set_id": "f88a8cf7-d354-42f2-b5e8-ba002fcfc460",
+   "application": [
+    "ANDA077897"
+   ],
+   "n_candidates": 1
   },
   {
    "id_es": "adenosina",
@@ -1706,15 +1754,17 @@
    "id_es": "dexametasona-iv",
    "generic_en": "dexamethasone sodium phosphate",
    "brand": [
-    "DMT SUIK"
+    "Dexamethasone Sodium Phosphate"
    ],
    "manufacturer": [
-    "Advanced Rx of Tennessee, LLC"
+    "Fresenius Kabi USA, LLC"
    ],
-   "effective_time": "20251107",
-   "set_id": "43045630-8bf8-59ae-e063-6294a90a2ebe",
-   "application": [],
-   "n_candidates": 25
+   "effective_time": "20260608",
+   "set_id": "2b626a48-c7aa-4443-9164-a08ff069ccd1",
+   "application": [
+    "ANDA084916"
+   ],
+   "n_candidates": 1
   },
   {
    "id_es": "dexametasona",

@@ -1,22 +1,22 @@
 {
  "id_es": "dexametasona-iv",
  "generic_en": "dexamethasone sodium phosphate",
- "search": "openfda.generic_name.exact:\"DEXAMETHASONE SODIUM PHOSPHATE\"",
- "pref": "dexamethasone sodium phosphate|INTRAVENOUS|",
- "downloaded": "2026-11-11T18:41Z",
+ "search": "set_id:2b626a48-c7aa-4443-9164-a08ff069ccd1",
+ "pref": "",
+ "downloaded": "2026-11-11T18:46Z",
  "chosen": {
-  "set_id": "43045630-8bf8-59ae-e063-6294a90a2ebe",
-  "id": "43045630-8bf9-59ae-e063-6294a90a2ebe",
-  "effective_time": "20251107",
-  "version": "1",
+  "set_id": "2b626a48-c7aa-4443-9164-a08ff069ccd1",
+  "id": "1815f54a-5637-45bc-a582-3e62350935ba",
+  "effective_time": "20260608",
+  "version": "7",
   "brand_name": [
-   "DMT SUIK"
+   "Dexamethasone Sodium Phosphate"
   ],
   "generic_name": [
    "DEXAMETHASONE SODIUM PHOSPHATE"
   ],
   "manufacturer_name": [
-   "Advanced Rx of Tennessee, LLC"
+   "Fresenius Kabi USA, LLC"
   ],
   "route": [
    "INTRAMUSCULAR",
@@ -25,319 +25,12 @@
   "product_type": [
    "HUMAN PRESCRIPTION DRUG"
   ],
-  "application_number": [],
+  "application_number": [
+   "ANDA084916"
+  ],
   "n_sections": 18
  },
  "candidates": [
-  {
-   "set_id": "69a2388c-94e6-4039-9b9a-224507edfa47",
-   "id": "5f9cc43d-b213-f86a-e063-6394a90ab9bb",
-   "effective_time": "20261106",
-   "version": "8",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040803"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "d9b935d5-1b4f-4a08-8d40-57f397368fef",
-   "id": "95bd48e5-5ee2-4981-8592-5a688a7d79a5",
-   "effective_time": "20261028",
-   "version": "3",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Henry Schein, Inc."
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA084282"
-   ],
-   "n_sections": 14
-  },
-  {
-   "set_id": "d54a27f2-2af8-4f86-a7fd-453f6b1a9997",
-   "id": "31df8bb0-2e13-4d3f-813f-98fbba1b8b04",
-   "effective_time": "20261027",
-   "version": "4",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Civica, Inc."
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA084282"
-   ],
-   "n_sections": 16
-  },
-  {
-   "set_id": "11f10a47-1c42-40e4-89d8-bb000fef497c",
-   "id": "5b0d63e4-763a-0346-e063-6394a90a0e74",
-   "effective_time": "20260909",
-   "version": "3",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215654"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "9822a5c3-d3f1-4e0b-9963-32b22740e10e",
-   "id": "5a564653-408d-0b7f-e063-6294a90a1898",
-   "effective_time": "20260831",
-   "version": "1",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA084916"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "c6f2563b-5a39-48bf-bcfe-71dd417bd970",
-   "id": "59edca15-21cd-df4f-e063-6394a90a36db",
-   "effective_time": "20260826",
-   "version": "4",
-   "brand_name": [
-    "Dexamethasone sodium phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Micro Labs Limited"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA217797"
-   ],
-   "n_sections": 13
-  },
-  {
-   "set_id": "a31b013f-924c-42f8-b8ab-ce60bb8ad7b8",
-   "id": "586e4a74-a962-533c-e063-6294a90a3d8e",
-   "effective_time": "20260807",
-   "version": "1",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "ASCLEMED USA INC."
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA084282"
-   ],
-   "n_sections": 16
-  },
-  {
-   "set_id": "4680d517-ed5a-4137-819c-122ee962a464",
-   "id": "d68d6aab-10d8-4333-9fe8-a0386f8caa07",
-   "effective_time": "20260806",
-   "version": "2",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Sagent Pharmaceuticals"
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215654"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "a8aee11f-c928-41ef-8df8-e6d8b355536c",
-   "id": "563b20bd-9015-3146-e063-6294a90a0fd1",
-   "effective_time": "20260710",
-   "version": "1",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040802",
-    "ANDA040803"
-   ],
-   "n_sections": 19
-  },
-  {
-   "set_id": "7cbd9005-7df2-47ee-adb3-7244c1c69bc3",
-   "id": "756dda45-ea6d-4c90-a14a-18a78bf186a6",
-   "effective_time": "20260630",
-   "version": "7",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Fresenius Kabi USA, LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040491"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "cca2c160-9188-48e8-9505-49a52388dcb7",
-   "id": "2ce90eb7-067d-4f1c-9184-c250e387e533",
-   "effective_time": "20260630",
-   "version": "12",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Fresenius Kabi USA, LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040491",
-    "ANDA040572"
-   ],
-   "n_sections": 15
-  },
   {
    "set_id": "2b626a48-c7aa-4443-9164-a08ff069ccd1",
    "id": "1815f54a-5637-45bc-a582-3e62350935ba",
@@ -363,416 +56,58 @@
     "ANDA084916"
    ],
    "n_sections": 18
-  },
-  {
-   "set_id": "6d3cbd54-93ef-40fe-b15a-7a4f52dc5f71",
-   "id": "875b556f-5bb6-4265-9167-4b022d6e2c42",
-   "effective_time": "20260529",
-   "version": "13",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Cardinal Health 107, LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA084916"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "6c7ff5f7-5688-4fc4-9194-9e6b8e6fab59",
-   "id": "5031642e-f28c-9c2c-e063-6394a90a743c",
-   "effective_time": "20260424",
-   "version": "2",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040491"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "7a7ee007-cd02-4f3f-8f0f-82c4964da6e6",
-   "id": "b5a01009-7c59-4f36-9803-aa50d4ca56db",
-   "effective_time": "20260421",
-   "version": "14",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Cardinal Health 107, LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA087702"
-   ],
-   "n_sections": 16
-  },
-  {
-   "set_id": "1596a3b4-8c2c-41b4-b1eb-af09863eaa13",
-   "id": "4f811eeb-ebb6-8d2c-e063-6394a90a69f6",
-   "effective_time": "20260415",
-   "version": "6",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA084282"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "946f3c1d-0362-d602-e053-2995a90a3d9a",
-   "id": "4db6be97-1466-5820-e063-6394a90a92b0",
-   "effective_time": "20260323",
-   "version": "5",
-   "brand_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "HF Acquisition Co LLC, DBA HealthFirst"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040572"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "56bdd2f3-ae94-4fd9-9d05-5b53263a09c1",
-   "id": "4d6e12c9-4c79-c7fb-e063-6394a90af467",
-   "effective_time": "20260320",
-   "version": "1",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040491"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "6ea9e6ab-0d33-4635-9e98-aa2fbd8921cc",
-   "id": "4d29f325-93bd-9570-e063-6394a90a1a19",
-   "effective_time": "20260316",
-   "version": "15",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA087702"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "fe464a39-7820-435c-9385-a4a96d8a38c8",
-   "id": "f2187a01-5e06-4127-992e-9e88d780803d",
-   "effective_time": "20260224",
-   "version": "14",
-   "brand_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206781"
-   ],
-   "n_sections": 13
-  },
-  {
-   "set_id": "0e4f0f22-e6a1-4725-addb-0cc91bed07e9",
-   "id": "cc9ea766-535d-4f18-8445-25282e218787",
-   "effective_time": "20260202",
-   "version": "12",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA087702"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "0277cc0a-2fd4-4605-a310-b613be84ee26",
-   "id": "02bf3273-f0c8-448c-9f74-eb009fee9299",
-   "effective_time": "20260122",
-   "version": "21",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Hikma Pharmaceuticals USA Inc."
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA087702",
-    "ANDA084282"
-   ],
-   "n_sections": 16
-  },
-  {
-   "set_id": "6ded4eac-3f86-4cf8-a05f-3e9c52984d6c",
-   "id": "35e2db12-e807-4a98-a23c-a76c7e4fb296",
-   "effective_time": "20260102",
-   "version": "6",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Henry Schein, Inc."
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040802"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "c464ffde-f64e-4716-92d2-720a10793248",
-   "id": "224e880f-7c59-4576-b113-3fafde2b6602",
-   "effective_time": "20260102",
-   "version": "3",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Henry Schein, Inc."
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040803"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "ce25183b-cd67-4997-8de9-df59b750883b",
-   "id": "9af24370-ee9f-4005-b1e9-96eef58fbde5",
-   "effective_time": "20251224",
-   "version": "3",
-   "brand_name": [
-    "Dexamethasone Sodium Phosphate"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE SODIUM PHOSPHATE"
-   ],
-   "manufacturer_name": [
-    "Fresenius Kabi USA, LLC"
-   ],
-   "route": [
-    "INTRA-ARTICULAR",
-    "INTRALESIONAL",
-    "INTRAMUSCULAR",
-    "INTRAVENOUS",
-    "SOFT TISSUE"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA203129"
-   ],
-   "n_sections": 15
   }
  ],
  "label": {
   "description": [
-   "DESCRIPTION Dexamethasone Sodium Phosphate Injection, USP, is a water-soluble inorganic ester of dexamethasone which produces a rapid response even when injected intramuscularly. Dexamethasone Sodium Phosphate, USP chemically is Pregna-1,4-diene-3,20-dione, 9-fluoro- 11,17-dihydroxy-16-methyl-21-(phosphonooxy)-, disodium salt, (11ß, 16α). It occurs as a white to creamy white powder, is exceedingly hygroscopic, is soluble in water and its solutions have a pH between 7.0 and 8.5. It has the following structural formula: Each mL of Dexamethasone Sodium Phosphate Injection, USP (Preservative Free) contains dexamethasone sodium phosphate, USP equivalent to 10 mg dexamethasone phosphate; 24.75 mg sodium citrate, dihydrate; and Water for Injection, q.s. pH adjusted with citric acid or sodium hydroxide, if necessary. pH: 7.0 to 8.5. Each mL Dexamethasone Sodium Phosphate Injection, USP (Preserved) contains dexamethasone sodium phosphate, USP equivalent to 10 mg dexamethasone phosphate; 13.5 mg sodium citrate, dihydrate; 10 mg benzyl alcohol; and Water for Injection, q.s. pH adjusted with citric acid or sodium hydroxide, if necessary. pH: 7.0 to 8.5. structure"
+   "DESCRIPTION: Dexamethasone sodium phosphate is a water-soluble inorganic ester of dexamethasone. It occurs as a white or slightly yellow crystalline powder, is odorless or has a slight odor of alcohol, is exceedingly hygroscopic and is freely soluble in water. Dexamethasone sodium phosphate is an adrenocortical steroid anti-inflammatory drug. Chemically, dexamethasone sodium phosphate is 9-Fluoro-11ß,17,21-trihydroxy-16α-methylpregna-1, 4-diene-3,20-dione 21-(dihydrogen phosphate) disodium salt and has the following structural formula: Dexamethasone Sodium Phosphate Injection, USP is a sterile solution of dexamethasone sodium phosphate in water for injection for intravenous (IV), intramuscular (IM), intra-articular, soft-tissue or intralesional use. Each mL contains dexamethasone sodium phosphate equivalent to dexamethasone phosphate 4 mg or dexamethasone 3.33 mg; benzyl alcohol 10 mg added as preservative; sodium citrate dihydrate 11 mg; sodium sulfite 1 mg as an antioxidant; Water for Injection q.s. Citric acid and/or sodium hydroxide may have been added for pH adjustment (7.0 to 8.5). Air in the container is displaced by nitrogen. dexam-struc-01.jpg"
   ],
   "clinical_pharmacology": [
-   "CLINICAL PHARMACOLOGY Dexamethasone sodium phosphate injection has a rapid onset but short duration of action when compared with less soluble preparations. Because of this, it is suitable for the treatment of acute disorders responsive to adrenocortical steroid therapy. Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs, including dexamethasone, are primarily used for their potent anti-inflammatory effects in disorders of many organ systems. Glucocorticoids cause profound and varied metabolic effects. In addition, they modify the body’s immune responses to diverse stimuli. At equipotent anti-inflammatory doses, dexamethasone almost completely lacks the sodium-retaining property of hydrocortisone and closely related derivatives of hydrocortisone."
+   "CLINICAL PHARMACOLOGY: Dexamethasone sodium phosphate has a rapid onset but short duration of action when compared with less soluble preparations. Because of this, it is suitable for the treatment of acute disorders responsive to adrenocortical steroid therapy. Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs, including dexamethasone, are primarily used for their potent anti-inflammatory effects in disorders of many organ systems. Glucocorticoids cause profound and varied metabolic effects. In addition, they modify the body’s immune responses to diverse stimuli. At equipotent anti-inflammatory doses, dexamethasone almost completely lacks the sodium-retaining property of hydrocortisone and closely related derivatives of hydrocortisone."
   ],
   "indications_and_usage": [
-   "INDICATIONS AND USAGE By intravenous or intramuscular injection when oral therapy is not feasible: 1. Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance). Acute adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; mineralocorticoid supplementation may be necessary, particularly when synthetic analogs are used). Preoperatively, and in the event of serious trauma or illness, in patients with known adrenal insufficiency or when adrenocortical reserve is doubtful. Shock unresponsive to conventional therapy if adrenocortical insufficiency exists or is suspected. Congenital adrenal hyperplasia Nonsuppurative thyroiditis Hypercalcemia associated with cancer 2. Rheumatic Disorders As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Post-traumatic osteoarthritis Synovitis of osteoarthritis Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy). Acute and subacute bursitis Epicondylitis Acute nonspecific tenosynovitis Acute gouty arthritis Psoriatic arthritis Ankylosing spondylitis 3. Collagen Diseases During an exacerbation or as maintenance therapy in selected cases of: Systemic lupus erythematosus Acute rheumatic carditis 4. Dermatologic Diseases Pemphigus Severe erythema multiforme (Stevens-Johnson syndrome) Exfoliative dermatitis Bullous dermatitis herpetiformis Severe seborrheic dermatitis Severe psoriasis Mycosis fungoides 5. Allergic States Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in: Bronchial asthma Contact dermatitis Atopic dermatitis Serum sickness Seasonal or perennial allergic rhinitis Drug hypersensitivity reactions Urticarial transfusion reactions Acute noninfectious laryngeal edema (epinephrine is the drug of first choice). 6. Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes involving the eye, such as: Herpes zoster ophthalmicus Iritis, iridocyclitis Chorioretinitis Diffuse posterior uveitis and choroiditis Optic neuritis Sympathetic ophthalmia Anterior segment inflammation Allergic conjunctivitis Keratitis Allergic corneal marginal ulcers 7. Gastrointestinal Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis (systemic therapy) Regional enteritis (systemic therapy) 8. Respiratory Diseases Symptomatic sarcoidosis Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy. Loeffler’s syndrome not manageable by other means. Aspiration pneumonitis 9. Hematologic Disorders Acquired (autoimmune) hemolytic anemia. Idiopathic thrombocytopenic purpura in adults (IV only; IM administration is contraindicated). Secondary thrombocytopenia in adults Erythroblastopenia (RBC anemia) Congenital (erythroid) hypoplastic anemia 10. Neoplastic Diseases For palliative management of: Leukemias and lymphomas in adults Acute leukemia of childhood 11. Edematous States To induce diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus. 12. Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy. Trichinosis with neurologic or myocardial involvement. 13. Diagnostic testing of adrenocortical hyperfunction. 14. Cerebral Edema associated with primary or metastatic brain tumor, craniotomy, or head injury. Use in cerebral edema is not a substitute for careful neurosurgical evaluation and definitive management such as neurosurgery or other specific therapy."
+   "INDICATIONS AND USAGE: Intravenous or Intramuscular Injection When oral therapy is not feasible and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, those products labeled for intravenous or intramuscular use are indicated as follows: • Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance) Acute adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; mineralocorticoid supplementation may be necessary, particularly when synthetic analogs are used) Preoperatively, and in the event of serious trauma or illness, in patients with known adrenal insufficiency or when adrenocortical reserve is doubtful Shock unresponsive to conventional therapy if adrenocortical insufficiency exists or is suspected Congenital adrenal hyperplasia Nonsuppurative thyroiditis Hypercalcemia associated with cancer • Rheumatic Disorders As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Post-traumatic osteoarthritis Synovitis of osteoarthritis Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy) Acute and subacute bursitis Epicondylitis Acute nonspecific tenosynovitis Acute gouty arthritis Psoriatic arthritis Ankylosing spondylitis • Collagen Diseases During an exacerbation or as maintenance therapy in selected cases of: Systemic lupus erythematosus Acute rheumatic carditis • Dermatologic Diseases Pemphigus Severe erythema multiforme (Stevens-Johnson syndrome) Exfoliative dermatitis Bullous dermatitis herpetiformis Severe seborrheic dermatitis Severe psoriasis Mycosis fungoides • Allergic States Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in: Bronchial asthma Contact dermatitis Atopic dermatitis Serum sickness Seasonal or perennial allergic rhinitis Drug hypersensitivity reactions Urticarial transfusion reactions Acute noninfectious laryngeal edema (epinephrine is the drug of first choice) • Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes involving the eye, such as: Herpes zoster ophthalmicus Iritis, iridocyclitis Chorioretinitis Diffuse posterior uveitis and choroiditis Optic neuritis Sympathetic ophthalmia Anterior segment inflammation Allergic conjunctivitis Keratitis Allergic corneal marginal ulcers • Gastrointestinal Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis (Systemic therapy) Regional enteritis (Systemic therapy) • Respiratory Diseases Symptomatic sarcoidosis Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy Loeffler’s syndrome not manageable by other means Aspiration pneumonitis • Hematologic Disorders Acquired (autoimmune) hemolytic anemia Idiopathic thrombocytopenic purpura in adults (IV only; IM administration is contraindicated) Secondary thrombocytopenia in adults Erythroblastopenia (RBC anemia) Congenital (erythroid) hypoplastic anemia • Neoplastic Diseases For palliative management of: Leukemias and lymphomas in adults Acute leukemia of childhood • Edematous States To induce diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type, or that due to lupus erythematosus • Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy Trichinosis with neurologic or myocardial involvement • Diagnostic testing of adrenocortical hyperfunction • Cerebral Edema associated with primary or metastatic brain tumor, craniotomy, or head injury. Use in cerebral edema is not a substitute for careful neurosurgical evaluation and definitive management such as neurosurgery or other specific therapy. By Intra-articular or Soft Tissue Injection As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Synovitis of osteoarthritis Rheumatoid arthritis Acute and subacute bursitis Acute gouty arthritis Epicondylitis Acute nonspecific tenosynovitis Post-traumatic osteoarthritis By Intralesional Injection Keloids Localized hypertrophic, infiltrated, inflammatory lesions of: lichen planus, psoriatic plaques, granuloma annulare and lichen simplex chronicus (neurodermatitis) Discoid lupus erythematosus Necrobiosis lipoidica diabeticorum Alopecia areata May also be useful in cystic tumors of an aponeurosis or tendon (ganglia)",
+   "By Intra-articular or Soft Tissue Injection As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Synovitis of osteoarthritis Rheumatoid arthritis Acute and subacute bursitis Acute gouty arthritis Epicondylitis Acute nonspecific tenosynovitis Post-traumatic osteoarthritis",
+   "By Intralesional Injection Keloids Localized hypertrophic, infiltrated, inflammatory lesions of: lichen planus, psoriatic plaques, granuloma annulare and lichen simplex chronicus (neurodermatitis) Discoid lupus erythematosus Necrobiosis lipoidica diabeticorum Alopecia areata May also be useful in cystic tumors of an aponeurosis or tendon (ganglia)"
   ],
   "contraindications": [
-   "CONTRAINDICATIONS Systemic fungal infections (see WARNINGS regarding amphotericin B). Hypersensitivity to any component of this product (see WARNINGS ) ."
+   "CONTRAINDICATIONS: Systemic fungal infections (see WARNINGS regarding amphotericin B). Hypersensitivity to any component of this product, including sulfites (see WARNINGS )."
   ],
   "warnings": [
-   "WARNINGS Because rare instances of anaphylactoid reactions have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug. Anaphylactoid and hypersensitivity reactions have been reported for dexamethasone sodium phosphate injection (see ADVERSE REACTIONS ). Corticosteroids may exacerbate systemic fungal infections and, therefore, should not be used in the presence of such infections unless they are needed to control drug reactions due to amphotericin B. Moreover, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive failure. In patients on corticosteroid therapy subjected to any unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated. Drug-induced secondary adrenocortical insufficiency may result from too rapid withdrawal of corticosteroids and may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted. If the patient is receiving steroids already, dosage may have to be increased. Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently. Corticosteroids may mask some signs of infection, and new infections may appear during their use. There may be decreased resistance and inability to localize infection when corticosteroids are used. Moreover, corticosteroids may affect the nitroblue-tetrazolium test for bacterial infection and produce false negative results. In cerebral malaria, a double-blind trial has shown that the use of corticosteroids is associated with prolongation of coma and a higher incidence of pneumonia and gastrointestinal bleeding. Corticosteroids may activate latent amebiasis. Therefore, it is recommended that latent or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea. Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses. Average and large doses of cortisone or hydrocortisone can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium. These effects are less likely to occur with the synthetic derivatives except when used in large doses. Dietary salt restriction and potassium supplementation may be necessary. All corticosteroids increase calcium excretion. Administration of live virus vaccines, including smallpox, is contraindicated in individuals receiving immunosuppressive doses of corticosteroids. If inactivated viral or bacterial vaccines are administered to individuals receiving immunosuppressive doses of corticosteroids, the expected serum antibody response may not be obtained. However, immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease. Patients who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals. Chickenpox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids. In such children or adults who have not had these diseases, particular care should be taken to avoid exposure. The risk of developing a disseminated infection varies among individuals and can be related to the dose, route and duration of corticosteroid administration as well as to the underlying disease. If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated. If chickenpox develops, treatment with antiviral agents may be considered. If exposed to measles, prophylaxis with immune globulin (IG) may be indicated. (See the respective package inserts for VZIG and IG for complete prescribing information). The use of dexamethasone sodium phosphate injection in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen. If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur. During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis. Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients. Serious Neurologic Adverse Reactions with Epidural Administration Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids. Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke. These serious neurologic events have been reported with and without use of fluoroscopy. The safety and effectiveness of epidural administration of corticosteroids has not been established, and corticosteroids are not approved for this use. Usage in Pregnancy Since adequate human reproduction studies have not been done with corticosteroids, use of these drugs in pregnancy or in women of childbearing potential requires that the anticipated benefits be weighed against the possible hazards to the mother and embryo or fetus. Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Corticosteroids appear in breast milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects. Mothers taking pharmacologic doses of corticosteroids should be advised not to nurse.",
+   "WARNINGS: Because rare instances of anaphylactoid reactions have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug. Anaphylactoid and hypersensitivity reactions have been reported for dexamethasone sodium phosphate (see ADVERSE REACTIONS ). In patients on corticosteroid therapy subjected to any unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated. Immunosuppression and Increased Risk of Infection Corticosteroids, including dexamethasone sodium phosphate injection, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens. Corticosteroids can: • Reduce resistance to new infections • Exacerbate existing infections • Increase the risk of disseminated infections • Increase the risk of reactivation or exacerbation of latent infections • Mask some signs of infection Corticosteroid-associated infections can be mild but can be severe and at times fatal. The rate of infectious complications increases with increasing corticosteroid dosages. Monitor for the development of infection and consider dexamethasone sodium phosphate injection withdrawal or dosage reduction as needed. Tuberculosis If dexamethasone sodium phosphate injection is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, tuberculosis may occur. Closely monitor such patients for reactivation. During prolonged therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis. Varicella Zoster and Measles Viral Infections Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including dexamethasone sodium phosphate injection. In corticosteroid-treated patients who have not had these diseases or are nonimmune, particular care should be taken to avoid exposure to varicella and measles: • If a dexamethasone sodium phosphate injection-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated. If varicella develops, treatment with antiviral agents may be considered. • If a dexamethasone sodium phosphate injection-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated. Hepatitis B Virus Reactivation Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including dexamethasone sodium phosphate injection. Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection. Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with dexamethasone sodium phosphate injection. For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy. Fungal Infections Corticosteroids, including dexamethasone sodium phosphate injection, may exacerbate systemic fungal infections; therefore, avoid dexamethasone sodium phosphate injection use in the presence of such infections unless dexamethasone sodium phosphate injection is needed to control drug reactions. For patients on chronic dexamethasone sodium phosphate injection therapy who develop systemic fungal infections, dexamethasone sodium phosphate injection withdrawal or dosage reduction is recommended. Amebiasis Corticosteroids, including dexamethasone sodium phosphate injection, may activate latent amebiasis. Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating dexamethasone sodium phosphate injection in patients who have spent time in the tropics or patients with unexplained diarrhea. Strongyloides Infestation Corticosteroids, including dexamethasone sodium phosphate injection, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation. In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia. Cerebral Malaria Avoid corticosteroids, including dexamethasone sodium phosphate injection, in patients with cerebral malaria. Kaposi’s Sarcoma Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions. Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma. Dexamethasone sodium phosphate injection contains sodium bisulfite, a sulfite that may cause allergic- type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in non- asthmatic people. Corticosteroids may exacerbate systemic fungal infections and therefore, should not be used in the presence of such infections unless they are needed to control drug reactions due to amphotericin B. Moreover, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive failure. Drug-induced secondary adrenocortical insufficiency may result from too rapid withdrawal of corticosteroids and may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted. If the patient is receiving steroids already, dosage may have to be increased. Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently. Moreover, corticosteroids may affect the nitroblue-tetrazolium test for bacterial infection and produce false negative results. In cerebral malaria, a double-blind trial has shown that the use of corticosteroids is associated with prolongation of coma and a higher incidence of pneumonia and gastrointestinal bleeding. Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses. Average and large doses of cortisone or hydrocortisone can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium. These effects are less likely to occur with the synthetic derivatives except when used in large doses. Dietary salt restriction and potassium supplementation may be necessary. All corticosteroids increase calcium excretion. Administration of live virus vaccines, including smallpox, is contraindicated in individuals receiving immunosuppressive doses of corticosteroids. If inactivated viral or bacterial vaccines are administered to individuals receiving immunosuppressive doses of corticosteroids, the expected serum antibody response may not be obtained. However, immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease. Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients. Serious Neurologic Adverse Reactions with Epidural Administration Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids. Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke. These serious neurologic events have been reported with and without use of fluoroscopy. The safety and effectiveness of epidural administration of corticosteroids has not been established, and corticosteroids are not approved for this use. Pregnancy Teratogenic Effects: Pregnancy Category C– Since adequate human reproduction studies have not been done with corticosteroids, use of these drugs in pregnancy or in women of childbearing potential requires that the anticipated benefits be weighed against the possible hazards to the mother and embryo or fetus. Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Corticosteroids appear in breast milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects. Mothers taking pharmacologic doses of corticosteroids should be advised not to nurse.",
    "Serious Neurologic Adverse Reactions with Epidural Administration Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids. Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke. These serious neurologic events have been reported with and without use of fluoroscopy. The safety and effectiveness of epidural administration of corticosteroids has not been established, and corticosteroids are not approved for this use.",
-   "Usage in Pregnancy Since adequate human reproduction studies have not been done with corticosteroids, use of these drugs in pregnancy or in women of childbearing potential requires that the anticipated benefits be weighed against the possible hazards to the mother and embryo or fetus. Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Corticosteroids appear in breast milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects. Mothers taking pharmacologic doses of corticosteroids should be advised not to nurse."
+   "Pregnancy Teratogenic Effects: Pregnancy Category C– Since adequate human reproduction studies have not been done with corticosteroids, use of these drugs in pregnancy or in women of childbearing potential requires that the anticipated benefits be weighed against the possible hazards to the mother and embryo or fetus. Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Corticosteroids appear in breast milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects. Mothers taking pharmacologic doses of corticosteroids should be advised not to nurse."
   ],
   "precautions": [
-   "PRECAUTIONS This product, like many other steroid formulations, is sensitive to heat. Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial. Following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the corticosteroid withdrawal syndrome including fever, myalgia, arthralgia, and malaise. This may occur in patients even without evidence of adrenal insufficiency. There is an enhanced effect of corticosteroids in patients with hypothyroidism and in those with cirrhosis. Corticosteroids should be used cautiously in patients with ocular herpes simplex for fear of corneal perforation. The lowest possible dose of corticosteroid should be used to control the condition under treatment, and when reduction in dosage is possible, the reduction must be gradual. Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations. Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids. Aspirin should be used within caution in conjunction with corticosteroids in hypoprothrombinemia. Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess, or other pyogenic infection, also in diverticulitis, fresh intestinal anastomoses, active or latent peptic ulcer, renal insufficiency, hypertension, osteoporosis, and myasthenia gravis. Signs of peritoneal irritation following gastrointestinal perforation in patients receiving large doses of corticosteroids may be minimal or absent. Fat embolism has been reported as a possible complication of hypercortisonism. When large doses are given, some authorities advise that antacids be administered between meals to help prevent peptic ulcer. Steroids may increase or decrease motility and number of spermatozoa in some patients. Phenytoin, phenobarbital, ephedrine, and rifampin may enhance the metabolic clearance of corticosteroids resulting in decreased blood levels and lessened physiologic activity, thus requiring adjustment in corticosteroid dosage. These interactions may interfere with dexamethasone suppression tests which should be interpreted with caution during administration of these drugs. False negative results in the dexamethasone suppression test (DST) in patients being treated with indomethacin have been reported. Thus, results of the DST should be interpreted with caution in these patients. The prothrombin time should be checked frequently in patients who are receiving corticosteroids and coumarin anticoagulants at the same time because of reports that corticosteroids have altered the response to these anticoagulants. Studies have shown that the usual effect produced by adding corticosteroids is inhibition of response to coumarins, although there have been some conflicting reports of potentiation not substantiated by studies. When corticosteroids are administered concomitantly with potassium-depleting diuretics, patients should be observed closely for development of hypokalemia. The slower rate of absorption by intramuscular administration should be recognized. Information for Patients Susceptible patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles. Patients should also be advised that if they are exposed, medical advice should be sought without delay. Pediatric Use Growth and development of infants and children patients on prolonged corticosteroid therapy should be carefully followed.",
-   "Information for Patients Susceptible patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles. Patients should also be advised that if they are exposed, medical advice should be sought without delay.",
-   "Pediatric Use Growth and development of infants and children patients on prolonged corticosteroid therapy should be carefully followed."
+   "PRECAUTIONS: This product, like many other steroid formulations, is sensitive to heat. Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial. Following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the corticosteroid withdrawal syndrome including fever, myalgia, arthralgia, and malaise. This may occur in patients even without evidence of adrenal insufficiency. There is an enhanced effect of corticosteroids in patients with hypothyroidism and in those with cirrhosis. Corticosteroids should be used cautiously in patients with ocular herpes simplex for fear of corneal perforation. The lowest possible dose of corticosteroid should be used to control the condition under treatment, and when reduction in dosage is possible, the reduction must be gradual. Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations. Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids. Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia. Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess, or other pyogenic infection, also in diverticulitis, fresh intestinal anastomoses, active or latent peptic ulcer, renal insufficiency, hypertension, osteoporosis, and myasthenia gravis. Signs of peritoneal irritation following gastrointestinal perforation in patients receiving large doses of corticosteroids may be minimal or absent. Fat embolism has been reported as a possible complication of hypercortisonism. When large doses are given, some authorities advise that antacids be administered between meals to help to prevent peptic ulcer. Growth and development of infants and children on prolonged corticosteroid therapy should be carefully followed. Steroids may increase or decrease motility and number of spermatozoa in some patients. Phenytoin, phenobarbital, ephedrine, and rifampin may enhance the metabolic clearance of corticosteroids resulting in decreased blood levels and lessened physiologic activity, thus requiring adjustment in corticosteroid dosage. These interactions may interfere with dexamethasone suppression tests which should be interpreted with caution during administration of these drugs. False negative results in the dexamethasone suppression test (DST) in patients being treated with indomethacin have been reported. Thus, results of the DST should be interpreted with caution in these patients. The prothrombin time should be checked frequently in patients who are receiving corticosteroids and coumarin anticoagulants at the same time because of reports that corticosteroids have altered the response to these anticoagulants. Studies have shown that the usual effect produced by adding corticosteroids is inhibition of response to coumarins, although there have been some conflicting reports of potentiation not substantiated by studies. When corticosteroids are administered concomitantly with potassium-depleting diuretics, patients should be observed closely for development of hypokalemia. Intra-articular injection of a corticosteroid may produce systemic as well as local effects. Appropriate examination of any joint fluid present is necessary to exclude a septic process. A marked increase in pain accompanied by local swelling, further restriction of joint motion, fever, and malaise is suggestive of septic arthritis. If this complication occurs and the diagnosis of sepsis is confirmed, appropriate antimicrobial therapy should be instituted. Injection of a steroid into an infected site is to be avoided. Corticosteroids should not be injected into unstable joints. Patients should be impressed strongly with the importance of not overusing joints in which symptomatic benefit has been obtained as long as the inflammatory process remains active. Frequent intra-articular injection may result in damage to joint tissues. The slower rate of absorption by intramuscular administration should be recognized. Information for Patients Persons who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles. Patients should also be advised that if they are exposed, medical advice should be sought without delay."
   ],
   "adverse_reactions": [
-   "ADVERSE REACTIONS Fluid and electrolyte disturbances: Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension Musculoskeletal: Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Tendon rupture Pathologic fracture of long bones Gastrointestinal: Peptic ulcer with possible subsequent perforation and hemorrhage Perforation of the small and large bowel; particularly in patients with inflammatory bowel disease Pancreatitis Abdominal distention Ulcerative esophagitis Dermatologic: Impaired wound healing Thin fragile skin Petechiae and ecchymoses Erythema Increased sweating May suppress reactions to skin tests Burning or tingling, especially in the perineal area (after IV injection) Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema Neurologic: Convulsions Increased intracranial pressure with papilledema (pseudotumor cerebri) usually after treatment Vertigo Headache Psychic disturbances Endocrine: Menstrual irregularities Development of cushingoid state Suppression of growth in pediatric patients Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics Hirsutism Ophthalmic: Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos Retinopathy of prematurity Metabolic: Negative nitrogen balance due to protein catabolism Cardiovascular: Myocardial rupture following recent myocardial infarction (see WARNINGS ) Hypertrophic cardiomyopathy in low birth weight infants Other: Anaphylactoid or hypersensitivity reactions Thromboembolism Weight gain Increased appetite Nausea Malaise Hiccups The following additional adverse reactions are related to parenteral corticosteroid therapy: Hyperpigmentation or hypopigmentation Subcutaneous and cutaneous atrophy Sterile abscess Charcot-like arthropathy"
+   "ADVERSE REACTIONS: To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. Fluid and electrolyte disturbances: Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension Musculoskeletal: Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Pathologic fracture of long bones Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Tendon rupture Gastrointestinal: Peptic ulcer with possible subsequent perforation and hemorrhage Perforation of the small and large bowel, particularly in patients with inflammatory bowel disease Pancreatitis Abdominal distention Ulcerative esophagitis Dermatologic: Impaired wound healing Thin fragile skin Petechiae and ecchymoses Erythema Increased sweating May suppress reactions to skin tests Burning or tingling, especially in the perineal area (after IV injection) Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema Neurologic: Convulsions Increased intracranial pressure with papilledema (pseudotumor cerebri) usually after treatment Vertigo Headache Psychic disturbances Endocrine: Menstrual irregularities Development of cushingoid state Suppression of growth in children Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics Hirsutism Ophthalmic: Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos Metabolic: Negative nitrogen balance due to protein catabolism Cardiovascular: Myocardial rupture following recent myocardial infarction (see WARNINGS ) Other: Anaphylactoid or hypersensitivity reactions Thromboembolism Weight gain Increased appetite Nausea Malaise Hiccups The following additional adverse reactions are related to parenteral corticosteroid therapy: Rare instances of blindness associated with intralesional therapy around the face and head Hyperpigmentation or hypopigmentation Subcutaneous and cutaneous atrophy Sterile abscess Post-injection flare (following intra-articular use) Charcot-like arthropathy"
   ],
   "overdosage": [
-   "OVERDOSAGE Reports of acute toxicity and/or death following overdosage of glucocorticoids are rare. In the event of overdosage, no specific antidote is available; treatment is supportive and symptomatic. The oral LD 50 of dexamethasone in female mice was 6.5 g/kg. The intravenous LD 50 of dexamethasone sodium phosphate in female mice was 794 mg/kg."
+   "OVERDOSAGE: Reports of acute toxicity and/or death following overdosage of glucocorticoids are rare. In the event of overdosage, no specific antidote is available; treatment is supportive and symptomatic. The oral LD 50 of dexamethasone in female mice was 6.5 g/kg. The intravenous LD 50 of dexamethasone sodium phosphate in female mice was 794 mg/kg."
   ],
   "dosage_and_administration": [
-   "DOSAGE AND ADMINISTRATION Dexamethasone sodium phosphate injection, 10 mg/mL– For intravenous and intramuscular injection only. Dexamethasone sodium phosphate injection can be given directly from the vial, or it can be added to Sodium Chloride Injection or Dextrose Injection and administered by intravenous drip. Solutions used for intravenous administration or further dilution of this product should be preservative free when used in the neonate, especially the premature infant. When it is mixed with an infusion solution, sterile precautions should be observed. Since infusion solutions generally do not contain preservatives, mixtures should be used within 24 hours. DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE AND THE RESPONSE OF THE PATIENT. Intravenous and Intramuscular Injection The initial dosage of dexamethasone sodium phosphate injection varies from 0.5 to 9 mg a day depending on the disease being treated. In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required. The initial dosage should be maintained or adjusted until the patient’s response is satisfactory. If a satisfactory clinical response does not occur after a reasonable period of time, discontinue dexamethasone sodium phosphate injection and transfer the patient to other therapy. After a favorable initial response, the proper maintenance dosage should be determined by decreasing the initial dosage in small amounts to the lowest dosage that maintains an adequate clinical response. Patients should be observed closely for signs that might require dosage adjustment, including changes in clinical status resulting from remissions or exacerbations of the disease, individual drug responsiveness, and the effect of stress (e.g., surgery, infection, trauma). During stress it may be necessary to increase dosage temporarily. If the drug is to be stopped after more than a few days of treatment, it usually should be withdrawn gradually. When the intravenous route of administration is used, dosage usually should be the same as the oral dosage. In certain overwhelming, acute, life-threatening situations, however, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages. The slower rate of absorption by intramuscular administration should be recognized. Shock There is a tendency in current medical practice to use high (pharmacologic) doses of corticosteroids for the treatment of unresponsive shock. The following dosages of dexamethasone sodium phosphate injection have been suggested by various authors: Author Dosage Cavanagh 1 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg Dietzman 2 2 to 6 mg/kg of body weight as a single intravenous injection Frank 3 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists Oaks 4 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists Schumer 5 1 mg/kg of body weight as a single intravenous injection Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours. Although adverse reactions associated with high dose, short-term corticosteroid therapy are uncommon, peptic ulceration may occur. Cerebral Edema Dexamethasone sodium phosphate injection is generally administered initially in a dosage of 10 mg intravenously followed by four mg every six hours intramuscularly until the symptoms of cerebral edema subside. Response is usually noted within 12 to 24 hours and dosage may be reduced after two to four days and gradually discontinued over a period of five to seven days. For palliative management of patients with recurrent or inoperable brain tumors, maintenance therapy with 2 mg two or three times a day may be effective. Acute Allergic Disorders In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested: Dexamethasone sodium phosphate injection, first day , 4 or 8 mg intramuscularly. Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided doses each day; fourth day , 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit. This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit.",
-   "Intravenous and Intramuscular Injection The initial dosage of dexamethasone sodium phosphate injection varies from 0.5 to 9 mg a day depending on the disease being treated. In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required. The initial dosage should be maintained or adjusted until the patient’s response is satisfactory. If a satisfactory clinical response does not occur after a reasonable period of time, discontinue dexamethasone sodium phosphate injection and transfer the patient to other therapy. After a favorable initial response, the proper maintenance dosage should be determined by decreasing the initial dosage in small amounts to the lowest dosage that maintains an adequate clinical response. Patients should be observed closely for signs that might require dosage adjustment, including changes in clinical status resulting from remissions or exacerbations of the disease, individual drug responsiveness, and the effect of stress (e.g., surgery, infection, trauma). During stress it may be necessary to increase dosage temporarily. If the drug is to be stopped after more than a few days of treatment, it usually should be withdrawn gradually. When the intravenous route of administration is used, dosage usually should be the same as the oral dosage. In certain overwhelming, acute, life-threatening situations, however, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages. The slower rate of absorption by intramuscular administration should be recognized.",
-   "Shock There is a tendency in current medical practice to use high (pharmacologic) doses of corticosteroids for the treatment of unresponsive shock. The following dosages of dexamethasone sodium phosphate injection have been suggested by various authors: Author Dosage Cavanagh 1 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg Dietzman 2 2 to 6 mg/kg of body weight as a single intravenous injection Frank 3 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists Oaks 4 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists Schumer 5 1 mg/kg of body weight as a single intravenous injection Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours. Although adverse reactions associated with high dose, short-term corticosteroid therapy are uncommon, peptic ulceration may occur.",
-   "Cerebral Edema Dexamethasone sodium phosphate injection is generally administered initially in a dosage of 10 mg intravenously followed by four mg every six hours intramuscularly until the symptoms of cerebral edema subside. Response is usually noted within 12 to 24 hours and dosage may be reduced after two to four days and gradually discontinued over a period of five to seven days. For palliative management of patients with recurrent or inoperable brain tumors, maintenance therapy with 2 mg two or three times a day may be effective.",
-   "Acute Allergic Disorders In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested: Dexamethasone sodium phosphate injection, first day , 4 or 8 mg intramuscularly. Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided doses each day; fourth day , 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit. This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit."
+   "DOSAGE AND ADMINISTRATION: Dexamethasone sodium phosphate injection, 4 mg per mL– For intravenous, intramuscular, intra-articular, intralesional, and soft tissue injection. Dexamethasone sodium phosphate injection can be given directly from the vial, or it can be added to Sodium Chloride Injection or Dextrose Injection and administered by intravenous drip. Solutions used for intravenous administration or further dilution of this product should be preservative free when used in the neonate, especially the premature infant. When it is mixed with an infusion solution, sterile precautions should be observed. Since infusion solutions generally do not contain preservatives, mixtures should be used within 24 hours. DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE AND THE RESPONSE OF THE PATIENT. Intravenous and Intramuscular Injection: The initial dosage of dexamethasone sodium phosphate injection varies from 0.5 to 9 mg a day depending on the disease being treated. In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required. The initial dosage should be maintained or adjusted until the patient’s response is satisfactory. If a satisfactory clinical response does not occur after a reasonable period of time, discontinue dexamethasone sodium phosphate injection and transfer the patient to other therapy. After a favorable initial response, the proper maintenance dosage should be determined by decreasing the initial dosage in small amounts to the lowest dosage that maintains an adequate clinical response. Patients should be observed closely for signs that might require dosage adjustment, including changes in clinical status resulting from remissions or exacerbations of the disease, individual drug responsiveness, and the effect of stress (e.g., surgery, infection, trauma). During stress it may be necessary to increase dosage temporarily. If the drug is to be stopped after more than a few days of treatment, it usually should be withdrawn gradually. When the intravenous route of administration is used, dosage usually should be the same as the oral dosage. In certain overwhelming, acute, life-threatening situations, however, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages. The slower rate of absorption by intramuscular administration should be recognized. Shock There is a tendency in current medical practice to use high (pharmacologic) doses of corticosteroids for the treatment of unresponsive shock. The following dosages of dexamethasone sodium phosphate injection have been suggested by various authors: Author Dosage Cavanagh 1 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg Dietzman 2 2 to 6 mg/kg of body weight as a single intravenous injection Frank 3 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists Oaks 4 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists Schumer 5 1 mg/kg of body weight as a single intravenous injection Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours. Although adverse reactions associated with high dose, short term corticosteroid therapy are uncommon, peptic ulceration may occur. Cerebral Edema Dexamethasone sodium phosphate injection is generally administered initially in a dosage of 10 mg intravenously followed by four mg every six hours intramuscularly until the symptoms of cerebral edema subside. Response is usually noted within 12 to 24 hours and dosage may be reduced after two to four days and gradually discontinued over a period of five to seven days. For palliative management of patients with recurrent or inoperable brain tumors, maintenance therapy with two mg two or three times a day may be effective. Acute Allergic Disorders In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested: Dexamethasone sodium phosphate injection, 4 mg per mL: first day , 1 or 2 mL (4 or 8 mg), intramuscularly. Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided doses each day; fourth day, 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit. This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases. Intra-articular, Intralesional and Soft Tissue Injection Intra-articular, intralesional, and soft tissue injections are generally employed when the affected joints or areas are limited to one or two sites. Dosage and frequency of injection varies depending on the condition and the site of injection. The usual dose is from 0.2 to 6 mg. The frequency usually ranges from once every three to five days to once every two to three weeks. Frequent intra-articular injection may result in damage to joint tissues. Some of the usual single doses are: Site of Injection Amount of Dexamethasone Phosphate (mg) Large Joints (e.g., Knee) 2 to 4 Small Joints (e.g., Interphalangeal, Temporomandibular) 0.8 to 1 Bursae 2 to 3 Tendon Sheaths 0.4 to 1 Soft Tissue Infiltration 2 to 6 Ganglia 1 to 2 Dexamethasone sodium phosphate injection is particularly recommended for use in conjunction with one of the less soluble, longer-acting steroids for intra-articular and soft tissue injection. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit.",
+   "Intra-articular, Intralesional and Soft Tissue Injection Intra-articular, intralesional, and soft tissue injections are generally employed when the affected joints or areas are limited to one or two sites. Dosage and frequency of injection varies depending on the condition and the site of injection. The usual dose is from 0.2 to 6 mg. The frequency usually ranges from once every three to five days to once every two to three weeks. Frequent intra-articular injection may result in damage to joint tissues. Some of the usual single doses are: Site of Injection Amount of Dexamethasone Phosphate (mg) Large Joints (e.g., Knee) 2 to 4 Small Joints (e.g., Interphalangeal, Temporomandibular) 0.8 to 1 Bursae 2 to 3 Tendon Sheaths 0.4 to 1 Soft Tissue Infiltration 2 to 6 Ganglia 1 to 2 Dexamethasone sodium phosphate injection is particularly recommended for use in conjunction with one of the less soluble, longer-acting steroids for intra-articular and soft tissue injection. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit."
   ],
   "dosage_and_administration_table": [
-   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Author</content></content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Dosage</content></content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Cavanagh <sup>1</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Dietzman <sup>2</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>2 to 6 mg/kg of body weight as a single intravenous injection</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Frank <sup>3</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Oaks <sup>4</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Schumer <sup>5</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>1 mg/kg of body weight as a single intravenous injection</paragraph></td></tr></tbody></table>",
-   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Author</content></content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Dosage</content></content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Cavanagh <sup>1</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Dietzman <sup>2</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>2 to 6 mg/kg of body weight as a single intravenous injection</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Frank <sup>3</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Oaks <sup>4</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Schumer <sup>5</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>1 mg/kg of body weight as a single intravenous injection</paragraph></td></tr></tbody></table>"
+   "<table cellpadding=\"0pt\" cellspacing=\"0pt\" width=\"100%\"><col width=\"21%\"/><col width=\"77%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Author</content></content> </paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"> <content styleCode=\"italics\">Dosage</content></content> </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Cavanagh<sup>1</sup> </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Dietzman<sup>2</sup> </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>2 to 6 mg/kg of body weight as a single intravenous injection </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Frank<sup>3</sup> </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Oaks<sup>4</sup> </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>Schumer<sup>5</sup> </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>1 mg/kg of body weight as a single intravenous injection </paragraph></td></tr></tbody></table>",
+   "<table cellpadding=\"0pt\" cellspacing=\"0pt\" width=\"100%\"><col width=\"49%\"/><col width=\"49%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Site of Injection</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Amount of Dexamethasone</content> <content styleCode=\"bold\">Phosphate (mg)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Large Joints (e.g., Knee)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 2 to 4 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Small Joints (e.g., Interphalangeal, Temporomandibular)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 0.8 to 1 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Bursae</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 2 to 3 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Tendon Sheaths</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 0.4 to 1 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Soft Tissue Infiltration</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 2 to 6 </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>Ganglia</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 1 to 2 </paragraph></td></tr></tbody></table>",
+   "<table cellpadding=\"0pt\" cellspacing=\"0pt\" width=\"100%\"><col width=\"49%\"/><col width=\"49%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Site of Injection</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Amount of Dexamethasone</content> <content styleCode=\"bold\">Phosphate (mg)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Large Joints (e.g., Knee)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 2 to 4 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Small Joints (e.g., Interphalangeal, Temporomandibular)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 0.8 to 1 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Bursae</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 2 to 3 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Tendon Sheaths</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 0.4 to 1 </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Soft Tissue Infiltration</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 2 to 6 </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>Ganglia</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph> 1 to 2 </paragraph></td></tr></tbody></table>"
   ],
   "how_supplied": [
-   "HOW SUPPLIED Dexamethasone Sodium Phosphate Injection, USP (Preservative Free) equivalent to 10 mg dexamethasone phosphate, is supplied in a single dose vial as follows: Product No. NDC No. Strength Vial Size 500601 63323-506-01 10 mg per mL 1 mL vial, packaged in twenty-fives. Dexamethasone Sodium Phosphate Injection, USP (Preserved) equivalent to 10 mg dexamethasone phosphate, is supplied in a multiple dose vial as follows: Product No. NDC No. Strength Vial Size 501610 63323-516-10 100 mg per 10 mL (10 mg per mL) 10 mL vial, packaged in tens. This container closure is not made with natural rubber latex. Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Sensitive to heat. Do not autoclave. Protect from freezing. Protect from light. Single dose vials–Store in container until time of use. Discard unused portion. Multiple dose vials–Store in container until contents are used.",
-   "Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Sensitive to heat. Do not autoclave. Protect from freezing. Protect from light. Single dose vials–Store in container until time of use. Discard unused portion. Multiple dose vials–Store in container until contents are used."
+   "HOW SUPPLIED: Dexamethasone Sodium Phosphate Injection, USP phosphate, is supplied as follows: Product Code Unit of Sale Strength Each RF16501 NDC 63323-165-51 Unit of 25 4 mg per mL NDC 63323-165-11 1 mL fill, in a 2 mL Flip-Top Single Dose Vial This product is RFID-enabled. 16501 NDC 63323-165-01 Unit of 25 4 mg per mL NDC 63323-165-02 1 mL fill, in a 2 mL Flip-Top Single Dose Vial RF16505 NDC 63323-165-53 Unit of 25 20 mg per 5 mL (4 mg per mL) NDC 63323-165-13 5 mL fill, in a 5 mL Flip-Top Multiple Dose Vial This product is RFID-enabled. 16505 NDC 63323-165-05 Unit of 25 20 mg per 5 mL (4 mg per mL) NDC 63323-165-03 5 mL fill, in a 5 mL Flip-Top Multiple Dose Vial 16530 NDC 63323-165-30 Packaged Individually 120 mg per 30 mL (4 mg per mL) NDC 63323-165-30 30 mL fill, in a 30 mL Flip-Top Multiple Dose Vial STORE AT: 20 °C to 25 °C ( 68 °F to 77 °F) [see USP Controlled Room Temperature]. Protect from freezing. Sensitive to heat. Do not autoclave. Protect from light. Store container in carton until contents have been used. Do not use if precipitate is present. The container closure is not made with natural rubber latex."
   ],
   "how_supplied_table": [
-   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Product</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Vial Size</content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>500601</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>63323-506-01</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>10 mg per mL</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>1 mL vial, packaged in twenty-fives.</paragraph></td></tr></tbody></table>",
-   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Product</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Vial Size</content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>501610</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>63323-516-10</paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>100 mg per 10 mL</paragraph><paragraph>(10 mg per mL)</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>10 mL vial, packaged in tens.</paragraph></td></tr></tbody></table>"
+   "<table styleCode=\"Noautorules\" width=\"100%\"><col width=\"24%\"/><col width=\"24%\"/><col width=\"25%\"/><col width=\"25%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Product Code</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Unit of Sale</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Strength </content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Each</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>RF16501</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-51</paragraph><paragraph>Unit of 25</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg per mL</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-11</paragraph><paragraph>1 mL fill, in a 2 mL Flip-Top Single Dose Vial </paragraph><paragraph>This product is RFID-enabled.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>16501</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-01</paragraph><paragraph>Unit of 25</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg per mL</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-02</paragraph><paragraph>1 mL fill, in a 2 mL Flip-Top Single Dose Vial</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>RF16505</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-53</paragraph><paragraph>Unit of 25</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>20 mg per 5 mL</paragraph><paragraph>(4 mg per mL)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-13</paragraph><paragraph>5 mL fill, in a 5 mL </paragraph><paragraph>Flip-Top Multiple Dose Vial </paragraph><paragraph>This product is RFID-enabled.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>16505</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-05</paragraph><paragraph>Unit of 25</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>20 mg per 5 mL</paragraph><paragraph>(4 mg per mL)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NDC 63323-165-03</paragraph><paragraph>5 mL fill, in a 5 mL Flip-Top Multiple Dose Vial </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>16530</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>NDC 63323-165-30</paragraph><paragraph>Packaged</paragraph><paragraph>Individually</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>120 mg per 30 mL</paragraph><paragraph>(4 mg per mL)</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>NDC 63323-165-30</paragraph><paragraph>30 mL fill, in a 30 mL </paragraph><paragraph>Flip-Top Multiple Dose Vial </paragraph></td></tr></tbody></table>"
   ],
   "references": [
-   "REFERENCES Cavanagh, D.; Singh, K.B.: Endotoxin shock in pregnancy and abortion, in: “Corticosteroids in the Treatment of Shock”, Schumer, W.; Nyhus, L.M., Editors, Urbana, University of Illinois Press, 1970, pp. 86-96. Dietzman, R.H.; Ersek, R.A.; Bloch, J.M.; Lilleheir, R.C.: High-output, low-resistance gram-negative septic shock in man, Angiology 20 : 691-700, Dec. 1969. Frank, E.: Clinical observations in shock and management (in: Shields, T.F., ed.: Symposium on current concepts and management of shock), J. Maine Med. Ass. 59 : 195-200, Oct. 1968. Oaks, W. W.; Cohen, H.E.: Endotoxin shock in the geriatric patient, Geriat. 22 : 120-130, Mar. 1967. Schumer, W.; Nyhus, L.M.: Corticosteroid effect on biochemical parameters of human oligemic shock, Arch. Surg. 100 : 405-408, Apr. 1970."
+   "REFERENCES: 1. Cavanagh, D.; Singh, K.B.: Endotoxin shock in pregnancy and abortion, in: “Corticosteroids in the Treatment of Shock”, Schumer, W.; Nyhus, L.M., Editors, Urbana, University of Illinois Press, 1970, pp. 86-96. 2. Dietzman, R.H.; Ersek, R.A.; Bloch, J.M.; Lillehei, R.C.: High-output, low-resistance gram-negative septic shock in man, Angiology 20 : 691-700, Dec. 1969. 3. Frank, E.: Clinical observations in shock and management (In: Shields, T.F., ed.: Symposium on current concepts and management of shock), J. Maine Med. Ass. 59 : 195-200, Oct. 1968. 4. Oaks, W. W.; Cohen, H.E.: Endotoxin shock in the geriatric patient, Geriat. 22 : 120-130, Mar. 1967. 5. Schumer, W.; Nyhus, L.M.: Corticosteroid effect on biochemical parameters of human oligemic shock, Arch. Surg. 100 : 405-408, Apr. 1970."
   ],
-  "set_id": "43045630-8bf8-59ae-e063-6294a90a2ebe",
-  "id": "43045630-8bf9-59ae-e063-6294a90a2ebe",
-  "effective_time": "20251107",
-  "version": "1"
+  "set_id": "2b626a48-c7aa-4443-9164-a08ff069ccd1",
+  "id": "1815f54a-5637-45bc-a582-3e62350935ba",
+  "effective_time": "20260608",
+  "version": "7"
  }
 }
