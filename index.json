@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T15:50Z",
- "n": 353,
+ "updated": "2026-11-11T15:54Z",
+ "n": 356,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -825,20 +825,52 @@
    "n_candidates": 11
   },
   {
+   "id_es": "budesonida-inh",
+   "generic_en": "budesonide",
+   "brand": [
+    "PULMICORT FLEXHALER"
+   ],
+   "manufacturer": [
+    "Rubicon Holdings Inc."
+   ],
+   "effective_time": "20261026",
+   "set_id": "ae1105cd-69fc-4c15-937f-c535304341c2",
+   "application": [
+    "NDA021949"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "budesonida-neb",
+   "generic_en": "budesonide",
+   "brand": [
+    "Budesonide"
+   ],
+   "manufacturer": [
+    "Nephron Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260508",
+   "set_id": "f12043df-f9a3-4edb-88f8-dd176c1a141c",
+   "application": [
+    "ANDA078202"
+   ],
+   "n_candidates": 1
+  },
+  {
    "id_es": "budesonida",
    "generic_en": "budesonide",
    "brand": [
-    "Eohilia"
+    "budesonide"
    ],
    "manufacturer": [
-    "TAKEDA PHARMACEUTICALS AMERICA, INC."
+    "Bryant Ranch Prepack"
    ],
-   "effective_time": "20250203",
-   "set_id": "56f2023a-69b2-4470-b4ad-af7ec1be527a",
+   "effective_time": "20260217",
+   "set_id": "33def4dc-b469-f987-e063-6294a90ace0b",
    "application": [
-    "NDA213976"
+    "NDA021324"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "bumetanida",
@@ -2310,15 +2342,15 @@
   },
   {
    "id_es": "fluticasona-vilanterol",
-   "generic_en": "fluticasone furoate and vilanterol",
+   "generic_en": "fluticasone furoate and vilanterol trifenatate",
    "brand": [
-    "Fluticasone Furoate and Vilanterol"
+    "Breo Ellipta"
    ],
    "manufacturer": [
-    "Prasco Laboratories"
+    "GlaxoSmithKline LLC"
    ],
-   "effective_time": "20241121",
-   "set_id": "3a761487-c300-451a-8537-3196c00c11b5",
+   "effective_time": "20241107",
+   "set_id": "96428df1-ea05-431a-98d3-1ec2c4b63878",
    "application": [
     "NDA204275"
    ],
@@ -2993,6 +3025,22 @@
    "set_id": "b519bd83-038c-4ec5-a231-a51ec5cc291f",
    "application": [
     "BLA018780"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "ipratropio-neb",
+   "generic_en": "ipratropium bromide",
+   "brand": [
+    "Ipratropium Bromide"
+   ],
+   "manufacturer": [
+    "Nephron Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260508",
+   "set_id": "db8095db-d1fd-4099-9fb1-d1ad4e284976",
+   "application": [
+    "ANDA075562"
    ],
    "n_candidates": 1
   },
