@@ -1,0 +1,723 @@
+{
+ "id_es": "bicarbonato-sodio",
+ "generic_en": "sodium bicarbonate",
+ "search": "openfda.generic_name.exact:\"SODIUM BICARBONATE\"",
+ "pref": "sodium bicarbonate|INTRAVENOUS|",
+ "downloaded": "2026-11-11T16:08Z",
+ "chosen": {
+  "set_id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+  "id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+  "effective_time": "20260814",
+  "version": "1",
+  "brand_name": [
+   "sodium bicarbonate"
+  ],
+  "generic_name": [
+   "SODIUM BICARBONATE"
+  ],
+  "manufacturer_name": [
+   "Baxter Healthcare Corporation"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA218524"
+  ],
+  "n_sections": 25
+ },
+ "candidates": [
+  {
+   "set_id": "643fe204-4a7b-00e4-e053-2a91aa0aef06",
+   "id": "5ee6e51c-b723-fa30-e063-6394a90ae0eb",
+   "effective_time": "20261028",
+   "version": "10",
+   "brand_name": [
+    "Arm and Hammer Baking Soda"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Church & Dwight Co., Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M016"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "897dbb09-fb47-4e03-8cae-bf76d48a7a03",
+   "id": "5ebfaecf-bdb4-0391-e063-6394a90a103a",
+   "effective_time": "20261026",
+   "version": "10",
+   "brand_name": [
+    "Sodium Bicarbonate 10 gr"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "GRAXCELL PHARMACEUTICAL, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "223d1de8-7940-bbdc-e063-6294a90a51d8",
+   "id": "5df7c928-761b-48c2-e063-6394a90a96e0",
+   "effective_time": "20261016",
+   "version": "5",
+   "brand_name": [
+    "After Bite Advanced"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Tender Corporation d/b/a Adventure Ready Brands"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M016"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "e73b5871-4a87-4473-ab00-5e5395be017d",
+   "id": "5df6ad11-054c-f6c5-e063-6294a90a562f",
+   "effective_time": "20261016",
+   "version": "6",
+   "brand_name": [
+    "Sodium Bicarbonate Antacid"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Rugby Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "5ae65432-04a1-4b6b-8536-2535064fc782",
+   "id": "5ddbe894-88dd-beb0-e063-6394a90a5d3d",
+   "effective_time": "20261015",
+   "version": "2",
+   "brand_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217594"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "28cdf049-acdb-4098-a5ca-e86257c81954",
+   "id": "5c3cbb52-cd52-3e70-e063-6394a90aa9a2",
+   "effective_time": "20260924",
+   "version": "7",
+   "brand_name": [
+    "Sodium Bicarbonate Antacid"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Rugby Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "ebf340c9-0b6d-13d2-e053-2995a90ae338",
+   "id": "5c3c65f4-91c6-1cca-e063-6394a90ae62f",
+   "effective_time": "20260924",
+   "version": "3",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "96093b76-5d98-4d2b-b851-20207a8864db",
+   "id": "5a1b78ac-9fc3-5ad3-e063-6394a90a025e",
+   "effective_time": "20260828",
+   "version": "5",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203449"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "f8806ec3-a1c0-47a9-9660-2628dca4623e",
+   "id": "f8806ec3-a1c0-47a9-9660-2628dca4623e",
+   "effective_time": "20260825",
+   "version": "1",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Exela Pharma Sciences, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211091"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+   "id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+   "effective_time": "20260814",
+   "version": "1",
+   "brand_name": [
+    "sodium bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA218524"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "2d2035c2-e41b-4d57-a23c-fae16ad9a355",
+   "id": "58755920-33ad-d7e5-e063-6394a90a920f",
+   "effective_time": "20260807",
+   "version": "3",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Milla Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219089"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "e325d899-d9a6-5adb-e053-2995a90ac861",
+   "id": "583275fa-14ea-1816-e063-6394a90a48f9",
+   "effective_time": "20260804",
+   "version": "8",
+   "brand_name": [
+    "Sodium Bicarbonate 5 gr"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "TWIN MED LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "ac91e834-e693-43a2-829b-56793453e8cc",
+   "id": "28e698ac-0138-47d1-8ab1-9e29c2ad743a",
+   "effective_time": "20260709",
+   "version": "7",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals Private Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA220790"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "9ee46a5b-d00e-4254-e053-2995a90aeb3a",
+   "id": "556cf073-d13b-a79a-e063-6394a90a305a",
+   "effective_time": "20260629",
+   "version": "4",
+   "brand_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202981"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "d8516f38-6f92-32d1-e053-2995a90a96bf",
+   "id": "54a08cb1-70ca-e753-e063-6294a90a5615",
+   "effective_time": "20260619",
+   "version": "5",
+   "brand_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 15
+  },
+  {
+   "set_id": "60c2a176-8854-4479-b853-d07fe9a1830c",
+   "id": "ecd865ff-43cd-48a2-9b5c-dfbf386a88a8",
+   "effective_time": "20260612",
+   "version": "5",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "5401e4ff-aa7a-3e97-e063-6294a90a24f0",
+   "id": "5401e4ff-aa7b-3e97-e063-6294a90a24f0",
+   "effective_time": "20260611",
+   "version": "1",
+   "brand_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219701"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "2f05947f-a489-4298-a871-90db75b2a6c5",
+   "id": "2f05947f-a489-4298-a871-90db75b2a6c5",
+   "effective_time": "20260609",
+   "version": "1",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Exela Pharma Sciences, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211091"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "fde4ea0c-152b-4b79-a6d8-2b0dbd9107aa",
+   "id": "bda92f22-0c50-4105-b1fb-c4eb5c12678d",
+   "effective_time": "20260604",
+   "version": "1",
+   "brand_name": [
+    "Sodium Bicarbonate Antacid"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "aeaa34f6-216d-49f3-8393-c7bda96a3e32",
+   "id": "52ba1edd-fc9b-bb47-e063-6394a90ad9b5",
+   "effective_time": "20260526",
+   "version": "7",
+   "brand_name": [
+    "Humco Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Humco Holding Group, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "5195cab5-bdda-2ddf-e063-6394a90ac9fe",
+   "id": "5195cab5-bddb-2ddf-e063-6394a90ac9fe",
+   "effective_time": "20260511",
+   "version": "1",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Vitamex USA, Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "0f867f56-4bc0-4a85-b9d2-a16282b7c82b",
+   "id": "50c437cb-e5c2-0e2b-e063-6394a90a3e2b",
+   "effective_time": "20260501",
+   "version": "2",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "TWIN MED LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "4f97d398-2118-0874-e063-6394a90a4ad1",
+   "id": "4f97cf3b-9e25-cd9c-e063-6294a90a2128",
+   "effective_time": "20260416",
+   "version": "1",
+   "brand_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217594"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "0a0cc46d-372e-4175-932a-065e82d8d353",
+   "id": "4f52483b-6426-9646-e063-6394a90a5c0b",
+   "effective_time": "20260413",
+   "version": "1",
+   "brand_name": [
+    "Sodium Bicarbonate 10 gr. (650 mg)"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Gendose Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M001"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "8664c7ce-707b-4c6c-9ce4-7160b5f877f8",
+   "id": "dcc55d90-d55e-4e1a-9e48-5703cbc74a52",
+   "effective_time": "20260406",
+   "version": "6",
+   "brand_name": [
+    "Sodium Bicarbonate"
+   ],
+   "generic_name": [
+    "SODIUM BICARBONATE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202432"
+   ],
+   "n_sections": 24
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Sodium bicarbonate injection is an alkalinizing agent indicated: • to raise plasma pH in adult and pediatric patients with clinically significant metabolic acidosis. ( 1.1 ) • to alkalinize the urine in drug poisoning in adult and pediatric patients in cases in which urinary drug elimination is enhanced by urinary alkalinaztion. ( 1.2 ) Limitation of Use Do not use sodium bicarbonate injection in settings where rapid administration of sodium bicarbonate is required, such as cardiac arrest. In such situations use a more concentrated solution. 1.1 Treatment of Clinically Significant Metabolic Acidosis Sodium bicarbonate injection is indicated to raise plasma pH in adult and pediatric patients with clinically significant metabolic acidosis. 1.2 Urinary Alkalization in Drug Poisoning Sodium bicarbonate injection is indicated to alkalinize the urine in drug poisoning in adult and pediatric patients in cases in which urinary drug elimination is enhanced by urinary alkalinaztion. Limitation of Use Do not use sodium bicarbonate injection in settings where rapid administration of sodium bicarbonate is required, such as cardiac arrest. In such situations use a more concentrated solution."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Sodium bicarbonate injection is administered by intravenous infusion. ( 2.1 ) Do NOT dilute prior to administration. ( 2.1 ) Recommended Dosage in Adults and Pediatric Patients 2 Years of Age and Older Administer 2 mEq/kg to 5 mEq/kg of sodium bicarbonate injection over a four-to eight-hour period, depending upon the severity of metabolic acidosis as assessed by serum bicarbonate concentration, total CO 2 , blood pH and the clinical condition of the patient. ( 2.2 ) Recommended Dosage in Pediatric Patients Less Than 2 Years of Age, including Neonates Administer 1 mEq/kg to 2 mEq/kg of sodium bicarbonate injection over a four-to eight-hour period. Avoid rapid or bolus administration. ( 2.2 ) 2.1 General Administration Instructions Inspect parenteral drug products for particulate matter and discoloration prior to administration. Do not use if the solution is colored or cloudy or if it contains particulate matter. Discard any unused portion. Sodium bicarbonate injection is a ready to administer product that requires no further dilution prior to infusion. Administer sodium bicarbonate injection by intravenous infusion, via a dedicated line. Individualize dosage depending on the severity of the acidosis. Treatment of metabolic acidosis with sodium bicarbonate should be superimposed on measures designed to address the underlying cause of metabolic acidosis. 2.2 Recommended Dosage Recommended Dosage in Adults and Pediatric Patients 2 Years of Age and Older Administer 2 mEq/kg to 5 mEq/kg of sodium bicarbonate injection over a four- to eight-hour period, depending upon the severity of metabolic acidosis as assessed by serum bicarbonate concentration, total CO 2 , blood pH and the clinical condition of the patient. Recommended Dosage in Pediatric Patients Less Than 2 Years of Age, including Neonates Administer 1 mEq/kg to 2 mEq/kg of sodium bicarbonate injection over a four- to eight-hour period. Avoid rapid or bolus administration [see Warnings and Precautions (5.2) , Use in Specific Populations (8.4) ]."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Sodium Bicarbonate Injection is a clear, colorless, sterile, nonpyrogenic, isotonic solution intended for intravenous use and available as: Injection: 12.6 mg/mL (0.150 mEq/mL), 12,600 mg of sodium bicarbonate injection in 1,000 mL single-dose Viaflo container Injection: 12.6 mg/mL (0.150 mEq/mL), 12,600 mg of Sodium Bicarbonate Injection in 1,000 mL single-dose Viaflo container. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Sodium bicarbonate injection is contraindicated in patients who are losing chloride by vomiting or from continuous gastrointestinal suction and in patients receiving diuretics known to produce a hypochloremic alkalosis. Sodium bicarbonate injection is contraindicated in patients who are losing chloride by vomiting or from continuous gastrointestinal suction and in patients receiving diuretics known to produce a hypochloremic alkalosis. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Edema with Sodium Retention: Monitor patients who are sensitive to sodium intake (heart failure, hypertension, kidney disease, anuria, edema) for signs of fluid overload and adjust as appropriate. ( 5.1 ) • Electrolyte Imbalances: Therapy with sodium bicarbonate injection can result in metabolic alkalosis (associated with muscular twitchings, irritability and tetany) and hypernatremia. Monitor electrolytes periodically during administration and treat abnormalities appropriately. Dosing with sodium bicarbonate injection results in a large volume of administration in younger and lighter weight pediatric patients. Consider use of more concentrated sodium bicarbonate formulations in these pediatric populations. ( 5.2 ) • Extravasation: Prompt elevation of the area, warmth, and local injection of lidocaine or hyaluronidase are recommended to reduce the likelihood of tissue sloughing at the site. ( 5.3 ) 5.1 Edema with Sodium Retention Sodium bicarbonate injection can cause sodium retention and volume overload. Monitor patients who are sensitive to sodium intake (heart failure, hypertension, kidney disease, anuria, edema) for signs of fluid overload and adjust sources of sodium as appropriate. 5.2 Electrolyte Imbalances Sodium bicarbonate injection may cause electrolyte imbalances. Overly aggressive therapy with sodium bicarbonate injection can result in metabolic alkalosis (associated with muscular twitchings, irritability and tetany) and hypernatremia. Monitor electrolytes periodically during administration and treat abnormalities appropriately. Dosing with sodium bicarbonate injection results in a large volume of administration in younger and lighter weight pediatric patients. Consider use of more concentrated sodium bicarbonate formulations in these pediatric populations [see Dosing and Administration (2) ]. 5.3 Extravasation Inadvertent extravasation of intravenously administered hypertonic solutions of sodium bicarbonate have been reported to cause chemical cellulitis because of their alkalinity, with tissue necrosis, ulceration or sloughing at the site of infiltration. Prompt elevation of the area, warmth, and local injection of lidocaine or hyaluronidase are recommended to reduce the likelihood of tissue sloughing at the site of intravenous solution extravasation."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: • Edema with Sodium Retention [see Warnings and Precautions (5.1) ] • Electrolyte Imbalances [see Warnings and Precautions (5.2) ] • Extravasation [see Warnings and Precautions (5.3) ] Adverse reactions include edema with sodium retention, electrolyte imbalances and extravasation. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare Corporation at 1-877-725-2747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS • Pediatric Use: Rapid injection in neonates and children under two years of age may produce hypernatremia, a decrease in cerebrospinal fluid pressure and possible intracranial hemorrhage. ( 8.4 ) 8.1 Pregnancy Risk Summary Available data from published literature over decades of use have not identified a drug associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes. Physiological replacement of sodium bicarbonate is not expected to lead to increased risk of adverse fetal or maternal outcomes. Animal reproduction studies have not been conducted with sodium bicarbonate. The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. 8.2 Lactation Risk Summary There are no data on the presence of sodium bicarbonate in either human or animal milk, the effects on the breast-fed infant or the effects on milk production following administration of sodium bicarbonate injection. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for sodium bicarbonate injection and any potential adverse effects on the breast-fed child from sodium bicarbonate or from the underlying maternal condition. 8.4 Pediatric Use Sodium bicarbonate injection is indicated in pediatric patients: • To raise plasma pH in pediatric patients with clinically significant metabolic acidosis • To alkalinize the urine in drug poisoning in cases in which urinary drug elimination is enhanced by urinary alkalinization Rapid injection of sodium bicarbonate injection solutions into neonates and children under two years of age may produce hypernatremia, a decrease in cerebrospinal fluid pressure and possible intracranial hemorrhage. The rate of administration in such patients should therefore be limited to no more than 8 mEq/kg/day. 8.5 Geriatric Use Clinical studies of sodium bicarbonate injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data from published literature over decades of use have not identified a drug associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes. Physiological replacement of sodium bicarbonate is not expected to lead to increased risk of adverse fetal or maternal outcomes. Animal reproduction studies have not been conducted with sodium bicarbonate. The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Sodium bicarbonate injection is indicated in pediatric patients: • To raise plasma pH in pediatric patients with clinically significant metabolic acidosis • To alkalinize the urine in drug poisoning in cases in which urinary drug elimination is enhanced by urinary alkalinization Rapid injection of sodium bicarbonate injection solutions into neonates and children under two years of age may produce hypernatremia, a decrease in cerebrospinal fluid pressure and possible intracranial hemorrhage. The rate of administration in such patients should therefore be limited to no more than 8 mEq/kg/day."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of sodium bicarbonate injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE If alkalosis results, discontinue the sodium bicarbonate injection and manage the patient according to the degree of alkalosis present. Administer potassium chloride if hypokalemia is present. Treat severe alkalosis accompanied by hyperirritability or tetany with calcium gluconate. In severe alkalosis, consider use of acidifying agent such as ammonium chloride [see Warnings and Precautions (5.2) ] ."
+  ],
+  "description": [
+   "11 DESCRIPTION Sodium bicarbonate is an alkalinizing agent. Chemically, it is sodium hydrogen carbonate. Sodium bicarbonate is a white, crystalline powder. It is soluble in water and insoluble in alcohol. Sodium bicarbonate has the empirical formula NaHCO 3 , a calculated molecular weight of 84.01 and the following structural formula: Sodium Bicarbonate Injection is a sterile, non-pyrogenic, isotonic solution for intravenous infusion. Each mL contains 12.6 mg sodium bicarbonate which is equal to 0.150 milliequivalent each of Na + and HCO 3 - injection. The pH is adjusted between 7.00 and 9.25 with carbon dioxide. The solution contains no bacteriostat, antimicrobial agent or added buffer and is intended only for use as a single-dose injection. Viaflo container is a flexible plastic container fabricated from a multilayer sheeting composed of Polypropylene (PP), Polyamide (PA) and Polyethylene (PE). The amount of water that can permeate from the container into the overwrap is insufficient to affect the solution significantly. Solutions in contact with the flexible container can leach out certain of the container’s chemical components in very small amounts within the expiration period. The suitability of the container material has been confirmed by tests in animals according to USP biological tests for plastic containers. structural-formula-sodium-bicarbonate-1"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Intravenous sodium bicarbonate therapy increases plasma bicarbonate, buffers excess hydrogen ion concentration, raises blood pH. 12.2 Pharmacodynamics Intravenous sodium bicarbonate therapy increases plasma bicarbonate, buffers excess hydrogen ion concentration, and raises blood pH. 12.3 Pharmacokinetics Distribution Sodium bicarbonate in water dissociates to provide sodium (Na + ) and bicarbonate (HCO 3 - ) ions. Sodium (Na + ) is the principal cation of the extracellular fluid. Bicarbonate (HCO 3 - ) is a normal constituent of body fluids. Elimination Plasma bicarbonate concentration is regulated by the kidney through acidification of the urine when there is a deficit or by alkalinization of the urine when there is an excess. Bicarbonate anion is considered “labile” since at a proper concentration of hydrogen ion (H + ) it may be converted to carbonic acid (H 2 CO 3 ) and then to its volatile form, carbon dioxide (CO 2 ) excreted by the lung. In a healthy adult with normal kidney function, practically all the glomerular filtered bicarbonate ion is reabsorbed; less than 1% is excreted in the urine."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Intravenous sodium bicarbonate therapy increases plasma bicarbonate, buffers excess hydrogen ion concentration, raises blood pH."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Distribution Sodium bicarbonate in water dissociates to provide sodium (Na + ) and bicarbonate (HCO 3 - ) ions. Sodium (Na + ) is the principal cation of the extracellular fluid. Bicarbonate (HCO 3 - ) is a normal constituent of body fluids. Elimination Plasma bicarbonate concentration is regulated by the kidney through acidification of the urine when there is a deficit or by alkalinization of the urine when there is an excess. Bicarbonate anion is considered “labile” since at a proper concentration of hydrogen ion (H + ) it may be converted to carbonic acid (H 2 CO 3 ) and then to its volatile form, carbon dioxide (CO 2 ) excreted by the lung. In a healthy adult with normal kidney function, practically all the glomerular filtered bicarbonate ion is reabsorbed; less than 1% is excreted in the urine."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis, mutagenesis and impairment of fertility studies have not been conducted with sodium bicarbonate."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis, mutagenesis and impairment of fertility studies have not been conducted with sodium bicarbonate."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied Sodium Bicarbonate Injection, 12.6 mg/mL, is a clear, colorless solution available in 1000 mL Viaflo container closure system. The solution is supplied as following packaging configuration: NDC NUMBER mg/mL (NaHCO 3 ) mEq/mL (Na + ) mEq/mL (HCO 3 - ) mEq/Container Size (mL) 0338-0822-10 (Carton of 10 bags) 12.6 0.150 0.150 150/1000 16.2 Storage and Handling Store at 20ºC to 25ºC (68ºF to 77ºF) [see USP Controlled Room Temperature]. Do not use unless solution is clear and the container or seal is intact. Discard unused portion."
+  ],
+  "how_supplied_table": [
+   "<table styleCode=\"Noautorules\" width=\"100%\"><col width=\"35%\"/><col width=\"12%\"/><col width=\"13%\"/><col width=\"13%\"/><col width=\"26%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC NUMBER</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">mg/mL</content></paragraph><paragraph><content styleCode=\"bold\">(NaHCO<sub>3</sub>)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">mEq/mL</content></paragraph><paragraph><content styleCode=\"bold\">(Na<sup>+</sup>)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">mEq/mL</content></paragraph><paragraph><content styleCode=\"bold\">(HCO<sub>3</sub><sup>-</sup>)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">mEq/Container Size (mL)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>0338-0822-10 (Carton of 10 bags)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>12.6</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>0.150</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>0.150</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>150/1000</paragraph></td></tr></tbody></table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise patients to report signs and symptoms suggestive of fluid and/or solute overloading, electrolyte imbalances, overhydration, congested states or pulmonary edema [see Warnings and Precautions (5.1) ] . Advise the patient, family or caregiver to report signs of extravasation [see Warnings and Precautions (5.3) ] . Manufactured by: Bieffe Medital SA, Carretera Nacional 260, S/N, Sabiñánigo (Senegüé), Spain (ESP) 22666 Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA Baxter and Viaflo are trademarks of Baxter International Inc. or its subsidiaries. SA-30-03-157"
+  ],
+  "set_id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+  "id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+  "effective_time": "20260814",
+  "version": "1"
+ }
+}

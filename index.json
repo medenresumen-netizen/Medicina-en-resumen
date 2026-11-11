@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T15:59Z",
- "n": 360,
+ "updated": "2026-11-11T16:08Z",
+ "n": 367,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -777,6 +777,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "bicarbonato-sodio",
+   "generic_en": "sodium bicarbonate",
+   "brand": [
+    "sodium bicarbonate"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20260814",
+   "set_id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+   "application": [
+    "NDA218524"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "bimekizumab",
    "generic_en": "bimekizumab",
    "brand": [
@@ -1333,6 +1349,22 @@
     "NDA019537"
    ],
    "n_candidates": 25
+  },
+  {
+   "id_es": "cisatracurio",
+   "generic_en": "cisatracurium besylate",
+   "brand": [
+    "Cisatracurium"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20250221",
+   "set_id": "f78a07e2-0d3b-4460-b29e-8c10c90afbda",
+   "application": [
+    "ANDA203182"
+   ],
+   "n_candidates": 20
   },
   {
    "id_es": "claritromicina",
@@ -1928,17 +1960,17 @@
    "id_es": "epinefrina",
    "generic_en": "epinephrine",
    "brand": [
-    "Adrenalin"
+    "epinephrine"
    ],
    "manufacturer": [
-    "Medical Purchasing Solutions, LLC"
+    "GLENMARK PHARMACEUTICALS INC., USA"
    ],
-   "effective_time": "20230504",
-   "set_id": "b622a9b9-2f09-46e4-e053-2995a90aae01",
+   "effective_time": "20261103",
+   "set_id": "cc4ebb51-6020-4339-a36a-ec2380b7d28e",
    "application": [
-    "NDA204200"
+    "ANDA219239"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "eplerenona",
@@ -2209,6 +2241,22 @@
    "set_id": "54de10ef-fe5f-4930-b91d-6bbb04c664bd",
    "application": [
     "NDA021856"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fenilefrina",
+   "generic_en": "phenylephrine hydrochloride",
+   "brand": [
+    "Biorphen"
+   ],
+   "manufacturer": [
+    "Dr. Reddy's Laboratories Inc."
+   ],
+   "effective_time": "20260331",
+   "set_id": "2f715e4e-b269-b935-d2c9-003cb29770be",
+   "application": [
+    "NDA212909"
    ],
    "n_candidates": 25
   },
@@ -2613,6 +2661,22 @@
    "n_candidates": 1
   },
   {
+   "id_es": "haloperidol-iv",
+   "generic_en": "haloperidol lactate",
+   "brand": [
+    "Haloperidol"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20260922",
+   "set_id": "b1ad2abd-a9d6-44e3-957b-36a73260f4f5",
+   "application": [
+    "ANDA075689"
+   ],
+   "n_candidates": 9
+  },
+  {
    "id_es": "haloperidol",
    "generic_en": "haloperidol",
    "brand": [
@@ -2632,17 +2696,17 @@
    "id_es": "heparina",
    "generic_en": "heparin sodium",
    "brand": [
-    "Heparin Sodium and Dextrose"
+    "Heparin Sodium"
    ],
    "manufacturer": [
-    "Hospira, Inc."
+    "Hikma Pharmaceuticals USA Inc."
    ],
-   "effective_time": "20260525",
-   "set_id": "eede8a0c-5ae6-4166-84b3-12081405f08e",
+   "effective_time": "20261023",
+   "set_id": "7014808d-cec9-4b2c-8eb5-940493e356ab",
    "application": [
-    "NDA019339"
+    "NDA017037"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "hidralazina-iv",
@@ -3491,6 +3555,22 @@
    "n_candidates": 4
   },
   {
+   "id_es": "magnesio-sulfato",
+   "generic_en": "magnesium sulfate",
+   "brand": [
+    "Magnesium Sulfate"
+   ],
+   "manufacturer": [
+    "Henry Schein, Inc."
+   ],
+   "effective_time": "20261102",
+   "set_id": "5176ed24-015e-43fe-9eb4-85098debf5f1",
+   "application": [
+    "NDA019316"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "manitol",
    "generic_en": "mannitol",
    "brand": [
@@ -3889,6 +3969,22 @@
     "NDA020830"
    ],
    "n_candidates": 20
+  },
+  {
+   "id_es": "morfina-iv",
+   "generic_en": "morphine sulfate",
+   "brand": [
+    "Duramorph"
+   ],
+   "manufacturer": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "effective_time": "20251231",
+   "set_id": "ebb18761-e5c4-4238-bb84-f9549f500210",
+   "application": [
+    "NDA018565"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "morfina",
@@ -4451,6 +4547,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "potasio-cloruro-iv",
+   "generic_en": "potassium chloride",
+   "brand": [
+    "Potassium Chloride"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20260109",
+   "set_id": "092ddee4-572d-4771-8d95-880cea01097e",
+   "application": [
+    "NDA019904"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "pralidoxima",
    "generic_en": "pralidoxime",
    "brand": [
@@ -4775,14 +4887,14 @@
     "Rocuronium"
    ],
    "manufacturer": [
-    "Bryant Ranch Prepack"
+    "Piramal Critical Care Inc"
    ],
-   "effective_time": "20260303",
-   "set_id": "6045ed5a-5d2c-4f17-aaba-458fbf87e85c",
+   "effective_time": "20250925",
+   "set_id": "98255b70-51f9-8d16-e053-2995a90a8f97",
    "application": [
     "ANDA210437"
    ],
-   "n_candidates": 3
+   "n_candidates": 1
   },
   {
    "id_es": "romosozumab",

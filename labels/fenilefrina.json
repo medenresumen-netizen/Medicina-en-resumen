@@ -1,0 +1,737 @@
+{
+ "id_es": "fenilefrina",
+ "generic_en": "phenylephrine hydrochloride",
+ "search": "openfda.generic_name.exact:\"PHENYLEPHRINE HYDROCHLORIDE\"",
+ "pref": "phenylephrine hydrochloride|INTRAVENOUS|",
+ "downloaded": "2026-11-11T16:08Z",
+ "chosen": {
+  "set_id": "2f715e4e-b269-b935-d2c9-003cb29770be",
+  "id": "884b0378-92e0-f3ed-176b-ff409f29747f",
+  "effective_time": "20260331",
+  "version": "5",
+  "brand_name": [
+   "Biorphen"
+  ],
+  "generic_name": [
+   "PHENYLEPHRINE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Dr. Reddy's Laboratories Inc."
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA212909"
+  ],
+  "n_sections": 29
+ },
+ "candidates": [
+  {
+   "set_id": "db313f72-a6bb-444f-949f-19b4aa6f61c0",
+   "id": "9817e0b8-36c4-4706-9ae0-02deb8166adc",
+   "effective_time": "20261106",
+   "version": "6",
+   "brand_name": [
+    "Phenylephrine Hydrochloride"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211079"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "aea0db7f-e01a-4d8e-9c20-4a5ef4a905d1",
+   "id": "19ef2a6b-61b9-4643-897f-acd79e78552d",
+   "effective_time": "20261103",
+   "version": "8",
+   "brand_name": [
+    "Better Living"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BETTER LIVING BRANDS LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "a12e2e66-d2f3-47a6-a915-a309ae828d27",
+   "id": "dc0faf4d-74d4-4dbc-bdbd-91fe0671550a",
+   "effective_time": "20261030",
+   "version": "7",
+   "brand_name": [
+    "Quality Choice"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CHAIN DRUG MARKETING ASSOCIATION"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "ad4d74a8-a762-4378-9016-f7c83421073e",
+   "id": "90d92bfb-657a-443b-ac83-91dd9266883e",
+   "effective_time": "20261028",
+   "version": "3",
+   "brand_name": [
+    "Gencare-Nasal Decongestant PE"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Pioneer Life Sciences, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "14596551-dd82-46b3-8eb8-e69efaea105b",
+   "id": "13ea592d-c08e-49bf-a433-b5ae2b8f27db",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "QUALITY CHOICE"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CHAIN DRUG MARKETING ASSOCIATION"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "63e51305-2575-49c4-9fda-7b3e1b4b6ede",
+   "id": "6c970760-6461-4580-8e7e-7c13c0ec9735",
+   "effective_time": "20261026",
+   "version": "3",
+   "brand_name": [
+    "NASAL and SINUS DECONGESTANT"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "JHK Inc dba American Safety & First Aid"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "c7026b15-1228-4acb-beed-4474fcdbb972",
+   "id": "c38366c8-ebee-4ed9-ab61-7f44b179a1fb",
+   "effective_time": "20261020",
+   "version": "5",
+   "brand_name": [
+    "Phenylephrine Hydrochloride"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210666"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "4cea0781-2513-4030-8568-62dec253f866",
+   "id": "e6b34517-03a0-4052-8d2c-dc1d9f99b402",
+   "effective_time": "20261017",
+   "version": "5",
+   "brand_name": [
+    "Phenylephrine hydrochloride"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lifestar Pharma LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217069"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "49c0b196-c0e8-4ac9-ba3d-743c349c1773",
+   "id": "5c235464-c070-db41-e063-6294a90ad34a",
+   "effective_time": "20260923",
+   "version": "1",
+   "brand_name": [
+    "Nasal Decongestant PE"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Advanced Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "2cf319cc-bb49-4b7d-bb08-e3346b4a78d4",
+   "id": "3348c9be-b3f8-4567-bffd-289c54085287",
+   "effective_time": "20260918",
+   "version": "8",
+   "brand_name": [
+    "heb nasal"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "H E B"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "7acf1a9a-bd97-48bb-8025-ac26070378a2",
+   "id": "5950daff-d1dd-75fa-e063-6394a90a95be",
+   "effective_time": "20260818",
+   "version": "9",
+   "brand_name": [
+    "Extra Strength Nasal"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CVS PHARMACY"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "02a89765-2a75-470a-9fd6-8cce71dc19e9",
+   "id": "fb1a671e-88b4-4b45-a7f2-daea82987d74",
+   "effective_time": "20260810",
+   "version": "2",
+   "brand_name": [
+    "NASAL"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "1767c4b7-36a0-4e64-9091-2af22161402f",
+   "id": "1cc4ae4f-b3bb-4902-9725-1504f5f199ac",
+   "effective_time": "20260730",
+   "version": "7",
+   "brand_name": [
+    "Phenylephrine Hydrochloride"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lifestar Pharma LLC"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216496"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "b42775ae-44fe-487e-b9ca-21d9687020a9",
+   "id": "57c2c6b9-a8fa-a1c6-e063-6294a90a97e5",
+   "effective_time": "20260729",
+   "version": "2",
+   "brand_name": [
+    "up and up"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Target Corporation"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M015"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "6d59ee85-08e5-452d-a09a-35fcc2a82b75",
+   "id": "468f12f3-4716-4d0e-bbaf-d2da6e932255",
+   "effective_time": "20260721",
+   "version": "6",
+   "brand_name": [
+    "Phenylephrine hydrochloride"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211079"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "3f284420-87c1-4c17-99e5-bc569bf9d45f",
+   "id": "5644bd60-9db9-e49a-e063-6394a90a3348",
+   "effective_time": "20260710",
+   "version": "1",
+   "brand_name": [
+    "ValuMeds Nasal Decongestant PE Phenylephrine"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cabinet Health P.B.C."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "54edaff7-d241-dc90-e063-6294a90ac64d",
+   "id": "54edb0ef-b9fc-8470-e063-6394a90a5885",
+   "effective_time": "20260623",
+   "version": "1",
+   "brand_name": [
+    "Neo-Synephrine Severe"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BF ASCHER AND CO INC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "7a866cdf-1c0c-403a-afc8-0e99e0ce81aa",
+   "id": "eb59d0b4-57cd-467d-a453-036b86239b65",
+   "effective_time": "20260622",
+   "version": "2",
+   "brand_name": [
+    "NO DRIP NASAL"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CVS WOONSOCKET PRESCRIPTION CENTER, INCORPORATED"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "30f6d588-ad80-4348-a45f-77337e067bca",
+   "id": "f6a75409-e825-4627-af39-7460ed574a64",
+   "effective_time": "20260619",
+   "version": "3",
+   "brand_name": [
+    "Equate Nasal"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "WALMART INC."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "6a8a961c-d2d2-428d-8af7-8527aae25c8a",
+   "id": "54a07aed-19a7-e4a1-e063-6294a90aad22",
+   "effective_time": "20260619",
+   "version": "1",
+   "brand_name": [
+    "GoodMeds Nasal Decongestant"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cabinet Health P.B.C."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "694a3116-1b75-42cd-bbcf-d19831c2d796",
+   "id": "6a23d1cb-817f-47ef-9fbe-368c18589b28",
+   "effective_time": "20260601",
+   "version": "5",
+   "brand_name": [
+    "Nasal"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "5d8b980f-0011-41e3-a881-ad10fe399079",
+   "id": "511f5bae-76c1-065a-e063-6294a90a6260",
+   "effective_time": "20260506",
+   "version": "2",
+   "brand_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HHH Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "90fae0fa-da07-4ea8-bdbd-39c2ed99ae59",
+   "id": "511f4af6-053a-c04f-e063-6294a90a63b9",
+   "effective_time": "20260506",
+   "version": "2",
+   "brand_name": [
+    "Nasal Decongestant PE"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HHH Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "1b9f1d54-ea46-49c8-a33e-c94a61bc0460",
+   "id": "93087431-1c8f-4b1d-9ce3-0b42aa219a3f",
+   "effective_time": "20260428",
+   "version": "6",
+   "brand_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Caplin Steriles Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213318"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "d92631a6-bae8-493b-b4df-c563346607a8",
+   "id": "e3034d8d-c47d-4ef2-aa1b-97953b1f3036",
+   "effective_time": "20260413",
+   "version": "15",
+   "brand_name": [
+    "Phenylephrine hydrochloride"
+   ],
+   "generic_name": [
+    "PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210025"
+   ],
+   "n_sections": 28
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE BIORPHEN is indicated for the treatment of clinically important hypotension resulting primarily from vasodilation in the setting of anesthesia. BIORPHEN injection is an alpha-1 adrenergic receptor agonist indicated for the treatment of clinically important hypotension resulting primarily from vasodilation in the setting of anesthesia. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION BIORPHEN 500 mcg/5 mL (100 mcg/mL)/mL injection MUST NOT BE DILUTED before administration as an intravenous bolus. It is supplied as a READY-TO-USE formulation. ( 2 ) BIORPHEN 10 mg/mL injection MUST BE DILUTED before administration as an intravenous bolus or continuous intravenous infusion to achieve the desired concentration. ( 2 ) Dosing for treatment of hypotension during anesthesia Bolus intravenous injection: Initial dose is 40 mcg to 100 mcg. Additional boluses up to 200 mcg may be administered every 1 to 2 minutes as needed. ( 2 ) Adjust the dose according to the pressor response (i.e., titrate to effect). ( 2 ) Biorphen 10 mg/mL Only: Continuous intravenous infusion: 10 mcg/min to 35 mcg/min, titrating to effect, not to exceed 200 mcg/min. ( 2 ) 2.1 General Dosage and Administration Instructions During BIORPHEN administration: Correct intravascular volume depletion. Correct acidosis. Acidosis may reduce the effectiveness of phenylephrine. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration. Do not use if the solution is colored or cloudy, or if it contains particulate matter. Discard any unused portion. BIORPHEN 500 mcg/5 mL (100 mcg/mL) and 10 mg/mL Injection have important differences in administration instructions: Administration Instructions for BIORPHEN 500 mcg/5 mL (100 mcg/mL) Injection: BIORPHEN 500 mcg/5 mL (100 mcg/mL) injection MUST NOT BE DILUTED before administration as an intravenous bolus. It is supplied as READY-TO-USE formulation. Administration Instructions for BIORPHEN 10 mg/mL Injection: BIORPHEN 10 mg/mL injection MUST BE DILUTED before administration as an intravenous bolus or continuous intravenous infusion to achieve the desired concentration: • Bolus : Dilute with normal saline or 5% dextrose in water. • Continuous infusion : Dilute with normal saline or 5% dextrose in water. The diluted solution should not be held for more than 4 hours at room temperature or for more than 24 hours under refrigerated conditions. 2.2 Dosing for Treatment of Hypotension during Anesthesia The following are the recommended dosages for the treatment of hypotension during anesthesia. BIORPHEN 500 mcg/5 mL (100 mcg/mL) Injection: The recommended initial dose is 40 mcg to 100 mcg administered by intravenous bolus. Additional boluses up to 200 mcg may be administered every 1 to 2 minutes as needed. Adjust dosage according to the blood pressure goal. BIORPHEN 10 mg/mL Injection: • The recommended initial dose is 40 mcg to 100 mcg administered by intravenous bolus. Additional boluses up to 200 mcg may be administered every 1 to 2 minutes as needed. • If blood pressure is below the target goal, start a continuous intravenous infusion with an infusion rate of 10 mcg/minute to 35 mcg/minute; not to exceed 200 mcg/minute. • Adjust dosage according to the blood pressure goal. 2.3 Preparation of a 100 mcg/mL Solution for Bolus Intravenous Administration from BIORPHEN 10 mg/mL Injection For bolus intravenous administration, prepare a solution containing a final concentration of 100 mcg/mL of BIORPHEN 10 mg/mL Injection: • Withdraw 10 mg i.e. 1 mL of BIORPHEN 10 mg/mL Injection and dilute with 99 mL of 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP. • Withdraw an appropriate dose from the 100 mcg/mL solution prior to bolus intravenous administration. 2.4 Preparation of Solution for Continuous Intravenous Administration from BIORPHEN 10 mg/mL Injection For continuous intravenous infusion, prepare a solution containing a final concentration of 20 mcg/mL of BIORPHEN 10 mg/mL Injection in 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP. • Withdraw 10 mg i.e. 1 mL of BIORPHEN 10 mg/mL Injection and dilute with 500 mL of 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS BIORPHEN 500 mcg/5 mL (100 mcg/mL) Injection: Ampule BIORPHEN injection, 500 mcg/5 mL (100 mcg/mL), for intravenous use, is a clear and colorless solution available in a type I one point cut clear colorless glass single-dose ampule containing 5 mL of solution for injection, corresponding to 0.5 mg of phenylephrine hydrochloride per ampule (equivalent to 0.41 mg of phenylephrine base). Vial BIORPHEN injection, 500 mcg/5 mL (100 mcg/mL), for intravenous use, is a clear and colorless solution available in a type I clear colorless glass single-dose vial containing 5 mL of solution for injection, corresponding to 0.5 mg of phenylephrine hydrochloride per vial (equivalent to 0.41 mg of phenylephrine base). BIORPHEN 10 mg/mL Injection: BIORPHEN injection, 10 mg/mL, for intravenous use, is a clear and colorless solution available in a type I one point cut clear colorless glass single-dose ampule containing 1 mL of solution for injection, corresponding to 10 mg of phenylephrine hydrochloride per ampule (equivalent to 8.2 mg of phenylephrine base). Biorphen 500 mcg/5 mL (100 mcg/mL) Injection: Single-dose ampule containing 5 mL of solution for injection corresponding to 0.5 mg of phenylephrine hydrochloride per ampule. ( 3 ) Biorphen 500 mcg/5 mL (100 mcg/mL) Injection: Single-dose vial containing 5 mL of solution for injection corresponding to 0.5 mg of phenylephrine hydrochloride per vial.( 3 ) Biorphen 10 mg/mL Injection: Single-dose ampule containing 1 mL of solution for injection corresponding to 10 mg of phenylephrine hydrochloride per ampule. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS None. None ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Exacerbation of Angina, Heart Failure, or Pulmonary Arterial Hypertension: BIORPHEN can precipitate angina in patients with severe arteriosclerosis or history of angina, exacerbate underlying heart failure, and increase pulmonary arterial pressure. ( 5.1 ) Peripheral and Visceral Ischemia: BIORPHEN can cause excessive peripheral and visceral vasoconstriction and ischemia to vital organs. ( 5.2 ) Skin and Subcutaneous Necrosis: Extravasation during intravenous administration may cause necrosis or sloughing of tissue. ( 5.3 ) Bradycardia: BIORPHEN can cause severe bradycardia and decreased cardiac output. ( 5.4 ) 5.1 Exacerbation of Angina, Heart Failure, or Pulmonary Arterial Hypertension Because of its increasing blood pressure effects, BIORPHEN can precipitate angina in patients with severe arteriosclerosis or history of angina, exacerbate underlying heart failure, and increase pulmonary arterial pressure. 5.2 Peripheral and Visceral Ischemia BIORPHEN can cause excessive peripheral and visceral vasoconstriction and ischemia to vital organs, particularly in patients with extensive peripheral vascular disease. 5.3 Skin and Subcutaneous Necrosis Extravasation of BIORPHEN can cause necrosis or sloughing of tissue. Avoid extravasation by checking infusion site for free flow. 5.4 Bradycardia BIORPHEN can cause severe bradycardia and decreased cardiac output. 5.5 Renal Toxicity BIORPHEN can increase the need for renal replacement therapy in patients with septic shock. Monitor renal function. 5.6 Risk of Augmented Pressor Affect in Patients with Autonomic Dysfunction The increasing blood pressure response to adrenergic drugs, including BIORPHEN, can be increased in patients with autonomic dysfunction, as may occur with spinal cord injuries. 5.7 Pressor Effect with Concomitant Oxytocic Drugs Oxytocic drugs potentiate the increasing blood pressure effect of sympathomimetic pressor amines including BIORPHEN [see Drug Interactions (7.1) ] , with the potential for hemorrhagic stroke."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Adverse reactions to BIORPHEN are primarily attributable to excessive pharmacologic activity. Adverse reactions reported in published clinical studies, observational trials, and case reports of BIORPHEN are listed below by body system. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure. Cardiac disorders: Reflex bradycardia, lowered cardiac output, ischemia, hypertension, arrhythmias Gastrointestinal disorders: Epigastric pain, vomiting, nausea Nervous system disorders: Headache, blurred vision, neck pain, tremors Vascular disorders: Hypertensive crisis Respiratory, Thoracic and Mediastinal Disorders: Dyspnea Skin and subcutaneous tissue disorders: Pruritis Most common adverse reactions during treatment: nausea, vomiting, and headache. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Dr. Reddy's Laboratories Inc., at 1-888-375-3784 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Agonistic Effects (increase in BIORPHEN blood pressure effect) can occur with monoamine oxidase inhibitors (MAOI), oxytocin and oxytocic drugs, tricyclic antidepressants, angiotensin and aldosterone, atropine, steroids, norepinephrine transporter inhibitors, ergot alkaloids. ( 7.1 ) Antagonistic Effects (decrease in BIORPHEN blood pressure effect) can occur with α-adrenergic antagonists, phosphodiesterase Type 5 inhibitors, mixed α- and β-receptor antagonists, calcium channel blockers, benzodiazepines and ACE inhibitors, centrally acting sympatholytic agents. ( 7.2 ) 7.1 Interactions that Augment the Pressor Effect The increasing blood pressure effect of BIORPHEN is increased in patients receiving: Monoamine oxidase inhibitors (MAOI) Oxytocin and oxytocic drugs Tricyclic antidepressants Angiotensin, aldosterone Atropine Steroids, such as hydrocortisone Norepinephrine transporter inhibitors, such as atomoxetine Ergot alkaloids, such as methylergonovine maleate 7.2 Interactions that Antagonize the Pressor Effect The increasing blood pressure effect of BIORPHEN is decreased in patients receiving: α-adrenergic antagonists Phosphodiesterase Type 5 inhibitors Mixed α- and β-receptor antagonists Calcium channel blockers, such as nifedipine Benzodiazepines ACE inhibitors Centrally acting sympatholytic agents, such as reserpine, guanfacine"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Data from randomized controlled trials and meta-analyses with phenylephrine hydrochloride injection use in pregnant women during caesarean section have not established a drug-associated risk of major birth defects and miscarriage. These studies have not identified an adverse effect on maternal outcomes or infant Apgar scores [see Data ] . There are no data on the use of phenylephrine during the first or second trimester. In animal reproduction and development studies in normotensive animals, evidence of fetal malformations was noted when phenylephrine was administered during organogenesis via a 1-hour infusion at 1.2 times the human daily dose (HDD) of 10 mg/60 kg/day. Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [See Data ] . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryofetal Risk Untreated hypotension associated with spinal anesthesia for cesarean section is associated with an increase in maternal nausea and vomiting. A sustained decrease in uterine blood flow due to maternal hypotension may result in fetal bradycardia and acidosis. Data Human Data Published randomized controlled trials over several decades, which compared the use of phenylephrine injection to other similar agents in pregnant women during cesarean section, have not identified adverse maternal or infant outcomes. At recommended doses, phenylephrine does not appear to affect fetal heart rate or fetal heart variability to a significant degree. There are no studies on the safety of phenylephrine injection exposure during the period of organogenesis, and therefore, it is not possible to draw any conclusions on the risk of birth defects following exposure to phenylephrine injection during pregnancy. In addition, there are no data on the risk of miscarriage following fetal exposure to phenylephrine injection. Animal Data No clear malformations or fetal toxicity were reported when normotensive pregnant rabbits were treated with phenylephrine via continuous intravenous infusion over 1 hour (0.5 mg/kg/day; approximately equivalent to a HDD based on body surface area) from Gestation Day 7 to 19. At this dose, which demonstrated no maternal toxicity, there was evidence of developmental delay (altered ossification of sternebra). In a non-GLP dose range-finding study in normotensive pregnant rabbits, fetal lethality and cranial, paw, and limb malformations were noted following treatment with 1.2 mg/kg/day of phenylephrine via continuous intravenous infusion over 1 hour (2.3-times the HDD). This dose was clearly maternally toxic (increased mortality and significant body weight loss). An increase in the incidence of limb malformation (hyperextension of the forepaw) coincident with high fetal mortality was noted in a single litter at 0.6 mg/kg/day (1.2-times the HDD) in the absence of maternal toxicity. No malformations or embryo-fetal toxicity were reported when normotensive pregnant rats were treated with up to 3 mg/kg/day phenylephrine via continuous intravenous infusion over 1 hour (2.9-times the HDD) from Gestation Day 6 to 17. This dose was associated with some maternal toxicity (decreased food consumption and body weights). Decreased pup weights were reported in a pre- and postnatal development toxicity study in which normotensive pregnant rats were administered phenylephrine via continuous intravenous infusion over 1 hour (0.3, 1.0, or 3.0 mg/kg/day; 0.29, 1, or 2.9 times the HDD) from Gestation Day 6 through Lactation Day 21). No adverse effects on growth and development (learning and memory, sexual development, and fertility) were noted in the offspring of pregnant rats at any dose tested. Maternal toxicities (mortality late in gestation and during lactation period, decreased food consumption and body weight) occurred at 1 and 3 mg/kg/day of phenylephrine (equivalent to and 2.9 times the HDD, respectively). 8.2 Lactation Risk Summary There are no data on the presence of Phenylephrine Hydrochloride Injection or its metabolite in human or animal milk, the effects on the breastfed infant, or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for phenylephrine hydrochloride injection and any potential adverse effects on the breastfed infant from phenylephrine hydrochloride injection or from the underlying maternal condition. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.5 Geriatric Use Clinical studies of phenylephrine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. 8.6 Hepatic Impairment In patients with liver cirrhosis [Child Pugh Class B and Class C], dose-response data indicate decreased responsiveness to phenylephrine. Start dosing in the recommended dose range but more phenylephrine may be needed in this population. 8.7 Renal Impairment In patients with end stage renal disease (ESRD), dose-response data indicate increased responsiveness to phenylephrine. Consider starting at the lower end of the recommended dose range, and adjusting dose based on the target blood pressure goal."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Data from randomized controlled trials and meta-analyses with phenylephrine hydrochloride injection use in pregnant women during caesarean section have not established a drug-associated risk of major birth defects and miscarriage. These studies have not identified an adverse effect on maternal outcomes or infant Apgar scores [see Data ] . There are no data on the use of phenylephrine during the first or second trimester. In animal reproduction and development studies in normotensive animals, evidence of fetal malformations was noted when phenylephrine was administered during organogenesis via a 1-hour infusion at 1.2 times the human daily dose (HDD) of 10 mg/60 kg/day. Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [See Data ] . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryofetal Risk Untreated hypotension associated with spinal anesthesia for cesarean section is associated with an increase in maternal nausea and vomiting. A sustained decrease in uterine blood flow due to maternal hypotension may result in fetal bradycardia and acidosis. Data Human Data Published randomized controlled trials over several decades, which compared the use of phenylephrine injection to other similar agents in pregnant women during cesarean section, have not identified adverse maternal or infant outcomes. At recommended doses, phenylephrine does not appear to affect fetal heart rate or fetal heart variability to a significant degree. There are no studies on the safety of phenylephrine injection exposure during the period of organogenesis, and therefore, it is not possible to draw any conclusions on the risk of birth defects following exposure to phenylephrine injection during pregnancy. In addition, there are no data on the risk of miscarriage following fetal exposure to phenylephrine injection. Animal Data No clear malformations or fetal toxicity were reported when normotensive pregnant rabbits were treated with phenylephrine via continuous intravenous infusion over 1 hour (0.5 mg/kg/day; approximately equivalent to a HDD based on body surface area) from Gestation Day 7 to 19. At this dose, which demonstrated no maternal toxicity, there was evidence of developmental delay (altered ossification of sternebra). In a non-GLP dose range-finding study in normotensive pregnant rabbits, fetal lethality and cranial, paw, and limb malformations were noted following treatment with 1.2 mg/kg/day of phenylephrine via continuous intravenous infusion over 1 hour (2.3-times the HDD). This dose was clearly maternally toxic (increased mortality and significant body weight loss). An increase in the incidence of limb malformation (hyperextension of the forepaw) coincident with high fetal mortality was noted in a single litter at 0.6 mg/kg/day (1.2-times the HDD) in the absence of maternal toxicity. No malformations or embryo-fetal toxicity were reported when normotensive pregnant rats were treated with up to 3 mg/kg/day phenylephrine via continuous intravenous infusion over 1 hour (2.9-times the HDD) from Gestation Day 6 to 17. This dose was associated with some maternal toxicity (decreased food consumption and body weights). Decreased pup weights were reported in a pre- and postnatal development toxicity study in which normotensive pregnant rats were administered phenylephrine via continuous intravenous infusion over 1 hour (0.3, 1.0, or 3.0 mg/kg/day; 0.29, 1, or 2.9 times the HDD) from Gestation Day 6 through Lactation Day 21). No adverse effects on growth and development (learning and memory, sexual development, and fertility) were noted in the offspring of pregnant rats at any dose tested. Maternal toxicities (mortality late in gestation and during lactation period, decreased food consumption and body weight) occurred at 1 and 3 mg/kg/day of phenylephrine (equivalent to and 2.9 times the HDD, respectively)."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of phenylephrine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdose of BIORPHEN (phenylephrine hydrochloride) can cause a rapid rise in blood pressure. Symptoms of overdose include headache, vomiting, hypertension, reflex bradycardia, a sensation of fullness in the head, tingling of the extremities, and cardiac arrhythmias including ventricular extrasystoles and ventricular tachycardia."
+  ],
+  "description": [
+   "11 DESCRIPTION Phenylephrine is an alpha-1 adrenergic receptor agonist. The chemical name of phenylephrine hydrochloride is (-)- m -hydroxy-α-[(methylamino) methyl] benzyl alcohol hydrochloride, its molecular formula is C 9 H 13 NO 2 · HCl (Molecular Weight: 203.67g/mol). Its structural formula is depicted below: Phenylephrine hydrochloride is soluble in water and ethanol, and insoluble in chloroform and ethyl ether. BIORPHEN Injection, 500 mcg/5 mL (100 mcg/mL): BIORPHEN (phenylephrine hydrochloride) injection, 500 mcg/5 mL (100 mcg/mL),, is a sterile, nonpyrogenic, clear and colorless solution for intravenous use. It MUST NOT BE DILUTED before administration as an intravenous bolus. Each mL contains: phenylephrine hydrochloride 100 mcg (equivalent to 80 mcg of phenylephrine base), sodium chloride 9.0 mg in water for injection. The pH is adjusted with hydrochloric acid if necessary. The pH range is 3.0 to 5.0. BIORPHEN Injection, 10 mg/mL: BIORPHEN (phenylephrine hydrochloride) injection, 10 mg/mL, is a sterile, nonpyrogenic, clear and colorless solution for intravenous use. It MUST BE DILUTED before administration as an intravenous bolus or continuous intravenous infusion. Each mL contains: phenylephrine hydrochloride 10 mg (equivalent to 8.2 mg of phenylephrine base), sodium chloride 6.0 mg in water for injection. The pH is adjusted with hydrochloric acid if necessary. The pH range is 3.0 to 5.0. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist. 12.2 Pharmacodynamics Interaction of phenylephrine with α-1 adrenergic receptors on vascular smooth muscle cells causes activation of the cells and results in vasoconstriction. Following phenylephrine hydrochloride intravenous administration, increases in systolic and diastolic blood pressures, mean arterial blood pressure, and total peripheral vascular resistance are observed. The onset of blood pressure increase following an intravenous bolus phenylephrine hydrochloride administration is rapid, typically within minutes. As blood pressure increases following intravenous administration, vagal activity also increases, resulting in reflex bradycardia. Phenylephrine has activity on most vascular beds, including renal, pulmonary, and splanchnic arteries. 12.3 Pharmacokinetics Following an intravenous infusion of phenylephrine hydrochloride, the observed effective half-life was approximately 5 minutes. The steady-state volume of distribution of approximately 340 L suggests a high distribution into organs and peripheral tissues. The average total serum clearance is approximately 2100 mL/min. The observed phenylephrine plasma terminal elimination half-life was 2.5 hours. Phenylephrine is metabolized primarily by monoamine oxidase and sulfotransferase. After intravenous administration of radiolabeled phenylephrine, approximately 80% of the total dose was eliminated within first 12 h; and approximately 86% of the total dose was recovered in the urine within 48 h. The excreted unchanged parent drug was 16% of the total dose in the urine at 48 h post intravenous administration. There are two major metabolites, with approximately 57 and 8% of the total dose excreted as m -hydroxymandelic acid and sulfate conjugates, respectively. The metabolites are considered not pharmacologically active."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Interaction of phenylephrine with α-1 adrenergic receptors on vascular smooth muscle cells causes activation of the cells and results in vasoconstriction. Following phenylephrine hydrochloride intravenous administration, increases in systolic and diastolic blood pressures, mean arterial blood pressure, and total peripheral vascular resistance are observed. The onset of blood pressure increase following an intravenous bolus phenylephrine hydrochloride administration is rapid, typically within minutes. As blood pressure increases following intravenous administration, vagal activity also increases, resulting in reflex bradycardia. Phenylephrine has activity on most vascular beds, including renal, pulmonary, and splanchnic arteries."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Following an intravenous infusion of phenylephrine hydrochloride, the observed effective half-life was approximately 5 minutes. The steady-state volume of distribution of approximately 340 L suggests a high distribution into organs and peripheral tissues. The average total serum clearance is approximately 2100 mL/min. The observed phenylephrine plasma terminal elimination half-life was 2.5 hours. Phenylephrine is metabolized primarily by monoamine oxidase and sulfotransferase. After intravenous administration of radiolabeled phenylephrine, approximately 80% of the total dose was eliminated within first 12 h; and approximately 86% of the total dose was recovered in the urine within 48 h. The excreted unchanged parent drug was 16% of the total dose in the urine at 48 h post intravenous administration. There are two major metabolites, with approximately 57 and 8% of the total dose excreted as m -hydroxymandelic acid and sulfate conjugates, respectively. The metabolites are considered not pharmacologically active."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis: Long-term animal studies that evaluated the carcinogenic potential of orally administered phenylephrine hydrochloride in F344/N rats and B6C3F 1 mice were completed by the National Toxicology Program using the dietary route of administration. There was no evidence of carcinogenicity in mice administered approximately 270 mg/kg/day (131 times the human daily dose (HDD) of 10 mg/60 kg/day based on body surface area) or rats administered approximately 50 mg/kg/day (48 times the HDD). Mutagenesis: Phenylephrine hydrochloride tested negative in the in vitro bacterial reverse mutation assay ( S. typhimurium strains TA98, TA100, TA1535 and TA1537), the in vitro chromosomal aberrations assay, the in vitro sister chromatid exchange assay, and the in vivo rat micronucleus assay. Positive results were reported in only one of two replicates of the in vitro mouse lymphoma assay. Impairment of Fertility: Phenylephrine did not impair mating, fertility, or reproductive outcome in normotensive male rats treated with 3 mg/kg/day phenylephrine via continuous intravenous infusion over 1 hour (2.9 times the HDD) for 28 days prior to mating and for a minimum of 63 days prior to sacrifice and female rats treated with the same dosing regimen for 14 days prior to mating and through Gestation Day 6. This dose was associated with increased mortality in both male and female rats and decreased body weight gain in treated males. There were decreased caudal sperm density and increased abnormal sperm reported in males treated with 3 mg/kg/day phenylephrine (2.9 times the HDD)."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis: Long-term animal studies that evaluated the carcinogenic potential of orally administered phenylephrine hydrochloride in F344/N rats and B6C3F 1 mice were completed by the National Toxicology Program using the dietary route of administration. There was no evidence of carcinogenicity in mice administered approximately 270 mg/kg/day (131 times the human daily dose (HDD) of 10 mg/60 kg/day based on body surface area) or rats administered approximately 50 mg/kg/day (48 times the HDD). Mutagenesis: Phenylephrine hydrochloride tested negative in the in vitro bacterial reverse mutation assay ( S. typhimurium strains TA98, TA100, TA1535 and TA1537), the in vitro chromosomal aberrations assay, the in vitro sister chromatid exchange assay, and the in vivo rat micronucleus assay. Positive results were reported in only one of two replicates of the in vitro mouse lymphoma assay. Impairment of Fertility: Phenylephrine did not impair mating, fertility, or reproductive outcome in normotensive male rats treated with 3 mg/kg/day phenylephrine via continuous intravenous infusion over 1 hour (2.9 times the HDD) for 28 days prior to mating and for a minimum of 63 days prior to sacrifice and female rats treated with the same dosing regimen for 14 days prior to mating and through Gestation Day 6. This dose was associated with increased mortality in both male and female rats and decreased body weight gain in treated males. There were decreased caudal sperm density and increased abnormal sperm reported in males treated with 3 mg/kg/day phenylephrine (2.9 times the HDD)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES The evidence for the efficacy of BIORPHEN, is derived from studies of phenylephrine hydrochloride in the published literature. The literature support includes 16 studies evaluating the use of intravenous phenylephrine to treat hypotension during anesthesia. The 16 studies include 9 studies where phenylephrine was used in low-risk (ASA 1 and 2) pregnant women undergoing neuraxial anesthesia during Cesarean delivery, 6 studies in non-obstetric surgery under general anesthesia, and 1 study in non-obstetric surgery under combined general and neuraxial anesthesia. Phenylephrine has been shown to raise systolic and mean blood pressure when administered either as a bolus dose or by continuous infusion following the development of hypotension during anesthesia."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING BIORPHEN (phenylephrine hydrochloride) injection is supplied as follows: Unit of Sale Strength Each NDC No. 43598-172-25 5mL single-dose vial 500 mcg/5mL (100 mcg/mL) NDC No. 43598-172-25 5mL single-dose vial NDC No. 43598-172-15 Pack of 10 single-dose ampules 500 mcg/5mL (100 mcg/mL) NDC No. 43598-172-05 5 mL single-dose ampule NDC No. 43598-199-10 Pack of 10 single-dose ampules 10 mg/mL NDC No. 43598-199-01 1 mL single-dose ampule Store BIORPHEN (phenylephrine hydrochloride) injection at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Discard any unused portion."
+  ],
+  "how_supplied_table": [
+   "<table width=\"60%\"><col align=\"center\" valign=\"top\" width=\"25%\"/><col align=\"center\" valign=\"top\" width=\"25%\"/><col align=\"center\" valign=\"top\" width=\"50%\"/><thead><tr><th styleCode=\"botrule Toprule Rrule Lrule\" valign=\"bottom\">Unit of Sale</th><th styleCode=\"botrule Toprule Rrule Lrule\" valign=\"bottom\">Strength</th><th styleCode=\"botrule Toprule Rrule Lrule\" valign=\"bottom\">Each</th></tr></thead><tbody><tr><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\"><content styleCode=\"bold\">NDC No.</content> 43598-172-25<paragraph>5mL single-dose vial</paragraph></td><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\">500 mcg/5mL<paragraph>(100 mcg/mL)</paragraph></td><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\"><content styleCode=\"bold\">NDC No.</content> 43598-172-25<paragraph>5mL single-dose vial</paragraph></td></tr><tr><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\"><content styleCode=\"bold\">NDC No. </content>43598-172-15  Pack of 10 single-dose ampules</td><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\">500 mcg/5mL<paragraph>(100 mcg/mL)</paragraph></td><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\"><content styleCode=\"bold\">NDC No.</content> 43598-172-05 5 mL single-dose ampule</td></tr><tr><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\"><content styleCode=\"bold\">NDC No.</content>43598-199-10  Pack of 10 single-dose ampules</td><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\">10 mg/mL</td><td styleCode=\"botrule Toprule Rrule Lrule\" valign=\"top\"><content styleCode=\"bold\">NDC No.</content>43598-199-01 1 mL single-dose ampule</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Store BIORPHEN (phenylephrine hydrochloride) injection at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Discard any unused portion."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION If applicable, inform patient, family member, or caregiver that certain medical conditions and medications might influence how BIORPHEN injection works. Distributed by: Dr. Reddy’s Laboratories Inc., Princeton, NJ 08540 Manufactured by Sintetica SA, Switzerland. Rev. 02/2026"
+  ],
+  "set_id": "2f715e4e-b269-b935-d2c9-003cb29770be",
+  "id": "884b0378-92e0-f3ed-176b-ff409f29747f",
+  "effective_time": "20260331",
+  "version": "5"
+ }
+}

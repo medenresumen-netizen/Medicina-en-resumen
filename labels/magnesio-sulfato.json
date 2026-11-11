@@ -1,0 +1,722 @@
+{
+ "id_es": "magnesio-sulfato",
+ "generic_en": "magnesium sulfate",
+ "search": "openfda.generic_name.exact:\"MAGNESIUM SULFATE\"",
+ "pref": "magnesium sulfate|INTRAVENOUS|",
+ "downloaded": "2026-11-11T16:08Z",
+ "chosen": {
+  "set_id": "5176ed24-015e-43fe-9eb4-85098debf5f1",
+  "id": "3f3e1899-bb10-4ba2-a3e0-316ad79a3556",
+  "effective_time": "20261102",
+  "version": "6",
+  "brand_name": [
+   "Magnesium Sulfate"
+  ],
+  "generic_name": [
+   "MAGNESIUM SULFATE"
+  ],
+  "manufacturer_name": [
+   "Henry Schein, Inc."
+  ],
+  "route": [
+   "INTRAMUSCULAR",
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA019316"
+  ],
+  "n_sections": 17
+ },
+ "candidates": [
+  {
+   "set_id": "5176ed24-015e-43fe-9eb4-85098debf5f1",
+   "id": "3f3e1899-bb10-4ba2-a3e0-316ad79a3556",
+   "effective_time": "20261102",
+   "version": "6",
+   "brand_name": [
+    "Magnesium Sulfate"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019316"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "c255b8a9-68da-49c1-897b-bc18b731e459",
+   "id": "fdd6d35d-2b35-4c55-b88f-3ee00cfaad91",
+   "effective_time": "20261102",
+   "version": "8",
+   "brand_name": [
+    "Magnesium Sulfate"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019316"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "7de802aa-6c31-451c-995c-8549b2545c69",
+   "id": "4a660be9-3ed2-4093-9bc6-a35902e6a8fb",
+   "effective_time": "20261007",
+   "version": "7",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Family Dollar (FAMILY WELLNESS)"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "8d4443ec-fc8b-0119-e053-2a95a90a68f0",
+   "id": "5d40670f-17f4-239c-e063-6394a90a24e8",
+   "effective_time": "20261007",
+   "version": "3",
+   "brand_name": [
+    "Epsom Salts"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Jell Pharmaceuticals Pvt. Ltd."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 12
+  },
+  {
+   "set_id": "709ad74e-d95d-409d-bd7a-185411fc4bac",
+   "id": "f7de4535-32e4-4b0a-acbf-e1eabef7377b",
+   "effective_time": "20261006",
+   "version": "11",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Whole Foods Market"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "f55da148-81a3-49cc-bbde-6aef920b8903",
+   "id": "a178e900-6391-46c4-a801-1d6529b20642",
+   "effective_time": "20261005",
+   "version": "7",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Harris Teeter, LLC"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "7365e199-5038-48eb-b0b9-7b46f9894dd7",
+   "id": "e1c11583-7d0c-40e3-b1ec-c40a35d96673",
+   "effective_time": "20261002",
+   "version": "16",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Walgreens"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "947ae6fe-05d9-4bcf-be73-b3e1a2c60227",
+   "id": "c598d210-4a9a-43ea-970c-c1b1b022c403",
+   "effective_time": "20261002",
+   "version": "4",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Safeway, Inc."
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b1222ba6-390d-478d-905b-994fff4d6d58",
+   "id": "e587abe0-64ee-4bad-814c-9f96f4b36859",
+   "effective_time": "20261002",
+   "version": "13",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "TOP CARE (Topco Associates LLC)"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "80e420c5-7e1f-4c62-b914-f607767fd239",
+   "id": "fe00656a-8897-4132-a531-a253b19e4999",
+   "effective_time": "20261001",
+   "version": "8",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "WinCo Foods, LLC"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "952000af-f58d-4762-b806-443cbdda0168",
+   "id": "952000af-f58d-4762-b806-443cbdda0168",
+   "effective_time": "20261001",
+   "version": "1",
+   "brand_name": [
+    "Magnesium Sulfate in Water"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "752f55bb-c4ca-4545-94b3-3deea66888d4",
+   "id": "142db107-b377-48f0-9a75-88bfbb5b24a9",
+   "effective_time": "20260930",
+   "version": "13",
+   "brand_name": [
+    "Magnesium Sulfate in Water"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "8da9c33f-e3cd-4026-b034-2b964401b346",
+   "id": "12ae337b-badc-45f6-894e-81cbb2125976",
+   "effective_time": "20260930",
+   "version": "12",
+   "brand_name": [
+    "Magnesium Sulfate in Dextrose"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207349"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "fc5d7e38-c05c-4219-a4b2-2488a7da044a",
+   "id": "fc5d7e38-c05c-4219-a4b2-2488a7da044a",
+   "effective_time": "20260930",
+   "version": "1",
+   "brand_name": [
+    "Magnesium Sulfate in Dextrose"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207349"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "5b4b4805-a8ff-4efe-94bc-411090ab5f9c",
+   "id": "5c29ee6e-d905-396f-e063-6294a90aee8a",
+   "effective_time": "20260923",
+   "version": "18",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "United Natural Foods, Inc. dba UNFI"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "87f98e6c-a3a1-4ca5-bd56-977e38f48914",
+   "id": "5aab3d93-ba62-36b5-e063-6394a90afa7c",
+   "effective_time": "20260904",
+   "version": "23",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Target Corporation"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d27dc1cc-5e17-40d3-84fe-c1792552cfd5",
+   "id": "59e271e7-8104-0de2-e063-6394a90abebb",
+   "effective_time": "20260825",
+   "version": "17",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health, 110 dba Leader"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0b757160-f9eb-4413-9b43-97544c49c72f",
+   "id": "58b6727f-4262-1c6a-e063-6394a90ab70c",
+   "effective_time": "20260810",
+   "version": "20",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Safeway Inc"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "ba490c22-19f0-4887-9509-bd3d32e0f5b1",
+   "id": "55009432-e554-1075-e063-6294a90a35f8",
+   "effective_time": "20260624",
+   "version": "14",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Vi-Jon, LLC"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "1f9e72dc-a394-420d-8fe8-fc4d0f6906ed",
+   "id": "a91197de-5b20-42c9-928a-b6b1c2084373",
+   "effective_time": "20260527",
+   "version": "5",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "CVS PHARMACY, INC"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d4b5863a-efb9-4551-a9ad-2b06e8666d87",
+   "id": "785d7821-eace-4e0b-8d45-5200ab4850f3",
+   "effective_time": "20260423",
+   "version": "22",
+   "brand_name": [
+    "Magnesium Sulfate"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075151"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "787ec4b0-c6c5-44ab-a53d-d6d25304f95e",
+   "id": "4c20f902-e124-7e11-e063-6394a90a4f87",
+   "effective_time": "20260303",
+   "version": "6",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "a8af6e2d-0052-4fc9-a51a-c9dbeb1ad3f5",
+   "id": "4c0fcc1c-37a3-384e-e063-6294a90a4e33",
+   "effective_time": "20260302",
+   "version": "18",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Old East Main Co."
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "4ee26633-8eb1-4c68-a768-20460404533a",
+   "id": "4bcf89d8-d75a-a2f9-e063-6394a90a326f",
+   "effective_time": "20260227",
+   "version": "4",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Chain Drug Marketing Association"
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "2070a4a6-7968-49f2-84ec-53bd1cd82445",
+   "id": "4b340dae-832a-9be5-e063-6394a90a13b8",
+   "effective_time": "20260219",
+   "version": "17",
+   "brand_name": [
+    "Epsom Salt"
+   ],
+   "generic_name": [
+    "MAGNESIUM SULFATE"
+   ],
+   "manufacturer_name": [
+    "Meijer, Inc."
+   ],
+   "route": [
+    "ORAL",
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M007"
+   ],
+   "n_sections": 19
+  }
+ ],
+ "label": {
+  "description": [
+   "Descriptipn Magnesium Sulfate Injection, USP 50% is a sterile, nonpyrogenic, concentrated solution of magnesium sulfate heptahydrate in Water for Injection. It is administered by the intravenous (IV) or intramuscular (IM) routes as an electrolyte replenisher or anticonvulsant. Must be diluted before IV use. Each mL contains: Magnesium sulfate heptahydrate 500 mg; Water for Injection q.s. Sulfuric acid and/or sodium hydroxide may have been added for pH adjustment. The pH of a 5% solution is between 5.5 and 7.0. (Osmolarity: 4060 mOsmol/L (calc.); 2.03 mM/mL magnesium sulfate anhydrous; 4.06 mEq/mL magnesium sulfate anhydrous). The solution contains no bacteriostat, antimicrobial agent or added buffer (except for pH adjustment) and is intended only for use as a single dose injection. When smaller doses are required the unused portion should be discarded with the entire unit. Magnesium sulfate heptahydrate is chemically designated MgSO 4•7H 2O, with a molecular weight of 246.47 and occurs as colorless crystals or white powder freely soluble in water."
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Magnesium is an important cofactor for enzymatic reactions and plays an important role in neurochemical transmission and muscular excitability. As a nutritional adjunct in hyperalimentation, the precise mechanism of action for magnesium is uncertain. Early symptoms of hypomagnesemia (less than 1.5 mEq/L) may develop as early as three to four days or within weeks. Predominant deficiency effects are neurological, e.g., muscle irritability, clonic twitching and tremors. Hypocalcemia and hypokalemia often follow low serum levels of magnesium. While there are large stlres of magnesium present intracellularly and in the bones of adults, these stores often are not mobilized sufficiently to maintain plasma levels. Parenteral magnesium therapy repairs the plasma deficit and causes deficiency symptoms and signs to cease. Magnesium prevents or controls convulsions by blocking neuromuscular transmission and decreasing the amount of acetylcholine liberated at the end-plate by the motor nerve impuls. Magnesium is said to have a depressant effect on the central nervous system (CNS), but it does not adversely affect the woman, fetus or neonate when used as directed in eclampsia or pre-eclampsia. Normal plasma magnesium levels range from 1.5 to 2.5 mEq/L. As plasma magnesium rises above 4 mEq/L, the deep tendon reflexes are first decreased and then disappear as the plasma level approaches 10 mEq/L. At this level respiratory paralysis may occur. Heart block also may occur. Heart block also may occur at this or lower plasma levels of magnesium. Serum magnesium concentrations in excess of 12 mEq/L may be fatal. Magnesium acts peripherally to produce vasodilation. With low doses only flushing and sweating occur, but only larger doses cause lowering of blood pressure. The central and peripheral effects of magnesium poisoning are antagonized ot some extent by IV administration of calcium. Pharmakokinetics With IV administration the onset of anticonvulsant action is immediate and lasts about 30 minutes. Following IM administration, the onset of action occurs in about one hour and persists for three to four hours. Effective anticonvulsant serum levels range from 2.5 to 7.5 mEq/L. Magnesium is excreted solely by the kidneys at a rate proportional to the plasma concentration and glomerular filtration."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Magnesium Sulfate Injection, USP is suitable for replacement therapy in magnesium deficiency, especially in acute hypomagnesemia accompanied by signs of tetany similar to those observed in hypocalcemia. In such cases, the serum magnesium level is usually below the lower limit of normal (1.5 to 2.5 mEq/L) and the serum calcium level is normal (4.3 to 5.2 mEq/L) or elevated. In total parental nutrition (TPN), magnesium sulfate may be added to the nutriend admixture to correct or prevent hypomagnesemia which can arise during the course of therapy. Magnesium sulfate injection is also indicated for the prevention and control of seizures in pre-eclampsia and eclampsia, respectively."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Parenteral administration of the drug is contraindicated in patients with heart block or myocardial damage."
+  ],
+  "warnings": [
+   "WARNINGS FETAL HARM: Continuous administration of magnesium sulfate beyond 5 to 7 days to pregnant women can lead to hypocalcemia and bone abnormalities in the developing fetus. These bone abnormalities include skeletal demineralization and osteopenia. In addition, cases of neonatal fracture have been reported. The shortest duration of treatment that can lead to fetal harm is not known. Magnesium sulfate should be used during pregnancy only if clearly needed. If magnesium sulfate is given for treatment of preterm labor, the woman should be informed that the efficacy and safety of such use have not been established and that use of magnesium sulfate beyond 5 to 7 days may cause fetal abnormalities. ALUMINUM TOXICITY: This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration of kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immautre, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Thissue loading may occur at even lower rates of administration. Parenteral use in the presence of renal insufficiency may lead to magnesium intoxication. IV use in eclampsia should be reserved for immediate control of life-threatening convulsion."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Administer with caution if flushing and sweating occurs. When barbiturates, narcotics or other hypnotics (or systemic anesthetics) are to be given in conjunction with magnesium, their dosage should be adjusted with caution because of additive CNS depressant effects of magnesium. Because magnesium is removed from the body solely by the kidneys, the drug should be used with caution in patients with renal impairment. Urine output should be maintained at a level of 100 mL or more during the four hours preceding each dose. Monitoring serum magnesium levels and the patient's clinical status is essential to avoid the consequences of overdosage in toxemia. Clinical indications of a safe dosage regimen include the presence of the patellar reflex (knee jerk) and absence of respiratory depression (approximately 16 breaths or more/min). When repeated doses of the drug are given parenterally, knee jerk reflexes should be tested before each dose and if they are absent, no additional magnesium should be given until they return. Serum magnesium levels usually sufficient to control convulsions range from 3 to 6 mg/100mL (2.5 to 5 mEq/L). The strength of the deep tendon reflexes begins to diminish when magnesium levels exceed 4 mEq/L. Reflexes may be absent at 10 mEq magnesium/L, where respiratory paralysis is a potential hazard. An injectable calcium salt should be immediately available to counteract the potential hazards of magnesium intoxication in eclampsia. Magnesium sulfate injection (50%) must be diluted to a concentration of 20% or less prior to IV infusion. Rate of administration should be slow and cautious, to avoid producing hypermagnesemia. The 50% solution also should be diluted to 20% or less for IM injection in infants and children. Laboratory Tests Magnesium sulfate injection should not be given unless hypomegnesemia has been confirmed and the serium concentration of magnesium is monitored. The normal serum level is 1.5 to 2.5 mEq/L. Drug Interactions CNS Depressants -When barbiturates, narcotics or other hypnotics (or systemic anesthetics), or other CNS depressants are to be given in conjunction with magnesium, their dosage should be adjusted with caution because of additive CNS depressant effects of magnesium. CNS depression and peripheral transmission defects produced by magnesium may be antagonized by calcium. Neuromuscular Blocking Agents - Excessive neuromuscular block has occurred in patients receiving parenteral magnesium sulfate and a neuromuscular blocking agent; these drugs should be administered concomitantly with caution. Cardiac Glycosides - Magnesium sulfate should be administered with extreme caution in digitalized patients, because serious changes in cardiac conduction which can result in heart block may occur if administration of calcium is required to treat magnesium toxicity. Pregnancy Teratogenic Effects Pregnancy Category D (See WARNINGS and PRECAUTIONS ) See WARNINGS and PRECAUTIONS . Magenesium sulfate can cause fatal abnormalities when administered beyond 5 to 7 days to pregnant women. There are retrospective epidemiological studies and case reports documenting fetal abnormalities such as hypocalcemia, skeletal deminerlization, osteopenia and other skeletal abnormalities with continuous maternal administration of magnesium sulfate for more than 5 to 7 days. 1-10 Magnesium sulfate injection should be used during pregnancy, the woman should be apprised of the potential hazard to the fetus. Nonteratogencic Effects: When administered by continuous IV infusion (especially for more than 24 hours preceding delivery) to control convulsions in a toxemic woman, the newborn may show signs of magnesium toxicity, including neuromuscular or respiratory depression (see OVERDOSAGE ). Labor and Delivery Continuous administration of magnesium sulfate is an unapproved treatment for preterm labor. The safety and efficacy of such use have not been established. the administration of magnesium sulfate outside of its approved indication in pregnant women should be by trained obstretrical personnel in a hospital setting with appropriate obstetrical care facilities. Nursing Mothers Since magnesium is distributed into milk during parenteral magnesium sulfate administration, the drug should be used with caution in nursing women. Geriatrics Geriatric patients often require reduced dosage because of impaired renal function. In patients with sever impairment, dosage should not exceed 20 g in 48 hours. Serum magnesium should be monitored in such patients."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS The adverse effects of parenterally administered magnesium usually are the result of magnesium intoxication. these include flushing, sweating, hypotension, depressed reflexes, flaccid paralysis, hypothermia, circulatory collapse, cardiac and CNS depression proceeding to respiratory paralysis. Hypocalcemia with signs of tetany secondary to magnesium sulfate therapy for eclampsia has been reported."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Magnesium intoxication is manifested by a sharp drop in blood pressure and respiratory paralysis. Disappearance of the patellar reflex is a useful clinical sign to detect the onset of magnesium intoxication. In the event of overdosage, artificial ventilation must be provided until a calcium salt can be injected IV to antagonize the effects of magnesium. For Treatment of Overdose Artificial respiration is often required. Intravenous calcium, 10 to 20 mL of a 5% solution (diluted if desirable with isotonic sodium chloride for injection) is used to counteract effects of hypermagnesemia. Subcutaneous physostigmine, 0.5 to 1 mg may be helpful. Hypermagnesemia in the newborn may require resuscitation and assisted ventilation via endotracheal intubation or intermittent positive pressure ventilation as well as IV calcium."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Dosage of magnesium sulfate must be carefully adjusted according to individual requirements and response, and administration of the drug should be discontinued as soon as the desired effect is obtained. Both IV and IM administration are appropriate. IM administration of the undiluted 50% solution results in therapeutic plasma levels in 60 minutes, whereas IV doses will provide a therapeutic level almost immediately. The rate of IV injection should generally not exceed 150 mg/minute 1.5 mL of a 10% concentration or its equivalent), except in severe eclampsia with seizures (see below). Continuous maternal administration of magnesium sulfate in pregnancy beyone 5 to 7 days can cause fetal abnormalities. Solutions for IV infusion must be diluted to a concentration of 20% or less prior to administration. The diluents commonly used are 5% Dextrose Injection, USP and 0.9% Sodium Chloride Injection, USP. Deep IM injection of the undiluted (50%) solution is appropriate for adults, but the solution should be diluted to a 20% or less concentration prior to such injection in children. In Magnesium Deficiency In the treatment of mild magnesium deficiency, the usual adult dose is 1 g, equivalent to 8.12 mEq of magnesium (2 mL of the 50% solution) injected IM every six hours for four doses (equivalent to a total of 32.5 mEq of magnesium per 24 hours). For sever hypomagnesemia, as much as 250 mg (approximately 2 mEq) per kg of body weight (0.5 mL of the 50% solution) may be given IM within a period of four hours if necessary. Alternatively, 5 g (approximately 40 mEq) can be added to one liter of 5% Dextros Injection, USP or 0.9% Sodium Chloride Injection, USP for slow IV infusion over a three-hour period. In the treatment of dificiency states, caution must be observed to prevent exceeding the renal excretory capacity. In Hyperalimentation In TPN, maintenence requirements for magnesium are not precisely known. The maintenance dose used in adults ranges from 8 to 24 mEq (1 to 3 g) daily; for infants, the range is 2 to 10 mEq (0.25 to 1.25 g) daily. In Pre-eclampsia or Eclampsia In severe pre-eclampsia or eclampsia, the total initial dose is 10 to 14 g of magnesium sulfate. Intravenously, a dose of 4 to 5 g in 250 mL of 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP may be infused. Simultaneously, IM doses of up to 10 g (5 g or 10 mL of the undiluted 50% solution in each buttock) are given. Alternatively, the initial IV dose of 4 g may be given by diluting the 50% solution to a 10 or 20% concentration; the diluted fluid (40 mL of a 10% solution or 20 mL of a 20 % solution) may then be injected IV over a period of three to four minutes. Subsequently, 4 to 5 g (8 to 10 mL of the 50% solution) are injected IM into alternate buttocks every four hours as needed, depending on the continuing presence of the patellar reflex and adequate respiratory function. Alternatively, after the initial IV dose, some clinicians administer1 to 2 g/hour by constant IV infusion. Therapy should continue until paroxysms cease. A serum magnesium level of 6 mg/100 mL is considered optimal for control of seizures. A total daily (24 hr) dose of 30 to 40 g should not be exceeded. In the presence of severe renal insufficiency, the maximum dosage of magnesium sulfate is 20 grams/48 hours and frequent serum magnesium concentrations must be obtained. Continuous use of magnesium sulfate in pregnancy beyond 5 to 7 days can cause fetal abnormalities. Other uses In counteracting the muscle-stimulating effects of barium poisoning, the usual dose of magnesium sulfate is 1 to 2 g given IV. For controlling seizures associated with epilepsy, glomerulonephritis or hypothyroidism, the usual adult dose is 1 g administered IM or IV. In paroxysmal atrial tachycardia, magnesium should be used only if simpler measures have failed and there is no evidence of myocardial damage. The usual dose is 3 to 4 g (30 to 40 mL of a 10% solution) administered IV over 30 seconds with extreme caution. Incompatibilities Magnesium sulfate in solution may result in a precipitate formation when mixed with solutions containing: The potential incompatibility will often be influenced by the changes in the concentration of reactants and the pH of the solutions. It has been reported that magnesium may reduce the antibiotic activity of streptomycin, tetracycline and tobramycin when given together. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Image1.jpg"
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Above products packaged in plastic vials. Product number with a \"P\" suffix indicates vial is partially filled. Do not administer unless solution is clear and seal is intact. Contains no preservative. Discard unused portion. Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature]. Product repackaged by: Henry Schein, Inc., Bastian, VA 24314 From Original Manufacturer/Distributor's NDC and Unit of Sale To Henry Schein Repackaged Product NDC and Unit of Sale Total Strength/Total Volume (Concentration) per unit NDC 63323-064-03 25 in 1 CARTON NDC 0404-9904-02 1 2 mL Glass Vial in a bag (Vial bears NDC 63323-064-01) 500 mg/mL Magnesium mg/ml 49.3 Sulfate mg/mL 194.7 Image2.jpg"
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\"> <caption> Product repackaged by: Henry Schein, Inc., Bastian, VA 24314</caption> <tbody> <tr> <td>From Original Manufacturer/Distributor&apos;s NDC and Unit of Sale</td> <td>To Henry Schein Repackaged Product NDC and Unit of Sale</td> <td>Total Strength/Total Volume (Concentration) per unit </td> </tr> <tr> <td>NDC 63323-064-03 25 in 1 CARTON</td> <td>NDC 0404-9904-02 1 2 mL Glass Vial in a bag (Vial bears NDC 63323-064-01)</td> <td>500 mg/mL Magnesium mg/ml 49.3 Sulfate mg/mL 194.7</td> </tr> </tbody> </table>"
+  ],
+  "references": [
+   "REFERENCES References1.jpg Image3.jpg"
+  ],
+  "set_id": "5176ed24-015e-43fe-9eb4-85098debf5f1",
+  "id": "3f3e1899-bb10-4ba2-a3e0-316ad79a3556",
+  "effective_time": "20261102",
+  "version": "6"
+ }
+}
