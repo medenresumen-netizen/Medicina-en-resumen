@@ -30,4 +30,4 @@ jobs:
           git add labels index.json
           if git diff --cached --quiet; then echo "sin cambios"; exit 0; fi
           git commit -m "Fichas FDA: actualización automática [skip ci]"
-          git push origin HEAD:datos-fda
+          for i in 1 2 3; do git pull --rebase origin datos-fda && git push origin HEAD:datos-fda && exit 0; sleep 5; done; exit 1
