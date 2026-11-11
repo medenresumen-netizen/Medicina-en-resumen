@@ -1,22 +1,22 @@
 {
  "id_es": "salbutamol-neb",
  "generic_en": "albuterol sulfate",
- "search": "openfda.generic_name.exact:\"ALBUTEROL SULFATE\"",
- "pref": "albuterol sulfate|RESPIRATORY (INHALATION)|ALBUTEROL SULFATE INHALATION SOLUTION 0.083%",
- "downloaded": "2026-11-11T15:43Z",
+ "search": "set_id:32377c09-da6d-331c-e063-6294a90a7a46",
+ "pref": "",
+ "downloaded": "2026-11-11T15:48Z",
  "chosen": {
-  "set_id": "9324e2eb-26fd-4f14-9f10-e5aa467306f4",
-  "id": "f34b3a06-6e6b-4011-b93f-107387f94640",
-  "effective_time": "20200930",
-  "version": "12",
+  "set_id": "32377c09-da6d-331c-e063-6294a90a7a46",
+  "id": "56c01144-7ba7-2f75-e063-6294a90a6e6f",
+  "effective_time": "20260716",
+  "version": "3",
   "brand_name": [
-   "ProAir RespiClick"
+   "Albuterol Sulfate"
   ],
   "generic_name": [
    "ALBUTEROL SULFATE"
   ],
   "manufacturer_name": [
-   "Teva Respiratory, LLC"
+   "Rising Pharma Holdings, Inc."
   ],
   "route": [
    "RESPIRATORY (INHALATION)"
@@ -25,286 +25,11 @@
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "NDA205636"
+   "ANDA074880"
   ],
-  "n_sections": 34
+  "n_sections": 27
  },
  "candidates": [
-  {
-   "set_id": "5d62969b-2ad9-6cf0-e063-6394a90ac2f0",
-   "id": "5d6296ac-3e02-6bba-e063-6394a90af45b",
-   "effective_time": "20261009",
-   "version": "1",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Redpharm Drug"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207857"
-   ],
-   "n_sections": 25
-  },
-  {
-   "set_id": "52e209ac-7156-4496-ba5a-42ee59d45deb",
-   "id": "07fe2216-a439-482a-b48b-3c1fafd8af90",
-   "effective_time": "20261001",
-   "version": "10",
-   "brand_name": [
-    "Albuterol sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209954"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "a9188951-3711-412c-89c6-e8db784dcb65",
-   "id": "8a2b4b3e-c862-41b4-89d7-378f19269c08",
-   "effective_time": "20260925",
-   "version": "10",
-   "brand_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209959"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "adb8d669-b91c-46f1-8a86-19f504840eff",
-   "id": "5c3b95c8-ea60-63a9-e063-6394a90a9553",
-   "effective_time": "20260924",
-   "version": "15",
-   "brand_name": [
-    "VENTOLIN HFA"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA020983"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "1810ff8e-d505-bf9c-e063-6394a90a6540",
-   "id": "5b80e7da-01a7-6709-e063-6294a90adb9d",
-   "effective_time": "20260922",
-   "version": "4",
-   "brand_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Luoxin Aurovitas Pharma (Chengdu) Co., Ltd."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206224"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "32dbec5e-044a-40b6-9b88-e1396c4b4b6e",
-   "id": "5b8a4b3d-c84b-d468-e063-6394a90a2571",
-   "effective_time": "20260915",
-   "version": "3",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA020503"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "54172384-9726-4a11-901e-3fb8f1baccae",
-   "id": "5b875db4-187b-4393-e063-6294a90ad895",
-   "effective_time": "20260915",
-   "version": "2",
-   "brand_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206224"
-   ],
-   "n_sections": 25
-  },
-  {
-   "set_id": "b7c6ae06-b1a8-4bf1-934d-439572e19931",
-   "id": "5b74442a-d53c-ad42-e063-6294a90a7eff",
-   "effective_time": "20260914",
-   "version": "3",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA212447"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "17858afa-dcdf-4612-b475-3b6baadfb639",
-   "id": "aabe1b11-7f84-4db3-9d05-0c79a4a88ba2",
-   "effective_time": "20260806",
-   "version": "5",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Armstrong Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA212447"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "583c6408-45cc-9121-e063-6294a90afcc4",
-   "id": "583c6414-a335-a8b9-e063-6394a90ae986",
-   "effective_time": "20260804",
-   "version": "1",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "NuCare Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207085"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "3236f82c-14e9-dfd4-e063-6294a90ac43d",
-   "id": "56c00cc1-5ed0-8ff5-e063-6394a90a132b",
-   "effective_time": "20260716",
-   "version": "3",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Rising Pharma Holdings, Inc."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA075664"
-   ],
-   "n_sections": 29
-  },
   {
    "set_id": "32377c09-da6d-331c-e063-6294a90a7a46",
    "id": "56c01144-7ba7-2f75-e063-6294a90a6e6f",
@@ -329,425 +54,78 @@
     "ANDA074880"
    ],
    "n_sections": 27
-  },
-  {
-   "set_id": "32474c0e-af35-69d1-e063-6394a90a53c6",
-   "id": "56c0a24f-4608-be23-e063-6294a90a9be2",
-   "effective_time": "20260716",
-   "version": "3",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Rising Pharma Holdings, Inc"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076355"
-   ],
-   "n_sections": 30
-  },
-  {
-   "set_id": "b18fad6e-f117-4840-83b7-8c261c646af1",
-   "id": "55aecd57-c6eb-8be6-e063-6294a90ad424",
-   "effective_time": "20260703",
-   "version": "1",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "HAWAII REPACK, INC."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207085"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "4aec7f59-b429-4b0e-a779-8df1dd8f80d7",
-   "id": "54eddfbb-f919-1e84-e063-6294a90add14",
-   "effective_time": "20260623",
-   "version": "5",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "American Health Packaging"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA077839"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "0f9bf2c8-55c0-4b4d-97de-d6c7220c3862",
-   "id": "54789a34-7ed6-8902-e063-6294a90a5b04",
-   "effective_time": "20260617",
-   "version": "7",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207857"
-   ],
-   "n_sections": 25
-  },
-  {
-   "set_id": "b0a5da99-6553-4088-ae27-7fa194438340",
-   "id": "5242a3fe-0a61-251c-e063-6294a90ad050",
-   "effective_time": "20260520",
-   "version": "3",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "American Health Packaging"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209959"
-   ],
-   "n_sections": 19
-  },
-  {
-   "set_id": "c4d6d76a-14b8-411a-8019-e2c923c2c532",
-   "id": "135ef57d-f447-45c6-ad56-e4f772dc98ee",
-   "effective_time": "20260520",
-   "version": "11",
-   "brand_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Cipla USA Inc."
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209959"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "574824f3-51cc-4b94-9c10-e3204d8b19f8",
-   "id": "514fb199-56df-ed37-e063-6294a90a1848",
-   "effective_time": "20260508",
-   "version": "10",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Nephron Pharmaceuticals Corporation"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074880"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "b72742df-1a6b-4483-aff3-3e79db5e015d",
-   "id": "4ffe0388-e743-7259-e063-6394a90a94d2",
-   "effective_time": "20260430",
-   "version": "20",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Ritedose Pharmaceuticals, LLC"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA077839"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "d4c532be-1f41-60d3-e053-2995a90a98be",
-   "id": "4ffd498d-4575-dd61-e063-6394a90a95d6",
-   "effective_time": "20260430",
-   "version": "10",
-   "brand_name": [
-    "Albuterol Sulfate Inhalation Solution"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Ritedose Pharmaceuticals, LLC"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA214531"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "32d954ee-9790-4beb-95db-72dbf8efa639",
-   "id": "50393805-705f-a8d7-e063-6394a90a8af3",
-   "effective_time": "20260424",
-   "version": "4",
-   "brand_name": [
-    "Albuterol sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209954"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "440a96bb-9e69-bdcc-e063-6294a90a6793",
-   "id": "502ef325-6fb5-830e-e063-6394a90ad035",
-   "effective_time": "20260424",
-   "version": "2",
-   "brand_name": [
-    "albuterol sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA203760"
-   ],
-   "n_sections": 30
-  },
-  {
-   "set_id": "a33e20e0-3936-450d-a9d9-3ff51c6f26c5",
-   "id": "5032431f-2259-7fb4-e063-6294a90ad0ff",
-   "effective_time": "20260424",
-   "version": "2",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074880"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "e31d8d13-ac19-4738-97d4-d7790ce2e8e3",
-   "id": "503914be-2ec4-78e1-e063-6394a90a6efb",
-   "effective_time": "20260424",
-   "version": "4",
-   "brand_name": [
-    "Albuterol Sulfate"
-   ],
-   "generic_name": [
-    "ALBUTEROL SULFATE"
-   ],
-   "manufacturer_name": [
-    "Sportpharm LLC"
-   ],
-   "route": [
-    "RESPIRATORY (INHALATION)"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207085"
-   ],
-   "n_sections": 18
   }
  ],
  "label": {
-  "indications_and_usage": [
-   "1 INDICATIONS AND USAGE PROAIR RESPICLICK is a beta 2 -adrenergic agonist indicated for: Treatment or prevention of bronchospasm in patients 4 years of age and older with reversible obstructive airway disease. ( 1.1 ) Prevention of exercise-induced bronchospasm in patients 4 years of age and older. ( 1.2 ) 1.1 Bronchospasm PROAIR RESPICLICK is indicated for the treatment or prevention of bronchospasm in patients 4 years of age and older with reversible obstructive airway disease. 1.2 Exercise-Induced Bronchospasm PROAIR RESPICLICK is indicated for the prevention of exercise-induced bronchospasm in patients 4 years of age and older."
-  ],
-  "dosage_and_administration": [
-   "2 DOSAGE AND ADMINISTRATION For oral inhalation only Treatment or prevention of bronchospasm in adults and children 4 years of age and older: 2 inhalations every 4 to 6 hours by oral inhalation. In some patients, 1 inhalation every 4 hours may be sufficient. ( 2.1 ) Prevention of exercise-induced bronchospasm in adults and children 4 years of age and older: 2 inhalations 15 to 30 minutes before exercise by oral inhalation. (2.2) PROAIR RESPICLICK does not require priming. ( 2.3 ) Do not use with a spacer or volume holding chamber. ( 2.3 ) Keep the inhaler clean and dry at all times. Routine maintenance is not required. If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed. Never wash or put any part of the inhaler in water. ( 2.3 ) Discard 13 months after opening the foil pouch, when the dose counter displays 0, or after the expiration date on the product, whichever comes first. ( 2.3 ) 2.1 Recommended Dosage for Bronchospasm The recommended dosage is 2 inhalations every 4 to 6 hours by oral inhalation. More frequent administration or a larger number of inhalations is not recommended. In some patients, 1 inhalation every 4 hours may be sufficient. 2.2 Recommended Dosage for Exercise-Induced Bronchospasm The recommended dosage is 2 inhalations 15 to 30 minutes before exercise by oral inhalation. 2.3 Administration and Maintenance Information Administer PROAIR RESPICLICK by oral inhalation only. PROAIR RESPICLICK inhaler does not require priming. Do not use PROAIR RESPICLICK with a spacer or volume holding chamber. Keep the inhaler clean and dry at all times. Never wash or put any part of your inhaler in water. Routine maintenance is not required. If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed. 2.4 Dose Counter The PROAIR RESPICLICK inhaler has a dose counter attached to the actuator. When the patient receives the inhaler, the number 200 will be displayed. The dose counter will count down each time the inhaler is actuated. When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill. When the dose counter reaches 0, the background will change to solid red. Discard PROAIR RESPICLICK 13 months after opening the foil pouch, when the dose counter displays 0 or after the expiration date on the product, whichever comes first [see Patient Counseling Information (17)]."
-  ],
-  "dosage_forms_and_strengths": [
-   "3 DOSAGE FORMS AND STRENGTHS Inhalation powder: a multi-dose breath-actuated dry powder inhaler that delivers 108 mcg of albuterol sulfate (equivalent to 90 mcg of albuterol base) from the mouth piece per actuation. Each inhaler is supplied for 200 inhalations. Inhalation powder: dry powder inhaler that delivers 108 mcg of albuterol sulfate (equivalent to 90 mcg of albuterol base) from the mouthpiece per actuation. The inhaler is supplied for 200 inhalation doses. ( 3 )"
-  ],
-  "contraindications": [
-   "4 CONTRAINDICATIONS PROAIR RESPICLICK is contraindicated in patients with a history of hypersensitivity to albuterol and/or severe hypersensitivity to milk proteins. Rare cases of hypersensitivity reactions, including urticaria, angioedema, and rash have been reported after the use of albuterol sulfate. There have been reports of anaphylactic reactions in patients using inhalation therapies containing lactose [see Warnings and Precautions ( 5.6 )] . Patients with hypersensitivity to albuterol. ( 4 ) Patients with severe hypersensitivity to milk proteins. ( 4 )"
-  ],
-  "warnings_and_cautions": [
-   "5 WARNINGS AND PRECAUTIONS Life-threatening paradoxical bronchospasm may occur. Discontinue PROAIR RESPICLICK immediately and treat with alternative therapy. ( 5.1 ) Need for more doses of PROAIR RESPICLICK than usual may be a sign of deterioration of asthma and requires reevaluation of treatment. ( 5.2 ) PROAIR RESPICLICK is not a substitute for corticosteroids. ( 5.3 ) Cardiovascular effects may occur. Use with caution in patients sensitive to sympathomimetic drugs and patients with cardiovascular or convulsive disorders. ( 5.4 , 5.7 ) Excessive use may be fatal. Do not exceed recommended dose. ( 5.5 ) Immediate hypersensitivity reactions may occur. Discontinue PROAIR RESPICLICK immediately. ( 5.6 ) Hypokalemia and changes in blood glucose may occur. ( 5.7 , 5.8 ) 5.1 Paradoxical Bronchospasm PROAIR RESPICLICK can produce paradoxical bronchospasm that may be life threatening. If paradoxical bronchospasm occurs, PROAIR RESPICLICK should be discontinued immediately and alternative therapy instituted. 5.2 Deterioration of Asthma Asthma may deteriorate acutely over a period of hours or chronically over several days or longer. If the patient needs more doses of PROAIR RESPICLICK, this may be a marker of destabilization of asthma and requires re-evaluation of the patient and treatment regimen, giving special consideration to the possible need for anti-inflammatory treatment, eg, corticosteroids. 5.3 Use of Anti-Inflammatory Agents The use of beta-adrenergic-agonist bronchodilators alone may not be adequate to control asthma in many patients. Early consideration should be given to adding anti-inflammatory agents, e.g., corticosteroids, to the therapeutic regimen. 5.4 Cardiovascular Effects PROAIR RESPICLICK, like other beta-adrenergic agonists, can produce clinically significant cardiovascular effects in some patients as measured by pulse rate, blood pressure, and/or symptoms. Although such effects are uncommon after administration of PROAIR RESPICLICK at recommended doses, if they occur, the drug may need to be discontinued. In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T-wave, prolongation of the QTc interval, and ST segment depression. The clinical significance of these findings is unknown. Therefore, PROAIR RESPICLICK, like all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension. 5.5 Do Not Exceed Recommended Dose Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs in patients with asthma. The exact cause of death is unknown, but cardiac arrest following an unexpected development of a severe acute asthmatic crisis and subsequent hypoxia is suspected. 5.6 Hypersensitivity Reactions including Anaphylaxis Immediate hypersensitivity reactions may occur after administration of albuterol sulfate, as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema. PROAIR RESPICLICK contains small amounts of lactose, which may contain trace levels of milk proteins. Hypersensitivity reactions including anaphylaxis, angioedema, pruritus, and rash have been reported with the use of therapies containing lactose (lactose is an inactive ingredient in PROAIR RESPICLICK). The potential for hypersensitivity must be considered in the clinical evaluation of patients who experience immediate hypersensitivity reactions while receiving PROAIR RESPICLICK. 5.7 Coexisting Conditions PROAIR RESPICLICK, like all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension; in patients with convulsive disorders, hyperthyroidism, or diabetes mellitus; and in patients who are unusually responsive to sympathomimetic amines. Clinically significant changes in systolic and diastolic blood pressure have been seen in individual patients and could be expected to occur in some patients after use of any beta-adrenergic bronchodilator. Large doses of intravenous albuterol have been reported to aggravate preexisting diabetes mellitus and ketoacidosis. 5.8 Hypokalemia As with other beta-agonists, PROAIR RESPICLICK may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. The decrease is usually transient, not requiring supplementation."
-  ],
-  "adverse_reactions": [
-   "6 ADVERSE REACTIONS Use of PROAIR RESPICLICK may be associated with the following: Paradoxical bronchospasm [see Warnings and Precautions ( 5.1 )] Cardiovascular Effects [see Warnings and Precautions ( 5.4 )] Immediate hypersensitivity reactions [see Warnings and Precautions ( 5.6 )] Hypokalemia [see Warnings and Precautions ( 5.8 ) Most common adverse reactions (≥1% and >placebo) are back pain, pain, gastroenteritis viral, sinus headache, urinary tract infection, nasopharyngitis, oropharyngeal pain and vomiting. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Teva Respiratory, LLC at 1-888-482-9522 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience A total of 1289 subjects were treated with PROAIR RESPICLICK during the clinical development program. The most common adverse reactions (≥1% and > placebo) were back pain, pain, gastroenteritis viral, sinus headache, and urinary tract infection. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Adults and Adolescents 12 years of Age and Older : The adverse reaction information presented in Table 1 below concerning PROAIR RESPICLICK is derived from the 12-week blinded treatment period of three studies which compared PROAIR RESPICLICK 180 mcg four times daily with a double-blinded matched placebo in 653 asthmatic patients 12 to 76 years of age. Table 1: Adverse Reactions Experienced by Greater Than or Equal to 1.0% of Adult and Adolescent Patients in the PROAIR RESPICLICK Group and Greater Than Placebo in three 12-Week Clinical Trials 1 Preferred Term Number (%) of patients PROAIR RESPICLICK 180 mcg QID N=321 Placebo N=333 Back pain 6 (2%) 4 (1%) Pain 5 (2%) 2 (<1%) Gastroenteritis viral 4 (1%) 3 (<1%) Sinus headache 4 (1%) 3 (<1%) Urinary tract infection 4 (1%) 3 (<1%) 1. This table includes all adverse events (whether considered by the investigator drug related or unrelated to drug) which occurred at an incidence rate of greater than or equal to 1.0% in the PROAIR RESPICLICK group and greater than placebo. In a long-term study of 168 patients treated with PROAIR RESPICLICK for up to 52 weeks (including a 12-week double-blind period), the most commonly reported adverse events greater than or equal to 5% were upper respiratory infection, nasopharyngitis, sinusitis, bronchitis, cough, oropharyngeal pain, headache, and pyrexia. In a small cumulative dose study, tremor, palpitations, and headache were the most frequently occurring (≥5%) adverse events. Pediatric Patients 4 to 11 Years of Age : The adverse reaction information presented in Table 2 below concerning PROAIR RESPICLICK is derived from a 3‑week pediatric clinical trial which compared PROAIR RESPICLICK 180 mcg albuterol 4 times daily with a double‑blinded matched placebo in 185 asthmatic patients 4 to 11 years of age. Table 2: Adverse Reactions Experienced by Greater Than or Equal to 2.0% of Patients 4 to 11 Years of Age in the PROAIR RESPICLICK Group and Greater Than Placebo in the 3 Week Trial Preferred Term Number (%) of patients PROAIR RESPICLICK 180 mcg QID N=93 Placebo N=92 Nasopharyngitis 2 (2%) 1 (1%) Oropharyngeal pain 2 (2%) 1 (1%) Vomiting 3 (3%) 1 (1%) 6.2 Postmarketing Experience In addition to the adverse reactions reported from clinical trials with PROAIR RESPICLICK, the following adverse events have been reported during use of other inhaled albuterol sulfate products: Urticaria, angioedema, rash, bronchospasm, hoarseness, oropharyngeal edema, and arrhythmias (including atrial fibrillation, supraventricular tachycardia, extrasystoles), rare cases of aggravated bronchospasm, lack of efficacy, asthma exacerbation (potentially fatal), muscle cramps, and various oropharyngeal side-effects such as throat irritation, altered taste, glossitis, tongue ulceration, and gagging. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. In addition, albuterol, like other sympathomimetic agents, can cause adverse reactions such as: angina, hypertension or hypotension, palpitations, central nervous system stimulation, insomnia, headache, nervousness, tremor, muscle cramps, drying or irritation of the oropharynx, hypokalemia, hyperglycemia, and metabolic acidosis."
-  ],
-  "adverse_reactions_table": [
-   "<table> <col/> <col/> <col/> <thead> <tr> <th styleCode=\" Botrule Toprule Lrule Rrule\" rowspan=\"2\"> <content styleCode=\"bold\">Preferred Term</content> </th> <th styleCode=\" Botrule Toprule Rrule\" colspan=\"2\"> <content styleCode=\"bold\">Number (%) of patients</content> </th> </tr> <tr> <th align=\"center\" styleCode=\" Botrule Rrule\"> <content styleCode=\"bold\">PROAIR RESPICLICK 180 mcg QID</content>   <content styleCode=\"bold\">N=321</content> </th> <th align=\"center\" styleCode=\" Botrule Rrule\"> <content styleCode=\"bold\">Placebo</content>   <content styleCode=\"bold\">N=333</content> </th> </tr> </thead> <tbody> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Back pain</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>6 (2%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>4 (1%)</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Pain</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>5 (2%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>2 (&lt;1%)</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Gastroenteritis viral</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>4 (1%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>3 (&lt;1%)</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Sinus headache</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>4 (1%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>3 (&lt;1%)</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Urinary tract infection</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>4 (1%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>3 (&lt;1%)</paragraph> </td> </tr> </tbody> </table>",
-   "<table> <col/> <col/> <col/> <thead> <tr> <th styleCode=\" Botrule Toprule Lrule Rrule\" rowspan=\"2\"> <content styleCode=\"bold\">Preferred Term</content> </th> <th styleCode=\" Botrule Toprule Rrule\" colspan=\"2\"> <content styleCode=\"bold\">Number (%) of patients</content> </th> </tr> <tr> <th align=\"center\" styleCode=\" Botrule Rrule\"> <content styleCode=\"bold\">PROAIR RESPICLICK 180 mcg QID</content>   <content styleCode=\"bold\">N=93</content> </th> <th align=\"center\" styleCode=\" Botrule Rrule\"> <content styleCode=\"bold\">Placebo</content>   <content styleCode=\"bold\">N=92</content> </th> </tr> </thead> <tbody> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Nasopharyngitis</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>2 (2%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>1 (1%)</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Oropharyngeal pain</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>2 (2%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>1 (1%)</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Lrule Rrule\"> <paragraph>Vomiting</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>3 (3%)</paragraph> </td> <td align=\"center\" styleCode=\" Botrule Rrule\"> <paragraph>1 (1%)</paragraph> </td> </tr> </tbody> </table>"
-  ],
-  "drug_interactions": [
-   "7 DRUG INTERACTIONS Other short-acting sympathomimetic bronchodilators should not be used concomitantly with PROAIR RESPICLICK. If additional adrenergic drugs are to be administered by any route, they should be used with caution to avoid deleterious cardiovascular effects. Other short-acting sympathomimetic aerosol bronchodilators and adrenergic drugs: May potentiate effect. ( 7 ) Beta-blockers: May decrease effectiveness of PROAIR RESPICLICK and produce severe bronchospasm. Patients with asthma should not normally be treated with beta-blockers. ( 7.1 ) Diuretics, or non-potassium sparing diuretics: May potentiate hypokalemia or ECG changes. Consider monitoring potassium levels. ( 7.2 ) Digoxin: May decrease serum digoxin levels. Consider monitoring digoxin levels. ( 7.3 ) Monoamine oxidase (MAO) inhibitors and tricyclic antidepressants: May potentiate effect of albuterol on the cardiovascular system. Consider alternative therapy in patients taking MAOs or tricyclic antidepressants. ( 7.4 ) 7.1 Beta-Blockers Beta-adrenergic-receptor blocking agents not only block the pulmonary effect of beta-agonists, such as PROAIR RESPICLICK, but may produce severe bronchospasm in asthmatic patients. Therefore, patients with asthma should not normally be treated with beta-blockers. However, under certain circumstances, eg, as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-adrenergic-blocking agents in patients with asthma. In this setting, consider cardioselective beta-blockers, although they should be administered with caution. 7.2 Diuretics The ECG changes and/or hypokalemia which may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded. Although the clinical significance of these effects is not known, caution is advised in the coadministration of beta-agonists with non-potassium sparing diuretics. Consider monitoring potassium levels. 7.3 Digoxin Mean decreases of 16% and 22% in serum digoxin levels were demonstrated after single dose intravenous and oral administration of albuterol, respectively, to normal volunteers who had received digoxin for 10 days. The clinical significance of these findings for patients with obstructive airway disease who are receiving albuterol and digoxin on a chronic basis is unclear. Nevertheless, it would be prudent to carefully evaluate the serum digoxin levels in patients who are currently receiving digoxin and PROAIR RESPICLICK. 7.4 Monoamine Oxidase Inhibitors or Tricyclic Antidepressants PROAIR RESPICLICK should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of albuterol on the cardiovascular system may be potentiated. Consider alternative therapy in patients taking MAO inhibitors or tricyclic antidepressants."
-  ],
-  "use_in_specific_populations": [
-   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary There are no randomized clinical studies of use of albuterol during pregnancy. Available data from published epidemiological studies and postmarketing case reports of pregnancy outcomes following inhaled albuterol use do not consistently demonstrate a risk of major birth defects or miscarriage. There are clinical considerations with use of albuterol in pregnant women [see Clinical Considerations]. In animal reproduction studies, when albuterol sulfate was administered subcutaneously to pregnant mice there was evidence of cleft palate at less than and up to 9 times the maximum recommended human daily inhalation dose (MRHDID) [see Data]. The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown. In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk In women with poorly or moderately controlled asthma, there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate. Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control. Labor or Delivery Because of the potential for beta-agonist interference with uterine contractility, use of PROAIR RESPICLICK for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk. PROAIR RESPICLICK has not been approved for the management of pre-term labor. Serious adverse reactions, including pulmonary edema, have been reported during or following treatment of premature labor with beta 2 -agonists, including albuterol. Data Animal Data In a mouse reproduction study, subcutaneously administered albuterol sulfate produced cleft palate formation in 5 of 111 (4.5%) fetuses at an exposure nine-tenths the maximum recommended human dose (MRHDID) for adults (on a mg/m 2 basis at a maternal dose of 0.25 mg/kg) and in 10 of 108 (9.3%) fetuses at approximately 9 times the MRHDID (on a mg/m 2 basis at a maternal dose of 2.5 mg/kg). Similar effects were not observed at approximately one-eleventh the MRHDID for adults (on a mg/m 2 basis at a maternal dose of 0.025 mg/kg). Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with isoproterenol (positive control). In a rabbit reproduction study, orally administered albuterol sulfate induced cranioschisis in 7 of 19 fetuses (37%) at approximately 750 times the MRHDID (on a mg/m 2 basis at a maternal dose of 50 mg/kg). In a rat reproduction study, an albuterol sulfate/HFA-134a formulation administered by inhalation did not produce any teratogenic effects at exposures approximately 80 times the MRHDID (on a mg/m 2 basis at a maternal dose of 10.5 mg/kg). A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus. 8.2 Lactation Risk Summary There are no available data on the presence of albuterol in human milk, the effects on the breastfed child, or the effects on milk production. However, plasma levels of albuterol after inhaled therapeutic doses are low in humans, and if present in breast milk, albuterol has a low oral bioavailability [see Clinical Pharmacology ( 12.3 )]. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for albuterol and any potential adverse effects on the breastfed child from albuterol or from the underlying maternal condition. 8.4 Pediatric Use The safety and effectiveness of PROAIR RESPICLICK for the treatment or prevention of bronchospasm with reversible obstructive airway disease have been established in pediatric patients 12 to 17 years of age. Use of PROAIR RESPICLICK for this indication is supported by evidence from two 12-week clinical trials in 318 patients 12 years of age and older with asthma comparing doses of 180 mcg four times daily with placebo, one long-term safety study in children 12 years of age and older, and one single-dose crossover study comparing doses of 90 and 180 mcg with albuterol sulfate inhalation aerosol (ProAir ® HFA) in 71 patients [see Clinical Studies ( 14.1 )]. The safety and effectiveness of PROAIR RESPICLICK for treatment of exercise-induced bronchospasm have been established in children 12 years of age and older. Use of PROAIR RESPICLICK for this indication is supported by evidence from one single-dose crossover study in 38 patients age 16 and older with exercise-induced bronchospasm comparing doses of 180 mcg with placebo [see Clinical Studies (14.2)] . The safety profile for patients ages 12 to 17 was consistent with the overall safety profile seen in these studies. The safety of PROAIR RESPICLICK in children 4 to 11 years of age is based on two single-dose, controlled, crossover studies: one with 61 patients comparing doses of 90 and 180 mcg with matched placebo and albuterol HFA MDI and one with 15 patients comparing a dose of 180 mcg with matched albuterol HFA MDI; and one 3-week clinical trial in 185 patients 4 to 11 years of age with asthma comparing a dose of 180 mcg four times daily with matched albuterol HFA MDI. The effectiveness of PROAIR RESPICLICK in children 4 to 11 years with exercise-induced bronchospasm is extrapolated from clinical trials in patients 12 years of age and older with asthma and exercise-induced bronchospasm, based on data from a single-dose study comparing the bronchodilatory effect of PROAIR RESPICLICK 90 mcg and 180 mcg with placebo in 61 patients with asthma, and data from a 3-week clinical trial in 185 asthmatic children 4 to 11 years of age comparing a dose of 180 mcg albuterol 4 times daily with placebo [see Clinical Studies ( 14.1 )] . The safety and effectiveness of PROAIR RESPICLICK in pediatric patients below the age of 4 years have not been established. 8.5 Geriatric Use Clinical studies of PROAIR RESPICLICK did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Warnings and Precautions ( 5.4 , 5.7 )]. All beta 2 -adrenergic agonists, including albuterol, are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
-  ],
-  "pregnancy": [
-   "8.1 Pregnancy Risk Summary There are no randomized clinical studies of use of albuterol during pregnancy. Available data from published epidemiological studies and postmarketing case reports of pregnancy outcomes following inhaled albuterol use do not consistently demonstrate a risk of major birth defects or miscarriage. There are clinical considerations with use of albuterol in pregnant women [see Clinical Considerations]. In animal reproduction studies, when albuterol sulfate was administered subcutaneously to pregnant mice there was evidence of cleft palate at less than and up to 9 times the maximum recommended human daily inhalation dose (MRHDID) [see Data]. The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown. In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk In women with poorly or moderately controlled asthma, there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate. Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control. Labor or Delivery Because of the potential for beta-agonist interference with uterine contractility, use of PROAIR RESPICLICK for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk. PROAIR RESPICLICK has not been approved for the management of pre-term labor. Serious adverse reactions, including pulmonary edema, have been reported during or following treatment of premature labor with beta 2 -agonists, including albuterol. Data Animal Data In a mouse reproduction study, subcutaneously administered albuterol sulfate produced cleft palate formation in 5 of 111 (4.5%) fetuses at an exposure nine-tenths the maximum recommended human dose (MRHDID) for adults (on a mg/m 2 basis at a maternal dose of 0.25 mg/kg) and in 10 of 108 (9.3%) fetuses at approximately 9 times the MRHDID (on a mg/m 2 basis at a maternal dose of 2.5 mg/kg). Similar effects were not observed at approximately one-eleventh the MRHDID for adults (on a mg/m 2 basis at a maternal dose of 0.025 mg/kg). Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with isoproterenol (positive control). In a rabbit reproduction study, orally administered albuterol sulfate induced cranioschisis in 7 of 19 fetuses (37%) at approximately 750 times the MRHDID (on a mg/m 2 basis at a maternal dose of 50 mg/kg). In a rat reproduction study, an albuterol sulfate/HFA-134a formulation administered by inhalation did not produce any teratogenic effects at exposures approximately 80 times the MRHDID (on a mg/m 2 basis at a maternal dose of 10.5 mg/kg). A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus."
-  ],
-  "labor_and_delivery": [
-   "8.2 Lactation Risk Summary There are no available data on the presence of albuterol in human milk, the effects on the breastfed child, or the effects on milk production. However, plasma levels of albuterol after inhaled therapeutic doses are low in humans, and if present in breast milk, albuterol has a low oral bioavailability [see Clinical Pharmacology ( 12.3 )]. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for albuterol and any potential adverse effects on the breastfed child from albuterol or from the underlying maternal condition."
-  ],
-  "pediatric_use": [
-   "8.4 Pediatric Use The safety and effectiveness of PROAIR RESPICLICK for the treatment or prevention of bronchospasm with reversible obstructive airway disease have been established in pediatric patients 12 to 17 years of age. Use of PROAIR RESPICLICK for this indication is supported by evidence from two 12-week clinical trials in 318 patients 12 years of age and older with asthma comparing doses of 180 mcg four times daily with placebo, one long-term safety study in children 12 years of age and older, and one single-dose crossover study comparing doses of 90 and 180 mcg with albuterol sulfate inhalation aerosol (ProAir ® HFA) in 71 patients [see Clinical Studies ( 14.1 )]. The safety and effectiveness of PROAIR RESPICLICK for treatment of exercise-induced bronchospasm have been established in children 12 years of age and older. Use of PROAIR RESPICLICK for this indication is supported by evidence from one single-dose crossover study in 38 patients age 16 and older with exercise-induced bronchospasm comparing doses of 180 mcg with placebo [see Clinical Studies (14.2)] . The safety profile for patients ages 12 to 17 was consistent with the overall safety profile seen in these studies. The safety of PROAIR RESPICLICK in children 4 to 11 years of age is based on two single-dose, controlled, crossover studies: one with 61 patients comparing doses of 90 and 180 mcg with matched placebo and albuterol HFA MDI and one with 15 patients comparing a dose of 180 mcg with matched albuterol HFA MDI; and one 3-week clinical trial in 185 patients 4 to 11 years of age with asthma comparing a dose of 180 mcg four times daily with matched albuterol HFA MDI. The effectiveness of PROAIR RESPICLICK in children 4 to 11 years with exercise-induced bronchospasm is extrapolated from clinical trials in patients 12 years of age and older with asthma and exercise-induced bronchospasm, based on data from a single-dose study comparing the bronchodilatory effect of PROAIR RESPICLICK 90 mcg and 180 mcg with placebo in 61 patients with asthma, and data from a 3-week clinical trial in 185 asthmatic children 4 to 11 years of age comparing a dose of 180 mcg albuterol 4 times daily with placebo [see Clinical Studies ( 14.1 )] . The safety and effectiveness of PROAIR RESPICLICK in pediatric patients below the age of 4 years have not been established."
-  ],
-  "geriatric_use": [
-   "8.5 Geriatric Use Clinical studies of PROAIR RESPICLICK did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Warnings and Precautions ( 5.4 , 5.7 )]. All beta 2 -adrenergic agonists, including albuterol, are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
-  ],
-  "overdosage": [
-   "10 OVERDOSAGE The expected symptoms with overdosage are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the symptoms listed under ADVERSE REACTIONS, eg, seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats per minute, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, and insomnia. Hypokalemia may also occur. As with all sympathomimetic medications, cardiac arrest and even death may be associated with abuse of PROAIR RESPICLICK. Treatment consists of discontinuation of PROAIR RESPICLICK together with appropriate symptomatic therapy. The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm. There is insufficient evidence to determine if dialysis is beneficial for overdosage of PROAIR RESPICLICK."
-  ],
   "description": [
-   "11 DESCRIPTION The active ingredient of PROAIR RESPICLICK inhalation powder is albuterol sulfate, a racemic salt of albuterol. Albuterol sulfate is a beta 2 -adrenergic agonist. It has the chemical name α 1 -[( tert -butylamino) methyl]-4-hydroxy- m -xylene-α,α'-diol sulfate (2:1) (salt), and the following chemical structure: The molecular weight of albuterol sulfate is 576.7, and the empirical formula is (C 13 H 21 NO 3 ) 2 •H 2 SO 4 . Albuterol sulfate is a white to off-white crystalline powder. It is soluble in water and slightly soluble in ethanol. Albuterol sulfate is the official U.S. Adopted Name in the United States, and salbutamol sulfate is the recommended World Health Organization international nonproprietary name. PROAIR RESPICLICK is an inhalation-driven, multi-dose inhalation powder (dry powder inhaler) for oral inhalation only. It contains a formulation blend of albuterol sulfate with alpha-lactose monohydrate. Each actuation provides a metered dose of 2.6 mg of the formulation containing 117 mcg of albuterol sulfate (equivalent to 97 mcg of albuterol base) and lactose from the device reservoir. Under standardized in vitro test conditions with fixed flow rates ranging from 58 to 71 L/min, and with a total air volume of 2 L, the PROAIR RESPICLICK inhaler delivers 108 mcg of albuterol sulfate (equivalent to 90 mcg of albuterol base) with lactose from the mouthpiece. The actual amount of drug delivered to the lung will depend on patient factors, such as inspiratory flow profile. In a study that investigated the peak inspiratory flow rate (PIFR) in asthma (n=27, ages 12 to 17 years old and n=50, ages 18 to 45 years old) and COPD (n=50, over 50 years old) patients, the mean PIFR achieved by subjects was >60 L/min (range = 31 to 110 L/min.), indicating that patients would be able to achieve the required inspiratory flow to operate the MDPI device correctly. The inhaler is provided for 200 actuations (inhalations). structural formula"
+   "DESCRIPTION Albuterol inhalation solution, USP is a relatively selective beta 2 -adrenergic bronchodilator (see CLINICAL PHARMACOLOGY section below). Albuterol sulfate USP, the racemic form of albuterol, has the chemical name α 1 -[( tert-Butylamino)methyl]-4-hydroxy-m-xylene-α,α′-diol sulfate (2:1) (salt) and the following structural formula: Albuterol sulfate has a molecular weight of 576.7, and the molecular formula is (C 13 H 21 NO 3 ) 2 •H 2 SO 4 . Albuterol sulfate, USP is a white or practically white powder, freely soluble in water and slightly soluble in alcohol. The World Health Organization’s recommended name for albuterol base is salbutamol. Albuterol inhalation solution, USP 0.083% requires no dilution before administration. Each mL of albuterol inhalation solution, USP (0.083%) contains 0.83 mg of albuterol (as 1 mg of albuterol sulfate) USP in an isotonic, sterile, aqueous solution containing sodium chloride; sulfuric acid is used to adjust the pH to between 3 and 5. Albuterol inhalation solution, USP (0.083%) contains no sulfiting agents. Albuterol inhalation solution, USP is a clear, colorless to light yellow solution. F:\\daisy assignment\\6月份\\06.20\\albuterol-sulfate-inhalation-solution-6-20-2008\\figure-01.jpg"
   ],
   "clinical_pharmacology": [
-   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3',5’‑adenosine monophosphate (cyclic AMP). This increase of cyclic AMP is associated with the activation of protein kinase A, which in turn inhibits the phosphorylation of myosin and lowers intracellular ionic calcium concentrations, resulting in muscle relaxation. Albuterol relaxes the smooth muscle of all airways, from the trachea to the terminal bronchioles. Albuterol acts as a functional antagonist to relax the airway irrespective of the spasmogen involved, thus protecting against all bronchoconstrictor challenges. Increased cyclic AMP concentrations are also associated with the inhibition of release of mediators from mast cells in the airway. While it is recognized that beta 2 -adrenergic receptors are the predominant receptors on bronchial smooth muscle, data indicate that there are beta-receptors in the human heart, 10% to 50% of which are cardiac beta 2 -adrenergic receptors. The precise function of these receptors has not been established [see Warnings and Precautions ( 5.4 )] . Albuterol has been shown in most controlled clinical trials to have more effect on the respiratory tract, in the form of bronchial smooth muscle relaxation, than isoproterenol at comparable doses while producing fewer cardiovascular effects. However, inhaled albuterol, like other beta-adrenergic agonist drugs, can produce a significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, symptoms, and/or electrocardiographic changes [ see Warnings and Precautions ( 5.4 )]. 12.2 Pharmacodynamics In a pharmacodynamic (PD) trial conducted in 47 patients, the PD and safety profiles were similar for PROAIR RESPICLICK and ProAir HFA. Comparable changes from baseline in the PD measures (serum glucose and potassium concentrations, QTcB, QTcF, heart rate, systolic blood pressure, and diastolic blood pressure) were observed following cumulative dose administration up to 1440 mcg of both PROAIR RESPICLICK and ProAir HFA. The overall safety, efficacy and PD profile of PROAIR RESPICLICK and ProAir HFA were comparable. Following 90 or 180 mcg single-dose inhalation, the bronchodilatory effect of PROAIR RESPICLICK was significantly greater than placebo and comparable to that of ProAir HFA in patients 12 years of age and older (N=71) and pediatric patients 4 to 11 years of age (N=61) with persistent asthma. Cardiac Electrophysiology As with other beta 2 -adrenergic agonists, PROAIR RESPICLICK prolonged QT intervals following a 1440 mcg cumulative dose. The prolongation was comparable to that of ProAir HFA. 12.3 Pharmacokinetics Absorption Albuterol was rapidly absorbed into the systemic circulation with peak plasma concentrations occurring at half an hour following single- or multiple-dose oral inhalation(s) of PROAIR RESPICLICK. In a cumulative dose study, the AUC 0-t was comparable between PROAIR RESPICLICK group and ProAir HFA group; C max value was approximately one-third higher in PROAIR RESPICLICK group than ProAir HFA group. Distribution The volume of distribution has not been determined for PROAIR RESPICLICK. Published literature suggests that albuterol exhibits low in vitro plasma protein binding (10%). Elimination The accumulation ratio (~1.6 fold) was observed following one week QID dosing. The corresponding effective half-life was approximately 5 hours, which was consistent with the elimination half-life following both single- or multiple-dose administration. Metabolism Information available in the published literature suggests that the primary enzyme responsible for the metabolism of albuterol in humans is SULTIA3 (sulfotransferase). When racemic albuterol was administered either intravenously or via inhalation after oral charcoal administration, there was a 3- to 4-fold difference in the area under the concentration-time curves between the (R)- and (S)-albuterol enantiomers, with (S)-albuterol concentrations being consistently higher. However, without charcoal pretreatment, after either oral or inhalation administration the differences were 8- to 24-fold, suggesting that the (R)-albuterol is preferentially metabolized in the gastrointestinal tract, presumably by SULTIA3. Excretion The primary route of elimination of albuterol is through renal excretion (80% to 100%) of either the parent compound or the primary metabolite. Less than 20% of the drug is detected in the feces. Following intravenous administration of racemic albuterol, between 25% and 46% of the (R)-albuterol fraction of the dose was excreted as unchanged (R)-albuterol in the urine. Specific Populations No pharmacokinetic studies for PROAIR RESPICLICK have been conducted in neonates or elderly subjects. The systemic exposure in children 6 to 11 years of age is similar to that of adults following 180 mcg single dose inhalation of PROAIR RESPICLICK. The influence of gender or race on the pharmacokinetics of PROAIR RESPICLICK has not been studied. Patients with Renal Impairment : The effect of renal impairment on the pharmacokinetics of albuterol was evaluated in 5 subjects with creatinine clearance of 7 to 53 mL/min, and the results were compared with those from healthy volunteers. Renal disease had no effect on the half-life, but there was a 67% decline in albuterol clearance. Caution should be used when administering high doses of PROAIR RESPICLICK to patients with renal impairment [see Use in Specific Populations ( 8.5 )] . Patients with Hepatic Impairment : The effect of hepatic impairment on the pharmacokinetics of PROAIR RESPICLICK has not been evaluated. Drug Interaction Studies : In vitro and in vivo drug interaction studies have not been conducted with PROAIR RESPICLICK. Known clinically significant drug interactions are outlined in Drug Interactions ( 7 )."
+   "CLINICAL PHARMACOLOGY The prime action of beta-adrenergic drugs is to stimulate adenyl cyclase, the enzyme which catalyzes the formation of cyclic-3',5'-adenosine monophosphate (cyclic AMP) from adenosine triphosphate (ATP). The cyclic AMP thus formed mediates the cellular responses. In vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta 2 -adrenergic receptors compared with isoproterenol. While it is recognized that beta 2 -adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that 10% to 50% of the beta-receptors in the human heart may be beta 2 -receptors. The precise function of these receptors, however, is not yet established. Albuterol has been shown in most controlled clinical trials to have more effect on the respiratory tract in the form of bronchial smooth muscle relaxation than isoproterenol at comparable doses while producing fewer cardiovascular effects. Controlled clinical studies and other clinical experience have shown that inhaled albuterol, like other beta-adrenergic agonist drugs, can produce a significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, symptoms, and/or electrocardiographic changes. Albuterol is longer acting than isoproterenol in most patients by any route of administration because it is not a substrate for the cellular uptake processes for catecholamines nor for catechol- O -methyl transferase. Studies in asthmatic patients have shown that less than 20% of a single albuterol dose was absorbed following either IPPB (intermittent positive-pressure breathing) or nebulizer administration; the remaining amount was recovered from the nebulizer and apparatus and expired air. Most of the absorbed dose was recovered in the urine 24 hours after drug administration. Following a 3 mg dose of nebulized albuterol, the maximum albuterol plasma level at 0.5 hours was 2.1 ng/mL (range, 1.4 to 3.2 ng/mL). There was a significant dose-related response in FEV 1 (forced expiratory volume in one second) and peak flow rate. It has been demonstrated that following oral administration of 4 mg of albuterol, the elimination half-life was five to six hours. Animal studies show that albuterol does not pass the blood-brain barrier. Recent studies in laboratory animals (minipigs, rodents, and dogs) recorded the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines were administered concurrently. The significance of these findings when applied to humans is currently unknown. In controlled clinical trials, most patients exhibited an onset of improvement in pulmonary function within 5 minutes as determined by FEV 1 . FEV 1 measurements also showed that the maximum average improvement in pulmonary function usually occurred at approximately 1 hour following inhalation of 2.5 mg of albuterol by compressor-nebulizer and remained close to peak for 2 hours. Clinically significant improvement in pulmonary function (defined as maintenance of a 15% or more increase in FEV 1 over baseline values) continued for 3 to 4 hours in most patients and in some patients continued up to 6 hours. In repetitive dose studies, continued effectiveness was demonstrated throughout the three-month period of treatment in some patients. Published reports of trials in asthmatic children aged 3 years or older have demonstrated significant improvement in either FEV 1 or PEFR within 2 to 20 minutes following a single dose of albuterol inhalation solution. An increase of 15% or more in baseline FEV 1 has been observed in children aged 5 to 11 years up to 6 hours after treatment with doses of 0.10 mg/kg or higher of albuterol inhalation solution. Single doses of 3, 4, or 10 mg resulted in improvement in baseline PEFR that was comparable in extent and duration to a 2 mg dose, but doses above 3 mg were associated with heart rate increases of more than 10%."
   ],
-  "mechanism_of_action": [
-   "12.1 Mechanism of Action Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3',5’‑adenosine monophosphate (cyclic AMP). This increase of cyclic AMP is associated with the activation of protein kinase A, which in turn inhibits the phosphorylation of myosin and lowers intracellular ionic calcium concentrations, resulting in muscle relaxation. Albuterol relaxes the smooth muscle of all airways, from the trachea to the terminal bronchioles. Albuterol acts as a functional antagonist to relax the airway irrespective of the spasmogen involved, thus protecting against all bronchoconstrictor challenges. Increased cyclic AMP concentrations are also associated with the inhibition of release of mediators from mast cells in the airway. While it is recognized that beta 2 -adrenergic receptors are the predominant receptors on bronchial smooth muscle, data indicate that there are beta-receptors in the human heart, 10% to 50% of which are cardiac beta 2 -adrenergic receptors. The precise function of these receptors has not been established [see Warnings and Precautions ( 5.4 )] . Albuterol has been shown in most controlled clinical trials to have more effect on the respiratory tract, in the form of bronchial smooth muscle relaxation, than isoproterenol at comparable doses while producing fewer cardiovascular effects. However, inhaled albuterol, like other beta-adrenergic agonist drugs, can produce a significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, symptoms, and/or electrocardiographic changes [ see Warnings and Precautions ( 5.4 )]."
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Albuterol inhalation solution is indicated for the relief of bronchospasm in patients 2 years of age and older with reversible obstructive airway disease and acute attacks of bronchospasm."
   ],
-  "pharmacodynamics": [
-   "12.2 Pharmacodynamics In a pharmacodynamic (PD) trial conducted in 47 patients, the PD and safety profiles were similar for PROAIR RESPICLICK and ProAir HFA. Comparable changes from baseline in the PD measures (serum glucose and potassium concentrations, QTcB, QTcF, heart rate, systolic blood pressure, and diastolic blood pressure) were observed following cumulative dose administration up to 1440 mcg of both PROAIR RESPICLICK and ProAir HFA. The overall safety, efficacy and PD profile of PROAIR RESPICLICK and ProAir HFA were comparable. Following 90 or 180 mcg single-dose inhalation, the bronchodilatory effect of PROAIR RESPICLICK was significantly greater than placebo and comparable to that of ProAir HFA in patients 12 years of age and older (N=71) and pediatric patients 4 to 11 years of age (N=61) with persistent asthma. Cardiac Electrophysiology As with other beta 2 -adrenergic agonists, PROAIR RESPICLICK prolonged QT intervals following a 1440 mcg cumulative dose. The prolongation was comparable to that of ProAir HFA."
+  "contraindications": [
+   "CONTRAINDICATIONS Albuterol inhalation solution is contraindicated in patients with a history of hypersensitivity to any of its components."
   ],
-  "pharmacokinetics": [
-   "12.3 Pharmacokinetics Absorption Albuterol was rapidly absorbed into the systemic circulation with peak plasma concentrations occurring at half an hour following single- or multiple-dose oral inhalation(s) of PROAIR RESPICLICK. In a cumulative dose study, the AUC 0-t was comparable between PROAIR RESPICLICK group and ProAir HFA group; C max value was approximately one-third higher in PROAIR RESPICLICK group than ProAir HFA group. Distribution The volume of distribution has not been determined for PROAIR RESPICLICK. Published literature suggests that albuterol exhibits low in vitro plasma protein binding (10%). Elimination The accumulation ratio (~1.6 fold) was observed following one week QID dosing. The corresponding effective half-life was approximately 5 hours, which was consistent with the elimination half-life following both single- or multiple-dose administration. Metabolism Information available in the published literature suggests that the primary enzyme responsible for the metabolism of albuterol in humans is SULTIA3 (sulfotransferase). When racemic albuterol was administered either intravenously or via inhalation after oral charcoal administration, there was a 3- to 4-fold difference in the area under the concentration-time curves between the (R)- and (S)-albuterol enantiomers, with (S)-albuterol concentrations being consistently higher. However, without charcoal pretreatment, after either oral or inhalation administration the differences were 8- to 24-fold, suggesting that the (R)-albuterol is preferentially metabolized in the gastrointestinal tract, presumably by SULTIA3. Excretion The primary route of elimination of albuterol is through renal excretion (80% to 100%) of either the parent compound or the primary metabolite. Less than 20% of the drug is detected in the feces. Following intravenous administration of racemic albuterol, between 25% and 46% of the (R)-albuterol fraction of the dose was excreted as unchanged (R)-albuterol in the urine. Specific Populations No pharmacokinetic studies for PROAIR RESPICLICK have been conducted in neonates or elderly subjects. The systemic exposure in children 6 to 11 years of age is similar to that of adults following 180 mcg single dose inhalation of PROAIR RESPICLICK. The influence of gender or race on the pharmacokinetics of PROAIR RESPICLICK has not been studied. Patients with Renal Impairment : The effect of renal impairment on the pharmacokinetics of albuterol was evaluated in 5 subjects with creatinine clearance of 7 to 53 mL/min, and the results were compared with those from healthy volunteers. Renal disease had no effect on the half-life, but there was a 67% decline in albuterol clearance. Caution should be used when administering high doses of PROAIR RESPICLICK to patients with renal impairment [see Use in Specific Populations ( 8.5 )] . Patients with Hepatic Impairment : The effect of hepatic impairment on the pharmacokinetics of PROAIR RESPICLICK has not been evaluated. Drug Interaction Studies : In vitro and in vivo drug interaction studies have not been conducted with PROAIR RESPICLICK. Known clinically significant drug interactions are outlined in Drug Interactions ( 7 )."
+  "warnings": [
+   "WARNINGS As with other inhaled beta-adrenergic agonists, albuterol inhalation solution can produce paradoxical bronchospasm, which can be life threatening. If it occurs, the preparation should be discontinued immediately and alternative therapy instituted. Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs and with the home use of nebulizers. It is, therefore, essential that the physician instruct the patient in the need for further evaluation, if his/her asthma becomes worse. In individual patients, any beta 2 -adrenergic agonist, including albuterol solution for inhalation, may have a clinically significant cardiac effect. Immediate hypersensitivity reactions may occur after administration of albuterol as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, and oropharyngeal edema."
   ],
-  "nonclinical_toxicology": [
-   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a dose-related increase in the incidence of benign leiomyomas of the mesovarium at and above dietary doses of 2 mg/kg (approximately 15 times and 6 times the maximum recommended daily inhalation dose (MRHDID) for adults and children, respectively, on a mg/m 2 basis). In another study this effect was blocked by the coadministration of propranolol, a non-selective beta-adrenergic antagonist. In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg (approximately 1,900 times and 740 times the MRHDID for adults and children, respectively, on a mg/m 2 basis). In a 22-month study in Golden Hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg (approximately 250 times and 100 times the MRHDID for adults and children, respectively, on a mg/m 2 basis). Albuterol sulfate was not mutagenic in the Ames test or a mutation test in yeast. Albuterol sulfate was not clastogenic in a human peripheral lymphocyte assay or in an AH1 strain mouse micronucleus assay. Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses up to 50 mg/kg (approximately 380 times the MRHDID for adults on a mg/m 2 basis). 13.2 Animal Toxicology and/or Pharmacology Preclinical : Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5% of the plasma concentrations. In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain. Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when β‑agonists and methylxanthines were administered concurrently. The clinical significance of these findings is unknown."
+  "precautions": [
+   "PRECAUTIONS General Albuterol, as with all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias and hypertension, in patients with convulsive disorders, hyperthyroidism or diabetes mellitus and in patients who are unusually responsive to sympathomimetic amines. Large doses of intravenous albuterol have been reported to aggravate pre-existing diabetes mellitus and ketoacidosis. As with other beta-agonists, inhaled and intravenous albuterol may produce a significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. The decrease is usually transient, not requiring supplementation. Repeated dosing with 0.15 mg/kg of albuterol inhalation solution in children aged 5 to 17 years who were initially normokalemic has been associated with an asymptomatic decline of 20% to 25% in serum potassium levels. Information for Patients The action of albuterol inhalation solution may last up to six hours, and therefore it should not be used more frequently than recommended. Do not increase the dose or frequency of medication without medical consultation. If symptoms get worse, medical consultation should be sought promptly. While taking albuterol inhalation solution, other anti-asthma medicines should not be used unless prescribed. Drug compatibility (physical and chemical), efficacy, and safety of albuterol inhalation solution when mixed with other drugs in a nebulizer have not been established. See illustrated Patient's Instructions for Use . Drug Interactions Other sympathomimetic aerosol bronchodilators or epinephrine should not be used concomitantly with albuterol. Albuterol should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of albuterol on the vascular system may be potentiated. Beta-receptor blocking agents and albuterol inhibit the effect of each other. Carcinogenesis, Mutagenesis, Impairment of Fertility Albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium in a 2-year study in the rat, at oral doses of 2, 10, and 50 mg/kg, corresponding to 10, 50, and 250 times, respectively, the maximum nebulization dose for a 50 kg human. In another study, this effect was blocked by the coadministration of propranolol. The relevance of these findings to humans is not known. An 18-month study in mice and a lifetime study in hamsters revealed no evidence of tumorigenicity. Studies with albuterol revealed no evidence of mutagenesis. Reproduction studies in rats revealed no evidence of impaired fertility. Pregnancy Teratogenic Effects Pregnancy Category C Albuterol has been shown to be teratogenic in mice when given subcutaneously in doses corresponding to 1.25 times the human nebulization dose (based on a 50 kg human). There are no adequate and well-controlled studies in pregnant women. Albuterol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. A reproduction study in CD-1 mice with albuterol (0.025, 0.25, and 2.5 mg/kg subcutaneously, corresponding to 0.125, 1.25, and 12.5 times the maximum human nebulization dose, respectively) showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg. None were observed at 0.025 mg/kg. Cleft palate also occurred in 22 of 72 (30.5%) fetuses treated with 2.5 mg/kg isoproterenol (positive control). A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses at 50 mg/kg, corresponding to 250 times the maximum nebulization dose for a 50-kg human. During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been rarely reported in the offspring of patients being treated with albuterol. Some of the mothers were taking multiple medications during their pregnancies. No consistent pattern of defects can be discerned, and a relationship between albuterol use and congenital anomalies has not been established. Labor and Delivery Oral albuterol has been shown to delay preterm labor in some reports. There are presently no well-controlled studies that demonstrate that it will stop preterm labor or prevent labor at term. Therefore, cautious use of albuterol inhalation solution is required in pregnant patients when given for relief of bronchospasm so as to avoid interference with uterine contractibility. Nursing Mothers It is not known whether this drug is excreted in human milk. Because of the potential for tumorigenicity shown for albuterol in some animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. Pediatric Use The safety and effectiveness of albuterol inhalation solution have been established in children 2 years of age or older. Use of albuterol inhalation solution in these age groups is supported by evidence from adequate and well-controlled studies of albuterol inhalation solution in adults; the likelihood that the disease course, pathophysiology, and the drug's effect in pediatric and adult patients are substantially similar; and published reports of trials in pediatric patients 3 years of age or older. The recommended dose for the pediatric population is based upon three published dose comparison studies of efficacy and safety in children 5 to 17 years, and on the safety profile in both adults and pediatric patients at doses equal to or higher than the recommended doses. The safety and effectiveness of albuterol inhalation solution in children below 2 years of age have not been established."
   ],
-  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
-   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a dose-related increase in the incidence of benign leiomyomas of the mesovarium at and above dietary doses of 2 mg/kg (approximately 15 times and 6 times the maximum recommended daily inhalation dose (MRHDID) for adults and children, respectively, on a mg/m 2 basis). In another study this effect was blocked by the coadministration of propranolol, a non-selective beta-adrenergic antagonist. In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg (approximately 1,900 times and 740 times the MRHDID for adults and children, respectively, on a mg/m 2 basis). In a 22-month study in Golden Hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg (approximately 250 times and 100 times the MRHDID for adults and children, respectively, on a mg/m 2 basis). Albuterol sulfate was not mutagenic in the Ames test or a mutation test in yeast. Albuterol sulfate was not clastogenic in a human peripheral lymphocyte assay or in an AH1 strain mouse micronucleus assay. Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses up to 50 mg/kg (approximately 380 times the MRHDID for adults on a mg/m 2 basis)."
-  ],
-  "animal_pharmacology_and_or_toxicology": [
-   "13.2 Animal Toxicology and/or Pharmacology Preclinical : Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5% of the plasma concentrations. In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain. Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when β‑agonists and methylxanthines were administered concurrently. The clinical significance of these findings is unknown."
-  ],
-  "clinical_studies": [
-   "14 CLINICAL STUDIES 14.1 Bronchospasm Associated with Asthma Adult and Adolescent Patients 12 Years of Age and Older In two 12-week, randomized, double-blind, placebo-controlled studies of identical design (Study 1 and Study 2), PROAIR RESPICLICK (153 patients) was compared to a matched placebo dry powder inhaler (163 patients) in asthmatic patients 12 to 76 years of age at a dose of 180 mcg albuterol four times daily. Patients were maintained on inhaled corticosteroid treatment. Serial FEV 1 measurements, shown below in Figure 1 as average of the mean changes from test-day baseline at Day 1 and Day 85, demonstrated that two inhalations of PROAIR RESPICLICK produced significantly greater improvement in FEV 1 AUC 0‑6hr over the pre-treatment value than placebo in Study 1. Consistent results were observed in Study 2. Figure 1: FEV 1 as Mean Change from Test-Day, Pre-Dose Baseline in a 12-Week Clinical Trial (Study 1) In Study 1, 44 of 78 patients treated with PROAIR RESPICLICK achieved a 15% increase in FEV 1 within 30 minutes post‑dose on Day 1. The median time to onset was 5.7 minutes, and median duration of effect as measured by a 15% increase was approximately 2 hours. Consistent results were observed in Study 2. In a double‑blind, randomized, placebo–controlled, single‑dose crossover study evaluating PROAIR RESPICLICK and ProAir HFA in 71 adult and adolescent subjects ages 12 and older with persistent asthma, PROAIR RESPICLICK had bronchodilator efficacy that was significantly greater than placebo at administered doses of 90 and 180 mcg. Pediatric Patients 4 to 11 Years of Age In a 3‑week, randomized, double‑blind, placebo-controlled trial, PROAIR RESPICLICK (92 patients) was compared to a matched placebo (92 patients) in asthmatic children 4 to 11 years of age at a dose of 180 mcg albuterol four times daily. Serial FEV 1 measurements, expressed as the baseline-adjusted percent-predicted FEV 1 AUC 0‑6h over the 3‑week treatment period, demonstrated that 2 inhalations of PROAIR RESPICLICK produced significantly greater improvement in FEV 1 over the pre-treatment value than the matched placebo. In this study, 48 of 92 patients treated with PROAIR RESPICLICK achieved a 15% increase in FEV 1 within 30 minutes post-dose on Day 1. The median time to onset was 5.9 minutes, and the median duration of effect as measured by a 15% increase was approximately 1 hour. In a placebo-controlled, single-dose, crossover study in 61 patients 4 to 11 years of age, PROAIR RESPICLICK, administered at albuterol doses of 90 and 180 mcg, was compared with a matched placebo and with albuterol HFA MDI. PROAIR RESPICLICK provided similar bronchodilation when administered as one or two inhalations (baseline-adjusted percent-predicted serial FEV 1 observed over 6 hours post-dose), whereas two inhalations from albuterol HFA MDI provided significantly greater bronchodilation compared to a single inhalation. Figure 1 14.2 Exercise-Induced Bronchospasm In a randomized, single-dose, crossover study in 38 adult and adolescent patients with exercise-induced bronchospasm (EIB), two inhalations of PROAIR RESPICLICK taken 30 minutes before exercise prevented EIB for the hour following exercise (defined as the maintenance of FEV 1 within 80% of post-dose, pre-exercise baseline values) in 97% (37 of 38) of patients as compared to 42% (16 of 38) of patients when they received placebo. Patients who participated in these clinical trials were allowed to use concomitant steroid therapy."
-  ],
-  "how_supplied": [
-   "16 HOW SUPPLIED/STORAGE AND HANDLING PROAIR RESPICLICK inhalation powder is supplied as a white inhaler with a red cap, in a sealed foil pouch, one pouch per carton. Actuations Net Contents NDC 200 0.65 g 59310-580-20 Store at room temperature (between 15°C and 25°C; 59°F and 77°F). Avoid exposure to extreme heat, cold, or humidity. Keep out of reach of children. PROAIR RESPICLICK inhaler has a dose counter. Patients should never try to alter the numbers for the dose counter. Discard the inhaler 13 months after opening the foil pouch, when the counter displays 0, or after the expiration date on the product, whichever comes first. The labeled amount of medication in each actuation cannot be assured after the counter displays 0, even though the inhaler is not completely empty and will continue to operate [see Dosage and Administration (2.4), Patient Counseling Information (17)]."
-  ],
-  "how_supplied_table": [
-   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"1\"> <col width=\"1pt\"/> <col width=\"2.55in\"/> <col width=\"2.55in\"/> <tbody> <tr> <td> <paragraph> <content styleCode=\"bold\">Actuations</content> </paragraph> </td> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">Net Contents</content> </paragraph> </td> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">NDC</content> </paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph>200</paragraph> </td> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph>0.65 g</paragraph> </td> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph>59310-580-20</paragraph> </td> </tr> </tbody> </table>"
+  "general_precautions": [
+   "General Albuterol, as with all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias and hypertension, in patients with convulsive disorders, hyperthyroidism or diabetes mellitus and in patients who are unusually responsive to sympathomimetic amines. Large doses of intravenous albuterol have been reported to aggravate pre-existing diabetes mellitus and ketoacidosis. As with other beta-agonists, inhaled and intravenous albuterol may produce a significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. The decrease is usually transient, not requiring supplementation. Repeated dosing with 0.15 mg/kg of albuterol inhalation solution in children aged 5 to 17 years who were initially normokalemic has been associated with an asymptomatic decline of 20% to 25% in serum potassium levels."
   ],
   "information_for_patients": [
-   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use). Patients should be given the following information: Frequency of Use The action of PROAIR RESPICLICK should last for 4 to 6 hours. Instruct patients to not use PROAIR RESPICLICK more frequently than recommended. Instruct patients to not increase the dose or frequency of doses of PROAIR RESPICLICK without consulting the physician. If patients find that treatment with PROAIR RESPICLICK becomes less effective for symptomatic relief, symptoms become worse, and/or they need to use the product more frequently than usual, they should seek medical attention immediately [see Warnings and Precautions (5.2)]. Caring for and Storing the Inhaler Instruct patients to not open their inhaler unless they are taking a dose. Repeated opening and closing the cover without taking medication will waste medication and may damage the inhaler. Advise patients to keep their inhaler dry and clean at all times. Never wash or put any part of the inhaler in water. Patient should replace inhaler if washed or placed in water. Routine maintenance is not required. If the mouthpiece needs cleaning, instruct patients to gently wipe the mouthpiece with a dry cloth or tissue as needed. Instruct patients to store the inhaler at room temperature and to avoid exposure to extreme heat, cold, or humidity. Instruct patients to never take the inhaler apart. Inform patients that PROAIR RESPICLICK has a dose counter. When the patient receives the inhaler, the number 200 will be displayed. The dose counter will count down each time the mouthpiece cap is opened and closed. The dose counter window displays the number of actuations left in the inhaler in units of two (eg, 200, 198, 196, etc). When the counter displays 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill. When the dose counter reaches 0, the background will change to solid red. Inform patients to discard PROAIR RESPICLICK when the dose counter displays 0 or after the expiration date on the product, whichever comes first [see Dosage and Administration (2.3), (2.4)]. Paradoxical Bronchospasm Inform patients that PROAIR RESPICLICK can produce paradoxical bronchospasm. Instruct patients to discontinue PROAIR RESPICLICK if paradoxical bronchospasm occurs [see Warnings and Precautions (5.1)]. Concomitant Drug Use Inform patients that, while they are taking PROAIR RESPICLICK, they should take other inhaled drugs and asthma medications only as directed by a physician [see Drug Interactions (7)]. Common Adverse Events Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness. Pregnancy Inform patients who are pregnant or nursing that they should contact their physician about the use of PROAIR RESPICLICK [see Use in Specific Populations (8.1)]. General Information on Use Effective and safe use of PROAIR RESPICLICK includes an understanding of the way that it should be administered. Do not use a spacer or volume holding chamber with PROAIR RESPICLICK. Patients should be instructed on the proper use of the inhaler. See the FDA-approved Patient Information and Patient Instructions for Use. Discard PROAIR RESPICLICK 13 months after opening the foil pouch, when the dose counter displays 0 or after the expiration date on the product, whichever comes first. In general, the technique for administering PROAIR RESPICLICK to children is similar to that for adults. Children should use PROAIR RESPICLICK under adult supervision, as instructed by the patient’s physician. Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054 ©2020, Teva Respiratory, LLC. All rights reserved. United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8978966, 9216260, 9463288, 9731087 PROR-006 Rev. 09/2020 Teva logo"
+   "Information for Patients The action of albuterol inhalation solution may last up to six hours, and therefore it should not be used more frequently than recommended. Do not increase the dose or frequency of medication without medical consultation. If symptoms get worse, medical consultation should be sought promptly. While taking albuterol inhalation solution, other anti-asthma medicines should not be used unless prescribed. Drug compatibility (physical and chemical), efficacy, and safety of albuterol inhalation solution when mixed with other drugs in a nebulizer have not been established. See illustrated Patient's Instructions for Use ."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Other sympathomimetic aerosol bronchodilators or epinephrine should not be used concomitantly with albuterol. Albuterol should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of albuterol on the vascular system may be potentiated. Beta-receptor blocking agents and albuterol inhibit the effect of each other."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium in a 2-year study in the rat, at oral doses of 2, 10, and 50 mg/kg, corresponding to 10, 50, and 250 times, respectively, the maximum nebulization dose for a 50 kg human. In another study, this effect was blocked by the coadministration of propranolol. The relevance of these findings to humans is not known. An 18-month study in mice and a lifetime study in hamsters revealed no evidence of tumorigenicity. Studies with albuterol revealed no evidence of mutagenesis. Reproduction studies in rats revealed no evidence of impaired fertility."
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects Pregnancy Category C Albuterol has been shown to be teratogenic in mice when given subcutaneously in doses corresponding to 1.25 times the human nebulization dose (based on a 50 kg human). There are no adequate and well-controlled studies in pregnant women. Albuterol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. A reproduction study in CD-1 mice with albuterol (0.025, 0.25, and 2.5 mg/kg subcutaneously, corresponding to 0.125, 1.25, and 12.5 times the maximum human nebulization dose, respectively) showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg. None were observed at 0.025 mg/kg. Cleft palate also occurred in 22 of 72 (30.5%) fetuses treated with 2.5 mg/kg isoproterenol (positive control). A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses at 50 mg/kg, corresponding to 250 times the maximum nebulization dose for a 50-kg human. During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been rarely reported in the offspring of patients being treated with albuterol. Some of the mothers were taking multiple medications during their pregnancies. No consistent pattern of defects can be discerned, and a relationship between albuterol use and congenital anomalies has not been established."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects Pregnancy Category C Albuterol has been shown to be teratogenic in mice when given subcutaneously in doses corresponding to 1.25 times the human nebulization dose (based on a 50 kg human). There are no adequate and well-controlled studies in pregnant women. Albuterol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. A reproduction study in CD-1 mice with albuterol (0.025, 0.25, and 2.5 mg/kg subcutaneously, corresponding to 0.125, 1.25, and 12.5 times the maximum human nebulization dose, respectively) showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg. None were observed at 0.025 mg/kg. Cleft palate also occurred in 22 of 72 (30.5%) fetuses treated with 2.5 mg/kg isoproterenol (positive control). A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses at 50 mg/kg, corresponding to 250 times the maximum nebulization dose for a 50-kg human. During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been rarely reported in the offspring of patients being treated with albuterol. Some of the mothers were taking multiple medications during their pregnancies. No consistent pattern of defects can be discerned, and a relationship between albuterol use and congenital anomalies has not been established."
+  ],
+  "labor_and_delivery": [
+   "Labor and Delivery Oral albuterol has been shown to delay preterm labor in some reports. There are presently no well-controlled studies that demonstrate that it will stop preterm labor or prevent labor at term. Therefore, cautious use of albuterol inhalation solution is required in pregnant patients when given for relief of bronchospasm so as to avoid interference with uterine contractibility."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether this drug is excreted in human milk. Because of the potential for tumorigenicity shown for albuterol in some animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother."
+  ],
+  "pediatric_use": [
+   "Pediatric Use The safety and effectiveness of albuterol inhalation solution have been established in children 2 years of age or older. Use of albuterol inhalation solution in these age groups is supported by evidence from adequate and well-controlled studies of albuterol inhalation solution in adults; the likelihood that the disease course, pathophysiology, and the drug's effect in pediatric and adult patients are substantially similar; and published reports of trials in pediatric patients 3 years of age or older. The recommended dose for the pediatric population is based upon three published dose comparison studies of efficacy and safety in children 5 to 17 years, and on the safety profile in both adults and pediatric patients at doses equal to or higher than the recommended doses. The safety and effectiveness of albuterol inhalation solution in children below 2 years of age have not been established."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS The results of clinical trials with albuterol inhalation solution in 135 patients showed the following side effects which were considered probably or possibly drug related: Central Nervous System: tremors (20%), dizziness (7%), nervousness (4%), headache (3%), insomnia (1%). Gastrointestinal: nausea (4%), dyspepsia (1%). Ear, Nose and Throat: pharyngitis (<1%), nasal congestion (1%). Cardiovascular: tachycardia (1%), hypertension (1%). Respiratory: bronchospasm (8%), cough (4%), bronchitis (4%), wheezing (1%). No clinically relevant laboratory abnormalities related to albuterol inhalation solution administration were determined in these studies. In comparing the adverse reactions reported for patients treated with albuterol inhalation solution with those of patients treated with isoproterenol during clinical trials of three months, the following moderate to severe reactions, as judged by the investigators, were reported. This table does not include mild reactions. Percent Incidence of Moderate to Severe Adverse Reactions Reaction Albuterol N=65 Isoproterenol N=65 Central Nervous System Tremors 10.7% 13.8% Headache 3.1% 1.5% Insomnia 3.1% 1.5% Cardiovascular Hypertension 3.1% 3.1% Arrhythmias 0% 3% *Palpitation 0% 22% Respiratory +Bronchospasm 15.4% 18% Cough 3.1% 5% Bronchitis 1.5% 5% Wheeze 1.5% 1.5% Sputum Increase 1.5% 1.5% Dyspnea 1.5% 1.5% Gastrointestinal Nausea 3.1% 0% Dyspepsia 1.5% 0% Systemic Malaise 1.5% 0% *The finding of no arrhythmias and no palpitations after albuterol administration in the clinical study should not be interpreted as indicating that these adverse effects cannot occur after the administration of inhaled albuterol. +In most cases of bronchospasm, this term was generally used to describe exacerbations in the underlying pulmonary disease. Cases of urticaria, angioedema, rash, bronchospasm, hoarseness, oropharyngeal edema, arrhythmias (including atrial fibrillations, supraventricular tachycardia, extrasystoles) have been reported after the use of albuterol inhalation solution."
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"568\"><caption>Percent Incidence of Moderate to Severe Adverse Reactions</caption><thead><tr styleCode=\"First Last\"><td styleCode=\"BotruleLruleRruleToprule\" valign=\"top\"><content styleCode=\"bold\">Reaction</content></td><td align=\"center\" styleCode=\"BotruleLruleRruleToprule\" valign=\"top\"><content styleCode=\"bold\">Albuterol</content><content styleCode=\"bold\">N=65</content></td><td align=\"center\" styleCode=\"BotruleLruleRruleToprule\" valign=\"top\"><content styleCode=\"bold\">Isoproterenol</content><content styleCode=\"bold\">N=65</content></td></tr></thead><tbody><tr><td colspan=\"3\" styleCode=\"LruleRruleToprule\" valign=\"top\"><content styleCode=\"bold\">Central Nervous System</content></td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Tremors</td><td align=\"right\" valign=\"top\">10.7%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">13.8%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Headache</td><td align=\"right\" valign=\"top\">3.1%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">1.5%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Insomnia</td><td align=\"right\" valign=\"top\">3.1%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">1.5%</td></tr><tr><td colspan=\"3\" styleCode=\"LruleRrule\" valign=\"top\"><content styleCode=\"bold\">Cardiovascular</content></td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Hypertension</td><td align=\"right\" valign=\"top\">3.1%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">3.1%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Arrhythmias</td><td align=\"right\" valign=\"top\">0%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">3%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">*Palpitation</td><td align=\"right\" valign=\"top\">0%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">22%</td></tr><tr><td colspan=\"3\" styleCode=\"LruleRrule\" valign=\"top\"><content styleCode=\"bold\">Respiratory</content></td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">+Bronchospasm</td><td align=\"right\" valign=\"top\">15.4%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">18%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Cough</td><td align=\"right\" valign=\"top\">3.1%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">5%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Bronchitis</td><td align=\"right\" valign=\"top\">1.5%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">5%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Wheeze</td><td align=\"right\" valign=\"top\">1.5%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">1.5%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Sputum Increase</td><td align=\"right\" valign=\"top\">1.5%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">1.5%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Dyspnea</td><td align=\"right\" valign=\"top\">1.5%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">1.5%</td></tr><tr><td colspan=\"3\" styleCode=\"LruleRrule\" valign=\"top\"><content styleCode=\"bold\">Gastrointestinal</content></td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Nausea</td><td align=\"right\" valign=\"top\">3.1%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">0%</td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">Dyspepsia</td><td align=\"right\" valign=\"top\">1.5%</td><td align=\"right\" styleCode=\"Rrule\" valign=\"top\">0%</td></tr><tr><td colspan=\"3\" styleCode=\"LruleRrule\" valign=\"top\"><content styleCode=\"bold\">Systemic</content></td></tr><tr><td styleCode=\"BotruleLrule\" valign=\"top\">Malaise</td><td align=\"right\" styleCode=\"Botrule\" valign=\"top\">1.5%</td><td align=\"right\" styleCode=\"BotruleRrule\" valign=\"top\">0%</td></tr></tbody></table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE Manifestations of overdosage may include seizures, anginal pain, hypertension, hypokalemia, tachycardia with rates up to 200 beats/min, and exaggeration of the pharmacological effects listed in ADVERSE REACTIONS . In isolated cases in children 2 to 12 years of age, tachycardia with rates > 200 beats/min has been observed. The oral LD 50 in rats and mice was greater than 2,000 mg/kg. The inhalation LD 50 could not be determined. There is insufficient evidence to determine if dialysis is beneficial for overdosage of albuterol inhalation solution."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Adults and Children 2 to 12 Years of Age: The usual dosage for adults and for children weighing at least 15 kg is 2.5 mg of albuterol (one vial) administered three to four times daily by nebulization. Children weighing < 15 kg who require < 2.5 mg/dose (i.e., less than a full vial) should use albuterol inhalation solution, 0.5% instead of albuterol inhalation solution, 0.083%. More frequent administration or higher doses are not recommended. To administer 2.5 mg of albuterol, administer the entire contents of one sterile unit-dose vial (3 mL of 0.083% inhalation solution) by nebulization. The flow rate is regulated to suit the particular nebulizer so that albuterol inhalation solution will be delivered over approximately 5 to 15 minutes. The use of albuterol inhalation solution can be continued as medically indicated to control recurring bouts of bronchospasm. During this time most patients gain optimum benefit from regular use of the inhalation solution. If a previously effective dosage regimen fails to provide the usual relief, medical advice should be sought immediately, as this is often a sign of seriously worsening asthma that would require reassessment of therapy."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Albuterol Inhalation Solution, USP 0.083% is contained in plastic, sterile, unit dose vials of 3 mL each, supplied in foil pouches: NDC 64980-641-02: carton of 25 vials NDC 64980-641-03: carton of 30 vials NDC 64980-641-06: carton of 60 vials Storage and Handling PROTECT FROM LIGHT. Store vials in pouch until time of use. Store between 2° and 25° C (68°F and 77°F). excrusions permitted to 15°C to 30°C (59°F and 86°F) [see USP Controlled Room Temperature]. Rx Only Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 For Customer Service, Call: 1-844-874-7464 Issued: 02/2025"
+  ],
+  "storage_and_handling": [
+   "Storage and Handling PROTECT FROM LIGHT. Store vials in pouch until time of use. Store between 2° and 25° C (68°F and 77°F). excrusions permitted to 15°C to 30°C (59°F and 86°F) [see USP Controlled Room Temperature]. Rx Only Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 For Customer Service, Call: 1-844-874-7464 Issued: 02/2025"
   ],
   "spl_patient_package_insert": [
-   "PATIENT INFORMATION PROAIR ® RESPICLICK ® ( prō´ār res-pē-klik) (albuterol sulfate) inhalation powder What is PROAIR RESPICLICK? PROAIR RESPICLICK is a prescription medicine used in people 4 years of age and older to: treat or prevent bronchospasm in people who have reversible obstructive airway disease prevent exercise-induced bronchospasm It is not known if PROAIR RESPICLICK is safe and effective in children under 4 years of age. Do not use PROAIR RESPICLICK if you are allergic to albuterol sulfate, lactose, milk proteins, or any of the ingredients in PROAIR RESPICLICK. See the end of this leaflet for a complete list of ingredients in PROAIR RESPICLICK. Before using PROAIR RESPICLICK, tell your doctor about all of your medical conditions, including if you: have heart problems have high blood pressure (hypertension) have convulsions (seizures) have thyroid problems have diabetes have low potassium levels in your blood are pregnant or plan to become pregnant. It is not known if PROAIR RESPICLICK will harm your unborn baby. Talk to your doctor if you are pregnant or plan to become pregnant. are breastfeeding or plan to breastfeed. It is not known if PROAIR RESPICLICK passes into your breast milk. Talk to your doctor about the best way to feed your baby if you are using PROAIR RESPICLICK. Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. PROAIR RESPICLICK and other medicines may affect each other and cause side effects. PROAIR RESPICLICK may affect the way other medicines work, and other medicines may affect the way PROAIR RESPICLICK works. Especially tell your doctor if you take: ● other inhaled medicines or asthma medicines ● digoxin ● beta blocker medicines ● monoamine oxidase inhibitors ● diuretics ● tricyclic antidepressants Ask your doctor or pharmacist for a list of these medicines if you are not sure. Know the medicines you take. Keep a list of them to show your doctor and pharmacist when you get a new medicine. How should I use PROAIR RESPICLICK? For detailed instructions on how to use the inhaler, see “Instructions for Use” at the end of this Patient Information. Use PROAIR RESPICLICK exactly as your doctor tells you to use it. If your child needs to use PROAIR RESPICLICK, watch your child closely to make sure your child uses the inhaler correctly. Your doctor will show you how your child should use PROAIR RESPICLICK. Each dose of PROAIR RESPICLICK should last up to 4 hours to 6 hours. Do not increase your dose or take extra doses of PROAIR RESPICLICK without first talking to your doctor. Do not use a spacer or volume holding chamber with PROAIR RESPICLICK. PROAIR RESPICLICK does not need priming. Get medical help right away if PROAIR RESPICLICK no longer helps your symptoms. Get medical help right away if your symptoms get worse or if you need to use your inhaler more often. While you are using PROAIR RESPICLICK, do not use other inhaled rescue medicines and asthma medicines unless your doctor tells you to do so. Call your doctor if your asthma symptoms like wheezing and trouble breathing become worse over a few hours or days. Your doctor may need to give you another medicine (for example, corticosteroids) to treat your symptoms. What are the possible side effects of PROAIR RESPICLICK? PROAIR RESPICLICK may cause serious side effects, including: worsening trouble breathing, coughing and wheezing (paradoxical bronchospasm). If this happens stop using PROAIR RESPICLICK and call your doctor or get emergency help right away. heart problems, including faster heart rate and higher blood pressure possible death in people with asthma who use too much PROAIR RESPICLICK allergic reactions. Call your doctor right away if you have the following symptoms of an allergic reaction: ○ itchy skin ○ rash ○ swelling beneath your skin or in your throat ○ worsening trouble breathing worsening of other medical problems in people who also use PROAIR RESPICLICK including increases in blood sugar low potassium levels in your blood The most common side effects of PROAIR RESPICLICK include: ● back pain ● fast heart rate ● pain ● shakiness ● upset stomach ● nervousness ● sinus headache ● headache ● urinary tract infection ● dizziness ● your heart feels like it is pounding or racing (palpitations) ● sore throat ● chest pain ● runny nose ● vomiting These are not all of the possible side effects of PROAIR RESPICLICK. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store PROAIR RESPICLICK? Store PROAIR RESPICLICK at room temperature between 59ºF and 77ºF (15ºC and 25ºC). Avoid exposure to extreme heat, cold, or humidity. Keep the cap on the inhaler closed during storage. Keep your PROAIR RESPICLICK inhaler dry and clean at all times. Do not wash or put any part of your PROAIR RESPICLICK inhaler in water. Replace your inhaler if washed or placed in water. Keep PROAIR RESPICLICK and all medicines out of the reach of children. General information about the safe and effective use of PROAIR RESPICLICK. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use PROAIR RESPICLICK for a condition for which it was not prescribed. Do not give PROAIR RESPICLICK to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or doctor for information about PROAIR RESPICLICK that was written for health professionals. For more information, go to www.MyProAir.com or call 1-888-482-9522. What are the ingredients in PROAIR RESPICLICK? Active ingredient: albuterol sulfate Inactive ingredients: lactose (may contain milk proteins) Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054 ©2020 Teva Respiratory, LLC. All rights reserved. PRORPL-005 This Patient Information has been approved by the U.S. Food and Drug Administration. Revised: 09/2020 Teva logo"
+   "Patient Package Insert Albuterol Inhalation Solution, USP 0.083%* 2.5 mg*/3 mL *Potency expressed as albuterol. Note: This is a unit-dose vial. No dilution is required. Read complete instructions carefully before using. INSTRUCTIONS FOR USE Remove vial from the foil pouch. Twist the cap completely off the vial and squeeze the contents into the nebulizer reservoir (Figure 1). Figure 1 Connect the nebulizer reservoir to the mouthpiece or face mask (Figure 2). Figure 2 Connect the nebulizer to the compressor. Sit in a comfortable, upright position; place the mouthpiece in your mouth (Figure 3)(or put on the face mask); and turn on the compressor. Figure 3 Breathe as calmly, deeply and evenly as possible until no more mist is formed in the nebulizer chamber (about 5 to 15 minutes). At this point, the treatment is finished. Clean the nebulizer (see manufacturer’s instructions). Note: Use only as directed by your physician. More frequent administration or higher doses are not recommended. Store albuterol inhalation Solution, USP 0.083%* between 20° to 25° C (68°F to 77° F). [see USP Controlled Room Temperature]. *Potency expressed as albuterol. b4952a08-figure-02 b4952a08-figure-03 b4952a08-figure-04"
   ],
-  "spl_patient_package_insert_table": [
-   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"1\"> <col width=\"1pt\"/> <tbody> <tr> <td> <paragraph> <content styleCode=\"bold\">PROAIR<sup>&#xAE;</sup> RESPICLICK<sup>&#xAE; </sup> </content> <content styleCode=\"bold\">(</content> <content styleCode=\"bold\">pr&#x14D;&#xB4;&#x101;r res-p&#x113;-klik)</content> </paragraph> <paragraph> <content styleCode=\"bold\">(albuterol sulfate)</content> </paragraph> <paragraph> <content styleCode=\"bold\">inhalation powder</content> </paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">What is </content> <content styleCode=\"bold\">PROAIR RESPICLICK?</content> </paragraph> <paragraph>PROAIR RESPICLICK is a prescription medicine used in people 4 years of age and older to:</paragraph> <list listType=\"unordered\" styleCode=\"Disc\"> <item>treat or prevent bronchospasm in people who have reversible obstructive airway disease</item> <item>prevent exercise-induced bronchospasm</item> </list> <paragraph>It is not known if PROAIR RESPICLICK is safe and effective in children under 4 years of age.</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">Do not use </content> <content styleCode=\"bold\">PROAIR RESPICLICK if you</content> are allergic to albuterol sulfate, lactose, milk proteins, or any of the ingredients in PROAIR RESPICLICK. See the end of this leaflet for a complete list of ingredients in PROAIR RESPICLICK.</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">Before using </content> <content styleCode=\"bold\">PROAIR RESPICLICK, tell your doctor about all of your medical conditions, including if you:</content> </paragraph> <list listType=\"unordered\" styleCode=\"Disc\"> <item>have heart problems</item> <item>have high blood pressure (hypertension)</item> <item>have convulsions (seizures)</item> <item>have thyroid problems</item> <item>have diabetes</item> <item>have low potassium levels in your blood</item> <item>are pregnant or plan to become pregnant. It is not known if PROAIR RESPICLICK will harm your unborn baby. Talk to your doctor if you are pregnant or plan to become pregnant.</item> <item>are breastfeeding or plan to breastfeed. It is not known if PROAIR RESPICLICK passes into your breast milk. Talk to your doctor about the best way to feed your baby if you are using PROAIR RESPICLICK.</item> </list> <paragraph> <content styleCode=\"bold\">Tell your doctor about all the medicines you take,</content> including prescription and over-the-counter medicines, vitamins, and herbal supplements.</paragraph> <paragraph>PROAIR RESPICLICK and other medicines may affect each other and cause side effects. PROAIR RESPICLICK may affect the way other medicines work, and other medicines may affect the way PROAIR RESPICLICK works.</paragraph> <paragraph>Especially tell your doctor if you take:</paragraph> <paragraph>&#x25CF; other inhaled medicines or asthma medicines &#x25CF; digoxin</paragraph> <paragraph>&#x25CF; beta blocker medicines &#x25CF; monoamine oxidase inhibitors</paragraph> <paragraph>&#x25CF; diuretics &#x25CF; tricyclic antidepressants</paragraph> <paragraph>Ask your doctor or pharmacist for a list of these medicines if you are not sure.</paragraph> <paragraph>Know the medicines you take. Keep a list of them to show your doctor and pharmacist when you get a new medicine.</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">How should I use </content> <content styleCode=\"bold\">PROAIR RESPICLICK?</content> </paragraph> <list listType=\"unordered\" styleCode=\"Disc\"> <item>For detailed instructions on how to use the inhaler, see<content styleCode=\"bold\"> &#x201C;Instructions for Use&#x201D;</content> at the end of this Patient Information.</item> <item>Use PROAIR RESPICLICK exactly as your doctor tells you to use it.</item> <item>If your child needs to use PROAIR RESPICLICK, watch your child closely to make sure your child uses the inhaler correctly. Your doctor will show you how your child should use PROAIR RESPICLICK.</item> <item>Each dose of PROAIR RESPICLICK should last up to 4 hours to 6 hours.</item> <item> <content styleCode=\"bold\">Do not</content> increase your dose or take extra doses of PROAIR RESPICLICK without first talking to your doctor.</item> <item>Do not use a spacer or volume holding chamber with PROAIR RESPICLICK. </item> <item>PROAIR RESPICLICK does not need priming.</item> <item>Get medical help right away if PROAIR RESPICLICK no longer helps your symptoms.</item> <item>Get medical help right away if your symptoms get worse or if you need to use your inhaler more often.</item> <item>While you are using PROAIR RESPICLICK, <content styleCode=\"bold\">do not</content> use other inhaled rescue medicines and asthma medicines unless your doctor tells you to do so.</item> <item>Call your doctor if your asthma symptoms like wheezing and trouble breathing become worse over a few hours or days. Your doctor may need to give you another medicine (for example, corticosteroids) to treat your symptoms.</item> </list> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">What are the possible side effects of </content> <content styleCode=\"bold\">PROAIR RESPICLICK?</content> </paragraph> <paragraph> <content styleCode=\"bold\">PROAIR RESPICLICK may cause serious side effects, including:</content> </paragraph> <list listType=\"unordered\" styleCode=\"Disc\"> <item> <content styleCode=\"bold\">worsening trouble breathing, coughing and wheezing (paradoxical bronchospasm). </content>If this happens stop using PROAIR RESPICLICK and call your doctor or get emergency help right away. </item> <item> <content styleCode=\"bold\">heart problems, including faster heart rate and higher blood pressure</content> </item> <item> <content styleCode=\"bold\">possible death in people with asthma who use too much </content> <content styleCode=\"bold\">PROAIR RESPICLICK</content> </item> <item> <content styleCode=\"bold\">allergic reactions. </content>Call your doctor right away if you have the following symptoms of an allergic reaction:</item> </list> <paragraph>&#x25CB; itchy skin &#x25CB; rash</paragraph> <paragraph> &#x25CB; swelling beneath your skin or in your throat &#x25CB; worsening trouble breathing</paragraph> <list listType=\"unordered\" styleCode=\"Disc\"> <item> <content styleCode=\"bold\">worsening of other medical problems in people who also use </content> <content styleCode=\"bold\">PROAIR RESPICLICK including increases in blood sugar</content> </item> <item> <content styleCode=\"bold\">low potassium levels in your blood</content> </item> </list> <paragraph>The most common side effects of PROAIR RESPICLICK include:</paragraph> <paragraph>&#x25CF; back pain &#x25CF; fast heart rate</paragraph> <paragraph>&#x25CF; pain &#x25CF; shakiness</paragraph> <paragraph>&#x25CF; upset stomach &#x25CF; nervousness</paragraph> <paragraph>&#x25CF; sinus headache &#x25CF; headache</paragraph> <paragraph>&#x25CF; urinary tract infection &#x25CF; dizziness</paragraph> <paragraph>&#x25CF; your heart feels like it is pounding or racing (palpitations) &#x25CF; sore throat</paragraph> <paragraph>&#x25CF; chest pain &#x25CF; runny nose</paragraph> <paragraph> &#x25CF; vomiting</paragraph> <paragraph>These are not all of the possible side effects of PROAIR RESPICLICK. </paragraph> <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">How should I store </content> <content styleCode=\"bold\">PROAIR RESPICLICK?</content> </paragraph> <list listType=\"unordered\" styleCode=\"Disc\"> <item>Store PROAIR RESPICLICK at room temperature between 59&#xBA;F and 77&#xBA;F (15&#xBA;C and 25&#xBA;C).</item> <item>Avoid exposure to extreme heat, cold, or humidity.</item> <item>Keep the cap on the inhaler closed during storage.</item> <item>Keep your PROAIR RESPICLICK inhaler dry and clean at all times.</item> <item> <content styleCode=\"bold\">Do not wash or put any part of your </content> <content styleCode=\"bold\">PROAIR RESPICLICK</content> <content styleCode=\"bold\"> inhaler in water. </content>Replace your inhaler if washed or placed in water.</item> </list> <paragraph> <content styleCode=\"bold\">Keep </content> <content styleCode=\"bold\">PROAIR RESPICLICK and all medicines out of the reach of children.</content> </paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">General information about the safe and effective use of </content> <content styleCode=\"bold\">PROAIR RESPICLICK.</content> </paragraph> <paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use PROAIR RESPICLICK for a condition for which it was not prescribed. Do not give PROAIR RESPICLICK to other people, even if they have the same symptoms that you have. It may harm them.</paragraph> <paragraph>You can ask your pharmacist or doctor for information about PROAIR RESPICLICK that was written for health professionals.</paragraph> <paragraph>For more information, go to www.MyProAir.com or call 1-888-482-9522.</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph> <content styleCode=\"bold\">What are the ingredients in </content> <content styleCode=\"bold\">PROAIR RESPICLICK?</content> </paragraph> <paragraph> <content styleCode=\"bold\">Active ingredient:</content> albuterol sulfate</paragraph> <paragraph> <content styleCode=\"bold\">Inactive ingredients:</content> lactose (may contain milk proteins)</paragraph> </td> </tr> <tr> <td styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph>Distributed by: </paragraph> <paragraph>Teva Pharmaceuticals USA, Inc.</paragraph> <paragraph>Parsippany, NJ 07054</paragraph> <paragraph>&#xA9;2020 Teva Respiratory, LLC. All rights reserved.</paragraph> <renderMultiMedia referencedObject=\"MM4\"/> <paragraph>PRORPL-005</paragraph> </td> </tr> </tbody> </table>"
-  ],
-  "instructions_for_use": [
-   "Instructions for Use PROAIR ® RESPICLICK ® (prō´ār res-pē-klik) (albuterol sulfate) inhalation powder Your PROAIR RESPICLICK Inhaler When you are ready to use PROAIR RESPICLICK for the first time, remove the PROAIR RESPICLICK inhaler from the foil pouch. There are 2 main parts of your PROAIR RESPICLICK inhaler including: the white inhaler with the mouthpiece. See Figure A. the red cap that covers the mouthpiece of the inhaler. See Figure A. There is a dose counter in the back of the inhaler with a viewing window that shows you how many doses of medicine you have left. See Figure A . Figure A Your PROAIR RESPICLICK inhaler contains 200 doses (inhalations). See Figure B . The dose counter shows the number of doses left in your inhaler. When there are 20 doses left, the dose counter will change to red, and you should refill your prescription or ask your doctor for another prescription. When the dose counter displays ‘0,’ your inhaler is empty, and you should stop using the inhaler and throw it away. See Figure B . Figure B IMPORTANT: Always close the cap after each inhalation so your inhaler will be ready for you to take your next dose . Do not open the cap unless you are ready for your next dose. You will hear a “click” sound when the cap is opened fully. If you do not hear the “click” sound the inhaler may not be activated to give you a dose of medicine. PROAIR RESPICLICK does not have an activation button or medicine canister . When you open the cap, a dose of PROAIR will be activated for delivery of the medicine. In general, the technique for administering PROAIR RESPICLICK to children is similar to that for adults. Children should use PROAIR RESPICLICK under adult supervision, as instructed by the patient’s physician. Do not use a spacer or volume holding chamber with PROAIR RESPICLICK. PROAIR RESPICLICK does not need priming. Using your PROAIR RESPICLICK inhaler: Important: Make sure the red cap is closed before you start using your inhaler. Step 1. Open Hold the inhaler upright and open the red cap fully until you feel and hear a “click”. See Figure C . Each time you open the red cap and it “clicks”, a dose of PROAIR RESPICLICK is ready to be inhaled. Figure C Remember: For the correct use of PROAIR RESPICLICK, hold the inhaler upright as you open the red cap. See Figure D . Do not hold the inhaler in any other way as you open the red cap. Do not open the red cap until you are ready to take a dose of PROAIR RESPICLICK. Figure D Step 2. Inhale Before you inhale, breathe out (exhale) through your mouth and push as much air from your lungs as you can. See Figure E. Do not exhale into the inhaler mouthpiece. Figure E Put the mouthpiece in your mouth and close your lips tightly around it. See Figure F. Figure F Do not block the vent above the mouthpiece with your lips or fingers. See Figure G . Figure G Breathe in quickly and deeply through your mouth, to deliver the dose of medicine to your lungs. Remove the inhaler from your mouth. Hold your breath for about 10 seconds or for as long as you comfortably can. Your PROAIR RESPICLICK inhaler delivers your dose of medicine as a very fine powder that you may or may not taste or feel. Do not take an extra dose from the inhaler even if you do not taste or feel the medicine. Step 3. Close Figure H Close the red cap firmly over the mouthpiece. See Figure H . Make sure you close the red cap after each inhalation so that the inhaler will be ready for your next dose. If you need another dose close the red cap and then repeat steps 1-3. Storing your PROAIR RESPICLICK inhaler Store PROAIR RESPICLICK at room temperature between 59°F and 77°F (15°C and 25°C). Avoid exposure to extreme heat, cold, or humidity. Keep the red cap on the inhaler closed during storage. Keep your PROAIR RESPICLICK inhaler dry and clean at all times. Do not wash or put any part of your PROAIR RESPICLICK inhaler in water. Replace your inhaler if washed or placed in water. Keep your PROAIR RESPICLICK inhaler and all medicines out of the reach of children. Cleaning your PROAIR RESPICLICK inhaler Do not wash or put any part of your PROAIR RESPICLICK inhaler in water. Replace your inhaler if washed or placed in water. PROAIR RESPICLICK contains a powder and must be kept clean and dry at all times. If the mouthpiece needs cleaning, gently wipe it with a dry cloth or tissue. Replacing your PROAIR RESPICLICK inhaler The dose counter on the back of your inhaler shows how many doses you have left. Do not try to change the numbers for the dose counter. When there are 20 doses left, the dose counter color will change to red, and you should refill your prescription or ask your doctor for another prescription. When the dose counter displays ‘0’ your PROAIR RESPICLICK inhaler is empty, and you should stop using the inhaler and throw it away. Throw away your PROAIR RESPICLICK inhaler 13 months after removing it from the foil pouch for the first time, when the dose counter displays ‘0’, or after the expiration date on the package, whichever comes first. Important information Do not open the red cap unless you are taking a dose. Repeatedly opening and closing the cap without inhaling a dose will waste the medicine and may damage your inhaler. Your PROAIR RESPICLICK inhaler contains dry powder so it is important that you do not blow or breathe into it. Do not take the inhaler apart. Support If you have any questions about PROAIR RESPICLICK or how to use your inhaler, go to www.ProAir.com or call 1-888-482-9522. This Instructions for Use has been approved by the U.S. Food and Drug Administration. Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054 ©2020 Teva Respiratory, LLC. All rights reserved. PRORIFU-005 Revised September 2020 Figure A Figure B Figure C IFU Figure D Figure E Figure F Figure G Figure H Steps 1-3 Teva logo"
-  ],
-  "set_id": "9324e2eb-26fd-4f14-9f10-e5aa467306f4",
-  "id": "f34b3a06-6e6b-4011-b93f-107387f94640",
-  "effective_time": "20200930",
-  "version": "12"
+  "set_id": "32377c09-da6d-331c-e063-6294a90a7a46",
+  "id": "56c01144-7ba7-2f75-e063-6294a90a6e6f",
+  "effective_time": "20260716",
+  "version": "3"
  }
 }
