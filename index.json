@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:42Z",
+ "updated": "2026-11-11T17:49Z",
  "n": 368,
  "missing": [
   "norfloxacino",
@@ -2555,14 +2555,14 @@
     "Gentamicin"
    ],
    "manufacturer": [
-    "Fresenius Kabi USA, LLC"
+    "Eugia US LLC"
    ],
-   "effective_time": "20231220",
-   "set_id": "8bdeef7f-ad8e-46e0-a872-e945eae51d68",
+   "effective_time": "20260129",
+   "set_id": "60ca1487-392d-4721-aa45-3de38722896c",
    "application": [
-    "ANDA062366"
+    "ANDA215237"
    ],
-   "n_candidates": 8
+   "n_candidates": 1
   },
   {
    "id_es": "glibenclamida",
@@ -3641,14 +3641,14 @@
     "Meropenem"
    ],
    "manufacturer": [
-    "WG Critical Care, LLC"
+    "Sagent Pharmaceuticals"
    ],
-   "effective_time": "20260831",
-   "set_id": "240325ba-47a8-4ad1-bcab-6772069ee790",
+   "effective_time": "20260331",
+   "set_id": "e8848f4a-bca9-4978-b0a1-38483fd4d639",
    "application": [
-    "NDA215212"
+    "ANDA216424"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "mesalazina",
