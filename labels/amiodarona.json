@@ -1,8 +1,9 @@
 {
  "id_es": "amiodarona",
  "generic_en": "amiodarone",
- "search": "openfda.generic_name:\"amiodarone\"",
- "downloaded": "2026-11-11T06:42Z",
+ "search": "brand:NEXTERONE",
+ "pref": "amiodarone|INTRAVENOUS|NEXTERONE",
+ "downloaded": "2026-11-11T06:51Z",
  "chosen": {
   "set_id": "e9108958-b8d7-4fba-87c3-9a32990de551",
   "id": "86598704-4a32-4696-b2c2-2861e28db76a",

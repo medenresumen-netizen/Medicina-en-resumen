@@ -1,8 +1,9 @@
 {
  "id_es": "insulina-glulisina",
  "generic_en": "insulin glulisine",
- "search": "openfda.generic_name.exact:\"INSULIN GLULISINE\"",
- "downloaded": "2026-11-11T06:43Z",
+ "search": "brand:APIDRA",
+ "pref": "insulin glulisine|SUBCUTANEOUS|APIDRA",
+ "downloaded": "2026-11-11T06:52Z",
  "chosen": {
   "set_id": "e7af6a7a-8046-4fb4-9979-4ec4230b23aa",
   "id": "6be54063-6912-4810-b1c7-dfca969224d8",

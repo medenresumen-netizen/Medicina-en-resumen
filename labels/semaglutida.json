@@ -1,8 +1,9 @@
 {
  "id_es": "semaglutida",
  "generic_en": "semaglutide",
- "search": "openfda.generic_name.exact:\"SEMAGLUTIDE\"",
- "downloaded": "2026-11-11T06:43Z",
+ "search": "brand:OZEMPIC",
+ "pref": "semaglutide|SUBCUTANEOUS|OZEMPIC",
+ "downloaded": "2026-11-11T06:52Z",
  "chosen": {
   "set_id": "42bdd912-2393-44c4-b7e0-47672ca28991",
   "id": "4b9bdfa7-1075-45cd-baac-66632beb38df",
@@ -53,6 +54,32 @@
     "NDA209637"
    ],
    "n_sections": 36
+  },
+  {
+   "set_id": "27f15fac-7d98-4114-a2ec-92494a91da98",
+   "id": "6834044a-22f1-4f35-b846-b3448ee84c16",
+   "effective_time": "20260130",
+   "version": "14",
+   "brand_name": [
+    "OZEMPIC",
+    "RYBELSUS"
+   ],
+   "generic_name": [
+    "ORAL SEMAGLUTIDE"
+   ],
+   "manufacturer_name": [
+    "Novo Nordisk Pharmaceutical Industries, LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA213051"
+   ],
+   "n_sections": 35
   },
   {
    "set_id": "f5e548d0-cc79-4c34-a3f5-e20a5b8b6564",

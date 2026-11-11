@@ -2,7 +2,8 @@
  "id_es": "cefalexina",
  "generic_en": "cephalexin",
  "search": "openfda.generic_name.exact:\"CEPHALEXIN\"",
- "downloaded": "2026-11-11T06:39Z",
+ "pref": "cephalexin|ORAL|KEFLEX",
+ "downloaded": "2026-11-11T06:50Z",
  "chosen": {
   "set_id": "6ac71dc8-7f86-60c5-e053-2a91aa0a2a7e",
   "id": "1a8b85ac-ef99-e207-e063-6394a90a80f1",

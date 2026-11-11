@@ -1,8 +1,9 @@
 {
  "id_es": "metilprednisolona",
  "generic_en": "methylprednisolone",
- "search": "openfda.generic_name.exact:\"METHYLPREDNISOLONE\"",
- "downloaded": "2026-11-11T06:43Z",
+ "search": "brand:MEDROL",
+ "pref": "methylprednisolone|ORAL|MEDROL",
+ "downloaded": "2026-11-11T06:52Z",
  "chosen": {
   "set_id": "39d5270b-d957-4821-93d6-501b7b9f02d4",
   "id": "e4a8e5b4-af77-4eca-92de-cd0982969b82",
@@ -29,6 +30,86 @@
   "n_sections": 20
  },
  "candidates": [
+  {
+   "set_id": "95ec0e75-6b5d-4320-8f23-3d6229216ca8",
+   "id": "5ed888e4-492e-acd3-e063-6394a90a2298",
+   "effective_time": "20261027",
+   "version": "1",
+   "brand_name": [
+    "Depo-Medrol"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011757"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "ea2f9b6f-2375-40a6-8b97-b607b9f3ac63",
+   "id": "3d4b567f-ecea-4f77-a94f-ae1cc161e7c8",
+   "effective_time": "20261027",
+   "version": "9",
+   "brand_name": [
+    "Solu-Medrol"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "7e38b09c-da41-4ee3-8f99-812d3276d551",
+   "id": "b1971c77-219d-45b7-a761-2e78772399c8",
+   "effective_time": "20261013",
+   "version": "17",
+   "brand_name": [
+    "Solu-Medrol"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 27
+  },
   {
    "set_id": "04a12e4b-32ba-4cf5-9451-23340e83f759",
    "id": "5db7bfe0-d235-79ba-e063-6394a90ab4d4",
@@ -105,6 +186,58 @@
    "n_sections": 17
   },
   {
+   "set_id": "0cb0ba76-067f-46c4-a5d8-b585d5ecafe3",
+   "id": "57421e68-8d78-1368-e063-6294a90a147d",
+   "effective_time": "20260723",
+   "version": "1",
+   "brand_name": [
+    "SOLU-MEDROL"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "68ef8ec4-16de-4a8c-8696-b09359660380",
+   "id": "da8b6418-0433-4e52-a12d-c30c53d21200",
+   "effective_time": "20260717",
+   "version": "15",
+   "brand_name": [
+    "Solu-Medrol"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 27
+  },
+  {
    "set_id": "d0d5fc54-69e1-4303-96be-3f97adec6074",
    "id": "55af245d-11d7-d839-e063-6394a90a0adf",
    "effective_time": "20260703",
@@ -153,6 +286,32 @@
     "ANDA040183"
    ],
    "n_sections": 20
+  },
+  {
+   "set_id": "7271310c-7764-4812-aa30-a5e90987c7a9",
+   "id": "9fdbd924-74fd-4b07-882c-d7e11b1a4642",
+   "effective_time": "20260625",
+   "version": "12",
+   "brand_name": [
+    "SOLU-MEDROL"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Pharmacia & Upjohn Company LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 27
   },
   {
    "set_id": "e27ab941-adc6-47b6-b217-08d095a851fd",
@@ -230,6 +389,32 @@
    "n_sections": 19
   },
   {
+   "set_id": "8e5997ed-f4a5-43f7-abbd-c8e2219fe0e9",
+   "id": "1e1f7e4a-9126-4a64-9ba0-29138c08cb88",
+   "effective_time": "20260529",
+   "version": "33",
+   "brand_name": [
+    "SOLU-MEDROL"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 27
+  },
+  {
    "set_id": "7092df48-4904-4047-9916-e585417a216f",
    "id": "5267c1af-043e-c1e6-e063-6294a90a42d1",
    "effective_time": "20260522",
@@ -255,6 +440,32 @@
    "n_sections": 16
   },
   {
+   "set_id": "2af28649-2553-4bcc-9cb1-c73f7cec76d5",
+   "id": "008ba72a-fa82-46ed-80da-975cebda09f3",
+   "effective_time": "20260520",
+   "version": "26",
+   "brand_name": [
+    "Solu-Medrol"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 27
+  },
+  {
    "set_id": "c84cf5e6-746d-41fb-b3d8-2c0b8ba989af",
    "id": "54465ee7-3625-4bfb-a717-a5a0b08a2fee",
    "effective_time": "20260416",
@@ -276,6 +487,32 @@
    ],
    "application_number": [
     "ANDA040183"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "decceb81-e922-4b72-a278-3ed80f4adb04",
+   "id": "f4c6a69e-cc09-4328-a863-8c32a7f73a68",
+   "effective_time": "20260318",
+   "version": "8",
+   "brand_name": [
+    "Solu-Medrol"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
    ],
    "n_sections": 17
   },
@@ -380,6 +617,32 @@
    "n_sections": 19
   },
   {
+   "set_id": "1d5ef347-2e9a-432f-9a88-a7c4ba300267",
+   "id": "499b1561-882b-8553-e063-6294a90ad423",
+   "effective_time": "20260130",
+   "version": "12",
+   "brand_name": [
+    "SOLU-MEDROL"
+   ],
+   "generic_name": [
+    "METHYLPREDNISOLONE SODIUM SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA011856"
+   ],
+   "n_sections": 27
+  },
+  {
    "set_id": "e09eefd2-f423-40cb-87b6-3ee97e7f831b",
    "id": "925bd0e3-3f69-411c-ad1e-7db010ec17be",
    "effective_time": "20260122",
@@ -403,258 +666,6 @@
     "ANDA204072"
    ],
    "n_sections": 19
-  },
-  {
-   "set_id": "476ef50d-7e77-75f6-e063-6294a90a26e4",
-   "id": "476ef63e-5c25-17ed-e063-6394a90af4f3",
-   "effective_time": "20260102",
-   "version": "1",
-   "brand_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "PHOENIX RX LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA204072"
-   ],
-   "n_sections": 19
-  },
-  {
-   "set_id": "b1908c2a-c596-4e2a-b2bd-0745d4fea31a",
-   "id": "a7416892-37af-4d45-ab52-5e5700e6b3e5",
-   "effective_time": "20260102",
-   "version": "9",
-   "brand_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Epic Pharma, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA204072"
-   ],
-   "n_sections": 19
-  },
-  {
-   "set_id": "3885151c-963e-4d22-b5b4-58968503ad8c",
-   "id": "c00a6df5-0543-4984-bccb-896ba6facb76",
-   "effective_time": "20251226",
-   "version": "5",
-   "brand_name": [
-    "methylprednisolone"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Major Pharmaceuticals"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206751"
-   ],
-   "n_sections": 16
-  },
-  {
-   "set_id": "77a8d96c-37df-4f3a-9757-b2d4131ff82b",
-   "id": "94c8ce6b-7622-4d1f-8b54-0ce959752ae5",
-   "effective_time": "20251218",
-   "version": "6",
-   "brand_name": [
-    "Methylprednisolone Sodium Succinate"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Tianjin Kingyork Pharmaceuticals Co., Ltd"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA212396"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "e86fbda8-00e4-4d54-841a-59dea6c15e70",
-   "id": "3eb27de6-9e1c-4ef4-bb31-2458b9360582",
-   "effective_time": "20251215",
-   "version": "24",
-   "brand_name": [
-    "Methylprednisolone Sodium Succinate"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Amneal Pharmaceuticals LLC"
-   ],
-   "route": [
-    "INTRAMUSCULAR",
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207549"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "39d5270b-d957-4821-93d6-501b7b9f02d4",
-   "id": "e4a8e5b4-af77-4eca-92de-cd0982969b82",
-   "effective_time": "20251114",
-   "version": "25",
-   "brand_name": [
-    "Medrol"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Pharmacia & Upjohn Company LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA011153"
-   ],
-   "n_sections": 20
-  },
-  {
-   "set_id": "eaa9c932-c659-4ef6-bf5a-186545d87320",
-   "id": "6cebff10-362f-41a7-8f66-3d9e878760fd",
-   "effective_time": "20251110",
-   "version": "8",
-   "brand_name": [
-    "methylprednisolone"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Zydus Pharmaceuticals USA Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206751"
-   ],
-   "n_sections": 16
-  },
-  {
-   "set_id": "8c3f3f63-8a05-7a4a-e053-2995a90ad95a",
-   "id": "2c28f93c-99a2-f643-e063-6394a90a6f9d",
-   "effective_time": "20250120",
-   "version": "3",
-   "brand_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Direct_Rx"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA204072"
-   ],
-   "n_sections": 13
-  },
-  {
-   "set_id": "f19f3676-856f-e8d7-e053-2995a90ad703",
-   "id": "2a9b1617-60d1-f8ce-e063-6294a90ab02c",
-   "effective_time": "20241231",
-   "version": "3",
-   "brand_name": [
-    "Methylprednisolone"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Advanced Rx Pharmacy of Tennessee, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040189"
-   ],
-   "n_sections": 13
-  },
-  {
-   "set_id": "f19f4304-bf37-da04-e053-2a95a90a4044",
-   "id": "2a9aec09-630d-2252-e063-6294a90a204a",
-   "effective_time": "20241231",
-   "version": "3",
-   "brand_name": [
-    "Methylprednisolone"
-   ],
-   "generic_name": [
-    "METHYLPREDNISOLONE"
-   ],
-   "manufacturer_name": [
-    "Advanced Rx Pharmacy of Tennessee, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA204072"
-   ],
-   "n_sections": 15
   }
  ],
  "label": {

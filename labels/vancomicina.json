@@ -2,7 +2,8 @@
  "id_es": "vancomicina",
  "generic_en": "vancomycin",
  "search": "openfda.generic_name.exact:\"VANCOMYCIN\"",
- "downloaded": "2026-11-11T06:39Z",
+ "pref": "vancomycin|INTRAVENOUS|",
+ "downloaded": "2026-11-11T06:50Z",
  "chosen": {
   "set_id": "72e9c5e2-07cc-4a8b-ba64-b2e7619ea560",
   "id": "7bddeff1-1858-437c-b772-b063a7e7c6f8",

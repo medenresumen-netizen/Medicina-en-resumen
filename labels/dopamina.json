@@ -1,45 +1,123 @@
 {
  "id_es": "dopamina",
- "generic_en": "dopamine",
- "search": "openfda.generic_name.exact:\"DOPAMINE\"",
- "downloaded": "2026-11-11T06:42Z",
+ "generic_en": "dopamine hydrochloride",
+ "search": "openfda.generic_name.exact:\"DOPAMINE HYDROCHLORIDE\"",
+ "pref": "dopamine hydrochloride|INTRAVENOUS|",
+ "downloaded": "2026-11-11T06:52Z",
  "chosen": {
-  "set_id": "2a69474e-1ba5-43a1-b78e-66159db36e11",
-  "id": "55862a7a-e52f-4d82-b78b-12d7b458f6ce",
-  "effective_time": "20260108",
+  "set_id": "3ef116db-fb26-1e66-e063-6294a90a0610",
+  "id": "463de4ca-e6b5-8c9a-e063-6394a90a70cd",
+  "effective_time": "20251218",
   "version": "2",
   "brand_name": [
-   "Dopamine 1515"
+   "Dopamine Hydrochloride and Dextrose"
   ],
   "generic_name": [
-   "DOPAMINE"
+   "DOPAMINE HYDROCHLORIDE"
   ],
   "manufacturer_name": [
-   "Professional Complementary Health Formulas"
+   "ProPharma Distribution"
   ],
   "route": [
-   "ORAL"
+   "INTRAVENOUS"
   ],
   "product_type": [
-   "HUMAN OTC DRUG"
+   "HUMAN PRESCRIPTION DRUG"
   ],
-  "application_number": [],
-  "n_sections": 15
+  "application_number": [
+   "NDA019615"
+  ],
+  "n_sections": 27
  },
  "candidates": [
   {
-   "set_id": "2a69474e-1ba5-43a1-b78e-66159db36e11",
-   "id": "55862a7a-e52f-4d82-b78b-12d7b458f6ce",
-   "effective_time": "20260108",
-   "version": "2",
+   "set_id": "460906f7-b532-4ddb-a799-ad7b50488143",
+   "id": "57d64b5b-4671-4142-8791-0815e7ed0bf7",
+   "effective_time": "20261028",
+   "version": "7",
    "brand_name": [
-    "Dopamine 1515"
+    "Dopamine Hydrochloride"
    ],
    "generic_name": [
-    "DOPAMINE"
+    "DOPAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Professional Complementary Health Formulas"
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018132"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "fc1eb709-ce72-413e-9043-8e463ef0fd36",
+   "id": "05508ae1-c75f-4c71-ab77-eaa284f68cc2",
+   "effective_time": "20261028",
+   "version": "11",
+   "brand_name": [
+    "Dopamine Hydrochloride"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018132"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "1f306ad2-3606-4525-5a8a-ce78f426c1a2",
+   "id": "7a125e39-1ecb-4c76-931a-efc9b5921d1c",
+   "effective_time": "20260513",
+   "version": "22",
+   "brand_name": [
+    "DOPamine Hydrochloride"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018132"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5346622d-9719-493a-90f4-21f540d6cb2a",
+   "id": "12c995d8-7045-413a-8214-0a48c52fe184",
+   "effective_time": "20260330",
+   "version": "3",
+   "brand_name": [
+    "Dopamine"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BioActive Nutritional, Inc."
    ],
    "route": [
     "ORAL"
@@ -48,21 +126,169 @@
     "HUMAN OTC DRUG"
    ],
    "application_number": [],
+   "n_sections": 13
+  },
+  {
+   "set_id": "3ef116db-fb26-1e66-e063-6294a90a0610",
+   "id": "463de4ca-e6b5-8c9a-e063-6394a90a70cd",
+   "effective_time": "20251218",
+   "version": "2",
+   "brand_name": [
+    "Dopamine Hydrochloride and Dextrose"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ProPharma Distribution"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019615"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "45b0729e-529b-02f6-e063-6294a90a31d3",
+   "id": "45b0729e-529a-02f6-e063-6294a90a31d3",
+   "effective_time": "20251211",
+   "version": "1",
+   "brand_name": [
+    "DOPamine Hydrochloride"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ProPharma Distribution"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018132"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "38431050-007e-41b2-e063-6394a90a1d64",
+   "id": "3a38fe9d-a5ef-a916-e063-6294a90adc8a",
+   "effective_time": "20250718",
+   "version": "2",
+   "brand_name": [
+    "Dopamine Hydrochloride"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ProPharma Distribution"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207707"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d10ca5bc-2612-4589-a49c-1b9935fa0bf3",
+   "id": "c1bbf869-3167-4178-a099-eafe2d629412",
+   "effective_time": "20241024",
+   "version": "4",
+   "brand_name": [
+    "DOPAMINE PHENOLIC"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Energique, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 13
+  },
+  {
+   "set_id": "0e499952-46c7-4172-8c70-186312e240a3",
+   "id": "67349236-e8e3-45ec-a76d-2a0a150d8d59",
+   "effective_time": "20240415",
+   "version": "3",
+   "brand_name": [
+    "Dopamine Hydrochloride"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207707"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "c901b461-4f98-da0a-e053-2a95a90a106e",
+   "id": "1203d038-6c4b-4a7c-e063-6294a90a0b73",
+   "effective_time": "20240222",
+   "version": "5",
+   "brand_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207707"
+   ],
    "n_sections": 15
   },
   {
-   "set_id": "9e02d6dd-97c1-7277-e053-2995a90a112d",
-   "id": "2dd20800-2cfb-02d4-e063-6294a90a0f00",
-   "effective_time": "20250210",
+   "set_id": "b984b509-cdeb-4fc9-8133-be3b7ba82c8c",
+   "id": "1e29b059-a74a-48f1-b1b7-90ba47d6a311",
+   "effective_time": "20240220",
    "version": "2",
    "brand_name": [
     "Dopamine"
    ],
    "generic_name": [
-    "DOPAMINE"
+    "DOPAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Newton Laboratories, Inc."
+    "Deseret Biologicals, Inc."
    ],
    "route": [
     "ORAL"
@@ -71,43 +297,227 @@
     "HUMAN OTC DRUG"
    ],
    "application_number": [],
-   "n_sections": 14
+   "n_sections": 13
+  },
+  {
+   "set_id": "c6c8539b-0da9-2d97-e053-2a95a90a3aa8",
+   "id": "11c32f50-2496-3a8e-e063-6394a90a9a78",
+   "effective_time": "20240219",
+   "version": "2",
+   "brand_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207707"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "7896052c-2a72-ca89-e053-2a91aa0ae86e",
+   "id": "101df49b-fde7-ec91-e063-6294a90a8a90",
+   "effective_time": "20240129",
+   "version": "6",
+   "brand_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018826"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "093312af-6eef-1f4b-e063-6294a90a155d",
+   "id": "09333608-55c4-16d3-e063-6294a90a8e03",
+   "effective_time": "20231102",
+   "version": "1",
+   "brand_name": [
+    "Dopamine Hydrochloride"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207707"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "b61fffd0-7bc8-09e2-e053-2995a90ae0e4",
+   "id": "fcea4214-2952-5502-e053-6294a90a7252",
+   "effective_time": "20230530",
+   "version": "2",
+   "brand_name": [
+    "DOPamine Hydrochloride"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018132"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "cb97d4a0-89ed-407c-a763-209386b6f75c",
+   "id": "edc9a091-4cb5-4ec7-b6f9-44d2d588bab9",
+   "effective_time": "20201111",
+   "version": "18",
+   "brand_name": [
+    "Dopamine Hydrochloride and Dextrose"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019615"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "2e456b07-8b7b-463a-8cf5-1d7a51985b06",
+   "id": "727ccac0-3f68-41f5-be37-26c5b55fd848",
+   "effective_time": "20160816",
+   "version": "1",
+   "brand_name": [
+    "Dopamine"
+   ],
+   "generic_name": [
+    "DOPAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BioActive Nutritional"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 13
   }
  ],
  "label": {
-  "active_ingredient": [
-   "ACTIVE INGREDIENTS Dopamine 9X, 12X, 30X, 60X"
+  "description": [
+   "DESCRIPTION Dopamine Hydrochloride and 5% Dextrose Injection, USP is a sterile, nonpyrogenic solution of Dopamine Hydrochloride, USP and Dextrose, USP in Water for Injection. Structural formulas are shown below: Dopamine Hydrochloride and 5% Dextrose Injection, USP is intended for intravenous use only. It contains no antimicrobial agents. The pH is adjusted with hydrochloric acid and is 3.5 (2.5 to 4.5). Approximately 5 mEq/L sodium bisulfite is added as a stabilizer. The solution provides a caloric content of 170 kcal/L. The solution is intended for single use only. When smaller doses are required, the unused portion should be discarded. Composition and osmolarity are given below: 800 mcg/mL Dopamine Hydrochloride and 5% Dextrose Injection, USP provides 800 mcg/mL Dopamine Hydrochloride, USP and 50 g/L Dextrose Hydrous, USP with an osmolarity of 261 mOsmol/L (calc). 1600 mcg/mL Dopamine Hydrochloride and 5% Dextrose Injection, USP provides 1600 mcg/mL Dopamine Hydrochloride, USP and 50 g/L Dextrose Hydrous, USP with an osmolarity of 269 mOsmol/L (calc). 3200 mcg/mL Dopamine Hydrochloride and 5% Dextrose Injection, USP provides 3200 mcg/mL Dopamine Hydrochloride, USP and 50 g/L Dextrose Hydrous, USP with an osmolarity of 286 mOsmol/L (calc). Dopamine administered intravenously is a myocardial inotropic agent which also may increase mesenteric and renal blood flow plus urinary output. Dopamine hydrochloride is designated chemically as 3,4-dihydroxyphenethylamine hydrochloride, a white crystalline powder freely soluble in water. Dopamine (also referred to as 3-hydroxytyramine) is a naturally occurring biochemical catecholamine precursor of norepinephrine. This VIAFLEX Plus plastic container is fabricated from a specially formulated polyvinyl chloride (PL 2207 Plastic). VIAFLEX containers, including VIAFLEX Plus containers, are made of flexible plastic and are for parenteral use. VIAFLEX Plus on the container indicates the presence of a drug additive in a drug vehicle. The amount of water that can permeate from inside the container into the overwrap is insufficient to affect the solution significantly. Solutions in contact with the plastic container can leach out certain of its chemical components in very small amounts within the expiration period, e.g., di-2-ethylhexyl phthalate (DEHP), up to 5 parts per million. However, the safety of the plastic has been confirmed in tests in animals according to USP biological tests for plastic containers as well as by tissue culture toxicity studies. Dopamine Hydrochloride, USP Structural Formula Image Dextrose Hydrous, USP (D-Gluocpyranose monohydrate) Structural Formula Image"
   ],
-  "questions": [
-   "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Dopamine is a natural catecholamine formed by the decarboxylation of 3,4-dihydroxyphenylalanine (DOPA). It is a precursor to norepinephrine in noradrenergic nerves and is also a neurotransmitter in certain areas of the central nervous system, especially in the nigrostriatal tract, and in a few peripheral sympathetic nerves. Dopamine produces positive chronotropic and inotropic effects on the myocardium, resulting in increased heart rate and cardiac contractility. This is accomplished directly by exerting an agonist action on beta-adrenoceptors and indirectly by causing release of norepinephrine from storage sites in sympathetic nerve endings. Dopamine’s onset of action occurs within five minutes of intravenous administration, and with dopamine’s plasma half-life of about two minutes, the duration of action is less than ten minutes. If monoamine oxidase (MAO) inhibitors are present, however, the duration may increase to one hour. The drug is widely distributed in the body but does not cross the blood-brain barrier to a significant extent. Dopamine is metabolized in the liver, kidney, and plasma by MAO and catechol-O-methyltransferase to the inactive compounds homovanillic acid (HVA) and 3,4-dihydroxyphenylacetic acid. About 25% of the dose is taken up into specialized neurosecretory vesicles (the adrenergic nerve terminals), where it is hydroxylated to form norepinephrine. It has been reported that about 80% of the drug is excreted in the urine within 24 hours, primarily as HVA and its sulfate and glucuronide conjugates and as 3,4-dihydroxyphenylacetic acid. A very small portion is excreted unchanged. The predominant effects of dopamine are dose-related, although actual response of an individual patient will largely depend on the clinical status of the patient at the time the drug is administered. At low rates of infusion (0.5-2 mcg/kg/min) dopamine causes vasodilation that is presumed to be due to a specific agonist action on dopamine receptors (distinct from alpha- and beta-adrenoceptors) in the renal, mesenteric, coronary, and intracerebral vascular beds. At these dopamine receptors, haloperidol is an antagonist. The vasodilation in these vascular beds is accompanied by increased glomerular filtration rate, renal blood flow, sodium excretion, and urine flow. Hypotension sometimes occurs. An increase in urinary output produced by dopamine is usually not associated with a decrease in osmolarity of the urine. At intermediate rates of infusion (2-10 mcg/kg/min) dopamine acts to stimulate the beta 1 -adrenoceptors, resulting in improved myocardial contractility, increased SA rate and enhanced impulse conduction in the heart. There is little, if any, stimulation of the beta 2 -adrenoceptors (peripheral vasodilation). Dopamine causes less increase in myocardial oxygen consumption than isoproterenol, and its use is not usually associated with a tachyarrhythmia. Clinical studies indicate that it usually increases systolic and pulse pressure with either no effect or a slight increase in diastolic pressure. Blood flow to the peripheral vascular beds may decrease while mesenteric flow increased due to increased cardiac output. At low and intermediate doses, total peripheral resistance (which would be raised by alpha activity) is usually unchanged. At higher rates of infusion (10-20 mcg/kg/min) there is some effect on alpha-adrenoceptors, with consequent vasoconstrictor effects and a rise in blood pressure. The vasoconstrictor effects are first seen in the skeletal muscle vascular beds, but with increasing doses they are also evident in the renal and mesenteric vessels. At very high rates of infusion (above 20 mcg/kg/min), stimulation of alpha-adrenoceptors predominates and vasoconstriction may compromise the circulation of the limbs and override the dopaminergic effects of dopamine, reversing renal dilation and natriuresis. Dextrose provides a source of calories. Dextrose is readily metabolized, may decrease losses of body protein and nitrogen, promotes glycogen deposition and decreases or prevents ketosis if sufficient doses are provided."
   ],
   "indications_and_usage": [
-   "INDICATIONS For the temporary relief of occasional headache, anxiousness, forgetfulness, hay fever, or congestion due to sensitivity to phenolic compounds found in foods or other products.*"
+   "INDICATIONS AND USAGE Dopamine hydrochloride is indicated for the correction of hemodynamic imbalances present in the shock syndrome due to myocardial infarctions, trauma, endotoxic septicemia, open heart surgery, renal failure and chronic cardiac decompensation as in congestive failure. Where appropriate, restoration of blood volume with a suitable plasma expander or whole blood should be instituted or completed prior to administration of dopamine hydrochloride. Patients most likely to respond adequately to dopamine hydrochloride are those in whom physiological parameters, such as urine flow, myocardial function and blood pressure have not undergone profound deterioration. Reports indicate that the shorter the time interval between onset of signs and symptoms and initiation of therapy with volume correction and dopamine hydrochloride, the better the prognosis. Poor Perfusion of Vital Organs Urine flow appears to be one of the better diagnostic signs by which adequacy of vital organ perfusion can be monitored. Nevertheless, the physician should also observe the patient for signs of reversal of confusion or comatose condition. Loss of pallor, increase in toe temperature and/or adequacy of nail bed capillary filling may also be used as indices of adequate dosage. Reported studies indicate that when dopamine hydrochloride is administered before urine flow has diminished to levels of approximately 0.3 mL/minute, prognosis is more favorable. Nevertheless, in a number of oliguric or anuric patients, administration of dopamine hydrochloride has resulted in an increase in urine flow which in some cases reached normal levels. Dopamine hydrochloride may also increase urine flow in patients whose output is within normal limits and thus may be of value in reducing the degree of preexisting fluid accumulation. It should be noted that at doses above those optimal for the individual patient, urine flow may decrease, necessitating reduction of dosage. Concurrent administration of dopamine hydrochloride and diuretic agents may produce an additive or potentiating effect. Low Cardiac Output Increased cardiac output is related to dopamine hydrochloride’s direct inotropic effect on the myocardium. Increased cardiac output at low or moderate doses appears to be related to a favorable prognosis. Increase in cardiac output has been associated with either static or decreased systemic vascular resistance (SVR). Static or decreased SVR associated with low or moderate increments in cardiac output is believed to be a reflection of differential effects on specific vascular beds with increased resistance in peripheral beds (e.g., femoral) and concomitant decreases in mesenteric and renal vascular beds. Redistribution of blood flow parallels these changes so that an increase in cardiac output is accompanied by an increase in mesenteric and renal blood flow. In many instances the renal fraction of the total cardiac output has been found to increase. Increase in cardiac output produced by dopamine hydrochloride is not associated with substantial decreases in systemic vascular resistance as may occur with isoproterenol. Hypotension Hypotension due to inadequate cardiac output can be managed by administration of low to moderate doses of dopamine hydrochloride, which have little effect on SVR. At high therapeutic doses, dopamine hydrochloride’s alpha-adrenergic activity becomes more prominent and thus may correct hypotension due to diminished SVR. As in the case of other circulatory decompensation states, prognosis is better in patients whose blood pressure and urine flow have not undergone profound deterioration. Therefore, it is suggested that the physician administer dopamine hydrochloride as soon as a definite trend toward decreased systolic and diastolic pressure becomes evident."
   ],
-  "purpose": [
-   "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  "contraindications": [
+   "CONTRAINDICATIONS Dopamine hydrochloride should not be used in patients with pheochromocytoma. Dopamine hydrochloride should not be administered in the presence of uncorrected tachyarrhythmias or ventricular fibrillation. Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products."
   ],
   "warnings": [
-   "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+   "WARNINGS Patients who have been treated with monoamine oxidase (MAO) inhibitors prior to the administration of dopamine hydrochloride will require substantially reduced dosage. See Drug Interactions , below. Evidence is inadequate for fully defining proper dosage and limitations for use in children. Contains sodium bisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people. Do not add Dopamine Hydrochloride and 5% Dextrose Injection, USP to any alkaline diluent solution since dopamine hydrochloride is inactivated in alkaline solution. Solutions containing dextrose should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis. The intravenous administration of solutions may cause fluid overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema. Excess administration of potassium-free solutions may result in significant hypokalemia."
   ],
-  "keep_out_of_reach_of_children": [
-   "Keep out of the reach of children."
+  "precautions": [
+   "PRECAUTIONS General Avoid bolus administration of dopamine hydrochloride. See DOSAGE AND ADMINISTRATION . Avoid Hypovolemia Prior to treatment with dopamine hydrochloride, hypovolemia should be fully corrected, if possible, with either whole blood, plasma, or plasma expanders as indicated. Monitoring of central venous pressure or left ventricular filling pressure may be helpful in detecting and treating hypovolemia. Hypoxia, Hypercapnia, Acidosis These conditions, which may also reduce the effectiveness and/or increase the incidence of adverse effects of dopamine, must be identified and corrected prior to, and concurrently with, administration of dopamine HCl. Ventricular Arrhythmias If an increased number of ectopic beats is observed, the dose should be reduced if possible. Decreased Pulse Pressure If a disproportionate rise in the diastolic pressure (i.e., marked decrease in the pulse pressure) is observed in patients receiving dopamine hydrochloride, the infusion rate should be decreased and the patient observed carefully for further evidence of predominant vasoconstrictor activity, unless such an effect is desired. Hypotension At lower infusion rates, if hypotension occurs, the infusion rate should be rapidly increased until adequate blood pressure is obtained. If hypotension persists, dopamine HCl should be discontinued and a more potent vasoconstrictor agent such as norepinephrine should be administered. Occlusive Vascular Disease Patients with a history of occlusive vascular disease (for example, atherosclerosis, arterial embolism, Raynaud’s disease, cold injury, diabetic endarteritis and Buerger’s disease) should be closely monitored for any changes in color or temperature of the skin in the extremities. If a change in skin color or temperature occurs and is thought to be the result of compromised circulation to the extremities, the benefits of continued dopamine hydrochloride infusion should be weighed against the risk of possible necrosis. This condition may be reversed by either decreasing the rate or discontinuing the infusion. Extravasation Dopamine Hydrochloride and 5% Dextrose Injection, USP should be infused into a large vein whenever possible to prevent the possibility of extravasation into tissue adjacent to the infusion site. Extravasation may cause necrosis and sloughing of surrounding tissue. Large veins of the antecubital fossa are preferred to veins in the dorsum of the hand or ankle. Less suitable infusion sites should be used only if the patient’s condition requires immediate attention. The physician should switch to more suitable sites as rapidly as possible. The infusion site should be continuously monitored for free flow. IMPORTANT - Antidote for Peripheral Ischemia To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP containing from 5 to 10 mg phentolamine, an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockage with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. Weaning When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with IV fluids, since sudden cessation may result in marked hypotension. Careful Monitoring Required Close monitoring of the following indices - urine flow, cardiac output and blood pressure - during dopamine hydrochloride infusion is necessary as in the case of any adrenergic agent. Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus. Do not administer unless solution is clear and seal is intact. If administration is controlled by a pumping device, care must be taken to discontinue pumping action before the container runs dry or air embolism may result. Laboratory Tests Clinical evaluation and periodic laboratory determinations are necessary to monitor changes in fluid balance, electrolyte concentrations and acid base balance during prolonged parenteral therapy or whenever the condition of the patient warrants such evaluation. Drug Interactions Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to the beta-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. Results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine should receive initial doses of dopamine hydrochloride no greater than one-tenth (1/10) of the usual dose. Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. Tricyclic antidepressants may potentiate the cardiovascular effects of adrenergic agents. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. Butyrophenones (such as haloperidol) and phenothiazines can suppress the dopaminergic renal and mesenteric vasodilation induced with low-dose dopamine infusion. The concomitant use of vasopressors, vasoconstrictor agents (such as ergonovine) and some oxytocic drugs may result in severe hypertension. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed. Carcinogenesis, Mutagenesis, Impairment of Fertility Long term animal studies have not been performed to evaluate the carcinogenic potential of dopamine HCl. Dopamine HCl at doses approaching maximal solubility showed no clear genotoxic potential in the Ames test. Although there was a reproducible dose-dependent increase in the number of revertant colonies with strains TA100 and TA98, both with and without metabolic activation, the small increase was considered inconclusive evidence of mutagenicity. In the L5178Y TK ± mouse lymphoma assay, dopamine HCl at the highest concentrations used of 750 μg/ml without metabolic activation, and 3000 μg/ml with activation, was toxic and associated with increases in mutant frequencies when compared to untreated and solvent controls; at the lower concentrations no increases over controls were noted. No clear evidence of clastogenic potential was reported in the in vivo mouse or male rat bone marrow micronucleus test when the animals were treated intravenously with up to 224 mg/kg and 30 mg/kg of dopamine HCl, respectively. Pregnancy Teratogenic Effects Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats. In a published study, dopamine HCl administered at 10 mg/kg subcutaneously for 30 days, markedly prolonged metestrus and increased mean pituitary and ovary weights in female rats. Similar administration to pregnant rats throughout gestation or for 5 days starting on gestation day 10 or 15 resulted in decreased body weight gains, increased mortalities and slight increases in cataract formation among the offspring. There are no adequate and well-controlled studies in pregnant women, and it is not known if dopamine HCl crosses the placental barrier. Dopamine HCl should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Labor and Delivery In obstetrics, if vasopressor drugs are used to correct hypotension or are added to a local anesthetic solution the interaction with some oxytocic drugs may cause severe hypertension. Nursing Mothers It is not known whether dopamine hydrochloride is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when dopamine hydrochloride is administered to a nursing woman. Pediatric Use Safety and effectiveness in children have not been established. The clearance of dopamine is affected by age (as much as 2 fold greater in children under 2 years of age), renal and hepatic function (decreasing by 2 fold in the presence of either). In younger children, particularly neonates, clearance is highly variable. Newborn infants may be more sensitive to the vasoconstrictive effects of dopamine. The most consistent effects of dopamine in 57 publications (between the years 1966 through 1997) were increases in systolic and mean arterial pressure. Renal function was variably affected, except that in a single publication renal function was preserved in the face of treatment with indomethacin. No consistent effect on heart rate was described. Because of the variability of clearance, especially in the neonate and newborn, low doses of dopamine and slow deliberate titration should be employed (see DOSAGE and ADMINISTRATION ). Geriatric Use Clinical studies of dopamine injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
   ],
-  "pregnancy_or_breast_feeding": [
-   "If pregnant or breastfeeding, ask a healthcare professional before use."
+  "precautions_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"100%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">IMPORTANT - Antidote for Peripheral Ischemia</content>  To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP containing from 5 to 10 mg phentolamine, an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockage with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. </paragraph></td></tr></tbody></table>"
+  ],
+  "general_precautions": [
+   "General Avoid bolus administration of dopamine hydrochloride. See DOSAGE AND ADMINISTRATION ."
+  ],
+  "laboratory_tests": [
+   "Laboratory Tests Clinical evaluation and periodic laboratory determinations are necessary to monitor changes in fluid balance, electrolyte concentrations and acid base balance during prolonged parenteral therapy or whenever the condition of the patient warrants such evaluation."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to the beta-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. Results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine should receive initial doses of dopamine hydrochloride no greater than one-tenth (1/10) of the usual dose. Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. Tricyclic antidepressants may potentiate the cardiovascular effects of adrenergic agents. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. Butyrophenones (such as haloperidol) and phenothiazines can suppress the dopaminergic renal and mesenteric vasodilation induced with low-dose dopamine infusion. The concomitant use of vasopressors, vasoconstrictor agents (such as ergonovine) and some oxytocic drugs may result in severe hypertension. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Long term animal studies have not been performed to evaluate the carcinogenic potential of dopamine HCl. Dopamine HCl at doses approaching maximal solubility showed no clear genotoxic potential in the Ames test. Although there was a reproducible dose-dependent increase in the number of revertant colonies with strains TA100 and TA98, both with and without metabolic activation, the small increase was considered inconclusive evidence of mutagenicity. In the L5178Y TK ± mouse lymphoma assay, dopamine HCl at the highest concentrations used of 750 μg/ml without metabolic activation, and 3000 μg/ml with activation, was toxic and associated with increases in mutant frequencies when compared to untreated and solvent controls; at the lower concentrations no increases over controls were noted. No clear evidence of clastogenic potential was reported in the in vivo mouse or male rat bone marrow micronucleus test when the animals were treated intravenously with up to 224 mg/kg and 30 mg/kg of dopamine HCl, respectively."
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats. In a published study, dopamine HCl administered at 10 mg/kg subcutaneously for 30 days, markedly prolonged metestrus and increased mean pituitary and ovary weights in female rats. Similar administration to pregnant rats throughout gestation or for 5 days starting on gestation day 10 or 15 resulted in decreased body weight gains, increased mortalities and slight increases in cataract formation among the offspring. There are no adequate and well-controlled studies in pregnant women, and it is not known if dopamine HCl crosses the placental barrier. Dopamine HCl should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats. In a published study, dopamine HCl administered at 10 mg/kg subcutaneously for 30 days, markedly prolonged metestrus and increased mean pituitary and ovary weights in female rats. Similar administration to pregnant rats throughout gestation or for 5 days starting on gestation day 10 or 15 resulted in decreased body weight gains, increased mortalities and slight increases in cataract formation among the offspring. There are no adequate and well-controlled studies in pregnant women, and it is not known if dopamine HCl crosses the placental barrier. Dopamine HCl should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus."
+  ],
+  "labor_and_delivery": [
+   "Labor and Delivery In obstetrics, if vasopressor drugs are used to correct hypotension or are added to a local anesthetic solution the interaction with some oxytocic drugs may cause severe hypertension."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether dopamine hydrochloride is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when dopamine hydrochloride is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness in children have not been established. The clearance of dopamine is affected by age (as much as 2 fold greater in children under 2 years of age), renal and hepatic function (decreasing by 2 fold in the presence of either). In younger children, particularly neonates, clearance is highly variable. Newborn infants may be more sensitive to the vasoconstrictive effects of dopamine. The most consistent effects of dopamine in 57 publications (between the years 1966 through 1997) were increases in systolic and mean arterial pressure. Renal function was variably affected, except that in a single publication renal function was preserved in the face of treatment with indomethacin. No consistent effect on heart rate was described. Because of the variability of clearance, especially in the neonate and newborn, low doses of dopamine and slow deliberate titration should be employed (see DOSAGE and ADMINISTRATION )."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of dopamine injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+  ],
+  "overdosage": [
+   "OVERDOSAGE In case of accidental overdosage, as evidenced by excessive blood pressure elevation, reduce rate of administration or temporarily discontinue dopamine hydrochloride until patient’s condition stabilizes. Since dopamine hydrochloride’s duration of action is quite short, no additional remedial measures are usually necessary. If these measures fail to stabilize the patient’s condition, use of the short-acting alpha-adrenergic blocking agent, phentolamine, should be considered."
   ],
   "dosage_and_administration": [
-   "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+   "DOSAGE AND ADMINISTRATION Rate of Administration Dopamine Hydrochloride and 5% Dextrose Injection, USP is administered intravenously through a suitable intravenous catheter or needle. An IV drip chamber or other suitable metering device is essential for controlling the rate of flow in drops/minute. Each patient must be individually titrated to the desired hemodynamic and/or renal response with dopamine hydrochloride. In titrating to the desired increase in systolic blood pressure, the optimum dosage rate for renal response may be exceeded, thus necessitating a reduction in rate after the hemodynamic condition is stabilized. Administration of dopamine hydrochloride at rates greater than 50 mcg/kg/min has safely been used in advanced circulatory decompensation states. If unnecessary fluid expansion is of concern, use of a more concentrated solution may be preferred over increasing the flow rate of a less concentrated solution. Suggested Regimen When appropriate, increase blood volume with whole blood, plasma, or plasma expanders until central venous pressure is 10 to 15 cm H2O or pulmonary wedge pressure is 14 to 18 mm Hg. Begin infusion of Dopamine Hydrochloride and 5% Dextrose Injection, USP at doses of 2 to 5 mcg/kg/min in patients who are likely to respond to modest increments of heart force and renal perfusion. In more seriously ill patients, begin administration of Dopamine Hydrochloride and 5% Dextrose Injection, USP at rates of 5 mcg/kg/min and increase gradually using 5 to 10 mcg/kg/min increments up to a rate of 20 to 50 mcg/kg/min as needed. If rates in excess of 50 mcg/kg/min are required, it is suggested that urine output be checked frequently. Should urine flow begin to decrease in the absence of hypotension, reduction of dopamine hydrochloride dosage should be considered. Reports have shown that more than 50% of the patients were satisfactorily maintained on doses of dopamine hydrochloride administered at rates of less than 20 mcg/kg/min. In patients who do not respond to these doses with adequate arterial pressures or urine flow, additional increments of dopamine hydrochloride may be given in an effort to produce an appropriate arterial pressure and central perfusion. Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of myocardial contractility and distribution of peripheral perfusion. Dosage of dopamine hydrochloride should be adjusted according to the patient’s response, with particular attention to diminution of established urine flow rate, increasing tachycardia or development of new dysrhythmias as indices for decreasing or temporarily suspending the dosage. As with all potent intravenously administered drugs, care should be taken to control the rate of administration so as to avoid inadvertent administration of a bolus of drug. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not use Dopamine Hydrochloride and 5% Dextrose Injection, USP if darker than slightly yellow or discolored in any other way. All injections in VIAFLEX Plus plastic containers are intended for intravenous administration using sterile equipment. Drug additives should not be made to Dopamine Hydrochloride and 5% Dextrose Injection, USP. Pediatric Dosing and Administration In publications, the most common starting doses were 1-5 micrograms/kilograms/minute. Particularly in neonates, such low doses require considerable dilution of this product; careful consideration should be given to the use of this product in such circumstances. Dosing increments that were reported ranged from 2.5 to 5.0 micrograms/kilogram/minute. Usual maximum doses were 15-20 micrograms/kilogram/minute, with occasional use as great as 50 micrograms/kilogram/minute. The time course of dopamine kinetics is poorly defined. Increasing infusion rates (or dose) should be approached cautiously and only after it is apparent that hemodynamics (mainly systolic blood pressure) have stabilized with respect to the current dose and/or rate of infusion. There have been occasional reports of vasospastic events when dopamine was infused through umbilical vessels. Due caution should be exercised if infusion of dopamine through umbilical vessels becomes necessary."
   ],
-  "other_safety_information": [
-   "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  "how_supplied": [
+   "HOW SUPPLIED Size (mL) mcg/mL NDC 250 1600 84549-007-02 Exposure of pharmaceutical products to heat should be minimized. Avoid excessive heat. Protect from freezing. It is recommended the product be stored at room temperature (25°C); brief exposure up to 40°C does not adversely affect the product. Avoid contact with alkalies (including sodium bicarbonate), oxidizing agents or iron salts. NOTE - Do not use the injection if it is darker than slightly yellow or discolored in any other way."
   ],
-  "inactive_ingredient": [
-   "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  "how_supplied_table": [
+   "<table width=\"100%\"><colgroup><col width=\"26%\"/><col width=\"22%\"/><col width=\"20%\"/><col width=\"32%\"/></colgroup><tbody><tr><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph/></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Size (mL)</content></paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">mcg/mL</content></paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph></td></tr><tr><td align=\"center\" valign=\"top\"><paragraph/></td><td align=\"center\" valign=\"top\"/><td align=\"center\" valign=\"top\"/><td align=\"center\" valign=\"top\"/></tr><tr><td align=\"center\" valign=\"top\"><paragraph/></td><td align=\"center\" valign=\"top\"><paragraph>250</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>1600</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>84549-007-02</paragraph></td></tr><tr><td align=\"center\" valign=\"top\"><paragraph/></td><td align=\"center\" valign=\"top\"/><td align=\"center\" valign=\"top\"/><td align=\"center\" valign=\"top\"/></tr></tbody></table>"
   ],
-  "set_id": "2a69474e-1ba5-43a1-b78e-66159db36e11",
-  "id": "55862a7a-e52f-4d82-b78b-12d7b458f6ce",
-  "effective_time": "20260108",
+  "set_id": "3ef116db-fb26-1e66-e063-6294a90a0610",
+  "id": "463de4ca-e6b5-8c9a-e063-6394a90a70cd",
+  "effective_time": "20251218",
   "version": "2"
  }
 }

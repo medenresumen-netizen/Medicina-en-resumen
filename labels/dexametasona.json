@@ -1,737 +1,778 @@
 {
  "id_es": "dexametasona",
- "generic_en": "dexamethasone",
- "search": "openfda.generic_name.exact:\"DEXAMETHASONE\"",
- "downloaded": "2026-11-11T06:43Z",
+ "generic_en": "dexamethasone sodium phosphate",
+ "search": "openfda.generic_name.exact:\"DEXAMETHASONE SODIUM PHOSPHATE\"",
+ "pref": "dexamethasone sodium phosphate|INTRAVENOUS|",
+ "downloaded": "2026-11-11T06:52Z",
  "chosen": {
-  "set_id": "6b9cf32c-6d60-4853-bbfd-2304ffc2c129",
-  "id": "d3488fd8-88b2-4f73-9fa4-fbcf14ddd972",
-  "effective_time": "20260109",
-  "version": "4",
+  "set_id": "43045630-8bf8-59ae-e063-6294a90a2ebe",
+  "id": "43045630-8bf9-59ae-e063-6294a90a2ebe",
+  "effective_time": "20251107",
+  "version": "1",
   "brand_name": [
-   "Hemady"
+   "DMT SUIK"
   ],
   "generic_name": [
-   "DEXAMETHASONE"
+   "DEXAMETHASONE SODIUM PHOSPHATE"
   ],
   "manufacturer_name": [
-   "Edenbridge Pharmaceuticals LLC."
+   "Advanced Rx of Tennessee, LLC"
   ],
   "route": [
-   "ORAL"
+   "INTRAMUSCULAR",
+   "INTRAVENOUS"
   ],
   "product_type": [
    "HUMAN PRESCRIPTION DRUG"
   ],
-  "application_number": [
-   "NDA211379"
-  ],
-  "n_sections": 29
+  "application_number": [],
+  "n_sections": 18
  },
  "candidates": [
   {
-   "set_id": "a5609df4-4933-4f85-a7b8-bc54a70a2bac",
-   "id": "5f7a6c09-c4c7-86c1-e063-6294a90abc0b",
-   "effective_time": "20261104",
-   "version": "3",
+   "set_id": "69a2388c-94e6-4039-9b9a-224507edfa47",
+   "id": "5f9cc43d-b213-f86a-e063-6394a90ab9bb",
+   "effective_time": "20261106",
+   "version": "8",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA216282"
-   ],
-   "n_sections": 22
-  },
-  {
-   "set_id": "a8d6792e-757e-4dc6-adf5-0d9211075428",
-   "id": "5f7aec51-8ae9-37bc-e063-6394a90ae992",
-   "effective_time": "20261104",
-   "version": "5",
-   "brand_name": [
-    "DEXAMETHASONE"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218372"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "f5c9b70b-b835-4f3b-9643-0aec50a0d3f2",
-   "id": "5f4b1082-5f1b-fdc3-e063-6394a90a2eb5",
-   "effective_time": "20261102",
-   "version": "16",
-   "brand_name": [
-    "Dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
     "REMEDYREPACK INC."
    ],
    "route": [
-    "ORAL"
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA084612"
+    "ANDA040803"
    ],
-   "n_sections": 24
+   "n_sections": 18
   },
   {
-   "set_id": "62b1cf42-c53a-40fa-a39c-fa5d90dc065a",
-   "id": "5e74cf2f-68fd-99a7-e063-6294a90aff71",
-   "effective_time": "20261022",
+   "set_id": "d9b935d5-1b4f-4a08-8d40-57f397368fef",
+   "id": "95bd48e5-5ee2-4981-8592-5a688a7d79a5",
+   "effective_time": "20261028",
+   "version": "3",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA084282"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "d54a27f2-2af8-4f86-a7fd-453f6b1a9997",
+   "id": "31df8bb0-2e13-4d3f-813f-98fbba1b8b04",
+   "effective_time": "20261027",
    "version": "4",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
+    "Civica, Inc."
    ],
    "route": [
-    "ORAL"
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA216282"
+    "ANDA084282"
    ],
-   "n_sections": 22
+   "n_sections": 16
   },
   {
-   "set_id": "f0429637-66dc-4cd9-9025-36a44a9fcebb",
-   "id": "1bb24afe-c4eb-40c8-a8f0-cd3f84c43f4d",
-   "effective_time": "20261012",
-   "version": "1",
-   "brand_name": [
-    "Dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA216282"
-   ],
-   "n_sections": 22
-  },
-  {
-   "set_id": "f5cd3575-d768-473c-b2c3-ba3ab31f6021",
-   "id": "0fb42391-9f29-4d8d-bcf0-b7a356a1199f",
-   "effective_time": "20260928",
-   "version": "1",
-   "brand_name": [
-    "Dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA216282"
-   ],
-   "n_sections": 22
-  },
-  {
-   "set_id": "8c5375a7-7a0d-4af0-8b86-bc87698ac3d1",
-   "id": "5aa9f032-7fef-7eae-e063-6294a90abd6b",
-   "effective_time": "20260904",
+   "set_id": "11f10a47-1c42-40e4-89d8-bb000fef497c",
+   "id": "5b0d63e4-763a-0346-e063-6394a90a0e74",
+   "effective_time": "20260909",
    "version": "3",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
     "REMEDYREPACK INC."
    ],
    "route": [
-    "ORAL"
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA215604"
+    "ANDA215654"
    ],
-   "n_sections": 25
+   "n_sections": 15
   },
   {
-   "set_id": "a37486b9-4323-41fc-ac7e-869d95dc9568",
-   "id": "56c7d5fc-9bba-2b33-e063-6394a90a4c1c",
-   "effective_time": "20260717",
+   "set_id": "9822a5c3-d3f1-4e0b-9963-32b22740e10e",
+   "id": "5a564653-408d-0b7f-e063-6294a90a1898",
+   "effective_time": "20260831",
    "version": "1",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
     "Sportpharm LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA217001"
+    "ANDA084916"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "c6f2563b-5a39-48bf-bcfe-71dd417bd970",
+   "id": "59edca15-21cd-df4f-e063-6394a90a36db",
+   "effective_time": "20260826",
+   "version": "4",
+   "brand_name": [
+    "Dexamethasone sodium phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217797"
+   ],
+   "n_sections": 13
+  },
+  {
+   "set_id": "a31b013f-924c-42f8-b8ab-ce60bb8ad7b8",
+   "id": "586e4a74-a962-533c-e063-6294a90a3d8e",
+   "effective_time": "20260807",
+   "version": "1",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "ASCLEMED USA INC."
+   ],
+   "route": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA084282"
    ],
    "n_sections": 16
   },
   {
-   "set_id": "a41e6e26-9ebb-4b06-866e-a24af21c644c",
-   "id": "55650684-ad57-08dc-e063-6394a90a25bf",
-   "effective_time": "20260629",
+   "set_id": "4680d517-ed5a-4137-819c-122ee962a464",
+   "id": "d68d6aab-10d8-4333-9fe8-a0386f8caa07",
+   "effective_time": "20260806",
+   "version": "2",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215654"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "a8aee11f-c928-41ef-8df8-e6d8b355536c",
+   "id": "563b20bd-9015-3146-e063-6294a90a0fd1",
+   "effective_time": "20260710",
    "version": "1",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "Pangea Pharmaceuticals, LLC"
+    "Sportpharm LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "SOFT TISSUE"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA088149"
+    "ANDA040802",
+    "ANDA040803"
    ],
-   "n_sections": 22
+   "n_sections": 19
   },
   {
-   "set_id": "736861fa-1df8-4afd-ba4a-dd7d7bffd865",
-   "id": "54131e97-8fba-e27c-e063-6394a90a0c4e",
-   "effective_time": "20260612",
-   "version": "19",
+   "set_id": "7cbd9005-7df2-47ee-adb3-7244c1c69bc3",
+   "id": "756dda45-ea6d-4c90-a14a-18a78bf186a6",
+   "effective_time": "20260630",
+   "version": "7",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
+    "Fresenius Kabi USA, LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA084613"
+    "ANDA040491"
    ],
-   "n_sections": 24
+   "n_sections": 15
   },
   {
-   "set_id": "89e1d458-7caa-430f-9c54-360889899a73",
-   "id": "5412c256-2623-f56f-e063-6294a90a2eeb",
-   "effective_time": "20260612",
-   "version": "26",
+   "set_id": "cca2c160-9188-48e8-9505-49a52388dcb7",
+   "id": "2ce90eb7-067d-4f1c-9184-c250e387e533",
+   "effective_time": "20260630",
+   "version": "12",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
+    "Fresenius Kabi USA, LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA084612"
+    "ANDA040491",
+    "ANDA040572"
    ],
-   "n_sections": 24
+   "n_sections": 15
   },
   {
-   "set_id": "79b65fd4-16a5-42e0-b041-61d7bda0a5ff",
-   "id": "79b65fd4-16a5-42e0-b041-61d7bda0a5ff",
+   "set_id": "2b626a48-c7aa-4443-9164-a08ff069ccd1",
+   "id": "1815f54a-5637-45bc-a582-3e62350935ba",
    "effective_time": "20260608",
-   "version": "1",
+   "version": "7",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "Preferred Pharmaceuticals Inc"
+    "Fresenius Kabi USA, LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA216282"
+    "ANDA084916"
    ],
-   "n_sections": 22
+   "n_sections": 18
   },
   {
-   "set_id": "8deaaaf7-3efd-4065-b29f-e5ef038030f8",
-   "id": "5332f5c8-daa0-b7e5-e063-6394a90acea1",
-   "effective_time": "20260601",
-   "version": "1",
+   "set_id": "6d3cbd54-93ef-40fe-b15a-7a4f52dc5f71",
+   "id": "875b556f-5bb6-4265-9167-4b022d6e2c42",
+   "effective_time": "20260529",
+   "version": "13",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA216282"
-   ],
-   "n_sections": 22
-  },
-  {
-   "set_id": "bf8acfdb-8dc8-4a69-90b0-33c680c421d6",
-   "id": "2851f8b5-3a10-44ea-90f4-2a2b8f3b3ae9",
-   "effective_time": "20260515",
-   "version": "15",
-   "brand_name": [
-    "Dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
     "Cardinal Health 107, LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA084612",
-    "ANDA087916"
+    "ANDA084916"
    ],
-   "n_sections": 24
+   "n_sections": 18
   },
   {
-   "set_id": "5622f8d2-1893-441b-8011-fa90c8a63b0b",
-   "id": "50a6b52b-5ad5-4482-8606-8741a28271cb",
-   "effective_time": "20260505",
-   "version": "5",
-   "brand_name": [
-    "dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Cardinal Health 107, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215106"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "12d19271-867b-41ae-a6d2-7e8de3637011",
-   "id": "50316b9f-7ec6-f56e-e063-6294a90a6a75",
+   "set_id": "6c7ff5f7-5688-4fc4-9194-9e6b8e6fab59",
+   "id": "5031642e-f28c-9c2c-e063-6394a90a743c",
    "effective_time": "20260424",
    "version": "2",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
     "Sportpharm LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA217695"
+    "ANDA040491"
    ],
-   "n_sections": 23
+   "n_sections": 15
   },
   {
-   "set_id": "37607468-0331-44c0-9bb4-5c614c7b69d4",
-   "id": "4fcc51f0-654d-a3a8-e063-6394a90aac9a",
-   "effective_time": "20260419",
-   "version": "1",
+   "set_id": "7a7ee007-cd02-4f3f-8f0f-82c4964da6e6",
+   "id": "b5a01009-7c59-4f36-9803-aa50d4ca56db",
+   "effective_time": "20260421",
+   "version": "14",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "Pangea Pharmaceuticals, LLC"
+    "Cardinal Health 107, LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA088149"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "4c619d48-8cf9-4085-8405-c8f066bce19c",
-   "id": "0af63cdb-85ed-4dda-86ec-9ac2fa29e989",
-   "effective_time": "20260401",
-   "version": "5",
-   "brand_name": [
-    "dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Preferred Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215106"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "c4d1e578-a1d2-4d5e-8426-6b2c39f0d9bd",
-   "id": "d8f358ac-c667-4a0a-b2d9-e8146c7e26a1",
-   "effective_time": "20260401",
-   "version": "4",
-   "brand_name": [
-    "Dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Preferred Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215604"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "64b46398-9b97-45e8-b1ba-1a202d574448",
-   "id": "1c4b00a6-64d3-47f1-a206-b84aa969fd37",
-   "effective_time": "20260326",
-   "version": "5",
-   "brand_name": [
-    "dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Major Pharmaceuticals"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215106"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "4b204f44-6e8a-4d17-803c-268f0b04679f",
-   "id": "007c310d-2cfe-4c54-a27e-693e0d7fa78a",
-   "effective_time": "20260311",
-   "version": "38",
-   "brand_name": [
-    "OZURDEX"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Allergan, Inc."
-   ],
-   "route": [
-    "INTRAVITREAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA022315"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "4a808dd5-35b7-e879-e063-6394a90a0bf7",
-   "id": "4a80a439-0744-c62f-e063-6394a90a7834",
-   "effective_time": "20260210",
-   "version": "1",
-   "brand_name": [
-    "DEXAMETHASONE"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "NuCare Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218372"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "0a0db8e7-8474-3d08-e063-6294a90af3f5",
-   "id": "4a2b20b5-96c9-0373-e063-6294a90a7e5e",
-   "effective_time": "20260206",
-   "version": "3",
-   "brand_name": [
-    "Dexamethasone"
-   ],
-   "generic_name": [
-    "DEXAMETHASONE"
-   ],
-   "manufacturer_name": [
-    "Direct_Rx"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA217696"
+    "ANDA087702"
    ],
    "n_sections": 16
   },
   {
-   "set_id": "e830be9d-0a8c-4712-93c6-284c208d6f0d",
-   "id": "015805cd-1e17-4e86-9a37-668597065f48",
-   "effective_time": "20260205",
-   "version": "1",
+   "set_id": "1596a3b4-8c2c-41b4-b1eb-af09863eaa13",
+   "id": "4f811eeb-ebb6-8d2c-e063-6394a90a69f6",
+   "effective_time": "20260415",
+   "version": "6",
    "brand_name": [
-    "Dexamethasone"
+    "Dexamethasone Sodium Phosphate"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "REMEDYREPACK INC."
    ],
    "route": [
-    "ORAL"
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA216282"
+    "ANDA084282"
    ],
-   "n_sections": 22
+   "n_sections": 15
   },
   {
-   "set_id": "b3217057-5945-452c-aa99-ab696fd8b5e7",
-   "id": "320ac974-e60b-475f-afc7-9a52746e45c6",
-   "effective_time": "20260204",
-   "version": "1",
+   "set_id": "946f3c1d-0362-d602-e053-2995a90a3d9a",
+   "id": "4db6be97-1466-5820-e063-6394a90a92b0",
+   "effective_time": "20260323",
+   "version": "5",
    "brand_name": [
-    "Dexamethasone"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "generic_name": [
-    "DEXAMETHASONE"
+    "DEXAMETHASONE SODIUM PHOSPHATE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "HF Acquisition Co LLC, DBA HealthFirst"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA217695"
+    "ANDA040572"
    ],
-   "n_sections": 23
+   "n_sections": 17
+  },
+  {
+   "set_id": "56bdd2f3-ae94-4fd9-9d05-5b53263a09c1",
+   "id": "4d6e12c9-4c79-c7fb-e063-6394a90af467",
+   "effective_time": "20260320",
+   "version": "1",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040491"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "6ea9e6ab-0d33-4635-9e98-aa2fbd8921cc",
+   "id": "4d29f325-93bd-9570-e063-6394a90a1a19",
+   "effective_time": "20260316",
+   "version": "15",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087702"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "fe464a39-7820-435c-9385-a4a96d8a38c8",
+   "id": "f2187a01-5e06-4127-992e-9e88d780803d",
+   "effective_time": "20260224",
+   "version": "14",
+   "brand_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206781"
+   ],
+   "n_sections": 13
+  },
+  {
+   "set_id": "0e4f0f22-e6a1-4725-addb-0cc91bed07e9",
+   "id": "cc9ea766-535d-4f18-8445-25282e218787",
+   "effective_time": "20260202",
+   "version": "12",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087702"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "0277cc0a-2fd4-4605-a310-b613be84ee26",
+   "id": "02bf3273-f0c8-448c-9f74-eb009fee9299",
+   "effective_time": "20260122",
+   "version": "21",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087702",
+    "ANDA084282"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "6ded4eac-3f86-4cf8-a05f-3e9c52984d6c",
+   "id": "35e2db12-e807-4a98-a23c-a76c7e4fb296",
+   "effective_time": "20260102",
+   "version": "6",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040802"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "c464ffde-f64e-4716-92d2-720a10793248",
+   "id": "224e880f-7c59-4576-b113-3fafde2b6602",
+   "effective_time": "20260102",
+   "version": "3",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040803"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "ce25183b-cd67-4997-8de9-df59b750883b",
+   "id": "9af24370-ee9f-4005-b1e9-96eef58fbde5",
+   "effective_time": "20251224",
+   "version": "3",
+   "brand_name": [
+    "Dexamethasone Sodium Phosphate"
+   ],
+   "generic_name": [
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRA-ARTICULAR",
+    "INTRALESIONAL",
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SOFT TISSUE"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203129"
+   ],
+   "n_sections": 15
   }
  ],
  "label": {
-  "recent_major_changes": [
-   "Warnings and Precautions, Immunosuppression and Increased Risk of Infection ( 5.2 ) 6/2024 Warnings and Precautions, Kaposi’s Sarcoma ( 5.11 ) 6/2024"
-  ],
-  "indications_and_usage": [
-   "1 INDICATIONS AND USAGE HEMADY is indicated in combination with other anti-myeloma products for the treatment of adults with multiple myeloma (MM). HEMADY is a corticosteroid indicated in combination with other anti-myeloma products for the treatment of adults with multiple myeloma. (‎ 1 )"
-  ],
-  "dosage_and_administration": [
-   "2 DOSAGE AND ADMINISTRATION Recommended Dosage: 20 mg or 40 mg orally once daily, on specific days depending on the protocol regimen. ( ‎2 ) 2.1 Recommended Dosage The recommended dosage of HEMADY is 20 mg or 40 mg, orally, once daily, on specific days depending on the treatment regimen. Refer to the Prescribing Information of the other anti-myeloma products used in combination with HEMADY for specific HEMADY dosing. HEMADY can be administered with or without food. 2.2 Dose Modification for Elderly Patients Dose-reduction for HEMADY is recommended for elderly patients, due to increased toxicity in these patients. Refer to the Prescribing Information of the other anti-myeloma products used as part of a combination regimen with HEMADY, for dosing recommendations in elderly patients."
-  ],
-  "dosage_forms_and_strengths": [
-   "3 DOSAGE FORMS AND STRENGTHS Tablets: 20 mg white, round, biconvex tablet embossed with “20” on one side. Tablets: 20 mg ( ‎3 )"
-  ],
-  "contraindications": [
-   "4 CONTRAINDICATIONS HEMADY is contraindicated in patients with: Hypersensitivity to dexamethasone, or any of the excipients. Rare instances of anaphylactic reactions have been reported [see Adverse Reactions (‎ 6 ), Description ( ‎11 )] . Systemic fungal infections. Corticosteroids may exacerbate systemic fungal infections [see Warnings and Precautions (‎ 5.2 )] . • Patients with hypersensitivity to dexamethasone (‎ 4 ) • Patients with systemic fungal infections (‎ 4 )"
-  ],
-  "warnings_and_cautions": [
-   "5 WARNINGS AND PRECAUTIONS • Alterations in Endocrine Function: Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing’s syndrome, and hyperglycemia can occur. Monitor patients for these conditions with chronic use. ( ‎5.1 ) • Immunosuppression and Increased Risk of Infections: Increased risk of new, exacerbation, dissemination, or reactivation of latent infections. (‎ 5.2 ) • Alteration in Cardiovascular/Renal Function: Monitor for elevated blood pressure and sodium, and for decreased potassium levels. (‎ 5.3 ) • Venous and Arterial Thromboembolism: Risk increased; consider anticoagulant prophylaxis and monitor for evidence of thromboembolism. (‎ 5.4 ) • Vaccination: Avoid the administration of live or live attenuated vaccines in patients receiving immunosuppressive doses of corticosteroids. ( ‎5.5 ) • Ophthalmic Effects: May include cataracts, infections, and glaucoma. (‎ 5.6 ) • Gastrointestinal Perforation: Avoid use in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation. (‎ 5.7 ) • Osteoporosis: Increased risk; monitor for changes in bone density with chronic use. (‎ 5.8 ) • Behavioral and Mood Disturbances: May include euphoria, insomnia, mood swings, personality changes, severe depression, and psychosis. Monitor for signs and symptoms and manage promptly. ( ‎5.10 ) • Kaposi’s Sarcoma: Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions. (‎ 5.11 ) • Embryo-Fetal Toxicity: Can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus. (‎ 5.13 , ‎8.1 ) 5.1 Alterations in Endocrine Function Corticosteroids, such as HEMADY, can cause serious and life-threatening alterations in endocrine function, especially with chronic use. Monitor patients receiving HEMADY for adrenal insufficiency after corticosteroid withdrawal and Cushing’s syndrome and hyperglycemia while receiving corticosteroids. In addition, patients with hypopituitarism, primary adrenal insufficiency, or congenital adrenal hyperplasia, altered thyroid function, or pheochromocytoma may be at risk for adverse endocrine events. Risk of Adrenal Insufficiency Following Corticosteroid Withdrawal Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression, with the potential for the development of secondary adrenal insufficiency after withdrawal of corticosteroid treatment. Acute adrenal insufficiency can occur if glucocorticoids are withdrawn abruptly and can be fatal. The degree and duration of adrenocortical insufficiently produced is variable among patients and depends on the dose, frequency, and duration of glucocorticoid therapy. The risk may be reduced by gradually tapering the corticosteroid dose when withdrawing treatment. This insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, corticosteroid therapy should be reinstituted. For patients already taking corticosteroids during times of stress, the dosage may have to be increased. A steroid “withdrawal syndrome”, seemingly unrelated to adrenocortical insufficiency, may also occur following abrupt discontinuance of corticosteroids. This syndrome includes symptoms such as: anorexia, nausea, vomiting, lethargy, headache, fever, joint pain, desquamation, myalgia, and/or weight loss. These effects are thought to be due to the sudden change in glucocorticoid concentration rather than to low corticosteroid levels. Cushing’s Syndrome Cushing’s syndrome (hypercortisolism) may occur with prolonged exposure to exogenous corticosteroids, including HEMADY. Symptoms include hypertension, truncal obesity and thinning of the limbs, purple striae, facial rounding, facial plethora, muscle weakness, easy and frequent bruising with thin fragile skin, posterior neck fat deposition, osteopenia, acne, amenorrhea, hirsutism and psychiatric abnormalities. Using the lowest dose of corticosteroid for the shortest duration possible may reduce the risk. Hyperglycemia Corticosteroids can increase blood glucose, worsen pre-existing diabetes, and predispose those on long-term therapy to diabetes mellitus, and may reduce the effect of the antidiabetic drugs. Monitor blood glucose at regular intervals. For patients with hyperglycemia, anti-diabetic treatment should be initiated or adjusted accordingly. Considerations for Use in Patients with Altered Thyroid Function Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients. Changes in thyroid status of the patient may necessitate a dose adjustment of the corticosteroid. When concomitant administration of corticosteroids and levothyroxine is required, administration of corticosteroid should precede the initiation of levothyroxine therapy to avoid adrenal crisis. Pheochromocytoma Crisis There have been reports of pheochromocytoma crisis, which can be fatal, after administration of systemic corticosteroids. In patients with suspected or identified pheochromocytoma, consider the risk of pheochromocytoma crisis prior to administering HEMADY. 5.2 Immunosuppression and Increased Risk of Infection Corticosteroids, including HEMADY, suppress the immune system and increase the risk of infection with any pathogen, including viral, bacterial, fungal, protozoan, or helminthic pathogens. Corticosteroids can: Reduce resistance to new infections Exacerbate existing infections Increase the risk of disseminated infections Increase the risk of reactivation or exacerbation of latent infections Mask some signs of infection Corticosteroid-associated infections can be mild but can be severe and at times fatal. The rate of infectious complications increases with increasing corticosteroid dosages. Monitor for the development of infection and consider HEMADY withdrawal or dosage reduction as needed. Tuberculosis If HEMADY is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, reactivation of tuberculosis may occur. Closely monitor such patients for reactivation. During prolonged HEMADY therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis. Varicella Zoster and Measles Viral Infections Varicella and measles can have a serious or even fatal course in non-immune pediatric and adult patients taking corticosteroids, including HEMADY. In corticosteroid-treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles: If a HEMADY-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin may be indicated. If varicella develops, treatment with antiviral agents may be considered. If a HEMADY-treated patient is exposed to measles, prophylaxis with immunoglobulin may be indicated. Hepatitis B Virus Reactivation Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including HEMADY. Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection. Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with HEMADY. For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy. Fungal Infections Corticosteroids, including HEMADY, may exacerbate systemic fungal infections; therefore, avoid HEMADY use in the presence of such infections unless HEMADY is needed to control drug reactions. For patients on chronic HEMADY therapy who develop systemic fungal infections, HEMADY withdrawal or dosage reduction is recommended. Amebiasis Corticosteroids, including HEMADY, may activate latent amebiasis. Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating HEMADY in patients who have spent time in the tropics or patients with unexplained diarrhea. Strongyloides Infestation Corticosteroids, including HEMADY, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation. In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia. Cerebral Malaria Avoid corticosteroids, including HEMADY, in patients with cerebral malaria. 5.3 Alterations in Cardiovascular/Renal Function Corticosteroids, including HEMADY, can cause elevation of blood pressure, salt, and water retention, and increased excretion of potassium and calcium. Monitor blood pressure and assess for signs and symptoms of volume overload. Monitor serum potassium levels. Dietary salt restriction and potassium supplementation may be necessary. HEMADY should be used with caution in patients with congestive heart failure. Literature reports suggest an association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with HEMADY should be used with great caution in these patients. 5.4 Venous and Arterial Thromboembolism Thromboembolism is a known adverse reaction of dexamethasone, including HEMADY. The risk for venous and arterial thromboembolism increases significantly when dexamethasone is administered with anti-myeloma products (e.g., thalidomide, lenalidomide, pomalidomide, and carfilzomib). Refer to the Prescribing Information of these anti-myeloma products for information about the risk of venous and arterial thromboembolism. Consider thromboprophylaxis based on an assessment of individual patients’ underlying risk factors and the anti-myeloma drugs. Agents that also may increase the risk of thromboembolism should be used with caution in patients with multiple myeloma receiving combination regimens of HEMADY and anti-myeloma products. 5.5 Vaccination Avoid administration of live or live attenuated vaccines in patients receiving immunosuppressive doses of corticosteroids for the treatment of multiple myeloma. Killed or inactivated vaccines may be administered. However, the response to such vaccines cannot be predicted. 5.6 Ophthalmic Effects Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses. Consider referral to an ophthalmologist for patients who develop ocular symptoms or use corticosteroid-containing products for more than 6 weeks. The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes. Corticosteroids should not be used in patients with active ocular herpes simplex. Intraocular pressure may become elevated in some individuals. If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored. 5.7 Gastrointestinal Perforation There is an increased risk of gastrointestinal perforation during corticosteroid use in patients with certain gastrointestinal disorders such as active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis. Signs of gastrointestinal perforation, such as peritoneal irritation, may be masked in patients receiving corticosteroids. Avoid corticosteroids if there is a possibility of impending perforation, abscess, or other pyrogenic infections; diverticulitis; fresh intestinal anastomoses; or active or latent peptic ulcer. 5.8 Osteoporosis Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function. This, together with a decrease in the protein matrix of the bone, secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age. Special consideration should be given to patients at increased risk of osteoporosis (e.g., postmenopausal women) before initiating HEMADY therapy. 5.9 Myopathy An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium). This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis. Elevation of creatine kinase may occur. Clinical improvement or recovery after stopping corticosteroids may require weeks to years. 5.10 Behavioral and Mood Disturbances Potentially severe psychiatric adverse reactions may occur with systemic corticosteroids, including HEMADY. Symptoms typically emerge within a few days or weeks of starting treatment and may be dose-related. These reactions may improve after either dose reduction or withdrawal, although pharmacologic treatment may be necessary. Psychiatric adverse reactions usually involve hypomanic or manic symptoms (e.g., euphoria, insomnia, mood swings) during treatment and depressive episodes after discontinuation of treatment. Inform patients and caregivers of the potential for behavioral and mood changes and encourage them to seek medical attention if psychiatric symptoms develop, especially if depressed mood or suicidal ideation is suspected. 5.11 Kaposi's Sarcoma Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions. Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma. 5.12 HEMADY in Combination with Anti-Myeloma Products HEMADY is administered in combination regimens with anti-myeloma products; please refer to the Prescribing Information of these products for additional information. 5.13 Embryo-Fetal Toxicity Based on findings from clinical and animal reproduction studies, corticosteroids, including HEMADY, can cause fetal harm when administered to a pregnant woman. Dexamethasone administration to pregnant women has resulted in adverse effects on fetal growth, skeletal development/osteogenesis and low birth weight with prolonged use. Dexamethasone administration to pregnant animals during organogenesis resulted in structural abnormalities, embryo-fetal mortality, functional impairment, and alterations to growth at doses equivalent to or below the recommended doses. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with HEMADY and for at least one month after the last dose [see Use in Specific Populations (‎ 8.1 , ‎ 8.3 )] ."
-  ],
-  "adverse_reactions": [
-   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described in detail in other labeling sections: Hypersensitivity [see Contraindications ( ‎4 )] Alterations in Endocrine Function [see Warnings and Precautions ( ‎5.1 )] Immunosuppression and Increased Risk of Infections [see Warnings and Precautions (‎ 5.2 ) ] Alterations in Cardiovascular/Renal Function [see Warnings and Precautions (‎ 5.3 )] Venous and Arterial Thromboembolism [see Warnings and Precautions (‎ 5.4 )] Vaccination [see Warnings and Precautions (‎ 5.5 )] Ophthalmic Effects [see Warnings and Precautions (‎ 5.6 )] Gastrointestinal Perforation [see Warnings and Precautions (‎ 5.7 )] Osteoporosis [see Warnings and Precautions (‎ 5.8 )] Myopathy [see Warnings and Precautions ( ‎5.9 )] Behavioral and Mood Disturbances [see Warnings and Precautions ( ‎5.10 )] Kaposi's Sarcoma [see Warnings and Precautions ( ‎5.11 )] HEMADY in Combination with Anti-Myeloma Products [see Warnings and Precautions ( ‎5.12 )] Embryo-Fetal Toxicity [see Warnings and Precautions (‎ 5.13 )] The following adverse reactions associated with the use of HEMADY or other corticosteroids were identified in clinical trials or postmarketing reports. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure. Allergic reactions: Allergic or hypersensitivity reaction, anaphylaxis, angioedema. Blood and Lymphatic System Disorders: Leukocytosis. Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, edema, pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis. Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scaly skin, ecchymoses and petechiae, edema, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increased sweating, sterile abscess, rash, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria. Endocrine: Decreased carbohydrate and glucose tolerance, development of cushingoid state, hyperglycemia, glycosuria, hirsutism, hypertrichosis, increased requirements for insulin or oral hypoglycemic agents in diabetes, manifestations of latent diabetes mellitus, menstrual irregularities, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery, or illness), suppression of growth in pediatric patients. Fluid and electrolyte disturbances: Fluid retention, hypokalemic alkalosis, potassium loss, sodium retention, increased urinary excretion of calcium, tumor lysis syndrome. Gastrointestinal: Abdominal distention, elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis. Infection: Decreased resistance to infection, injection site infections following non-sterile administration. Metabolic: Negative nitrogen balance due to protein catabolism. Musculoskeletal: Osteonecrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, steroid myopathy, tendon rupture, vertebral compression fractures. Neurological: Convulsions, epidural lipomatosis, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, neuritis, neuropathy, paresthesia, vertigo. Ophthalmic: Central serous chorioretinopathy, exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, vision blurred. Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, malaise, moon face, weight gain. Psychiatric: Depression, emotional instability, euphoria, insomnia, mood swings, personality changes, psychosis. Reproductive: Alteration in motility and number of spermatozoa. The most common adverse reactions are cardiovascular, dermatologic, endocrine, fluid and electrolyte disturbances, gastrointestinal, metabolic, musculoskeletal, neurological/psychiatric, ophthalmic, abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, malaise, moon face, and weight gain. (‎ 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Edenbridge Pharmaceuticals, LLC, at 877-381-3336 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
-  ],
-  "drug_interactions": [
-   "7 DRUG INTERACTIONS • Avoid concomitant use of strong CYP3A4 inhibitors or inducers. (‎ 7.1 ) • Concomitant therapies such as erythropoietin stimulating agents or estrogen containing therapies may have an increased risk of thromboembolism. ( ‎7.2 ) 7.1 Effect of Other Drugs on HEMADY Strong CYP3A4 inhibitors Coadministration of strong and moderate CYP3A4 inhibitors increased dexamethasone exposure [see Clinical Pharmacology (‎ 12.3 )] , which may increase the risk of adverse reactions [see Warnings and Precautions (‎ 5 ) and Adverse Reactions (‎ 6 )] . Avoid coadministration of strong CYP3A4 inhibitors or consider alternative medication that are not strong CYP3A4 inhibitors. If concomitant use of strong CYP3A4 inhibitors cannot be avoided, closely monitor for adverse drug reactions. Strong CYP3A4 inducers Coadministration of strong CYP3A4 inducers may decrease dexamethasone exposure [see Clinical Pharmacology (‎ 12.3 )] , which may result in loss of efficacy. Avoid coadministration of strong CYP3A4 inducers or consider alternative medication that are not CYP3A4 inducers. If concomitant use strong CYP3A4 inducers cannot be avoided, consider increasing the dose of HEMADY. Cholestyramine Cholestyramine may increase the clearance of corticosteroids and potentially decrease corticosteroid exposure. Avoid coadministration of cholestyramine and HEMADY and consider alternative agents. Anticholinesterases Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis. If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy. Ephedrine Ephedrine may decrease dexamethasone exposure. Decreased exposure may result in loss of efficacy. Consider increasing the dose of HEMADY when used concomitantly with ephedrine. Estrogens, Including Oral Contraceptives Estrogens may decrease the hepatic metabolism of certain corticosteroids and increase exposures, which may increase the risk of adverse reactions [see Warnings and Precautions ( ‎5 ) and Adverse Reactions (‎ 6 )] . 7.2 Effect of HEMADY on Other Drugs CYP3A4 Substrates Coadministration of dexamethasone with drugs that are CYP3A4 substrates may decrease the concentration of these drugs. This may result in loss of efficacy of these drugs. Oral Anticoagulants Coadministration of anticoagulants with corticosteroids may reduce the response to anticoagulants [see Adverse Reactions (‎ 6 )] . Frequently monitor coagulation indices to maintain the desired anticoagulant effect when administered with HEMADY. Amphotericin B Injection and Potassium-Depleting Agents Sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids [see Warnings and Precautions ( ‎5.3 ), and Adverse Reactions (‎ 6 )] . Closely monitor potassium levels when potassium-depleting agents are coadministered with HEMADY. In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure. Antidiabetics Corticosteroids, including HEMADY, may increase blood glucose concentrations [see Warnings and Precautions (‎ 5.1 ) and Adverse Reactions (‎ 6 )] . Consider adjusting the dose of antidiabetic agents, as necessary, when coadministered with HEMADY. Isoniazid Serum concentrations of isoniazid may be decreased with corticosteroids. Cyclosporine Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently. Convulsions have been reported with this concurrent use. Digitalis Glycosides Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia [ see Warnings and Precautions (‎ 5.3 ) and Adverse Reactions (‎ 6 )] . Nonsteroidal Anti-Inflammatory Agents (NSAIDS) Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects [see Warnings and Precautions (‎ 5.7 ) and Adverse Reactions (‎ 6 )] . The clearance of salicylates may be increased with concurrent use of corticosteroids. Monitor for toxicity when aspirin is used in conjunction with HEMADY in hypoprothrombinemia. Phenytoin In post-marketing experience, there have been reports of both increases and decreases in phenytoin levels with dexamethasone coadministration, leading to alterations in seizure control. Vaccines Patients on corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response. Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines. If possible, defer routine administration of vaccines or toxoids until HEMADY therapy is discontinued [see Warnings and Precautions (‎ 5.5 )] . Concomitant Therapies that May Increase the Risk of Thromboembolism Erythropoietic agents, or other agents that may increase the risk of thromboembolism, such as estrogen containing therapies, coadministered with HEMADY may increase the risk of thromboembolism. Monitor for risk of thromboembolism in patients with MM receiving anti-myeloma products with HEMADY [see Warnings and Precautions (‎ 5.4 )] . Thalidomide Toxic epidermal necrolysis has been reported with concomitant use of thalidomide. Closely monitor for toxicity when thalidomide is coadministered with HEMADY. 7.3 Laboratory Test Interference Skin Tests Corticosteroids may suppress reactions to skin tests."
-  ],
-  "use_in_specific_populations": [
-   "8 USE IN SPECIFIC POPULATIONS Lactation: Advise not to breastfeed. (‎ 8.2 ) 8.1 Pregnancy Risk Summary Corticosteroids, including HEMADY, readily cross the placenta. Adverse developmental outcomes including orofacial clefts (cleft lip with or without cleft palate), intrauterine growth restriction, and decreased birth weight have been reported with maternal use of corticosteroids, including HEMADY, during pregnancy. In animal developmental and reproductive toxicology studies administration of corticosteroids to pregnant animals during organogenesis resulted in structural abnormalities, embryo-fetal mortality, functional impairment, and alterations to growth at doses equivalent to or below the recommended doses (see Data) . Advise pregnant women of the potential risk to a fetus. HEMADY is administered in combination with anti-myeloma products that can cause embryo-fetal harm and are contraindicated for use in pregnancy. Refer to the Prescribing Information of the other anti-myeloma products used in combination with HEMADY for additional information. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies. Data Human Data HEMADY should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Multiple courses of antenatal dexamethasone had been associated with reduced birth weight, susceptibility to infections, and increase blood glucose level in the newborns. Neonatal hypoglycemia was also reported. Infants born to mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Animal Data In pregnant animals administered dexamethasone during organogenesis, doses equivalent to or below the recommended human dose have caused adverse developmental outcomes including structural abnormalities (cleft palate), alterations to growth (growth restrictions including reduced bone lengths and fetal weights), functional impairment (neurodevelopmental and metabolic effects), and embryo-fetal mortality (reduced number of embryonic implantations and fewer live fetuses). 8.2 Lactation Risk Summary Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects. Advise women not to breastfeed during treatment and for 2 weeks after the last dose. 8.3 Females and Males of Reproductive Potential Pregnancy Testing Pregnancy testing is recommended for females of reproductive potential prior to initiating HEMADY [see Use in Specific Populations ( ‎8.1 )] . HEMADY is used in combination with other anti-myeloma products that require pregnancy testing in females of reproductive potential. Refer to the Prescribing Information for the products used in combination with HEMADY. Contraception Advise patients of reproductive potential to use effective contraception during treatment with HEMADY and for at least one month following the final dose of HEMADY. HEMADY is used in combination with other anti-myeloma products that require contraception in females and males of reproductive potential. Refer to the Prescribing Information for the products used in combination with HEMADY. Infertility Males Steroids may increase or decrease motility and number of spermatozoa in some patients. In animals, dexamethasone affects male spermatogenesis [see Nonclinical Toxicology (‎ 13.1 )] . 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.5 Geriatric Use No overall differences in safety or effectiveness were observed between elderly subjects and younger subjects, and other reported clinical experience with dexamethasone has not identified differences in responses between the elderly and younger patients. However, the incidence of corticosteroid-induced adverse reactions may be increased in geriatric patients and are dose-related. Osteoporosis is the most frequently encountered complication, which occurs at a higher incidence rate in corticosteroid-treated geriatric patients as compared to younger populations and in age-matched controls. Losses of bone mineral density appear to be greatest early on in the course of treatment and may recover over time after steroid withdrawal or use of lower doses. Higher doses increase the relative risk of both vertebral and nonvertebral fractures, even in the presence of higher bone density compared to patients with involution osteoporosis. Perform routine screening of geriatric patients, including regular assessments of bone mineral density and institution of fracture prevention strategies, along with regular review of the dose of and need for continued dexamethasone therapy [see Warnings and Precautions ( ‎5.8 )] . HEMADY is used in combination with other anti-myeloma products. Refer to the Prescribing Information of the other anti-myeloma products used as part of a combination regimen with HEMADY, for information on the use of those products in elderly patients."
-  ],
-  "pregnancy": [
-   "8.1 Pregnancy Risk Summary Corticosteroids, including HEMADY, readily cross the placenta. Adverse developmental outcomes including orofacial clefts (cleft lip with or without cleft palate), intrauterine growth restriction, and decreased birth weight have been reported with maternal use of corticosteroids, including HEMADY, during pregnancy. In animal developmental and reproductive toxicology studies administration of corticosteroids to pregnant animals during organogenesis resulted in structural abnormalities, embryo-fetal mortality, functional impairment, and alterations to growth at doses equivalent to or below the recommended doses (see Data) . Advise pregnant women of the potential risk to a fetus. HEMADY is administered in combination with anti-myeloma products that can cause embryo-fetal harm and are contraindicated for use in pregnancy. Refer to the Prescribing Information of the other anti-myeloma products used in combination with HEMADY for additional information. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies. Data Human Data HEMADY should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Multiple courses of antenatal dexamethasone had been associated with reduced birth weight, susceptibility to infections, and increase blood glucose level in the newborns. Neonatal hypoglycemia was also reported. Infants born to mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Animal Data In pregnant animals administered dexamethasone during organogenesis, doses equivalent to or below the recommended human dose have caused adverse developmental outcomes including structural abnormalities (cleft palate), alterations to growth (growth restrictions including reduced bone lengths and fetal weights), functional impairment (neurodevelopmental and metabolic effects), and embryo-fetal mortality (reduced number of embryonic implantations and fewer live fetuses)."
-  ],
-  "labor_and_delivery": [
-   "8.2 Lactation Risk Summary Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects. Advise women not to breastfeed during treatment and for 2 weeks after the last dose."
-  ],
-  "nursing_mothers": [
-   "8.3 Females and Males of Reproductive Potential Pregnancy Testing Pregnancy testing is recommended for females of reproductive potential prior to initiating HEMADY [see Use in Specific Populations ( ‎8.1 )] . HEMADY is used in combination with other anti-myeloma products that require pregnancy testing in females of reproductive potential. Refer to the Prescribing Information for the products used in combination with HEMADY. Contraception Advise patients of reproductive potential to use effective contraception during treatment with HEMADY and for at least one month following the final dose of HEMADY. HEMADY is used in combination with other anti-myeloma products that require contraception in females and males of reproductive potential. Refer to the Prescribing Information for the products used in combination with HEMADY. Infertility Males Steroids may increase or decrease motility and number of spermatozoa in some patients. In animals, dexamethasone affects male spermatogenesis [see Nonclinical Toxicology (‎ 13.1 )] ."
-  ],
-  "pediatric_use": [
-   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established."
-  ],
-  "geriatric_use": [
-   "8.5 Geriatric Use No overall differences in safety or effectiveness were observed between elderly subjects and younger subjects, and other reported clinical experience with dexamethasone has not identified differences in responses between the elderly and younger patients. However, the incidence of corticosteroid-induced adverse reactions may be increased in geriatric patients and are dose-related. Osteoporosis is the most frequently encountered complication, which occurs at a higher incidence rate in corticosteroid-treated geriatric patients as compared to younger populations and in age-matched controls. Losses of bone mineral density appear to be greatest early on in the course of treatment and may recover over time after steroid withdrawal or use of lower doses. Higher doses increase the relative risk of both vertebral and nonvertebral fractures, even in the presence of higher bone density compared to patients with involution osteoporosis. Perform routine screening of geriatric patients, including regular assessments of bone mineral density and institution of fracture prevention strategies, along with regular review of the dose of and need for continued dexamethasone therapy [see Warnings and Precautions ( ‎5.8 )] . HEMADY is used in combination with other anti-myeloma products. Refer to the Prescribing Information of the other anti-myeloma products used as part of a combination regimen with HEMADY, for information on the use of those products in elderly patients."
-  ],
-  "overdosage": [
-   "10 OVERDOSAGE Treatment of overdosage is by supportive and symptomatic therapy. In the case of acute overdosage, according to the patient’s condition, supportive therapy may include gastric lavage or induced vomiting."
-  ],
   "description": [
-   "11 DESCRIPTION HEMADY (dexamethasone, USP) is an anti-inflammatory, 9-fluoro-glucocorticoid. The chemical name is 9-fluoro-11β,17,21trihydroxy-16α-methylpregna-1,4-diene-3,20-dione. The molecular weight is 392.47 g/mol. The molecular formula is C 22 H 29 FO 5. The structural formula is: Dexamethasone is a white to practically white, odorless, crystalline powder. It is stable in air. It is practically insoluble in water. HEMADY for oral administration is available as an immediate-release tablet in a strength of 20 mg. Each tablet contains dexamethasone USP and the following inactive ingredients: corn starch NF, lactose monohydrate NF, magnesium stearate NF, povidone NF, and sodium starch glycolate NF. 1"
+   "DESCRIPTION Dexamethasone Sodium Phosphate Injection, USP, is a water-soluble inorganic ester of dexamethasone which produces a rapid response even when injected intramuscularly. Dexamethasone Sodium Phosphate, USP chemically is Pregna-1,4-diene-3,20-dione, 9-fluoro- 11,17-dihydroxy-16-methyl-21-(phosphonooxy)-, disodium salt, (11ß, 16α). It occurs as a white to creamy white powder, is exceedingly hygroscopic, is soluble in water and its solutions have a pH between 7.0 and 8.5. It has the following structural formula: Each mL of Dexamethasone Sodium Phosphate Injection, USP (Preservative Free) contains dexamethasone sodium phosphate, USP equivalent to 10 mg dexamethasone phosphate; 24.75 mg sodium citrate, dihydrate; and Water for Injection, q.s. pH adjusted with citric acid or sodium hydroxide, if necessary. pH: 7.0 to 8.5. Each mL Dexamethasone Sodium Phosphate Injection, USP (Preserved) contains dexamethasone sodium phosphate, USP equivalent to 10 mg dexamethasone phosphate; 13.5 mg sodium citrate, dihydrate; 10 mg benzyl alcohol; and Water for Injection, q.s. pH adjusted with citric acid or sodium hydroxide, if necessary. pH: 7.0 to 8.5. structure"
   ],
   "clinical_pharmacology": [
-   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells. 12.2 Pharmacodynamics Following oral administration of a single dose of dexamethasone tablet to healthy subjects, the decrease in mean baseline cortisol concentration was maximal by 12 hours post-dose, with mean cortisol concentrations returning to near baseline approximately 3 days after drug administration. 12.3 Pharmacokinetics The pharmacokinetics of oral dexamethasone were dose proportional between single dose of 0.5 to 40 mg. Following a single HEMADY dose of 20 mg, the geometric mean (coefficient of variation, %CV) dexamethasone peak concentrations (C max ) was 247 ng/mL (31%) and area under the curve over time to infinity (AUC inf ) was 1271 ng.hr/mL (31%) in subjects. Absorption Following 20 mg dose of HEMADY, dexamethasone median time to peak concentrations (T max ) was 1 hour (range: 0.5 to 4 hours). Effect of Food A high-fat, high-calorie (total 800-1000 calories: approximately 60% from fat, 25% from carbohydrate and 15% from protein) meal had no effect on AUC inf and decreased C max by 23% of a single 20 mg dose of HEMADY. Distribution Dexamethasone is about 77% bound to human plasma proteins in vitro. Elimination The mean terminal half-life (coefficient of variation) of dexamethasone is 4 hours (18%) and oral clearance (CL/F) was 15.7 L/hr following a single dose of HEMADY. Metabolism Dexamethasone is metabolized by CYP3A4. Excretion Renal excretion of dexamethasone is less than 10% of total body clearance. Less than 10% of dexamethasone is excreted in the urine. Specific Populations The effect of baseline renal and hepatic impairment on the pharmacokinetics of dexamethasone has not been studied. Drug Interactions Studies Effect of Strong and Moderate CYP3A4 Inhibitors Coadministration of itraconazole (strong CYP3A4 inhibitor: 200 mg once daily x 4 days) with a single dose of oral dexamethasone (4.5 mg) increased dexamethasone AUC inf by 3.7-fold [see Drug Interactions ( ‎7.1 )] . Coadministration of aprepitant (moderate CYP3A4 inhibitor: 125 mg on Day 1, and 80 mg once daily on Days 2 to 5) with oral dexamethasone (20 mg on Day 1, and 8 mg once daily on Day 2-5) increased dexamethasone AUC inf by 2.2 -fold on Day 1 and 5 [see Drug Interactions (‎ 7.1 )] . Effects of Other Anti-Myeloma Products Coadministration of thalidomide, lenalidomide, pomalidomide, ixazomib, bortezomib or carfilzomib with dexamethasone is not expected to affect the pharmacokinetics of dexamethasone. Effect on Other Anti-Myeloma Products Coadministration of dexamethasone had no effect on the mean AUC inf of lenalidomide, pomalidomide, ixazomib, and bortezomib. Coadministration of dexamethasone with carfilzomib or thalidomide is not expected to affect the pharmacokinetics of these drugs, as these drugs are not primarily metabolized by CYP3A4 in vitro. For additional information on the drug interaction studies with dexamethasone and other anti-myeloma products, refer to the Prescribing Information of the other anti-myeloma products."
+   "CLINICAL PHARMACOLOGY Dexamethasone sodium phosphate injection has a rapid onset but short duration of action when compared with less soluble preparations. Because of this, it is suitable for the treatment of acute disorders responsive to adrenocortical steroid therapy. Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs, including dexamethasone, are primarily used for their potent anti-inflammatory effects in disorders of many organ systems. Glucocorticoids cause profound and varied metabolic effects. In addition, they modify the body’s immune responses to diverse stimuli. At equipotent anti-inflammatory doses, dexamethasone almost completely lacks the sodium-retaining property of hydrocortisone and closely related derivatives of hydrocortisone."
   ],
-  "mechanism_of_action": [
-   "12.1 Mechanism of Action Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells."
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE By intravenous or intramuscular injection when oral therapy is not feasible: 1. Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance). Acute adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; mineralocorticoid supplementation may be necessary, particularly when synthetic analogs are used). Preoperatively, and in the event of serious trauma or illness, in patients with known adrenal insufficiency or when adrenocortical reserve is doubtful. Shock unresponsive to conventional therapy if adrenocortical insufficiency exists or is suspected. Congenital adrenal hyperplasia Nonsuppurative thyroiditis Hypercalcemia associated with cancer 2. Rheumatic Disorders As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Post-traumatic osteoarthritis Synovitis of osteoarthritis Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy). Acute and subacute bursitis Epicondylitis Acute nonspecific tenosynovitis Acute gouty arthritis Psoriatic arthritis Ankylosing spondylitis 3. Collagen Diseases During an exacerbation or as maintenance therapy in selected cases of: Systemic lupus erythematosus Acute rheumatic carditis 4. Dermatologic Diseases Pemphigus Severe erythema multiforme (Stevens-Johnson syndrome) Exfoliative dermatitis Bullous dermatitis herpetiformis Severe seborrheic dermatitis Severe psoriasis Mycosis fungoides 5. Allergic States Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in: Bronchial asthma Contact dermatitis Atopic dermatitis Serum sickness Seasonal or perennial allergic rhinitis Drug hypersensitivity reactions Urticarial transfusion reactions Acute noninfectious laryngeal edema (epinephrine is the drug of first choice). 6. Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes involving the eye, such as: Herpes zoster ophthalmicus Iritis, iridocyclitis Chorioretinitis Diffuse posterior uveitis and choroiditis Optic neuritis Sympathetic ophthalmia Anterior segment inflammation Allergic conjunctivitis Keratitis Allergic corneal marginal ulcers 7. Gastrointestinal Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis (systemic therapy) Regional enteritis (systemic therapy) 8. Respiratory Diseases Symptomatic sarcoidosis Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy. Loeffler’s syndrome not manageable by other means. Aspiration pneumonitis 9. Hematologic Disorders Acquired (autoimmune) hemolytic anemia. Idiopathic thrombocytopenic purpura in adults (IV only; IM administration is contraindicated). Secondary thrombocytopenia in adults Erythroblastopenia (RBC anemia) Congenital (erythroid) hypoplastic anemia 10. Neoplastic Diseases For palliative management of: Leukemias and lymphomas in adults Acute leukemia of childhood 11. Edematous States To induce diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus. 12. Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy. Trichinosis with neurologic or myocardial involvement. 13. Diagnostic testing of adrenocortical hyperfunction. 14. Cerebral Edema associated with primary or metastatic brain tumor, craniotomy, or head injury. Use in cerebral edema is not a substitute for careful neurosurgical evaluation and definitive management such as neurosurgery or other specific therapy."
   ],
-  "pharmacodynamics": [
-   "12.2 Pharmacodynamics Following oral administration of a single dose of dexamethasone tablet to healthy subjects, the decrease in mean baseline cortisol concentration was maximal by 12 hours post-dose, with mean cortisol concentrations returning to near baseline approximately 3 days after drug administration."
+  "contraindications": [
+   "CONTRAINDICATIONS Systemic fungal infections (see WARNINGS regarding amphotericin B). Hypersensitivity to any component of this product (see WARNINGS ) ."
   ],
-  "pharmacokinetics": [
-   "12.3 Pharmacokinetics The pharmacokinetics of oral dexamethasone were dose proportional between single dose of 0.5 to 40 mg. Following a single HEMADY dose of 20 mg, the geometric mean (coefficient of variation, %CV) dexamethasone peak concentrations (C max ) was 247 ng/mL (31%) and area under the curve over time to infinity (AUC inf ) was 1271 ng.hr/mL (31%) in subjects. Absorption Following 20 mg dose of HEMADY, dexamethasone median time to peak concentrations (T max ) was 1 hour (range: 0.5 to 4 hours). Effect of Food A high-fat, high-calorie (total 800-1000 calories: approximately 60% from fat, 25% from carbohydrate and 15% from protein) meal had no effect on AUC inf and decreased C max by 23% of a single 20 mg dose of HEMADY. Distribution Dexamethasone is about 77% bound to human plasma proteins in vitro. Elimination The mean terminal half-life (coefficient of variation) of dexamethasone is 4 hours (18%) and oral clearance (CL/F) was 15.7 L/hr following a single dose of HEMADY. Metabolism Dexamethasone is metabolized by CYP3A4. Excretion Renal excretion of dexamethasone is less than 10% of total body clearance. Less than 10% of dexamethasone is excreted in the urine. Specific Populations The effect of baseline renal and hepatic impairment on the pharmacokinetics of dexamethasone has not been studied. Drug Interactions Studies Effect of Strong and Moderate CYP3A4 Inhibitors Coadministration of itraconazole (strong CYP3A4 inhibitor: 200 mg once daily x 4 days) with a single dose of oral dexamethasone (4.5 mg) increased dexamethasone AUC inf by 3.7-fold [see Drug Interactions ( ‎7.1 )] . Coadministration of aprepitant (moderate CYP3A4 inhibitor: 125 mg on Day 1, and 80 mg once daily on Days 2 to 5) with oral dexamethasone (20 mg on Day 1, and 8 mg once daily on Day 2-5) increased dexamethasone AUC inf by 2.2 -fold on Day 1 and 5 [see Drug Interactions (‎ 7.1 )] . Effects of Other Anti-Myeloma Products Coadministration of thalidomide, lenalidomide, pomalidomide, ixazomib, bortezomib or carfilzomib with dexamethasone is not expected to affect the pharmacokinetics of dexamethasone. Effect on Other Anti-Myeloma Products Coadministration of dexamethasone had no effect on the mean AUC inf of lenalidomide, pomalidomide, ixazomib, and bortezomib. Coadministration of dexamethasone with carfilzomib or thalidomide is not expected to affect the pharmacokinetics of these drugs, as these drugs are not primarily metabolized by CYP3A4 in vitro. For additional information on the drug interaction studies with dexamethasone and other anti-myeloma products, refer to the Prescribing Information of the other anti-myeloma products."
+  "warnings": [
+   "WARNINGS Because rare instances of anaphylactoid reactions have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug. Anaphylactoid and hypersensitivity reactions have been reported for dexamethasone sodium phosphate injection (see ADVERSE REACTIONS ). Corticosteroids may exacerbate systemic fungal infections and, therefore, should not be used in the presence of such infections unless they are needed to control drug reactions due to amphotericin B. Moreover, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive failure. In patients on corticosteroid therapy subjected to any unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated. Drug-induced secondary adrenocortical insufficiency may result from too rapid withdrawal of corticosteroids and may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted. If the patient is receiving steroids already, dosage may have to be increased. Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently. Corticosteroids may mask some signs of infection, and new infections may appear during their use. There may be decreased resistance and inability to localize infection when corticosteroids are used. Moreover, corticosteroids may affect the nitroblue-tetrazolium test for bacterial infection and produce false negative results. In cerebral malaria, a double-blind trial has shown that the use of corticosteroids is associated with prolongation of coma and a higher incidence of pneumonia and gastrointestinal bleeding. Corticosteroids may activate latent amebiasis. Therefore, it is recommended that latent or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea. Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses. Average and large doses of cortisone or hydrocortisone can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium. These effects are less likely to occur with the synthetic derivatives except when used in large doses. Dietary salt restriction and potassium supplementation may be necessary. All corticosteroids increase calcium excretion. Administration of live virus vaccines, including smallpox, is contraindicated in individuals receiving immunosuppressive doses of corticosteroids. If inactivated viral or bacterial vaccines are administered to individuals receiving immunosuppressive doses of corticosteroids, the expected serum antibody response may not be obtained. However, immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease. Patients who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals. Chickenpox and measles, for example, can have a more serious or even fatal course in non-immune children or adults on corticosteroids. In such children or adults who have not had these diseases, particular care should be taken to avoid exposure. The risk of developing a disseminated infection varies among individuals and can be related to the dose, route and duration of corticosteroid administration as well as to the underlying disease. If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated. If chickenpox develops, treatment with antiviral agents may be considered. If exposed to measles, prophylaxis with immune globulin (IG) may be indicated. (See the respective package inserts for VZIG and IG for complete prescribing information). The use of dexamethasone sodium phosphate injection in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen. If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur. During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis. Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients. Serious Neurologic Adverse Reactions with Epidural Administration Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids. Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke. These serious neurologic events have been reported with and without use of fluoroscopy. The safety and effectiveness of epidural administration of corticosteroids has not been established, and corticosteroids are not approved for this use. Usage in Pregnancy Since adequate human reproduction studies have not been done with corticosteroids, use of these drugs in pregnancy or in women of childbearing potential requires that the anticipated benefits be weighed against the possible hazards to the mother and embryo or fetus. Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Corticosteroids appear in breast milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects. Mothers taking pharmacologic doses of corticosteroids should be advised not to nurse.",
+   "Serious Neurologic Adverse Reactions with Epidural Administration Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids. Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke. These serious neurologic events have been reported with and without use of fluoroscopy. The safety and effectiveness of epidural administration of corticosteroids has not been established, and corticosteroids are not approved for this use.",
+   "Usage in Pregnancy Since adequate human reproduction studies have not been done with corticosteroids, use of these drugs in pregnancy or in women of childbearing potential requires that the anticipated benefits be weighed against the possible hazards to the mother and embryo or fetus. Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism. Corticosteroids appear in breast milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects. Mothers taking pharmacologic doses of corticosteroids should be advised not to nurse."
   ],
-  "nonclinical_toxicology": [
-   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis. Dexamethasone was tested for in vitro and in vivo genotoxic potential and was positive in the following assays: chromosomal aberrations and sister-chromatid exchanges in human lymphocytes, and micronuclei and sister-chromatid exchanges in mouse bone marrow. The Ames/Salmonella assay, with and without S9 mix, did not show an increase in His+ revertants. Published literature identified reduced testicular spermatozoids and reduced spermatogenesis in male mice dosed intraperitoneally for 7 days at doses equivalent to the human dose based on a mg/m 2 body surface area comparison."
+  "precautions": [
+   "PRECAUTIONS This product, like many other steroid formulations, is sensitive to heat. Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial. Following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the corticosteroid withdrawal syndrome including fever, myalgia, arthralgia, and malaise. This may occur in patients even without evidence of adrenal insufficiency. There is an enhanced effect of corticosteroids in patients with hypothyroidism and in those with cirrhosis. Corticosteroids should be used cautiously in patients with ocular herpes simplex for fear of corneal perforation. The lowest possible dose of corticosteroid should be used to control the condition under treatment, and when reduction in dosage is possible, the reduction must be gradual. Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations. Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids. Aspirin should be used within caution in conjunction with corticosteroids in hypoprothrombinemia. Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess, or other pyogenic infection, also in diverticulitis, fresh intestinal anastomoses, active or latent peptic ulcer, renal insufficiency, hypertension, osteoporosis, and myasthenia gravis. Signs of peritoneal irritation following gastrointestinal perforation in patients receiving large doses of corticosteroids may be minimal or absent. Fat embolism has been reported as a possible complication of hypercortisonism. When large doses are given, some authorities advise that antacids be administered between meals to help prevent peptic ulcer. Steroids may increase or decrease motility and number of spermatozoa in some patients. Phenytoin, phenobarbital, ephedrine, and rifampin may enhance the metabolic clearance of corticosteroids resulting in decreased blood levels and lessened physiologic activity, thus requiring adjustment in corticosteroid dosage. These interactions may interfere with dexamethasone suppression tests which should be interpreted with caution during administration of these drugs. False negative results in the dexamethasone suppression test (DST) in patients being treated with indomethacin have been reported. Thus, results of the DST should be interpreted with caution in these patients. The prothrombin time should be checked frequently in patients who are receiving corticosteroids and coumarin anticoagulants at the same time because of reports that corticosteroids have altered the response to these anticoagulants. Studies have shown that the usual effect produced by adding corticosteroids is inhibition of response to coumarins, although there have been some conflicting reports of potentiation not substantiated by studies. When corticosteroids are administered concomitantly with potassium-depleting diuretics, patients should be observed closely for development of hypokalemia. The slower rate of absorption by intramuscular administration should be recognized. Information for Patients Susceptible patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles. Patients should also be advised that if they are exposed, medical advice should be sought without delay. Pediatric Use Growth and development of infants and children patients on prolonged corticosteroid therapy should be carefully followed.",
+   "Information for Patients Susceptible patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles. Patients should also be advised that if they are exposed, medical advice should be sought without delay.",
+   "Pediatric Use Growth and development of infants and children patients on prolonged corticosteroid therapy should be carefully followed."
   ],
-  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
-   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis. Dexamethasone was tested for in vitro and in vivo genotoxic potential and was positive in the following assays: chromosomal aberrations and sister-chromatid exchanges in human lymphocytes, and micronuclei and sister-chromatid exchanges in mouse bone marrow. The Ames/Salmonella assay, with and without S9 mix, did not show an increase in His+ revertants. Published literature identified reduced testicular spermatozoids and reduced spermatogenesis in male mice dosed intraperitoneally for 7 days at doses equivalent to the human dose based on a mg/m 2 body surface area comparison."
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Fluid and electrolyte disturbances: Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension Musculoskeletal: Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Tendon rupture Pathologic fracture of long bones Gastrointestinal: Peptic ulcer with possible subsequent perforation and hemorrhage Perforation of the small and large bowel; particularly in patients with inflammatory bowel disease Pancreatitis Abdominal distention Ulcerative esophagitis Dermatologic: Impaired wound healing Thin fragile skin Petechiae and ecchymoses Erythema Increased sweating May suppress reactions to skin tests Burning or tingling, especially in the perineal area (after IV injection) Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema Neurologic: Convulsions Increased intracranial pressure with papilledema (pseudotumor cerebri) usually after treatment Vertigo Headache Psychic disturbances Endocrine: Menstrual irregularities Development of cushingoid state Suppression of growth in pediatric patients Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics Hirsutism Ophthalmic: Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos Retinopathy of prematurity Metabolic: Negative nitrogen balance due to protein catabolism Cardiovascular: Myocardial rupture following recent myocardial infarction (see WARNINGS ) Hypertrophic cardiomyopathy in low birth weight infants Other: Anaphylactoid or hypersensitivity reactions Thromboembolism Weight gain Increased appetite Nausea Malaise Hiccups The following additional adverse reactions are related to parenteral corticosteroid therapy: Hyperpigmentation or hypopigmentation Subcutaneous and cutaneous atrophy Sterile abscess Charcot-like arthropathy"
+  ],
+  "overdosage": [
+   "OVERDOSAGE Reports of acute toxicity and/or death following overdosage of glucocorticoids are rare. In the event of overdosage, no specific antidote is available; treatment is supportive and symptomatic. The oral LD 50 of dexamethasone in female mice was 6.5 g/kg. The intravenous LD 50 of dexamethasone sodium phosphate in female mice was 794 mg/kg."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Dexamethasone sodium phosphate injection, 10 mg/mL– For intravenous and intramuscular injection only. Dexamethasone sodium phosphate injection can be given directly from the vial, or it can be added to Sodium Chloride Injection or Dextrose Injection and administered by intravenous drip. Solutions used for intravenous administration or further dilution of this product should be preservative free when used in the neonate, especially the premature infant. When it is mixed with an infusion solution, sterile precautions should be observed. Since infusion solutions generally do not contain preservatives, mixtures should be used within 24 hours. DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE AND THE RESPONSE OF THE PATIENT. Intravenous and Intramuscular Injection The initial dosage of dexamethasone sodium phosphate injection varies from 0.5 to 9 mg a day depending on the disease being treated. In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required. The initial dosage should be maintained or adjusted until the patient’s response is satisfactory. If a satisfactory clinical response does not occur after a reasonable period of time, discontinue dexamethasone sodium phosphate injection and transfer the patient to other therapy. After a favorable initial response, the proper maintenance dosage should be determined by decreasing the initial dosage in small amounts to the lowest dosage that maintains an adequate clinical response. Patients should be observed closely for signs that might require dosage adjustment, including changes in clinical status resulting from remissions or exacerbations of the disease, individual drug responsiveness, and the effect of stress (e.g., surgery, infection, trauma). During stress it may be necessary to increase dosage temporarily. If the drug is to be stopped after more than a few days of treatment, it usually should be withdrawn gradually. When the intravenous route of administration is used, dosage usually should be the same as the oral dosage. In certain overwhelming, acute, life-threatening situations, however, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages. The slower rate of absorption by intramuscular administration should be recognized. Shock There is a tendency in current medical practice to use high (pharmacologic) doses of corticosteroids for the treatment of unresponsive shock. The following dosages of dexamethasone sodium phosphate injection have been suggested by various authors: Author Dosage Cavanagh 1 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg Dietzman 2 2 to 6 mg/kg of body weight as a single intravenous injection Frank 3 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists Oaks 4 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists Schumer 5 1 mg/kg of body weight as a single intravenous injection Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours. Although adverse reactions associated with high dose, short-term corticosteroid therapy are uncommon, peptic ulceration may occur. Cerebral Edema Dexamethasone sodium phosphate injection is generally administered initially in a dosage of 10 mg intravenously followed by four mg every six hours intramuscularly until the symptoms of cerebral edema subside. Response is usually noted within 12 to 24 hours and dosage may be reduced after two to four days and gradually discontinued over a period of five to seven days. For palliative management of patients with recurrent or inoperable brain tumors, maintenance therapy with 2 mg two or three times a day may be effective. Acute Allergic Disorders In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested: Dexamethasone sodium phosphate injection, first day , 4 or 8 mg intramuscularly. Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided doses each day; fourth day , 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit. This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit.",
+   "Intravenous and Intramuscular Injection The initial dosage of dexamethasone sodium phosphate injection varies from 0.5 to 9 mg a day depending on the disease being treated. In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required. The initial dosage should be maintained or adjusted until the patient’s response is satisfactory. If a satisfactory clinical response does not occur after a reasonable period of time, discontinue dexamethasone sodium phosphate injection and transfer the patient to other therapy. After a favorable initial response, the proper maintenance dosage should be determined by decreasing the initial dosage in small amounts to the lowest dosage that maintains an adequate clinical response. Patients should be observed closely for signs that might require dosage adjustment, including changes in clinical status resulting from remissions or exacerbations of the disease, individual drug responsiveness, and the effect of stress (e.g., surgery, infection, trauma). During stress it may be necessary to increase dosage temporarily. If the drug is to be stopped after more than a few days of treatment, it usually should be withdrawn gradually. When the intravenous route of administration is used, dosage usually should be the same as the oral dosage. In certain overwhelming, acute, life-threatening situations, however, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages. The slower rate of absorption by intramuscular administration should be recognized.",
+   "Shock There is a tendency in current medical practice to use high (pharmacologic) doses of corticosteroids for the treatment of unresponsive shock. The following dosages of dexamethasone sodium phosphate injection have been suggested by various authors: Author Dosage Cavanagh 1 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg Dietzman 2 2 to 6 mg/kg of body weight as a single intravenous injection Frank 3 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists Oaks 4 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists Schumer 5 1 mg/kg of body weight as a single intravenous injection Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours. Although adverse reactions associated with high dose, short-term corticosteroid therapy are uncommon, peptic ulceration may occur.",
+   "Cerebral Edema Dexamethasone sodium phosphate injection is generally administered initially in a dosage of 10 mg intravenously followed by four mg every six hours intramuscularly until the symptoms of cerebral edema subside. Response is usually noted within 12 to 24 hours and dosage may be reduced after two to four days and gradually discontinued over a period of five to seven days. For palliative management of patients with recurrent or inoperable brain tumors, maintenance therapy with 2 mg two or three times a day may be effective.",
+   "Acute Allergic Disorders In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested: Dexamethasone sodium phosphate injection, first day , 4 or 8 mg intramuscularly. Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided doses each day; fourth day , 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit. This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever the solution and container permit."
+  ],
+  "dosage_and_administration_table": [
+   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Author</content></content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Dosage</content></content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Cavanagh <sup>1</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Dietzman <sup>2</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>2 to 6 mg/kg of body weight as a single intravenous injection</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Frank <sup>3</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Oaks <sup>4</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Schumer <sup>5</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>1 mg/kg of body weight as a single intravenous injection</paragraph></td></tr></tbody></table>",
+   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Author</content></content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Dosage</content></content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Cavanagh <sup>1</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Dietzman <sup>2</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>2 to 6 mg/kg of body weight as a single intravenous injection</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Frank <sup>3</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Oaks <sup>4</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists</paragraph></td></tr><tr><td colspan=\"2\" align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"> </td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>Schumer <sup>5</sup></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>1 mg/kg of body weight as a single intravenous injection</paragraph></td></tr></tbody></table>"
   ],
   "how_supplied": [
-   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied 20 mg tablet: white, round, biconvex tablets embossed \"20\" on one side. NDC 82111-955-01: Bottle of 24, NDC 82111-955-02: Bottle of 100 Storage Store at 20°C to 25°C (68°F to 77°F) excursions permitted 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Dispense in a tight, light-resistant, child resistant container."
+   "HOW SUPPLIED Dexamethasone Sodium Phosphate Injection, USP (Preservative Free) equivalent to 10 mg dexamethasone phosphate, is supplied in a single dose vial as follows: Product No. NDC No. Strength Vial Size 500601 63323-506-01 10 mg per mL 1 mL vial, packaged in twenty-fives. Dexamethasone Sodium Phosphate Injection, USP (Preserved) equivalent to 10 mg dexamethasone phosphate, is supplied in a multiple dose vial as follows: Product No. NDC No. Strength Vial Size 501610 63323-516-10 100 mg per 10 mL (10 mg per mL) 10 mL vial, packaged in tens. This container closure is not made with natural rubber latex. Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Sensitive to heat. Do not autoclave. Protect from freezing. Protect from light. Single dose vials–Store in container until time of use. Discard unused portion. Multiple dose vials–Store in container until contents are used.",
+   "Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Sensitive to heat. Do not autoclave. Protect from freezing. Protect from light. Single dose vials–Store in container until time of use. Discard unused portion. Multiple dose vials–Store in container until contents are used."
   ],
-  "information_for_patients": [
-   "17 PATIENT COUNSELING INFORMATION Discuss the following with patients prior to treatment with HEMADY: Administration HEMADY is administered as part of combination regimens with anti-myeloma products; instruct patients to take HEMADY exactly as prescribed in the Prescribing Information of the anti-myeloma products administered with HEMADY [see Dosage and Administration ( ‎2.1 ) and Warning and Precautions (‎ 5.12 )] . Inform elderly patients regarding dose-reduction, if needed [see Dosage and Administration (‎ 2.2 ) and Use in Specific Populations (‎ 8.5 )] . Warn patients to not stop taking HEMADY abruptly or without first checking with their healthcare providers as there may be a need for gradual dose reduction to decrease the risk of adrenal insufficiency [see Warnings and Precautions (‎ 5.1 )] . HEMADY may be taken with or without food. Alterations in Endocrine Function Advise patients to inform any medical attendants that they are taking corticosteroids, as prolonged use may cause adrenal insufficiency, Cushing's syndrome and make patients dependent on corticosteroids. Instruct patients to notify their healthcare provider if they have diabetes, or thyroid gland problems as the dose of medications used to control these other conditions may need to be adjusted while they are taking HEMADY [see Warnings and Precautions (‎ 5.1 )] . Advise the patient that, following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the corticosteroid withdrawal syndrome including myalgia, arthralgia, and malaise. Advise patients to not discontinue use of HEMADY abruptly or without medical supervision [see Warnings and Precautions (‎ 5.1 )] . Immunosuppression and Increased Risk of Infection Advise patients that they are at increased risk of infection. Tell patients to inform their healthcare provider if they have had recent or ongoing infections or if they have recently received a vaccine. Medical advice should be sought immediately if the patient develops fever or other signs of infection. Patients should be made aware that some infections can potentially be severe and fatal [see Warnings and Precautions (‎ 5.2 )] . Warn patients who are on corticosteroids to avoid exposure to chickenpox or measles and to alert their healthcare provider immediately if they are exposed [see Warnings and Precautions ( ‎5.2 )] . Alterations in Cardiovascular/Renal Function Inform patients that HEMADY can cause an increase in blood pressure and water retention. If this occurs, dietary salt restriction and potassium supplementation may be needed [see Warnings and Precautions (‎ 5.3 )] . Venous and Arterial Thromboembolism Inform patients of the potential risk of developing venous and arterial thromboembolism and discuss the need for appropriate prophylactic treatment [see Warnings and Precautions ( ‎5.4 )] . Vaccination Inform patients that they may receive concurrent vaccinations with use of HEMADY, except for live-attenuated or live vaccines [see Warnings and Precautions (‎ 5.5 )] . Ophthalmic Effects Inform patients that HEMADY may cause cataracts or glaucoma and advise monitoring if corticosteroid therapy is continued for more than 6 weeks [see Warnings and Precautions (‎ 5.6 )] . Gastrointestinal Perforation HEMADY may increase the risk of developing gastrointestinal perforation. Advise patients to promptly seek medical attention if they develop unusually severe, persistent or worsening abdominal pain. Warn patients to avoid corticosteroids if there is a possibility of gastrointestinal perforation [see Warnings and Precautions ( ‎5.7 )] . Osteoporosis Advise patients about the risk of osteoporosis with prolonged use of HEMADY, which can predispose the patient to vertebral and long bone fractures [see Warnings and Precautions (‎ 5.8 )] . Myopathy Advise patients to contact their healthcare provider if they experience new or worsening symptoms of myopathy such as unexplained muscle pain, tenderness or weakness [see Warnings and Precautions (‎ 5.9 )] . Behavioral and Mood Disturbances Advise patients about the potential for severe behavioral and mood changes with HEMADY and encourage them to seek medical attention if psychiatric symptoms develop [see Warnings and Precautions (‎ 5.10 )] . Kaposi’s Sarcoma Advise patients about the risk of Kaposi’s sarcoma in patients receiving corticosteroid therapy. Advise patients to discontinue HEMADY in case Kaposi’s sarcoma is diagnosed [see Warnings and Precautions ( ‎5.11 )] . HEMADY in Combination with Anti-Myeloma Products Advise patients about the risk of adverse reactions which may occur when HEMADY is taken in combination with anti-myeloma products. Inform patients of the possible adverse reactions that could occur with the prescribed combination regimen, as detailed in the Prescribing Information of these products [see Warnings and Precautions (‎ 5.12 )] . Embryo-Fetal Toxicity Advise females of reproductive potential of the potential risk to a fetus. Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, during treatment with HEMADY [see Warnings and Precautions ( ‎5.13 ) and Use in Specific Populations (‎ 8.1 )] . Drug Interactions Certain medications can cause an interaction with HEMADY. Advise patients to inform their healthcare provider of all the medicines the patient is taking, including over-the-counter medicines, dietary supplements, and herbal products. Inform patients that alternate therapy, dosage adjustment, and/or special test(s) may be needed during the treatment [see Drug Interactions (‎ 7.1 , ‎ 7.2 )] . Females and Males of Reproductive Potential Advise patients of reproductive potential to use effective contraception during treatment with HEMADY and for at least one month after the last dose [see Use in Specific Populations ( ‎8.3 )] . Lactation Advise women not to breastfeed during treatment with HEMADY and for 2 weeks after the last dose [see Use in Specific Populations (‎ 8.2 )] . Manufactured for: Dexcel Pharma Technologies Ltd Nahum Haftzadi 21, Givat Shaul Jerusalem, Israel 9548402 Distributed by: Edenbridge Pharmaceuticals, LLC Parsippany, NJ 07054"
+  "how_supplied_table": [
+   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Product</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Vial Size</content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>500601</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>63323-506-01</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>10 mg per mL</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>1 mL vial, packaged in twenty-fives.</paragraph></td></tr></tbody></table>",
+   "<table><tbody><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Product</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph><paragraph><content styleCode=\"bold\">No.</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Vial Size</content></paragraph></td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>501610</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>63323-516-10</paragraph></td><td align=\"center\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>100 mg per 10 mL</paragraph><paragraph>(10 mg per mL)</paragraph></td><td align=\"left\" styleCode=\"Lrule Rrule Toprule Botrule\" valign=\"top\"><paragraph>10 mL vial, packaged in tens.</paragraph></td></tr></tbody></table>"
   ],
-  "set_id": "6b9cf32c-6d60-4853-bbfd-2304ffc2c129",
-  "id": "d3488fd8-88b2-4f73-9fa4-fbcf14ddd972",
-  "effective_time": "20260109",
-  "version": "4"
+  "references": [
+   "REFERENCES Cavanagh, D.; Singh, K.B.: Endotoxin shock in pregnancy and abortion, in: “Corticosteroids in the Treatment of Shock”, Schumer, W.; Nyhus, L.M., Editors, Urbana, University of Illinois Press, 1970, pp. 86-96. Dietzman, R.H.; Ersek, R.A.; Bloch, J.M.; Lilleheir, R.C.: High-output, low-resistance gram-negative septic shock in man, Angiology 20 : 691-700, Dec. 1969. Frank, E.: Clinical observations in shock and management (in: Shields, T.F., ed.: Symposium on current concepts and management of shock), J. Maine Med. Ass. 59 : 195-200, Oct. 1968. Oaks, W. W.; Cohen, H.E.: Endotoxin shock in the geriatric patient, Geriat. 22 : 120-130, Mar. 1967. Schumer, W.; Nyhus, L.M.: Corticosteroid effect on biochemical parameters of human oligemic shock, Arch. Surg. 100 : 405-408, Apr. 1970."
+  ],
+  "set_id": "43045630-8bf8-59ae-e063-6294a90a2ebe",
+  "id": "43045630-8bf9-59ae-e063-6294a90a2ebe",
+  "effective_time": "20251107",
+  "version": "1"
  }
 }

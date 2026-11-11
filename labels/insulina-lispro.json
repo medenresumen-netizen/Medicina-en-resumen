@@ -1,8 +1,9 @@
 {
  "id_es": "insulina-lispro",
  "generic_en": "insulin lispro",
- "search": "openfda.generic_name.exact:\"INSULIN LISPRO\"",
- "downloaded": "2026-11-11T06:43Z",
+ "search": "brand:HUMALOG",
+ "pref": "insulin lispro|SUBCUTANEOUS|HUMALOG",
+ "downloaded": "2026-11-11T06:52Z",
  "chosen": {
   "set_id": "c8ecbd7a-0e22-4fc7-a503-faa58c1b6f3f",
   "id": "03be5386-187a-420f-9021-55778a73eba0",

@@ -1,8 +1,9 @@
 {
  "id_es": "fenitoina",
  "generic_en": "phenytoin",
- "search": "openfda.generic_name.exact:\"PHENYTOIN\"",
- "downloaded": "2026-11-11T06:45Z",
+ "search": "brand:DILANTIN",
+ "pref": "phenytoin|ORAL|DILANTIN",
+ "downloaded": "2026-11-11T06:53Z",
  "chosen": {
   "set_id": "f339f9e4-b289-4efe-82b9-46c57d1dc277",
   "id": "f339f9e4-b289-4efe-82b9-46c57d1dc277",
@@ -178,6 +179,31 @@
     "ANDA200565"
    ],
    "n_sections": 33
+  },
+  {
+   "set_id": "db8c69b0-4697-433e-98c7-b0b2d2c52a83",
+   "id": "402f06b8-06fa-e2d6-e063-6294a90ad8c9",
+   "effective_time": "20251002",
+   "version": "2",
+   "brand_name": [
+    "DILANTIN"
+   ],
+   "generic_name": [
+    "EXTENDED PHENYTOIN SODIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA084349"
+   ],
+   "n_sections": 30
   },
   {
    "set_id": "f9fe4c92-2761-4cb4-9cf3-7066e240e014",
@@ -378,6 +404,31 @@
     "ANDA200691"
    ],
    "n_sections": 30
+  },
+  {
+   "set_id": "86dd27d1-9cee-48ae-b55d-e2d2f7dbc593",
+   "id": "872f23a8-e6a3-4038-922d-0c26fc81d8b3",
+   "effective_time": "20230821",
+   "version": "3",
+   "brand_name": [
+    "DILANTIN"
+   ],
+   "generic_name": [
+    "EXTENDED PHENYTOIN SODIUM"
+   ],
+   "manufacturer_name": [
+    "Viatris Specialty LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA084349"
+   ],
+   "n_sections": 31
   },
   {
    "set_id": "f339f9e4-b289-4efe-82b9-46c57d1dc277",

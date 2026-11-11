@@ -1,32 +1,34 @@
 {
  "id_es": "tiamina",
- "generic_en": "thiamine",
- "search": "openfda.generic_name:\"thiamine\"",
- "downloaded": "2026-11-11T06:47Z",
+ "generic_en": "thiamine hydrochloride",
+ "search": "openfda.generic_name.exact:\"THIAMINE HYDROCHLORIDE\"",
+ "pref": "thiamine hydrochloride|INTRAVENOUS|",
+ "downloaded": "2026-11-11T06:53Z",
  "chosen": {
-  "set_id": "d9b6eb9a-4218-5c94-6e35-7cbbf0fba494",
-  "id": "9fb418a2-c16d-0000-01b8-c8fd7ad95b60",
-  "effective_time": "20260702",
-  "version": "2",
+  "set_id": "af3f9344-f743-4bad-b319-53b96e13fee2",
+  "id": "99612c11-05be-4741-8b1d-0900165ef943",
+  "effective_time": "20260109",
+  "version": "3",
   "brand_name": [
-   "Multiple Vitamins (Pediatric) Pharmacy Bulk Package"
+   "Thiamine"
   ],
   "generic_name": [
-   "ASORBIC ACID, VITAMIN A PALMITATE, CHOLECALCIFEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN-5 PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, NIACINAMIDE, DEXPANTHENOL, ALPHA-TOCOPHEROL ACETATE, VITAMIN K1, FOLIC ACID, BIOTIN, CYANOCOBALAMIN"
+   "THIAMINE HYDROCHLORIDE"
   ],
   "manufacturer_name": [
-   "Apotex Corp"
+   "Fresenius Kabi USA, LLC"
   ],
   "route": [
+   "INTRAMUSCULAR",
    "INTRAVENOUS"
   ],
   "product_type": [
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "ANDA210456"
+   "ANDA080556"
   ],
-  "n_sections": 25
+  "n_sections": 20
  },
  "candidates": [
   {
@@ -80,29 +82,6 @@
     "ANDA080575"
    ],
    "n_sections": 19
-  },
-  {
-   "set_id": "5d67a268-437b-403d-9d05-6524c4a7c499",
-   "id": "58ca919c-17f2-a92c-e063-6394a90a4246",
-   "effective_time": "20260811",
-   "version": "6",
-   "brand_name": [
-    "M-Natal Plus"
-   ],
-   "generic_name": [
-    "VITAMIN A, VITAMIN C, VITAMIN D, VITAMIN E, THIAMINE, RIBOFLAVIN, NIACIN, VITAMIN B6, FOLIC ACID, VITAMIN B12, CALCIUM, IRON, ZINC, COPPER"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [],
-   "n_sections": 11
   },
   {
    "set_id": "c4896996-cac8-44df-aa36-82e2b567c3b6",
@@ -209,183 +188,122 @@
    "n_sections": 22
   },
   {
-   "set_id": "9b79c950-4312-4a53-9e36-fb8e00b053df",
-   "id": "5609acca-0594-805f-e063-6394a90afc60",
-   "effective_time": "20260707",
-   "version": "9",
+   "set_id": "c3c9db74-95d4-487c-90c3-c810786fbaec",
+   "id": "3b09217b-e746-4523-95fa-b78fad431e32",
+   "effective_time": "20260114",
+   "version": "5",
    "brand_name": [
-    "Prenate Elite"
+    "Thiamine"
    ],
    "generic_name": [
-    ".BETA.-CAROTENE, ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, THIAMINE MONONITRATE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, LEVOMEFOLATE CALCIUM, CALCIUM FORMATE, FERROUS ASPARTO GLYCINATE, CYANOCOBALAMIN, BIOTIN, POTASSIUM IODIDE, MAGNESIUM OXIDE, ZINC OXIDE AND CUPRIC OXIDE"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Avion Pharmaceuticals, LLC"
+    "Fresenius Kabi USA, LLC"
    ],
    "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [],
-   "n_sections": 15
-  },
-  {
-   "set_id": "d9b6eb9a-4218-5c94-6e35-7cbbf0fba494",
-   "id": "9fb418a2-c16d-0000-01b8-c8fd7ad95b60",
-   "effective_time": "20260702",
-   "version": "2",
-   "brand_name": [
-    "Multiple Vitamins (Pediatric) Pharmacy Bulk Package"
-   ],
-   "generic_name": [
-    "ASORBIC ACID, VITAMIN A PALMITATE, CHOLECALCIFEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN-5 PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, NIACINAMIDE, DEXPANTHENOL, ALPHA-TOCOPHEROL ACETATE, VITAMIN K1, FOLIC ACID, BIOTIN, CYANOCOBALAMIN"
-   ],
-   "manufacturer_name": [
-    "Apotex Corp"
-   ],
-   "route": [
+    "INTRAMUSCULAR",
     "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA210456"
+    "ANDA080556"
    ],
-   "n_sections": 25
+   "n_sections": 16
   },
   {
-   "set_id": "490083f3-f56f-c884-bc7d-21eeffb20168",
-   "id": "3fbb6b6d-1476-8547-6896-fd474c59d8bd",
-   "effective_time": "20260624",
-   "version": "2",
+   "set_id": "ca4899c6-cea1-48d6-b0ae-9efcf67f6fcb",
+   "id": "3bda958c-8ec2-4039-a7f0-96e2b94f9c26",
+   "effective_time": "20260113",
+   "version": "6",
    "brand_name": [
-    "Multiple Vitamins (Pediatric) Single Dose Vial"
+    "Thiamine"
    ],
    "generic_name": [
-    "ASCORBIC ACID, VITAMIN A PALMITATE, CHOLECALCIFEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN-5 PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, NIACINAMIDE, DEXPANTHENOL, ALPHA-TOCOPHEROL ACETATE, VITAMIN K1, FOLIC ACID, BIOTIN, CYANOCOBALAMIN"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Apotex Corp."
-   ],
-   "route": [],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA210671"
-   ],
-   "n_sections": 25
-  },
-  {
-   "set_id": "90db80ed-c037-4e8f-a7f6-304a65f9fe22",
-   "id": "53f582a8-d98c-3f76-e063-6294a90a4f7f",
-   "effective_time": "20260611",
-   "version": "7",
-   "brand_name": [
-    "GUNA-CELL"
-   ],
-   "generic_name": [
-    "ACETYLCARNITINE, L-AMPC-ALPHA-LIPOIC AC-A-TOCOPHEROL-ASCORBIC ACID-CALC CARB-CITRIC AC-COBALAMIN-COLCHICUM-CONIUM-CUPRIC SULF-HERRING SPERM DNA-FERROUS FUMARATE-FOLIC ACID-FUMARIC ACID-KALI ASPARTATE-MANG PHOS-MANG GLUCONATE-MANG PHOS II-PYRUVALDEHYDE-NAT OXALACETICUM-SODIUM PYRUVATE-NIACIN-PANTOTHENIC ACID-PH-PODOPHYLLUM PELTATUM-PYRIDOXINE HYDROCHLORIDE-RIBOFLAVIN-SACCHAROMYCES CEREVISIAE RNA-SELENOMETHIONINE-SUCCINIC ACID-SULFUR-THIAMINE HYDROCHLORIDE-ZINC"
-   ],
-   "manufacturer_name": [
-    "Guna spa"
+    "Fresenius Kabi USA, LLC"
    ],
    "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN OTC DRUG"
-   ],
-   "application_number": [],
-   "n_sections": 15
-  },
-  {
-   "set_id": "75465821-a889-4697-b470-e9588a523205",
-   "id": "53e95cf4-56b0-8501-e063-6294a90a3edd",
-   "effective_time": "20260610",
-   "version": "7",
-   "brand_name": [
-    "GUNA-BOWEL"
-   ],
-   "generic_name": [
-    "ALOE - ALUMINUM OXIDE - BRYONIA ALBA ROOT - CHELIDONIUM MAJUS - CHOLECALCIFEROL - COLLINSONIA - FRANGULA ALNUS BARK - NIACIN - PANTOTHENIC ACID - POTASSIUM CARBONATE - RHUBARB - SILYBUM MARIANUM SEED - SKATOLE - SODIUM CARBONATE - STRYCHNOS NUX-VOMICA SEED - SUS SCROFA COLON - SUS SCROFA RECTUM - TARAXACUM OFFICINALE - THIAMINE -"
-   ],
-   "manufacturer_name": [
-    "Guna spa"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN OTC DRUG"
-   ],
-   "application_number": [],
-   "n_sections": 15
-  },
-  {
-   "set_id": "65701853-78f0-c3cc-1237-5595c59c1bd1",
-   "id": "f32a72e0-e506-65d7-42aa-e620a5fa6665",
-   "effective_time": "20260605",
-   "version": "2",
-   "brand_name": [
-    "Multiple Vitamins (Adult) Pharmacy Bulk Package"
-   ],
-   "generic_name": [
-    "ASCORBIC ACID, VITAMIN A PALMITATE, CHOLECALCIFEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN 5 PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, NIACINAMIDE, DEXPANTHENOL, ALPHA-TOCOPHEROL ACETATE, VITAMIN K, FOLIC ACID, BIOTIN, CYANOCOBALAMIN"
-   ],
-   "manufacturer_name": [
-    "Apotex Corp."
-   ],
-   "route": [
+    "INTRAMUSCULAR",
     "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA210672"
+    "ANDA080556"
    ],
-   "n_sections": 25
+   "n_sections": 16
   },
   {
-   "set_id": "83d65db4-7771-063d-909a-5aa29b945ee1",
-   "id": "3e2cf3a3-1fc3-3a73-1d7e-c4a1ee3ea2f5",
-   "effective_time": "20260605",
-   "version": "2",
+   "set_id": "af3f9344-f743-4bad-b319-53b96e13fee2",
+   "id": "99612c11-05be-4741-8b1d-0900165ef943",
+   "effective_time": "20260109",
+   "version": "3",
    "brand_name": [
-    "Multiple Vitamins (Adult) Single Dose"
+    "Thiamine"
    ],
    "generic_name": [
-    "ASCORBIC ACID, VITAMIN A PALMITATE, CHOLECALCIFEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, NIACINAMIDE, DEXPANTHENOL, ALPHA-TOCOPHEROL ACETATE, VITAMIN K1, FOLIC ACID, BIOTIN, CYANOCOBALAMIN"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Apotex Corp"
+    "Fresenius Kabi USA, LLC"
    ],
-   "route": [],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA210273"
+    "ANDA080556"
    ],
-   "n_sections": 25
+   "n_sections": 20
   },
   {
-   "set_id": "06446e9a-0e85-0623-e063-6294a90ac403",
-   "id": "5140c112-45d0-6503-e063-6394a90af692",
-   "effective_time": "20260507",
-   "version": "4",
+   "set_id": "2e957a35-83b3-47f5-ad09-216b22cc30be",
+   "id": "5268bd0e-2f42-cbeb-e063-6394a90a3ef8",
+   "effective_time": "20251120",
+   "version": "3",
    "brand_name": [
-    "THIAMINE HYDROCHLORIDE injection, solution"
+    "Thiamine Hydrochloride"
    ],
    "generic_name": [
-    "THIAMINE HYDROCHLORIDE INJECTION, SOLUTION"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "HF Acquisition Co LLC, DBA HealthFirst"
+    "ONESOURCE SPECIALTY PHARMA LIMITED"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217181"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "3bdf3b03-90cf-4416-9344-7733b193adf5",
+   "id": "e120bcda-effd-4f26-a706-47109c40062d",
+   "effective_time": "20251107",
+   "version": "2",
+   "brand_name": [
+    "THIAMINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "THIAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
    ],
    "route": [
     "INTRAMUSCULAR",
@@ -397,304 +315,344 @@
    "application_number": [
     "ANDA080571"
    ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "4985bf3c-abe5-4bbb-9dcc-6de387d36d6b",
+   "id": "b4f91191-9bfa-41ed-a9ca-221cf44ffc27",
+   "effective_time": "20251023",
+   "version": "4",
+   "brand_name": [
+    "Thiamine Hydrochloride"
+   ],
+   "generic_name": [
+    "THIAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208703"
+   ],
    "n_sections": 15
   },
   {
-   "set_id": "0800f4ef-1d98-4c0f-a016-501791973f66",
-   "id": "274b691e-de35-47a4-820b-c139dd65b363",
-   "effective_time": "20260327",
-   "version": "102",
+   "set_id": "c006eca3-137a-493f-bbc4-f04e463d66f9",
+   "id": "cf11a7a8-2864-4682-a335-71cc5591bc48",
+   "effective_time": "20250926",
+   "version": "6",
    "brand_name": [
-    "Multivitamin with Fluoride"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "Henry Schein, Inc."
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 14
+   "application_number": [
+    "ANDA091623"
+   ],
+   "n_sections": 16
   },
   {
-   "set_id": "0f11c8c7-c73e-4610-83ed-e697539ac180",
-   "id": "7185fe54-9c7c-4d14-acb8-925e43fe51a6",
-   "effective_time": "20260327",
-   "version": "2",
-   "brand_name": [
-    "Multivitamin with Fluoride"
-   ],
-   "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [],
-   "n_sections": 14
-  },
-  {
-   "set_id": "696cb342-fc5c-47cf-bbc8-5ecc706074c0",
-   "id": "17e2a84f-4c9c-4880-aac8-1999aee8b0a5",
-   "effective_time": "20260327",
+   "set_id": "3649f7b5-dcce-b246-e063-6394a90a3145",
+   "id": "55906f7b-3056-2b93-e063-6394a90ab81a",
+   "effective_time": "20250619",
    "version": "3",
    "brand_name": [
-    "Multivitamin with Fluoride"
+    "Thiamine Hydrochloride"
    ],
    "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "Fosun Pharma USA Inc."
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 14
+   "application_number": [
+    "ANDA217181"
+   ],
+   "n_sections": 16
   },
   {
-   "set_id": "790a9ec0-eb61-4148-86e9-91439e4dce89",
-   "id": "8aa7c610-d97e-47af-8700-e2189deef8c5",
-   "effective_time": "20260327",
+   "set_id": "fc0265cd-d13a-477c-8c2c-8d44fd86444e",
+   "id": "809c6495-dfc8-4a9e-ab98-9a5e607075ab",
+   "effective_time": "20250227",
+   "version": "3",
+   "brand_name": [
+    "thiamine hydrochloride"
+   ],
+   "generic_name": [
+    "THIAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217800"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "2d402a31-3240-42a0-bd34-8fccd6a792d3",
+   "id": "2d388a74-ef70-f1a1-e063-6294a90a9878",
+   "effective_time": "20250203",
+   "version": "1",
+   "brand_name": [
+    "Thiamine Hydrochloride"
+   ],
+   "generic_name": [
+    "THIAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218471"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "8909424c-9d5b-4e35-b2d3-da9d3316a4cc",
+   "id": "66c1e502-6c85-43a5-b9a7-76368ebd39bc",
+   "effective_time": "20240520",
    "version": "2",
    "brand_name": [
-    "M-Natal Plus"
+    "Thiamine"
    ],
    "generic_name": [
-    "VITAMIN A, VITAMIN C, VITAMIN D, VITAMIN E, THIAMINE, RIBOFLAVIN, NIACIN, VITAMIN B6, FOLIC ACID, VITAMIN B12, CALCIUM, IRON, ZINC, COPPER"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "Caplin Steriles Limited"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 11
+   "application_number": [
+    "ANDA215692"
+   ],
+   "n_sections": 20
   },
   {
-   "set_id": "ef79cadb-c553-4af1-9a53-6ea1ab26b4bb",
-   "id": "5308c8f6-d9e3-41bd-bb23-2caf1ff3a002",
-   "effective_time": "20260318",
-   "version": "105",
+   "set_id": "63f3631b-ba1e-430c-a30b-dd05b2c00c13",
+   "id": "54a057cd-6e3d-40e6-8329-98e47da7dd68",
+   "effective_time": "20240411",
+   "version": "4",
    "brand_name": [
-    "Multivitamin with Fluoride"
+    "Thiamine Hydrochloride"
    ],
    "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "Hikma Pharmaceuticals USA Inc."
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 14
+   "application_number": [
+    "ANDA080575"
+   ],
+   "n_sections": 19
   },
   {
-   "set_id": "f28c8928-81c3-458a-9ce2-2aaca3b7527d",
-   "id": "4254b5b8-aa9b-4d8f-9388-2f249c7501d6",
-   "effective_time": "20260318",
-   "version": "105",
+   "set_id": "9ecbf165-bd2e-4bc1-a52c-1f40d1c2bbd9",
+   "id": "9ecbf165-bd2e-4bc1-a52c-1f40d1c2bbd9",
+   "effective_time": "20230522",
+   "version": "1",
    "brand_name": [
-    "Multivitamin with Fluoride"
+    "Thiamine"
    ],
    "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "Armas Pharmaceuticals Inc."
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 14
+   "application_number": [
+    "ANDA215692"
+   ],
+   "n_sections": 20
   },
   {
-   "set_id": "f9f15374-4809-4b96-8a07-3c2f1011d110",
-   "id": "b13c2377-54dc-4ec0-ab51-bc3e5cb4b6e2",
-   "effective_time": "20260318",
-   "version": "104",
+   "set_id": "f4790075-a740-4550-9d4c-69a00dac354c",
+   "id": "f4790075-a740-4550-9d4c-69a00dac354c",
+   "effective_time": "20230420",
+   "version": "1",
    "brand_name": [
-    "M-Natal Plus"
+    "Thiamine"
    ],
    "generic_name": [
-    "VITAMIN A, VITAMIN C, VITAMIN D, VITAMIN E, THIAMINE, RIBOFLAVIN, NIACIN, VITAMIN B6, FOLIC ACID, VITAMIN B12, CALCIUM, IRON, ZINC, COPPER"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "NorthStar Rx LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 11
+   "application_number": [
+    "ANDA215692"
+   ],
+   "n_sections": 20
   },
   {
-   "set_id": "3c3acbdd-0bcb-4798-b6c5-242bdcd352b1",
-   "id": "eb764b9e-fe24-427c-bc3c-895f3ea96486",
-   "effective_time": "20260317",
-   "version": "105",
+   "set_id": "43926cec-e483-8cf1-4d8d-5145e554d45d",
+   "id": "253cd4f8-82f7-be9b-ace6-0e59b3326d88",
+   "effective_time": "20221230",
+   "version": "1",
    "brand_name": [
-    "Multivitamin with Fluoride"
+    "Thiamine Hydrochloride"
    ],
    "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "Dr. Reddy's Laboratories Inc."
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 14
+   "application_number": [
+    "ANDA080571"
+   ],
+   "n_sections": 20
   },
   {
-   "set_id": "5568579f-3445-4f04-a936-33c78b33392c",
-   "id": "ef7fa48e-885e-4e01-99fe-705297fa1c70",
-   "effective_time": "20260317",
-   "version": "105",
+   "set_id": "12986d0e-b8bf-4338-9d85-07f973b35439",
+   "id": "cbc5513d-4341-455c-b435-53dd5624efaa",
+   "effective_time": "20210415",
+   "version": "8",
    "brand_name": [
-    "Multivitamin with Fluoride"
+    "Thiamine Hydrochloride"
    ],
    "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
+    "THIAMINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Bryant Ranch Prepack"
+    "Mylan Institutional LLC"
    ],
    "route": [
-    "ORAL"
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
-   "application_number": [],
-   "n_sections": 14
-  },
-  {
-   "set_id": "6607fcec-2da9-47df-ad92-1d545f7bf535",
-   "id": "5ecefd6e-ad00-4ea6-9ef0-737689ea06c2",
-   "effective_time": "20260317",
-   "version": "105",
-   "brand_name": [
-    "Multivitamin with Fluoride"
+   "application_number": [
+    "ANDA091623"
    ],
-   "generic_name": [
-    ".ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, CYANOCOBALAMIN, FOLIC ACID, NIACIN, PYRIDOXINE, RIBOFLAVIN, SODIUM FLUORIDE, THIAMINE MONONITRATE, VITAMIN A AND VITAMIN D"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [],
-   "n_sections": 14
+   "n_sections": 19
   }
  ],
  "label": {
+  "description": [
+   "DESCRIPTION: Thiamine Hydrochloride Injection, USP is a sterile solution of thiamine hydrochloride in Water for Injection for intramuscular (IM) or slow intravenous (IV) administration. Each mL contains: Thiamine hydrochloride 100 mg; chlorobutanol anhydrous (chloral derivative) 0.5%; monothioglycerol 0.5%; water for injection, q.s. Sodium hydroxide may have been added for pH adjustment (2.5 to 4.5). Thiamine hydrochloride, or vitamin B 1 , occurs as white crystals or crystalline powder that usually has a slight characteristic odor. Freely soluble in water; soluble in glycerin; slightly soluble in alcohol; insoluble in ether and benzene. Thiamine is rapidly destroyed in neutral or alkaline solutions but is stable in the dry state. It is reasonably stable to heat in acid solution. The chemical name of thiamine hydrochloride is thiazolium,3-[(4-amino-2-methyl-5-pyrimidinyl)methyl]-5-(2-hydroxyethyl)-4-methylchloride, monohydrochloride and it has the following structural formula: C 12 H 17 CIN 4 OS • HCl M.W. 337.27 structure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY: The water soluble vitamins are widely distributed in both plants and animals. They are absorbed in man by both diffusion and active transport mechanisms. These vitamins are structurally diverse (derivatives of sugar, pyridine, purines, pyrimidine, organic acid complexes and nucleotide complex) and act as coenzymes, as oxidation-reduction agents, possibly as mitochondrial agents. Metabolism is rapid, and the excess is excreted in the urine. Thiamine is distributed in all tissues. The highest concentrations occur in liver, brain, kidney and heart. When thiamine intake is greatly in excess of need, tissue stores increase two to three times. If intake is insufficient, tissues become depleted of their vitamin content. Absorption of thiamine following IM administration is rapid and complete. Thiamine combines with adenosine triphosphate (ATP) to form thiamine pyrophosphate, also known as cocarboxylase, a coenzyme. Its role in carbohydrate metabolism is the decarboxylation of pyruvic acid in the blood and α-ketoacids to acetaldehyde and carbon dioxide. Increased levels of pyruvic acid in the blood indicate vitamin B 1 deficiency. The requirement for thiamine is greater when the carbohydrate content of the diet is raised. Body depletion of vitamin B 1 can occur after approximately three weeks of total absence of thiamine in the diet."
+  ],
   "indications_and_usage": [
-   "1 INDICATIONS AND USAGE Multiple vitamins injection (pediatric) is a combination of vitamins indicated for the prevention of vitamin deficiency in pediatric patients up to 11 years of age receiving parenteral nutrition. The physician should not await the development of clinical signs of vitamin deficiency before initiating vitamin therapy. Multiple vitamins injection (pediatric) is a combination of vitamins indicated for the prevention of vitamin deficiency in pediatric patients up to 11 years of age receiving parenteral nutrition ( 1 )"
-  ],
-  "dosage_and_administration": [
-   "2 DOSAGE AND ADMINISTRATION Multiple vitamins injection (pediatric) is a combination product that contains the following vitamins: ascorbic acid, vitamin A, vitamin D, thiamine, riboflavin, pyridoxine, niacinamide, dexpanthenol, vitamin E, vitamin K 1 , folic acid, biotin, and vitamin B 12 ( 2.1 ) Multiple vitamins injection (pediatric) is for administration by intravenous infusion after dilution ( 2.1 ) Recommended daily dosage is based on patient’s actual weight ( 2.2 ): Multiple vitamins injection (pediatric) Pharmacy Bulk Package: Weight less than 1 kg: 1.5 mL of combined content of Vials 1 and 2 Weight 1 kg to less than 3 kg: 3.25 mL of combined content of Vials 1 and 2 Weight 3 kg or greater: 5 mL of combined content of Vials 1 and 2. Supplemental vitamin A may be required for low-birth weight infants ( 2.2 ) Multiple vitamins injection (pediatric) is supplied as a pharmacy bulk package: Pharmacy Bulk Package consists of two vials labeled Vial 1 and Vial 2. Transfer contents of Vial 2 to contents of Vial 1. Then, take 1.5 mL, 3.25 mL, or 5 mL from mixture and add to at least 100 mL of intravenous dextrose or saline solution prior to intravenous use ( 2.3 ) After dilution in an intravenous infusion, refrigerate resulting solution unless used immediately. Use solution within 24 hours after dilution ( 2.3 ) Monitor blood vitamin concentrations ( 2.4 ) See Full Prescribing Information for drug incompatibilities ( 2.5 ) 2.1 Important Dosage and Administration Instructions Multiple vitamins injection (pediatric) is a combination product that contains the following vitamins: ascorbic acid, vitamin A, vitamin D, thiamine, riboflavin, pyridoxine, niacinamide, dexpanthenol, vitamin E, vitamin K 1 , folic acid, biotin, and vitamin B 12 . Multiple vitamins injection (pediatric) is supplied as a pharmacy bulk package for intravenous use intended for administration by intravenous infusion after dilution: Multiple vitamins injection (pediatric) Pharmacy Bulk Package consists of two pharmacy bulk vials which must be mixed prior to use. The mixed solution will provide multiple daily doses which must be diluted prior to intravenous administration. Pharmacy bulk package of multiple vitamins injection (pediatric) is intended for dispensing of single doses to multiple patients in a pharmacy admixture program and is restricted to the preparation of admixtures for infusion. [see Dosage and Administration ( 2.2 and 2.3 )]. 2.2 Dosage Information The recommended daily dosage volume is based on the patient's actual weight: less than 1 kg, 1 kg to less than 3 kg, and 3 kg or greater. Patients with multiple vitamin deficiencies or with increased vitamin requirements may need multiple daily dosages as indicated or additional doses of individual vitamins. Supplemental vitamin A may be required for low-birth weight infants. Additional daily dosages of Vitamin E in infants are not recommended [see Warnings and Precautions ( 5.8 )] . Multiple vitamins injection (pediatric) Pharmacy Bulk Package (see Table 2 ): The recommended daily dosage volume of combined content of vials 1 and 2 (1.5 mL, 3.25 mL or 5 mL) is based on the patient’s weight and then added directly to the specific volume of an intravenous fluid [ see Dosage and Administration ( 2.3 ) ] . Table 2: Recommended Weight-Based Dosage of Multiple Vitamins Injection (Pediatric) Pharmacy Bulk Package Less than 1 kg 1 kg to less than 3 kg 3 kg or greater Daily Dosage Volume (combined contents of Vial 1 and Vial 2) 1.5 mL 3.25 mL 5 mL Ascorbic acid (Vitamin C) 24 mg 52 mg 80 mg Vitamin A (as palmitate) 690 IU (equals 0.2 mg) 1,495 IU (equals 0.5 mg) 2,300 IU (equals 0.7 mg) Vitamin D 3 (cholecalciferol) 120 IU (equals 3 mcg) 260 IU (equals 7 mcg ) 400 IU (equals 10 mcg) Thiamine (Vitamin B 1 ) (as the hydrochloride) 0.4 mg 0.8 mg 1.2 mg Riboflavin (Vitamin B 2 ) (as riboflavin 5-phosphate sodium) 0.4 mg 0.9 mg 1.4 mg Pyridoxine HCl (Vitamin B 6 ) 0.3 mg 0.7 mg 1 mg Niacinamide 5.1 mg 11.1 mg 17 mg Dexpanthenol (as d -pantothenyl alcohol) 1.5 mg 3.3 mg 5 mg Vitamin E ( dl -α-tocopheryl acetate) 2.1 IU (equals 2 mg) 4.6 IU (equals 5 mg) 7 IU (equals 7 mg) Vitamin K 1 0.1 mg 0.1 mg 0.2 mg Folic acid 42 mcg 91 mcg 140 mcg Biotin 6 mcg 13 mcg 20 mcg Vitamin B 12 (cyanocobalamin) 0.3 mcg 0.7 mcg 1 mcg 2.3 Preparation and Administration Instructions Do not administer multiple vitamins injection (pediatric) as a direct, undiluted intravenous injection as it may cause dizziness, faintness, and possible tissue irritation. Multiple vitamins injection (pediatric) Pharmacy Bulk Package: Use only in a suitable work area such as a laminar flow hood (or an equivalent clean air compounding area). Transfer the contents of Vial 2 (10 mL of solution) into the contents of Vial 1 (40 mL of solution). The mixed solution (50 mL) will provide thirty-three 1.5 mL single doses, fifteen 3.25 mL single doses or ten 5 mL single doses. Each bulk vial closure shall be penetrated only one time with a suitable sterile transfer device or dispensing set that allows measured dispensing of the contents. Once the closure system has been penetrated, complete dispensing from the pharmacy bulk vial should be completed within 4 hours. The mixed solution may be refrigerated and stored for up to 4 hours. Discard unused portion. Visually inspect for particulate matter and discoloration prior to administration. Add one dose directly to at least 100 mL of intravenous dextrose or saline solution for each patient. After multiple vitamins injection (pediatric) is diluted in an intravenous infusion, refrigerate the resulting solution unless it is to be used immediately, and use the solution within 24 hours after dilution. Minimize exposure to light because some of the vitamins in multiple vitamins injection (pediatric), particularly A, D and riboflavin, are light sensitive. 2.4 Monitoring Vitamin Blood Levels Blood vitamin concentrations should be monitored to ensure maintenance of adequate levels, particularly in patients receiving parenteral multivitamins as the only source of vitamins for long periods of time. 2.5 Drug Incompatibilities • Multiple vitamins injection (pediatric) is not physically compatible with moderately alkaline solutions such as a sodium bicarbonate solution and other alkaline drugs such as acetazolamide sodium, aminophylline, ampicillin sodium, tetracycline HCl and chlorothiazide sodium. • Folic acid is unstable in the presence of calcium salts such as calcium gluconate. • Vitamin A and thiamine in multiple vitamins injection (pediatric) may react with bisulfite solutions such as sodium bisulfite or vitamin K bisulfite. • Do not add multiple vitamins injection (pediatric) directly to intravenous fat emulsions. • Consult appropriate references for additional listings of physical and chemical compatibility of solutions and drugs with the vitamin infusion when needed. If incompatibilities are identified, avoid admixture or Y-site administration with vitamin solutions."
-  ],
-  "dosage_and_administration_table": [
-   "<table><caption>Table 2: Recommended Weight-Based Dosage of Multiple Vitamins Injection (Pediatric) Pharmacy Bulk Package</caption><col width=\"41%\"/><col width=\"25%\"/><col width=\"25%\"/><col width=\"29%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"top\"/><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">Less than 1 kg</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">1 kg to less than 3 kg</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">3 kg or greater</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">Daily Dosage Volume (combined contents of Vial 1 and Vial 2)</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">1.5 mL</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">3.25 mL</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph><content styleCode=\"bold\">5 mL</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Ascorbic acid (Vitamin C)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>24 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>52 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>80 mg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Vitamin A (as palmitate)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>690 IU (equals 0.2 mg)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>1,495 IU (equals 0.5 mg)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>2,300 IU (equals 0.7 mg)</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Vitamin D<sub>3</sub> (cholecalciferol)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>120 IU (equals 3 mcg)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>260 IU (equals 7 mcg<content styleCode=\"italics\">)</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>400 IU (equals 10 mcg)</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Thiamine (Vitamin B<sub>1</sub>) (as the hydrochloride)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.4 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.8 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>1.2 mg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Riboflavin (Vitamin B<sub>2</sub>) (as riboflavin 5-phosphate sodium)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.4 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.9 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>1.4 mg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Pyridoxine HCl (Vitamin B<sub>6</sub>)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.3 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.7 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>1 mg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Niacinamide</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>5.1 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>11.1 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>17 mg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Dexpanthenol (as <content styleCode=\"italics\">d</content>-pantothenyl alcohol)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>1.5 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>3.3 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>5 mg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Vitamin E (<content styleCode=\"italics\">dl</content>-&#x3B1;-tocopheryl acetate)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>2.1 IU (equals 2 mg)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>4.6 IU (equals 5 mg)</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>7 IU (equals 7 mg)</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Vitamin K<sub>1</sub></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.1 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.1 mg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>0.2 mg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Folic acid</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>42 mcg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>91 mcg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>140 mcg</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule\" valign=\"middle\"><paragraph>Biotin</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>6 mcg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>13 mcg</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule\" valign=\"middle\"><paragraph>20 mcg</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"middle\"><paragraph>Vitamin B<sub>12</sub> (cyanocobalamin)</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"middle\"><paragraph>0.3 mcg</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"middle\"><paragraph>0.7 mcg</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"middle\"><paragraph>1 mcg</paragraph></td></tr></tbody></table>"
-  ],
-  "dosage_forms_and_strengths": [
-   "3 DOSAGE FORMS AND STRENGTHS Multiple vitamins injection (pediatric) Pharmacy Bulk Package is an injection consisting of two vials labeled Vial 1 (40 mL Fill in 50 mL Vial) and Vial 2 (10 mL). The mixed solution (50 mL) will provide thirty-three 1.5 mL single doses, fifteen 3.25 mL single doses or ten 5 mL single doses. For the vitamin strengths [see Dosage and Administration (2.2) and Description ( 11 )]. Vial 1 (Pharmacy Bulk Package) is supplied as clear, yellow to orange colored solution in amber glass vial, closed with a rubber stopper, aluminum flip-off seal of a blue color matte top. Vial 2 (Pharmacy Bulk Package) is supplied as clear, off white to pale yellow colored solution in amber glass vial, closed with a rubber stopper, aluminum flip-off seal of a pink color matte top. Multiple vitamins injection (pediatric) pharmacy bulk package is an injection consisting of two vials labeled Vial 1 (40 mL fill in 50 mL) and Vial 2 (10 mL) ( 3 ) See Full Prescribing Information for vitamin strengths ( 11 )"
+   "INDICATIONS AND USAGE: Thiamine hydrochloride injection is effective for the treatment of thiamine deficiency or beriberi whether of the dry (major symptoms related to the nervous system) or wet (major symptoms related to the cardiovascular system) variety. Thiamine hydrochloride injection should be used where rapid restoration of thiamine is necessary, as in Wernicke’s encephalopathy, infantile beriberi with acute collapse, cardiovascular disease due to thiamine deficiency, or neuritis of pregnancy if vomiting is severe. It is also indicated when giving IV dextrose to individuals with marginal thiamine status to avoid precipitation of heart failure. Thiamine hydrochloride injection is also indicated in patients with established thiamine deficiency who cannot take thiamine orally due to coexisting severe anorexia, nausea, vomiting, or malabsorption. Thiamine hydrochloride injection is not usually indicated for conditions of decreased oral intake or decreased gastrointestinal absorption, because multiple vitamins should usually be given."
   ],
   "contraindications": [
-   "4 CONTRAINDICATIONS Multiple vitamins injection (pediatric) is contraindicated in patients who have: • An existing hypervitaminosis, or • A history of hypersensitivity to any vitamins or excipients contained in this formulation. • Hypersensitivity to any of vitamins or excipients ( 4 ) • Existing hypervitaminosis ( 4 )"
+   "CONTRAINDICATIONS: A history of sensitivity to thiamine or to any of the ingredients in this drug is a contraindication. (See WARNINGS for further information.)"
   ],
-  "warnings_and_cautions": [
-   "5 WARNINGS AND PRECAUTIONS • Risk of Aluminum Toxicity: For at risk patients (renal failure or those with prolonged therapy), consider periodic monitoring of aluminum levels ( 5.1 ) • Allergic Reactions: To thiamine may occur ( 5.2 ) • Hypervitaminosis A : Patients with renal failure or liver disease may be at higher risk ( 5.3 ) • Decreased Anticoagulant Effect of Warfarin: Monitor INR ( 5.4 , 7.1 ) • Interferes with Megaloblastic Anemia Diagnosis: Avoid during testing for this disorder ( 5.5 ) • Risk of Vitamin Deficiencies or Excesses: Monitor blood vitamin concentrations ( 5.6 ) • False Negative Urine Glucose Tests: Due to vitamin C ( 5.7 ) • Risk of Vitamin E Toxicity: Additional oral and parenteral vitamin E may result in elevated vitamin E blood concentrations in infants ( 5.8 ) • Low Vitamin A Levels: Monitor vitamin A levels ( 5.9 ) • Risk of E- Ferol Syndrome: Due to polysorbates ( 5.10 ) 5.1 Aluminum Toxicity Multiple vitamins injection (pediatric) contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration in pediatric patients with renal impairment. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solution, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. To prevent aluminum toxicity periodically monitor aluminum levels with prolonged parenteral administration of multiple vitamins injection (pediatric). 5.2 Allergic Reactions to Thiamine Allergic reactions such as urticaria, shortness of breath, wheezing and angioedema have been reported following intravenous administration of thiamine, which is found in multiple vitamins injection (pediatric). There have been rare reports of anaphylaxis following intravenous doses of thiamine. No fatal anaphylaxis associated with multiple vitamins injection (pediatric) has been reported. 5.3 Hypervitaminosis A Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver disease with vitamin A, an ingredient found in multiple vitamins injection (pediatric), should be undertaken with caution [ see Use in Specific Populations ( 8.6 and 8.7 ) ]. Blood levels of Vitamin A should be monitored periodically. 5.4 Decreased Anticoagulant Effect of Warfarin Multiple vitamins injection (pediatric) contains Vitamin K which may decrease the anticoagulant action of warfarin. In patients who are on warfarin anticoagulant therapy receiving multiple vitamins injection (pediatric) monitor blood levels of prothrombin/INR to determine if dose of warfarin needs to be adjusted. 5.5 Interference with Diagnosis of Megaloblastic Anemia Multiple vitamins injection (pediatric) contains folic acid and cyanocobalamin which can mask serum deficiencies of folic acid and cyanocobalamin in patients with megaloblastic anemia. Avoid the use of multiple vitamins injection (pediatric) in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. 5.6 Potential to Develop Vitamin Deficiencies or Excesses In patients receiving parenteral multivitamins such as with multiple vitamins injection (pediatric), blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. Multiple vitamins injection (pediatric) may not correct long-standing specific vitamin deficiencies. The administration of additional doses of specific vitamins may be required [ see Dosage and Administration ( 2.2 ) ] . 5.7 Interference with Urine Glucose Testing Multiple vitamins injection (pediatric) contains vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose results. 5.8 Vitamin E Overdose in Infants Receiving Additional Vitamin E Additional vitamin E supplementations of patients receiving multiple vitamins injection (pediatric) may result in elevated blood concentrations of vitamin E and potential vitamin E toxicity in infants. Avoid additional oral or parental doses of vitamin E in infants. Daily dose of multiple vitamins injection (pediatric) contains adequate concentrations of vitamin E required to achieve normal blood levels of vitamin E. 5.9 Risk of Low Vitamin A Levels Lower vitamin A concentrations may occur after administration of multiple vitamins injection (pediatric) due to the adherence of Vitamin A to plastic. Monitor blood vitamin A concentrations periodically. Additional administration of therapeutic doses of vitamin A may be required, especially in low-birth weight infants. 5.10 Risk of E-Ferol Syndrome in Low-Birth Weight Infants E-Ferol syndrome manifested by thrombocytopenia, renal dysfunction, hepatomegaly, cholestasis, ascites, hypotension and metabolic acidosis has been reported in low-birth weight infants following administration of polysorbates which are found in multiple vitamins injection (pediatric). No E-Ferol syndrome associated with multiple vitamins injection (pediatric) has been reported."
+  "warnings": [
+   "WARNINGS: WARNING: This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. Serious hypersensitivity/anaphylactic reactions can occur, especially after repeated administration. Deaths have resulted from IV or IM administration of thiamine (see ADVERSE REACTIONS ). Routine testing for hypersensitivity, in many cases, may not detect hypersensitivity. Nevertheless, a skin test should be performed on patients who are suspected of drug allergies or previous reactions to thiamine, and any positive responders should not receive thiamine by injection. If hypersensitivity to thiamine is suspected (based on history of drug allergy or occurrence of adverse reactions after thiamine administration), administer one-hundredth of the dose intradermally and observe for 30 minutes. If no reaction occurs, full dose can be given; the patient should be observed for at least 30 minutes after injection. Be prepared to treat anaphylactic reactions regardless of the precautions taken. Treatment of anaphylactic reactions includes maintaining a patent airway and the use of epinephrine, oxygen, vasopressors, steroids and antihistamines."
   ],
-  "adverse_reactions": [
-   "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other sections of the labeling. • Allergic reactions to thiamine [ see Warnings and Precautions ( 5.2 ) ]. • Hypervitaminosis A [ see Warnings and Precautions ( 5.3 ) ] The following adverse reactions have been identified during postapproval use of multiple vitamins injection (pediatric). Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Dermatologic: rash, erythema, pruritis CNS: headache, dizziness, agitation, anxiety Ophthalmic: diplopia Adverse reactions have included anaphylaxis, rash, erythema, pruritis, headache, dizziness, agitation, anxiety, diplopia ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Apotex Corp. at 1-800-706-5575 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  "precautions": [
+   "PRECAUTIONS: General Simple vitamin B 1 deficiency is rare. Multiple vitamin deficiencies should be suspected in any case of dietary inadequacy. Information for Patients The patient should be advised as to proper dietary habits during treatment so that relapses will be less likely to occur with reduction in dosage or cessation of injection therapy. Usage in Pregnancy Pregnancy Category A –Studies in pregnant women have not shown that thiamine hydrochloride increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm however, thiamine hydrochloride should be used during pregnancy only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when thiamine hydrochloride is administered to a nursing mother."
   ],
-  "drug_interactions": [
-   "7 DRUG INTERACTIONS A number of interactions between vitamins and drugs have been reported. The following are examples of these types of interactions. Effect of multiple vitamins injection (pediatric) on other drugs : • Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin ( 7.1 ) • Bleomycin : Ascorbic acid and riboflavin may reduce the activity of bleomycin ( 7.1 ) • Levodopa: Pyridoxine may decrease blood levels of levodopa and levodopa efficacy may decrease ( 7.1 ) • Phenytoin: Folic acid may decrease phenytoin blood levels and increase risk of seizure activity ( 7.1 ) • Methotrexate: Folic acid may decrease response to methotrexate ( 7.1 ) Effects of other drugs on multiple vitamins injection (pediatric) : • Hydralazine, Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements ( 7.2 ). • Phenytoin: May decrease folic acid concentrations ( 7.2 ) 7.1 Drug Interactions Affecting Co-Administered Drugs Warfarin: Vitamin K, a component of multiple vitamins injection (pediatric), antagonizes the anticoagulant action of warfarin. In patients who are co-administered warfarin and multiple vitamins injection (pediatric), blood levels of prothrombin/INR should be monitored to determine if dose of warfarin needs to be adjusted [see Warnings and Precautions ( 5.4 )] . Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease antibiotic activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin: Ascorbic acid and riboflavin inactivate bleomycin in vitro , thus the activity of bleomycin may be reduced. Levodopa: Pyridoxine may increase the metabolism of levodopa (decrease blood levels of levodopa) and decrease its efficacy. Phenytoin: Folic acid may increase phenytoin metabolism and lower the serum concentration of phenytoin resulting in increased seizure activity. Methotrexate: Folic acid may decrease a patient’s response to methotrexate therapy. 7.2 Drug Interactions Affecting Vitamin Levels Hydralazine, Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements. Phenytoin: Phenytoin may decrease serum folic acid concentrations."
-  ],
-  "use_in_specific_populations": [
-   "8 USE IN SPECIFIC POPULATIONS Pregnancy and Lactation: Pregnant and lactating patients should follow the U.S. Recommended Daily Allowances for their condition, because their vitamin requirements may exceed those of nonpregnant and nonlactating patients ( 8.1 , 8.2 ) Renal Impairment: Monitor renal function, calcium, phosphorus and vitamin A levels ( 8.6 ) Hepatic Impairment: Monitor vitamin A levels ( 8.7 ) 8.1 Pregnancy Risk Summary Administration of the approved recommended dose of multiple vitamins injection (pediatric) in parental nutrition is not expected to cause major birth defects, miscarriage, or adverse maternal or fetal outcomes. Pregnant patients should follow the U.S. Recommended Daily Allowances for pregnancy because their vitamin requirements may exceed those of nonpregnant patients. Deficiency of essential vitamins may result in adverse pregnancy outcomes (see Clinical Considerations) . Animal reproduction studies have not been conducted with multiple vitamins injection (pediatric). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated Maternal and/or Embryo-Fetal Risk Deficiency of essential vitamins has been associated with adverse pregnancy and fetal outcomes, such as maternal folic acid deficiency and an increased risk of neural tube defects. Therefore, parenteral nutrition with multiple vitamins injection should be considered if a pregnant patient’s nutritional requirements cannot be fulfilled by oral or enteral intake. 8.2 Lactation Risk Summary Multiple vitamins present in multiple vitamins injection (pediatric) are also present in human milk. Administration of the approved recommended dose of multiple vitamins injection (pediatric) in parental nutrition is not expected to cause harm to a breastfed infant. There is no information on the effects of multiple vitamins injection (pediatric) on milk production. Lactating patients should follow the U.S. Recommended Daily Allowances for their condition, because their vitamin requirements may exceed those of nonlactating patients. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for multiple vitamins injection (pediatric) and any potential adverse effects on the breastfed child from multiple vitamins injection (pediatric) or from the underlying maternal condition. 8.4 Pediatric Use Multiple vitamins injection (pediatric) is approved for the prevention of vitamin deficiency in pediatric patients up to 11 years old receiving parenteral nutrition. Multiple vitamins injection (pediatric) has not been studied in pediatric patients older than 11 years. Multiple vitamins injection (pediatric) contains aluminum that may be toxic for premature neonates. Aluminum levels should be monitored periodically during administration of multiple vitamins injection (pediatric) to premature neonates [ see Warnings and Precautions ( 5.1 ) ]. Additional vitamin E supplementations of infants receiving multiple vitamins injection (pediatric) may result in elevated blood concentrations of vitamin E and potential vitamin E toxicity [ see Warnings and Precautions ( 5.8 ) ]. E-Ferol syndrome has been reported in low-birth weight infants following administration of polysorbates which are found in multiple vitamins injection (pediatric). No E-Ferol syndrome associated with multiple vitamins injection (pediatric) has been reported [ see Warnings and Precautions ( 5.10 ) ]. 8.6 Renal Impairment Multiple vitamins injection (pediatric) has not been studied in patients with renal impairment. Monitor renal function, calcium, phosphorus and vitamin A levels in patients with renal impairment [ see Warnings and Precautions ( 5.1 and 5.3 )] . 8.7 Hepatic Impairment Multiple vitamins injection (pediatric) has not been studied in patients with liver impairment. Monitor vitamin A levels in patients with liver disease [ see Warnings and Precautions ( 5.3 ) ] ."
-  ],
-  "pregnancy": [
-   "8.1 Pregnancy Risk Summary Administration of the approved recommended dose of multiple vitamins injection (pediatric) in parental nutrition is not expected to cause major birth defects, miscarriage, or adverse maternal or fetal outcomes. Pregnant patients should follow the U.S. Recommended Daily Allowances for pregnancy because their vitamin requirements may exceed those of nonpregnant patients. Deficiency of essential vitamins may result in adverse pregnancy outcomes (see Clinical Considerations) . Animal reproduction studies have not been conducted with multiple vitamins injection (pediatric). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated Maternal and/or Embryo-Fetal Risk Deficiency of essential vitamins has been associated with adverse pregnancy and fetal outcomes, such as maternal folic acid deficiency and an increased risk of neural tube defects. Therefore, parenteral nutrition with multiple vitamins injection should be considered if a pregnant patient’s nutritional requirements cannot be fulfilled by oral or enteral intake."
-  ],
-  "pediatric_use": [
-   "8.4 Pediatric Use Multiple vitamins injection (pediatric) is approved for the prevention of vitamin deficiency in pediatric patients up to 11 years old receiving parenteral nutrition. Multiple vitamins injection (pediatric) has not been studied in pediatric patients older than 11 years. Multiple vitamins injection (pediatric) contains aluminum that may be toxic for premature neonates. Aluminum levels should be monitored periodically during administration of multiple vitamins injection (pediatric) to premature neonates [ see Warnings and Precautions ( 5.1 ) ]. Additional vitamin E supplementations of infants receiving multiple vitamins injection (pediatric) may result in elevated blood concentrations of vitamin E and potential vitamin E toxicity [ see Warnings and Precautions ( 5.8 ) ]. E-Ferol syndrome has been reported in low-birth weight infants following administration of polysorbates which are found in multiple vitamins injection (pediatric). No E-Ferol syndrome associated with multiple vitamins injection (pediatric) has been reported [ see Warnings and Precautions ( 5.10 ) ]."
-  ],
-  "overdosage": [
-   "10 OVERDOSAGE Signs and symptoms of acute or chronic overdosage may be those of individual multiple vitamins injection (pediatric) component toxicity. There is no clinical experience with multiple vitamins injection (pediatric) overdosage."
-  ],
-  "description": [
-   "11 DESCRIPTION Multiple vitamins injection (pediatric) is a sterile product consisting of two vials provided as a pharmacy bulk package for intravenous use intended for administration by intravenous infusion after dilution: Multiple vitamins injection (pediatric) supplied as pharmacy bulk package consists of: (a) Vial 1 (40 mL Fill in 50 mL Vial); and (b) Vial 2 (10 mL). The mixed solution will provide many single doses [see Dosage and Administration ( 2.2 )]. Each 4 mL of Vial 1 contains 10 vitamins and each 1 mL of Vial 2 contains 3 vitamins (see Table 3 ). Table 3: Ingredients In Multiple Vitamins Injection (Pediatric) Formulation Vial 1 Active Ingredient Quantity per 4 mL Ascorbic acid (Vitamin C) 80 mg Vitamin A* (as palmitate) 2,300 IU (equals 0.7 mg) Vitamin D 3 * (cholecalciferol) 400 IU (equals 10 mcg) Thiamine (Vitamin B 1 ) (as the hydrochloride) 1.2 mg Riboflavin (Vitamin B 2 ) (as riboflavin 5-phosphate sodium) 1.4 mg Pyridoxine HCl (Vitamin B 6 ) 1 mg Niacinamide 17 mg Dexpanthenol (as d-pantothenyl alcohol) 5 mg Vitamin E* (dl-α-tocopheryl acetate) 7 IU (equals 7 mg) Vitamin K 1 * 0.2 mg *Polysorbate 80 is used to water solubilize the oil-soluble vitamins A, D, E, and K. Inactive ingredients in 4 mL of Vial 1: 50 mg polysorbate 80, sodium hydroxide and/or hydrochloric acid for pH adjustment, and water for injection. Vial 2 Active Ingredient Quantity per 1 mL Folic acid 140 mcg Biotin 20 mcg Vitamin B 12 (cyanocobalamin) 1 mcg Inactive ingredients in 1 mL of Vial 2: 75 mg mannitol, citric acid and/or sodium citrate for pH adjustment and water for injection. Multiple vitamins injection (pediatric) makes available a combination of oil-soluble and water-soluble vitamins in an aqueous solution, formulated for incorporation into intravenous solutions. The liposoluble vitamins A, D, E, and K have been solubilized in an aqueous medium with polysorbate 80, permitting intravenous administration of these vitamins. Multiple vitamins injection (pediatric) contains no more than 170 mcg/L of aluminum (combined Vials 1 and 2)."
-  ],
-  "description_table": [
-   "<table frame=\"box\" rules=\"all\"><tbody><tr><td align=\"center\" colspan=\"2\"><content styleCode=\"bold\">Vial 1</content></td></tr><tr><td><content styleCode=\"bold\">Active Ingredient </content></td><td><content styleCode=\"bold\">Quantity per 4 mL </content></td></tr><tr><td> Ascorbic acid (Vitamin C) </td><td> 80 mg </td></tr><tr><td> Vitamin A* (as palmitate) </td><td> 2,300 IU (equals 0.7 mg) </td></tr><tr><td> Vitamin D<sub>3</sub>* (cholecalciferol) </td><td> 400 IU (equals 10 mcg) </td></tr><tr><td> Thiamine (Vitamin B<sub>1</sub>) (as the hydrochloride) </td><td> 1.2 mg </td></tr><tr><td> Riboflavin (Vitamin B<sub>2</sub>) (as riboflavin 5-phosphate sodium) </td><td> 1.4 mg </td></tr><tr><td> Pyridoxine HCl (Vitamin B<sub>6</sub>) </td><td> 1 mg </td></tr><tr><td> Niacinamide </td><td> 17 mg </td></tr><tr><td> Dexpanthenol (as d-pantothenyl alcohol) </td><td> 5 mg </td></tr><tr><td> Vitamin E* (dl-&#x3B1;-tocopheryl acetate) </td><td> 7 IU (equals 7 mg) </td></tr><tr><td> Vitamin K<sub>1</sub> * </td><td> 0.2 mg </td></tr></tbody></table>",
-   "<table frame=\"box\" rules=\"all\"><tbody><tr align=\"center\"><td colspan=\"2\"><content styleCode=\"bold\">Vial 2</content></td></tr><tr><td><content styleCode=\"bold\">Active Ingredient </content></td><td><content styleCode=\"bold\">Quantity per 1 mL </content></td></tr><tr><td> Folic acid </td><td> 140 mcg </td></tr><tr><td> Biotin </td><td> 20 mcg </td></tr><tr><td> Vitamin B<sub>12</sub> (cyanocobalamin) </td><td> 1 mcg </td></tr></tbody></table>"
-  ],
-  "nonclinical_toxicology": [
-   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenicity, mutagenicity, and fertility studies have not been performed with multiple vitamins injection (pediatric)."
-  ],
-  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
-   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenicity, mutagenicity, and fertility studies have not been performed with multiple vitamins injection (pediatric)."
-  ],
-  "how_supplied": [
-   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied Multiple vitamins injection (pediatric) is supplied as follows: Vial 1 (Pharmacy Bulk Package) is supplied as clear, yellow to orange colored solution in amber glass vial, closed with a rubber stopper, aluminum flip-off seal of a blue color matte top. Vial 2 (Pharmacy Bulk Package) is supplied as clear, off white to pale yellow colored solution in amber glass vial closed with a rubber stopper, aluminum flip-off seal of a pink color matte top. Multiple vitamins injection (pediatric) Pharmacy Bulk Package : Carton contains total two vials NDA 60505-6171-0 One vial 1 (40 mL Fill in 50 mL) NDC 60505-6295-1 One vial 2 (10 mL) NDC 60505-6296-2 Mixed contents of Vial 2 with Vial 1 provide thirty-three 1.5 mL single doses, fifteen 3.25 mL single doses or 10 single 5 mL doses [see Dosage and Administration ( 2.2 and 2.3)] . Storage and Handling: Minimize exposure of multiple vitamins injection (pediatric) to light because vitamins A, D and riboflavin are light sensitive. Store under refrigeration 2°C to 8°C (36°F to 46°F)."
-  ],
-  "how_supplied_table": [
-   "<table frame=\"box\" rules=\"all\"><tbody><tr><td> Carton contains total two vials </td><td> NDA 60505-6171-0 </td></tr><tr><td> One vial 1 (40 mL Fill in 50 mL) </td><td> NDC 60505-6295-1 </td></tr><tr><td> One vial 2 (10 mL) </td><td> NDC 60505-6296-2 </td></tr></tbody></table>"
+  "general_precautions": [
+   "General Simple vitamin B 1 deficiency is rare. Multiple vitamin deficiencies should be suspected in any case of dietary inadequacy."
   ],
   "information_for_patients": [
-   "17 PATIENT COUNSELING INFORMATION Instruct caregiver(s) and patients (if age appropriate): To watch for signs of allergic reactions such as urticaria, shortness of breath, wheezing and angioedema since hypersensitivity reactions may occur to any of the vitamins or excipients contained in multiple vitamins injection (pediatric). To watch for and immediately report nausea, vomiting, headache, dizziness, blurred vision, especially if patients have renal impairment, as these may be signs of hypervitaminosis A. To report other adverse reactions that patients may experience such as rash, erythema, pruritus, headache, dizziness, agitation, anxiety, and diplopia. Patients on warfarin anticoagulant therapy will be monitored periodically with blood prothrombin/ INR levels to determine if the dose of warfarin needs to be adjusted. About the significance of periodic monitoring of blood vitamin concentrations to determine if vitamin deficiencies or excesses are developing and the need to monitor renal function, calcium, phosphorus, aluminum and vitamin A levels in patients with renal impairment. That multiple vitamins injection (pediatric) should be avoided in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. That vitamin C (ascorbic acid) contained in multiple vitamins injection (pediatric) may cause false negative urine glucose results. Manufactured by: Manufactured for: Gland Pharma Limited Apotex Corp. Hyderabad, Telangana – 500 043, India Weston, Florida ML No. 103/AP/RR/97/F/R 33326 Revised: January 2026 Rev. 4"
+   "Information for Patients The patient should be advised as to proper dietary habits during treatment so that relapses will be less likely to occur with reduction in dosage or cessation of injection therapy."
   ],
-  "information_for_patients_table": [
-   "<table frame=\"void\" rules=\"none\"><tbody><tr><td><content styleCode=\"bold\">Manufactured by:</content></td><td><content styleCode=\"bold\">Manufactured for:</content></td></tr><tr><td>Gland Pharma Limited</td><td>Apotex Corp.</td></tr><tr><td>Hyderabad, Telangana &#x2013; 500 043, India</td><td>Weston, Florida</td></tr><tr><td>ML No. 103/AP/RR/97/F/R</td><td>33326</td></tr></tbody></table>"
+  "pregnancy": [
+   "Usage in Pregnancy Pregnancy Category A –Studies in pregnant women have not shown that thiamine hydrochloride increases the risk of fetal abnormalities if administered during pregnancy. If the drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm however, thiamine hydrochloride should be used during pregnancy only if clearly needed."
   ],
-  "set_id": "d9b6eb9a-4218-5c94-6e35-7cbbf0fba494",
-  "id": "9fb418a2-c16d-0000-01b8-c8fd7ad95b60",
-  "effective_time": "20260702",
-  "version": "2"
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when thiamine hydrochloride is administered to a nursing mother."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS: To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. An occasional individual may develop a hypersensitivity or life-threatening anaphylactic reaction to thiamine, especially after repeated injections. Collapse and death have been reported. A feeling of warmth, pruritus, urticaria, weakness, sweating, nausea, restlessness, tightness of the throat, angioneurotic edema, cyanosis, pulmonary edema, and hemorrhage into the gastrointestinal tract have also been reported. Some tenderness and induration may follow IM use (see WARNINGS )."
+  ],
+  "overdosage": [
+   "OVERDOSAGE: Parenteral doses of 100 to 500 mg singly have been administered without toxic effects. However, dosages exceeding 30 mg three times a day are not utilized effectively. When the body tissues are saturated with thiamine, it is excreted in the urine as pyrimidine. As the intake of thiamine is further increased, it appears unchanged in the urine."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION: “Wet” beriberi with myocardial failure must be treated as an emergency cardiac condition, and thiamine must be administered slowly by the IV route in this situation (see WARNINGS ). In the treatment of beriberi, 10 to 20 mg of thiamine hydrochloride are given IM three times daily for as long as two weeks. (See WARNINGS regarding repeated injections of thiamine.) An oral therapeutic multivitamin preparation containing 5 to 10 mg thiamine, administered daily for one month, is recommended to achieve body tissue saturation. Infantile beriberi that is mild may respond to oral therapy, but if collapse occurs, doses of 25 mg may cautiously be given IV. Poor dietary habits should be corrected and an abundant and well-balanced dietary intake should be prescribed. Patients with neuritis of pregnancy in whom vomiting is severe enough to preclude adequate oral therapy should receive 5 to 10 mg of thiamine hydrochloride IM daily. In the treatment of Wernicke-Korsakoff syndrome, thiamine hydrochloride has been administered IV in an initial dose of 100 mg, followed by IM doses of 50 to 100 mg daily until the patient is consuming a regular, balanced diet. (See WARNINGS regarding repeated injections of thiamine.) Patients with marginal thiamine status to whom dextrose is being administered should receive 100 mg thiamine hydrochloride in each of the first few liters of IV fluid to avoid precipitating heart failure. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED: Thiamine Hydrochloride Injection, USP is supplied as follows: Product Code Unit of Sale Strength Each PRX1302 NDC 63323-013-26 Unit of 25 200 mg per 2 mL (100 mg per mL) NDC 63323-013-41 2 mL Multiple Dose Vial Store at 20° to 25°C (68° to 77° F) [see USP Controlled Room Temperature]. PROTECT FROM LIGHT. Use only if solution is clear and seal intact."
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\"><col width=\"18%\"/><col width=\"25%\"/><col width=\"27%\"/><col width=\"28%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Product Code</content></paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Unit of Sale</content> </paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Strength</content></paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Each</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>PRX1302 </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>NDC 63323-013-26 Unit of 25 </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>200 mg per 2 mL (100 mg per mL) </paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>NDC 63323-013-41 2 mL Multiple Dose Vial </paragraph></td></tr></tbody></table>"
+  ],
+  "set_id": "af3f9344-f743-4bad-b319-53b96e13fee2",
+  "id": "99612c11-05be-4741-8b1d-0900165ef943",
+  "effective_time": "20260109",
+  "version": "3"
  }
 }
