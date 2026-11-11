@@ -1,0 +1,734 @@
+{
+ "id_es": "nitrofurantoina-macro",
+ "generic_en": "nitrofurantoin",
+ "search": "brand:MACROBID",
+ "pref": "nitrofurantoin|ORAL|MACROBID",
+ "downloaded": "2026-11-11T17:52Z",
+ "chosen": {
+  "set_id": "28bc9ec9-b8db-4ece-a14a-8bcf618cbf7e",
+  "id": "4a65bc05-7206-c088-e063-6294a90a9a3d",
+  "effective_time": "20260209",
+  "version": "9",
+  "brand_name": [
+   "Macrobid"
+  ],
+  "generic_name": [
+   "NITROFURANTOIN MONOHYDRATE/MACROCRYSTALLINE"
+  ],
+  "manufacturer_name": [
+   "REMEDYREPACK INC."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020064"
+  ],
+  "n_sections": 28
+ },
+ "candidates": [
+  {
+   "set_id": "37606c6f-0d85-4314-94ae-f7732c7bc8d5",
+   "id": "5f4cf25a-331c-e8b8-e063-6394a90a0146",
+   "effective_time": "20261102",
+   "version": "10",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "d88348a0-6ab4-4490-9325-1f14a541b0a5",
+   "id": "5f4d3fb1-fa7b-2ea1-e063-6394a90a9f40",
+   "effective_time": "20261102",
+   "version": "9",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "f40af3e1-e54c-3a35-e053-2a95a90a6cb2",
+   "id": "5c194601-e752-5395-e063-6394a90abc4b",
+   "effective_time": "20260922",
+   "version": "5",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "87505f8f-2056-4e55-adf5-5b7309081d7c",
+   "id": "5a6e614b-9ae9-9719-e063-6394a90a91c8",
+   "effective_time": "20260901",
+   "version": "3",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211935"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "6c82b95d-2c32-4e54-a8a9-a4bb4df70cb5",
+   "id": "596c5a11-5d18-f6eb-e063-6394a90a58eb",
+   "effective_time": "20260819",
+   "version": "11",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "729f6bbb-ab64-4b65-979a-4ad7605c5947",
+   "id": "86ac0486-a85c-419b-8a46-ec0ef2f82d8f",
+   "effective_time": "20260804",
+   "version": "7",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "09944470-807d-ad37-e063-6394a90a7bfe",
+   "id": "54ed8007-1a0d-541c-e063-6394a90a1919",
+   "effective_time": "20260623",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "28bc9ec9-b8db-4ece-a14a-8bcf618cbf7e",
+   "id": "4a65bc05-7206-c088-e063-6294a90a9a3d",
+   "effective_time": "20260209",
+   "version": "9",
+   "brand_name": [
+    "Macrobid"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN MONOHYDRATE/MACROCRYSTALLINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020064"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "dd99ba40-edff-47c3-9ee4-7e5b7774e5b5",
+   "id": "40efa147-f323-4d77-9a88-227434ff84c3",
+   "effective_time": "20260122",
+   "version": "3",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208909"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "89095f4d-e142-465e-b378-da24f6eeaf2b",
+   "id": "b6694787-d7b8-4bcb-8dff-5ff30a83443a",
+   "effective_time": "20251111",
+   "version": "5",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA009175"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "1c5db054-58af-4932-8fad-c3883b13f987",
+   "id": "6818d7fb-4946-42bc-ade4-e9055846194b",
+   "effective_time": "20251022",
+   "version": "100",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "8f270a9f-12a1-44d4-bc7e-873613555801",
+   "id": "a0e22b1a-3b68-4548-ab7e-58a3a068badc",
+   "effective_time": "20251014",
+   "version": "27",
+   "brand_name": [
+    "Macrobid"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN MONOHYDRATE/MACROCRYSTALLINE"
+   ],
+   "manufacturer_name": [
+    "Almatica Pharma LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020064"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "0819be0b-03e9-426e-a4b9-624c32958f94",
+   "id": "0819be0b-03e9-426e-a4b9-624c32958f94",
+   "effective_time": "20250901",
+   "version": "1",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211935"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "4e06b31e-cc49-4526-beb6-e77021823aa9",
+   "id": "3c3bf8e0-5135-f295-e063-6294a90a7f67",
+   "effective_time": "20250813",
+   "version": "1",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219495"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "d96098d0-3c2b-4e53-a3f0-3ebba81c4133",
+   "id": "35155f61-5d28-d364-e063-6294a90aa4c6",
+   "effective_time": "20250514",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217073"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "f4c2c01d-bef7-3e5d-e053-2995a90ae0d8",
+   "id": "2c6228e2-dbad-01e7-e063-6394a90acbbc",
+   "effective_time": "20250123",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "d4385368-46d6-8397-e053-2a95a90a8d68",
+   "id": "2be91ea1-1f2f-d635-e063-6294a90a4dd1",
+   "effective_time": "20250117",
+   "version": "4",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Directrx"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077066"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "68c718a7-2e8f-288c-37d2-053372ee61b9",
+   "id": "3cd77dd5-7b86-a52f-fa61-69afc7b4c6b6",
+   "effective_time": "20241114",
+   "version": "2",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Biocon Pharma Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218346"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "11dcea9c-0c62-4153-976b-bd1f8ef1f6d9",
+   "id": "96cbbaac-bd28-443c-bc4c-967fa09a2f99",
+   "effective_time": "20241030",
+   "version": "16",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA201679"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "3b377aff-2d4b-43ea-84c9-8e72c1421b7b",
+   "id": "7e94d701-0d57-4a04-bc74-d07febb8ad7b",
+   "effective_time": "20241008",
+   "version": "3",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216385"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "56e07ad3-7224-4aaf-9a68-0d48d4abfec8",
+   "id": "373aced9-859b-4b9c-b3bc-8257a9014ae4",
+   "effective_time": "20240828",
+   "version": "101",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "11e700aa-66f9-4939-8a6b-a23240ae1a0b",
+   "id": "dfecf83b-2b30-4505-9044-bec3dce43a39",
+   "effective_time": "20240516",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212607"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "04af8b73-7e15-7da8-e063-6294a90af284",
+   "id": "14c9efac-c0b1-7afe-e063-6294a90a39e4",
+   "effective_time": "20240329",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216385"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "bebbe5d6-f6ec-4191-bad3-b6e933da0688",
+   "id": "fc71d17e-601d-48b1-aee8-ae1cf1fcdd5a",
+   "effective_time": "20240315",
+   "version": "111",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e9d10eaa-cf9c-469e-82ef-5af7285f2c86",
+   "id": "30c5502b-09bd-4fd7-bec8-aba74d302e09",
+   "effective_time": "20240315",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212607"
+   ],
+   "n_sections": 29
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Nitrofurantoin is an antibacterial agent specific for urinary tract infections. Macrobid ® (Nitrofurantoin Capsules, USP) (monohydrate/macrocrystals) is a hard gelatin capsule. Each capsule contains 100 mg of nitrofurantoin in the form of 25 mg of nitrofurantoin macrocrystals and 75 mg of nitrofurantoin monohydrate. The chemical name of nitrofurantoin macrocrystals is 1-[[[5-nitro-2-furanyl]methylene]amino]-2,4-imidazolidinedione. The chemical structure is the following: Molecular Weight: 238.16 The chemical name of nitrofurantoin monohydrate is 1-[[[5-nitro-2-furanyl]methylene]amino]-2,4- imidazolidinedione monohydrate. The chemical structure is the following: Molecular Weight: 256.17 Inactive Ingredients: Each capsule contains carbomer 934P, corn starch, compressible sugar, D&C Yellow No. 10, edible gray ink, FD&C Blue No. 1, FD&C Red No. 40, gelatin, lactose, magnesium stearate, povidone, talc, and titanium dioxide. Meets USP Dissolution Test 8. nitrofurantoin-macrocrystals-structure nitrofurantoin-monohydrate-structure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Each Macrobid capsule contains two forms of nitrofurantoin. Twenty-five percent is macrocrystalline nitrofurantoin, which has slower dissolution and absorption than nitrofurantoin monohydrate. The remaining 75% is nitrofurantoin monohydrate contained in a powder blend which, upon exposure to gastric and intestinal fluids, forms a gel matrix that releases nitrofurantoin over time. Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg Macrobid capsule are similar to those of 50 mg or 100 mg Macrodantin ® (nitrofurantoin macrocrystals) capsule. Approximately 20% to 25% of a single dose of nitrofurantoin is recovered from the urine unchanged over 24 hours. Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg Macrobid capsule are low, with peak levels usually less than 1 mcg/mL. Nitrofurantoin is highly soluble in urine, to which it may impart a brown color. When Macrobid is administered with food, the bioavailability of nitrofurantoin is increased by approximately 40%. MICROBIOLOGY Nitrofurantoin is a nitrofuran antimicrobial agent with activity against certain Gram-positive and Gram-negative bacteria. Mechanism of Action The mechanism of the antimicrobial action of nitrofurantoin is unusual among antibacterials. Nitrofurantoin is reduced by bacterial flavoproteins to reactive intermediates which inactivate or alter bacterial ribosomal proteins and other macromolecules. As a result of such inactivations, the vital biochemical processes of protein synthesis, aerobic energy metabolism, DNA synthesis, RNA synthesis, and cell wall synthesis are inhibited. Nitrofurantoin is bactericidal in urine at therapeutic doses. The broad-based nature of this mode of action may explain the lack of acquired bacterial resistance to nitrofurantoin, as the necessary multiple and simultaneous mutations of the target macromolecules would likely be lethal to the bacteria. Interactions with Other Antibiotics Antagonism has been demonstrated in-vitro between nitrofurantoin and quinolone antimicrobials. The clinical significance of this finding is unknown. Development of Resistance Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953. Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon. Nitrofurantoin has been shown to be active against most strains of the following bacteria both in-vitro and in clinical infections (see INDICATIONS AND USAGE ): Aerobic and facultative Gram-positive microorganisms: Staphylococcus saprophyticus Aerobic and facultative Gram-negative microorganisms: Escherichia coli At least 90 percent of the following microorganisms exhibit an in-vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for nitrofurantoin. However, the efficacy of nitrofurantoin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled trials. Aerobic and facultative Gram-positive microorganisms: Coagulase-negative staphylococci (including Staphylococcus epidermidis ) Enterococcus faecalis Staphylococcus aureus Streptococcus agalactiae Group D streptococci Viridans group streptococci Aerobic and facultative Gram-negative microorganisms: Citrobacter amalonaticus Citrobacter diversus Citrobacter freundii Klebsiella oxytoca Klebsiella ozaenae Nitrofurantoin is not active against most strains of Proteus species or Serratia species. It has no activity against Pseudomonas species. Susceptibility Testing: For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC."
+  ],
+  "microbiology": [
+   "MICROBIOLOGY Nitrofurantoin is a nitrofuran antimicrobial agent with activity against certain Gram-positive and Gram-negative bacteria."
+  ],
+  "mechanism_of_action": [
+   "Mechanism of Action The mechanism of the antimicrobial action of nitrofurantoin is unusual among antibacterials. Nitrofurantoin is reduced by bacterial flavoproteins to reactive intermediates which inactivate or alter bacterial ribosomal proteins and other macromolecules. As a result of such inactivations, the vital biochemical processes of protein synthesis, aerobic energy metabolism, DNA synthesis, RNA synthesis, and cell wall synthesis are inhibited. Nitrofurantoin is bactericidal in urine at therapeutic doses. The broad-based nature of this mode of action may explain the lack of acquired bacterial resistance to nitrofurantoin, as the necessary multiple and simultaneous mutations of the target macromolecules would likely be lethal to the bacteria."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Macrobid is indicated only for the treatment of acute uncomplicated urinary tract infections (acute cystitis) caused by susceptible strains of Escherichia coli or Staphylococcus saprophyticus . Nitrofurantoin is not indicated for the treatment of pyelonephritis or perinephric abscesses. To reduce the development of drug-resistant bacteria and maintain the effectiveness of Macrobid and other antibacterial drugs, Macrobid should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Nitrofurantoins lack the broader tissue distribution of other therapeutic agents approved for urinary tract infections. Consequently, many patients who are treated with Macrobid are predisposed to persistence or reappearance of bacteriuria. (See CLINICAL STUDIES.) Urine specimens for culture and susceptibility testing should be obtained before and after completion of therapy. If persistence or reappearance of bacteriuria occurs after treatment with Macrobid , other therapeutic agents with broader tissue distribution should be selected. In considering the use of Macrobid , lower eradication rates should be balanced against the increased potential for systemic toxicity and for the development of antimicrobial resistance when agents with broader tissue distribution are utilized."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) are contraindications. Treatment of this type of patient carries an increased risk of toxicity because of impaired excretion of the drug. Because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability), the drug is contraindicated in pregnant patients at term (38 to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent. For the same reason, the drug is contraindicated in neonates under one month of age. Macrobid is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with nitrofurantoin. Macrobid is also contraindicated in those patients with known hypersensitivity to nitrofurantoin."
+  ],
+  "warnings": [
+   "WARNINGS Pulmonary reactions: ACUTE, SUBACUTE, OR CHRONIC PULMONARY REACTIONS HAVE BEEN OBSERVED IN PATIENTS TREATED WITH NITROFURANTOIN. IF THESE REACTIONS OCCUR, MACROBID SHOULD BE DISCONTINUED AND APPROPRIATE MEASURES TAKEN. REPORTS HAVE CITED PULMONARY REACTIONS AS A CONTRIBUTING CAUSE OF DEATH. CHRONIC PULMONARY REACTIONS (DIFFUSE INTERSTITIAL PNEUMONITIS OR PULMONARY FIBROSIS, OR BOTH) CAN DEVELOP INSIDIOUSLY. THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX MONTHS OR LONGER. CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS. ( SEE RESPIRATORY REACTIONS.) Hepatotoxicity: Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely. Fatalities have been reported. The onset of chronic active hepatitis may be insidious, and patients should be monitored periodically for changes in biochemical tests that would indicate liver injury. If hepatitis occurs, the drug should be withdrawn immediately and appropriate measures should be taken. Neuropathy: Peripheral neuropathy, which may become severe or irreversible, has occurred. Fatalities have been reported. Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating disease may enhance the occurrence of peripheral neuropathy. Patients receiving long-term therapy should be monitored periodically for changes in renal function. Optic neuritis has been reported rarely in postmarketing experience with nitrofurantoin formulations. Hemolytic anemia: Cases of hemolytic anemia of the primaquine-sensitivity type have been induced by nitrofurantoin. Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency in the red blood cells of the affected patients. This deficiency is found in 10 percent of Blacks and a small percentage of ethnic groups of Mediterranean and Near-Eastern origin. Hemolysis is an indication for discontinuing Macrobid ; hemolysis ceases when the drug is withdrawn. Clostridium difficile -associated diarrhea: Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated."
+  ],
+  "precautions": [
+   "PRECAUTIONS Information for Patients: Patients should be advised to take Macrobid with food (ideally breakfast and dinner) to further enhance tolerance and improve drug absorption. Patients should be instructed to complete the full course of therapy; however, they should be advised to contact their physician if any unusual symptoms occur during therapy. Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking Macrobid . Patients should be counseled that antibacterial drugs including Macrobid should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When Macrobid is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Macrobid or other antibacterial drugs in the future. Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible. Repackaged By / Distributed By: RemedyRepack Inc. 625 Kolter Drive, Indiana, PA 15701 (724) 465-8762 General: Prescribing Macrobid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. Drug Interactions: Antacids containing magnesium trisilicate, when administered concomitantly with nitrofurantoin, reduce both the rate and extent of absorption. The mechanism for this interaction probably is adsorption of nitrofurantoin onto the surface of magnesium trisilicate. Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin. The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial. Drug/Laboratory Test Interactions: As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur. This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test. Carcinogenesis, Mutagenesis, Impairment of Fertility: Nitrofurantoin was not carcinogenic when fed to female Holtzman rats for 44.5 weeks or to female Sprague-Dawley rats for 75 weeks. Two chronic rodent bioassays utilizing male and female Sprague-Dawley rats and two chronic bioassays in Swiss mice and in BDF 1 mice revealed no evidence of carcinogenicity. Nitrofurantoin presented evidence of carcinogenic activity in female B6C3F 1 mice as shown by increased incidences of tubular adenomas, benign mixed tumors, and granulosa cell tumors of the ovary. In male F344/N rats, there were increased incidences of uncommon kidney tubular cell neoplasms, osteosarcomas of the bone, and neoplasms of the subcutaneous tissue. In one study involving subcutaneous administration of 75 mg/kg nitrofurantoin to pregnant female mice, lung papillary adenomas of unknown significance were observed in the F1 generation. Nitrofurantoin has been shown to induce point mutations in certain strains of Salmonella typhimurium and forward mutations in L5178Y mouse lymphoma cells. Nitrofurantoin induced increased numbers of sister chromatid exchanges and chromosomal aberrations in Chinese hamster ovary cells but not in human cells in culture. Results of the sex-linked recessive lethal assay in Drosophila were negative after administration of nitrofurantoin by feeding or by injection. Nitrofurantoin did not induce heritable mutation in the rodent models examined. The significance of the carcinogenicity and mutagenicity findings relative to the therapeutic use of nitrofurantoin in humans is unknown. The administration of high doses of nitrofurantoin to rats causes temporary spermatogenic arrest; this is reversible on discontinuing the drug. Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredictable instances, produce a slight to moderate spermatogenic arrest with a decrease in sperm count. Pregnancy: Teratogenic effects: Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin. In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed. However, at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Non-teratogenic effects: Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis. The relationship of this finding to potential human carcinogenesis is presently unknown. Because of the uncertainty regarding the human implications of these animal data, this drug should be used during pregnancy only if clearly needed. Labor and Delivery: See CONTRAINDICATIONS . Nursing Mothers: Nitrofurantoin has been detected in human breast milk in trace amounts. Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. (See CONTRAINDICATIONS. ) Pediatric Use : Macrobid is contraindicated in infants below the age of one month. (See CONTRAINDICATIONS .) Safety and effectiveness in pediatric patients below the age of twelve years have not been established. Geriatric Use: Clinical studies of Macrobid did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long-term nitrofurantoin therapy. As in younger patients, chronic pulmonary reactions generally are observed in patients receiving therapy for six months or longer (see WARNINGS ). Spontaneous reports also suggest an increased proportion of severe hepatic reactions, including fatalities, in elderly patients (see WARNINGS ). In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing Macrobid . This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) are contraindications (see CONTRAINDICATIONS ). Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function."
+  ],
+  "information_for_patients": [
+   "Information for Patients: Patients should be advised to take Macrobid with food (ideally breakfast and dinner) to further enhance tolerance and improve drug absorption. Patients should be instructed to complete the full course of therapy; however, they should be advised to contact their physician if any unusual symptoms occur during therapy. Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking Macrobid . Patients should be counseled that antibacterial drugs including Macrobid should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When Macrobid is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Macrobid or other antibacterial drugs in the future. Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible. Repackaged By / Distributed By: RemedyRepack Inc. 625 Kolter Drive, Indiana, PA 15701 (724) 465-8762"
+  ],
+  "general_precautions": [
+   "General: Prescribing Macrobid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria."
+  ],
+  "drug_interactions": [
+   "Drug Interactions: Antacids containing magnesium trisilicate, when administered concomitantly with nitrofurantoin, reduce both the rate and extent of absorption. The mechanism for this interaction probably is adsorption of nitrofurantoin onto the surface of magnesium trisilicate. Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin. The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial."
+  ],
+  "drug_and_or_laboratory_test_interactions": [
+   "Drug/Laboratory Test Interactions: As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur. This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility: Nitrofurantoin was not carcinogenic when fed to female Holtzman rats for 44.5 weeks or to female Sprague-Dawley rats for 75 weeks. Two chronic rodent bioassays utilizing male and female Sprague-Dawley rats and two chronic bioassays in Swiss mice and in BDF 1 mice revealed no evidence of carcinogenicity. Nitrofurantoin presented evidence of carcinogenic activity in female B6C3F 1 mice as shown by increased incidences of tubular adenomas, benign mixed tumors, and granulosa cell tumors of the ovary. In male F344/N rats, there were increased incidences of uncommon kidney tubular cell neoplasms, osteosarcomas of the bone, and neoplasms of the subcutaneous tissue. In one study involving subcutaneous administration of 75 mg/kg nitrofurantoin to pregnant female mice, lung papillary adenomas of unknown significance were observed in the F1 generation. Nitrofurantoin has been shown to induce point mutations in certain strains of Salmonella typhimurium and forward mutations in L5178Y mouse lymphoma cells. Nitrofurantoin induced increased numbers of sister chromatid exchanges and chromosomal aberrations in Chinese hamster ovary cells but not in human cells in culture. Results of the sex-linked recessive lethal assay in Drosophila were negative after administration of nitrofurantoin by feeding or by injection. Nitrofurantoin did not induce heritable mutation in the rodent models examined. The significance of the carcinogenicity and mutagenicity findings relative to the therapeutic use of nitrofurantoin in humans is unknown. The administration of high doses of nitrofurantoin to rats causes temporary spermatogenic arrest; this is reversible on discontinuing the drug. Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredictable instances, produce a slight to moderate spermatogenic arrest with a decrease in sperm count."
+  ],
+  "pregnancy": [
+   "Pregnancy: Teratogenic effects: Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin. In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed. However, at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Non-teratogenic effects: Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis. The relationship of this finding to potential human carcinogenesis is presently unknown. Because of the uncertainty regarding the human implications of these animal data, this drug should be used during pregnancy only if clearly needed."
+  ],
+  "labor_and_delivery": [
+   "Labor and Delivery: See CONTRAINDICATIONS ."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers: Nitrofurantoin has been detected in human breast milk in trace amounts. Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. (See CONTRAINDICATIONS. )"
+  ],
+  "pediatric_use": [
+   "Pediatric Use : Macrobid is contraindicated in infants below the age of one month. (See CONTRAINDICATIONS .) Safety and effectiveness in pediatric patients below the age of twelve years have not been established."
+  ],
+  "geriatric_use": [
+   "Geriatric Use: Clinical studies of Macrobid did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long-term nitrofurantoin therapy. As in younger patients, chronic pulmonary reactions generally are observed in patients receiving therapy for six months or longer (see WARNINGS ). Spontaneous reports also suggest an increased proportion of severe hepatic reactions, including fatalities, in elderly patients (see WARNINGS ). In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing Macrobid . This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) are contraindications (see CONTRAINDICATIONS ). Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS In clinical trials of Macrobid , the most frequent clinical adverse events that were reported as possibly or probably drug-related were nausea (8%), headache (6%), and flatulence (1.5%). Additional clinical adverse events reported as possibly or probably drug-related occurred in less than 1% of patients studied and are listed below within each body system in order of decreasing frequency: Gastrointestinal : Diarrhea, dyspepsia, abdominal pain, constipation, emesis Neurologic : Dizziness, drowsiness, amblyopia Respiratory: Acute pulmonary hypersensitivity reaction (see WARNINGS ) Allergic: Pruritus, urticaria Dermatologic : Alopecia Miscellaneous : Fever, chills, malaise The following additional clinical adverse events have been reported with the use of nitrofurantoin: Gastrointestinal: Sialadenitis, pancreatitis. There have been sporadic reports of pseudomembranous colitis with the use of nitrofurantoin. The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment. (See WARNINGS .) Neurologic: Peripheral neuropathy, which may become severe or irreversible, has occurred. Fatalities have been reported. Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating diseases may increase the possibility of peripheral neuropathy. (See WARNINGS .) Asthenia, vertigo, and nystagmus also have been reported with the use of nitrofurantoin. Benign intracranial hypertension (pseudotumor cerebri), confusion, depression, optic neuritis, and psychotic reactions have been reported rarely. Bulging fontanels, as a sign of benign intracranial hypertension in infants, have been reported rarely. Respiratory: CHRONIC, SUBACUTE, OR ACUTE PULMONARY HYPERSENSITIVITY REACTIONS MAY OCCUR WITH THE USE OF NITROFURANTOIN. CHRONIC PULMONARY REACTIONS GENERALLY OCCUR IN PATIENTS WHO HAVE RECEIVED CONTINUOUS TREATMENT FOR SIX MONTHS OR LONGER. MALAISE, DYSPNEA ON EXERTION, COUGH, AND ALTERED PULMONARY FUNCTION ARE COMMON MANIFESTATIONS WHICH CAN OCCUR INSIDIOUSLY. RADIOLOGIC AND HISTOLOGIC FINDINGS OF DIFFUSE INTERSTITIAL PNEUMONITIS OR FIBROSIS, OR BOTH, ARE ALSO COMMON MANIFESTATIONS OF THE CHRONIC PULMONARY REACTION. FEVER IS RARELY PROMINENT. THE SEVERITY OF CHRONIC PULMONARY REACTIONS AND THEIR DEGREE OF RESOLUTION APPEAR TO BE RELATED TO THE DURATION OF THERAPY AFTER THE FIRST CLINICAL SIGNS APPEAR. PULMONARY FUNCTION MAY BE IMPAIRED PERMANENTLY, EVEN AFTER CESSATION OF THERAPY. THE RISK IS GREATER WHEN CHRONIC PULMONARY REACTIONS ARE NOT RECOGNIZED EARLY. In subacute pulmonary reactions, fever and eosinophilia occur less often than in the acute form. Upon cessation of therapy, recovery may require several months. If the symptoms are not recognized as being drug-related and nitrofurantoin therapy is not stopped, the symptoms may become more severe. Acute pulmonary reactions are commonly manifested by fever, chills, cough, chest pain, dyspnea, pulmonary infiltration with consolidation or pleural effusion on x-ray, and eosinophilia. Acute reactions usually occur within the first week of treatment and are reversible with cessation of therapy. Resolution often is dramatic. (See WARNINGS .) Changes in EKG (e.g., non-specific ST/T wave changes, bundle branch block) have been reported in association with pulmonary reactions. Cyanosis has been reported rarely. Hepatic : Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely. (See WARNINGS .) Allergic : Lupus-like syndrome associated with pulmonary reaction to nitrofurantoin has been reported. Also, angioedema; maculopapular, erythematous, or eczematous eruptions; anaphylaxis; arthralgia; myalgia; drug fever; chills; and vasculitis (sometimes associated with pulmonary reactions) have been reported. Hypersensitivity reactions represent the most frequent spontaneously-reported adverse events in worldwide postmarketing experience with nitrofurantoin formulations. Dermatologic : Exfoliative dermatitis and erythema multiforme (including Stevens-Johnson syndrome) have been reported rarely. Hematologic : Cyanosis secondary to methemoglobinemia has been reported rarely. Miscellaneous : As with other antimicrobial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur. In clinical trials of Macrobid , the most frequent laboratory adverse events (1% to 5%), without regard to drug relationship, were as follows: eosinophilia, increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus. The following laboratory adverse events also have been reported with the use of nitrofurantoin: glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS ), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia. In most cases, these hematologic abnormalities resolved following cessation of therapy. Aplastic anemia has been reported rarely. To request medical information or to report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma LLC at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Occasional incidents of acute overdosage of nitrofurantoin have not resulted in any specific symptoms other than vomiting. Induction of emesis is recommended. There is no specific antidote, but a high fluid intake should be maintained to promote urinary excretion of the drug. Nitrofurantoin is dialyzable."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Macrobid capsules should be taken with food. Adults and Pediatric Patients Over 12 Years : One 100 mg capsule every 12 hours for seven days."
+  ],
+  "how_supplied": [
+   "Macrobid (Nitrofurantoin Capsules, USP) (monohydrate/macrocrystals) is available as 100 mg opaque black and yellow capsules imprinted “(band) Macrobid (band)” on one half and “52427-285” on the other. NDC: 70518-2531-00 PACKAGING: 10 in 1 BOTTLE PLASTIC Store at controlled room temperature 15°C to 30°C (59°F to 86°F). Rx only Repackaged and Distributed By: Remedy Repack, Inc. 625 Kolter Dr. Suite #4 Indiana, PA 1-724-465-8762"
+  ],
+  "clinical_studies": [
+   "CLINICAL STUDIES Controlled clinical trials comparing Macrobid 100 mg p.o. q12h and Macrodantin 50 mg p.o. q6h in the treatment of acute uncomplicated urinary tract infections demonstrated approximately 75% microbiologic eradication of susceptible pathogens in each treatment group."
+  ],
+  "set_id": "28bc9ec9-b8db-4ece-a14a-8bcf618cbf7e",
+  "id": "4a65bc05-7206-c088-e063-6294a90a9a3d",
+  "effective_time": "20260209",
+  "version": "9"
+ }
+}

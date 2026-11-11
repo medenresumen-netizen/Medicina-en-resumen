@@ -1,0 +1,753 @@
+{
+ "id_es": "tmp-smx-iv",
+ "generic_en": "sulfamethoxazole and trimethoprim",
+ "search": "openfda.generic_name.exact:\"SULFAMETHOXAZOLE AND TRIMETHOPRIM\"",
+ "pref": "sulfamethoxazole and trimethoprim|INTRAVENOUS|",
+ "downloaded": "2026-11-11T17:53Z",
+ "chosen": {
+  "set_id": "ebb570bb-6e5e-489e-875c-9e7b3a6d716a",
+  "id": "012dfac7-9b72-48a5-a364-e62bbe150cfe",
+  "effective_time": "20250716",
+  "version": "10",
+  "brand_name": [
+   "Sulfamethoxazole and Trimethoprim"
+  ],
+  "generic_name": [
+   "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+  ],
+  "manufacturer_name": [
+   "Somerset Therapeutics, LLC"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA212231"
+  ],
+  "n_sections": 34
+ },
+ "candidates": [
+  {
+   "set_id": "3ef62512-0dc3-4821-9b60-6b375841c4c0",
+   "id": "5dceb8d6-1db0-aaef-e063-6394a90a6424",
+   "effective_time": "20261014",
+   "version": "27",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "c4da9c4f-0704-4ed5-9d19-5c949f37f726",
+   "id": "5dd221d7-810d-ce9e-e063-6294a90a42c8",
+   "effective_time": "20261014",
+   "version": "21",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "5d65f53d-85cb-af86-e063-6294a90a2002",
+   "id": "5d65f54e-c6e0-b392-e063-6294a90a3d55",
+   "effective_time": "20261009",
+   "version": "1",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076899"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "c6171b62-835c-465e-905e-97f70438186e",
+   "id": "fc2caf1b-56ae-49f5-be07-f9c706b6b77a",
+   "effective_time": "20260902",
+   "version": "3",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214330"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "cd4932ce-0856-4e99-8baf-70afce1d7ffd",
+   "id": "1db2dd9b-25ac-4ab3-9b04-4c3a461782ce",
+   "effective_time": "20260902",
+   "version": "7",
+   "brand_name": [
+    "SULFATRIM"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018615"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "d60c218c-6529-4944-af0b-a9dc720f32e9",
+   "id": "21a5c8e4-5a05-470b-9c7d-c665c95bfe6a",
+   "effective_time": "20260902",
+   "version": "7",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "acc3df02-1e99-46e6-8a31-9b26261c6daa",
+   "id": "59e36b9b-746f-dd25-e063-6394a90aded8",
+   "effective_time": "20260825",
+   "version": "9",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "ATLANTIC BIOLOGICALS CORP."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091348"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "ce44959b-4bfe-4ba9-9fc2-7f9d4663d542",
+   "id": "58b2a687-23a6-9c3b-e063-6294a90afa50",
+   "effective_time": "20260810",
+   "version": "12",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "5dc03027-cdaf-461f-87fd-630d382fc723",
+   "id": "20e937b5-67f6-4632-abe4-7031b1d77a17",
+   "effective_time": "20260807",
+   "version": "9",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076899"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "ec2e335c-3357-40d8-9615-a09fc40ce5f4",
+   "id": "5879f6a1-c558-d891-e063-6394a90a97d6",
+   "effective_time": "20260807",
+   "version": "11",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "c45ac3a4-d397-486e-abd1-349916543068",
+   "id": "579aa2c0-81f5-dd0a-e063-6294a90a23cb",
+   "effective_time": "20260727",
+   "version": "26",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "08500fcb-dbec-4ac2-91c3-189d27907ec0",
+   "id": "433e4e6e-b0ff-41bc-a929-7d3e88894133",
+   "effective_time": "20260717",
+   "version": "2",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "562e2547-db2d-e2d2-e063-6294a90a1f5d",
+   "id": "562e3de3-5dfa-6291-e063-6294a90a1e76",
+   "effective_time": "20260709",
+   "version": "1",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "e3a49508-0ebe-1334-e053-2a95a90ae173",
+   "id": "54063f32-9de5-61cc-e063-6394a90a6de4",
+   "effective_time": "20260611",
+   "version": "5",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "518cc045-a12b-f08f-e063-6394a90acb0c",
+   "id": "518cb856-c9c4-09f7-e063-6294a90a47d7",
+   "effective_time": "20260511",
+   "version": "1",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "5ff03694-787a-409d-a95e-8422aa27499c",
+   "id": "3c60334c-7cf5-4946-9fcf-e01c1dcff9e0",
+   "effective_time": "20260406",
+   "version": "7",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214330"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "f0e73842-6002-43c2-97fc-0cadc1bf6346",
+   "id": "fd58f01a-3607-4f18-97e3-f695bcb32ad5",
+   "effective_time": "20260402",
+   "version": "12",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076899"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "69af86b4-9c9f-4a70-b448-97b36698f3cd",
+   "id": "6b5fe102-d381-4461-aaa6-61a1f6679d39",
+   "effective_time": "20260326",
+   "version": "16",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091348"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "29df8839-3dfa-0b2b-c5a3-906db6997b3b",
+   "id": "4dc8749f-1066-8d9a-e063-6294a90ac636",
+   "effective_time": "20260324",
+   "version": "10",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "75b9d194-b960-4943-bedc-96e3d65c4da9",
+   "id": "fbdbdcc8-bff2-4d28-b652-037734e0fac5",
+   "effective_time": "20260303",
+   "version": "3",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "2a5173ba-047d-4a80-81fb-7154265ae3d1",
+   "id": "4b94985f-5d68-840b-e063-6294a90ac04a",
+   "effective_time": "20260224",
+   "version": "1",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Chartwell Governmental & Specialty RX, LLC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077785"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "9f130443-c8e7-9122-8f27-f72f07f3f29e",
+   "id": "4a7ee07f-6eea-dd30-e063-6394a90adac9",
+   "effective_time": "20260210",
+   "version": "12",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076899"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "7f82e5e0-b627-a3f3-e053-2991aa0abaa5",
+   "id": "4a683588-fca7-6f57-e063-6394a90a08c0",
+   "effective_time": "20260209",
+   "version": "6",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "52304e5e-d097-48f2-8b64-210908e4eb54",
+   "id": "49ef26b9-b7b9-bfa8-e063-6394a90a0c50",
+   "effective_time": "20260203",
+   "version": "2",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "99e1ace6-7665-4f87-82fd-5e7c4989e098",
+   "id": "4845e0d2-b124-3702-e063-6394a90ae1e0",
+   "effective_time": "20260113",
+   "version": "21",
+   "brand_name": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "generic_name": [
+    "SULFAMETHOXAZOLE AND TRIMETHOPRIM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090624"
+   ],
+   "n_sections": 32
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "RECENT MAJOR CHANGES Warnings and Precautions, Hemophagocytic Lymphohistiocytosis (5.3) 02/2025"
+  ],
+  "recent_major_changes_table": [
+   "<table ID=\"ID159\" width=\"100%\" styleCode=\"Noautorules\"><col/><col/><tbody><tr><td valign=\"top\" align=\"left\"> Warnings and Precautions, Hemophagocytic Lymphohistiocytosis (5.3) </td><td valign=\"top\" align=\"right\"> 02/2025 </td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin and other antibacterial drugs, azithromycin should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Azithromycin is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below. Recommended dosages and durations of therapy in adult and pediatric patient populations vary in these indications. [see Dosage and Administration (2) ] Azithromycin is a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: Pneumocystis jirovecii Pneumonia (1.1) Shigellosis (1.2) Urinary Tract Infections (1.3) To reduce the development of drug-resistant bacteria and maintain the effectiveness of Sulfamethoxazole and trimethoprim injection and other antibacterial drugs, Sulfamethoxazole and trimethoprim injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. (1.4) 1.1 Pneumocystis jirovecii Pneumonia Limitation of Use: Azithromycin should not be used in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors. (1.3) To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin and other antibacterial drugs, azithromycin should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria 1.2 Shigellosis Sulfamethoxazole and trimethoprim injection is indicated in the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei in adults and pediatric patients two months of age and older. 1.3 Urinary Tract Infections Sulfamethoxazole and trimethoprim injection is indicated in the treatment of severe or complicated urinary tract infections in adults and pediatric patients two months of age and older due to susceptible strains of Escherichia coli, Klebsiella species, Enterobacter species, Morganella morganii , Proteus mirabilis and Proteus vulgaris when oral administration of sulfamethoxazole and trimethoprim injection is not feasible and when the organism is not susceptible to single-agent antibacterials effective in the urinary tract. 1.4 Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of sulfamethoxazole and trimethoprim injection and other antibacterial drugs, sulfamethoxazole and trimethoprim injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to empiric selection of therapy. Although appropriate culture and susceptibility studies should be performed, therapy may be started while awaiting the results of these studies."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION For patients with impaired renal function, a reduced dosage should be employed. (2.2) Sulfamethoxazole and trimethoprim injection must be given by intravenous infusion over a period of 60 to 90 minutes. Rapid infusion or bolus injection must be avoided. (2.3) Sulfamethoxazole and trimethoprim injection must be diluted in 5% dextrose in water solution prior to administration. (2.4) Do not mix Sulfamethoxazole and trimethoprim injection with other drugs or solutions. (2.4) 2.1 Dosage in Adults and Pediatric Patients (Two Months of Age and Older) The maximum recommended daily dose is 60 mL (960 mg trimethoprim) per day. Table 1: Dosage in Adults and Pediatric Patients (Two Months of Age and Older) by Indication Dosage Guidelines Infection Total Daily Dose (based on trimethoprim content) Frequency Duration Pneumocystis jirovecii Pneumonia* 15-20 mg/kg (in 3 or 4 equally divided doses) Every 6 to 8 hours 14 days Severe Urinary Tract Infections 8-10 mg/kg (in 2 to 4 equally divided doses) Every 6, 8 or 12 hours 14 days Shigellosis 8-10 mg/kg (in 2 to 4 equally divided doses) Every 6, 8 or 12 hours 5 days * A total daily dose of 10 to 15 mg/kg was sufficient in 10 adult patients with normal renal function in a published literature. 1 2.2 Dosage Modifications in Patients with Impaired Renal Function When renal function is impaired, a reduced dosage should be employed, as shown in Table 2 . Table 2: Impaired Renal Function Dosage Guidelines Creatinine Clearance (mL/min) Recommended Dosage Regimen Above 30 Usual standard dosage regimen 15 – 30 ½ the usual dosage regimen Below 15 Use not recommended 2.3 Important Administration Instructions Administer the solution by intravenous infusion over a period of 60 to 90 minutes. Avoid administration by rapid infusion or bolus injection. Do NOT administer Sulfamethoxazole and trimethoprim injection intramuscularly. Visually inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever the solution and container permit. 2.4 Method of Preparation Dilution of Single- and Multiple-Dose Vials Sulfamethoxazole and trimethoprim injection must be diluted. Each 5 mL should be added to 125 mL of 5% dextrose in water. After diluting with 5% dextrose in water, the solution should not be refrigerated and should be used within 6 hours. If a dilution of 5 mL per 100 mL of 5% dextrose in water is desired, it should be used within 4 hours. In those instances where fluid restriction is desirable, each 5 mL may be added to 75 mL of 5% dextrose in water. Under these circumstances the solution should be mixed just prior to use and should be administered within 2 hours. If upon visual inspection there is cloudiness or evidence of crystallization after mixing, the solution should be discarded and a fresh solution prepared. Do NOT mix sulfamethoxazole and trimethoprim injection in 5% dextrose in water with drugs or solutions in the same container. Multiple-dose Vials (Handling) After initial entry into the vial, the remaining contents must be used within 48 hours. Infusion Systems for Intravenous Administration The following infusion systems have been tested and found satisfactory: unit-dose glass containers; unit-dose polyvinyl chloride and polyolefin containers. No other systems have been tested and therefore no others can be recommended."
+  ],
+  "dosage_and_administration_table": [
+   "<table ID=\"ID18\" width=\"565\" styleCode=\"Noautorules\"><col width=\"140\"/><col width=\"179\"/><col width=\"115\"/><col width=\"131\"/><tbody><tr><td colspan=\"4\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Dosage Guidelines</content> </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Infection</content> </td><td styleCode=\" Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Total Daily Dose (based on trimethoprim content)</content> </td><td styleCode=\" Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Frequency</content> </td><td styleCode=\" Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Duration</content> </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"italics\">Pneumocystis jirovecii</content>  Pneumonia*  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> 15-20 mg/kg (in 3 or 4 equally divided doses)  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> Every 6 to 8 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 14 days </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Severe Urinary Tract Infections  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> 8-10 mg/kg (in 2 to 4 equally divided doses)  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> Every 6, 8 or 12 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 14 days </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Shigellosis  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> 8-10 mg/kg (in 2 to 4 equally divided doses)  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> Every 6, 8 or 12 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 5 days </td></tr></tbody></table>",
+   "<table ID=\"ID22\" width=\"557\" styleCode=\"Noautorules\"><col width=\"295\"/><col width=\"262\"/><tbody><tr><td styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Creatinine Clearance (mL/min)</content> </td><td styleCode=\" Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Recommended Dosage Regimen</content> </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Above 30  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Usual standard dosage regimen  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 15 &#x2013; 30 </td><td styleCode=\" Botrule Rrule\" align=\"left\"> &#xBD; the usual dosage regimen  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Below 15  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Use not recommended </td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Sulfamethoxazole and trimethoprim injection, USP is available as an injection containing 80 mg/mL of sulfamethoxazole and 16 mg/mL of trimethoprim in 5 mL single-dose, 10 mL and 30 mL multiple-dose vials. Injection: 80 mg/mL sulfamethoxazole and 16 mg/mL trimethoprim in 5 mL single-dose, 10 mL and 30 mL multiple-dose vials. (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Sulfamethoxazole and trimethoprim injection is contraindicated in the following situations: Known hypersensitivity to trimethoprim or sulfonamides [see Warnings and Precautions (5.2)] History of drug-induced immune thrombocytopenia with use of trimethoprim and/or sulfonamides [see Warnings and Precautions (5.4)] Documented megaloblastic anemia due to folate deficiency [see Warnings and Precautions (5.11)] Pediatric patients less than two months of age [see Use in Specific Populations (8.4)] Marked hepatic damage [see Warnings and Precautions (5.11, 5.14)] Severe renal insufficiency when renal function status cannot be monitored [see Warnings and Precautions (5.11, 5.14)] Concomitant administration with dofetilide 2,3 [see Drug Interactions (7)] Known hypersensitivity to trimethoprim or sulfonamides (4) History of drug-induced immune thrombocytopenia with use of trimethoprim and/or sulfonamides (4) Documented megaloblastic anemia due to folate deficiency (4) Pediatric patients less than two months of age (4) Marked hepatic damage (4) Severe renal insufficiency when renal function status cannot be monitored (4) Concomitant administration with dofetilide (4)"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Embryo-fetal Toxicity: Increased risk of congenital malformations. Advise patient of the potential hazards to the fetus. (5.1) Hypersensitivity and Other Serious or Fatal Reactions: Discontinue at first appearance of skin rash or any sign of adverse reaction. (5.2) Hemophagocytic Lymphohistiocytosis (HLH): Cases of HLH have been reported in patients treated with sulfamethoxazole-trimethoprim. If HLH is suspected, discontinue sulfamethoxazole and trimethoprim injection immediately and institute appropriate management. (5.3) Thrombocytopenia: Monitor for hematologic toxicity. (5.4) Streptococcal Infections and Rheumatic Fever: Do not use for the treatment of group A beta-hemolytic streptococcal infections. (5.5) Clostridioides difficile- Associated Diarrhea: Evaluate if diarrhea occurs. (5.6) Sulfite Sensitivity: May cause allergic-type reactions. (5.7) Benzyl Alcohol Toxicity: Serious and fatal adverse reactions including \"gasping syndrome\" can occur in neonates. (5.8) Increased mortality with adjunctive leucovorin for Pneumocystis jirovecii pneumonia: Avoid concurrent use. (5.9) Propylene glycol toxicity: Hyperosmolarity with lactic or non-gap metabolic acidosis can occur. Monitor for total intake of propylene glycol and for acid-base disturbances. (5.10) 5.1 Embryo-fetal Toxicity Some epidemiologic studies suggest that exposure to sulfamethoxazole and trimethoprim injection during pregnancy may be associated with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular malformations, urinary tract defects, oral clefts, and club foot. If sulfamethoxazole and trimethoprim injection is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be advised of the potential hazards to the fetus [see Use in Specific Populations (8.1)]. 5.2 Hypersensitivity and Other Serious or Fatal Reactions Fatalities and serious adverse reactions including severe cutaneous adverse reactions (SCARs), including Stevens-Johnson Syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products, including sulfamethoxazole and trimethoprim injection [see Adverse Reactions (6.1)]. Cough, shortness of breath and pulmonary infiltrates potentially representing hypersensitivity reactions of the respiratory tract have been reported in association with sulfamethoxazole and trimethoprim treatment. Other severe pulmonary adverse reactions occurring within days to week of sulfamethoxazole and trimethoprim injection initiation and resulting in prolonged respiratory failure requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO), lung transplantation or death have also been reported in patients and otherwise healthy individuals treated with sulfamethoxazole and trimethoprim products. Circulatory shock with fever, severe hypotension, and confusion requiring intravenous fluid resuscitation and vasopressors has occurred within minutes to hours of re-challenge with sulfamethoxazole and trimethoprim products, including sulfamethoxazole and trimethoprim injection, in patients with history of recent (days to weeks) exposure to sulfamethoxazole and trimethoprim. Sulfamethoxazole and trimethoprim injection should be discontinued at the first appearance of skin rash or any sign of a serious adverse reaction. A skin rash may be followed by more severe reactions, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis or serious blood disorder. Clinical signs, such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice may be early indications of serious reactions. 5.3 Hemophagocytic Lymphohistiocytosis Cases of hemophagocytic lymphohistiocytosis (HLH) have been reported in patients treated with sulfamethoxazole-trimethoprim. HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation. Signs and symptoms of HLH may include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver enzyme and coagulation abnormalities. If HLH is suspected, discontinue sulfamethoxazole and trimethoprim injection immediately and institute appropriate management. 5.4 Thrombocytopenia Sulfamethoxazole and trimethoprim injection-induced thrombocytopenia may be an immune-mediated disorder. Severe cases of thrombocytopenia that are fatal or life threatening have been reported. Monitor patients for hematologic toxicity. Thrombocytopenia usually resolves within a week upon discontinuation of sulfamethoxazole and trimethoprim injection. 5.5 Streptococcal Infections and Rheumatic Fever Avoid use of sulfamethoxazole and trimethoprim injection in the treatment of streptococcal pharyngitis. Clinical studies have documented that patients with group A β-hemolytic streptococcal tonsillopharyngitis have a greater incidence of bacteriologic failure when treated with sulfamethoxazole and trimethoprim injection than do those patients treated with penicillin, as evidenced by failure to eradicate this organism from the tonsillopharyngeal area. Therefore, sulfamethoxazole and trimethoprim injection will not prevent sequelae such as rheumatic fever. 5.6 Clostridioides difficile-Associated Diarrhea Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including sulfamethoxazole and trimethoprim injection, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile. C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. 5.7 Sulfite Sensitivity Sulfamethoxazole and trimethoprim injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown. Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people. 5.8 Benzyl Alcohol Toxicity in Pediatric Patients (\"Gasping Syndrome\") Sulfamethoxazole and trimethoprim injection contains benzyl alcohol as a preservative. Serious and fatal adverse reactions including \"gasping syndrome\" can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved formulations in infusion solutions, including sulfamethoxazole and trimethoprim injection. The \"gasping syndrome\" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations. Sulfamethoxazole and trimethoprim injection is contraindicated in pediatric patients less than two months of age [see Contraindications (4)]. When prescribing sulfamethoxazole and trimethoprim injection in pediatric patients (two months of age and older), consider the combined daily metabolic load of benzyl alcohol from all sources including sulfamethoxazole and trimethoprim injection (contains 10 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.4)]. 5.9 Risk Associated with Concurrent Use of Leucovorin for Pneumocystis jirovecii Pneumonia Treatment failure and excess mortality were observed when sulfamethoxazole and trimethoprim injection was used concomitantly with leucovorin for the treatment of HIV positive patients with P. jirovecii pneumonia in a randomized placebo -controlled trial. 4 Avoid coadministration of sulfamethoxazole and trimethoprim injection and leucovorin during treatment of P. jirovecii pneumonia. 5.10 Propylene Glycol Toxicity Sulfamethoxazole and trimethoprim injection contains propylene glycol as a solvent (40% v/v). When administered at high doses as for the treatment of P. jirovecii pneumonia and concomitantly with other products that contain propylene glycol, hyperosmolarity with anion gap metabolic acidosis, including lactic acidosis can occur. Propylene glycol toxicity can lead to acute kidney injury, CNS toxicity, and multi-organ failure. Monitor for the total daily intake of propylene glycol from all sources and for acid-base disturbances. Discontinue sulfamethoxazole and trimethoprim injection if propylene glycol toxicity is suspected [see Adverse Reactions (6)]. 5.11 Folate Deficiency Avoid use of sulfamethoxazole and trimethoprim injection in patients with impaired renal or hepatic function, in those with possible folate deficiency (e.g., the elderly, chronic alcoholics, patients receiving anticonvulsant therapy, patients with malabsorption syndrome, and patients in malnutrition states) and in those with severe allergies or bronchial asthma. Hematologic changes indicative of folic acid deficiency may occur in elderly patients or in patients with preexisting folic acid deficiency or kidney failure. These effects are reversible by folinic acid therapy [see Use in Specific Populations (8.5)]. 5.12 Hemolysis In glucose-6-phosphate dehydrogenase deficient individuals, hemolysis may occur. This reaction is frequently dose-related. 5.13 Infusion Reactions Local irritation and inflammation due to extravascular infiltration of the infusion have been observed with sulfamethoxazole and trimethoprim injection. If these occur the infusion should be discontinued and restarted at another site. 5.14 Hypoglycemia Cases of hypoglycemia in non-diabetic patients treated with sulfamethoxazole and trimethoprim injection have been seen, usually occurring after a few days of therapy. Patients with renal dysfunction, liver disease, malnutrition or those receiving high doses of sulfamethoxazole and trimethoprim injection are particularly at risk. 5.15 Impaired Phenylalanine Metabolism Trimethoprim, component of sulfamethoxazole and trimethoprim injection, has been noted to impair phenylalanine metabolism, but this is of no significance in phenylketonuric patients on appropriate dietary restriction. 5.16 Porphyria and Hypothyroidism Like other drugs containing sulfonamides, sulfamethoxazole and trimethoprim injection can precipitate porphyria crisis and hypothyroidism. Avoid use of sulfamethoxazole and trimethoprim injection in patients with porphyria or thyroid dysfunction. 5.17 Potential Risk in the Treatment of Pneumocystis jirovecii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS) AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim injection in the same manner as non-AIDS patients. The incidence of adverse reactions, particularly rash, fever, leukopenia, and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim injection therapy in AIDS patients who are being treated for P. jirovecii pneumonia has been reported to be increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim injection in non-AIDS patients. If a patient develops skin rash, fever, leukopenia or any sign of an adverse reaction, reevaluate benefit-risk of continuing therapy or re-challenge with sulfamethoxazole and trimethoprim injection [see Warnings and Precautions (5.2)]. Avoid coadministration of sulfamethoxazole and trimethoprim injection and leucovorin during treatment of Pneumocystis jirovecii pneumonia [see Warnings and Precautions (5.9)] 5.18 Electrolyte Abnormalities Hyperkalemia High dosage of trimethoprim, as used in patients with P. jirovecii pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients. Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly. Close monitoring of serum potassium is warranted in these patients. Hyponatremia Severe and symptomatic hyponatremia can occur in patients receiving sulfamethoxazole and trimethoprim injection, particularly for the treatment of P. jirovecii pneumonia. Evaluation for hyponatremia and appropriate correction is necessary in symptomatic patients to prevent life-threatening complications. Crystalluria During treatment, ensure adequate fluid intake and urinary output to prevent crystalluria. Patients who are \"slow acetylators\" may be more prone to idiosyncratic reactions to sulfonamides. 5.19 Monitoring of Laboratory Tests Complete blood counts and clinical chemistry testing should be done frequently in patients receiving sulfamethoxazole and trimethoprim injection. Discontinue sulfamethoxazole and trimethoprim injection if a significant electrolyte abnormality, renal insufficiency or reduction in the count of any formed blood element is noted. Perform urinalyses with careful microscopic examination and renal function tests during therapy, particularly for those patients with impaired renal function. 5.20 Development of Drug-Resistant Bacteria Prescribing sulfamethoxazole and trimethoprim injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious adverse reactions are described elsewhere in the labeling: Embryo-fetal Toxicity [see Warnings and Precautions (5.1)] Hypersensitivity and Other Serious or Fatal Reactions [see Warnings and Precautions (5.2)] Thrombocytopenia [see Warnings and Precautions (5.4)] Clostridioides difficile -Associated Diarrhea [see Warnings and Precautions (5.6)] Sulfite Sensitivity [see Warnings and Precautions (5.7)] Risk Associated with Concurrent Use of Leucovorin for Pneumocystis jirovecii Pneumonia [see Warnings and Precautions (5.9)] Propylene Glycol Toxicity [see Warnings and Precautions (5.10)] Infusion Reactions [see Warnings and Precautions (5.13)] Hypoglycemia [see Warnings and Precautions (5.14)] Electrolyte Abnormalities [see Warnings and Precautions (5.18)] The most common adverse effects are gastrointestinal disturbances (nausea, vomiting, and anorexia) and allergic skin reactions (such as rash and urticaria). (6) To report SUSPECTED ADVERSE REACTIONS, contact Somerset Therapeutics, LLC at 1-800-417-9175 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch 6.1 Clinical Trials Experience The following adverse reactions associated with the use of sulfamethoxazole and trimethoprim injection or sulfamethoxazole and trimethoprim were identified in clinical trials, postmarketing or published reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The most common adverse reactions are gastrointestinal disturbances (nausea, vomiting, and anorexia) and allergic skin reactions (such as rash and urticaria). Fatalities and serious adverse reactions, including severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products, including sulfamethoxazole and trimethoprim injection [see Warnings and Precautions (5.2)]. Local reaction, pain and slight irritation on intravenous (IV) administration are infrequent. Thrombophlebitis has been observed. Table 3: Adverse Reactions Reported with Sulfamethoxazole and trimethoprim injection Body System Adverse Reactions Hematologic Agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, neutropenia, hemolytic anemia, megaloblastic anemia, hypoprothrombinemia, methemoglobinemia, eosinophilia, thrombotic thrombocytopenic purpura, idiopathic thrombocytopenic purpura. Allergic / Immune Reactions Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schoenlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria, rash, periarteritis nodosa, hemophagocytic lymphohistiocytosis (HLH), systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized erythematous pustulosis (AGEP), and acute febrile neutrophilic dermatosis (AFND) [see Warnings and Precautions (5.2 and 5.3)]. Gastrointestinal Hepatitis (including cholestatic jaundice and hepatic necrosis), elevation of serum transaminase and bilirubin, pseudomembranous enterocolitis, pancreatitis, stomatitis, glossitis, nausea, emesis, abdominal pain, diarrhea, anorexia. Genitourinary Renal failure, interstitial nephritis, BUN and serum creatinine elevation, renal insufficiency, oliguria and anuria, crystalluria and nephrotoxicity in association with cyclosporine. Metabolic and Nutritional Hyperkalemia, hyponatremia [see Warnings and Precautions (5.18)] , metabolic acidosis. Neurologic Aseptic meningitis, convulsions, peripheral neuritis, ataxia, vertigo, tinnitus, headache. Psychiatric Hallucinations, depression, apathy, nervousness. Endocrine The sulfonamides bear certain chemical similarities to some goitrogens, diuretics (acetazolamide and the thiazides) and oral hypoglycemic agents. Cross-sensitivity may exist with these agents. Diuresis and hypoglycemia have occurred. Musculoskeletal Arthralgia, myalgia, rhabdomyolysis. Respiratory Cough, shortness of breath and pulmonary infiltrates, acute eosinophilic pneumonia, acute and delayed lung injury, interstitial lung disease, acute respiratory failure [see Warnings and Precautions (5.2)] . Cardiovascular System QT prolongation resulting in ventricular tachycardia and torsades de pointes, circulatory shock [see Warnings and Precautions (5.2)]. Miscellaneous Weakness, fatigue, insomnia."
+  ],
+  "adverse_reactions_table": [
+   "<table ID=\"ID81\" width=\"553\" styleCode=\"Noautorules\"><col width=\"169\"/><col width=\"384\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Body System </content> </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Adverse Reactions </content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Hematologic </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, neutropenia, hemolytic anemia, megaloblastic anemia, hypoprothrombinemia, methemoglobinemia, eosinophilia, thrombotic thrombocytopenic purpura, idiopathic thrombocytopenic purpura.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Allergic / Immune Reactions</content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schoenlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria, rash, periarteritis nodosa, hemophagocytic lymphohistiocytosis (HLH), systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized erythematous pustulosis (AGEP), and acute febrile neutrophilic dermatosis (AFND) <content styleCode=\"italics\">[see Warnings and Precautions (5.2 and 5.3)].</content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Gastrointestinal</content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Hepatitis (including cholestatic jaundice and hepatic necrosis), elevation of serum transaminase and bilirubin, pseudomembranous enterocolitis, pancreatitis, stomatitis, glossitis, nausea, emesis, abdominal pain, diarrhea, anorexia.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Genitourinary </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Renal failure, interstitial nephritis, BUN and serum creatinine elevation, renal insufficiency, oliguria and anuria, crystalluria and nephrotoxicity in association with cyclosporine.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Metabolic and Nutritional </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Hyperkalemia, hyponatremia <content styleCode=\"italics\">[see Warnings and Precautions (5.18)]</content> , metabolic acidosis.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Neurologic </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Aseptic meningitis, convulsions, peripheral neuritis, ataxia, vertigo, tinnitus, headache.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Psychiatric </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Hallucinations, depression, apathy, nervousness.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Endocrine </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> The sulfonamides bear certain chemical similarities to some goitrogens, diuretics (acetazolamide and the thiazides) and oral hypoglycemic agents. Cross-sensitivity may exist with these agents. Diuresis and hypoglycemia have occurred.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Musculoskeletal </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Arthralgia, myalgia, rhabdomyolysis.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Respiratory </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Cough, shortness of breath and pulmonary infiltrates, acute eosinophilic pneumonia, acute and delayed lung injury, interstitial lung disease, acute respiratory failure <content styleCode=\"italics\">[see Warnings and Precautions (5.2)]</content> .  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Cardiovascular System</content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> QT prolongation resulting in ventricular tachycardia and torsades de pointes, circulatory shock <content styleCode=\"italics\">[see Warnings and Precautions (5.2)].</content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Miscellaneous </content> </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Weakness, fatigue, insomnia.  </td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Potential for Sulfamethoxazole and trimethoprim injection to Affect Other Drugs Trimethoprim is an inhibitor of CYP2C8 as well as OCT2 transporter. Sulfamethoxazole is an inhibitor of CYP2C9. Avoid coadministration of sulfamethoxazole and trimethoprim injection with drugs that are substrates of CYP2C8 and 2C9 or OCT2. Table 4: Drug Interactions with Sulfamethoxazole and trimethoprim injection Drug(s) Recommendation Comments Diuretics Avoid concurrent use In elderly patients concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported. Warfarin Monitor prothrombin time and INR It has been reported that sulfamethoxazole and trimethoprim injection may prolong the prothrombin time in patients who are receiving the anticoagulant warfarin (a CYP2C9 substrate). This interaction should be kept in mind when sulfamethoxazole and trimethoprim injection is given to patients already on anticoagulant therapy, and the coagulation time should be reassessed. Phenytoin Monitor serum phenytoin levels Sulfamethoxazole and trimethoprim injection may inhibit the hepatic metabolism of phenytoin (a CYP2C9 substrate). Sulfamethoxazole and trimethoprim injection, given at a common clinical dosage, increased the phenytoin half-life by 39% and decreased the phenytoin metabolic clearance rate by 27%. When administering these drugs concurrently, one should be alert for possible excessive phenytoin effect. Methotrexate Avoid concurrent use Sulfonamides can also displace methotrexate from plasma protein binding sites and can compete with the renal transport of methotrexate, thus increasing free methotrexate concentrations. Cyclosporine Avoid concurrent use There have been reports of marked but reversible nephrotoxicity with coadministration of sulfamethoxazole and trimethoprim injection and cyclosporine in renal transplant recipients. Digoxin Monitor serum digoxin levels Increased digoxin blood levels can occur with concomitant sulfamethoxazole and trimethoprim injection therapy, especially in elderly patients Indomethacin Avoid concurrent use Increased sulfamethoxazole blood levels may occur in patients who are also receiving indomethacin. Pyrimethamine Avoid concurrent use Occasional reports suggest that patients receiving pyrimethamine as malaria prophylaxis in doses exceeding 25 mg weekly may develop megaloblastic anemia if sulfamethoxazole and trimethoprim injection is prescribed. Tricyclic Antidepressants (TCAs) Monitor therapeutic response and adjust dose of TCA accordingly The efficacy of tricyclic antidepressants can decrease when coadministered with sulfamethoxazole and trimethoprim injection. Oral hypoglycemics Monitor blood glucose more frequently Like other sulfonamide-containing drugs, sulfamethoxazole and trimethoprim injection potentiates the effect of oral hypoglycemic that are metabolized by CYP2C8 (e.g., pioglitazone, repaglinide, and rosiglitazone) or CYP2C9 (e.g., glipizide and glyburide) or eliminated renally via OCT2 (e.g., metformin). Additional monitoring of blood glucose may be warranted. Amantadine Avoid concurrent use In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole and trimethoprim injection and amantadine (an OCT2 substrate). Cases of interactions with other OCT2 substrates, memantine and metformin, have also been reported. Angiotensin Converting Enzyme Inhibitors Avoid concurrent use In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole and trimethoprim injection and an angiotensin converting enzyme inhibitor. 6,7 Zidovudine Monitor for hematologic toxicity Zidovudine and sulfamethoxazole and trimethoprim injection are known to induce hematological abnormalities. Hence, there is potential for an additive myelotoxicity when coadministered. 8 Dofetilide Concurrent administration is contraindicated Elevated plasma concentrations of dofetilide have been reported following concurrent administration of trimethoprim and dofetilide. Increased plasma concentrations of dofetilide may cause serious ventricular arrhythmias associated with QT interval prolongation, including torsade de pointes . 2,3 Procainamide Closely monitor for clinical and ECG signs of procainamide toxicity and/or procainamide plasma concentration if available Trimethoprim increases the plasma concentrations of procainamide and its active N-acetyl metabolite (NAPA) when trimethoprim and procainamide are coadministered. The increased procainamide and NAPA plasma concentrations that resulted from the pharmacokinetic interaction with trimethoprim are associated with further prolongation of the QTc interval. 9 CYP2C8, CYP2C9 or OCT2 substrates: Use with caution when co-administering with Sulfamethoxazole and trimethoprim injection. (7) Warfarin: Monitor prothrombin time and INR. (7) Phenytoin: Monitor serum phenytoin levels. (7) Digoxin: Concomitant use may increase digoxin blood levels, especially in elderly patients. Monitor serum digoxin levels. (7) Oral hypoglycemics: Concomitant use may potentiate hypoglycemic effects. Monitor blood glucose more frequently. (7) Zidovudine: Monitor for hematologic toxicity. (7) Procainamide: Monitor for signs of procainamide toxicity. (7) 7.1 Interactions with Laboratory or Diagnostic Testing Sulfamethoxazole and trimethoprim injection, specifically the trimethoprim component, can interfere with a serum methotrexate assay as determined by the competitive binding protein technique (CBPA) when a bacterial dihydrofolate reductase is used as the binding protein. No interference occurs, however, if methotrexate is measured by a radioimmunoassay (RIA). The presence of sulfamethoxazole and trimethoprim injection may also interfere with the Jaff¡SR alkaline picrate reaction assay for creatinine, resulting in overestimations of about 10% in the range of normal values."
+  ],
+  "drug_interactions_table": [
+   "<table ID=\"ID139\" width=\"577\"><col width=\"108\"/><col width=\"142\"/><col width=\"327\"/><tbody><tr><td styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Drug(s) </content> </td><td styleCode=\" Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Recommendation </content> </td><td styleCode=\" Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Comments </content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Diuretics </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Avoid concurrent use </td><td styleCode=\" Botrule Rrule\" align=\"left\"> In elderly patients concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Warfarin  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Monitor prothrombin time and INR  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> It has been reported that sulfamethoxazole and trimethoprim injection may prolong the prothrombin time in patients who are receiving the anticoagulant warfarin (a CYP2C9 substrate). This interaction should be kept in mind when sulfamethoxazole and trimethoprim injection is given to patients already on anticoagulant therapy, and the coagulation time should be reassessed.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Phenytoin  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Monitor serum phenytoin levels  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Sulfamethoxazole and trimethoprim injection may inhibit the hepatic metabolism of phenytoin (a CYP2C9 substrate). Sulfamethoxazole and trimethoprim injection, given at a common clinical dosage, increased the phenytoin half-life by 39% and decreased the phenytoin metabolic clearance rate by 27%. When administering these drugs concurrently, one should be alert for possible excessive phenytoin effect.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Methotrexate  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Avoid concurrent use  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Sulfonamides can also displace methotrexate from plasma protein binding sites and can compete with the renal transport of methotrexate, thus increasing free methotrexate concentrations.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Cyclosporine  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Avoid concurrent use  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> There have been reports of marked but reversible nephrotoxicity with coadministration of sulfamethoxazole and trimethoprim injection and cyclosporine in renal transplant recipients.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Digoxin  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Monitor serum digoxin levels </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Increased digoxin blood levels can occur with concomitant sulfamethoxazole and trimethoprim injection therapy, especially in elderly patients  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Indomethacin  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Avoid concurrent use  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Increased sulfamethoxazole blood levels may occur in patients who are also receiving indomethacin.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Pyrimethamine  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Avoid concurrent use  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Occasional reports suggest that patients receiving pyrimethamine as malaria prophylaxis in doses exceeding 25 mg weekly may develop megaloblastic anemia if sulfamethoxazole and trimethoprim injection is prescribed.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Tricyclic Antidepressants (TCAs)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Monitor therapeutic response and adjust dose of TCA accordingly  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> The efficacy of tricyclic antidepressants can decrease when coadministered with sulfamethoxazole and trimethoprim injection.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Oral hypoglycemics  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Monitor blood glucose more frequently  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Like other sulfonamide-containing drugs, sulfamethoxazole and trimethoprim injection potentiates the effect of oral hypoglycemic that are metabolized by CYP2C8 (e.g., pioglitazone, repaglinide, and rosiglitazone) or CYP2C9 (e.g., glipizide and glyburide) or eliminated renally via OCT2 (e.g., metformin). Additional monitoring of blood glucose may be warranted.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Amantadine  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Avoid concurrent use  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole and trimethoprim injection and amantadine (an OCT2 substrate). Cases of interactions with other OCT2 substrates, memantine and metformin, have also been reported.  </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Angiotensin  Converting Enzyme Inhibitors  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Avoid concurrent use  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole and trimethoprim injection and an angiotensin converting enzyme inhibitor.<sup>6,7</sup> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Zidovudine  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Monitor for hematologic toxicity  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Zidovudine and sulfamethoxazole and trimethoprim injection are known to induce hematological abnormalities. Hence, there is potential for an additive myelotoxicity when coadministered.<sup>8</sup> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Dofetilide  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Concurrent administration is contraindicated  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Elevated plasma concentrations of dofetilide have been reported following concurrent administration of trimethoprim and dofetilide. Increased plasma concentrations of dofetilide may cause serious ventricular arrhythmias associated with QT interval prolongation, including <content styleCode=\"italics\">torsade de pointes</content> .<sup>2,3</sup> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Procainamide  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Closely monitor for clinical and ECG signs of procainamide toxicity and/or procainamide plasma concentration if available  </td><td styleCode=\" Botrule Rrule\" align=\"left\"> Trimethoprim increases the plasma concentrations of procainamide and its active N-acetyl metabolite (NAPA) when trimethoprim and procainamide are coadministered. The increased procainamide and NAPA plasma concentrations that resulted from the pharmacokinetic interaction with trimethoprim are associated with further prolongation of the QTc interval.<sup>9</sup> </td></tr></tbody></table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pregnancy: Sulfamethoxazole and trimethoprim injection may cause fetal harm to the fetus. Use only if potential benefit justifies potential risk to the fetus. (8.1) Lactation: Avoid breastfeeding during treatment with Sulfamethoxazole and trimethoprim injection because of potential risk of bilirubin displacement and kernicterus. (8.2) 8.1 Pregnancy Risk Summary Sulfamethoxazole and trimethoprim injection may cause fetal harm if administered to a pregnant woman. Some epidemiologic studies suggest that exposure to sulfamethoxazole and trimethoprim injection during pregnancy may be associated with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular abnormalities, urinary tract defects, oral clefts, and club foot (see Human Data). One of 3 rat studies showed cleft palate at doses approximately 5 times the recommended human dose on a body surface area basis; the other 2 studies did not show teratogenicity at similar doses. Studies in pregnant rabbits showed increased fetal loss at approximately 6 times the human dose on a body surface area basis ( see Animal Data). The estimated background risk of major birth defects and miscarriages for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Advise pregnant women of the potential harm of sulfamethoxazole and trimethoprim injection to the fetus ( see Clinical Considerations). Clinical Considerations Disease-associated Maternal and/or Embryo/Fetal Risk Urinary tract infection in pregnancy is associated with adverse perinatal outcomes such as preterm birth, low birth weight, and pre-eclampsia, and increased mortality to the pregnant woman. P. jirovecii pneumonia in pregnancy is associated with preterm birth and increased morbidity and mortality for the pregnant woman. Sulfamethoxazole and trimethoprim injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Data Human Data While there are no large, prospective, well-controlled studies in pregnant women and their babies, some retrospective epidemiologic studies suggest an association between first trimester exposure to sulfamethoxazole and trimethoprim injection with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular abnormalities, urinary tract defects, oral clefts, and club foot. These studies, however, were limited by the small number of exposed cases and the lack of adjustment for multiple statistical comparisons and confounders. These studies are further limited by recall, selection, and information biases, and by limited generalizability of their findings. Lastly, outcome measures varied between studies, limiting cross-study comparisons. Alternatively, other epidemiologic studies did not detect statistically significant associations between sulfamethoxazole and trimethoprim injection exposure and specific malformations. Brumfitt and Pursell, 10 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or oral trimethoprim and sulfamethoxazole. The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving trimethoprim and sulfamethoxazole. There were no abnormalities in the 10 children whose mothers received the drug during the first trimester. In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral trimethoprim and sulfamethoxazole at the time of conception or shortly thereafter. Animal Data In rats, oral doses of either 533 mg/kg sulfamethoxazole or 200 mg/kg trimethoprim produced teratologic effects manifested mainly as cleft palates. These doses are approximately 5 and 6 times the recommended human total daily dose on a body surface area basis. In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole was used in combination with 128 mg/kg of trimethoprim. In some rabbit studies, an overall increase in fetal loss (dead and resorbed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose based on body surface area. 8.2 Lactation Risk Summary Levels of sulfamethoxazole and trimethoprim injection in breast milk are approximately 2 to 5% of the recommended daily dose for pediatric patients over two months of age. There is no information regarding the effect of sulfamethoxazole and trimethoprim injection on the breastfed infant or the effect on milk production. Because of the potential risk of bilirubin displacement and kernicterus on the breastfed child [see Contraindications (4)] , advise women to avoid breastfeeding during treatment with sulfamethoxazole and trimethoprim injection. 8.4 Pediatric Use Sulfamethoxazole and trimethoprim injection is contraindicated in pediatric patients younger than two months of age because of the potential risk of bilirubin displacement and kernicterus [see Contraindications (4)]. Serious adverse reactions including fatal reactions and the \"gasping syndrome\" occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received benzyl alcohol as a preservative in infusion solutions. In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L). Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse. Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol. When prescribing sulfamethoxazole and trimethoprim injection in pediatric patients consider the combined daily metabolic load of benzyl alcohol from all sources including sulfamethoxazole and trimethoprim injection (Sulfamethoxazole and trimethoprim injection contains 10 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.8)]. 8.5 Geriatric Use Clinical studies of sulfamethoxazole and trimethoprim injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. There may be an increased risk of severe adverse reactions in elderly patients, particularly when complicating conditions exist, e.g., impaired kidney and/or liver function, or concomitant use of other drugs. Severe skin reactions, generalized bone marrow suppression [see Warnings and Precautions (5.11), Adverse Reactions (6.1)], a specific decrease in platelets (with or without purpura), and hyperkalemia are the most frequently reported severe adverse reactions in elderly patients. In those concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported. Increased digoxin blood levels can occur with concomitant sulfamethoxazole and trimethoprim injection therapy, especially in elderly patients. Serum digoxin levels should be monitored [see Drug Interactions (7)]. Hematologic changes indicative of folic acid deficiency may occur in elderly patients. These effects are reversible by folinic acid therapy. Appropriate dosage adjustments should be made for patients with impaired kidney function and duration of use should be as short as possible to minimize risks of undesired reactions [see Dosage and Administration (2.2)]. The trimethoprim component of sulfamethoxazole and trimethoprim injection may cause hyperkalemia when administered to patients with underlying disorders of potassium metabolism, with renal insufficiency or when given concomitantly with drugs known to induce hyperkalemia, such as angiotensin converting enzyme inhibitors. Close monitoring of serum potassium is warranted in these patients. Discontinuation of sulfamethoxazole and trimethoprim injection treatment is recommended to help lower potassium serum levels. Pharmacokinetics parameters for sulfamethoxazole were similar for geriatric subjects and younger adult subjects. The mean maximum serum trimethoprim concentration was higher and mean renal clearance of trimethoprim was lower in geriatric subjects compared with younger subjects [see Clinical Pharmacology (12.3)]."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Sulfamethoxazole and trimethoprim injection may cause fetal harm if administered to a pregnant woman. Some epidemiologic studies suggest that exposure to sulfamethoxazole and trimethoprim injection during pregnancy may be associated with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular abnormalities, urinary tract defects, oral clefts, and club foot (see Human Data). One of 3 rat studies showed cleft palate at doses approximately 5 times the recommended human dose on a body surface area basis; the other 2 studies did not show teratogenicity at similar doses. Studies in pregnant rabbits showed increased fetal loss at approximately 6 times the human dose on a body surface area basis ( see Animal Data). The estimated background risk of major birth defects and miscarriages for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Advise pregnant women of the potential harm of sulfamethoxazole and trimethoprim injection to the fetus ( see Clinical Considerations). Clinical Considerations Disease-associated Maternal and/or Embryo/Fetal Risk Urinary tract infection in pregnancy is associated with adverse perinatal outcomes such as preterm birth, low birth weight, and pre-eclampsia, and increased mortality to the pregnant woman. P. jirovecii pneumonia in pregnancy is associated with preterm birth and increased morbidity and mortality for the pregnant woman. Sulfamethoxazole and trimethoprim injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Data Human Data While there are no large, prospective, well-controlled studies in pregnant women and their babies, some retrospective epidemiologic studies suggest an association between first trimester exposure to sulfamethoxazole and trimethoprim injection with an increased risk of congenital malformations, particularly neural tube defects, cardiovascular abnormalities, urinary tract defects, oral clefts, and club foot. These studies, however, were limited by the small number of exposed cases and the lack of adjustment for multiple statistical comparisons and confounders. These studies are further limited by recall, selection, and information biases, and by limited generalizability of their findings. Lastly, outcome measures varied between studies, limiting cross-study comparisons. Alternatively, other epidemiologic studies did not detect statistically significant associations between sulfamethoxazole and trimethoprim injection exposure and specific malformations. Brumfitt and Pursell, 10 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or oral trimethoprim and sulfamethoxazole. The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving trimethoprim and sulfamethoxazole. There were no abnormalities in the 10 children whose mothers received the drug during the first trimester. In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral trimethoprim and sulfamethoxazole at the time of conception or shortly thereafter. Animal Data In rats, oral doses of either 533 mg/kg sulfamethoxazole or 200 mg/kg trimethoprim produced teratologic effects manifested mainly as cleft palates. These doses are approximately 5 and 6 times the recommended human total daily dose on a body surface area basis. In two studies in rats, no teratology was observed when 512 mg/kg of sulfamethoxazole was used in combination with 128 mg/kg of trimethoprim. In some rabbit studies, an overall increase in fetal loss (dead and resorbed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose based on body surface area."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Sulfamethoxazole and trimethoprim injection is contraindicated in pediatric patients younger than two months of age because of the potential risk of bilirubin displacement and kernicterus [see Contraindications (4)]. Serious adverse reactions including fatal reactions and the \"gasping syndrome\" occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received benzyl alcohol as a preservative in infusion solutions. In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L). Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse. Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol. When prescribing sulfamethoxazole and trimethoprim injection in pediatric patients consider the combined daily metabolic load of benzyl alcohol from all sources including sulfamethoxazole and trimethoprim injection (Sulfamethoxazole and trimethoprim injection contains 10 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.8)]."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of sulfamethoxazole and trimethoprim injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. There may be an increased risk of severe adverse reactions in elderly patients, particularly when complicating conditions exist, e.g., impaired kidney and/or liver function, or concomitant use of other drugs. Severe skin reactions, generalized bone marrow suppression [see Warnings and Precautions (5.11), Adverse Reactions (6.1)], a specific decrease in platelets (with or without purpura), and hyperkalemia are the most frequently reported severe adverse reactions in elderly patients. In those concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported. Increased digoxin blood levels can occur with concomitant sulfamethoxazole and trimethoprim injection therapy, especially in elderly patients. Serum digoxin levels should be monitored [see Drug Interactions (7)]. Hematologic changes indicative of folic acid deficiency may occur in elderly patients. These effects are reversible by folinic acid therapy. Appropriate dosage adjustments should be made for patients with impaired kidney function and duration of use should be as short as possible to minimize risks of undesired reactions [see Dosage and Administration (2.2)]. The trimethoprim component of sulfamethoxazole and trimethoprim injection may cause hyperkalemia when administered to patients with underlying disorders of potassium metabolism, with renal insufficiency or when given concomitantly with drugs known to induce hyperkalemia, such as angiotensin converting enzyme inhibitors. Close monitoring of serum potassium is warranted in these patients. Discontinuation of sulfamethoxazole and trimethoprim injection treatment is recommended to help lower potassium serum levels. Pharmacokinetics parameters for sulfamethoxazole were similar for geriatric subjects and younger adult subjects. The mean maximum serum trimethoprim concentration was higher and mean renal clearance of trimethoprim was lower in geriatric subjects compared with younger subjects [see Clinical Pharmacology (12.3)]."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Acute Since there has been no extensive experience in humans with single doses of sulfamethoxazole and trimethoprim injection in excess of 25 mL (400 mg trimethoprim and 2000 mg sulfamethoxazole), the maximum tolerated dose in humans is unknown. Signs and symptoms of overdosage reported with sulfonamides include anorexia, colic, nausea, vomiting, dizziness, headache, drowsiness and unconsciousness. Pyrexia, hematuria and crystalluria may be noted. Blood dyscrasias and jaundice are potential late manifestations of overdosage. Signs of acute overdosage with trimethoprim include nausea, vomiting, dizziness, headache, mental depression, confusion and bone marrow depression. General principles of treatment include the administration of intravenous fluids if urine output is low and renal function is normal. Acidification of the urine will increase renal elimination of trimethoprim. The patient should be monitored with blood counts and appropriate blood chemistries, including electrolytes. If a significant blood dyscrasia or jaundice occurs, specific therapy should be instituted for these complications. Peritoneal dialysis is not effective and hemodialysis is only moderately effective in eliminating trimethoprim and sulfamethoxazole. Chronic Use of Sulfamethoxazole and trimethoprim injection at high doses and/or for extended periods of time may cause bone marrow depression manifested as thrombocytopenia, leukopenia and/or megaloblastic anemia. If signs of bone marrow depression occur, the patient should be given leucovorin 5 to 15 mg daily until normal hematopoiesis is restored."
+  ],
+  "description": [
+   "11 DESCRIPTION Sulfamethoxazole and trimethoprim injection, a sterile solution for intravenous infusion only, is a combination of sulfamethoxazole, a sulfonamide antimicrobial, and trimethoprim, a dihydrofolate reductase inhibitor antibacterial. Each mL contains Sulfamethoxazole, USP 80 mg; trimethoprim, USP 16 mg; benzyl alcohol 10 mg (1.0% v/v and 1.0% w/v) as preservatives; diethanolamine 3 mg (0.3% v/v and 0.3% w/v); ethyl alcohol 100 mg (12.3%v/v and 10.0% w/v); propylene glycol 400 mg (38.6% v/v and 40.0% w/v); sodium metabisulfite 1 mg as an antioxidant; water for injection q.s.; air replaced with nitrogen; pH adjusted with sodium hydroxide and/or hydrochloric acid if necessary. Trimethoprim is 2,4-diamino-5-(3,4,5-trimethoxybenzyl)pyrimidine. It is a white to light yellow, odorless, bitter compound with a molecular weight of 290.3 and the following structural formula: C 14 H 18 N 4 O 3 M.W. 290.3 Sulfamethoxazole is N 1 -(5-methyl-3-isoxazolyl) sulfanilamide. It is an almost white, odorless, tasteless compound with a molecular weight of 253.28 and the following structural formula: C 10 H 11 N 3 O 3 S M.W. 253.28 molecular structure - trimethoprim molecular structure - sulfamethoxazole"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Sulfamethoxazole and trimethoprim injection is an antimicrobial drug [see Microbiology (12.4)]. 12.3 Pharmacokinetics Following a 1-hour intravenous infusion of a single dose of 160 mg trimethoprim and 800 mg sulfamethoxazole to 11 patients whose weight ranged from 105 lbs to 165 lbs (mean, 143 lbs), the peak plasma concentrations of trimethoprim and sulfamethoxazole were 3.4 ± 0.3 μg/mL and 46.3 ± 2.7 μg/mL, respectively. Following repeated intravenous administration of the same dose at 8-hour intervals, the mean plasma concentrations just prior to and immediately after each infusion at steady state were 5.6 ± 0.6 μg/mL and 8.8 ± 0.9 μg/mL for trimethoprim and 70.6 ± 7.3 μg/mL and 105.6 ± 10.9 μg/mL for sulfamethoxazole. The mean plasma half-life was 11.3 ± 0.7 hours for trimethoprim and 12.8 ± 1.8 hours for sulfamethoxazole. All of these 11 patients had normal renal function, and their ages ranged from 17 to 78 years (median, 60 years). 11 Pharmacokinetic studies in children and adults suggest an age-dependent half-life of trimethoprim, as indicated in Table 5 . 12 Table 5: Half-life of Trimethoprim (TMP) in Pediatric Patients and Adults Age (years) No. of Patients Mean TMP Half-life (hours) <1 2 7.67 1-10 9 5.49 10-20 5 8.19 20-63 6 12.82 Patients with severely impaired renal function exhibit an increase in the half-lives of both components, requiring dosage regimen adjustment [see Dosage and Administration (2.2)]. Distribution Both trimethoprim and sulfamethoxazole exist in the blood as unbound, protein-bound and metabolized forms; sulfamethoxazole also exists as the conjugated form. Approximately 44% of trimethoprim and 70% of sulfamethoxazole are bound to plasma proteins. The presence of 10 mg percent sulfamethoxazole in plasma decreases the protein binding of trimethoprim by an insignificant degree; trimethoprim does not influence the protein binding of sulfamethoxazole. Both trimethoprim and sulfamethoxazole distribute to sputum and vaginal fluid; trimethoprim also distributes to bronchial secretions, and both pass the placental barrier and are excreted in breast milk. Elimination Metabolism Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N 4 -acetyl-, N4-hydroxy-, 5methylhydroxy-, N 4 -acetyl-5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate. The formation of N 4 -hydroxy metabolite is mediated via CYP2C9. Trimethoprim is metabolized in vitro to 11 different metabolites, of which, five are glutathione adducts and six are oxidative metabolites, including the major metabolites, 1- and 3-oxides and the 3- and 4hydroxy derivatives. The free forms of trimethoprim and sulfamethoxazole are considered to be the therapeutically active forms. In vitro studies suggest that trimethoprim is a substrate of P-glycoprotein, OCT1 and OCT2, and that sulfamethoxazole is not a substrate of P-glycoprotein. Excretion Excretion of trimethoprim and sulfamethoxazole is primarily by the kidneys through both glomerular filtration and tubular secretion. Urine concentrations of both trimethoprim and sulfamethoxazole are considerably higher than are the concentrations in the blood. The percent of dose excreted in urine over a 12-hour period following the intravenous administration of the first dose of 240 mg of trimethoprim and 1200 mg of sulfamethoxazole on day 1 ranged from 17% to 42.4% as free trimethoprim; 7% to 12.7% as free sulfamethoxazole; and 36.7% to 56% as total (free plus the N4-acetylated metabolite) sulfamethoxazole. When administered together as Sulfamethoxazole and trimethoprim injection, neither trimethoprim nor sulfamethoxazole affects the urinary excretion pattern of the other. Specific Populations Geriatric Patients: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in six geriatric subjects (mean age: 78.6 years) and six young healthy subjects (mean age: 29.3 years) using a non-US approved formulation. Pharmacokinetic values for sulfamethoxazole in geriatric subjects were similar to those observed in young adult subjects. The mean renal clearance of trimethoprim was significantly lower in geriatric subjects compared with young adult subjects (19 mL/h/kg vs. 55 mL/h/kg). However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects. 12.4 Microbiology Mechanism of Action Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para -aminobenzoic acid (PABA). Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase. Thus, sulfamethoxazole and trimethoprim injection blocks two consecutive steps in the biosynthesis of nucleic acids and proteins essential to many bacteria. Resistance In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and trimethoprim in combination than with either trimethoprim or sulfamethoxazole alone. Antimicrobial Activity Sulfamethoxazole and trimethoprim injection has been shown to be active against most isolates of the following microorganisms, both in in vitro and in clinical infections [see Indications and Usage (1)] . Aerobic gram-negative bacteria Escherichia coli Klebsiella species Enterobacter species Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei Other Microorganisms Pneumocystis jirovecii The following in vitro data are available, but their clinical significance is unknown. At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for sulfamethoxazole and trimethoprim injection against isolates of similar genus or organism group. However, the efficacy of sulfamethoxazole and trimethoprim injection in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials. Aerobic gram-positive bacteria Streptococcus pneumoniae Aerobic gram-negative bacteria Haemophilus influenzae Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC."
+  ],
+  "clinical_pharmacology_table": [
+   "<table ID=\"ID115\" width=\"600\" styleCode=\"Noautorules\"><col width=\"200\"/><col width=\"200\"/><col width=\"200\"/><tbody><tr><td styleCode=\"Lrule Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Age (years) </content> </td><td styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> No. of Patients </content> </td><td styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Mean TMP Half-life (hours) </content> </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> &lt;1  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 2 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 7.67  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> 1-10  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 9 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 5.49  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> 10-20  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 5 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 8.19  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> 20-63  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 6 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 12.82  </td></tr></tbody></table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Sulfamethoxazole and trimethoprim injection is an antimicrobial drug [see Microbiology (12.4)]."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Following a 1-hour intravenous infusion of a single dose of 160 mg trimethoprim and 800 mg sulfamethoxazole to 11 patients whose weight ranged from 105 lbs to 165 lbs (mean, 143 lbs), the peak plasma concentrations of trimethoprim and sulfamethoxazole were 3.4 ± 0.3 μg/mL and 46.3 ± 2.7 μg/mL, respectively. Following repeated intravenous administration of the same dose at 8-hour intervals, the mean plasma concentrations just prior to and immediately after each infusion at steady state were 5.6 ± 0.6 μg/mL and 8.8 ± 0.9 μg/mL for trimethoprim and 70.6 ± 7.3 μg/mL and 105.6 ± 10.9 μg/mL for sulfamethoxazole. The mean plasma half-life was 11.3 ± 0.7 hours for trimethoprim and 12.8 ± 1.8 hours for sulfamethoxazole. All of these 11 patients had normal renal function, and their ages ranged from 17 to 78 years (median, 60 years). 11 Pharmacokinetic studies in children and adults suggest an age-dependent half-life of trimethoprim, as indicated in Table 5 . 12 Table 5: Half-life of Trimethoprim (TMP) in Pediatric Patients and Adults Age (years) No. of Patients Mean TMP Half-life (hours) <1 2 7.67 1-10 9 5.49 10-20 5 8.19 20-63 6 12.82 Patients with severely impaired renal function exhibit an increase in the half-lives of both components, requiring dosage regimen adjustment [see Dosage and Administration (2.2)]. Distribution Both trimethoprim and sulfamethoxazole exist in the blood as unbound, protein-bound and metabolized forms; sulfamethoxazole also exists as the conjugated form. Approximately 44% of trimethoprim and 70% of sulfamethoxazole are bound to plasma proteins. The presence of 10 mg percent sulfamethoxazole in plasma decreases the protein binding of trimethoprim by an insignificant degree; trimethoprim does not influence the protein binding of sulfamethoxazole. Both trimethoprim and sulfamethoxazole distribute to sputum and vaginal fluid; trimethoprim also distributes to bronchial secretions, and both pass the placental barrier and are excreted in breast milk. Elimination Metabolism Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N 4 -acetyl-, N4-hydroxy-, 5methylhydroxy-, N 4 -acetyl-5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate. The formation of N 4 -hydroxy metabolite is mediated via CYP2C9. Trimethoprim is metabolized in vitro to 11 different metabolites, of which, five are glutathione adducts and six are oxidative metabolites, including the major metabolites, 1- and 3-oxides and the 3- and 4hydroxy derivatives. The free forms of trimethoprim and sulfamethoxazole are considered to be the therapeutically active forms. In vitro studies suggest that trimethoprim is a substrate of P-glycoprotein, OCT1 and OCT2, and that sulfamethoxazole is not a substrate of P-glycoprotein. Excretion Excretion of trimethoprim and sulfamethoxazole is primarily by the kidneys through both glomerular filtration and tubular secretion. Urine concentrations of both trimethoprim and sulfamethoxazole are considerably higher than are the concentrations in the blood. The percent of dose excreted in urine over a 12-hour period following the intravenous administration of the first dose of 240 mg of trimethoprim and 1200 mg of sulfamethoxazole on day 1 ranged from 17% to 42.4% as free trimethoprim; 7% to 12.7% as free sulfamethoxazole; and 36.7% to 56% as total (free plus the N4-acetylated metabolite) sulfamethoxazole. When administered together as Sulfamethoxazole and trimethoprim injection, neither trimethoprim nor sulfamethoxazole affects the urinary excretion pattern of the other. Specific Populations Geriatric Patients: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in six geriatric subjects (mean age: 78.6 years) and six young healthy subjects (mean age: 29.3 years) using a non-US approved formulation. Pharmacokinetic values for sulfamethoxazole in geriatric subjects were similar to those observed in young adult subjects. The mean renal clearance of trimethoprim was significantly lower in geriatric subjects compared with young adult subjects (19 mL/h/kg vs. 55 mL/h/kg). However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects."
+  ],
+  "pharmacokinetics_table": [
+   "<table ID=\"ID115\" width=\"600\" styleCode=\"Noautorules\"><col width=\"200\"/><col width=\"200\"/><col width=\"200\"/><tbody><tr><td styleCode=\"Lrule Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Age (years) </content> </td><td styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> No. of Patients </content> </td><td styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Mean TMP Half-life (hours) </content> </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> &lt;1  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 2 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 7.67  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> 1-10  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 9 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 5.49  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> 10-20  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 5 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 8.19  </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"center\"> 20-63  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 6 </td><td styleCode=\" Botrule Rrule\" align=\"center\"> 12.82  </td></tr></tbody></table>"
+  ],
+  "microbiology": [
+   "12.4 Microbiology Mechanism of Action Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para -aminobenzoic acid (PABA). Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase. Thus, sulfamethoxazole and trimethoprim injection blocks two consecutive steps in the biosynthesis of nucleic acids and proteins essential to many bacteria. Resistance In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and trimethoprim in combination than with either trimethoprim or sulfamethoxazole alone. Antimicrobial Activity Sulfamethoxazole and trimethoprim injection has been shown to be active against most isolates of the following microorganisms, both in in vitro and in clinical infections [see Indications and Usage (1)] . Aerobic gram-negative bacteria Escherichia coli Klebsiella species Enterobacter species Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei Other Microorganisms Pneumocystis jirovecii The following in vitro data are available, but their clinical significance is unknown. At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for sulfamethoxazole and trimethoprim injection against isolates of similar genus or organism group. However, the efficacy of sulfamethoxazole and trimethoprim injection in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials. Aerobic gram-positive bacteria Streptococcus pneumoniae Aerobic gram-negative bacteria Haemophilus influenzae Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Sulfamethoxazole was not carcinogenic when assessed in a 26-week tumorigenic mouse (Tg-rasH2) study at doses up to 400 mg/kg/day sulfamethoxazole; equivalent to 2-fold the human systemic exposure (at a daily dose of 800 mg sulfamethoxazole twice a day) . Mutagenesis In vitro reverse mutation bacterial tests according to the standard protocol have not been performed with sulfamethoxazole and trimethoprim in combination. An in vitro chromosomal aberration test in human lymphocytes with sulfamethoxazole/trimethoprim was negative. In in vitro and in vivo tests in animal species, sulfamethoxazole/trimethoprim did not damage chromosomes. In vivo micronucleus assays were positive following oral administration of sulfamethoxazole/trimethoprim. Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities. Sulfamethoxazole alone was positive in an in vitro reverse mutation bacterial assay and in in vitro micronucleus assays using cultured human lymphocytes. Trimethoprim alone was negative in in vitro reverse mutation bacterial assays and in in vitro chromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation. In in vitro Comet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive. In mice following oral administration of trimethoprim, no DNA damage in Comet assays of liver, kidney, lung, spleen, or bone marrow was recorded. Impairment of Fertility No adverse effects on fertility or general reproductive performance were observed in rats given oral dosages as high as 350 mg/kg/day sulfamethoxazole plus 70 mg/kg/day trimethoprim, doses roughly two times the recommended human daily dose on a body surface area basis."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Sulfamethoxazole was not carcinogenic when assessed in a 26-week tumorigenic mouse (Tg-rasH2) study at doses up to 400 mg/kg/day sulfamethoxazole; equivalent to 2-fold the human systemic exposure (at a daily dose of 800 mg sulfamethoxazole twice a day) . Mutagenesis In vitro reverse mutation bacterial tests according to the standard protocol have not been performed with sulfamethoxazole and trimethoprim in combination. An in vitro chromosomal aberration test in human lymphocytes with sulfamethoxazole/trimethoprim was negative. In in vitro and in vivo tests in animal species, sulfamethoxazole/trimethoprim did not damage chromosomes. In vivo micronucleus assays were positive following oral administration of sulfamethoxazole/trimethoprim. Observations of leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim revealed no chromosomal abnormalities. Sulfamethoxazole alone was positive in an in vitro reverse mutation bacterial assay and in in vitro micronucleus assays using cultured human lymphocytes. Trimethoprim alone was negative in in vitro reverse mutation bacterial assays and in in vitro chromosomal aberration assays with Chinese Hamster ovary or lung cells with or without S9 activation. In in vitro Comet, micronucleus and chromosomal damage assays using cultured human lymphocytes, trimethoprim was positive. In mice following oral administration of trimethoprim, no DNA damage in Comet assays of liver, kidney, lung, spleen, or bone marrow was recorded. Impairment of Fertility No adverse effects on fertility or general reproductive performance were observed in rats given oral dosages as high as 350 mg/kg/day sulfamethoxazole plus 70 mg/kg/day trimethoprim, doses roughly two times the recommended human daily dose on a body surface area basis."
+  ],
+  "references": [
+   "15 REFERENCES 1. Winston DJ, Lau WK, Gale RP, Young LS. Trimethoprim-Sulfamethoxazole for the Treatment of Pneumocystis carinii pneumonia. Ann Intern Med . June 1980;92:762-769. 2. Al-Khatib SM, LaPointe N, Kramer JM, Califf RM. What Clinicians Should Know About the QT Interval. JAMA . 2003;289(16):2120-2127. 3. Boyer EW, Stork C, Wang RY. Review: The Pharmacology and Toxicology of Dofetilide. Int J Med Toxicol . 2001;4(2):16. 4. Safrin S, Lee BL, Sande MA. Adjunctive folinic acid with trimethoprim-sulfamethoxazole for Pneumocystis carinii pneumonia in AIDS patients is associated with an increased risk of therapeutic failure and death. J Infect Dis . Oct 1994;170(4):912-7. 5. London NJ, Garg SJ, Moorthy RS, Cunningham ET. Drug-induced uveitis. J Ophthalmic Inflamm Infect . 2013;3:43. 6. Marinella MA. Trimethoprim-induced hyperkalemia: An analysis of reported cases. Gerontol . 1999;45:209–212. 7. Margassery S, Bastani B. Life threatening hyperkalemia and acidosis secondary to trimethoprimsulfamethoxazole treatment. J. Nephrol . 2001;14(5):410-414. 8. Moh R, et al. Haematological changes in adults receiving a zidovudine-containing HAART regimen in combination with cotrimoxazole in Côte d'Ivoire. Antivir Ther . 2005;10(5):615-24. 9. Kosoglou T, Rocci ML Jr, Vlasses PH. Trimethoprim alters the disposition of procainamide and Nacetylprocainamide. Clin Pharmacol Ther . Oct 1988;44(4):467-77. 10. Brumfitt W, Pursell R. Trimethoprim/Sulfamethoxazole in the Treatment of Bacteriuria in Women. J Infect Dis . Nov 1973;128 (Suppl): S657-S663. 11. Grose WE, Bodey GP, Loo TL. Clinical Pharmacology of Intravenously Administered Trimethoprim-Sulfamethoxazole. Antimicrob Agents Chemother . Mar 1979;15:447-451. 12. Siber GR, Gorham C, Durbin W, Lesko L, Levin MJ. Pharmacology of Intravenous Trimethoprim-Sulfamethoxazole in Children and Adults. Current Chemotherapy and Infectious Diseases . American Society for Microbiology, Washington, D.C. 1980; Vol. 1, pp. 691-692."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Sulfamethoxazole and trimethoprim injection, USP is supplied as follows: 5 mL Single Dose Vial containing 80 mg trimethoprim (16 mg/mL) and 400 mg sulfamethoxazole (80 mg/mL) for infusion with 5% dextrose in water. 5 mL Vial: NDC 70069- 361 -01 5 mL Vial (Box of 10): NDC 70069- 361 -10 10 mL Multiple Dose Vial; Each 5 mL containing 80 mg trimethoprim (16 mg/mL) and 400 mg sulfamethoxazole (80 mg/mL) for infusion with 5% dextrose in water. 10 mL Vial: NDC 70069- 362 -01 10 mL Vial (Box of 10): NDC 70069- 362 -10 30 mL Multiple Dose Vial; Each 5 mL containing 80 mg trimethoprim (16 mg/mL) and 400 mg sulfamethoxazole (80 mg/mL) for infusion with 5% dextrose in water. 30 mL Vial (Box of 1): NDC 70069- 363 -01 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. DO NOT REFRIGERATE."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Embryo–fetal Toxicity Advise female patients of reproductive potential that sulfamethoxazole and trimethoprim injection can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)]. Hypersensitivity and Other Serious or Fatal Reactions Advise patients to stop taking sulfamethoxazole and trimethoprim injection immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)] . Lactation Advise nursing women to avoid breastfeeding during treatment with sulfamethoxazole and trimethoprim injection. Antibacterial Resistance Counsel patients that antibacterial drugs including sulfamethoxazole and trimethoprim injection should only be used to treat bacterial infections. It does not treat viral infections (e.g., the common cold). Instruct patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation. Diarrhea Advise patients that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible. Trademarks are the property of their respective owners. Manufactured for: Somerset Therapeutics, LLC Somerset, NJ 08873 Made in India Code No.: KR/DRUGS/KTK/28/289/97 ST-STM/P/03 1201168"
+  ],
+  "set_id": "ebb570bb-6e5e-489e-875c-9e7b3a6d716a",
+  "id": "012dfac7-9b72-48a5-a364-e62bbe150cfe",
+  "effective_time": "20250716",
+  "version": "10"
+ }
+}

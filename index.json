@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T17:52Z",
- "n": 373,
+ "updated": "2026-11-11T17:53Z",
+ "n": 375,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -3545,14 +3545,14 @@
     "Zyvox"
    ],
    "manufacturer": [
-    "Hp Halden Pharma AS"
+    "Pharmacia & Upjohn Company LLC"
    ],
-   "effective_time": "20240528",
-   "set_id": "b0c75e79-bf29-4f1d-a45d-ae28398a52d9",
+   "effective_time": "20261103",
+   "set_id": "6e70e63b-bfd5-478d-a8ee-8ba22c9efabd",
    "application": [
-    "NDA021131"
+    "NDA021132"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "liraglutida",
@@ -4225,6 +4225,22 @@
     "ANDA218701"
    ],
    "n_candidates": 4
+  },
+  {
+   "id_es": "nitrofurantoina-macro",
+   "generic_en": "nitrofurantoin",
+   "brand": [
+    "Macrobid"
+   ],
+   "manufacturer": [
+    "REMEDYREPACK INC."
+   ],
+   "effective_time": "20260209",
+   "set_id": "28bc9ec9-b8db-4ece-a14a-8bcf618cbf7e",
+   "application": [
+    "NDA020064"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "nitrofurantoina",
@@ -5581,6 +5597,22 @@
     "NDA215866"
    ],
    "n_candidates": 8
+  },
+  {
+   "id_es": "tmp-smx-iv",
+   "generic_en": "sulfamethoxazole and trimethoprim",
+   "brand": [
+    "Sulfamethoxazole and Trimethoprim"
+   ],
+   "manufacturer": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "effective_time": "20250716",
+   "set_id": "ebb570bb-6e5e-489e-875c-9e7b3a6d716a",
+   "application": [
+    "ANDA212231"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "tmp-smx",
