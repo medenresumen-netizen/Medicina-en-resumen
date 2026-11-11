@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:43Z",
+ "updated": "2026-11-11T15:40Z",
  "n": 352,
  "missing": [
   "norfloxacino",
@@ -2984,17 +2984,17 @@
    "id_es": "insulina-regular",
    "generic_en": "insulin human",
    "brand": [
-    "Humulin R U-500 KwikPen"
+    "Humulin R"
    ],
    "manufacturer": [
     "Eli Lilly and Company"
    ],
-   "effective_time": "20260701",
-   "set_id": "b60e8dd0-1d48-4dc9-87fd-e14675255e8c",
+   "effective_time": "20260616",
+   "set_id": "b519bd83-038c-4ec5-a231-a51ec5cc291f",
    "application": [
     "BLA018780"
    ],
-   "n_candidates": 7
+   "n_candidates": 1
   },
   {
    "id_es": "ipratropio",
