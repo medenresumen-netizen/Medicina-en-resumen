@@ -1,22 +1,22 @@
 {
  "id_es": "doxiciclina",
  "generic_en": "doxycycline",
- "search": "brand:DORYX",
- "pref": "doxycycline|ORAL|DORYX",
- "downloaded": "2026-11-11T06:50Z",
+ "search": "set_id:9e710113-f25e-46fb-8327-7a8e649613a2",
+ "pref": "",
+ "downloaded": "2026-11-11T17:51Z",
  "chosen": {
-  "set_id": "f9277bb8-982d-444d-9325-35d5c53a2d35",
-  "id": "4af31df5-71da-3b6f-e063-6294a90a3906",
-  "effective_time": "20260216",
-  "version": "15",
+  "set_id": "9e710113-f25e-46fb-8327-7a8e649613a2",
+  "id": "7478d638-cc3a-488c-94ed-e31bf54473db",
+  "effective_time": "20261106",
+  "version": "8",
   "brand_name": [
-   "DORYX MPC"
+   "Doxycycline"
   ],
   "generic_name": [
-   "DOXYCYCLINE HYCLATE"
+   "DOXYCYCLINE"
   ],
   "manufacturer_name": [
-   "Mayne Pharma Commercial LLC"
+   "Strides Pharma Science Limited"
   ],
   "route": [
    "ORAL"
@@ -25,9 +25,9 @@
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "NDA050795"
+   "ANDA065055"
   ],
-  "n_sections": 31
+  "n_sections": 18
  },
  "candidates": [
   {
@@ -54,695 +54,52 @@
     "ANDA065055"
    ],
    "n_sections": 18
-  },
-  {
-   "set_id": "d3c0b756-30ba-4ef9-a178-fd785d720373",
-   "id": "5f9bb700-6a5e-ae1a-e063-6394a90a2dfa",
-   "effective_time": "20261106",
-   "version": "3",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209402"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "bc321932-b600-4659-a499-1853991b4ab9",
-   "id": "75595d91-f1bc-4097-a2e5-f5d68bc9a5cb",
-   "effective_time": "20261102",
-   "version": "8",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Zydus Pharmaceuticals USA Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209582"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "8224b9c5-5c4b-4dda-bc58-47b6604c2884",
-   "id": "5ef8bbec-0ff5-0b51-e063-6394a90aa82b",
-   "effective_time": "20261029",
-   "version": "6",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Sun Pharmaceutical Industries Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA065356"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "3e7cf78f-3b48-4614-9fa4-c6d1e0c05a35",
-   "id": "5df70c0a-f77c-bb17-e063-6394a90ace3c",
-   "effective_time": "20261016",
-   "version": "18",
-   "brand_name": [
-    "doxycycline",
-    "Doxycycline Hyclate",
-    "doxycycline hyclate"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE",
-    "DOXYCYCLINE HYCLATE"
-   ],
-   "manufacturer_name": [
-    "Chartwell RX LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA065454",
-    "ANDA062505",
-    "ANDA062500"
-   ],
-   "n_sections": 32
-  },
-  {
-   "set_id": "5ddd8208-c297-af5c-e063-6294a90a7b3b",
-   "id": "5ddd8297-ee37-3a6f-e063-6394a90ac0e4",
-   "effective_time": "20261015",
-   "version": "1",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Redpharm Drug"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA205115"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "c886b2e4-494a-4325-abaf-981fc3d01c66",
-   "id": "9139fc59-1c7a-446d-92ed-2581324664fc",
-   "effective_time": "20261007",
-   "version": "7",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Zydus Lifesciences Limited"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209582"
-   ],
-   "n_sections": 5
-  },
-  {
-   "set_id": "fe8dd6d2-46b6-4987-8441-1b5a16b15bb4",
-   "id": "5c27b19f-24d6-bef4-e063-6394a90a071f",
-   "effective_time": "20260923",
-   "version": "1",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA065055"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "f02f5358-dd42-44d7-802d-a3001e0d4f13",
-   "id": "5bb37e2c-c178-789c-e063-6394a90a788b",
-   "effective_time": "20260917",
-   "version": "3",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Safecor Health, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA205115"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "7fb99e0c-10f6-2924-7940-84e52e7e2a36",
-   "id": "1f477701-633b-7b26-a428-a6935df5d2ab",
-   "effective_time": "20260910",
-   "version": "5",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Apotex Corp."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA217170"
-   ],
-   "n_sections": 33
-  },
-  {
-   "set_id": "595470f9-2004-c378-e063-6294a90a3415",
-   "id": "59547035-44e5-9c75-e063-6394a90ae445",
-   "effective_time": "20260818",
-   "version": "1",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Coupler LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA205115"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "2a07049d-3950-d293-e063-6294a90a4450",
-   "id": "594269bb-fae5-0a61-e063-6294a90aa667",
-   "effective_time": "20260817",
-   "version": "3",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "NuCare Pharmaceuticals,Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209165"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "f0fbf63a-e75c-40cf-b2e9-429deaac899d",
-   "id": "58b75f14-35b1-fd4c-e063-6394a90aefc7",
-   "effective_time": "20260810",
-   "version": "19",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209402"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "429813b4-0223-4d85-a844-b1227ff63b1e",
-   "id": "2dbadeae-fea5-4a18-90cf-ee669b8e71cb",
-   "effective_time": "20260806",
-   "version": "2",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Avenacy Inc."
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA217854"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "fe8cd3c6-36d6-4d92-bc5c-833cd6f9cb32",
-   "id": "f98d477e-8b87-49d8-9baa-2e020466992f",
-   "effective_time": "20260804",
-   "version": "5",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209402"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "2946fc05-78e5-4669-85d1-3a3979eceae0",
-   "id": "8aa2cef1-9f23-46ed-bd30-d54812779f6b",
-   "effective_time": "20260803",
-   "version": "11",
-   "brand_name": [
-    "DOXYCYCLINE"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Lupin Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA217794"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "d9388b32-dcb8-4dff-8a35-8fccb31bd1f8",
-   "id": "36c5a6da-cfa8-4fc1-88f4-970dce541965",
-   "effective_time": "20260801",
-   "version": "3",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Proficient Rx LP"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209165"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "bcc95094-80ed-4023-b2a6-955a4810bfbe",
-   "id": "bcc95094-80ed-4023-b2a6-955a4810bfbe",
-   "effective_time": "20260730",
-   "version": "1",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Preferred Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209402"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "57f97f68-11fb-4900-9efb-ca3b00818d8e",
-   "id": "575c46be-1210-fb40-e063-6294a90a8d0f",
-   "effective_time": "20260724",
-   "version": "1",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Wellhouse Pharma, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA050641"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "04de98f3-33a2-48ba-85b5-9fac867524b7",
-   "id": "3cb5abb2-b506-41b4-a322-f518328b4938",
-   "effective_time": "20260715",
-   "version": "102",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA065055"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "e9997efa-9ad8-3870-e053-2a95a90a1ac3",
-   "id": "55f81bf2-3516-b37f-e063-6394a90a3342",
-   "effective_time": "20260706",
-   "version": "5",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "Golden State Medical Supply, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA065055"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "fa2d9328-b688-47af-8c4d-dc328cf35392",
-   "id": "55015b68-494f-f50c-e063-6394a90a6137",
-   "effective_time": "20260624",
-   "version": "33",
-   "brand_name": [
-    "DOXYCYCLINE"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA204234"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "55873d3e-09c4-4726-acfe-5da581589575",
-   "id": "d542f20c-a672-43c6-a9dc-982a906d39c1",
-   "effective_time": "20260522",
-   "version": "8",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209582"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "00b2aa98-dea2-90c3-e063-6294a90a35d6",
-   "id": "50c3fdb2-97a0-1143-e063-6294a90a90df",
-   "effective_time": "20260501",
-   "version": "3",
-   "brand_name": [
-    "doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "ST. MARY'S MEDICAL PARK PHARMACY"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209402"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "e49f8ff9-af7a-47eb-929b-238cff381c03",
-   "id": "509c5501-c22e-83ef-e063-6294a90a1e19",
-   "effective_time": "20260429",
-   "version": "3",
-   "brand_name": [
-    "Doxycycline"
-   ],
-   "generic_name": [
-    "DOXYCYCLINE"
-   ],
-   "manufacturer_name": [
-    "American Health Packaging"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA065055"
-   ],
-   "n_sections": 18
   }
  ],
  "label": {
-  "recent_major_changes": [
-   "Warnings and Precautions, Severe Skin Reactions ( 5.5 ) 03/2025"
-  ],
-  "recent_major_changes_table": [
-   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"90%\" align=\"left\" valign=\"top\"/><col width=\"10%\" align=\"right\" valign=\"top\"/><tbody><tr><td>Warnings and Precautions, Severe Skin Reactions ( <linkHtml href=\"#S5.5\">5.5</linkHtml>) </td><td>03/2025</td></tr></tbody></table>"
-  ],
-  "indications_and_usage": [
-   "1 INDICATIONS AND USAGE DORYX MPC is a tetracycline class drug indicated for: Rickettsial Infections ( 1.1 ) Sexually Transmitted Infections ( 1.2 ) Respiratory Tract Infections( 1.3 ) Specific Bacterial Infections ( 1.4 ) Ophthalmic Infections ( 1.5 ) Anthrax, Including Inhalational Anthrax (Post-Exposure) ( 1.6 ) Alternative Treatment for Selected Infections when Penicillin is Contraindicated ( 1.7 ) Adjunctive Therapy in Acute Intestinal Amebiasis and Severe Acne ( 1.8 ) Prophylaxis of Malaria ( 1.9 ) Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of doxycycline hyclate and other antibacterial drugs, DORYX MPC Tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria. ( 1.10 ) 1.1 Rickettsial Infections DORYX MPC is indicated for treatment of Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox, and tick fevers caused by Rickettsiae . 1.2 Sexually Transmitted Infections DORYX MPC is indicated for treatment of the following sexually transmitted infections: Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydia trachomatis. Nongonococcal urethritis caused by Ureaplasma urealyticum . Lymphogranuloma venereum caused by Chlamydia trachomatis . Granuloma inguinale caused by Klebsiella granulomatis . Uncomplicated gonorrhea caused by Neisseria gonorrhoeae . Chancroid caused by Haemophilus ducreyi . 1.3 Respiratory Tract Infections DORYX MPC is indicated for treatment of the following respiratory tract infections: Respiratory tract infections caused by Mycoplasma pneumoniae . Psittacosis (ornithosis) caused by Chlamydophila psittaci . Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended. Doxycycline is indicated for treatment of infections caused by the following microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug: Respiratory tract infections caused by Haemophilus influenzae . Respiratory tract infections caused by Klebsiella species. Upper respiratory infections caused by Streptococcus pneumoniae . 1.4 Specific Bacterial Infections DORYX MPC is indicated for treatment of the following specific bacterial infections: Relapsing fever due to Borrelia recurrentis . Plague due to Yersinia pestis . Tularemia due to Francisella tularensis . Cholera caused by Vibrio cholerae . Campylobacter fetus infections caused by Campylobacter fetus . Brucellosis due to Brucella species (in conjunction with streptomycin). Bartonellosis due to Bartonella bacilliformis . Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended. DORYX MPC is indicated for treatment of infections caused by the following gram-negative microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug: Escherichia coli Enterobacter aerogenes Shigella species Acinetobacter species Urinary tract infections caused by Klebsiella species. 1.5 Ophthalmic Infections DORYX MPC is indicated for treatment of the following ophthalmic infections: Trachoma caused by Chlamydia trachomatis , although the infectious agent is not always eliminated as judged by immunofluorescence. Inclusion conjunctivitis caused by Chlamydia trachomatis . 1.6 Anthrax Including Inhalational Anthrax (Post-Exposure) DORYX MPC is indicated for treatment of Anthrax due to Bacillus anthracis , including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis . 1.7 Alternative Treatment for Selected Infections when Penicillin is Contraindicated DORYX MPC is indicated as an alternative treatment for the following selected infections when penicillin is contraindicated: Syphilis caused by Treponema pallidum . Yaws caused by Treponema pallidum subspecies pertenue . Listeriosis due to Listeria monocytogenes . Vincent's infection caused by Fusobacterium fusiforme. Actinomycosis caused by Actinomyces israelii . Infections caused by Clostridium species. 1.8 Adjunctive Therapy for Acute Intestinal Amebiasis and Severe Acne In acute intestinal amebiasis, DORYX MPC may be a useful adjunct to amebicides. In severe acne, DORYX MPC may be useful adjunctive therapy. 1.9 Prophylaxis of Malaria DORYX MPC is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [ see Dosage and Administration (2.2) and Patient Counseling Information (17) ]. 1.10 Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of DORYX MPC and other antibacterial drugs, DORYX MPC should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
-  ],
-  "dosage_and_administration": [
-   "2 DOSAGE AND ADMINISTRATION Important Dosage and Administration Instructions: DORYX MPC is not substitutable on a mg per mg basis with other oral doxycyclines. ( 2.1 ) Do not chew or crush tablets. ( 2.1 ) Dosage in Adult Patients The usual dosage of DORYX MPC is 240 mg on the first day of treatment (administered 120 mg every 12 hours) followed by a maintenance dose of 120 mg daily. ( 2.3 ) In the management of more severe infections (particularly chronic infections of the urinary tract), 120 mg every 12 hours is recommended. ( 2.3 ) Dosage in Pediatric Patients For all pediatric patients weighing less than 45 kg with severe or life threatening infections (e.g., anthrax, Rocky Mountain spotted fever), the recommended dosage of DORYX MPC is 2.6 mg per kg of body weight administered every 12 hours. Pediatric patients weighing 45 kg or more should receive the adult dose. ( 2.4 ) For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45 kg), the recommended dosage schedule of DORYX MPC is 5.3 mg per kg of body weight divided into two doses on the first day of treatment, followed by a maintenance dose of 2.6 mg per kg of body weight (given as a single daily dose or divided into twice daily doses). For pediatric patients weighing over 45 kg, the usual adult dose should be used. ( 2.4 ) See Full Prescribing Information for additional indication specific dosage information and important administration instructions for DORYX MPC. ( 2.2 , 2.5 , 2.6 ) 2.1 Important Dosage and Administration Instructions DORYX MPC is not substitutable on a mg per mg basis with other oral doxycyclines. To avoid prescribing errors, do not substitute DORYX MPC for other oral doxycyclines on a mg per mg basis because of differing bioavailability. Do not chew or crush tablets. The recommended dosage, frequency of administration and weight-based dosage recommendations of DORYX MPC differ from that of the other tetracyclines [ see Dosage and Administration (2.2 , 2.3 , 2.4) ] . Exceeding the recommended dosage may result in an increased incidence of adverse reactions. Administer DORYX MPC with an adequate amount of fluid to wash down the drug and reduce the risk of esophageal irritation and ulceration [ see Adverse Reactions (6) ]. If gastric irritation occurs, DORYX MPC may be given with food or milk [see Clinical Pharmacology (12.3) ] . 2.2 Switching from DORYX to DORYX MPC When switching from DORYX to DORYX MPC : A 60 mg dose of DORYX MPC will replace a 50 mg dose of DORYX A 120 mg dose of DORYX MPC will replace a 100 mg dose of DORYX 2.3 Dosage in Adult Patients The usual dosage of DORYX MPC is 240 mg on the first day of treatment (administered 120 mg every 12 hours) followed by a maintenance dose of 120 mg daily. The maintenance dose may be administered as a single dose or as 60 mg every 12 hours. In the management of more severe infections (particularly chronic infections of the urinary tract), 120 mg every 12 hours is recommended. For certain selected specific indications, the recommended duration or dosage and duration of DORYX MPC in adult patients are as follows: Streptococcal infections, therapy should be continued for 10 days. Uncomplicated urethral, endocervical, or rectal infection caused by C. trachomatis : 120 mg, by mouth, twice-a-day for 7 days. Uncomplicated gonococcal infections in adults (except anorectal infections in men): 120 mg, by mouth, twice-a-day for 7 days. As an alternate single visit dose, administer 360 mg followed in one hour by a second 360 mg dose. Nongonococcal urethritis (NGU) caused by C. trachomatis and U. urealyticum : 120 mg, by mouth, twice-a-day for 7 days. Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 120 mg, by mouth, twice-a-day for 2 weeks. Syphilis of more than one year's duration: Patients who are allergic to penicillin should be treated with doxycycline 120 mg, by mouth, twice-a-day for 4 weeks. Acute epididymo-orchitis caused by N. gonorrhoeae : 120 mg, by mouth, twice-a-day for at least 10 days. Acute epididymo-orchitis caused by C. trachomatis : 120 mg, by mouth, twice-a-day for at least 10 days 2.4 Dosage in Pediatric Patients For all pediatric patients weighing less than 45 kg with severe or life threatening infections (e.g., anthrax, Rocky Mountain spotted fever), the recommended dosage of DORYX MPC is 2.6 mg per kg of body weight administered every 12 hours. Pediatric patients weighing 45 kg or more should receive the adult dose [see Warnings and Precautions (5.1) ] . For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45 kg), the recommended dosage schedule of DORYX MPC is 5.3 mg per kg of body weight divided into two doses on the first day of treatment, followed by a maintenance dose of 2.6 mg per kg of body weight (given as a single daily dose or divided into twice daily doses). For pediatric patients weighing over 45 kg, the usual adult dose should be used. 2.5 Dosage for Prophylaxis of Malaria For adults, the recommended dose of DORYX MPC is 120 mg daily. For pediatric patients 8 years of age and older, the recommended dosage of DORYX MPC is 2.4 mg per kg of body weight administered once daily. Pediatric patients weighing 45 kg or more should receive the adult dose . Prophylaxis should begin 1 or 2 days before travel to the malarious area. Prophylaxis should be continued daily during travel in the malarious area and for 4 weeks after the traveler leaves the malarious area. 2.6 Dosage for Inhalational Anthrax (Post-Exposure) For adults, the recommended dosage is 120 mg, of DORYX MPC, by mouth, twice-a-day for 60 days. For pediatric patients weighing less than 45 kg, the recommended dosage of DORYX MPC is 2.6 mg per kg of body weight, by mouth, twice-a-day for 60 days. Pediatric patients weighing 45 kg or more should receive the adult dose."
-  ],
-  "dosage_forms_and_strengths": [
-   "3 DOSAGE FORMS AND STRENGTHS DORYX MPC (doxycycline hyclate delayed-release tablets), 60 mg are white, oval tablets containing yellow pellets and debossed with \"D6\" on one face and plain on the other. Each tablet contains doxycycline 60 mg (equivalent to doxycycline hyclate 69.4 mg). DORYX MPC Delayed-Release Tablets 60 mg ( 3 )"
-  ],
-  "contraindications": [
-   "4 CONTRAINDICATIONS DORYX MPC is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines. Doxycycline is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines. ( 4 )"
-  ],
-  "warnings_and_cautions": [
-   "5 WARNINGS AND PRECAUTIONS The use of drugs of the tetracycline-class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown). ( 5.1 ) Clostridioides difficile -Associated Diarrhea. Evaluate patients if diarrhea occurs. ( 5.2 ) Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines. Limit sun exposure. ( 5.3 ) Overgrowth of non-susceptible organisms, including fungi, may occur. If such infections occur, discontinue use and institute appropriate therapy. ( 5.4 ) 5.1 Tooth Development The use of drugs of the tetracycline-class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown). This adverse reaction is more common during long-term use of the drugs but it has been observed following repeated short-term courses. Enamel hypoplasia has also been reported. Use DORYX MPC in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies. 5.2 Clostridioides difficile Associated Diarrhea Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including DORYX MPC Tablets, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated. 5.3 Photosensitivity Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines. Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs, and treatment should be discontinued at the first evidence of skin erythema. 5.4 Potential for Microbial Overgrowth DORYX MPC may result in overgrowth of non-susceptible organisms, including fungi. If such infections occur, discontinue use and institute appropriate therapy. 5.5 Severe Skin Reactions Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline. Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption [See Adverse Reactions (6) ]. If severe skin reactions occur, discontinue DORYX MPC immediately and institute appropriate therapy. 5.6 Intracranial Hypertension Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline including DORYX MPC. Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy. Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH. Avoid concomitant use of isotretinoin and DORYX MPC because isotretinoin is also known to cause pseudotumor cerebri. Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists. If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted. Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize. 5.7 Skeletal Development All tetracyclines form a stable calcium complex in any bone-forming tissue. A decrease in fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg/kg every six hours. This reaction was shown to be reversible when the drug was discontinued. [ See Use in Specific Populations (8.1) ]. 5.8 Antianabolic Action The antianabolic action of the tetracyclines may cause an increase in BUN. Studies to date indicate that this does not occur with the use of doxycycline in patients with impaired renal function. 5.9 Malaria Doxycycline offers substantial but not complete suppression of the asexual blood stages of Plasmodium strains. Doxycycline does not suppress P. falciparum's sexual blood stage gametocytes. Subjects completing this prophylactic regimen may still transmit the infection to mosquitoes outside endemic areas. 5.10 Development of Drug-Resistant Bacteria Prescribing DORYX MPC in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. 5.11 Laboratory Monitoring for Long-Term Therapy In long-term therapy, periodic laboratory evaluation of organ systems, including hematopoietic, renal, and hepatic studies should be performed."
-  ],
-  "adverse_reactions": [
-   "6 ADVERSE REACTIONS The following adverse reactions have been identified during post-approval use of doxycycline. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Due to oral doxycycline's virtually complete absorption, side effects to the lower bowel, particularly diarrhea, have been infrequent. The following adverse reactions have been observed in patients receiving tetracyclines: Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, inflammatory lesions (with monilial overgrowth) in the anogenital region, and pancreatitis. Hepatotoxicity has been reported. These reactions have been caused by both the oral and parenteral administration of tetracyclines. Esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of drugs in the tetracycline-class. Most of these patients took medications immediately before going to bed [ see Dosage and Administration (2.1) ]. Skin: Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and fixed drug eruption have been reported. Photosensitivity is discussed above [ see Warnings and Precautions (5.3) ]. Renal: Rise in BUN has been reported and is apparently dose-related [ see Warnings and Precautions (5.8) ]. Hypersensitivity reactions: Urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus. Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported. Intracranial Hypertension: Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline [ See Warnings and Precautions (5.6) ] Thyroid Gland Changes: When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of thyroid glands. No abnormalities of thyroid function are known to occur. Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination Adverse reactions observed in patients receiving tetracyclines include anorexia, nausea, vomiting, diarrhea, rash, photosensitivity, urticaria, and hemolytic anemia. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Mayne Pharma at 1-844-825-8500 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
-  ],
-  "drug_interactions": [
-   "7 DRUG INTERACTIONS Patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage ( 7.1 ) Avoid co-administration of tetracyclines with penicillin ( 7.2 ) Absorption of tetracyclines, including DORYX MPC is impaired by antacids containing aluminum, calcium, or magnesium, bismuth subsalicylate and iron-containing preparations ( 7.3 ) Concurrent use of tetracyclines, including DORYX MPC may render oral contraceptives less effective ( 7.4 ) Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline ( 7.5 ) 7.1 Anticoagulant Drugs Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage. 7.2 Penicillin Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracyclines, including DORYX MPC in conjunction with penicillin. 7.3 Antacids and Iron Preparations Absorption of tetracyclines including DORYX MPC is impaired by antacids containing aluminum, calcium, or magnesium, bismuth subsalicylate, and iron-containing preparations. 7.4 Oral Contraceptives Concurrent use of tetracyclines, including DORYX MPC may render oral contraceptives less effective. 7.5 Barbiturates and anti-epileptics Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline. 7.6 Drug/Laboratory Test Interactions False elevations of urinary catecholamines may occur due to interference with the fluorescence test."
-  ],
-  "use_in_specific_populations": [
-   "8 USE IN SPECIFIC POPULATIONS Tetracycline-class drugs can cause fetal harm when administered to a pregnant woman, but data for doxycycline are limited. ( 5.6 , 8.1 ) Tetracyclines are excreted in human milk; however, the extent of absorption of doxycycline in the breastfed infant is not known. DORYX MPC use during nursing should be avoided if possible. ( 8.2 ) 8.1 Pregnancy Risk Summary There are no adequate studies on the use of doxycycline in pregnant women. The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure. There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women such as that proposed for the treatment of anthrax exposure. An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk. 1 In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively [ see Data ]. Clinical Considerations Embryo/Fetal Risk Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development). Evidence of embryotoxicity also has been noted in animals treated early in pregnancy. If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus. [ see Warnings and Precautions (5.1 , 5.6) ]. Data Human Data A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy. Sixty-three (0.19%) of the controls and 56 (0.30%) of the cases were treated with doxycycline. This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation), with the exception of a marginal relationship with neural tube defect based on only two-exposed cases. 2 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester. All mothers reported their exposed infants were normal at 1 year of age. 3 8.2 Lactation Risk Summary Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines including doxycycline, by the breastfed infant is not known. Short-term use by lactating women is not contraindicated. The effects of prolonged exposure to doxycycline on breast milk production and breast fed neonates, infants and children are unknown. 4 The developmental and health benefits of breast feeding should be considered along with the mother's clinical need for DORYX MPC and any potential adverse effects on the breast fed child from DORYX MPC or from the underlying maternal condition [ see Warnings and Precautions (5.1 , 5.6) ]. 8.4 Pediatric Use Because of the effects of drugs of the tetracycline-class on tooth development and growth, use DORYX MPC in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies [ see Warnings and Precautions (5.1 , 5.6) and Dosage and Administration (2.1 , 2.4) ]. 8.5 Geriatric Use Clinical studies of DORYX MPC did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. DORYX MPC Tablets each contain less than 10 mg of sodium."
-  ],
-  "pregnancy": [
-   "8.1 Pregnancy Risk Summary There are no adequate studies on the use of doxycycline in pregnant women. The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure. There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women such as that proposed for the treatment of anthrax exposure. An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk. 1 In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively [ see Data ]. Clinical Considerations Embryo/Fetal Risk Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development). Evidence of embryotoxicity also has been noted in animals treated early in pregnancy. If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus. [ see Warnings and Precautions (5.1 , 5.6) ]. Data Human Data A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy. Sixty-three (0.19%) of the controls and 56 (0.30%) of the cases were treated with doxycycline. This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation), with the exception of a marginal relationship with neural tube defect based on only two-exposed cases. 2 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester. All mothers reported their exposed infants were normal at 1 year of age. 3"
-  ],
-  "pediatric_use": [
-   "8.4 Pediatric Use Because of the effects of drugs of the tetracycline-class on tooth development and growth, use DORYX MPC in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies [ see Warnings and Precautions (5.1 , 5.6) and Dosage and Administration (2.1 , 2.4) ]."
-  ],
-  "geriatric_use": [
-   "8.5 Geriatric Use Clinical studies of DORYX MPC did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. DORYX MPC Tablets each contain less than 10 mg of sodium."
-  ],
-  "overdosage": [
-   "10 OVERDOSAGE In case of overdosage, discontinue medication, treat symptomatically and institute supportive measures. Dialysis does not alter serum half-life and thus would not be of benefit in treating cases of overdosage."
-  ],
   "description": [
-   "11 DESCRIPTION Doryx MPC (doxycycline hyclate delayed-release tablets) for oral use, contain doxycycline hyclate, a tetracycline class drug synthetically derived from oxytetracycline, in a delayed-release formulation consisting of pellets with a modified polymer enteric coat that has increased acid resistance. The structural formula for doxycycline hyclate is: with a molecular formula of C 22 H 24 N 2 O 8 , HCl, ½ C 2 H 6 O, ½ H 2 O and a molecular weight of 512.9. The chemical name for doxycycline hyclate is [4S(4aR,5S,5aR,6R,12aS)]-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,10,12,12a-pentahydroxy-6-methyl-1,11-deoxonaphthacene-2-carboxamide monohydrochloride, compound with ethyl alcohol (2:1), monohydrate. Doxycycline hyclate is a yellow crystalline powder soluble in water and in solutions of alkali hydroxides and carbonates. Doxycycline has a high degree of lipid solubility and a low affinity for calcium binding. It is highly stable in normal human serum. Doxycycline will not degrade into an epianhydro form. Each tablet contains doxycycline 60 mg (equivalent to doxycycline hyclate 69.4 mg) or doxycycline 120 mg (equivalent to doxycycline hyclate 138.8 mg). Inactive ingredients in the tablet formulation are: lactose monohydrate; microcrystalline cellulose; sodium lauryl sulfate; sodium chloride; talc; anhydrous lactose; corn starch; crospovidone; magnesium stearate; cellulosic polymer coating. Each DORYX MPC 60 mg Tablet contains 3.6 mg (0.157 mEq) of sodium. Each DORYX MPC 120 mg Tablet contains 7.2 mg (0.313 mEq) of sodium. Chemical Structure"
+   "DESCRIPTION Doxycycline Capsules USP is a broad-spectrum antibacterial synthetically derived from oxytetracycline. Doxycycline 150 mg, 100 mg and 50 mg contain doxycycline monohydrate equivalent to 150 mg, 100 mg or 50 mg of doxycycline for oral administration. The chemical designation of the light-yellow crystalline powder is alpha-6-deoxy-5-oxytetracycline. Structural formula: C22H24N2O8•H2O M.W. = 462.45 Doxycycline Capsules USP has a high degree of lipid solubility and a low affinity for calcium binding. It is highly stable in normal human serum. Doxycycline will not degrade into an epianhydro form. Inactive ingredients include: colloidal silicon dioxide, gelatin, magnesium stearate, microcrystalline cellulose, sodium starch glycolate and titanium dioxide. In addition, the 50 mg strength contains FD&C Yellow #6 and D&C Yellow #10. The 100 mg strength also contains black iron oxide, red iron oxide and yellow iron oxide. The 150 mg strength includes FD&C Red #40 and FD&C Yellow #6. This is the chemical structure"
   ],
   "clinical_pharmacology": [
-   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Doxycycline is a tetracycline-class antimicrobial drug [ see Microbiology (12.4) ]. 12.3 Pharmacokinetics Effect of Food Following administration of a single dose of DORYX MPC under fasting conditions, the AUC inf and C max were 26.7 mcg-h/mL and 1.6 mcg/mL, respectively. The Tmax was 2.8 hours. In a single-dose study to evaluate the relative bioavailability in healthy adult subjects under fasted conditions, DORYX MPC 120 mg Tablets were found to be bioequivalent to Doryx 100 mg Tablets. When a single dose of DORYX MPC 120 mg Tablet was administered with a standardized high-fat high-calorie meal, (937kcal consisting of approximately 55% fat, 30% carbohydrate and 15% protein), the C max was approximately 30% lower, but there was no significant difference in the AUC inf compared to administration under fasting conditions [see Dosage and Administration (2.1) ] . Absorption Doxycycline is virtually completely absorbed after oral administration. Elimination Tetracyclines are concentrated in bile by the liver and excreted in the urine and feces at high concentrations and in a biologically active form. Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with a creatinine clearance of about 75 mL/min. This percentage may fall as low as 1-5%/72 hours in individuals with a creatinine clearance below 10 mL/min. Specific Populations Patients with Renal Impairment Studies have shown no significant difference in the serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function. Hemodialysis does not alter the serum half-life. Pediatric Patients Population pharmacokinetic analysis of sparse concentration-time data of doxycycline. following standard of care intravenous and oral dosing in 44 children (2-18 years of age) showed that allometrically-scaled clearance of doxycycline in children ≥2 to ≤8 years of age (median [range] 3.58 [2.27-10.82] L/h/70 kg, N=11) did not differ significantly from children >8 to 18 years of age (3.27 [1.11-8.12] L/h/70 kg, N=33). For pediatric patients weighing ≤45 kg, body weight normalized doxycycline CL in those ≥2 to ≤8 years of age (median [range] 0.071 [0.041-0.202] L/kg/h, N=l0) did not differ significantly from those >8 to 18 years of age (0.081 [0.035-0.126] L/kg/h, N=8). In pediatric patients weighing >45 kg no clinically significant differences in body weight normalized doxycycline CL were observed between those ≥2 to ≤8 years (0.050 L/kg/h, N=l) and those >8 years of age (0.044 [0.014-0. 121] L/kg/h, N=25). No clinically significant difference in CL differences between oral and IV were observed in the small cohort of pediatric patients who received the oral (N=l9) or IV (N=21) formulation alone. 12.4 Microbiology Mechanism of Action Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria. Resistance Cross-resistance between tetracyclines is common. Antimicrobial Activity Doxycycline has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1) ]. Gram-negative Bacteria Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella granulomatis Klebsiella species Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis Gram-positive Bacteria Bacillus anthracis Listeria monocytogenes Streptococcus pneumoniae Anaerobic Bacteria Clostridium species Fusobacterium fusiforme Propionibacterium acnes Other Bacteria Norcardiae and other aerobic Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Mycoplasma pneumonia Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum Parasites Balantidium coli Entamoeba species Plasmodium falciparum Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum. The precise mechanism of action of the drug is not known. Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC."
+   "CLINICAL PHARMACOLOGY Tetracyclines are readily absorbed and are bound to plasma proteins in varying degrees. They are concentrated by the liver in the bile and excreted in the urine and feces at high concentrations in a biologically active form. Doxycycline is virtually completely absorbed after oral administration. Following a 200 mg dose of doxycycline monohydrate, 24 normal adult volunteers averaged the following serum concentration values: Time (hr): 0.5 1.0 1.5 2.0 3.0 4.0 8.0 12.0 24.0 48.0 72.0 Conc. 1.02 2.26 2.67 3.01 3.16 3.03 2.03 1.62 0.95 0.37 0.15 (μg/mL) Average Observed Values Maximum Concentration 3.61 μg/mL (± 0.9 sd) Time of Maximum Concentration 2.60 hr (± 1.10 sd) Elimination Rate Constant 0.049 per hr (± 0.030 sd) Half-Life 16.33 hr (± 4.53 sd) Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with normal function (creatinine clearance about 75 mL/min). This percentage excretion may fall as low as 1-5%/72 hours in individuals with severe renal insufficiency (creatinine clearance below 10 mL/min). Studies have shown no significant difference in serum half-life of doxycycline (range 18-22 hours) in individuals with normal and severely impaired renal function. Hemodialysis does not alter serum half-life. Results of animal studies indicate that tetracyclines cross the placenta and are found in fetal tissues. Population pharmacokinetic analysis of sparse concentration-time data of doxycycline following standard of care intravenous and oral dosing in 44 pediatric patients (2-18 years of age) showed that allometrically-scaled clearance (CL) of doxycycline in pediatric patients ≥2 to ≤8 years of age (median [range] 3.58 [2.27-10.82] L/h/70 kg, N=11) did not differ significantly from pediatric patients >8 to 18 years of age (3.27 [1.11-8.12] L/h/70 kg, N=33). For pediatric patients weighing ≤45 kg, body weight normalized doxycycline CL in those ≥2 to ≤8 years of age (median [range] 0.071 [0.041-0.202] L/kg/h, N=10) did not differ significantly from those >8 to 18 years of age (0.081 [0.035-0.126] L/kg/h, N=8). In pediatric patients weighing >45 kg, no clinically significant differences in body weight normalized doxycycline CL were observed between those ≥2 to ≤8 years (0.050 L/kg/h, N=1) and those >8 to 18 years of age (0.044 [0.014-0.121] L/kg/h, N=25). No clinically significant difference in CL between oral and IV dosing was observed in the small cohort of pediatric patients who received the oral (N=19) or IV (N=21) formulation alone. Microbiology: Mechanism of Action Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria. Resistance Cross resistance with other tetracyclines is common. Antimicrobial Activity Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections ( see INDICATIONS AND USAGE ). Gram-negative Bacteria Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella granulomatis Klebsiella species Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis Gram-positive Bacteria Bacillus anthracis Listeria monocytogenes Streptococcus pneumoniae Anaerobic Bacteria Clostridium species Fusobacterium fusiforme Propionibacterium acnes Other Bacteria Nocardiae and other Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Mycoplasma pneumoniae Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum Parasites Balantidium coli Entamoeba species Susceptibility Testing For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC."
   ],
-  "mechanism_of_action": [
-   "12.1 Mechanism of Action Doxycycline is a tetracycline-class antimicrobial drug [ see Microbiology (12.4) ]."
+  "clinical_pharmacology_table": [
+   "<table ID=\"ID9\" width=\"774\" styleCode=\"Noautorules\"> <col width=\"76\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"60\"/> <col width=\"98\"/> <tbody> <tr> <td valign=\"top\" align=\"left\"> Time (hr):  </td> <td align=\"center\"> 0.5  </td> <td align=\"center\"> 1.0  </td> <td align=\"center\"> 1.5  </td> <td align=\"center\"> 2.0  </td> <td align=\"center\"> 3.0  </td> <td align=\"center\"> 4.0  </td> <td align=\"center\"> 8.0  </td> <td align=\"center\"> 12.0  </td> <td align=\"center\"> 24.0  </td> <td align=\"center\"> 48.0  </td> <td align=\"center\"> 72.0  </td> </tr> <tr> <td valign=\"top\" align=\"left\"> Conc.  </td> <td align=\"center\"> 1.02  </td> <td align=\"center\"> 2.26  </td> <td align=\"center\"> 2.67  </td> <td align=\"center\"> 3.01  </td> <td align=\"center\"> 3.16  </td> <td align=\"center\"> 3.03  </td> <td align=\"center\"> 2.03  </td> <td align=\"center\"> 1.62  </td> <td align=\"center\"> 0.95  </td> <td align=\"center\"> 0.37  </td> <td align=\"center\"> 0.15 (&#x3BC;g/mL)  </td> </tr> </tbody> </table>",
+   "<table ID=\"ID10\" width=\"100%\" styleCode=\"Noautorules\"> <col width=\"39%\"/> <col width=\"60%\"/> <tbody> <tr> <td colspan=\"2\" valign=\"top\" align=\"left\"> Average Observed Values  </td> </tr> <tr> <td valign=\"top\" align=\"left\"> Maximum Concentration  </td> <td valign=\"top\" align=\"left\"> 3.61 &#x3BC;g/mL (&#xB1; 0.9 sd)  </td> </tr> <tr> <td valign=\"top\" align=\"left\"> Time of Maximum Concentration  </td> <td valign=\"top\" align=\"left\"> 2.60 hr (&#xB1; 1.10 sd)  </td> </tr> <tr> <td valign=\"top\" align=\"left\"> Elimination Rate Constant  </td> <td valign=\"top\" align=\"left\"> 0.049 per hr (&#xB1; 0.030 sd)  </td> </tr> <tr> <td valign=\"top\" align=\"left\"> Half-Life  </td> <td valign=\"top\" align=\"left\"> 16.33 hr (&#xB1; 4.53 sd)  </td> </tr> </tbody> </table>"
   ],
-  "pharmacokinetics": [
-   "12.3 Pharmacokinetics Effect of Food Following administration of a single dose of DORYX MPC under fasting conditions, the AUC inf and C max were 26.7 mcg-h/mL and 1.6 mcg/mL, respectively. The Tmax was 2.8 hours. In a single-dose study to evaluate the relative bioavailability in healthy adult subjects under fasted conditions, DORYX MPC 120 mg Tablets were found to be bioequivalent to Doryx 100 mg Tablets. When a single dose of DORYX MPC 120 mg Tablet was administered with a standardized high-fat high-calorie meal, (937kcal consisting of approximately 55% fat, 30% carbohydrate and 15% protein), the C max was approximately 30% lower, but there was no significant difference in the AUC inf compared to administration under fasting conditions [see Dosage and Administration (2.1) ] . Absorption Doxycycline is virtually completely absorbed after oral administration. Elimination Tetracyclines are concentrated in bile by the liver and excreted in the urine and feces at high concentrations and in a biologically active form. Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with a creatinine clearance of about 75 mL/min. This percentage may fall as low as 1-5%/72 hours in individuals with a creatinine clearance below 10 mL/min. Specific Populations Patients with Renal Impairment Studies have shown no significant difference in the serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function. Hemodialysis does not alter the serum half-life. Pediatric Patients Population pharmacokinetic analysis of sparse concentration-time data of doxycycline. following standard of care intravenous and oral dosing in 44 children (2-18 years of age) showed that allometrically-scaled clearance of doxycycline in children ≥2 to ≤8 years of age (median [range] 3.58 [2.27-10.82] L/h/70 kg, N=11) did not differ significantly from children >8 to 18 years of age (3.27 [1.11-8.12] L/h/70 kg, N=33). For pediatric patients weighing ≤45 kg, body weight normalized doxycycline CL in those ≥2 to ≤8 years of age (median [range] 0.071 [0.041-0.202] L/kg/h, N=l0) did not differ significantly from those >8 to 18 years of age (0.081 [0.035-0.126] L/kg/h, N=8). In pediatric patients weighing >45 kg no clinically significant differences in body weight normalized doxycycline CL were observed between those ≥2 to ≤8 years (0.050 L/kg/h, N=l) and those >8 years of age (0.044 [0.014-0. 121] L/kg/h, N=25). No clinically significant difference in CL differences between oral and IV were observed in the small cohort of pediatric patients who received the oral (N=l9) or IV (N=21) formulation alone."
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE To reduce the development of drug-resistant bacteria and maintain effectiveness of doxycycline capsules and other antibacterial drugs, doxycycline capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Doxycycline is indicated for the treatment of the following infections: Rocky mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox, and tick fevers caused by Rickettsiae. Respiratory tract infections caused by Mycoplasma pneumoniae . Lymphogranuloma venereum caused by Chlamydia trachomatis. Psittacosis (ornithosis) caused by Chlamydophila psittaci. Trachoma caused by Chlamydia trachomatis , although the infectious agent is not always eliminated as judged by immunofluorescence. Inclusion conjunctivitis caused by Chlamydia trachomatis . Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydia trachomatis . Nongonococcal urethritis caused by Ureaplasma urealyticum . Relapsing fever due to Borrelia recurrentis . Doxycycline is also indicated for the treatment of infections caused by the following gram-negative microorganisms: Chancroid caused by Haemophilus ducreyi. Plague due to Yersinia pestis. Tularemia due to Francisella tularensis. Cholera caused by Vibrio cholerae. Campylobacter fetus infections caused by Campylobacter fetus. Brucellosis due to Brucella species (in conjunction with streptomycin). Bartonellosis due to Bartonella bacilliformis. Granuloma inguinale caused by Klebsiella granulomatis. Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended. Doxycycline is indicated for treatment of infections caused by the following gram-negative microorganisms, when bacteriologic testing indicates appropriate susceptibility to the drug: Escherichia coli Enterobacter aerogenes Shigella species Acinetobacter species Respiratory tract infections caused by Haemophilus influenzae. Respiratory tract and urinary tract infections caused by Klebsiella species. Doxycycline is indicated for treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug: Upper respiratory infections caused by Streptococcus pneumoniae. Anthrax due to Bacillus anthracis , including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis. When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections: Uncomplicated gonorrhea caused by Neisseria gonorrhoeae . Syphilis caused by Treponema pallidum. Yaws caused by Treponema pallidum subspecies pertenue . Listeriosis due to Listeria monocytogenes. Vincent's infection caused by Fusobacterium fusiforme. Actinomycosis caused by Actinomyces israelii . Infections caused by Clostridium species. In acute intestinal amebiasis, doxycycline may be a useful adjunct to amebicides. In severe acne, doxycycline may be useful adjunctive therapy."
   ],
-  "microbiology": [
-   "12.4 Microbiology Mechanism of Action Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria. Resistance Cross-resistance between tetracyclines is common. Antimicrobial Activity Doxycycline has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1) ]. Gram-negative Bacteria Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella granulomatis Klebsiella species Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis Gram-positive Bacteria Bacillus anthracis Listeria monocytogenes Streptococcus pneumoniae Anaerobic Bacteria Clostridium species Fusobacterium fusiforme Propionibacterium acnes Other Bacteria Norcardiae and other aerobic Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Mycoplasma pneumonia Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum Parasites Balantidium coli Entamoeba species Plasmodium falciparum Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum. The precise mechanism of action of the drug is not known. Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC."
+  "contraindications": [
+   "CONTRAINDICATIONS This drug is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines."
   ],
-  "nonclinical_toxicology": [
-   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted. However, there has been evidence of oncogenic activity in rats in studies with the related antibiotics, oxytetracycline (adrenal and pituitary tumors) and minocycline (thyroid tumors). Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterials (tetracycline, oxytetracycline). Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats. Effect on male fertility has not been studied. 13.2 Animal Toxicology and/or Pharmacology Hyperpigmentation of the thyroid has been produced by members of the tetracycline-class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO 4 , and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO 4 , and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline. Minocycline, tetracycline PO 4 , methacycline, doxycycline, tetracycline base, oxytetracycline HCl, and tetracycline HCl, were goitrogenic in rats fed a low iodine diet. This goitrogenic effect was accompanied by high radioactive iodine uptake. Administration of minocycline also produced a large goiter with high radioiodine uptake in rats fed a relatively high iodine diet. Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline); in chickens (chlortetracycline); and in rats and mice (oxytetracycline). Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline. Results of animal studies indicate that tetracyclines cross the placenta and are found in fetal tissues."
+  "warnings": [
+   "WARNINGS The use of drugs of the tetracycline class, including doxycycline, during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown). This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses. Enamel hypoplasia has also been reported. Use of doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g. anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies. Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including doxycycline capsules, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile . C . difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C . difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C . difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C . difficile , and surgical evaluation should be instituted as clinically indicated. Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline capsules. Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy. Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH. Concomitant use of isotretinoin and doxycycline capsules should be avoided because isotretinoin is also known to cause pseudotumor cerebri. Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists. If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted. Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize. All tetracyclines form a stable calcium complex in any bone-forming tissue. A decrease in the fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg/kg every six hours. This reaction was shown to be reversible when the drug was discontinued. Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development). Evidence of embryo toxicity has been noted in animals treated early in pregnancy. If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus. The antianabolic action of the tetracyclines may cause an increase in BUN. Studies to date indicate that this does not occur with the use of doxycycline in patients with impaired renal function. Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines. Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs, and treatment should be discontinued at the first evidence of skin erythema. Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption (see ADVERSE REACTIONS ). If severe skin reactions occur, discontinue doxycycline capsule immediately and institute appropriate therapy."
   ],
-  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
-   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted. However, there has been evidence of oncogenic activity in rats in studies with the related antibiotics, oxytetracycline (adrenal and pituitary tumors) and minocycline (thyroid tumors). Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterials (tetracycline, oxytetracycline). Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats. Effect on male fertility has not been studied."
+  "precautions": [
+   "PRECAUTIONS General: As with other antibacterial preparations, use of this drug may result in overgrowth of non-susceptible organisms, including fungi. If superinfection occurs, doxycycline capsules should be discontinued, and appropriate therapy instituted. Incision and drainage or other surgical procedures should be performed in conjunction with antibacterial therapy when indicated. Prescribing doxycycline capsules in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. Information for Patients: All patients taking doxycycline should be advised: –to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (e.g., skin eruptions, etc.) occurs. Sunscreen or sunblock should be considered ( see WARNINGS ). –to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration ( see ADVERSE REACTIONS ). –that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium. However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk ( see Drug Interactions ). –that the absorption of tetracyclines is reduced when taking bismuth subsalicylate ( see Drug Interactions ). –not to use outdated or poorly stored doxycycline. –that the use of doxycycline might increase the incidence of vaginal candidiasis. Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible. Patients should be counseled that antibacterial drugs including doxycycline capsules should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When doxycycline capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by doxycycline capsules or other antibacterial drugs in the future. Laboratory Tests: In venereal disease when coexistent syphilis is suspected, a dark-field examination should be done before treatment is started and the blood serology repeated monthly for at least four months. In long-term therapy, periodic laboratory evaluations of organ systems, including hematopoietic, renal, and hepatic studies should be performed. Drug Interactions: Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage. Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracyclines in conjunction with penicillin. Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations. Absorption of tetracyclines is impaired by bismuth subsalicylate. Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline. Concurrent use of tetracycline may render oral contraceptives less effective. Drug/Laboratory Test Interactions: False elevations of urinary catecholamine levels may occur due to interference with the fluorescence test. Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of doxycycline have not been conducted. However, there has been evidence of oncogenic activity in rats in studies with related antibacterial, oxytetracycline (adrenal and pituitary tumors) and minocycline (thyroid tumors). Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterial (tetracycline, oxytetracycline). Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats. Effect on male fertility has not been studied. Pregnancy: Teratogenic Effects. Pregnancy Category D: There are no adequate and well-controlled studies on the use of doxycycline in pregnant short-term, first trimester exposure. There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women such as that proposed for treatment of anthrax exposure. An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk. 1 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy. (Sixty-three [0.19%] of the controls and 56 [0.30%] of the cases were treated with doxycycline.) This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases. 2 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester. All mothers reported their exposed infants were normal at 1 year of age. 3 Labor and Delivery: The effect of tetracyclines on labor and delivery is unknown. Nursing Mothers: Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines, including doxycycline, by the breastfed infant is not known. Short-term use by lactating women is not necessarily contraindicated; however, the effects of prolonged exposure to doxycycline in breast milk are unknown. 4 Because of the potential for adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother ( see WARNINGS ). Pediatric Use: Because of the effects of drugs of the tetracycline –class, on tooth development and growth, use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g. anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies ( see WARNINGS and DOSAGE AND ADMINISTRATION )."
   ],
-  "animal_pharmacology_and_or_toxicology": [
-   "13.2 Animal Toxicology and/or Pharmacology Hyperpigmentation of the thyroid has been produced by members of the tetracycline-class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO 4 , and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO 4 , and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline. Minocycline, tetracycline PO 4 , methacycline, doxycycline, tetracycline base, oxytetracycline HCl, and tetracycline HCl, were goitrogenic in rats fed a low iodine diet. This goitrogenic effect was accompanied by high radioactive iodine uptake. Administration of minocycline also produced a large goiter with high radioiodine uptake in rats fed a relatively high iodine diet. Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline); in chickens (chlortetracycline); and in rats and mice (oxytetracycline). Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline. Results of animal studies indicate that tetracyclines cross the placenta and are found in fetal tissues."
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Due to oral doxycycline's virtually complete absorption, side effects to the lower bowel, particularly diarrhea, have been infrequent. The following adverse reactions have been observed in patients receiving tetracyclines. Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with monilial overgrowth) in the anogenital region, and pancreatitis. Hepatotoxicity has been reported. These reactions have been caused by both the oral and parenteral administration of tetracyclines. Rare instances of esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of drugs in the tetracycline class. Most of these patients took medications immediately before going to bed ( see DOSAGE AND ADMINISTRATION ). Skin: Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, and fixed drug eruption have been reported. Exfoliative dermatitis has been reported but is uncommon. Photosensitivity is discussed above ( see WARNINGS ). Renal Toxicity: Rise in BUN has been reported and is apparently dose related ( see WARNINGS ). Hypersensitivity Reactions: Urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus. Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported with tetracyclines. Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination Other: Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines ( see PRECAUTIONS-General ). When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland. No abnormalities of thyroid function are known to occur. To report SUSPECTED ADVERSE REACTIONS, contact Strides Pharma Inc. at 1-877-244-9825 or go to www.strides.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
   ],
-  "references": [
-   "15 REFERENCES Friedman JM, Polifka JE. Teratogenic Effects of Drugs. A Resource for Clinicians (TERIS) . Baltimore, MD: The Johns Hopkins University Press: 2000: 149-195. The TERIS (Teratogen Information System) is available at: http://www.micromedexsolutions.com/ (cited: 2016 Jan). Cziezel AE and Rockenbauer M. Teratogenic study of doxycycline. Obstet Gynecol 1997; 89: 524-528. Horne HW Jr. and Kundsin RB. The role of mycoplasma among 81 consecutive pregnancies: a prospective study. Int J Fertil 1980; 25: 315-317. Drugs and Lactation Database (LactMed) [Internet]. Bethesda (MD): National Library of Medicine (US); [Last Revision Date 2015 March 10; cited 2016 Jan]. Doxycycline; LactMed Record Number: 100; [about 3 screens]. Available from: http://toxnet.nlm.nih.gov/newtoxnet/lactmed.htm"
+  "overdosage": [
+   "OVERDOSAGE In case of overdosage, discontinue medication, treat symptomatically and institute supportive measures. Dialysis does not alter serum half-life, and it would not be of benefit in treating cases of overdosage."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES. EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS. Adults: The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours or 50 mg every 6 hours) followed by a maintenance dose of 100 mg/day. The maintenance dose may be administered as a single dose or as 50 mg every 12 hours. In the management of more severe infections (particularly chronic infections of the urinary tract), 100 mg every 12 hours is recommended. Pediatric Patients: For all pediatric patients weighing less than 45 kg with severe or life-threatening infections (e.g. anthrax, Rocky Mountain spotted fever), the recommended dosage is 2.2 mg/kg of body weight administered every 12 hours. Children weighing 45 kg or more should receive the adult dose ( see WARNINGS and PRECAUTIONS ). For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45 kg), the recommended dosage schedule is 4.4 mg per kg of body weight divided into two doses on the first day of treatment, followed by a maintenance dose of 2.2 mg per kg of body weight (given as a single daily dose or divided into twice daily doses). For pediatric patients weighing over 45 kg, the usual adult dose should be used. The therapeutic antibacterial serum activity will usually persist for 24 hours following recommended dosage. When used in streptococcal infections, therapy should be continued for 10 days. Administration of adequate amounts of fluid along with capsule and tablet forms of drugs in the tetracycline class is recommended to wash down the drugs and reduce the risk of esophageal irritation and ulceration ( see ADVERSE REACTIONS ). If gastric irritation occurs, it is recommended that doxycycline be given with food or milk. The absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk. Studies to date have indicated that administration of doxycycline at the usual recommended doses does not lead to excessive accumulation of doxycycline in patients with renal impairment. Uncomplicated gonococcal infections in adults (except anorectal infections in men): 100 mg, by mouth, twice a day for 7 days. As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose. Acute epididymo-orchitis caused by N. gonorrhoeae : 100 mg, by mouth, twice a day for at least 10 days. Primary and secondary syphilis: 300 mg a day in divided doses for at least 10 days. Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis : 100 mg, by mouth, twice a day for at least 7 days. Nongonococcal urethritis caused by C. trachomatis and U. urealyticum : 100 mg, by mouth, twice a day for at least 7 days. Acute epididymo-orchitis caused by C. trachomatis : 100 mg, by mouth, twice a day for at least 10 days. Inhalational anthrax (post-exposure) : ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days. CHILDREN: weighing less than 45 kg 2.2 mg/kg of body weight, by mouth, twice a day for 60 days. Children weighing 45 kg or more should receive the adult dose."
   ],
   "how_supplied": [
-   "16 HOW SUPPLIED/STORAGE AND HANDLING DORYX MPC (doxycycline hyclate delayed-release tablets), 60 mg are white, oval tablets containing yellow pellets and debossed with \"D6\" on one face and plain on the other. Each tablet contains doxycycline 60 mg (equivalent to doxycycline hyclate 69.4 mg). The 60 mg tablet is supplied in bottles of 60 tablets (NDC 51862-560-60) and 120 tablets (NDC 51862-560-12). Store at 25° C (77° F); excursions permitted to 15°C to 30° C (59°F to 86° F) [see USP Controlled Room Temperature]. Dispense in a tight, light-resistant container (USP)."
+   "HOW SUPPLIED Doxycycline Capsules USP 50 mg have a buff opaque cap printed \"par 726\" in brown ink/white opaque body printed \"par 726\" in brown ink. Each capsule contains doxycycline monohydrate equivalent to 50 mg of doxycycline. They are supplied as follows: Bottles of 100 NDC 64380-179-01 Doxycycline Capsules USP 100 mg have a brown opaque cap printed \"par 727\" in white ink/white opaque body printed \"par 727\" in brown ink. Each capsule contains doxycycline monohydrate equivalent to 100 mg of doxycycline. They are supplied as follows: Bottles of 50 NDC 64380-180-01 Bottles of 250 NDC 64380-180-02 Doxycycline Capsules USP 150 mg have a peach opaque cap printed \"par\" in black ink/peach opaque body printed \"305\" in black ink. Each capsule contains doxycycline monohydrate equivalent to 150 mg of doxycycline. They are supplied as follows: Bottles of 60 NDC 64380-181-01 STORE AT 20° to 25°C (68° to 77°F). [SEE USP CONTROLLED ROOM TEMPERATURE]. PROTECT FROM LIGHT. DISPENSE IN A TIGHT LIGHT-RESISTANT CONTAINER AS DEFINED IN THE USP/NF."
   ],
-  "storage_and_handling": [
-   "Store at 25° C (77° F); excursions permitted to 15°C to 30° C (59°F to 86° F) [see USP Controlled Room Temperature]. Dispense in a tight, light-resistant container (USP)."
+  "animal_pharmacology_and_or_toxicology": [
+   "ANIMAL PHARMACOLOGY AND ANIMAL TOXICOLOGY Hyperpigmentation of the thyroid has been produced by members of the tetracycline class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO 4 , and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO 4 , and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline. Minocycline, tetracycline PO 4 , methacycline, doxycycline, tetracycline base, oxytetracycline HCl and tetracycline HCl were goitrogenic in rats fed a low iodine diet. This goitrogenic effect was accompanied by high radioactive iodine uptake. Administration of minocycline also produced a large goiter with high radioiodine uptake in rats fed a relatively high iodine diet. Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline), in chickens (chlortetracycline) and in rats and mice (oxytetracycline). Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline."
   ],
-  "information_for_patients": [
-   "17 PATIENT COUNSELING INFORMATION Advise patients taking DORYX MPC for malaria prophylaxis: that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria. to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (for example, staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent). that doxycycline prophylaxis: should begin 1 to 2 days before travel to the malarious area, should be continued daily while in the malarious area and after leaving the malarious area, should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area, should not exceed 4 months. Advise all patients taking DORYX MPC: to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (for example, skin eruptions, etc.) occurs. Sunscreen or sunblock should be considered [ see Warnings and Precautions (5.3) ] to drink fluids liberally along with DORYX MPC to reduce the risk of esophageal irritation and ulceration [ see Adverse Reactions (6) ] that the absorption of tetracyclines is reduced when taken with foods, especially those that contain calcium. [ see Drug Interactions (7.3) ] that if gastric irritation occurs, DORYX MPC may be given with food or milk [ see Clinical Pharmacology (12.3) ] that the absorption of tetracyclines is reduced when taken with antacids containing aluminum, calcium or magnesium, bismuth subsalicylate, and iron-containing preparations [ see Drug Interactions (7.3) ]. that the use of doxycycline might increase the incidence of vaginal candidiasis. Advise patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial is discontinued. Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of antibacterial. If this occurs, patients should contact their physician as soon as possible. Patients should be counseled that antibacterial drugs including DORYX MPC should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When DORYX MPC is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by DORYX MPC or other antibacterial drugs in the future."
+  "references": [
+   "REFERENCES Friedman JM and Polifka JE. Teratogenic Effects of Drugs. A Resource for Clinicians (TERIS) . Baltimore, MD: The Johns Hopkins University Press: 2000: 149-195. Cziezel AE and Rockenbauer M. Teratogenic study of doxycycline. Obstet Gynecol 1997; 89: 524-528. Horne HW Jr. and Kundsin RB. The role of mycoplasma among 81 consecutive pregnancies: a prospective study. Int J Fertil 1980; 25: 315-317. Hale T. Medications and Mothers Milk . 9 th edition. Amarillo, TX: Pharmasoft Publishing 2000; 225-226. Distributed by: Strides Pharma Inc. Bridgewater, NJ 08807 Revised: 05/2025 OS726-01-1-21"
   ],
-  "set_id": "f9277bb8-982d-444d-9325-35d5c53a2d35",
-  "id": "4af31df5-71da-3b6f-e063-6294a90a3906",
-  "effective_time": "20260216",
-  "version": "15"
+  "set_id": "9e710113-f25e-46fb-8327-7a8e649613a2",
+  "id": "7478d638-cc3a-488c-94ed-e31bf54473db",
+  "effective_time": "20261106",
+  "version": "8"
  }
 }

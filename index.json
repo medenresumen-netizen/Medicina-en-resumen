@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T17:49Z",
- "n": 368,
+ "updated": "2026-11-11T17:52Z",
+ "n": 373,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -1087,14 +1087,14 @@
     "Cefazolin"
    ],
    "manufacturer": [
-    "WG Critical Care, LLC"
+    "Hikma Pharmaceuticals USA Inc."
    ],
-   "effective_time": "20260227",
-   "set_id": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+   "effective_time": "20260514",
+   "set_id": "1dc9de56-e259-4546-a1db-23119a8a088e",
    "application": [
-    "NDA211413"
+    "ANDA065047"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "cefepima",
@@ -1351,6 +1351,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "ciprofloxacino-iv",
+   "generic_en": "ciprofloxacin",
+   "brand": [
+    "Ciprofloxacin in Dextrose"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20251104",
+   "set_id": "cbbbf939-3219-4515-a48e-ca264daa4d07",
+   "application": [
+    "ANDA078252"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "ciprofloxacino",
    "generic_en": "ciprofloxacin",
    "brand": [
@@ -1395,6 +1411,22 @@
    "set_id": "d836ae7e-fdbf-4dcb-a90d-ede1dcbc3e67",
    "application": [
     "ANDA065489"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "clindamicina-iv",
+   "generic_en": "clindamycin phosphate",
+   "brand": [
+    "Cleocin Phosphate"
+   ],
+   "manufacturer": [
+    "Pharmacia & Upjohn Company LLC"
+   ],
+   "effective_time": "20260729",
+   "set_id": "05a75685-0af5-407c-ac57-e380c882b49d",
+   "application": [
+    "NDA050441"
    ],
    "n_candidates": 25
   },
@@ -1530,17 +1562,17 @@
    "id_es": "dabigatran",
    "generic_en": "dabigatran etexilate",
    "brand": [
-    "Pradaxa"
+    "dabigatran etexilate"
    ],
    "manufacturer": [
-    "Boehringer Ingelheim Pharmaceuticals, Inc."
+    "Apotex Corp."
    ],
-   "effective_time": "20250627",
-   "set_id": "9ac0a64a-8666-45f7-9d4f-40fd894f7e6d",
+   "effective_time": "20260713",
+   "set_id": "dd47a015-ff90-d7a7-8dcb-4e6e31a68071",
    "application": [
-    "NDA214358"
+    "ANDA208070"
    ],
-   "n_candidates": 22
+   "n_candidates": 1
   },
   {
    "id_es": "dapagliflozina",
@@ -1800,17 +1832,17 @@
    "id_es": "doxiciclina",
    "generic_en": "doxycycline",
    "brand": [
-    "DORYX MPC"
+    "Doxycycline"
    ],
    "manufacturer": [
-    "Mayne Pharma Commercial LLC"
+    "Strides Pharma Science Limited"
    ],
-   "effective_time": "20260216",
-   "set_id": "f9277bb8-982d-444d-9325-35d5c53a2d35",
+   "effective_time": "20261106",
+   "set_id": "9e710113-f25e-46fb-8327-7a8e649613a2",
    "application": [
-    "NDA050795"
+    "ANDA065055"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "dronedarona",
@@ -2353,6 +2385,22 @@
    "set_id": "74c1eb2a-a37f-4f33-86bf-51e0d1d0c2bc",
    "application": [
     "ANDA215599"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fluconazol-iv",
+   "generic_en": "fluconazole",
+   "brand": [
+    "Fluconazole"
+   ],
+   "manufacturer": [
+    "Sagent Pharmaceuticals"
+   ],
+   "effective_time": "20260817",
+   "set_id": "c041227b-dab6-4c29-ab59-d31993d524b2",
+   "application": [
+    "ANDA079104"
    ],
    "n_candidates": 25
   },
@@ -3411,6 +3459,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "levofloxacino-iv",
+   "generic_en": "levofloxacin",
+   "brand": [
+    "Levofloxacin"
+   ],
+   "manufacturer": [
+    "Sagent Pharmaceuticals"
+   ],
+   "effective_time": "20260721",
+   "set_id": "699fbdb8-a6fd-476a-9b80-08197d869534",
+   "application": [
+    "ANDA090343"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "levofloxacino",
    "generic_en": "levofloxacin",
    "brand": [
@@ -3839,6 +3903,22 @@
    "set_id": "e942f8db-510f-44d6-acb5-b822196f5e8c",
    "application": [
     "ANDA040385"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metronidazol-iv",
+   "generic_en": "metronidazole",
+   "brand": [
+    "Metronidazole"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20250612",
+   "set_id": "9d762edb-12ac-429d-b1f0-7af5d3b909d4",
+   "application": [
+    "NDA018657"
    ],
    "n_candidates": 25
   },
@@ -4470,17 +4550,17 @@
    "id_es": "piperacilina-tazobactam",
    "generic_en": "piperacillin and tazobactam",
    "brand": [
-    "Zosyn in Galaxy Containers"
+    "Piperacillin and Tazobactam"
    ],
    "manufacturer": [
-    "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc."
+    "Fresenius Kabi USA, LLC"
    ],
-   "effective_time": "20230315",
-   "set_id": "8ab9d90d-2f7f-4599-a44f-3d0a8f8ab623",
+   "effective_time": "20261005",
+   "set_id": "c8e3cc43-238d-4a23-95dc-157c85f83184",
    "application": [
-    "NDA050750"
+    "ANDA203720"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "pirazinamida",
