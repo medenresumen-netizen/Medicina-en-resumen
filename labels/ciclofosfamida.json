@@ -1,185 +1,36 @@
 {
  "id_es": "ciclofosfamida",
  "generic_en": "cyclophosphamide",
- "search": "openfda.generic_name.exact:\"CYCLOPHOSPHAMIDE\"",
- "downloaded": "2026-11-11T06:47Z",
+ "search": "set_id:d7e97b99-83db-42d0-8521-b87fe6467a67",
+ "pref": "",
+ "downloaded": "2026-11-11T11:12Z",
  "chosen": {
-  "set_id": "5ad8ea65-4c98-487a-9c8d-df778765ec5e",
-  "id": "e3e444b2-9344-4cc2-b35a-370073a747d4",
-  "effective_time": "20260826",
-  "version": "12",
+  "set_id": "d7e97b99-83db-42d0-8521-b87fe6467a67",
+  "id": "4a9e24ce-e6fc-6f07-e063-6394a90ab4bd",
+  "effective_time": "20260212",
+  "version": "4",
   "brand_name": [
-   "Frindovyx"
+   "Cyclophosphamide"
   ],
   "generic_name": [
    "CYCLOPHOSPHAMIDE"
   ],
   "manufacturer_name": [
-   "AVYXA Pharma, LLC"
+   "BluePoint Laboratories"
   ],
   "route": [
-   "INTRAVENOUS"
+   "INTRAVENOUS",
+   "ORAL"
   ],
   "product_type": [
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "NDA210852"
+   "ANDA040745"
   ],
-  "n_sections": 31
+  "n_sections": 29
  },
  "candidates": [
-  {
-   "set_id": "7d6447e3-22c9-48d9-87c0-d0b576d7ea9e",
-   "id": "5c9236e9-5c1e-72f8-e063-6394a90a3e58",
-   "effective_time": "20260928",
-   "version": "2",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "OPKO Pharmaceuticals, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218282"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "d8057d1a-e8af-42ab-9da2-b545730b2655",
-   "id": "5c922933-a668-9f4b-e063-6294a90ae37f",
-   "effective_time": "20260928",
-   "version": "2",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "OPKO Pharmaceuticals, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218282"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "c961a1ac-6705-4756-9abc-9d84a6fcb5c8",
-   "id": "5a9bcde4-fee3-8fdd-e063-6294a90a33c9",
-   "effective_time": "20260903",
-   "version": "8",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Nexus Pharmaceuticals, LLC"
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA216783"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "5ad8ea65-4c98-487a-9c8d-df778765ec5e",
-   "id": "e3e444b2-9344-4cc2-b35a-370073a747d4",
-   "effective_time": "20260826",
-   "version": "12",
-   "brand_name": [
-    "Frindovyx"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "AVYXA Pharma, LLC"
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA210852"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "b75d72ab-861c-4463-884b-d499d306bbd2",
-   "id": "7c15d013-bd6e-4c5f-ab63-53e4cc8ca0d4",
-   "effective_time": "20260318",
-   "version": "4",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Amneal Pharmaceuticals LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA210890"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "1d3396d8-4c03-4a28-890a-d87c6c53a74e",
-   "id": "4cd3801f-1a1a-33fd-e063-6294a90aa2b0",
-   "effective_time": "20260312",
-   "version": "1",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "BluePoint Laboratories"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218644"
-   ],
-   "n_sections": 29
-  },
   {
    "set_id": "d7e97b99-83db-42d0-8521-b87fe6467a67",
    "id": "4a9e24ce-e6fc-6f07-e063-6394a90ab4bd",
@@ -205,516 +56,58 @@
     "ANDA040745"
    ],
    "n_sections": 29
-  },
-  {
-   "set_id": "1de02105-9c5b-4d11-bddf-bf8450d88b78",
-   "id": "fd5fc06c-b5e5-4e07-acdb-26e56bfa2c7f",
-   "effective_time": "20260201",
-   "version": "1",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Avenacy, LLC"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218644"
-   ],
-   "n_sections": 32
-  },
-  {
-   "set_id": "520bfe39-dfd5-4a20-9a37-80078afded0d",
-   "id": "40ce8341-9b51-4187-920b-ad9cce7930e1",
-   "effective_time": "20260119",
-   "version": "13",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Amneal Pharmaceuticals LLC"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA210046"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "2873b99a-830d-0a7b-e063-6394a90a4de7",
-   "id": "450da59c-b50e-4de0-e063-6394a90a0559",
-   "effective_time": "20251203",
-   "version": "4",
-   "brand_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Bamboo US Bidco LCC"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040745"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "988d2f71-1dc7-45b5-b2df-187e68224973",
-   "id": "14b3b66b-0e87-4e71-8507-e23c8214cc50",
-   "effective_time": "20251117",
-   "version": "2",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Epic Pharma, LLC"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218644"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "8627c83f-c057-495d-9f78-8b67bda97b3e",
-   "id": "ff8ba8ad-44bf-4286-a451-4fd55a5a3c63",
-   "effective_time": "20251024",
-   "version": "10",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Civica, Inc."
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040745"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "0afd2cc7-09e6-481a-afea-9d2e3742da46",
-   "id": "3bc6345d-4340-1f0f-e063-6294a90ac0a9",
-   "effective_time": "20250807",
-   "version": "7",
-   "brand_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "BluePoint Laboratories"
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA212501"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "591d9955-3d9c-4cdc-a308-2f1288376b9f",
-   "id": "a466e63c-d425-4387-a41f-d1cd8023f694",
-   "effective_time": "20250624",
-   "version": "20",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Baxter Healthcare Company"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040745"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "97ab446f-5017-4180-ae65-0a355289b0ed",
-   "id": "e478e54f-228b-46a1-9347-df729becf777",
-   "effective_time": "20250620",
-   "version": "18",
-   "brand_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Baxter Healthcare Company"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA040745"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "3c1eb470-0bba-457d-94e3-b9508f0d398a",
-   "id": "f90b3bb0-87cd-4951-9789-34202e2b13df",
-   "effective_time": "20250421",
-   "version": "5",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Eugia US LLC"
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA210735"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "a5818647-d840-e9d7-c7b8-6541b485e44e",
-   "id": "81f6f0e0-48f4-4eb1-95e5-b1463e5f53f5",
-   "effective_time": "20250311",
-   "version": "3",
-   "brand_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Dr. Reddy's Labratories Inc."
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA212501"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "0e9e22fa-178a-42fc-9f82-c303db3b245a",
-   "id": "2f9d08d0-1f6c-0bf3-e063-6394a90a2b6f",
-   "effective_time": "20250305",
-   "version": "11",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Sandoz Inc."
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA204555"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "329b5a3a-c7b9-4b11-abf0-009719cdfb79",
-   "id": "5ed11ef9-73c0-42d1-9cac-0fba10a1f991",
-   "effective_time": "20250122",
-   "version": "4",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Sagent Pharmaceuticals"
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA214529"
-   ],
-   "n_sections": 32
-  },
-  {
-   "set_id": "0e1cb955-99c8-4fe5-89d1-399c8e52174e",
-   "id": "11c7b59d-18e5-4efb-bc77-5877d9b89bb1",
-   "effective_time": "20250110",
-   "version": "6",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Cipla USA Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA211608"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "cf2f4b95-0327-499a-a5a3-51b1bdef68c5",
-   "id": "3a7a4ad7-90ca-4d84-92f1-c61032067deb",
-   "effective_time": "20241230",
-   "version": "3",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Sandoz Inc"
-   ],
-   "route": [
-    "INTRAVENOUS"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA217150"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "02e64046-687d-449e-e063-6294a90a6c32",
-   "id": "29b88d00-eeea-7282-e063-6294a90a4024",
-   "effective_time": "20241220",
-   "version": "4",
-   "brand_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "XGen Pharmaceuticals DJB, Inc."
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA211757"
-   ],
-   "n_sections": 30
-  },
-  {
-   "set_id": "9e699cf7-860e-4c03-9760-0c24d56df2de",
-   "id": "9c04aa3c-6a2b-4ad4-b3df-87cc168cf93d",
-   "effective_time": "20241216",
-   "version": "2",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Alembic Pharmaceuticals Limited"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215892"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "3d6e68b1-5120-4cbb-a9d2-fb09d1b74ea1",
-   "id": "c4d00f29-b259-4ba5-933b-3908870376d8",
-   "effective_time": "20241210",
-   "version": "5",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "Alembic Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA215892"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "76f057be-e3da-0a89-e053-2a91aa0a8438",
-   "id": "27e82150-4ad3-5be6-e063-6394a90a0e3f",
-   "effective_time": "20241120",
-   "version": "9",
-   "brand_name": [
-    "Cyclophosphamide"
-   ],
-   "generic_name": [
-    "CYCLOPHOSPHAMIDE"
-   ],
-   "manufacturer_name": [
-    "NorthStar Rx LLC"
-   ],
-   "route": [
-    "INTRAVENOUS",
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA204555"
-   ],
-   "n_sections": 29
   }
  ],
  "label": {
+  "recent_major_changes": [
+   "Dosage and Administration ( 2.2 , 2.4 ) 9/2024 Warnings and Precautions, Embryo Fetal Toxicity ( 5.7 ) 9/2024"
+  ],
   "indications_and_usage": [
-   "1 INDICATIONS AND USAGE Malignant Diseases FRINDOVYX is indicated for the treatment of adult and pediatric patients with: malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma Burkitt's lymphoma multiple myeloma leukemias: chronic lymphocytic leukemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given during remission is effective in prolonging its duration) mycosis fungoides (advanced disease) neuroblastoma (disseminated disease) adenocarcinoma of the ovary retinoblastoma carcinoma of the breast Cyclophosphamide, although effective alone in susceptible malignancies, is more frequently used concurrently or sequentially with other antineoplastic drugs. FRINDOVYX is an alkylating drug indicated for treatment of adults and pediatric patients with: Malignant Diseases : malignant lymphomas: Hodgkin's disease, lymphocytic lymphoma, mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma; multiple myeloma, leukemias, mycosis fungoides, neuroblastoma, adenocarcinoma of ovary, retinoblastoma, breast carcinoma ( 1 )"
+   "1 INDICATIONS AND USAGE Cyclophosphamide for Injection is an alkylating drug indicated for treatment of adults and pediatric patients with: Malignant Diseases: malignant lymphomas: Hodgkin’s disease, lymphocytic lymphoma, mixed-cell type lymphoma, histiocytic lymphoma, Burkitt’s lymphoma; multiple myeloma, leukemias, mycosis fungoides, neuroblastoma, adenocarcinoma of ovary, retinoblastoma, breast carcinoma ( 1.1 ) Minimal Change Nephrotic Syndrome in Pediatric Patients: biopsy proven minimal change nephrotic syndrome patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy ( 1.2 ) Limitations of Use : The safety and effectiveness for the treatment of nephrotic syndrome in adults or other renal disease has not been established. ( 1.2 ) 1.1 Malignant Diseases Cyclophosphamide for Injection is indicated for the treatment of adult and pediatric patients with: malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin’s disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt’s lymphoma multiple myeloma leukemias: chronic lymphocytic leukemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given during remission is effective in prolonging its duration) mycosis fungoides (advanced disease) neuroblastoma (disseminated disease) adenocarcinoma of the ovary retinoblastoma carcinoma of the breast Cyclophosphamide, although effective alone in susceptible malignancies, is more frequently used concurrently or sequentially with other antineoplastic drugs. 1.2 Minimal Change Nephrotic Syndrome in Pediatric Patients: Cyclophosphamide for Injection is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatric patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy. Limitations of Use: The safety and effectiveness of Cyclophosphamide for Injection for the treatment of nephrotic syndrome in adults or other renal disease has not been established."
   ],
   "dosage_and_administration": [
-   "2 DOSAGE AND ADMINISTRATION During or immediately after FRINDOVYX administration, administer adequate amounts of fluid to reduce the risk of urinary tract toxicity ( 2.1 ). Malignant Diseases: Adult and Pediatric Patients ( 2.2 ) Intravenous: Initial course for patients with no hematologic deficiency: 40 mg/kg to 50 mg/ kg in divided doses over 2 to 5 days. Other regimens include 10 mg/kg to 15 mg/kg given every 7 to 10 days or 3 mg/kg to 5 mg/kg twice weekly. ( 2.2 ) See full prescribing information for instructions on preparation, handling, and administration. ( 2.3 ) 2.1 Important Administration Instructions During or immediately after the administration of FRINDOVYX, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity. Therefore, FRINDOVYX should be administered in the morning. 2.2 Recommended Dosage for Malignant Diseases Adults and Pediatric Patients Intravenous When used as the only oncolytic drug therapy, the recommended dosage for the initial course of FRINDOVYX for patients with no hematologic deficiency is 40 mg/kg to 50 mg/kg given intravenously in divided doses over a period of 2 to 5 days. Other intravenous regimens include 10 mg/kg to 15 mg/kg given every 7 to 10 days or 3 mg/kg to 5 mg/kg twice weekly. Adjust the dosage of FRINDOVYX based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [see Warnings and Precautions (5) ] . 2.3 Preparation, Handling and Administration FRINDOVYX is a hazardous drug. Follow applicable special handling and disposal procedures 1 . Caution should be exercised when handling and preparing FRINDOVYX. To minimize the risk of dermal exposure, always wear gloves when handling vials containing FRINDOVYX. FRINDOVYX Intravenous Administration Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not use cyclophosphamide vials if there are signs of particulate matter. Cyclophosphamide does not contain any antimicrobial preservative and thus care must be taken to assure the sterility of prepared solutions. Use aseptic technique. For Direct Intravenous Injection Withdraw the prescribed dose of FRINDOVYX from the vial with a syringe and dilute with 0.9% Sodium Chloride Injection, USP to a concentration of 20 mg/mL of cyclophosphamide. For Intravenous Infusion Withdraw the prescribed dose of FRINDOVYX from the vial with a syringe and dilute FRINDOVYX to a concentration of 2 mg/mL with any of the following diluents: 0.9% Sodium Chloride Injection, USP 0.45% Sodium Chloride Injection, USP 5% Dextrose Injection, USP 5% Dextrose and 0.9% Sodium Chloride Injection, USP To reduce the likelihood of adverse reactions that appear to be administration rate-dependent (e.g., facial swelling, headache, nasal congestion, scalp burning), cyclophosphamide should be injected or infused very slowly. Duration of the infusion also should be appropriate for the volume and type of carrier fluid to be infused. Storage of Diluted Cyclophosphamide Solution: If not used immediately, for microbiological integrity, cyclophosphamide solutions should be stored as described in Table 1. Table 1: Storage of Cyclophosphamide Solutions Diluent Storage Room Temperature Refrigerated Diluted Solution (20 mg/mL) for Direct Intravenous Injection 0.9% Sodium Chloride Injection, USP up to 24 hours up to 6 days Diluted Solutions (2 mg/mL) for Intravenous Infusion 0.9% Sodium Chloride Injection, USP up to 24 hours up to 6 days 0.45% Sodium Chloride Injection, USP up to 24 hours up to 6 days 5% Dextrose Injection, USP up to 24 hours up to 36 hours 5% Dextrose and 0.9% Sodium Chloride Injection, USP up to 24 hours up to 36 hours Storage of Undiluted Cyclophosphamide Solution (Multiple-Dose Vial): After first use, store partially used multiple-dose vial in the original carton refrigerated at 2°C to 8°C (36ºF to 46°F) for up to 28 days or at room temperature at 20°C to 25°C (68ºF to 77°F) for up to 7 days. Discard unused portion."
+   "2 DOSAGE AND ADMINISTRATION During or immediately after Cyclophosphamide for Injection administration, administer adequate amounts of fluid to reduce the risk of urinary tract toxicity ( 2.1 ). Malignant Diseases: Adult and Pediatric Patients ( 2.2 ) Intravenous: Initial course for patients with no hematologic deficiency: 40 mg per kg to 50 mg per kg in divided doses over 2 to 5 days. Other regimens include 10 mg per kg to 15 mg per kg given every 7 to 10 days or 3 mg per kg to 5 mg per kg twice weekly. Oral: 1 mg per kg per day to 5 mg per kg per day for both initial and maintenance dosing. Minimal Change Nephrotic Syndrome in Pediatric Patients ( 2.3 ) Oral: 2 mg per kg daily for 8 to 12 weeks (maximum cumulative dose 168 mg per kg). Treatment beyond 90 days increases the probability of sterility in males. ( 8.4 ) 2.1 Important Administration Instructions During or immediately after the administration of Cyclophosphamide for Injection, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity. Therefore, Cyclophosphamide for Injection should be administered in the morning. 2.2 Recommended Dosage for Malignant Diseases Adults and Pediatric Patients Intravenous Use When used as the only oncolytic drug therapy, the recommended dosage for the initial course of Cyclophosphamide for Injection for patients with no hematologic deficiency is 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days. Other intravenous regimens include 10 mg per kg to 15 mg per kg given every 7 to 10 days or 3 mg per kg to 5 mg per kg twice weekly. Oral Use The recommended dosage for oral cyclophosphamide is 1 mg per kg per day to 5 mg per kg per day for both initial and maintenance dosing. Adjust the dosage of Cyclophosphamide for Injection based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [see Warnings and Precautions (5) ] . 2.3 Recommended Dosage for Minimal Change Nephrotic Syndrome in Pediatric Patients The recommended dosage is 2 mg per kg orally once daily for 8 to 12 weeks (maximum cumulative dose 168 mg per kg) is recommended. Treatment beyond 90 days increases the probability of sterility in males [see Use in Specific Populations (8.4) ]. 2.4 Preparation, Handling, and Administration Cyclophosphamide for Injection is a hazardous drug. Follow applicable special handling and disposal procedures 1 . Caution should be exercised when handling and preparing Cyclophosphamide for Injection. To minimize the risk of dermal exposure, always wear gloves when handling vials containing Cyclophosphamide for Injection. Cyclophosphamide for Injection Intravenous Administration Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not use cyclophosphamide vials if there are signs of melting. Melted cyclophosphamide is a clear or yellowish viscous liquid usually found as a connected phase or in droplets in the affected vials. Cyclophosphamide does not contain any antimicrobial preservative and thus care must be taken to assure the sterility of prepared solutions. Use aseptic technique. For Direct Intravenous Injection Reconstitute Cyclophosphamide with 0.9% Sodium Chloride Injection, USP only, using the volumes listed below in Table 1 . Shake the vial vigorously to dissolve the drug completely. Do not use Sterile Water for Injection, USP because it results in a hypotonic solution and should not be injected directly. Discard unused solution. Table 1: Reconstitution for Direct Intravenous Injection Strength Volume of 0.9% Sodium Chloride Injection, USP Cyclophosphamide Concentration 500 mg 25 mL 20 mg per mL 1 g 50 mL 2 g 100 mL For Intravenous Infusion Reconstitution of Cyclophosphamide: Reconstitute Cyclophosphamide using 0.9% Sodium Chloride Injection, USP or Sterile Water for Injection, USP with the volume of diluent listed below in Table 2 . Add the diluent to the vial and shake the vial vigorously to dissolve the drug completely. Discard unused solution. Table 2: Reconstitution in preparation for Intravenous Infusion Strength Volume of Diluent Cyclophosphamide Concentration 500 mg 25 mL 1 g 50 mL 20 mg per mL 2 g 100 mL Dilution of Reconstituted Cyclophosphamide: Further dilute the reconstituted Cyclophosphamide solution to a minimum concentration of 2 mg per mL with any of the following diluents: 0.45% Sodium Chloride Injection, USP 5% Dextrose Injection, USP 5% Dextrose and 0.9% Sodium Chloride Injection, USP To reduce the likelihood of adverse reactions that appear to be administration rate-dependent (e.g., facial swelling, headache, nasal congestion, scalp burning), cyclophosphamide should be injected or infused very slowly. Duration of the infusion also should be appropriate for the volume and type of carrier fluid to be infused. Storage of Reconstituted and Diluted Cyclophosphamide Solution If not used immediately, for microbiological integrity, cyclophosphamide solutions should be stored as described in Table 3 : Table 3: Storage of Cyclophosphamide Solutions Diluent Storage Room Temperature Refrigerated Reconstituted Solution ( Without Further Dilution ) 0.9% Sodium Chloride Injection, USP up to 24 hours Up to 6 days Sterile Water for Injection, USP Do not store; use immediately Diluted Solutions Storage time is the total time cyclophosphamide is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP. 0.45% Sodium Chloride Injection, USP up to 24 hours up to 6 days 5% Dextrose Injection, USP up to 24 hours up to 36 hours 5% Dextrose and 0.9% Sodium Chloride Injection, USP up to 24 hours up to 36 hours Reconstituted Solution for Oral Administration Liquid preparations of cyclophosphamide for oral administration may be prepared by dissolving Cyclophosphamide for Injection in Aromatic Elixir, National Formulary (NF). Store preparations under refrigeration in glass containers and use within 14 days. See the prescribing information for cyclophosphamide for oral use for additional dosage information."
   ],
   "dosage_and_administration_table": [
-   "<table ID=\"ID14\" width=\"44%\" styleCode=\"Noautorules\"><caption> Table 1: Storage of Cyclophosphamide Solutions </caption><col width=\"48%\"/><col width=\"27%\"/><col width=\"24%\"/><tbody><tr><td rowspan=\"2\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"> Diluent  </td><td colspan=\"2\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"> Storage </td></tr><tr><td styleCode=\" Botrule Rrule\" align=\"center\"> Room Temperature </td><td styleCode=\" Botrule Rrule\" align=\"center\"> Refrigerated </td></tr><tr><td colspan=\"3\" styleCode=\"Lrule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Diluted Solution (20 mg/mL) for Direct Intravenous Injection</content> </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 0.9% Sodium Chloride Injection, USP  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 24 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 6 days </td></tr><tr><td colspan=\"3\" valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Diluted Solutions (2 mg/mL) for Intravenous Infusion </content> </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 0.9% Sodium Chloride Injection, USP  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 24 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 6 days </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 0.45% Sodium Chloride Injection, USP  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 24 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 6 days </td></tr><tr><td styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 5% Dextrose Injection, USP  </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 24 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 36 hours </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 5% Dextrose and 0.9% Sodium Chloride Injection, USP </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 24 hours </td><td styleCode=\" Botrule Rrule\" align=\"center\"> up to 36 hours </td></tr></tbody></table>"
+   "<table ID=\"_RefIDAB008B0953DE424E9C58E52C8FBC06E6\" width=\"100%\"><caption>Table 1: Reconstitution for Direct Intravenous Injection</caption><col width=\"22%\"/><col width=\"43%\"/><col width=\"34%\"/><tbody><tr><td align=\"center\" styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Strength</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Volume of   0.9% Sodium Chloride Injection, USP </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Cyclophosphamide Concentration</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>500 mg</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>25 mL</paragraph></td><td align=\"center\" rowspan=\"3\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>20 mg per mL</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>1 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>50 mL</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>2 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>100 mL</paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID8444747144AF4EAA8E9D5405040FDA50\" width=\"100%\"><caption>Table 2: Reconstitution in preparation for Intravenous Infusion</caption><col width=\"23%\"/><col width=\"26%\"/><col width=\"51%\"/><tbody><tr><td align=\"center\" styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Strength</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Volume of Diluent</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Cyclophosphamide</paragraph><paragraph>Concentration</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>500 mg</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>25 mL</paragraph></td><td styleCode=\"Rrule Lrule \" valign=\"top\"/></tr><tr><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>1 g</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>50 mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"><paragraph>20 mg per mL</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>2 g</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>100 mL</paragraph></td><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"/></tr></tbody></table>",
+   "<table ID=\"_RefID5299F7D6D7684530A4A3F1F574F64F0B\" width=\"100%\"><caption>Table 3: Storage of Cyclophosphamide Solutions</caption><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><tbody><tr><td align=\"center\" rowspan=\"2\" styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Diluent</paragraph></td><td align=\"center\" colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Storage</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>Room Temperature</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Refrigerated</paragraph></td></tr><tr><td align=\"center\" colspan=\"3\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Reconstituted Solution</content>( <content styleCode=\"bold\">Without Further Dilution</content>) </paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>0.9% Sodium Chloride Injection, USP</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>up to 24 hours</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Up to 6 days</paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>Sterile Water for Injection, USP</paragraph></td><td align=\"center\" colspan=\"2\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Do not store; use immediately</paragraph></td></tr><tr><td align=\"center\" colspan=\"3\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Diluted Solutions</content><footnote ID=\"_RefID6DFA49D3248748A4B2A87101FA0A9803\">Storage time is the total time cyclophosphamide is in solution including the time it is reconstituted in 0.9% Sterile Sodium Chloride Injection, USP or Sterile Water for Injection, USP.</footnote></paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>0.45% Sodium Chloride Injection, USP</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>up to 24 hours</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>up to 6 days</paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>5% Dextrose Injection, USP</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>up to 24 hours</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>up to 36 hours</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>5% Dextrose and 0.9% Sodium Chloride Injection, USP</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>up to 24 hours</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>up to 36 hours</paragraph></td></tr></tbody></table>"
   ],
   "dosage_forms_and_strengths": [
-   "3 DOSAGE FORMS AND STRENGTHS FRINDOVYX: Clear, colorless to yellow sterile solution of cyclophosphamide in multiple-dose vial in the following three strengths. 500 mg/mL 1 g/2 mL (500 mg/mL) 2 g/4 mL (500 mg/mL) Injection: 500 mg/mL, 1 g/2 mL (500 mg/mL), and 2 g/4mL (500 mg/mL) in multiple-dose vial ( 3 )"
+   "3 DOSAGE FORMS AND STRENGTHS Cyclophosphamide for Injection, USP is a sterile white powder available in single-dose vials 500 mg 1 g 2 g Injection, sterile white powder: 500 mg, 1 g, and 2 g ( 3 )"
   ],
   "contraindications": [
-   "4 CONTRAINDICATIONS Hypersensitivity FRINDOVYX is contraindicated in patients who have a history of severe hypersensitivity reactions to cyclophosphamide, any of its metabolites, or to other components of the product. Anaphylactic reactions including death have been reported with cyclophosphamide. Cross-sensitivity with other alkylating agents can occur. Urinary Outflow Obstruction FRINDOVYX is contraindicated in patients with urinary outflow obstruction [see Warnings and Precautions (5.2) ]. Hypersensitivity to cyclophosphamide ( 4 ) Urinary outflow obstruction ( 4 )"
+   "4 CONTRAINDICATIONS Hypersensitivity Cyclophosphamide for Injection is contraindicated in patients who have a history of severe hypersensitivity reactions to cyclophosphamide, any of its metabolites, or to other components of the product. Anaphylactic reactions including death have been reported with cyclophosphamide. Cross-sensitivity with other alkylating agents can occur. Urinary Outflow Obstruction Cyclophosphamide for Injection is contraindicated in patients with urinary outflow obstruction [see Warnings and Precautions (5.2) ]. Hypersensitivity to cyclophosphamide ( 4 ) Urinary outflow obstruction ( 4 )"
   ],
   "warnings_and_cautions": [
-   "5 WARNINGS AND PRECAUTIONS Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections : Severe immunosuppression may lead to serious and sometimes fatal infections. Close hematological monitoring is required. ( 5.1 ) Urinary Tract and Renal Toxicity : Hemorrhagic cystitis, pyelitis, ureteritis, and hematuria can occur. Urotoxicity can be fatal. Exclude or correct any urinary tract obstructions prior to treatment. ( 5.2 ) Cardiotoxicity : Myocarditis, myopericarditis, pericardial effusion, arrhythmias and congestive heart failure, which may be fatal, have been reported. Monitor patients, especially those with risk factors for cardiotoxicity or pre-existing cardiac disease. ( 5.3 ) Pulmonary Toxicity : Pneumonitis, pulmonary fibrosis and pulmonary veno-occlusive disease leading to respiratory failure may occur. Monitor patients for signs and symptoms of pulmonary toxicity. ( 5.4 ) Secondary malignancies ( 5.5 ) Veno-occlusive Liver Diseas e: Fatal outcome can occur. ( 5.6 ) Alcohol content : The alcohol content in a dose of FRINDOVYX may affect the central nervous system. This may include impairment of a patient's ability to drive or use machines immediately after infusion. ( 5.7 ) Embryo-Fetal Toxicity : Can cause fetal harm. Advise patients of reproductive potential of the potential risk to a fetus and to use effective contraception. ( 5.8 , 8.1 , 8.3 ) 5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections Cyclophosphamide can cause myelosuppression (leukopenia, neutropenia, thrombocytopenia and anemia), bone marrow failure, and severe immunosuppression which may lead to serious and sometimes fatal infections, including sepsis and septic shock. Latent infections can be reactivated [see Adverse Reactions (6) ]. Antimicrobial prophylaxis may be indicated in certain cases of neutropenia at the discretion of the managing physician. In case of neutropenic fever, antibiotic therapy is indicated. Antimycotics and/or antivirals may also be indicated. Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed. Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm 3 and platelets < 50,000/mm 3 . Cyclophosphamide treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious infection. G-CSF may be administered to reduce the risks of neutropenia complications associated with cyclophosphamide use. Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for neutropenia complications. The nadirs of the reduction in leukocyte count and thrombocyte count are usually reached in weeks 1 and 2 of treatment. Peripheral blood cell counts are expected to normalize after approximately 20 days. Bone marrow failure has been reported. Severe myelosuppression may be expected particularly in patients pretreated with and/or receiving concomitant chemotherapy and/or radiation therapy. 5.2 Urinary Tract and Renal Toxicity Hemorrhagic cystitis, pyelitis, ureteritis, and hematuria have been reported with cyclophosphamide. Medical and/or surgical supportive treatment may be required to treat protracted cases of severe hemorrhagic cystitis. Discontinue cyclophosphamide therapy in case of severe hemorrhagic cystitis. Urotoxicity (bladder ulceration, necrosis, fibrosis, contracture and secondary cancer) may require interruption of cyclophosphamide treatment or cystectomy. Urotoxicity can be fatal. Urotoxicity can occur with short-term or long-term use of cyclophosphamide. Before starting treatment, exclude or correct any urinary tract obstructions [see Contraindications (4) ]. Urinary sediment should be checked regularly for the presence of erythrocytes and other signs of urotoxicity and/or nephrotoxicity. Cyclophosphamide should be used with caution, if at all, in patients with active urinary tract infections. Aggressive hydration with forced diuresis and frequent bladder emptying can reduce the frequency and severity of bladder toxicity. Mesna has been used to prevent severe bladder toxicity. 5.3 Cardiotoxicity Myocarditis, myopericarditis, pericardial effusion including cardiac tamponade, and congestive heart failure, which may be fatal, have been reported with cyclophosphamide therapy. Supraventricular arrhythmias (including atrial fibrillation and flutter) and ventricular arrhythmias (including severe QT prolongation associated with ventricular tachyarrhythmia) have been reported after treatment with regimens that included cyclophosphamide. The risk of cardiotoxicity may be increased with high doses of cyclophosphamide, in patients with advanced age, and in patients with previous radiation treatment to the cardiac region and/or previous or concomitant treatment with other cardiotoxic agents. Particular caution is necessary in patients with risk factors for cardiotoxicity and in patients with pre-existing cardiac disease. Monitor patients with risk factors for cardiotoxicity and with pre-existing cardiac disease. 5.4 Pulmonary Toxicity Pneumonitis, pulmonary fibrosis, pulmonary veno-occlusive disease and other forms of pulmonary toxicity leading to respiratory failure have been reported during and following treatment with cyclophosphamide. Late onset pneumonitis (greater than 6 months after start of cyclophosphamide) appears to be associated with increased mortality. Pneumonitis may develop years after treatment with cyclophosphamide. Monitor patients for signs and symptoms of pulmonary toxicity. 5.5 Secondary Malignancies Cyclophosphamide is genotoxic [see Nonclinical Toxicology (13.1) ] . Secondary malignancies (urinary tract cancer, myelodysplasia, acute leukemias, lymphomas, thyroid cancer, and sarcomas) have been reported in patients treated with cyclophosphamide-containing regimens . The risk of bladder cancer may be reduced by prevention of hemorrhagic cystitis. 5.6 Veno-occlusive Liver Disease Veno-occlusive liver disease (VOD) including fatal outcome has been reported in patients receiving cyclophosphamide-containing regimens. A cytoreductive regimen in preparation for bone marrow transplantation that consists of cyclophosphamide in combination with whole-body irradiation, busulfan, or other agents has been identified as a major risk factor. VOD has also been reported to develop gradually in patients receiving long-term low-dose immunosuppressive doses of cyclophosphamide. Other risk factors predisposing to the development of VOD include preexisting disturbances of hepatic function, previous radiation therapy of the abdomen, and a low performance status. 5.7 Alcohol Content The alcohol content in a dose of FRINDOVYX may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized. Consideration should be given to the alcohol content in FRINDOVYX on the ability to drive or use machines immediately after the infusion. Each administration of FRINDOVYX at 50 mg per kg delivers 0.0448 g/kg of ethanol. For a 75 kg patient this would deliver 3.36 grams of ethanol [see Description (11) ] . Other cyclophosphamide products may have a different amount of alcohol or no alcohol. 5.8 Embryo-Fetal Toxicity Based on its mechanism of action and published reports of effects in pregnant patients or animals, FRINDOVYX can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1) , and Nonclinical Toxicology (13.1) ] . Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn. Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys. Advise pregnant women and females of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1) ] . Advise females of reproductive potential to use effective contraception during treatment with FRINDOVYX and for up to 1 year after completion of therapy. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with FRINDOVYX and for 4 months after completion of therapy [see Use in Specific Populations (8.1 , 8.3) ] . 5.9 Infertility Male and female reproductive function and fertility may be impaired in patients being treated with FRINDOVYX. Cyclophosphamide interferes with oogenesis and spermatogenesis. It may cause sterility in both sexes. Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment. Cyclophosphamide-induced sterility may be irreversible in some patients. Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3 and 8.4) ] . 5.10 Impairment of Wound Healing Cyclophosphamide may interfere with normal wound healing. 5.11 Hyponatremia Hyponatremia associated with increased total body water, acute water intoxication, and a syndrome resembling SIADH (syndrome of inappropriate secretion of antidiuretic hormone), which may be fatal, has been reported."
+   "5 WARNINGS AND PRECAUTIONS Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections - Severe immunosuppression may lead to serious and sometimes fatal infections. Close hematological monitoring is required. ( 5.1 ) Urinary Tract and Renal Toxicity - Hemorrhagic cystitis, pyelitis, ureteritis, and hematuria can occur. Urotoxicity can be fatal. Exclude or correct any urinary tract obstructions prior to treatment. ( 5.2 ) Cardiotoxicity - Myocarditis, myopericarditis, pericardial effusion, arrythmias and congestive heart failure, which may be fatal, have been reported. Monitor patients, especially those with risk factors for cardiotoxicity or pre-existing cardiac disease. ( 5.3 ) Pulmonary Toxicity - Pneumonitis, pulmonary fibrosis and pulmonary veno-occlusive disease leading to respiratory failure may occur. Monitor patients for signs and symptoms of pulmonary toxicity. ( 5.4 ) Secondary malignancies( 5.5 ) Veno-occlusive Liver Disease - Fatal outcome can occur. ( 5.6 ) Embryo-Fetal Toxicity -Can cause fetal harm. Advise patients of reproductive potential of the potential risk to a fetus and to use effective contraception. ( 5.7 , 8.1 , 8.3 ) 5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections Cyclophosphamide can cause myelosuppression (leukopenia, neutropenia, thrombocytopenia and anemia), bone marrow failure, and severe immunosuppression which may lead to serious and sometimes fatal infections, including sepsis and septic shock. Latent infections can be reactivated [see Adverse Reactions (6.1) ]. Antimicrobial prophylaxis may be indicated in certain cases of neutropenia at the discretion of the managing physician. In case of neutropenic fever, antibiotic therapy is indicated. Antimycotics and/or antivirals may also be indicated. Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed. Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm 3 and platelets < 50,000/mm 3 . Cyclophosphamide treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious infection. G-CSF may be administered to reduce the risks of neutropenia complications associated with cyclophosphamide use. Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for neutropenia complications. The nadirs of the reduction in leukocyte count and thrombocyte count are usually reached in weeks 1 and 2 of treatment. Peripheral blood cell counts are expected to normalize after approximately 20 days. Bone marrow failure has been reported. Severe myelosuppression may be expected particularly in patients pretreated with and/or receiving concomitant chemotherapy and/or radiation therapy. 5.2 Urinary Tract and Renal Toxicity Hemorrhagic cystitis, pyelitis, ureteritis, and hematuria have been reported with cyclophosphamide. Medical and/or surgical supportive treatment may be required to treat protracted cases of severe hemorrhagic cystitis. Discontinue cyclophosphamide therapy in case of severe hemorrhagic cystitis. Urotoxicity (bladder ulceration, necrosis, fibrosis, contracture and secondary cancer) may require interruption of cyclophosphamide treatment or cystectomy. Urotoxicity can be fatal. Urotoxicity can occur with short-term or long-term use of cyclophosphamide. Before starting treatment, exclude or correct any urinary tract obstructions [see Contraindications (4) ]. Urinary sediment should be checked regularly for the presence of erythrocytes and other signs of urotoxicity and/or nephrotoxicity. Cyclophosphamide should be used with caution, if at all, in patients with active urinary tract infections. Aggressive hydration with forced diuresis and frequent bladder emptying can reduce the frequency and severity of bladder toxicity. Mesna has been used to prevent severe bladder toxicity. 5.3 Cardiotoxicity Myocarditis, myopericarditis, pericardial effusion including cardiac tamponade, and congestive heart failure, which may be fatal, have been reported with cyclophosphamide therapy. Supraventricular arrhythmias (including atrial fibrillation and flutter) and ventricular arrhythmias (including severe QT prolongation associated with ventricular tachyarrhythmia) have been reported after treatment with regimens that included cyclophosphamide. The risk of cardiotoxicity may be increased with high doses of cyclophosphamide, in patients with advanced age, and in patients with previous radiation treatment to the cardiac region and/or previous or concomitant treatment with other cardiotoxic agents. Particular caution is necessary in patients with risk factors for cardiotoxicity and in patients with pre-existing cardiac disease. Monitor patients with risk factors for cardiotoxicity and with pre-existing cardiac disease. 5.4 Pulmonary Toxicity Pneumonitis, pulmonary fibrosis, pulmonary veno-occlusive disease and other forms of pulmonary toxicity leading to respiratory failure have been reported during and following treatment with cyclophosphamide. Late onset pneumonitis (greater than 6 months after start of cyclophosphamide) appears to be associated with increased mortality. Pneumonitis may develop years after treatment with cyclophosphamide. Monitor patients for signs and symptoms of pulmonary toxicity. 5.5 Secondary Malignancies Cyclophosphamide is genotoxic [see Nonclinical Toxicology (13.1) ] . Secondary malignancies (urinary tract cancer, myelodysplasia, acute leukemias, lymphomas, thyroid cancer, and sarcomas) have been reported in patients treated with cyclophosphamide-containing regimens . The risk of bladder cancer may be reduced by prevention of hemorrhagic cystitis. 5.6 Veno-occlusive Liver Disease Veno-occlusive liver disease (VOD) including fatal outcome has been reported in patients receiving cyclophosphamide-containing regimens. A cytoreductive regimen in preparation for bone marrow transplantation that consists of cyclophosphamide in combination with whole-body irradiation, busulfan, or other agents has been identified as a major risk factor. VOD has also been reported to develop gradually in patients receiving long-term low-dose immunosuppressive doses of cyclophosphamide. Other risk factors predisposing to the development of VOD include preexisting disturbances of hepatic function, previous radiation therapy of the abdomen, and a low performance status. 5.7 Embryo-Fetal Toxicity Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide for Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1) , Clinical Pharmacology (12.1) , and Nonclinical Toxicology (13.1) ] . Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn. Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys. Advise pregnant women and females of reproductive potential of the potential risk to a fetus [see Use in Specific Populations (8.1) ] . Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide for Injection and for up to 1 year after completion of therapy. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide for Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.1 , 8.3) ] . 5.8 Infertility Male and female reproductive function and fertility may be impaired in patients being treated with Cyclophosphamide for Injection. Cyclophosphamide interferes with oogenesis and spermatogenesis. It may cause sterility in both sexes. Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment. Cyclophosphamide-induced sterility may be irreversible in some patients. Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3, 8.4) ] . 5.9 Impairment of Wound Healing Cyclophosphamide may interfere with normal wound healing. 5.10 Hyponatremia Hyponatremia associated with increased total body water, acute water intoxication, and a syndrome resembling SIADH (syndrome of inappropriate secretion of antidiuretic hormone), which may be fatal, has been reported."
   ],
   "adverse_reactions": [
-   "6 ADVERSE REACTIONS The following adverse reactions are discussed in more detail in other sections of the labeling. Hypersensitivity [see Contraindications (4) ] Myelosuppression, Immunosuppression, Bone Marrow Failure, and Infections [see Warnings and Precautions (5.1) ] Urinary Tract and Renal Toxicity [see Warnings and Precautions (5.2) ] Cardiotoxicity [see Warnings and Precautions (5.3) ] Pulmonary Toxicity [see Warnings and Precautions (5.4) ] Secondary Malignancies [see Warnings and Precautions (5.5) ] Veno-occlusive Liver Disease [see Warnings and Precautions (5.6) ] Alcohol Content [see Warnings and Precautions (5.7) ] Infertility [see Warnings and Precautions (5.9) and Use in Specific Populations (8.3 and 8.4) ] Impaired Wound Healing [see Warnings and Precautions (5.10)] Hyponatremia [see Warnings and Precautions (5.11) ] Adverse reactions reported most often include neutropenia, febrile neutropenia, fever, alopecia, nausea, vomiting, and diarrhea. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact AVYXA Pharma, LLC at 1-888-520-0954 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials and Postmarketing Experience The following adverse reactions associated with the use of cyclophosphamide were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The most common adverse reactions were neutropenia, febrile neutropenia, fever, alopecia, nausea, vomiting, and diarrhea. Cardiac: cardiac arrest, ventricular fibrillation, ventricular tachycardia, cardiogenic shock, pericardial effusion (progressing to cardiac tamponade), myocardial hemorrhage, myocardial infarction, cardiac failure (including fatal outcomes), cardiomyopathy, myocarditis, pericarditis, carditis, atrial fibrillation, supraventricular arrhythmia, ventricular arrhythmia, bradycardia, tachycardia, palpitations, QT prolongation. Congenital, Familial and Genetic : intra-uterine death, fetal malformation, fetal growth retardation, fetal toxicity (including myelosuppression, gastroenteritis). Ear and Labyrinth: deafness, hearing impaired, tinnitus. Endocrine: water intoxication. Eye: visual impairment, conjunctivitis, lacrimation. Gastrointestinal: gastrointestinal hemorrhage, acute pancreatitis, colitis, enteritis, cecitis, stomatitis, constipation, parotid gland inflammation, nausea, vomiting, diarrhea. General Disorders and Administrative Site Conditions: multiorgan failure, general physical deterioration, influenza-like illness, injection/infusion site reactions (thrombosis, necrosis, phlebitis, inflammation, pain, swelling, erythema), pyrexia, edema, chest pain, mucosal inflammation, asthenia, pain, chills, fatigue, malaise, headache, febrile neutropenia. Hematologic: myelosuppression, bone marrow failure, disseminated intravascular coagulation and hemolytic uremic syndrome (with thrombotic microangiopathy). Hepatic: veno-occlusive liver disease, cholestatic hepatitis, cytolytic hepatitis, hepatitis, cholestasis; hepatotoxicity with hepatic failure, hepatic encephalopathy, ascites, hepatomegaly, blood bilirubin increased, hepatic function abnormal, hepatic enzymes increased. Immune: immunosuppression, anaphylactic shock and hypersensitivity reaction. Infections: The following manifestations have been associated with myelosuppression and immunosuppression caused by cyclophosphamide: increased risk for and severity of pneumonias (including fatal outcomes), other bacterial, fungal, viral, protozoal and, parasitic infections; reactivation of latent infections, (including viral hepatitis, tuberculosis), Pneumocystis jiroveci , herpes zoster, Strongyloides , sepsis and septic shock. Investigations: blood lactate dehydrogenase increased, C-reactive protein increased. Metabolism and Nutrition: hyponatremia, fluid retention, blood glucose increased, blood glucose decreased. Musculoskeletal and Connective Tissue : rhabdomyolysis, scleroderma, muscle spasms, myalgia, arthralgia. Neoplasms: acute leukemia, myelodysplastic syndrome, lymphoma, sarcomas, renal cell carcinoma, renal pelvis cancer, bladder cancer, ureteric cancer, thyroid cancer. Nervous System: encephalopathy, convulsion, dizziness, neurotoxicity has been reported and manifested as reversible posterior leukoencephalopathy syndrome, myelopathy, peripheral neuropathy, polyneuropathy, neuralgia, dysesthesia, hypoesthesia, paresthesia, tremor, dysgeusia, hypogeusia, parosmia. Pregnancy: premature labor. Psychiatric: confusional state. Renal and Urinary: renal failure, renal tubular disorder, renal impairment, nephropathy toxic, hemorrhagic cystitis, bladder necrosis, cystitis ulcerative, bladder contracture, hematuria, nephrogenic diabetes insipidus, atypical urinary bladder epithelial cells. Reproductive System: infertility, ovarian failure, ovarian disorder, amenorrhea, oligomenorrhea, testicular atrophy, azoospermia, oligospermia. Respiratory: pulmonary veno-occlusive disease, acute respiratory distress syndrome, interstitial lung disease as manifested by respiratory failure (including fatal outcomes), obliterative bronchiolitis, organizing pneumonia, alveolitis allergic, pneumonitis, pulmonary hemorrhage; respiratory distress, pulmonary hypertension, pulmonary edema, pleural effusion, bronchospasm, dyspnea, hypoxia, cough, nasal congestion, nasal discomfort, oropharyngeal pain, rhinorrhea. Skin and Subcutaneous Tissue: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, palmar-plantar erythrodysesthesia syndrome, radiation recall dermatitis, toxic skin eruption, urticaria, dermatitis, blister, pruritus, erythema, nail disorder, facial swelling, hyperhidrosis, alopecia. Tumor lysis syndrome : like other cytotoxic drugs, cyclophosphamide may induce tumor-lysis syndrome and hyperuricemia in patients with rapidly growing tumors. Vascular: pulmonary embolism, venous thrombosis, vasculitis, peripheral ischemia, hypertension, hypotension, flushing, hot flush."
+   "6 ADVERSE REACTIONS The following adverse reactions are discussed in more detail in other sections of the labeling. Hypersensitivity [see Contraindications (4) ] Myelosuppression, Immunosuppression, Bone Marrow Failure, and Infections [see Warnings and Precautions (5.1) ] Urinary Tract and Renal Toxicity [see Warnings and Precautions (5.2) ] Cardiotoxicity [see Warnings and Precautions (5.3) ] Pulmonary Toxicity [see Warnings and Precautions (5.4) ] Secondary Malignancies [see Warnings and Precautions (5.5) ] Veno-occlusive Liver Disease [see Warnings and Precautions (5.6) ] Infertility [see Warnings and Precautions (5.8) and Use in Specific Populations (8.3 , 8.4) ] Impaired Wound Healing [see Warnings and Precautions (5.9) ] Hyponatremia [see Warnings and Precautions (5.10) ] Adverse reactions reported most often include neutropenia, febrile neutropenia, fever, alopecia, nausea, vomiting, and diarrhea. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare at 1-866-888-2472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch 6.1 Clinical Trials and Postmarketing Experience The following adverse reactions associated with the use of cyclophosphamide were identified in clinical studies or post-marketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The most common adverse reactions were neutropenia, febrile neutropenia, fever, alopecia, nausea, vomiting, and diarrhea. Cardiac: cardiac arrest, ventricular fibrillation, ventricular tachycardia, cardiogenic shock, pericardial effusion (progressing to cardiac tamponade), myocardial hemorrhage, myocardial infarction, cardiac failure (including fatal outcomes), cardiomyopathy, myocarditis, pericarditis, carditis, atrial fibrillation, supraventricular arrhythmia, ventricular arrhythmia, bradycardia, tachycardia, palpitations, QT prolongation. Congenital, Familial and Genetic : intra-uterine death, fetal malformation, fetal growth retardation, fetal toxicity (including myelosuppression, gastroenteritis). Ear and Labyrinth: deafness, hearing impaired, tinnitus. Endocrine: water intoxication. Eye: visual impairment, conjunctivitis, lacrimation. Gastrointestinal: gastrointestinal hemorrhage, acute pancreatitis, colitis, enteritis, cecitis, stomatitis, constipation, parotid gland inflammation, nausea, vomiting, diarrhea. General Disorders and Administrative Site Conditions: multiorgan failure, general physical deterioration, influenza-like illness, injection/infusion site reactions (thrombosis, necrosis, phlebitis, inflammation, pain, swelling, erythema), pyrexia, edema, chest pain, mucosal inflammation, asthenia, pain, chills, fatigue, malaise, headache, febrile neutropenia. Hematologic: myelosuppression, bone marrow failure, disseminated intravascular coagulation and hemolytic uremic syndrome (with thrombotic microangiopathy). Hepatic: veno-occlusive liver disease, cholestatic hepatitis, cytolytic hepatitis, hepatitis, cholestasis; hepatotoxicity with hepatic failure, hepatic encephalopathy, ascites, hepatomegaly, blood bilirubin increased, hepatic function abnormal, hepatic enzymes increased. Immune: immunosuppression, anaphylactic shock and hypersensitivity reaction. Infections: The following manifestations have been associated with myelosuppression and immunosuppression caused by cyclophosphamide: increased risk for and severity of pneumonias (including fatal outcomes), other bacterial, fungal, viral, protozoal and, parasitic infections; reactivation of latent infections, (including viral hepatitis, tuberculosis), pneumocystis jiroveci , herpes zoster, strongyloides , sepsis and septic shock. Investigations: blood lactate dehydrogenase increased, C-reactive protein increased. Metabolism and Nutrition: hyponatremia, fluid retention, blood glucose increased, blood glucose decreased. Musculoskeletal and Connective Tissue : rhabdomyolysis, scleroderma, muscle spasms, myalgia, arthralgia. Neoplasms: acute leukemia, myelodysplastic syndrome, lymphoma, sarcomas, renal cell carcinoma, renal pelvis cancer, bladder cancer, ureteric cancer, thyroid cancer. Nervous System: encephalopathy, convulsion, dizziness, neurotoxicity has been reported and manifested as reversible posterior leukoencephalopathy syndrome, myelopathy, peripheral neuropathy, polyneuropathy, neuralgia, dysesthesia, hypoesthesia, paresthesia, tremor, dysgeusia, hypogeusia, parosmia. Pregnancy: premature labor. Psychiatric: confusional state. Renal and Urinary: renal failure, renal tubular disorder, renal impairment, nephropathy toxic, hemorrhagic cystitis, bladder necrosis, cystitis ulcerative, bladder contracture, hematuria, nephrogenic diabetes insipidus, atypical urinary bladder epithelial cells. Reproductive System: infertility, ovarian failure, ovarian disorder, amenorrhea, oligomenorrhea, testicular atrophy, azoospermia, oligospermia. Respiratory: pulmonary veno-occlusive disease, acute respiratory distress syndrome, interstitial lung disease as manifested by respiratory failure (including fatal outcomes), obliterative bronchiolitis, organizing pneumonia, alveolitis allergic, pneumonitis, pulmonary hemorrhage; respiratory distress, pulmonary hypertension, pulmonary edema, pleural effusion, bronchospasm, dyspnea, hypoxia, cough, nasal congestion, nasal discomfort, oropharyngeal pain, rhinorrhea. Skin and Subcutaneous Tissue: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, palmar-plantar erythrodysesthesia syndrome, radiation recall dermatitis, toxic skin eruption, urticaria, dermatitis, blister, pruritus, erythema, nail disorder, facial swelling, hyperhidrosis, alopecia. Tumor lysis syndrome : like other cytotoxic drugs, cyclophosphamide may induce tumor-lysis syndrome and hyperuricemia in patients with rapidly growing tumors. Vascular: pulmonary embolism, venous thrombosis, vasculitis, peripheral ischemia, hypertension, hypotension, flushing, hot flush."
   ],
   "drug_interactions": [
-   "7 DRUG INTERACTIONS 7.1 Effect of Other Drugs on Cyclophosphamide Exposure Protease Inhibitors Concomitant use of protease inhibitors may increase the concentration of cytotoxic metabolites and may enhance the toxicities of cyclophosphamide, including higher incidence of infections, neutropenia, and mucositis. Monitor for increased toxicities in patients receiving protease inhibitors. 7.2 Drugs that Potentiate Cyclophosphamide Toxicities Drugs or agents with similar toxicities to FRINDOVYX and can potentiate these effects are listed in Table 2. Table 2: Drugs that Potentiate Cyclophosphamide Toxicities Toxicity Drugs Increased hematotoxicity and/or immunosuppression ● ACE inhibitors: ACE inhibitors can cause leukopenia. ● Natalizumab ● Paclitaxel: Increased hematotoxicity has been reported when cyclophosphamide was administered after paclitaxel infusion. ● Thiazide diuretics ● Zidovudine Increased cardiotoxicity ● Anthracyclines ● Cytarabine ● Pentostatin ● Radiation therapy of the cardiac region ● Trastuzumab Increased pulmonary toxicity ● Amiodarone ● G-CSF, GM-CSF (granulocyte colony-stimulating factor, granulocyte macrophage colony-stimulating factor) Increased nephrotoxicity ● Amphotericin B ● Indomethacin: Acute water intoxication has been reported with concomitant use of indomethacin Increase in other toxicities: ● Azathioprine: Increased risk of hepatotoxicity (liver necrosis) ● Busulfan: Increased incidence of hepatic veno-occlusive disease and mucositis has been reported. ● Protease inhibitors: Increased incidence of mucositis Increased risk of hemorrhagic cystitis ● Radiation treatment: Increased risk of hemorrhagic cystitis may result from a combined effect of cyclophosphamide and past or concomitant radiation treatment. 7.3 Effect of Cyclophosphamide on Other Drugs Metronidazole Acute encephalopathy has been reported in a patient receiving cyclophosphamide and metronidazole. Monitor for neurologic toxicities in patients receiving metronidazole. Tamoxifen Concomitant use of tamoxifen and a cyclophosphamide-containing chemotherapy regimen may increase the risk of thromboembolic complications. Monitor for signs and symptoms of thromboembolic events in patients receiving tamoxifen. Coumarins Both increased and decreased warfarin effect have been reported in patients receiving warfarin and cyclophosphamide. Monitor anticoagulant activity closely in patients receiving warfarin or other coumarins. Cyclosporine Concomitant administration of cyclophosphamide may decrease serum concentrations of cyclosporine. This interaction may result in an increased incidence of graft-versus-host disease. Monitor for signs and symptoms of graft-versus-host disease in patients receiving cyclosporine. Depolarizing Muscle Relaxants If a patient has been treated with cyclophosphamide within 10 days of general anesthesia, alert the anesthesiologist. Cyclophosphamide causes a marked and persistent inhibition of cholinesterase activity. Prolonged apnea may occur with concurrent depolarizing muscle relaxants (e.g., succinylcholine)."
-  ],
-  "drug_interactions_table": [
-   "<table ID=\"ID56\" width=\"707\" styleCode=\"Noautorules\"><caption> Table 2: Drugs that Potentiate Cyclophosphamide Toxicities </caption><col width=\"173\"/><col width=\"534\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Toxicity</content> </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Drugs</content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Increased hematotoxicity and/or immunosuppression </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> &#x25CF; ACE inhibitors: ACE inhibitors can cause leukopenia.  &#x25CF; Natalizumab  &#x25CF; Paclitaxel: Increased hematotoxicity has been reported when cyclophosphamide was administered after paclitaxel infusion.  &#x25CF; Thiazide diuretics  &#x25CF; Zidovudine </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Increased cardiotoxicity </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> &#x25CF; Anthracyclines  &#x25CF; Cytarabine  &#x25CF; Pentostatin  &#x25CF; Radiation therapy of the cardiac region  &#x25CF; Trastuzumab </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Increased pulmonary toxicity </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> &#x25CF; Amiodarone  &#x25CF; G-CSF, GM-CSF (granulocyte colony-stimulating factor, granulocyte macrophage colony-stimulating factor) </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Increased nephrotoxicity </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> &#x25CF; Amphotericin B  &#x25CF; Indomethacin: Acute water intoxication has been reported with concomitant use of indomethacin </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Increase in other toxicities: </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> &#x25CF; Azathioprine: Increased risk of hepatotoxicity (liver necrosis)  &#x25CF; Busulfan: Increased incidence of hepatic veno-occlusive disease and mucositis has been reported.  &#x25CF; Protease inhibitors: Increased incidence of mucositis </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Increased risk of hemorrhagic cystitis </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> &#x25CF; Radiation treatment: Increased risk of hemorrhagic cystitis may result from a combined effect of cyclophosphamide and past or concomitant radiation treatment. </td></tr></tbody></table>"
+   "7 DRUG INTERACTIONS 7.1 Effect of Other Drugs on Cyclophosphamide Exposure Protease Inhibitors Concomitant use of protease inhibitors may increase the concentration of cytotoxic metabolites and may enhance the toxicities of cyclophosphamide, including higher incidence of infections, neutropenia, and mucositis. Monitor for increased toxicities in patients receiving protease inhibitors. 7.2 Drugs That Potentiate Cyclophosphamide Toxicities Radiation therapy or drugs with similar toxicities to Cyclophosphamide for Injection can potentiate toxicities for cyclophosphamide. Monitor for increased toxicities in patients receiving radiation therapy or drugs known to cause: Myelosuppression and/or immunosuppression [see Warnings and Precautions (5.1) ] Nephrotoxicity including hemorrhagic cystitis [see Warnings and Precautions (5.2) ] Cardiotoxicity [see Warnings and Precautions (5.3) ] Pulmonary toxicity [see Warnings and Precautions (5.4) ] Secondary malignancies [see Warnings and Precautions (5.5) ] Hepatotoxicity including liver necrosis and VOD [see Warnings and Precautions (5.6) ] 7.3 Effect of Cyclophosphamide on Other Drugs Metronidazole Acute encephalopathy has been reported in a patient receiving cyclophosphamide and metronidazole. Monitor for neurologic toxicities in patients receiving metronidazole. Tamoxifen Concomitant use of tamoxifen and a cyclophosphamide-containing chemotherapy regimen may increase the risk of thromboembolic complications. Monitor for signs and symptoms of thromboembolic events in patients receiving tamoxifen. Coumarins Both increased and decreased warfarin effect have been reported in patients receiving warfarin and cyclophosphamide. Monitor anticoagulant activity closely in patients receiving warfarin or other coumarins. Cyclosporine Concomitant administration of cyclophosphamide may decrease serum concentrations of cyclosporine. This interaction may result in an increased incidence of graft-versus-host disease. Monitor for signs and symptoms of graft-versus-host disease in patients receiving cyclosporine. Depolarizing muscle relaxants If a patient has been treated with cyclophosphamide within 10 days of general anesthesia, alert the anesthesiologist. Cyclophosphamide causes a marked and persistent inhibition of cholinesterase activity. Prolonged apnea may occur with concurrent depolarizing muscle relaxants (e.g., succinylcholine)."
   ],
   "use_in_specific_populations": [
-   "8 USE IN SPECIFIC POPULATIONS Lactation : Advise not to breastfeed. ( 8.2 ) Renal Impairment : Monitor for toxicity in patients with moderate and severe renal impairment. ( 8.6 , 12.3 ) 8.1 Pregnancy Risk Summary Based on its mechanism of action and published reports of effects in pregnant patients or animals, FRINDOVYX can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1) ] . Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data] . Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data] . Advise pregnant women and females of reproductive potential of the potential risk to a fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects is 2% - 4% and of miscarriage is 15% - 20% of clinically recognized pregnancies. Data Human Data Malformations of the skeleton, palate, limbs and eyes as well as miscarriage have been reported after exposure to cyclophosphamide in the first trimester. Fetal growth retardation and toxic effects manifesting in the newborn, including leukopenia, anemia, pancytopenia, severe bone marrow hypoplasia, and gastroenteritis have been reported after exposure to cyclophosphamide. Animal Data Administration of cyclophosphamide to pregnant mice, rats, rabbits and monkeys during the period of organogenesis at doses at or below the dose in patients based on body surface area resulted in various malformations, which included neural tube defects, limb and digit defects and other skeletal anomalies, cleft lip and palate, and reduced skeletal ossification. 8.2 Lactation Risk Summary Cyclophosphamide is present in breast milk. Neutropenia, thrombocytopenia, low hemoglobin, and diarrhea have been reported in infants breast fed by women treated with cyclophosphamide. Because of the potential for serious adverse reactions in a breastfed child, advise lactating women not to breastfeed during treatment with FRINDOVYX and for 1 week after the last dose. 8.3 Females and Males of Reproductive Potential FRINDOVYX can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1) ] . Pregnancy Testing Verify the pregnancy status of females of reproductive potential prior to the initiation of FRINDOVYX [see Use in Specific Populations (8.1) ] . Contraception Females Advise females of reproductive potential to use effective contraception during treatment with FRINDOVYX and for up to 1 year after completion of therapy. Males Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with FRINDOVYX and for 4 months after completion of therapy [see Nonclinical Toxicology (13.1) ] . Infertility Females Amenorrhea, transient or permanent, associated with decreased estrogen and increased gonadotropin secretion develops in a proportion of women treated with cyclophosphamide. Affected patients generally resume regular menses within a few months after cessation of therapy. The risk of premature menopause with cyclophosphamide increases with age. Oligomenorrhea has also been reported in association with cyclophosphamide treatment. Animal data suggest an increased risk of failed pregnancy and malformations may persist after discontinuation of cyclophosphamide as long as oocytes/follicles exist that were exposed to cyclophosphamide during any of their maturation phases. The exact duration of follicular development in humans is not known, but may be longer than 12 months [see Nonclinical Toxicology (13.1) ] . Males Men treated with cyclophosphamide may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion. 8.4 Pediatric Use The safety and effectiveness of FRINDOVYX have been established in pediatric patients and information on this use is discussed throughout the labeling. The alcohol content of FRINDOVYX should be taken into account when given to pediatric patients [see Warnings and Precautions (5.7) ]. Pre-pubescent females who receive cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses. Ovarian fibrosis with apparently complete loss of germ cells after prolonged administration of cyclophosphamide in late pre-pubescence has been reported. Females who received cyclophosphamide who have retained ovarian function after completing treatment are at increased risk of developing premature menopause. Pre-pubescent males who receive cyclophosphamide develop secondary sexual characteristics normally, but may have oligospermia or azoospermia and increased gonadotropin secretion. Some degree of testicular atrophy may occur. Cyclophosphamide-induced azoospermia is reversible in some patients, though the reversibility may not occur for several years after cessation of therapy. 8.5 Geriatric Use There is insufficient data from clinical studies of cyclophosphamide available for patients 65 years of age and older to determine whether they respond differently than younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac functioning, and of concomitant disease or other drug therapy. 8.6 Renal Impairment In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites which may increase toxicity [see Clinical Pharmacology (12.3) ] . Monitor patients with severe renal impairment (CLcr =10 mL/min to 24 mL/min) for signs and symptoms of toxicity. Cyclophosphamide and its metabolites are dialyzable although there are probably quantitative differences depending upon the dialysis system. In patients requiring dialysis, consider using a consistent interval between cyclophosphamide administration and dialysis. 8.7 Hepatic Impairment Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy [see Clinical Pharmacology (12.3) ] . Monitor patients with severe hepatic impairment (total bilirubin > 3 x ULN and any aspartate aminotransferase (AST)) for reduced effectiveness of cyclophosphamide. The alcohol content of FRINDOVYX should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.7) ]."
+   "8 USE IN SPECIFIC POPULATIONS Lactation: Advise not to breastfeed. ( 8.2 ) Renal Impairment: Monitor for toxicity in patients with moderate and severe renal impairment. ( 8.6 , 12.3 ) 8.1 Pregnancy Risk Summary Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide for Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1) ] . Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data] . Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data] . Advise pregnant women and females of reproductive potential of the potential risk to the fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and miscarriage is 15% to 20% of clinically recognized pregnancies. Data Human Data Malformations of the skeleton, palate, limbs and eyes as well as miscarriage have been reported after exposure to cyclophosphamide in the first trimester. Fetal growth retardation and toxic effects manifesting in the newborn, including leukopenia, anemia, pancytopenia, severe bone marrow hypoplasia, and gastroenteritis have been reported after exposure to cyclophosphamide. Animal Data Administration of cyclophosphamide to pregnant mice, rats, rabbits and monkeys during the period of organogenesis at doses at or below the dose in patients based on body surface area resulted in various malformations, which included neural tube defects, limb and digit defects and other skeletal anomalies, cleft lip and palate, and reduced skeletal ossification. 8.2 Lactation Risk summary Cyclophosphamide is present in breast milk. Neutropenia, thrombocytopenia, low hemoglobin, and diarrhea have been reported in infants breast fed by women treated with cyclophosphamide. Because of the potential for serious adverse reactions in a breastfed child, advise lactating women not to breastfeed during treatment with Cyclophosphamide for Injection and for 1 week after the last dose. 8.3 Females and Males of Reproductive Potential Cyclophosphamide for Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1) ] . Pregnancy Testing Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide for Injection. Contraception Females Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide for Injection and for up to 1 year after completion of therapy. Males Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide for Injection and for 4 months after completion of therapy [see Nonclinical Toxicology (13.1) ] . Infertility Females Amenorrhea, transient or permanent, associated with decreased estrogen and increased gonadotropin secretion develops in a proportion of women treated with cyclophosphamide. Affected patients generally resume regular menses within a few months after cessation of therapy. The risk of premature menopause with cyclophosphamide increases with age. Oligomenorrhea has also been reported in association with cyclophosphamide treatment. Animal data suggest an increased risk of failed pregnancy and malformations may persist after discontinuation of cyclophosphamide as long as oocytes/follicles exist that were exposed to cyclophosphamide during any of their maturation phases. The exact duration of follicular development in humans is not known, but may be longer than 12 months [see Nonclinical Toxicology (13.1) ] . Males Men treated with cyclophosphamide may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion. 8.4 Pediatric Use The safety and effectiveness of cyclophosphamide have been established in pediatric patients and information on this use is discussed throughout the labeling. Pre-pubescent females who receive cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses. Ovarian fibrosis with apparently complete loss of germ cells after prolonged administration of cyclophosphamide in late pre-pubescence has been reported. Females who received cyclophosphamide who have retained ovarian function after completing treatment are at increased risk of developing premature menopause. Pre-pubescent males who receive cyclophosphamide develop secondary sexual characteristics normally, but may have oligospermia or azoospermia and increased gonadotropin secretion. Some degree of testicular atrophy may occur. Cyclophosphamide-induced azoospermia is reversible in some patients, though the reversibility may not occur for several years after cessation of therapy. 8.5 Geriatric Use There is insufficient data from clinical studies of cyclophosphamide available for patients 65 years of age and older to determine whether they respond differently than younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac functioning, and of concomitant disease or other drug therapy. 8.6 Renal Impairment In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites, which may increase toxicity [see Clinical Pharmacology (12.3) ] . Monitor patients with severe renal impairment (creatinine clearance (CLcr)=10 mL/min to 24 mL/min) for signs and symptoms of toxicity. Cyclophosphamide and its metabolites are dialyzable although there are probably quantitative differences depending upon the dialysis system. In patients requiring dialysis, consider using a consistent interval between cyclophosphamide administration and dialysis. 8.7 Hepatic Impairment Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy [see Clinical Pharmacology (12.3) ] . Monitor patients with severe hepatic impairment (total bilirubin > 3 x ULN and any aspartate aminotransferase (AST)) for reduced effectiveness of cyclophosphamide."
   ],
   "pregnancy": [
-   "8.1 Pregnancy Risk Summary Based on its mechanism of action and published reports of effects in pregnant patients or animals, FRINDOVYX can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1) ] . Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data] . Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data] . Advise pregnant women and females of reproductive potential of the potential risk to a fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects is 2% - 4% and of miscarriage is 15% - 20% of clinically recognized pregnancies. Data Human Data Malformations of the skeleton, palate, limbs and eyes as well as miscarriage have been reported after exposure to cyclophosphamide in the first trimester. Fetal growth retardation and toxic effects manifesting in the newborn, including leukopenia, anemia, pancytopenia, severe bone marrow hypoplasia, and gastroenteritis have been reported after exposure to cyclophosphamide. Animal Data Administration of cyclophosphamide to pregnant mice, rats, rabbits and monkeys during the period of organogenesis at doses at or below the dose in patients based on body surface area resulted in various malformations, which included neural tube defects, limb and digit defects and other skeletal anomalies, cleft lip and palate, and reduced skeletal ossification."
+   "8.1 Pregnancy Risk Summary Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide for Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1) ] . Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data] . Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data] . Advise pregnant women and females of reproductive potential of the potential risk to the fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and miscarriage is 15% to 20% of clinically recognized pregnancies. Data Human Data Malformations of the skeleton, palate, limbs and eyes as well as miscarriage have been reported after exposure to cyclophosphamide in the first trimester. Fetal growth retardation and toxic effects manifesting in the newborn, including leukopenia, anemia, pancytopenia, severe bone marrow hypoplasia, and gastroenteritis have been reported after exposure to cyclophosphamide. Animal Data Administration of cyclophosphamide to pregnant mice, rats, rabbits and monkeys during the period of organogenesis at doses at or below the dose in patients based on body surface area resulted in various malformations, which included neural tube defects, limb and digit defects and other skeletal anomalies, cleft lip and palate, and reduced skeletal ossification."
   ],
   "pediatric_use": [
-   "8.4 Pediatric Use The safety and effectiveness of FRINDOVYX have been established in pediatric patients and information on this use is discussed throughout the labeling. The alcohol content of FRINDOVYX should be taken into account when given to pediatric patients [see Warnings and Precautions (5.7) ]. Pre-pubescent females who receive cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses. Ovarian fibrosis with apparently complete loss of germ cells after prolonged administration of cyclophosphamide in late pre-pubescence has been reported. Females who received cyclophosphamide who have retained ovarian function after completing treatment are at increased risk of developing premature menopause. Pre-pubescent males who receive cyclophosphamide develop secondary sexual characteristics normally, but may have oligospermia or azoospermia and increased gonadotropin secretion. Some degree of testicular atrophy may occur. Cyclophosphamide-induced azoospermia is reversible in some patients, though the reversibility may not occur for several years after cessation of therapy."
+   "8.4 Pediatric Use The safety and effectiveness of cyclophosphamide have been established in pediatric patients and information on this use is discussed throughout the labeling. Pre-pubescent females who receive cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses. Ovarian fibrosis with apparently complete loss of germ cells after prolonged administration of cyclophosphamide in late pre-pubescence has been reported. Females who received cyclophosphamide who have retained ovarian function after completing treatment are at increased risk of developing premature menopause. Pre-pubescent males who receive cyclophosphamide develop secondary sexual characteristics normally, but may have oligospermia or azoospermia and increased gonadotropin secretion. Some degree of testicular atrophy may occur. Cyclophosphamide-induced azoospermia is reversible in some patients, though the reversibility may not occur for several years after cessation of therapy."
   ],
   "geriatric_use": [
    "8.5 Geriatric Use There is insufficient data from clinical studies of cyclophosphamide available for patients 65 years of age and older to determine whether they respond differently than younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac functioning, and of concomitant disease or other drug therapy."
   ],
   "overdosage": [
-   "10 OVERDOSAGE No specific antidote for cyclophosphamide is known. Overdosage should be managed with supportive measures, including appropriate treatment for any concurrent infection, myelosuppression, or cardiac toxicity should it occur. Serious consequences of overdosage include manifestations of dose dependent toxicities such as myelosuppression, urotoxicity, cardiotoxicity (including cardiac failure), veno-occlusive hepatic disease, and stomatitis [see Warnings and Precautions (5.1, 5.2 , 5.3 , and 5.6) ] . Patients who received an overdose should be closely monitored for the development of toxicities, and hematologic toxicity in particular. Cyclophosphamide and its metabolites are dialyzable. Therefore, rapid hemodialysis is indicated when treating any suicidal or accidental overdose or intoxication [see Clinical Pharmacology (12.3) ] . Cystitis prophylaxis with mesna may be helpful in preventing or limiting urotoxic effects with cyclophosphamide overdose."
+   "10 OVERDOSAGE No specific antidote for cyclophosphamide is known. Overdosage should be managed with supportive measures, including appropriate treatment for any concurrent infection, myelosuppression, or cardiac toxicity should it occur. Serious consequences of overdosage include manifestations of dose dependent toxicities such as myelosuppression, urotoxicity, cardiotoxicity (including cardiac failure), veno-occlusive hepatic disease, and stomatitis [see Warnings and Precautions (5.1 , 5.2 , 5.3 , and 5.6) ] . Patients who received an overdose should be closely monitored for the development of toxicities, and hematologic toxicity in particular. Cyclophosphamide and its metabolites are dialyzable. Therefore, rapid hemodialysis is indicated when treating any suicidal or accidental overdose or intoxication [see Clinical Pharmacology (12.3) ] . Cystitis prophylaxis with mesna may be helpful in preventing or limiting urotoxic effects with cyclophosphamide overdose."
   ],
   "description": [
-   "11 DESCRIPTION Cyclophosphamide is an alkylating drug. It is an antineoplastic drug chemically related to the nitrogen mustards. The chemical name for cyclophosphamide is (±)-2-[Bis(2-chloroethyl)amino]tetrahydro-2H-1,3,2-oxazaphosphorine 2-oxide monohydrate, and has the following structural formula: Cyclophosphamide is a white crystalline powder with the molecular formula C 7 H 15 Cl 2 N 2 O 2 P•H 2 O and a molecular weight of 279.1. Cyclophosphamide is soluble in water, saline, or ethanol. The pK a of cyclophosphamide is 5.7. FRINDOVYX is a clear, colorless to yellow sterile solution available as 500 mg/mL, 1 g/2 mL, and 2 g/4 mL in multiple dose vial for dilution prior to intravenous administration. 500 mg/mL vial contains 534.5 mg cyclophosphamide monohydrate, equivalent to 500 mg cyclophosphamide and 500 mg dehydrated alcohol (equivalent to 63% v/v). 1 g/2 mL vial contains 1069.0 mg cyclophosphamide monohydrate equivalent to 1 g cyclophosphamide and 1000 mg dehydrated alcohol (equivalent to 63% v/v). 2 g/4 mL vial contains 2138.0 mg cyclophosphamide monohydrate, equivalent to 2 g cyclophosphamide and 2000 mg dehydrated alcohol (equivalent to 63% v/v). Image"
+   "11 DESCRIPTION Cyclophosphamide is a synthetic antineoplastic drug chemically related to the nitrogen mustards. The chemical name for cyclophosphamide is 2-[bis(2-chloroethyl)amino]tetrahydro-2H-1,3,2-oxazaphosphorine 2-oxide monohydrate, and has the following structural formula: Cyclophosphamide is a white crystalline powder with the molecular formula C 7 H 15 Cl 2 N 2 O 2 P•H 2 O and a molecular weight of 279.1. Cyclophosphamide is soluble in water, saline, or ethanol. Cyclophosphamide for Injection, USP is a sterile white powder available as 500 mg, 1 g, and 2 g strength single-dose vials. 500 mg vial contains 534.5 mg cyclophosphamide monohydrate equivalent to 500 mg cyclophosphamide 1 g vial contains 1069 mg cyclophosphamide monohydrate equivalent to 1 g cyclophosphamide 2 g vial contains 2138 mg cyclophosphamide monohydrate equivalent to 2 g cyclophosphamide Cyclophosphamide Structural Formula"
   ],
   "clinical_pharmacology": [
-   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells. 12.2 Pharmacodynamics Cyclophosphamide exposure-response relationships and the time course of pharmacodynamic response have not been fully characterized. 12.3 Pharmacokinetics Cyclophosphamide is a prodrug. Cyclophosphamide pharmacokinetics are linear over the approved recommended dose range. Distribution The volume of distribution of cyclophosphamide is 30 to 50 L. Cyclophosphamide is approximately 20% protein bound, with no dose dependent changes. Some metabolites are greater than 60% protein bound. Elimination The elimination half-life (t½) of cyclophosphamide ranges from 3 to 12 hours, and the clearance (CL) ranges from 4 to 5.6 L/h. When cyclophosphamide was administered at 4 g/m 2 (approximately 2 times the approved recommended dosage) over a 90-minutes infusion, concentration-time data demonstrate saturable elimination in parallel with first-order renal elimination. Metabolism Cyclophosphamide is metabolized by cytochrome P450s including CYP2A6, 2B6, 3A, 2C9, and 2C19. Cyclophosphamide is activated to form 4-hydroxycyclophosphamide, which is in equilibrium with its ring-open tautomer aldophosphamide. 4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4-ketocyclophosphamide and carboxyphosphamide, respectively. Aldophosphamide can undergo β-elimination to form active metabolites phosphoramide mustard and acrolein. This spontaneous conversion can be catalyzed by albumin and other proteins. At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide. Cyclophosphamide appears to induce its own metabolism. This auto-induction results in an increase in CL, increased formation of active 4-hydroxycyclophosphamide and shortened t½ following multiple doses administered at 12-to 24-hour interval. Excretion Cyclophosphamide and its metabolites are eliminated by hepatic and renal pathways. Cyclophosphamide is primarily excreted as metabolites. Ten to 20% is excreted unchanged in the urine. A small percentage of cyclophosphamide may be eliminated unchanged in bile. Specific Populations Renal Impairment Following one-hour intravenous infusion, cyclophosphamide AUC increased by 38% in patients with CLcr of 25 to 50 mL/min, by 77% in patients with CLcr of 10 to 24 mL/min and by 23% in the hemodialysis group (CLcr of < 10 mL/min) compared to the control group (CLcr≥ 80 mL/min). Cyclophosphamide is dialyzable. Dialysis clearance averaged 104 mL/min, which is similar to the metabolic clearance of 95 mL/min for cyclophosphamide. A mean of 37% of the administered dose of cyclophosphamide was removed during a 4-hour hemodialysis period. The t½ was 3.3 hours in patients during hemodialysis, a 49% reduction compared to t½ of 6.5 hours in uremic patients. Hepatic Impairment Cyclophosphamide CL is decreased by 40% (45 ± 8.6 L/kg) and t½ is prolonged by 64% (12.5 ± 1 hours) in patients with hepatic impairment with a mean bilirubin 3.5 mg/dL and mean AST 90 IU/L compared to patients with normal hepatic function (mean bilirubin 0.5 mg/dL, mean AST 10 IU/L)."
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells. 12.2 Pharmacodynamics Cyclophosphamide exposure-response relationships and the time course of pharmacodynamic response have not been fully characterized. 12.3 Pharmacokinetics Cyclophosphamide is a prodrug. Cyclophosphamide pharmacokinetics are linear over the approved recommended dose range. Distribution The volume of distribution of cyclophosphamide is 30 to 50 L. Cyclophosphamide is approximately 20% protein bound, with no dose dependent changes. Some metabolites are greater than 60% protein bound. Elimination The elimination half-life (t½) of cyclophosphamide ranges from 3 to 12 hours, and clearance (CL) ranges from 4 to 5.6 L/h. When cyclophosphamide was administered at 4 g/m 2 (approximately 2 times the approved recommended dosage) over a 90-minute infusion, concentration-time data demonstrate saturable elimination in parallel with first-order renal elimination. Metabolism Cyclophosphamide is metabolized by cytochrome P450s including CYP2A6, 2B6, 3A, 2C9, and 2C19. Cyclophosphamide is activated to form 4-hydroxycyclophosphamide, which is in equilibrium with its ring-open tautomer aldophosphamide. 4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4-ketocyclophosphamide and carboxyphosphamide, respectively. Aldophosphamide can undergo β-elimination to form active metabolites phosphoramide mustard and acrolein. This spontaneous conversion can be catalyzed by albumin and other proteins. At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide. Cyclophosphamide appears to induce its own metabolism. This auto-induction results in an increase in CL, increased formation of active 4-hydroxycyclophosphamide and shortened t 1/2 following multiple doses administered at 12- to 24-hour interval. Excretion Cyclophosphamide and its metabolites are eliminated by hepatic and renal pathways. Cyclophosphamide is primarily excreted as metabolites. Ten to 20% is excreted unchanged in the urine. A small percentage of cyclophosphamide may be eliminated unchanged in bile. Specific Populations Renal Impairment Following one-hour intravenous infusion, cyclophosphamide AUC increased by 38% in patients with CLcr of 25 to 50 mL/min, by 77% in patients with CLcr of 10 to 24 mL/min and by 23% in the hemodialysis group (CLcr of < 10 mL/min) compared to the control group (CLcr≥ 80 mL/min). Cyclophosphamide is dialyzable. Dialysis clearance averaged 104 mL/min, which is similar to the metabolic clearance of 95 mL/min for cyclophosphamide. A mean of 37% of the administered dose of cyclophosphamide was removed during a 4-hour hemodialysis period. The t½ was 3.3 hours in patients during hemodialysis, a 49% reduction compared to t½ of 6.5 hours in uremic patients. Hepatic Impairment Cyclophosphamide CL is decreased by 40% (45 ± 8.6 L/kg) and t½ is prolonged by 64% (12.5 ± 1 hours) in patients with hepatic impairment with a mean bilirubin 3.5 mg/dL and mean AST 90 IU/L compared to patients with normal hepatic function (mean bilirubin 0.5 mg/dL, mean AST 10 IU/L)."
   ],
   "mechanism_of_action": [
    "12.1 Mechanism of Action The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells."
@@ -723,7 +116,7 @@
    "12.2 Pharmacodynamics Cyclophosphamide exposure-response relationships and the time course of pharmacodynamic response have not been fully characterized."
   ],
   "pharmacokinetics": [
-   "12.3 Pharmacokinetics Cyclophosphamide is a prodrug. Cyclophosphamide pharmacokinetics are linear over the approved recommended dose range. Distribution The volume of distribution of cyclophosphamide is 30 to 50 L. Cyclophosphamide is approximately 20% protein bound, with no dose dependent changes. Some metabolites are greater than 60% protein bound. Elimination The elimination half-life (t½) of cyclophosphamide ranges from 3 to 12 hours, and the clearance (CL) ranges from 4 to 5.6 L/h. When cyclophosphamide was administered at 4 g/m 2 (approximately 2 times the approved recommended dosage) over a 90-minutes infusion, concentration-time data demonstrate saturable elimination in parallel with first-order renal elimination. Metabolism Cyclophosphamide is metabolized by cytochrome P450s including CYP2A6, 2B6, 3A, 2C9, and 2C19. Cyclophosphamide is activated to form 4-hydroxycyclophosphamide, which is in equilibrium with its ring-open tautomer aldophosphamide. 4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4-ketocyclophosphamide and carboxyphosphamide, respectively. Aldophosphamide can undergo β-elimination to form active metabolites phosphoramide mustard and acrolein. This spontaneous conversion can be catalyzed by albumin and other proteins. At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide. Cyclophosphamide appears to induce its own metabolism. This auto-induction results in an increase in CL, increased formation of active 4-hydroxycyclophosphamide and shortened t½ following multiple doses administered at 12-to 24-hour interval. Excretion Cyclophosphamide and its metabolites are eliminated by hepatic and renal pathways. Cyclophosphamide is primarily excreted as metabolites. Ten to 20% is excreted unchanged in the urine. A small percentage of cyclophosphamide may be eliminated unchanged in bile. Specific Populations Renal Impairment Following one-hour intravenous infusion, cyclophosphamide AUC increased by 38% in patients with CLcr of 25 to 50 mL/min, by 77% in patients with CLcr of 10 to 24 mL/min and by 23% in the hemodialysis group (CLcr of < 10 mL/min) compared to the control group (CLcr≥ 80 mL/min). Cyclophosphamide is dialyzable. Dialysis clearance averaged 104 mL/min, which is similar to the metabolic clearance of 95 mL/min for cyclophosphamide. A mean of 37% of the administered dose of cyclophosphamide was removed during a 4-hour hemodialysis period. The t½ was 3.3 hours in patients during hemodialysis, a 49% reduction compared to t½ of 6.5 hours in uremic patients. Hepatic Impairment Cyclophosphamide CL is decreased by 40% (45 ± 8.6 L/kg) and t½ is prolonged by 64% (12.5 ± 1 hours) in patients with hepatic impairment with a mean bilirubin 3.5 mg/dL and mean AST 90 IU/L compared to patients with normal hepatic function (mean bilirubin 0.5 mg/dL, mean AST 10 IU/L)."
+   "12.3 Pharmacokinetics Cyclophosphamide is a prodrug. Cyclophosphamide pharmacokinetics are linear over the approved recommended dose range. Distribution The volume of distribution of cyclophosphamide is 30 to 50 L. Cyclophosphamide is approximately 20% protein bound, with no dose dependent changes. Some metabolites are greater than 60% protein bound. Elimination The elimination half-life (t½) of cyclophosphamide ranges from 3 to 12 hours, and clearance (CL) ranges from 4 to 5.6 L/h. When cyclophosphamide was administered at 4 g/m 2 (approximately 2 times the approved recommended dosage) over a 90-minute infusion, concentration-time data demonstrate saturable elimination in parallel with first-order renal elimination. Metabolism Cyclophosphamide is metabolized by cytochrome P450s including CYP2A6, 2B6, 3A, 2C9, and 2C19. Cyclophosphamide is activated to form 4-hydroxycyclophosphamide, which is in equilibrium with its ring-open tautomer aldophosphamide. 4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4-ketocyclophosphamide and carboxyphosphamide, respectively. Aldophosphamide can undergo β-elimination to form active metabolites phosphoramide mustard and acrolein. This spontaneous conversion can be catalyzed by albumin and other proteins. At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide. Cyclophosphamide appears to induce its own metabolism. This auto-induction results in an increase in CL, increased formation of active 4-hydroxycyclophosphamide and shortened t 1/2 following multiple doses administered at 12- to 24-hour interval. Excretion Cyclophosphamide and its metabolites are eliminated by hepatic and renal pathways. Cyclophosphamide is primarily excreted as metabolites. Ten to 20% is excreted unchanged in the urine. A small percentage of cyclophosphamide may be eliminated unchanged in bile. Specific Populations Renal Impairment Following one-hour intravenous infusion, cyclophosphamide AUC increased by 38% in patients with CLcr of 25 to 50 mL/min, by 77% in patients with CLcr of 10 to 24 mL/min and by 23% in the hemodialysis group (CLcr of < 10 mL/min) compared to the control group (CLcr≥ 80 mL/min). Cyclophosphamide is dialyzable. Dialysis clearance averaged 104 mL/min, which is similar to the metabolic clearance of 95 mL/min for cyclophosphamide. A mean of 37% of the administered dose of cyclophosphamide was removed during a 4-hour hemodialysis period. The t½ was 3.3 hours in patients during hemodialysis, a 49% reduction compared to t½ of 6.5 hours in uremic patients. Hepatic Impairment Cyclophosphamide CL is decreased by 40% (45 ± 8.6 L/kg) and t½ is prolonged by 64% (12.5 ± 1 hours) in patients with hepatic impairment with a mean bilirubin 3.5 mg/dL and mean AST 90 IU/L compared to patients with normal hepatic function (mean bilirubin 0.5 mg/dL, mean AST 10 IU/L)."
   ],
   "nonclinical_toxicology": [
    "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Cyclophosphamide administered by different routes, including intravenous, subcutaneous or intraperitoneal injection, or in drinking water, caused tumors in both mice and rats. In addition to leukemia and lymphoma, benign and malignant tumors were found at various tissue sites, including urinary bladder, mammary gland, lung, liver, and injection site [see Warnings and Precautions (5.5) ] . Cyclophosphamide was mutagenic and clastogenic in multiple in vitro and in vivo genetic toxicology studies. Cyclophosphamide is genotoxic in male and female germ cells. Animal data indicate that exposure of oocytes to cyclophosphamide during follicular development may result in a decreased rate of implantations and viable pregnancies, and in an increased risk of malformations. Male mice and rats treated with cyclophosphamide show alterations in male reproductive organs (e.g., decreased weights, atrophy, changes in spermatogenesis), and decreases in reproductive potential (e.g., decreased implantations and increased post-implantation loss) and increases in fetal malformations when mated with untreated females [see Use in Specific Populations (8.3) ] ."
@@ -732,23 +125,17 @@
    "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Cyclophosphamide administered by different routes, including intravenous, subcutaneous or intraperitoneal injection, or in drinking water, caused tumors in both mice and rats. In addition to leukemia and lymphoma, benign and malignant tumors were found at various tissue sites, including urinary bladder, mammary gland, lung, liver, and injection site [see Warnings and Precautions (5.5) ] . Cyclophosphamide was mutagenic and clastogenic in multiple in vitro and in vivo genetic toxicology studies. Cyclophosphamide is genotoxic in male and female germ cells. Animal data indicate that exposure of oocytes to cyclophosphamide during follicular development may result in a decreased rate of implantations and viable pregnancies, and in an increased risk of malformations. Male mice and rats treated with cyclophosphamide show alterations in male reproductive organs (e.g., decreased weights, atrophy, changes in spermatogenesis), and decreases in reproductive potential (e.g., decreased implantations and increased post-implantation loss) and increases in fetal malformations when mated with untreated females [see Use in Specific Populations (8.3) ] ."
   ],
   "references": [
-   "15 REFERENCES OSHA Hazardous Drugs. OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.html."
+   "15 REFERENCES OSHA Hazardous Drugs. OSHA . http://www.osha.gov/SLTC/hazardousdrugs/index.html."
   ],
   "how_supplied": [
-   "16 HOW SUPPLIED/STORAGE AND HANDLING FRINDOVYX TM is a ready-to-dilute clear, colorless to yellow sterile solution containing cyclophosphamide and is supplied in multiple-dose vial. FRINDOVYX TM Injection NDC Number Strength Vial Presentation 83831-119-01 500 mg/mL Multiple-dose vial, carton of 1 83831-120-02 1 g/2 mL Multiple-dose vial, carton of 1 83831-121-04 2 g/4 mL Multiple-dose vial, carton of 1 Store vials refrigerated at 2°C to 8°C (36°F to 46°F). Store diluted solutions of cyclophosphamide according to Table 1 [see Dosage and Administration (2.3) ]. Cyclophosphamide is a hazardous product. Follow special handling and disposal procedures. 1"
-  ],
-  "how_supplied_table": [
-   "<table ID=\"ID95\" width=\"606\" styleCode=\"Noautorules\"><caption/><col width=\"202\"/><col width=\"158\"/><col width=\"246\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> NDC Number</content> </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Strength</content> </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Vial Presentation</content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 83831-119-01 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 500 mg/mL </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Multiple-dose vial, carton of 1 </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 83831-120-02 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 1 g/2 mL </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Multiple-dose vial, carton of 1 </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> 83831-121-04 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 2 g/4 mL </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Multiple-dose vial, carton of 1 </td></tr></tbody></table>"
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Cyclophosphamide for Injection, USP is a sterile white powder containing cyclophosphamide and is supplied in single-dose vials. Cyclophosphamide for Injection, USP NDC 68001-442-26 500 mg/vial, carton of 1 NDC 68001-443-27 1 g/vial, carton of 1 NDC 68001-444-32 2 g/vial, carton of 1 Store vials at or below 25°C (77°F). During transport or storage of cyclophosphamide vials, temperature influences can lead to melting of the active ingredient, cyclophosphamide [see Dosage and Administration (2.4) ]. Cyclophosphamide is a hazardous product. Follow special handling and disposal procedures. 1"
   ],
   "information_for_patients": [
-   "17 PATIENT COUNSELING INFORMATION Advise the patient of the following: Myelosuppression, Immunosuppression, and Infections ● Inform patients of the possibility of myelosuppression, immunosuppression, and infections (sometimes fatal). Explain the need for routine blood cell counts. Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever [see Warnings and Precautions (5.1) ]. Urinary Tract and Renal Toxicity ● Advise the patient to report urinary symptoms (patients should report if their urine has turned a pink or red color) and the need for increasing fluid intake and frequent voiding [see Warnings and Precautions (5.2) ]. Cardiotoxicity ● Inform patients of the possibility of cardiotoxicity (which may be fatal). ● Advise patients to contact a health care professional immediately for any of the following: new onset or worsening shortness of breath, cough, swelling of the ankles/legs, palpitations, weight gain of more than 5 pounds in 24 hours, dizziness or loss of consciousness [see Warnings and Precautions (5.3) ] . Pulmonary Toxicity ● Warn patients of the possibility of developing non-infectious pneumonitis. Advise patients to report promptly any new or worsening respiratory symptoms [see Warnings and Precautions (5.4) ] . Secondary Malignancies ● Inform patients that there is an increased risk of secondary malignancies with FRINDOVYX [see Warnings and Precautions (5.5) ]. Alcohol Content ● Explain to patients the possible effects of the alcohol content in FRINDOVYX, including possible effects on the central nervous system. Patients in whom alcohol should be avoided or minimized should consider the alcohol content of FRINDOVYX. Alcohol could impair their ability to drive or use machines immediately after infusion [see Warnings and Precautions (5.7) ]. Embryo-Fetal Toxicity ● Inform female patients of the risk to a fetus and potential loss of pregnancy. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1) ] . ● Advise female patients of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3) ] . ● Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3) ] . Lactation ● Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of FRINDOVYX [see Use in Specific Populations (8.2) ]. Infertility ● Advise males and females of reproductive potential that FRINDOVYX may impair fertility [see Warnings and Precautions (5.9) and Use in Specific Populations (8.3, 8.4) ]. Common Adverse Reactions ● Explain to patients that side effects such as nausea, vomiting, stomatitis, impaired wound healing, amenorrhea, premature menopause, sterility and hair loss may be associated with cyclophosphamide administration. Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see Adverse Reactions (6.1) ] . Hydration and Important Administration Instructions ● Advise the patients that during or immediately after the administration, adequate amounts of fluid are required to reduce the risk of urinary tract toxicity [see Dosage and Administration (2.1) ]. Manufactured for: AVYXA Pharma, LLC New Jersey 07054, USA Made in India Image"
+   "17 PATIENT COUNSELING INFORMATION Advise the patient of the following: Myelosuppression, Immunosuppression and Infections Inform patients of the possibility of myelosuppression, immunosuppression, and infections (sometimes fatal). Explain the need for routine blood cell counts. Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever [see Warnings and Precautions (5.1) ]. Urinary Tract and Renal Toxicity Advise the patient to report urinary symptoms (patients should report if their urine has turned a pink or red color) and the need for increasing fluid intake and frequent voiding [see Warnings and Precautions (5.2) ]. Cardiotoxicity Inform patients of the possibility of cardiotoxicity (which may be fatal). Advise patients to contact a health care professional immediately for any of the following: new onset or worsening shortness of breath, cough, swelling of the ankles/legs, palpitations, weight gain of more than 5 pounds in 24 hours, dizziness or loss of consciousness [see Warnings and Precautions (5.3) ] . Pulmonary Toxicity Warn patients of the possibility of developing non-infectious pneumonitis. Advise patients to report promptly any new or worsening respiratory symptoms [see Warnings and Precautions (5.4) ] . Secondary Malignancies Inform patients that there is an increased risk of secondary malignancies with Cyclophosphamide for Injection [see Warnings and Precautions (5.5) ] . Embryo-Fetal Toxicity Inform female patients of the risk to a fetus and potential loss of the pregnancy. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1) ] . Advise female patients of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1 , 8.3) ] . Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1 , 8.3) ] . Lactation Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of Cyclophosphamide for Injection [see Use in Specific Populations (8.2) ]. Infertility Advise males and females of reproductive potential that Cyclophosphamide for Injection may impair fertility [see Warnings and Precautions (5.8) and Use in Specific Populations (8.3 , 8.4 )] . Common Adverse Reactions Explain to patients that side effects such as nausea, vomiting, stomatitis, impaired wound healing, amenorrhea, premature menopause, sterility and hair loss may be associated with cyclophosphamide administration. Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see Adverse Reactions (6.1) ] . Hydration and Important Administration Instructions Advise the patients that during or immediately after the administration, adequate amounts of fluid are required to reduce the risk of urinary tract toxicity [see Dosage and Administration (2.1) ] . Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015 USA Product of Germany For BluePoint Laboratories Baxter is a registered trademark of Baxter International Inc. Rev: 11/2025"
   ],
-  "information_for_patients_table": [
-   "<table ID=\"ID126\" width=\"708\" styleCode=\"Noautorules\"><caption/><col width=\"223\"/><col width=\"485\"/><tbody><tr><td valign=\"top\" align=\"left\"><content styleCode=\"bold\"> Manufactured for:</content>  AVYXA Pharma, LLC  New Jersey 07054, USA  Made in India </td><td valign=\"top\" align=\"right\"><renderMultiMedia referencedObject=\"IMGID1261\"/> </td></tr></tbody></table>"
-  ],
-  "set_id": "5ad8ea65-4c98-487a-9c8d-df778765ec5e",
-  "id": "e3e444b2-9344-4cc2-b35a-370073a747d4",
-  "effective_time": "20260826",
-  "version": "12"
+  "set_id": "d7e97b99-83db-42d0-8521-b87fe6467a67",
+  "id": "4a9e24ce-e6fc-6f07-e063-6394a90ab4bd",
+  "effective_time": "20260212",
+  "version": "4"
  }
 }
