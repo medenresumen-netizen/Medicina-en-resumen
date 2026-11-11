@@ -1,0 +1,723 @@
+{
+ "id_es": "nitroglicerina-iv",
+ "generic_en": "nitroglycerin",
+ "search": "openfda.generic_name.exact:\"NITROGLYCERIN\"",
+ "pref": "nitroglycerin|INTRAVENOUS|",
+ "downloaded": "2026-11-11T14:36Z",
+ "chosen": {
+  "set_id": "3f2c9570-a544-1982-e063-6294a90a3067",
+  "id": "463f0065-75fa-2d44-e063-6394a90a618b",
+  "effective_time": "20251218",
+  "version": "2",
+  "brand_name": [
+   "Nitroglycerin In Dextrose"
+  ],
+  "generic_name": [
+   "NITROGLYCERIN"
+  ],
+  "manufacturer_name": [
+   "ProPharma Distribution"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA019970"
+  ],
+  "n_sections": 25
+ },
+ "candidates": [
+  {
+   "set_id": "578d8159-5ec6-457f-b4a8-9add624d43a8",
+   "id": "b4155551-30b6-423f-aef7-8b0241ba5fdf",
+   "effective_time": "20261105",
+   "version": "7",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072034"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "e4642ae0-6a42-4a49-b6d9-d292a0294c77",
+   "id": "5d99ab30-1b61-40ab-93ed-36fecf910f74",
+   "effective_time": "20261023",
+   "version": "1",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217879"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5dbd638f-35b6-366c-e063-6294a90a5c5e",
+   "id": "5dbd636c-3b77-364b-e063-6294a90ad624",
+   "effective_time": "20261013",
+   "version": "1",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "698a46a6-29b5-4763-9442-ec9ad5eea86b",
+   "id": "5c9cfb7f-d01d-460d-e063-6394a90a3d12",
+   "effective_time": "20260929",
+   "version": "1",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018705"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "5b150cd2-fac8-86ce-e063-6294a90a67b9",
+   "id": "5b150d4b-32f9-b148-e063-6394a90a77e1",
+   "effective_time": "20260909",
+   "version": "1",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "603aa9ed-54c4-4a35-ade4-690fa44850e4",
+   "id": "5af7594b-3ed9-ce68-e063-6394a90a006e",
+   "effective_time": "20260908",
+   "version": "16",
+   "brand_name": [
+    "Rectiv"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Allergan, Inc."
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021359"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "89da40c1-bab1-422e-b326-8ebcbdbc81f3",
+   "id": "5a94e6e0-a018-eb10-e063-6394a90a92f7",
+   "effective_time": "20260903",
+   "version": "5",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "b8af0974-33ea-4dd5-9ff7-3b61272aeb25",
+   "id": "5a6cf23f-bf2e-6a57-e063-6394a90a0976",
+   "effective_time": "20260901",
+   "version": "3",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072034"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "9a539019-5f43-1448-e053-2a95a90a3bca",
+   "id": "59e2e9fd-f2e7-7bdd-e063-6394a90adc7c",
+   "effective_time": "20260825",
+   "version": "5",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "594b939f-d399-835e-e063-6294a90a4422",
+   "id": "594b93af-c27b-0784-e063-6394a90a1280",
+   "effective_time": "20260818",
+   "version": "1",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "486f53ce-e3c6-48b0-a6ef-9d08cde387e3",
+   "id": "58b1156f-0cec-8234-e063-6394a90ac1b5",
+   "effective_time": "20260810",
+   "version": "6",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "562d2e03-dfed-41ff-8e7f-ec4169141983",
+   "id": "7ba6af84-c1a4-4e95-b15f-17a52a486f47",
+   "effective_time": "20260706",
+   "version": "2",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Padagis Israel Pharmaceuticals Ltd"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214565"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "c17c997b-0e90-4105-888b-2de22d2bf697",
+   "id": "a46f7681-b936-40d3-8c36-e9bb5d655d73",
+   "effective_time": "20260528",
+   "version": "5",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Encube Ethicals, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218235"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "3c11c1c2-8e62-4f63-8293-2f8b8d845f7e",
+   "id": "51ed5c69-89ac-27ed-e063-6394a90acca1",
+   "effective_time": "20260518",
+   "version": "8",
+   "brand_name": [
+    "NITRO-TIME"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "TIME CAP LABORATORIES, INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 23
+  },
+  {
+   "set_id": "7cf08521-aaf6-4129-9f8e-077d6282fbc6",
+   "id": "b86977dc-f3ac-4352-b74b-32334349a520",
+   "effective_time": "20260518",
+   "version": "100",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218756"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "84739085-81df-4a43-8456-c9edfbf971e9",
+   "id": "50321bf1-3be4-6a2b-e063-6394a90aa218",
+   "effective_time": "20260424",
+   "version": "2",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211604"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "4e83a438-1ed6-0a86-e063-6294a90adc8c",
+   "id": "4e83a42f-ce44-aa49-e063-6294a90a3d16",
+   "effective_time": "20260402",
+   "version": "1",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209779"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "4b4667e9-3b5e-4dc0-e063-6394a90ac1f5",
+   "id": "4d7b5803-e3c8-8937-e063-6394a90a8235",
+   "effective_time": "20260320",
+   "version": "3",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209779"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "df52ab34-e44c-46f3-8c44-2c1bcb93f28e",
+   "id": "4b32b515-a550-088f-e063-6394a90a3ed0",
+   "effective_time": "20260219",
+   "version": "5",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208191"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "532e30c4-cbda-4450-b0a0-e08601c202fb",
+   "id": "93bd2b9d-b78f-42b1-abc5-69f8eeb50741",
+   "effective_time": "20260217",
+   "version": "4",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "e464e9bb-48e8-4b9f-9fff-e220cfbac0c5",
+   "id": "0011b0f7-715e-4daf-9e6b-a787a83e18f6",
+   "effective_time": "20260128",
+   "version": "15",
+   "brand_name": [
+    "NITRO-BID"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Savage Laboratories a division of Fougera Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087355"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "c555f8de-477f-0225-98a2-baf8945bbd63",
+   "id": "b6f146c9-be21-75da-dc27-e968a5f760ae",
+   "effective_time": "20260113",
+   "version": "6",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddys Laboratories Inc"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208191"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "5a36dac2-7d35-4cbf-be3d-705b7135754d",
+   "id": "47c90f3e-a3c2-7435-e063-6294a90a31a1",
+   "effective_time": "20260107",
+   "version": "3",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Ltd"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209779"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "fa789d65-9407-4965-bd06-4457444b42be",
+   "id": "76e69387-efc6-4816-972c-765cb260b34a",
+   "effective_time": "20251226",
+   "version": "10",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Glenmark Pharmaceuticals Inc., USA"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "f0a76edb-9e63-4aa4-9362-7375c799b2b5",
+   "id": "fa800efb-4cb4-44bf-9ec9-f35a32476022",
+   "effective_time": "20251222",
+   "version": "6",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Solaris Pharma Corporation"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218756"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Nitroglycerin is 1,2,3-propanetriol trinitrate, an organic nitrate whose structural formula is whose empiric formula is C 3 H 5 N 3 O 9 , and whose molecular weight is 227.09. The organic nitrates are vasodilators, active on both arteries and veins. Dextrose (Dextrose Hydrous, USP) is D-glucose monohydrate, a hexose sugar whose structural formula is whose empiric formula is C 6 H 12 O 6 • H 2 O, and whose molecular weight is 198.17. Dextrose is derived from corn. Nitroglycerin in 5% Dextrose Injection is a sterile, nonpyrogenic solution of nitroglycerin and dextrose in water for injection. The solution is clear and practically colorless. Each 100 mL contains 10 mg, 20 mg, or 40 mg nitroglycerin (added as Diluted Nitroglycerin, USP with propylene glycol); 5 g Dextrose Hydrous, USP; 0.84 mL Alcohol, USP (added as a dissolution aid); and 105 mg Citric Acid Hydrous, USP (added as a buffer). The pH of the solution is adjusted with sodium hydroxide and, if necessary, hydrochloric acid. Although dry nitroglycerin is explosive, nitroglycerin in 5% dextrose is not. Composition, osmolarity and pH are given in Table 1. Table 1 Composition Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥600 mOsmol/L) may cause vein damage. Osmolarity (mOsmol/L) (calc) pH Nitroglycerin (mcg/mL) Dextrose Hydrous, USP (g/L) 25 mg Nitroglycerin in 5% Dextrose Injection 100 50 428 4.0 (3.0 to 5.0) 50 mg Nitroglycerin in 5% Dextrose Injection 200 50 440 4.0 (3.0 to 5.0) 100 mg Nitroglycerin in 5% Dextrose Injection 400 50 465 4.0 (3.0 to 5.0) Nitroglycerin Structural Formula Dextrose Structural Formula"
+  ],
+  "description_table": [
+   "<table width=\"100%\"><col width=\"27%\"/><col width=\"16%\"/><col width=\"17%\"/><col width=\"15%\"/><col width=\"13%\"/><tbody><tr><td colspan=\"5\" valign=\"top\"/></tr><tr><td rowspan=\"2\" styleCode=\"Rrule \" valign=\"middle\"><paragraph>Table <linkHtml href=\"#\">1</linkHtml></paragraph></td><td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>Composition</paragraph></td><td rowspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><footnote ID=\"_Ref460914947\">Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (&#x2265;600 mOsmol/L) may cause vein damage.</footnote>Osmolarity   (mOsmol/L)   (calc) </paragraph></td><td rowspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>pH</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>Nitroglycerin   (mcg/mL) </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>Dextrose   Hydrous, USP   (g/L) </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>25 mg Nitroglycerin   in 5% Dextrose Injection </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>100</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>50</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>428</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>4.0</paragraph><paragraph>(3.0 to 5.0)</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>50 mg Nitroglycerin   in 5% Dextrose Injection </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>200</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>50</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>440</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>4.0</paragraph><paragraph>(3.0 to 5.0)</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>100 mg Nitroglycerin   in 5% Dextrose Injection </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>400</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>50</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>465</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>4.0</paragraph><paragraph>(3.0 to 5.0)</paragraph></td></tr></tbody></table>"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY The principal pharmacological action of nitroglycerin is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter. Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload). Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload). Dilatation of the coronary arteries also occurs. The relative importance of preload reduction, afterload reduction, and coronary dilatation remains undefined. Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration. This strategy is inappropriate for organic nitrates. Several well-controlled clinical trials have used exercise testing to assess the anti-anginal efficacy of continuously-delivered nitrates. In the large majority of these trials, active agents were indistinguishable from placebo after 24 hours (or less) of continuous therapy. Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed. Only after nitrates have been absent from the body for several hours has their anti-anginal efficacy been restored. Pharmacokinetics: The volume of distribution of nitroglycerin is about 3 L/kg, and nitroglycerin is cleared from this volume at extremely rapid rates, with a resulting serum half-life of about 3 minutes. The observed clearance rates (close to 1 L/kg/min) greatly exceed hepatic blood flow; known sites of extrahepatic metabolism include red blood cells and vascular walls. The first products in the metabolism of nitroglycerin are inorganic nitrate and the 1,2-and 1,3- dinitroglycerols. The dinitrates are less effective vasodilators than nitroglycerin, but they are longer-lived in the serum, and their net contribution to the overall effect of chronic nitroglycerin regimens is not known. The dinitrates are further metabolized to (non-vasoactive) mononitrates and, ultimately, to glycerol and carbon dioxide. To avoid development of tolerance to nitroglycerin, drug-free intervals of 10-12 hours are known to be sufficient; shorter intervals have not been well studied. In one well-controlled clinical trial, subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect, so that their exercise tolerance at the end of the daily drug-free interval was less than that exhibited by the parallel group receiving placebo. Clinical Trials: Blinded, placebo-controlled trials of intravenous nitroglycerin have not been reported, but multiple investigators have reported open-label studies, and there are scattered reports of studies in which intravenous nitroglycerin was tested in blinded fashion against sodium nitroprusside. In each of these studies, therapeutic doses of intravenous nitroglycerin were found to reduce systolic and diastolic arterial blood pressure. The heart rate was usually increased, presumably as a reflexive response to the fall in blood pressure. Coronary perfusion pressure was usually, but not always, maintained. Intravenous nitroglycerin reduced central venous pressure (CVP), right atrial pressure (RAP), pulmonary arterial pressure (PAP), pulmonary-capillary wedge pressure (PCWP), pulmonary vascular resistance (PVR), and systemic vascular resistance (SVR). When these parameters were elevated, reducing them toward normal usually caused a rise in cardiac output. Conversely, intravenous nitroglycerin usually reduced cardiac output when it was given to patients whose CVP, RAP, PAP, PCWP, PVR, and SVR were all normal. Most clinical trials of intravenous nitroglycerin have been brief; they have typically followed hemodynamic parameters during a single surgical procedure. In one careful study, one of the few that lasted more than a few hours, continuous intravenous nitroglycerin had lost almost all of its hemodynamic effect after 48 hours. In the same study, patients who received nitroglycerin infusions for only 12 hours out of each 24 demonstrated no similar attenuation of effect. These results are consistent with those seen in multiple large, double-blind, placebo-controlled trials of other formulations of nitroglycerin and other nitrates."
+  ],
+  "pharmacokinetics": [
+   "Pharmacokinetics: The volume of distribution of nitroglycerin is about 3 L/kg, and nitroglycerin is cleared from this volume at extremely rapid rates, with a resulting serum half-life of about 3 minutes. The observed clearance rates (close to 1 L/kg/min) greatly exceed hepatic blood flow; known sites of extrahepatic metabolism include red blood cells and vascular walls. The first products in the metabolism of nitroglycerin are inorganic nitrate and the 1,2-and 1,3- dinitroglycerols. The dinitrates are less effective vasodilators than nitroglycerin, but they are longer-lived in the serum, and their net contribution to the overall effect of chronic nitroglycerin regimens is not known. The dinitrates are further metabolized to (non-vasoactive) mononitrates and, ultimately, to glycerol and carbon dioxide. To avoid development of tolerance to nitroglycerin, drug-free intervals of 10-12 hours are known to be sufficient; shorter intervals have not been well studied. In one well-controlled clinical trial, subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect, so that their exercise tolerance at the end of the daily drug-free interval was less than that exhibited by the parallel group receiving placebo."
+  ],
+  "clinical_studies": [
+   "Clinical Trials: Blinded, placebo-controlled trials of intravenous nitroglycerin have not been reported, but multiple investigators have reported open-label studies, and there are scattered reports of studies in which intravenous nitroglycerin was tested in blinded fashion against sodium nitroprusside. In each of these studies, therapeutic doses of intravenous nitroglycerin were found to reduce systolic and diastolic arterial blood pressure. The heart rate was usually increased, presumably as a reflexive response to the fall in blood pressure. Coronary perfusion pressure was usually, but not always, maintained. Intravenous nitroglycerin reduced central venous pressure (CVP), right atrial pressure (RAP), pulmonary arterial pressure (PAP), pulmonary-capillary wedge pressure (PCWP), pulmonary vascular resistance (PVR), and systemic vascular resistance (SVR). When these parameters were elevated, reducing them toward normal usually caused a rise in cardiac output. Conversely, intravenous nitroglycerin usually reduced cardiac output when it was given to patients whose CVP, RAP, PAP, PCWP, PVR, and SVR were all normal. Most clinical trials of intravenous nitroglycerin have been brief; they have typically followed hemodynamic parameters during a single surgical procedure. In one careful study, one of the few that lasted more than a few hours, continuous intravenous nitroglycerin had lost almost all of its hemodynamic effect after 48 hours. In the same study, patients who received nitroglycerin infusions for only 12 hours out of each 24 demonstrated no similar attenuation of effect. These results are consistent with those seen in multiple large, double-blind, placebo-controlled trials of other formulations of nitroglycerin and other nitrates."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Nitroglycerin in 5% Dextrose Injection is indicated for treatment of peri-operative hypertension; for control of heart failure in the setting of acute myocardial infarction; for treatment of angina pectoris in patients who have not responded to sublingual nitroglycerin and ß-blockers; and for induction of intraoperative hypotension."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Nitroglycerin in 5% Dextrose Injection is contraindicated in patients who are allergic to it. In patients with pericardial tamponade, restrictive cardiomyopathy, or constrictive pericarditis, cardiac output is dependent upon venous return. Intravenous nitroglycerin is contraindicated in patients with these conditions. Nitroglycerin is also contraindicated in patients with increased intracranial pressure. Do not use Nitroglycerin in 5% Dextrose Injection in patients who are taking certain drugs for erectile dysfunction (phosphodiesterase inhibitors) such as sildenafil, tadalafil, or vardenafil. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia. Do not use Nitroglycerin in 5% Dextrose Injection in patients who are taking the soluble guanylate cyclase stimulator riociguat. Concomitant use can cause hypotension."
+  ],
+  "warnings": [
+   "WARNINGS Use of PVC (polyvinyl chloride) tubing in infusion sets may lead to loss of active ingredient due to adsorption of nitroglycerin to PVC tubing, therefore dosage is affected (see Dosage and Administration ). Nitroglycerin adsorption by PVC tubing is increased when the tubing is long, the flow rates are low, and the nitroglycerin concentration of the solution is high. The delivered fraction of the solution's original nitroglycerin content has been 20-60% in published studies using PVC tubing; the fraction varies with time during a single infusion, and no simple correction factor can be used. PVC tubing has been used in most published studies of intravenous nitroglycerin, but the reported doses have been calculated by simply multiplying the flow rate of the solution by the solution's original concentration of nitroglycerin. The actual doses delivered have been less, sometimes much less, than those reported. Relatively non-adsorptive intravenous administration sets are available. If intravenous nitroglycerin is administered through non-adsorptive tubing, doses based upon published reports will generally be too high. Some in-line intravenous filters also adsorb nitroglycerin; these filters should be avoided. Solutions containing dextrose without electrolytes should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis. The intravenous administration of solutions may cause fluid overloading resulting in dilution of serum electrolyte concentrations, overhydration and congested states of pulmonary edema. The risk of dilutional states is inversely proportional to the electrolyte concentrations of the injections. The risk of solute overload causing congested states with peripheral and pulmonary edema is directly proportional to the electrolyte concentration of the injections."
+  ],
+  "precautions": [
+   "PRECAUTIONS Severe hypotension and shock may occur with even small doses of nitroglycerin. Monitor patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris. Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. Tolerance development and occurrence of cross tolerance to other nitro compounds have been reported. In industrial workers who have long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence. Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day. During the nitrate-free intervals in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance. The importance of these observations to the routine, clinical use of intravenous nitroglycerin is not known. Lower concentrations of Nitroglycerin in 5% Dextrose Injection increase the potential precision of dosing, but these concentrations increase the total fluid volume that must be delivered to the patient. Total fluid load may be a dominant consideration in patients with compromised function of the heart, liver, and/or kidneys. Administer nitroglycerin in 5% Dextrose Injection via an infusion pump that can maintain a constant infusion rate. Intracoronary injection of Nitroglycerin in 5% Dextrose Injection has not been studied. Monitor patients with known sub-clinical or overt diabetes mellitus when using solutions containing dextrose. Laboratory Tests: Because of the propylene glycol content of intravenous nitroglycerin, serum triglyceride assays that rely on glycerol oxidase may give falsely elevated results in patients receiving this medication. Drug Interactions: The vasodilating effects of nitroglycerin may be additive with those of antihypertensives (e.g., beta-blockers, calcium channel blockers and tricyclic antidepressants) and may cause increased hypotensive effects.. Concomitant use of Nitroglycerin in 5% Dextrose Injection with phosphodiesterase inhibitors (e.g. sildenafil, tadalafil, or vardenafil) can cause hypotension and is contraindicated (see Contraindications ). Concomitant use of Nitroglycerin in 5% Dextrose Injection with riociguat, a soluble guanylate cyclase stimulator, can cause hypotension and is contraindicated (see Contraindications ). Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination. Nitroglycerin at higher dosages may interfere with the anticoagulant effect of heparin. Intravenous nitroglycerin can induce heparin resistance. Administration of Nitroglycerin in 5% Dextrose Injection through the same infusion set as blood can result in pseudoagglutination and hemolysis. Do not mix Nitroglycerin in 5% Dextrose Injection with any other medication of any kind. Carcinogenesis, Mutagenesis, and Impairment of Fertility: Animal carcinogenesis studies with injectable nitroglycerin have not been performed. Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes. At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls and incidences of testicular tumors were 52% vs. 8% in controls. Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice. Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories. Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, p.o., or in in vitro cytogenetic tests in rat and dog tissues. In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for six months prior to mating of the F 0 generation with treatment continuing through successive F 1 and F 2 generations. The high-dose was associated with decreased feed intake and body weight gain in both sexes at all matings. No specific effect on the fertility of the F 0 generation was seen. Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males. In this three-generation study there was no clear evidence of teratogenicity. Pregnancy: Animal teratology studies have not been conducted with nitroglycerin injection. Teratology studies in rats and rabbits were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively, and no toxic effects on dams or fetuses were seen. There are no adequate and well-controlled studies in pregnant women. Nitroglycerin should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known if nitroglycerin is present in human milk or if nitroglycerin has effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitroglycerin and any potential adverse effects on the breastfed child from nitroglycerin or from the underlying maternal condition. Pediatric Use: Safety and effectiveness in the pediatric population have not been established. However, the relationship between hemodynamic effects of nitroglycerin and dose in the pediatric population have been documented in the literature. Studies in the literature used doses of nitroglycerin injection in pediatric patients ranging from 0.5 to 5 mcg/kg/min. The following equation can be used to calculate the flow rate in mL/hour of nitroglycerin using the 100 mcg/mL (25 mg/250 mL) concentration of nitroglycerin. Infusion Rate (mL/h) = [Dose (mcg/kg/min) x Weight (kg) x 60 min/h] Final Concentration (mcg/mL) Example calculations for infusion rates are as follows: Example 1: for a 2 kg child at a dose of 0.5 µg/kg/min using a 100 mcg/mL concentration, the infusion rate would be as follows: Infusion Rate (mL/h) = [0.5 (mcg/kg/min) x 2 (kg) x 60 (min/h) ] = 0.6 (mL/h) 100 (mcg/mL) Example 2: for a 10 kg child at a dose of 5 mcg/kg/min using a 100 mcg/mL concentration, the infusion rate would be as follows: Infusion Rate (mL/h) = [5 (mcg/kg/min) x 10 (kg) x 60 (min/h) ] = 30 (mL/h) 100 (mcg/mL) Note: Very low infusion rates may require that a more dilute concentration of nitroglycerin infusion solution be prepared. Geriatric Use: Clinical studies of Nitroglycerin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Do not use unless vacuum is present and solution is clear."
+  ],
+  "laboratory_tests": [
+   "Laboratory Tests: Because of the propylene glycol content of intravenous nitroglycerin, serum triglyceride assays that rely on glycerol oxidase may give falsely elevated results in patients receiving this medication."
+  ],
+  "drug_interactions": [
+   "Drug Interactions: The vasodilating effects of nitroglycerin may be additive with those of antihypertensives (e.g., beta-blockers, calcium channel blockers and tricyclic antidepressants) and may cause increased hypotensive effects.. Concomitant use of Nitroglycerin in 5% Dextrose Injection with phosphodiesterase inhibitors (e.g. sildenafil, tadalafil, or vardenafil) can cause hypotension and is contraindicated (see Contraindications ). Concomitant use of Nitroglycerin in 5% Dextrose Injection with riociguat, a soluble guanylate cyclase stimulator, can cause hypotension and is contraindicated (see Contraindications ). Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination. Nitroglycerin at higher dosages may interfere with the anticoagulant effect of heparin. Intravenous nitroglycerin can induce heparin resistance. Administration of Nitroglycerin in 5% Dextrose Injection through the same infusion set as blood can result in pseudoagglutination and hemolysis. Do not mix Nitroglycerin in 5% Dextrose Injection with any other medication of any kind."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, and Impairment of Fertility: Animal carcinogenesis studies with injectable nitroglycerin have not been performed. Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes. At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls and incidences of testicular tumors were 52% vs. 8% in controls. Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice. Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories. Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, p.o., or in in vitro cytogenetic tests in rat and dog tissues. In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for six months prior to mating of the F 0 generation with treatment continuing through successive F 1 and F 2 generations. The high-dose was associated with decreased feed intake and body weight gain in both sexes at all matings. No specific effect on the fertility of the F 0 generation was seen. Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males. In this three-generation study there was no clear evidence of teratogenicity."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers: It is not known if nitroglycerin is present in human milk or if nitroglycerin has effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitroglycerin and any potential adverse effects on the breastfed child from nitroglycerin or from the underlying maternal condition."
+  ],
+  "pediatric_use": [
+   "Pediatric Use: Safety and effectiveness in the pediatric population have not been established. However, the relationship between hemodynamic effects of nitroglycerin and dose in the pediatric population have been documented in the literature. Studies in the literature used doses of nitroglycerin injection in pediatric patients ranging from 0.5 to 5 mcg/kg/min. The following equation can be used to calculate the flow rate in mL/hour of nitroglycerin using the 100 mcg/mL (25 mg/250 mL) concentration of nitroglycerin. Infusion Rate (mL/h) = [Dose (mcg/kg/min) x Weight (kg) x 60 min/h] Final Concentration (mcg/mL) Example calculations for infusion rates are as follows: Example 1: for a 2 kg child at a dose of 0.5 µg/kg/min using a 100 mcg/mL concentration, the infusion rate would be as follows: Infusion Rate (mL/h) = [0.5 (mcg/kg/min) x 2 (kg) x 60 (min/h) ] = 0.6 (mL/h) 100 (mcg/mL) Example 2: for a 10 kg child at a dose of 5 mcg/kg/min using a 100 mcg/mL concentration, the infusion rate would be as follows: Infusion Rate (mL/h) = [5 (mcg/kg/min) x 10 (kg) x 60 (min/h) ] = 30 (mL/h) 100 (mcg/mL) Note: Very low infusion rates may require that a more dilute concentration of nitroglycerin infusion solution be prepared."
+  ],
+  "geriatric_use": [
+   "Geriatric Use: Clinical studies of Nitroglycerin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Do not use unless vacuum is present and solution is clear."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Adverse reactions to nitroglycerin are generally dose-related and almost all of these reactions are the result of nitroglycerin's activity as a vasodilator. Headache, which may be severe, is the most commonly reported side effect. Headache may be recurrent with each daily dose, especially at higher doses. Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur. Hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy. Syncope, crescendo angina, and rebound hypertension have been reported but are uncommon. Allergic reactions to nitroglycerin are also uncommon, and the great majority of those reported have been cases of contact dermatitis or fixed drug eruptions in patients receiving nitroglycerin in ointments or patches. There have been a few reports of genuine anaphylactoid reactions, and these reactions can probably occur in patients receiving nitroglycerin by any route. Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients. Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see Overdosage ). Dyspnea has also been reported. Data are not available to allow estimation of the frequency of adverse reactions during treatment with Nitroglycerin in 5% Dextrose Injection."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Signs and symptoms of overdose are generally similar to the described adverse reactions (see Adverse Reactions ). There is no specific antidote for overdose of nitroglycerin. The risk of overdose can be minimized by close monitoring during treatment. Hemodynamic Effects: The ill effects of nitroglycerin overdose are generally the results of nitroglycerin's capacity to induce vasodilation, venous pooling, reduced cardiac output, and hypotension. These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death. Laboratory determinations of serum levels of nitroglycerin and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of nitroglycerin overdose. No data are available to suggest physiological maneuvers (e.g., maneuvers to change the pH of the urine) that might accelerate elimination of nitroglycerin and its active metabolites. Similarly, it is not known which -if any- of these substances can usefully be removed from the body by hemodialysis. No specific antagonist to the vasodilator effects of nitroglycerin is known, and no intervention has been subject to controlled study as a therapy of nitroglycerin overdose. Because the hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume. Passive elevation of the patient's legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary. The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good. In patients with renal disease or heart failure, therapy resulting in central volume expansion is not without hazard. Treatment of nitroglycerin overdose in these patients may be subtle and difficult, and invasive monitoring may be required. Methemoglobinemia: Nitrate ions liberated during metabolism of nitroglycerin can oxidize hemoglobin into methemoglobin. Even in patients totally without cytochrome b 5 reductase activity, however, and even assuming that the nitrate moieties of nitroglycerin are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of nitroglycerin should be required before any of these patients manifests clinically significant (≥ 10%) methemoglobinemia. In patients with normal reductase function, significant production of methemoglobin should require even larger doses of nitroglycerin. In one study in which 36 patients received 2-4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr, the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo. Cases of methemoglobinemia have been reported with moderate doses of organic nitrates. Methemoglobin levels are available from most clinical laboratories. The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO 2 . Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air. When methemoglobinemia is diagnosed, discontinue treatment of nitroglycerin. If condition is not reversed, treat with methylene blue, 1-2 mg/kg intravenously."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Nitroglycerin in 5% Dextrose Injection is intended for intravenous administration using sterile equipment. Administer Nitroglycerin in 5% Dextrose Injection only via an infusion pump that can maintain a constant infusion rate. Do not use a container which has lost its vacuum, or one in which particulate matter is visible. Dosage is affected by the type of infusion set used (see Warnings ). Although the usual adult starting dose in published studies has been 25 mcg/min or more, these studies used PVC tubing, so the delivered doses were less than those reported. When nonadsorptive tubing is used, doses must be reduced (see Warnings and Precautions ). The dosage must be determined by the patient’s individual requirement and depending on the required response and possible adverse effects (see Adverse Reactions ). Even using nonadsorptive tubing, the dose necessary to achieve a given response will vary greatly from patient to patient. Patients with normal or low left-ventricular filling pressure ( e.g. , patients with uncomplicated angina pectoris) may respond fully to as little as 5 mcg/min, while other patients may require a dose that is one or even two orders of magnitude higher. Continuous monitoring of blood pressure and heart rate is necessary in all patients receiving this medication; in many cases, invasive monitoring of pulmonary capillary wedge pressure will also be indicated. Lower concentrations of Nitroglycerin in 5% Dextrose Injection increase the potential precision of dosing, but these concentrations increase the total fluid volume that must be delivered to the patient. Total fluid load may be a dominant consideration in patients with compromised function of the heart, liver, and/or kidneys. The necessary flow rates to achieve various dose rates with the available concentrations are shown in the following table. Using nonadsorptive tubing, the initial adult dosage of Nitroglycerin in 5% Dextrose Injection should be 5 mcg/min. Subsequent titration must be guided by the clinical results, with dose increments becoming more cautious as partial response is seen. Initial titration should be in 5 mcg/min increments at intervals of 3 to 5 minutes. If no response is seen at 20 mcg/min, increments of 10 and even 20 mcg/min can be used. Once some hemodynamic response is observed, dosage increments should be smaller and less frequent. When the concentration is changed, the tubing must be disconnected from the patient and flushed with the new solution before therapy is continued. If this precaution is not taken, then depending upon the tubing, pump, and flow rate used, it might be several hours before nitroglycerin is delivered at the desired rate. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not administer unless the solution is clear and the seal is intact. Do not add supplementary medication to Nitroglycerin in 5% Dextrose Injection. Infusion Rate (mL/h) = [Dose (mcg/min) x 60 min/h] Concentration (mcg/mL) Example calculations for infusion rates are as follows: Example 1: for a dose of 30 µg/min using a 100 mcg/mL concentration, the infusion rate would be as follows: Infusion Rate (mL/h) = [30 (mcg/min) x 60 (min/h) ] = 18 (mL/h) 100 (mcg/mL) Example 2: for a dose of 240 mcg/min using a 400 mcg/mL concentration, the infusion rate would be as follows: Infusion Rate (mL/h) = [5 (mcg/min) x 60 (min/h) ] = 36 (mL/h) 400 (mcg/mL)"
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Nitroglycerin in 5% Dextrose Injection is supplied in glass container as follows: Size (mL) NDC Product Name 250 84549-147-02 25 mg Nitroglycerin in 5% Dextrose Injection Minimize exposure of pharmaceutical products to heat. Avoid excessive heat. Protect from freezing. Store the product at room temperature (25°C). Brief exposure up to 40°C does not adversely affect the product. Protect from light until time of use. Discard any unused portion."
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><colgroup><col width=\"18%\"/><col width=\"17%\"/><col width=\"25%\"/><col width=\"40%\"/></colgroup><tbody><tr><td valign=\"top\"><paragraph/></td><td align=\"center\" valign=\"top\"><paragraph><content styleCode=\"bold\">Size (mL)</content></paragraph></td><td align=\"center\" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC</content></paragraph></td><td align=\"center\" valign=\"top\"><paragraph><content styleCode=\"bold\">Product Name</content></paragraph></td></tr><tr><td valign=\"top\"><paragraph/></td><td align=\"center\" valign=\"top\"><paragraph>250</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>84549-147-02</paragraph></td><td valign=\"top\"><paragraph>25 mg Nitroglycerin in 5% Dextrose Injection</paragraph></td></tr><tr><td valign=\"top\"><paragraph/></td><td align=\"center\" valign=\"top\"/><td align=\"center\" valign=\"top\"/><td valign=\"top\"/></tr></tbody></table>"
+  ],
+  "set_id": "3f2c9570-a544-1982-e063-6294a90a3067",
+  "id": "463f0065-75fa-2d44-e063-6394a90a618b",
+  "effective_time": "20251218",
+  "version": "2"
+ }
+}

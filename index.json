@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T11:16Z",
- "n": 349,
+ "updated": "2026-11-11T14:36Z",
+ "n": 351,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -3951,6 +3951,38 @@
    "set_id": "89095f4d-e142-465e-b378-da24f6eeaf2b",
    "application": [
     "NDA009175"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nitroglicerina-iv",
+   "generic_en": "nitroglycerin",
+   "brand": [
+    "Nitroglycerin In Dextrose"
+   ],
+   "manufacturer": [
+    "ProPharma Distribution"
+   ],
+   "effective_time": "20251218",
+   "set_id": "3f2c9570-a544-1982-e063-6294a90a3067",
+   "application": [
+    "NDA019970"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nitroglicerina-sl",
+   "generic_en": "nitroglycerin",
+   "brand": [
+    "NITROSTAT"
+   ],
+   "manufacturer": [
+    "A-S Medication Solutions"
+   ],
+   "effective_time": "20240805",
+   "set_id": "f7059ff7-bf74-48b4-811d-6eb1c26bfd8b",
+   "application": [
+    "NDA021134"
    ],
    "n_candidates": 25
   },
