@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T15:40Z",
- "n": 352,
+ "updated": "2026-11-11T15:43Z",
+ "n": 353,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -4721,20 +4721,36 @@
    "n_candidates": 25
   },
   {
-   "id_es": "salbutamol",
-   "generic_en": "albuterol",
+   "id_es": "salbutamol-neb",
+   "generic_en": "albuterol sulfate",
    "brand": [
-    "Albuterol"
+    "ProAir RespiClick"
    ],
    "manufacturer": [
-    "Mylan Pharmaceuticals Inc."
+    "Teva Respiratory, LLC"
    ],
-   "effective_time": "20260315",
-   "set_id": "9e6e982b-7dfe-45b8-aa76-754e8d2a8ef6",
+   "effective_time": "20200930",
+   "set_id": "9324e2eb-26fd-4f14-9f10-e5aa467306f4",
    "application": [
-    "ANDA214531"
+    "NDA205636"
    ],
-   "n_candidates": 8
+   "n_candidates": 25
+  },
+  {
+   "id_es": "salbutamol",
+   "generic_en": "albuterol sulfate",
+   "brand": [
+    "VENTOLIN HFA"
+   ],
+   "manufacturer": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "effective_time": "20240716",
+   "set_id": "7043bc12-8a58-8ff8-e053-2a91aa0ab627",
+   "application": [
+    "NDA020983"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "sarilumab",
