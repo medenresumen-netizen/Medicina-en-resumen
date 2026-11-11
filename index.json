@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T17:53Z",
- "n": 376,
+ "updated": "2026-11-11T18:19Z",
+ "n": 377,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -791,6 +791,22 @@
     "NDA218524"
    ],
    "n_candidates": 25
+  },
+  {
+   "id_es": "bicarbonato-sodio-84",
+   "generic_en": "sodium bicarbonate",
+   "brand": [
+    "Sodium Bicarbonate"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20260406",
+   "set_id": "8664c7ce-707b-4c6c-9ce4-7160b5f877f8",
+   "application": [
+    "ANDA202432"
+   ],
+   "n_candidates": 1
   },
   {
    "id_es": "bicarbonato-sodio",
