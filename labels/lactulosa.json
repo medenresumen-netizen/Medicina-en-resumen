@@ -1,461 +1,36 @@
 {
  "id_es": "lactulosa",
  "generic_en": "lactulose",
- "search": "openfda.generic_name.exact:\"LACTULOSE\"",
- "downloaded": "2026-11-11T06:44Z",
+ "search": "set_id:35207edd-a5fe-4369-a079-7a8b0d2f2e91",
+ "pref": "",
+ "downloaded": "2026-11-11T15:59Z",
  "chosen": {
-  "set_id": "59e75426-42ae-4904-941f-009181101a8a",
-  "id": "ef4e6e26-7b7d-4c48-8cc8-c101cc24d6f9",
-  "effective_time": "20250901",
-  "version": "2",
+  "set_id": "35207edd-a5fe-4369-a079-7a8b0d2f2e91",
+  "id": "1d600b06-58c7-b83e-e063-6294a90a86f9",
+  "effective_time": "20240716",
+  "version": "1",
   "brand_name": [
-   "LACTULOSE Crystalline"
+   "Generlac"
   ],
   "generic_name": [
    "LACTULOSE"
   ],
   "manufacturer_name": [
-   "Cumberland Assured Products Inc."
+   "Chartwell RX, LLC"
   ],
   "route": [
-   "ORAL"
+   "ORAL",
+   "RECTAL"
   ],
   "product_type": [
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "ANDA074712"
+   "ANDA074603"
   ],
-  "n_sections": 24
+  "n_sections": 15
  },
  "candidates": [
-  {
-   "set_id": "3fb6e908-893c-5a57-e063-6294a90a1bfc",
-   "id": "5e8331ff-5707-5a81-e063-6294a90a4bab",
-   "effective_time": "20261019",
-   "version": "2",
-   "brand_name": [
-    "LACTULOSE"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Atlantic Biologicals Corp."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074623"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "8b79d0d6-b9e3-436e-bab7-01451b6f45cd",
-   "id": "5e32b621-5588-a4ef-e063-6394a90aa6a7",
-   "effective_time": "20261019",
-   "version": "2",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "American Health Packaging"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA090503"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "3363bdbd-f0d1-45b3-8193-7fdb0a310cc2",
-   "id": "5de554cf-eb92-29a1-e063-6394a90a175c",
-   "effective_time": "20261015",
-   "version": "10",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Foxland Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074712"
-   ],
-   "n_sections": 25
-  },
-  {
-   "set_id": "72ac130a-de85-464d-9e9b-05cac0c54db1",
-   "id": "da3c87b0-6781-4c58-83ca-1839cf914333",
-   "effective_time": "20260723",
-   "version": "4",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "APOZEAL PHARMACEUTICALS INC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207786"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "5ae4b6da-44df-419a-9f2b-8c4d79f635c8",
-   "id": "78330d1b-d8d8-46ab-afcd-3a6362520db6",
-   "effective_time": "20260707",
-   "version": "4",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "PAI Holdings, LLC dba PAI Pharma"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA217914"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "3cf3ff7c-67e7-42a9-8ebb-bd6c53937dd7",
-   "id": "4b7d948c-1725-40ac-9582-76038e0c83ed",
-   "effective_time": "20260519",
-   "version": "11",
-   "brand_name": [
-    "LACTULOSE"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Cardinal Health 107, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074623"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "df62ad54-5aba-4d05-e053-2a95a90aa48d",
-   "id": "4f6f0368-4b59-a9df-e063-6294a90ae43c",
-   "effective_time": "20260414",
-   "version": "7",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Xttrium Laboratories, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA075911"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "d6975cd8-80e0-43e2-809a-175ea7e40715",
-   "id": "49798265-6d70-8bc1-e063-6394a90a59d4",
-   "effective_time": "20260128",
-   "version": "5",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Chartwell RX, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209517"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "a8af7389-3699-4873-b05a-509af7e8eaab",
-   "id": "2341cf95-5e57-47ab-9dc3-73afa86b786d",
-   "effective_time": "20260106",
-   "version": "3",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "APOZEAL PHARMACEUTICALS INC"
-   ],
-   "route": [
-    "ORAL",
-    "RECTAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA203762"
-   ],
-   "n_sections": 17
-  },
-  {
-   "set_id": "bd9f1577-65e8-4521-b176-e5fc60a4a018",
-   "id": "456e6761-40f8-db90-e063-6394a90a2393",
-   "effective_time": "20251208",
-   "version": "4",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Chartwell RX, LLC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209517"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "887157ba-3c91-4fbf-bb12-b49c6fa4252c",
-   "id": "437b8b21-3264-1b6c-e063-6294a90a1d51",
-   "effective_time": "20251113",
-   "version": "1",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Chartwell Governmental & Specialty RX, LLC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209517"
-   ],
-   "n_sections": 15
-  },
-  {
-   "set_id": "0f19e4ed-c90a-4330-a7fa-bf911aa98f09",
-   "id": "6843c997-c52c-4978-b087-647f7c3fa782",
-   "effective_time": "20250915",
-   "version": "22",
-   "brand_name": [
-    "LACTULOSE"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "PAI Holdings, LLC dba PAI Pharma"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074623"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "cbf0497c-9c8d-4dfa-bebd-64c589468401",
-   "id": "b73c2ddc-a690-46e1-aa89-40fa890c9ab4",
-   "effective_time": "20250915",
-   "version": "8",
-   "brand_name": [
-    "LACTULOSE"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "PAI Holdings, LLC dba PAI Pharma"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074623"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "3eaf273a-b49d-2595-e063-6394a90a1cf6",
-   "id": "3eaf2342-fb58-e0a5-e063-6394a90a7271",
-   "effective_time": "20250913",
-   "version": "1",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Trifluent Pharma, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA217914"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "59e75426-42ae-4904-941f-009181101a8a",
-   "id": "ef4e6e26-7b7d-4c48-8cc8-c101cc24d6f9",
-   "effective_time": "20250901",
-   "version": "2",
-   "brand_name": [
-    "LACTULOSE Crystalline"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Cumberland Assured Products Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074712"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "391cfd01-c1fa-41f9-abd7-d0abe9a27634",
-   "id": "3b8ff35a-8b5e-7aca-e063-6394a90aea34",
-   "effective_time": "20250804",
-   "version": "5",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Sun Pharmaceutical Industries, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA218858"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "fa3aae7c-6f98-4fbb-85dc-32affe9874d5",
-   "id": "29413ce2-7389-4c44-a4b1-f424ac86024f",
-   "effective_time": "20241218",
-   "version": "103",
-   "brand_name": [
-    "Enulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL",
-    "RECTAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA090502"
-   ],
-   "n_sections": 21
-  },
   {
    "set_id": "35207edd-a5fe-4369-a079-7a8b0d2f2e91",
    "id": "1d600b06-58c7-b83e-e063-6294a90a86f9",
@@ -481,221 +56,42 @@
     "ANDA074603"
    ],
    "n_sections": 15
-  },
-  {
-   "set_id": "6bbabdc6-f6a8-4f67-a448-e452d1928deb",
-   "id": "6bbabdc6-f6a8-4f67-a448-e452d1928deb",
-   "effective_time": "20240601",
-   "version": "1",
-   "brand_name": [
-    "LACTULOSE"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Proficient Rx LP"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074623"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "a89835c9-8ce5-4627-8d7d-70ff175b2e07",
-   "id": "d95ab755-1c2e-4124-8ed7-075936257c25",
-   "effective_time": "20221109",
-   "version": "5",
-   "brand_name": [
-    "Lactulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Fresenius Kabi Austria GmbH"
-   ],
-   "route": [
-    "ORAL",
-    "RECTAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA090502"
-   ],
-   "n_sections": 20
-  },
-  {
-   "set_id": "00c42c5c-d19e-4130-aa08-a8bbd47d3e5b",
-   "id": "bda4ccaa-fa33-4911-b3bd-12391c365f47",
-   "effective_time": "20220601",
-   "version": "8",
-   "brand_name": [
-    "Enulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Actavis Pharma, Inc."
-   ],
-   "route": [
-    "ORAL",
-    "RECTAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA090502"
-   ],
-   "n_sections": 21
-  },
-  {
-   "set_id": "461ec39f-eeb4-4460-9b5c-62367d47162b",
-   "id": "7fd63ff0-fccd-408a-9c56-2c2fefdb74fc",
-   "effective_time": "20220601",
-   "version": "6",
-   "brand_name": [
-    "Constulose"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Actavis Pharma, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA090503"
-   ],
-   "n_sections": 23
-  },
-  {
-   "set_id": "6619b25c-26b7-4c43-8c4f-9d33a23c61ca",
-   "id": "1b869904-b3c5-4f81-a333-1f26b6b2c7bf",
-   "effective_time": "20200130",
-   "version": "10",
-   "brand_name": [
-    "LACTULOSE"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Lannett Company, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA075993"
-   ],
-   "n_sections": 25
-  },
-  {
-   "set_id": "535dd1ea-b567-49f7-9a84-8ea91e78c466",
-   "id": "85528d56-e38f-4565-9136-c7639b479634",
-   "effective_time": "20180917",
-   "version": "4",
-   "brand_name": [
-    "KRISTALOSE"
-   ],
-   "generic_name": [
-    "LACTULOSE"
-   ],
-   "manufacturer_name": [
-    "Cumberland Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074712"
-   ],
-   "n_sections": 24
   }
  ],
  "label": {
   "description": [
-   "DESCRIPTION LACTULOSE is a synthetic disaccharide in the form of crystals for reconstitution prior to use for oral administration Each 10 g of lactulose contains less than 0.3 g galactose and lactose as a total sum. The pH range is 3.0 to 7.0. Lactulose is a colonic acidifier which promotes laxation. The chemical name for lactulose is 4-O-β-D-Galactopyranosyl-D-fructofuranose. It has the following structural formula: The molecular formula is C 12 H 22 O 11 . The molecular weight is 342.30. It is freely soluble in water. Structural Formula"
+   "DESCRIPTION Generlac Solution (Lactulose Solution, USP) is a synthetic disaccharide in solution form for oral or rectal administration. Each 15 mL of Generlac Solution contains: 10 g lactulose (and less than 1.6 g galactose, less than 1.2 g lactose, less than 0.8 g epilactose and 0.1 g or less of fructose). The pH range is between 2.5 and 6.5. Generlac Solution is a colonic acidifier for treatment and prevention of portal-systemic encephalopathy. The chemical name for lactulose is 4- O - β -D-galactopyranosyl-D-fructofuranose. It has the following structural formula: The molecular weight is 342.30. It is freely soluble in water. image description"
   ],
   "clinical_pharmacology": [
-   "CLINICAL PHARMACOLOGY LACTULOSE For Oral Solution is poorly absorbed from the gastro-intestinal tract and no enzyme capable of hydrolysis of this disaccharide is present in human gastrointestinal tissue. As a result, oral doses of lactulose reach the colon virtually unchanged. In the colon, lactulose is broken down primarily to lactic acid, and also to small amounts of formic and acetic acids, by the action of colonic bacteria, which results in an increase in osmotic pressure and slight acidification of the colonic contents. This in turn causes an increase in stool water content and softens the stool. Since lactulose does not exert its effect until it reaches the colon, and since transit time through the colon may be slow, 24 to 48 hours may be required to produce desired bowel movement. Lactulose given orally to man and experimental animals resulted in only small amounts reaching the blood. Urinary excretion has been determined to be 3% or less and is essentially complete within 24 hours."
+   "CLINICAL PHARMACOLOGY Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portal-systemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents. This acidification of colonic contents results in the retention of ammonia in the colon as the ammonium ion. Since the colonic contents are then more acid than the blood, ammonia can be expected to migrate from the blood into the colon to form the ammonium ion. The acid colonic contents convert NH 3 to the ammonium ion [NH 4 ] + , trapping it and preventing its absorption. The laxative action of the metabolites of lactulose then expels the trapped ammonium ion from the colon. Experimental data indicate that lactulose is poorly absorbed. Lactulose given orally to man and experimental animals resulted in only small amounts reaching the blood. Urinary excretion has been determined to be 3% or less and is essentially complete within 24 hours. When incubated with extracts of human small intestinal mucosa, lactulose was not hydrolyzed during a 24-hour period and did not inhibit the activity of these extracts on lactose. Lactulose reaches the colon essentially unchanged. There it is metabolized by bacteria with the formation of low molecular weight acids that acidify the colon contents."
   ],
   "indications_and_usage": [
-   "INDICATIONS AND USAGE LACTULOSE For Oral Solution is indicated for the treatment of constipation. In patients with a history of chronic constipation, lactulose therapy increases the number of bowel movements per day and the number of days on which bowel movements occur."
+   "INDICATIONS AND USAGE For the prevention and treatment of portal-systemic encephalopathy, including the stages of hepatic pre-coma and coma. Controlled studies have shown that lactulose solution therapy reduces the blood ammonia levels by 25 to 50%; this is generally paralleled by an improvement in the patients' mental state and by an improvement in EEG patterns. The clinical response has been observed in about 75% of patients, which is at least as satisfactory as that resulting from neomycin therapy. An increase in patients' protein tolerance is also frequently observed with lactulose solution therapy. In the treatment of chronic portal-systemic encephalopathy, lactulose solution has been given for over 2 years in controlled studies."
   ],
   "contraindications": [
-   "CONTRAINDICATIONS Since LACTULOSE For Oral Solution contains galactose (less than 0.3 g/10 g as a total sum with lactose), it is contraindicated in patients who require a low galactose diet."
+   "CONTRAINDICATIONS Since Generlac Solution (Lactulose Solution, USP) contains galactose (less than 1.6 g/15 mL), it is contraindicated in patients who require a low galactose diet."
   ],
   "warnings": [
-   "WARNINGS A theoretical hazard may exist for patients being treated with lactulose who may be required to undergo electrocautery procedures during proctoscopy or colonoscopy. Accumulation of H 2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction. Although this complication has not been reported with lactulose, patients on lactulose therapy undergoing such procedures should have a thorough bowel cleansing with a non-fermentable solution. Insufflation of CO 2 as an additional safeguard may be pursued but is considered to be a redundant measure."
+   "WARNINGS A theoretical hazard may exist for patients being treated with lactulose solution who may be required to undergo electrocautery procedures during proctoscopy or colonoscopy. Accumulation of H 2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction. Although this complication has not been reported with lactulose, patients on lactulose therapy undergoing such procedures should have a thorough bowel cleansing with a non-fermentable solution. Insufflation of CO 2 as an additional safeguard may be pursued but is considered to be a redundant measure."
   ],
   "precautions": [
-   "PRECAUTIONS General Since LACTULOSE For Oral Solution contains galactose and lactose (less than 0.3 g/10 g as a total sum), it should be used with caution in diabetics. Information for Patients In the event that an unusual diarrheal condition occurs, contact your physician. Laboratory Tests Elderly, debilitated patients who receive lactulose for more than six months should have serum electrolytes (potassium, chloride, carbon dioxide) measured periodically. Drug Interactions Results of preliminary studies in humans and rats suggest that nonabsorbable antacids given concurrently with lactulose may inhibit the desired lactulose-induced drop in colonic pH. Therefore, a possible lack of desired effect of treatment should be taken into consideration before such drugs are given concomitantly with lactulose. Carcinogenesis, Mutagenesis, Impairment of Fertility There are no known human data on long-term potential for carcinogenicity, mutagenicity, or impairment of fertility. There are no known animal data on long-term potential for mutagenicity. Administration of lactulose syrup in the diet of mice for 18 months in concentrations of 3 and 10 percent (v/w) did not produce any evidence of carcinogenicity. In studies in mice, rats, and rabbits, doses of lactulose syrup up to 6 or 12 mL/kg/day produced no deleterious effects in breeding, conception, or parturition. Pregnancy Teratogenic Effects Reproduction studies have been performed in mice, rats, and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when lactulose is administered to a nursing woman. Pediatric Use Safety and effectiveness in pediatric patients have not been established."
-  ],
-  "general_precautions": [
-   "General Since LACTULOSE For Oral Solution contains galactose and lactose (less than 0.3 g/10 g as a total sum), it should be used with caution in diabetics."
-  ],
-  "information_for_patients": [
-   "Information for Patients In the event that an unusual diarrheal condition occurs, contact your physician."
-  ],
-  "laboratory_tests": [
-   "Laboratory Tests Elderly, debilitated patients who receive lactulose for more than six months should have serum electrolytes (potassium, chloride, carbon dioxide) measured periodically."
-  ],
-  "drug_interactions": [
-   "Drug Interactions Results of preliminary studies in humans and rats suggest that nonabsorbable antacids given concurrently with lactulose may inhibit the desired lactulose-induced drop in colonic pH. Therefore, a possible lack of desired effect of treatment should be taken into consideration before such drugs are given concomitantly with lactulose."
-  ],
-  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
-   "Carcinogenesis, Mutagenesis, Impairment of Fertility There are no known human data on long-term potential for carcinogenicity, mutagenicity, or impairment of fertility. There are no known animal data on long-term potential for mutagenicity. Administration of lactulose syrup in the diet of mice for 18 months in concentrations of 3 and 10 percent (v/w) did not produce any evidence of carcinogenicity. In studies in mice, rats, and rabbits, doses of lactulose syrup up to 6 or 12 mL/kg/day produced no deleterious effects in breeding, conception, or parturition."
-  ],
-  "pregnancy": [
-   "Pregnancy Teratogenic Effects Reproduction studies have been performed in mice, rats, and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
-  ],
-  "teratogenic_effects": [
-   "Teratogenic Effects Reproduction studies have been performed in mice, rats, and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed."
-  ],
-  "nursing_mothers": [
-   "Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when lactulose is administered to a nursing woman."
-  ],
-  "pediatric_use": [
-   "Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+   "PRECAUTIONS General Since Generlac Solution contains galactose (less than 1.6 g/15 mL) and lactose (less than 1.2 g/15 mL), it should be used with caution in diabetics. In the overall management of portal-systemic encephalopathy, it should be recognized that there is serious underlying liver disease with complications such as electrolyte disturbance (e.g., hypokalemia) for which other specific therapy may be required. Infants receiving lactulose may develop hyponatremia and dehydration. Drug Interactions There have been conflicting reports about the concomitant use of neomycin and lactulose solution. Theoretically, the elimination of certain colonic bacteria by neomycin and possibly other anti-infective agents may interfere with the desired degradation of lactulose and thus prevent the acidification of colonic contents. Thus the status of the lactulose-treated patient should be closely monitored in the event of concomitant oral anti-infective therapy. Results of preliminary studies in humans and rats suggest that nonabsorbable antacids given concurrently with lactulose may inhibit the desired lactulose-induced drop in colonic pH. Therefore, a possible lack of desired effect of treatment should be taken into consideration before such drugs are given concomitantly with Generlac Solution. Other laxatives should not be used, especially during the initial phase of therapy for portalsystemic encephalopathy, because the loose stools resulting from their use may falsely suggest that adequate Generlac Solution dosage has been achieved. Carcinogenesis, Mutagenesis, Impairment of Fertility There are no known human data on long-term potential for carcinogenicity, mutagenicity, or impairment of fertility. There are no known animal data on long-term potential for mutagenicity. Administration of lactulose solution in the diet of mice for 18 months in concentrations of 3 and 10 percent (v/w) did not produce any evidence of carcinogenicity. In studies of mice, rats, and rabbits, doses of lactulose solution up to 6 or 12 mL/kg/day produced no deleterious effects in breeding, conception, or parturition. Pregnancy Teratogenic Effects Pregnancy Category B Reproduction studies have been performed in mice, rats, and rabbits at doses up to 2 or 4 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Generlac Solution is administered to a nursing woman. Pediatric Use Very little information on the use of lactulose in pediatric patients has been recorded (see DOSAGE AND ADMINISTRATION )."
   ],
   "adverse_reactions": [
-   "ADVERSE REACTIONS Precise frequency data are not available. Initial dosing may produce flatulence and intestinal cramps, which are usually transient. Excessive dosage can lead to diarrhea with potential complications such as loss of fluids, hypokalemia, and hypernatremia. Nausea and vomiting have been reported."
+   "ADVERSE REACTIONS Precise frequency data are not available. Generlac Solution may produce gaseous distention with flatulence or belching and abdominal discomfort such as cramping in about 20% of patients. Excessive dosage can lead to diarrhea with potential complications such as loss of fluids, hypokalemia, and hypernatremia. Nausea and vomiting have been reported. To report SUSPECTED ADVERSE REACTIONS, contact Chartwell RX, LLC at 1-845-232-1683 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
   ],
   "overdosage": [
    "OVERDOSAGE Signs and Symptoms There have been no reports of accidental overdosage. In the event of overdosage, it is expected that diarrhea and abdominal cramps would be the major symptoms. Medication should be terminated. Oral LD 50 The acute oral LD 50 of the drug is 48.8 mL/kg in mice and greater than 30 mL/kg in rats. Dialysis Dialysis data are not available for lactulose. Its molecular similarity to sucrose, however, would suggest that it should be dialyzable."
   ],
   "dosage_and_administration": [
-   "DOSAGE AND ADMINISTRATION The usual adult dosage is 10 g to 20 g of lactulose daily. The dose may be increased to 40 g daily if necessary. Twenty-four to 48 hours may be required to produce a normal bowel movement."
+   "DOSAGE AND ADMINISTRATION Oral Adult The usual adult oral dosage is 2 to 3 tablespoonfuls (30 to 45 mL, containing 20 g to 30 g of Generlac Solution) three or four times daily. The dosage may be adjusted every day or two to produce 2 or 3 soft stools daily. Hourly doses of 30 to 45 mL of Generlac Solution may be used to induce the rapid laxation indicated in the initial phase of the therapy of portal-systemic encephalopathy. When the laxative effect has been achieved, the dose of Generlac Solution may then be reduced to the recommended daily dose. Improvement in the patient's condition may occur within 24 hours but may not begin before 48 hours or even later. Continuous long-term therapy is indicated to lessen the severity and prevent the recurrence of portal-systemic encephalopathy. The dose of Generlac Solution for this purpose is the same as the recommended daily dose. Pediatric Very little information on the use of lactulose in young children and adolescents has been recorded. As with adults, the subjective goal in proper treatment is to produce 2 to 3 soft stools daily. On the basis of information available, the recommended initial daily oral dose in infants is 2.5 to 10 mL in divided doses. For older children and adolescents, the total daily dose is 40 to 90 mL. If the initial dose causes diarrhea, the dose should be reduced immediately. If diarrhea persists, Generlac Solution should be discontinued. Rectal When the adult patient is in the impending coma or coma stage of portal-systemic encephalopathy and the danger of aspiration exists, or when the necessary endoscopic or intubation procedures physically interfere with the administration of the recommended oral doses, Generlac Solution may be given as a retention enema via a rectal balloon catheter. Cleansing enemas containing soapsuds or other alkaline agents should not be used. Three hundred mL of Generlac Solution should be mixed with 700 mL of water or physiologic saline and retained for 30 to 60 minutes. Generlac Solution enema may be repeated every 4 to 6 hours. If the enema is inadvertently evacuated too promptly, it may be repeated immediately. The goal of treatment is reversal of the coma stage in order that the patient may be able to take oral medication. Reversal of coma may take place within 2 hours of the first enema in some patients. Generlac Solution, given orally in the recommended doses, should be started before Generlac Solution by enema is stopped entirely."
   ],
   "how_supplied": [
-   "HOW SUPPLIED LACTULOSE For Oral Solution is available in single dose packets of 10 g (NDC 85592-819-01) and single dose packets of 20 g (NDC 85592-829-01). The packets are supplied as follows: NDC 85592-819-30 (Carton of thirty 10 g packets) NDC 85592-829-30 (Carton of thirty 20 g packets) STORE AT ROOM TEMPERATURE, 15°-30°C (59°-86°F). To report SUSPECTED ADVERSE REACTIONS, contact Cumberland Assured Products Inc. at 1-615-564-2189 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. Manufactured for: CUMBERLAND ASSURED PRODUCTS INC. Nashville, TN 37203 Issued: July 2025"
+   "HOW SUPPLIED Generlac Solution (Lactulose Solution, USP, 10 g/15 mL) is a colorless to yellow, unflavored solution containing 10 g of lactulose/15 mL (667 mg lactulose/mL). It is available in the following container sizes: 1 Pint (473 mL) bottles (NDC 62135-892-47) 2 Pints (946 mL) bottles (NDC 62135-892-94) STORAGE AND HANDLING Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Do Not Freeze Under recommended storage conditions, a normal darkening of color may occur. Such darkening is characteristic of sugar solutions and does not affect therapeutic action. Prolonged exposure to temperatures above 30°C (86°F) or to direct light may cause extreme darkening and turbidity which may be pharmaceutically objectionable. If this condition develops, do not use. Prolonged exposure to freezing temperatures may cause change to a semi-solid, too viscous to pour. Viscosity will return to normal upon warming to room temperature. Dispense in original container or in a tight, light-resistant container with child-resistant closure as defined in the USP. To The Pharmacist: When ordering this product, include the product number (or NDC) in the description. Rx Only Manufactured For: Chartwell RX, LLC. Congers, NY 10920 L72255 Rev. 07/2024"
   ],
-  "set_id": "59e75426-42ae-4904-941f-009181101a8a",
-  "id": "ef4e6e26-7b7d-4c48-8cc8-c101cc24d6f9",
-  "effective_time": "20250901",
-  "version": "2"
+  "set_id": "35207edd-a5fe-4369-a079-7a8b0d2f2e91",
+  "id": "1d600b06-58c7-b83e-e063-6294a90a86f9",
+  "effective_time": "20240716",
+  "version": "1"
  }
 }

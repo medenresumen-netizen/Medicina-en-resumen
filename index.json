@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T15:54Z",
- "n": 356,
+ "updated": "2026-11-11T15:59Z",
+ "n": 360,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -2053,6 +2053,22 @@
    "n_candidates": 24
   },
   {
+   "id_es": "esomeprazol-iv",
+   "generic_en": "esomeprazole sodium",
+   "brand": [
+    "Esomeprazole sodium"
+   ],
+   "manufacturer": [
+    "Slate Run Pharmaceuticals, LLC"
+   ],
+   "effective_time": "20260622",
+   "set_id": "23395673-116d-4a8e-b0ce-59f9ca5b3daf",
+   "application": [
+    "ANDA215732"
+   ],
+   "n_candidates": 3
+  },
+  {
    "id_es": "esomeprazol",
    "generic_en": "esomeprazole",
    "brand": [
@@ -3270,17 +3286,17 @@
    "id_es": "lactulosa",
    "generic_en": "lactulose",
    "brand": [
-    "LACTULOSE Crystalline"
+    "Generlac"
    ],
    "manufacturer": [
-    "Cumberland Assured Products Inc."
+    "Chartwell RX, LLC"
    ],
-   "effective_time": "20250901",
-   "set_id": "59e75426-42ae-4904-941f-009181101a8a",
+   "effective_time": "20240716",
+   "set_id": "35207edd-a5fe-4369-a079-7a8b0d2f2e91",
    "application": [
-    "ANDA074712"
+    "ANDA074603"
    ],
-   "n_candidates": 24
+   "n_candidates": 1
   },
   {
    "id_es": "leflunomida",
@@ -3647,6 +3663,22 @@
    "set_id": "06bb4bcc-5e47-48b6-a76c-648f846704e8",
    "application": [
     "ANDA040547"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metoclopramida-iv",
+   "generic_en": "metoclopramide",
+   "brand": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20260819",
+   "set_id": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347",
+   "application": [
+    "ANDA217072"
    ],
    "n_candidates": 25
   },
@@ -4147,20 +4179,36 @@
    "n_candidates": 25
   },
   {
+   "id_es": "ondansetron-iv",
+   "generic_en": "ondansetron",
+   "brand": [
+    "Ondansetron"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20260522",
+   "set_id": "6a11f61b-2318-4382-2b91-4366e4bb53fa",
+   "application": [
+    "ANDA077548"
+   ],
+   "n_candidates": 1
+  },
+  {
    "id_es": "ondansetron",
    "generic_en": "ondansetron",
    "brand": [
-    "Ondansetron ODT"
+    "Ondansetron"
    ],
    "manufacturer": [
-    "Advanced Rx of Tennessee, LLC"
+    "REMEDYREPACK INC."
    ],
-   "effective_time": "20241231",
-   "set_id": "af836a30-5e51-5c97-e053-2995a90a15b9",
+   "effective_time": "20261105",
+   "set_id": "9c3ad9c1-474e-4331-a017-09cec46702d8",
    "application": [
-    "ANDA090469"
+    "ANDA078152"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "oseltamivir",
@@ -4193,6 +4241,22 @@
     "NDA208090"
    ],
    "n_candidates": 10
+  },
+  {
+   "id_es": "pantoprazol-iv",
+   "generic_en": "pantoprazole sodium",
+   "brand": [
+    "Protonix I.V."
+   ],
+   "manufacturer": [
+    "Cardinal Health 107, LLC"
+   ],
+   "effective_time": "20260406",
+   "set_id": "50802e19-72d3-4130-8d14-eb94361b38e7",
+   "application": [
+    "NDA020988"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "pantoprazol",
@@ -4631,14 +4695,14 @@
     "XIFAXAN"
    ],
    "manufacturer": [
-    "Cardinal Health 107, LLC"
+    "Salix Pharmaceuticals, Inc."
    ],
-   "effective_time": "20250827",
-   "set_id": "7afafa63-3236-4212-9589-045db6b01c0b",
+   "effective_time": "20250625",
+   "set_id": "c5e8e2fd-7087-4b78-9181-cc259c0be2f1",
    "application": [
     "NDA021361"
    ],
-   "n_candidates": 3
+   "n_candidates": 1
   },
   {
    "id_es": "risankizumab",

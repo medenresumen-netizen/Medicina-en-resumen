@@ -1,0 +1,754 @@
+{
+ "id_es": "metoclopramida-iv",
+ "generic_en": "metoclopramide",
+ "search": "openfda.generic_name.exact:\"METOCLOPRAMIDE\"",
+ "pref": "metoclopramide|INTRAVENOUS|",
+ "downloaded": "2026-11-11T15:59Z",
+ "chosen": {
+  "set_id": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347",
+  "id": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347",
+  "effective_time": "20260819",
+  "version": "1",
+  "brand_name": [
+   "METOCLOPRAMIDE"
+  ],
+  "generic_name": [
+   "METOCLOPRAMIDE"
+  ],
+  "manufacturer_name": [
+   "Baxter Healthcare Corporation"
+  ],
+  "route": [
+   "INTRAMUSCULAR",
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA217072"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "917494a9-cff1-4ee6-9523-e112120373c5",
+   "id": "30683997-9059-4c61-ba7f-578f9c0bf8f9",
+   "effective_time": "20261104",
+   "version": "19",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA073118"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "3ce3245f-7021-5135-e063-6394a90a7d95",
+   "id": "5f1627f0-dc0f-8f6a-e063-6294a90aecf1",
+   "effective_time": "20261030",
+   "version": "5",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "ATLANTIC BIOLOGICALS CORP."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071402"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "55b3fecb-f60c-474b-9530-915b0e68bf85",
+   "id": "2d364b7d-8986-4dcb-bb3b-657a6dbf9f23",
+   "effective_time": "20261027",
+   "version": "2",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA073118"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "c4828095-94e0-4f71-901c-93837974c658",
+   "id": "5b9c4cff-c1e4-1ddf-e063-6294a90a5b51",
+   "effective_time": "20260916",
+   "version": "3",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA017854"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "1ecab710-8b7d-4903-80a8-de66562be55a",
+   "id": "d62cfe4a-2614-4bed-9995-5cb99ce91411",
+   "effective_time": "20260910",
+   "version": "11",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA073135"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347",
+   "id": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347",
+   "effective_time": "20260819",
+   "version": "1",
+   "brand_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217072"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "595439ae-cf01-821c-e063-6294a90af16a",
+   "id": "59543a07-5813-821a-e063-6294a90ab735",
+   "effective_time": "20260818",
+   "version": "1",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070184"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "58e70a1b-ac93-ff1d-e063-6394a90aa2da",
+   "id": "58e709e4-ce43-06ab-e063-6294a90a04ea",
+   "effective_time": "20260813",
+   "version": "1",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078807"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "58b3666f-ac0f-811e-e063-6394a90a8e04",
+   "id": "58b3664f-133a-c44c-e063-6294a90ab184",
+   "effective_time": "20260810",
+   "version": "1",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078807"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5d31d815-50fa-4e78-8ebd-affc2514ce78",
+   "id": "57970ef9-a301-fd81-e063-6294a90a51ae",
+   "effective_time": "20260727",
+   "version": "22",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070184"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "0034a97a-fb05-418a-a234-de278907cd2a",
+   "id": "575e02c4-253a-02ab-e063-6294a90aee44",
+   "effective_time": "20260724",
+   "version": "5",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071402"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "c143e210-4ce7-44e5-b1e2-bf0e6bfde485",
+   "id": "17ca2ec2-862d-4060-8682-a9b011d0e787",
+   "effective_time": "20260714",
+   "version": "4",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Ipca Laboratories Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078807"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "697ec7b1-945a-4a31-b585-f051dc246165",
+   "id": "8651fd18-08d1-4bc1-8361-9e14d7fa6825",
+   "effective_time": "20260624",
+   "version": "6",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070184"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "548e83bc-898f-6b16-e063-6294a90a1755",
+   "id": "548e275a-0759-95e4-e063-6294a90a910d",
+   "effective_time": "20260618",
+   "version": "1",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078807"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "7eeaa7bc-c94f-47d0-94e5-e35ccadca19e",
+   "id": "b09a00b4-cbf4-4248-8805-bcafd8a0e5ac",
+   "effective_time": "20260605",
+   "version": "13",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072801"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "5345905d-18b0-1e42-e063-6394a90af745",
+   "id": "5345905d-1884-1e42-e063-6394a90af745",
+   "effective_time": "20260602",
+   "version": "1",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070184"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "5345a125-0cee-472e-e063-6394a90aeb21",
+   "id": "5345a08f-bfed-cf49-e063-6294a90aacf2",
+   "effective_time": "20260602",
+   "version": "1",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072801"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "15d616d7-2f4c-4882-a03c-fcc86c18f5f8",
+   "id": "52cdf1e9-063b-73a0-e063-6294a90ac823",
+   "effective_time": "20260527",
+   "version": "3",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Safecor Health LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072801",
+    "ANDA070184"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "146803a1-199d-4789-b128-e974bdd03322",
+   "id": "ba0bb71a-9eae-4e98-8841-bb1d7e231164",
+   "effective_time": "20260520",
+   "version": "9",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA073118"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "6637cb78-d50a-4dbf-8fb7-b1b5102c5c5f",
+   "id": "522da090-b1c9-b1fa-e063-6394a90a466a",
+   "effective_time": "20260519",
+   "version": "15",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070184"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "797aad80-0597-42f8-99d5-39de180c3b5a",
+   "id": "6d4ed2af-6756-4e7a-8325-820490408f5f",
+   "effective_time": "20260518",
+   "version": "2",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA017854"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "b16ad17c-eeea-407e-91e4-36506e9aa698",
+   "id": "50b47676-8433-bfb9-e063-6394a90a124c",
+   "effective_time": "20260430",
+   "version": "5",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "ScieGen Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072215"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "cccf04bd-7463-40b8-a41f-cb1093c358d7",
+   "id": "e4deb814-efe2-4ed2-84e6-fc9cde89d9e5",
+   "effective_time": "20260422",
+   "version": "14",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Teva Parenteral Medicines, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA073135"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5645a752-8868-4b51-8b59-48bb4276d763",
+   "id": "f69b0326-ca76-4a50-b5ed-1884043326e1",
+   "effective_time": "20260415",
+   "version": "8",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Teva Parenteral Medicines, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA073135"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "373ba08b-33ad-49fc-28a7-928e89a65314",
+   "id": "d913cdad-c1da-40b5-b72f-4e6a143971e6",
+   "effective_time": "20260414",
+   "version": "29",
+   "brand_name": [
+    "Metoclopramide"
+   ],
+   "generic_name": [
+    "METOCLOPRAMIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA073118"
+   ],
+   "n_sections": 21
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: TARDIVE DYSKINESIA • Metoclopramide, including metoclopramide injection, can cause tardive dyskinesia (TD), a potentially irreversible serious movement disorder. In patients treated with metoclopramide, including metoclopramide injection, the risk of developing tardive dyskinesia increases with duration of treatment and total cumulative dosage. • Metoclopramide injection is contraindicated in patients with a history of TD. • Immediately discontinue metoclopramide injection in patients who develop signs or symptoms of TD. • In patients with diabetic gastroparesis, avoid a total duration of treatment with metoclopramide products, including metoclopramide injection, for longer than 12 weeks. If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD. See WARNINGS ."
+  ],
+  "description": [
+   "DESCRIPTION Metoclopramide hydrochloride, USP is a white or almost white odorless crystalline powder, very soluble in water. Chemically, it is benzamide, 4-amino-5-chloro-N-[2-(diethylamino)ethyl]-2-methoxy-, monohydrochloride, monohydrate. Molecular weight: 354.27 g/mol. C 14 H 22 ClN 3 O 2 ●HCl●H 2 O Metoclopramide injection, USP is a clear, colorless, sterile solution with a pH of 2.5 to 6.5 for intravenous (IV) or intramuscular (IM) administration. This product is light sensitive. It should be inspected before use and discarded if either color or particulate is observed. 2 mL single-dose vials Each 1 mL contains: Metoclopramide base 5 mg (as the monohydrochloride monohydrate), Sodium Chloride, USP 8.5 mg, Water for Injection, USP q.s. pH adjusted, when necessary, with hydrochloric acid and/or sodium hydroxide. description-1"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions. Its mode of action is unclear. It seems to sensitize tissues to the action of acetylcholine. The effect of metoclopramide on motility is not dependent on intact vagal innervation, but it can be abolished by anticholinergic drugs. Metoclopramide increases the tone and amplitude of gastric (especially antral) contractions, relaxes the pyloric sphincter and the duodenal bulb, and increases peristalsis of the duodenum and jejunum resulting in accelerated gastric emptying and intestinal transit. It increases the resting tone of the lower esophageal sphincter. It has little, if any, effect on the motility of the colon or gallbladder. In patients with gastroesophageal reflux and low LESP (lower esophageal sphincter pressure), single oral doses of metoclopramide produce dose-related increases in LESP. Effects begin at about 5 mg and increase through 20 mg (the largest dose tested). The increase in LESP from a 5 mg dose lasts about 45 minutes and that of 20 mg lasts between 2 and 3 hours. Increased rate of stomach emptying has been observed with single oral doses of 10 mg. The antiemetic properties of metoclopramide appear to be a result of its antagonism of central and peripheral dopamine receptors. Dopamine produces nausea and vomiting by stimulation of the medullary chemoreceptor trigger zone (CTZ), and metoclopramide blocks stimulation of the CTZ by agents like l-dopa or apomorphine which are known to increase dopamine levels or to possess dopamine-like effects. Metoclopramide also abolishes the slowing of gastric emptying caused by apomorphine. Like the phenothiazines and related drugs, which are also dopamine antagonists, metoclopramide produces sedation and may produce extrapyramidal reactions, although these are comparatively rare (see WARNINGS ). Metoclopramide inhibits the central and peripheral effects of apomorphine, induces release of prolactin and causes a transient increase in circulating aldosterone levels, which may be associated with transient fluid retention. The onset of pharmacological action of metoclopramide is 1 to 3 minutes following an intravenous dose, 10 to 15 minutes following intramuscular administration, and 30 to 60 minutes following an oral dose; pharmacological effects persist for 1 to 2 hours. Pharmacokinetics Metoclopramide is rapidly and well absorbed. Relative to an intravenous dose of 20 mg, the absolute oral bioavailability of metoclopramide is 80% ± 15.5% as demonstrated in a crossover study of 18 subjects. Peak plasma concentrations occur at about 1 to 2 hours after a single oral dose. Similar time to peak is observed after individual doses at steady-state. In a single-dose study of 12 subjects, the area under the drug concentration-time curve increases linearly with doses from 20 mg to 100 mg. Peak concentrations increase linearly with dose; time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same. The average elimination half-life in individuals with normal renal function is 5 to 6 hours. Linear kinetic processes adequately describe the absorption and elimination of metoclopramide. Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hours. Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide. The drug is not extensively bound to plasma proteins (about 30%). The whole body volume of distribution is high (about 3.5 L/kg) which suggests extensive distribution of drug to the tissues (see Table 1). Table 1. Adult Pharmacokinetic Data Parameter Value Vd (L/kg) ~ 3.5 Plasma Protein Binding ~ 30% t 1/2 (hours) 5 to 6 Oral Bioavailability 80% ± 15.5% Patients with Renal Impairment In a study of 24 patients with varying degrees of renal impairment (moderate, severe, and end-stage renal disease (ESRD) requiring dialysis), the systemic exposure (AUC) of metoclopramide following intravenous administration in patients with moderate to severe renal impairment was about 2-fold the AUC in subjects with normal renal function. The AUC of metoclopramide in patients with ESRD in dialysis was about 3.5-fold the AUC in subjects with normal renal function. Patients with Hepatic Impairment In a group of 8 patients with severe hepatic impairment (Child-Pugh C) administered intravenous metoclopramide, the average metoclopramide clearance was reduced by approximately 50% compared to patients with normal hepatic function. Effect of CYP2D6 Inhibitors on Metoclopramide In healthy subjects, 20 mg of oral metoclopramide and 60 mg of fluoxetine (a strong CYP2D6 inhibitor) were administered, following prior exposure to 60 mg fluoxetine orally for 8 days. The patients who received concomitant metoclopramide and fluoxetine had a 40% and 90% increase in metoclopramide C max and AUC 0-∞ , respectively, compared to patients who received metoclopramide alone (see Table 2). Table 2. Oral Metoclopramide Pharmacokinetic Parameters in Healthy Subjects with and without Fluoxetine Parameter Metoclopramide alone (mean ±SD) Metoclopramide with fluoxetine (mean ±SD) C max (ng/mL) 44±15 62.7±9.2 AUC 0-∞ (ng∙h/mL) 313±113 591±140 T 1/2 (h) 5.5±1.1 8.5±2.2 Pediatric Patients In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established. There are insufficient reliable data to conclude whether the pharmacokinetics of metoclopramide in adults and the pediatric population are similar."
+  ],
+  "clinical_pharmacology_table": [
+   "<table width=\"100%\"> <col width=\"50%\"/> <col width=\"48%\"/> <tbody> <tr> <td align=\"center\" colspan=\"2\" styleCode=\"Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Table 1. Adult Pharmacokinetic Data</content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Parameter</content> </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Value</content> </item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>Vd (L/kg)</item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>~ 3.5</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>Plasma Protein Binding</item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>~ 30%</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>t<sub>1/2</sub> (hours)</item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>5 to 6</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>Oral Bioavailability</item> </list> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>80% &#xB1; 15.5%</item> </list> </td> </tr> </tbody> </table>",
+   "<table width=\"100%\"> <col width=\"33%\"/> <col width=\"33%\"/> <col width=\"33%\"/> <tbody> <tr styleCode=\"Toprule\"> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"unordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Parameter</content> </item> </list> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"unordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Metoclopramide alone </content> </item> <item> <caption> </caption>(mean &#xB1;SD)</item> </list> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"unordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Metoclopramide with fluoxetine </content> </item> <item> <caption> </caption>(mean &#xB1;SD)</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>C<sub>max</sub> (ng/mL) </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>44&#xB1;15 </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>62.7&#xB1;9.2 </item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>AUC<sub>0-&#x221E;</sub> (ng&#x2219;h/mL) </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>313&#xB1;113 </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>591&#xB1;140 </item> </list> </td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>T<sub>1/2</sub>(h) </item> </list> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>5.5&#xB1;1.1 </item> </list> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>8.5&#xB1;2.2 </item> </list> </td> </tr> </tbody> </table>"
+  ],
+  "pharmacokinetics": [
+   "Pharmacokinetics Metoclopramide is rapidly and well absorbed. Relative to an intravenous dose of 20 mg, the absolute oral bioavailability of metoclopramide is 80% ± 15.5% as demonstrated in a crossover study of 18 subjects. Peak plasma concentrations occur at about 1 to 2 hours after a single oral dose. Similar time to peak is observed after individual doses at steady-state. In a single-dose study of 12 subjects, the area under the drug concentration-time curve increases linearly with doses from 20 mg to 100 mg. Peak concentrations increase linearly with dose; time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same. The average elimination half-life in individuals with normal renal function is 5 to 6 hours. Linear kinetic processes adequately describe the absorption and elimination of metoclopramide. Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hours. Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide. The drug is not extensively bound to plasma proteins (about 30%). The whole body volume of distribution is high (about 3.5 L/kg) which suggests extensive distribution of drug to the tissues (see Table 1). Table 1. Adult Pharmacokinetic Data Parameter Value Vd (L/kg) ~ 3.5 Plasma Protein Binding ~ 30% t 1/2 (hours) 5 to 6 Oral Bioavailability 80% ± 15.5% Patients with Renal Impairment In a study of 24 patients with varying degrees of renal impairment (moderate, severe, and end-stage renal disease (ESRD) requiring dialysis), the systemic exposure (AUC) of metoclopramide following intravenous administration in patients with moderate to severe renal impairment was about 2-fold the AUC in subjects with normal renal function. The AUC of metoclopramide in patients with ESRD in dialysis was about 3.5-fold the AUC in subjects with normal renal function. Patients with Hepatic Impairment In a group of 8 patients with severe hepatic impairment (Child-Pugh C) administered intravenous metoclopramide, the average metoclopramide clearance was reduced by approximately 50% compared to patients with normal hepatic function. Effect of CYP2D6 Inhibitors on Metoclopramide In healthy subjects, 20 mg of oral metoclopramide and 60 mg of fluoxetine (a strong CYP2D6 inhibitor) were administered, following prior exposure to 60 mg fluoxetine orally for 8 days. The patients who received concomitant metoclopramide and fluoxetine had a 40% and 90% increase in metoclopramide C max and AUC 0-∞ , respectively, compared to patients who received metoclopramide alone (see Table 2). Table 2. Oral Metoclopramide Pharmacokinetic Parameters in Healthy Subjects with and without Fluoxetine Parameter Metoclopramide alone (mean ±SD) Metoclopramide with fluoxetine (mean ±SD) C max (ng/mL) 44±15 62.7±9.2 AUC 0-∞ (ng∙h/mL) 313±113 591±140 T 1/2 (h) 5.5±1.1 8.5±2.2 Pediatric Patients In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established. There are insufficient reliable data to conclude whether the pharmacokinetics of metoclopramide in adults and the pediatric population are similar."
+  ],
+  "pharmacokinetics_table": [
+   "<table width=\"100%\"> <col width=\"50%\"/> <col width=\"48%\"/> <tbody> <tr> <td align=\"center\" colspan=\"2\" styleCode=\"Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Table 1. Adult Pharmacokinetic Data</content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Parameter</content> </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Value</content> </item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>Vd (L/kg)</item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>~ 3.5</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>Plasma Protein Binding</item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>~ 30%</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>t<sub>1/2</sub> (hours)</item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>5 to 6</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>Oral Bioavailability</item> </list> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>80% &#xB1; 15.5%</item> </list> </td> </tr> </tbody> </table>",
+   "<table width=\"100%\"> <col width=\"33%\"/> <col width=\"33%\"/> <col width=\"33%\"/> <tbody> <tr styleCode=\"Toprule\"> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"unordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Parameter</content> </item> </list> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"unordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Metoclopramide alone </content> </item> <item> <caption> </caption>(mean &#xB1;SD)</item> </list> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"unordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Metoclopramide with fluoxetine </content> </item> <item> <caption> </caption>(mean &#xB1;SD)</item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>C<sub>max</sub> (ng/mL) </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>44&#xB1;15 </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>62.7&#xB1;9.2 </item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>AUC<sub>0-&#x221E;</sub> (ng&#x2219;h/mL) </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>313&#xB1;113 </item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>591&#xB1;140 </item> </list> </td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>T<sub>1/2</sub>(h) </item> </list> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>5.5&#xB1;1.1 </item> </list> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>8.5&#xB1;2.2 </item> </list> </td> </tr> </tbody> </table>"
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Diabetic Gastroparesis Metoclopramide injection is indicated for the relief of symptoms associated with acute and recurrent diabetic gastroparesis is in adults. The Prevention of Nausea and Vomiting Associated with Emetogenic Cancer Chemotherapy Metoclopramide injection is indicated for the prophylaxis of vomiting associated with emetogenic cancer chemotherapy in adults. The Prevention of Postoperative Nausea and Vomiting Metoclopramide injection is indicated for the prophylaxis of postoperative nausea and vomiting in those circumstances where nasogastric suction is undesirable in adults. Small Bowel Intubation Metoclopramide injection is indicated to facilitate small bowel intubation in adult and pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers. Radiological Examination Metoclopramide injection is indicated to stimulate gastric emptying and intestinal transit of barium where delayed emptying interferes with radiological examination of the stomach and/or small intestine in adults."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Metoclopramide injection is contraindicated: • in patients with a history of tardive dyskinesia (TD) or a dystonic reaction to metoclopramide. See WARNINGS . • whenever stimulation of gastrointestinal motility might be dangerous, e.g., in the presence of gastrointestinal hemorrhage, mechanical obstruction, or perforation. • in patients with pheochromocytoma or other catecholamine-releasing paragangliomas. Metoclopramide may cause a hypertensive/pheochromocytoma crisis, probably due to release of catecholamines from the tumor. • in patients with known sensitivity or intolerance to metoclopramide. • in patients with epilepsy. Metoclopramide injection may increase the frequency and severity of seizures."
+  ],
+  "warnings": [
+   "WARNINGS Tardive Dyskinesia (see BOXED WARNING ) Metoclopramide, including metoclopramide injection, can cause tardive dyskinesia (TD), a syndrome of potentially irreversible and disfiguring involuntary movements of the face or tongue, and sometimes of the trunk and/or extremities. Metoclopramide, including metoclopramide injection, may also suppress, or partially suppress, the signs of TD, and may delay the diagnosis of TD because it may mask the underlying disease process. The effect of the symptomatic suppression upon the long-term course of TD is unknown. TD may remit, partially or completely, if treatment with metoclopramide injection is discontinued. In patients treated with metoclopramide, including metoclopramide injection, the risk of developing TD and the likelihood that TD will become irreversible increases with duration of treatment and total cumulative dosage. Additionally, the risk of developing TD is increased in elderly patients, especially in elderly women, and in patients with diabetes mellitus. Prevention, Mitigation, and Monitoring for TD • Metoclopramide injection, contraindicated in patients with history of TD • Avoid use of metoclopramide injection in patients receiving concomitant antipsychotics due to the potential additive effects of TD. • Reduce the dosage of metoclopramide injection in the elderly (see DOSAGE AND ADMINISTRATION, Renal and Hepatic Impairment ). • Immediately discontinue metoclopramide injection immediately in patients who develop signs and symptoms of TD. • In patients with diabetic gastroparesis, avoid a total duration of treatment with metoclopramide products, including metoclopramide injection, for longer than 12 weeks. If longer-term use is unavoidable, routinely monitor for signs and symptoms of TD. • If patients have continued TD symptoms, consider TD treatment. Other Extrapyramidal Symptoms In addition to TD, metoclopramide may cause other extrapyramidal symptoms (EPS), parkinsonian symptoms, and motor restlessness. Advise patients to seek immediate medical attention if such symptoms occur and to discontinue metoclopramide injection. • Extrapyramidal symptoms (EPS), such as acute dystonic reactions, occurred in patients treated with metoclopramide dosages of 30 mg to 40 mg daily. Such reactions occurred more frequently in adults less than 30 years of age and at the higher dosages used in prophylaxis of vomiting due to cancer chemotherapy. EPS occurred more frequently in pediatric patients compared to adults (metoclopramide injection is only approved in pediatric patients for small bowel intubation). Symptoms can occur in the first 24 to 48 hours after starting metoclopramide. Symptoms included involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus. Rarely, dystonic reactions were present as stridor and dyspnea, possibly due to laryngospasm. Diphenhydramine hydrochloride or benztropine mesylate may be used to treat these adverse reactions. Avoid metoclopramide injection in patients receiving other drugs that can cause EPS (e.g., antipsychotics). • Parkinsonian symptoms (bradykinesia, tremor, cogwheel rigidity, mask-like facies), have occurred after starting metoclopramide, more commonly within the first 6 months, but also after longer periods. Symptoms generally have subsided within 2 to 3 months after discontinuation of metoclopramide. Avoid metoclopramide injection in patients with Parkinson’s disease and other patients being treated with antiparkinsonian drugs due to potential exacerbation of symptoms. If treatment is unavoidable, use metoclopramide injection for the shortest duration of treatment and periodically reassess the need for continued treatment. Routinely monitor for signs and symptoms of Parkinson’s disease. • Motor restlessness (akathisia) has developed and consisted of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, and foot tapping. If symptoms resolve, consider restarting at a lower dosage. Neuroleptic Malignant Syndrome Metoclopramide may cause a potentially fatal symptom complex called neuroleptic malignant syndrome (NMS). NMS has been reported in association with metoclopramide overdosage and concomitant treatment with another drug associated with NMS. Avoid metoclopramide injection in patients receiving other drugs associated with NMS, including typical and atypical antipsychotics. Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and manifestations of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac arrhythmias). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. Patients with such symptoms should be evaluated immediately. In the diagnostic evaluation, consider the presence of other serious medical conditions (e.g., pneumonia, systemic infection) and untreated or inadequately treated extrapyramidal signs and symptoms. Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, malignant hyperthermia, drug fever, serotonin syndrome, and primary central nervous system pathology. Management of NMS includes: o Immediate discontinuation of metoclopramide injection and other drugs not essential to concurrent therapy (see PRECAUTIONS – Drug Interactions ). o Intensive symptomatic treatment and medical monitoring. o Treatment of any concomitant serious medical problems for which specific treatments are available. Depression Depression has occurred in patients with and without prior history of depression. Symptoms have ranged from mild to severe and have included suicidal ideation and suicide. Metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks."
+  ],
+  "precautions": [
+   "PRECAUTIONS Hypertension In one study in hypertensive patients, intravenously administered metoclopramide was shown to release catecholamines; avoid metoclopramide injection in patients with hypertension or patients taking monoamine oxidase inhibitors (see PRECAUTIONS – Drug Interactions ). There are also clinical reports of hypertensive crises in patients with undiagnosed pheochromocytoma. Metoclopramide injection is contraindicated in patients with pheochromocytoma or other catecholamine-releasing paragangliomas. Discontinue metoclopramide injection in any patient with a rapid rise in blood pressure. Fluid Overload Because metoclopramide produces a transient increase in plasma aldosterone, certain patients, especially those with cirrhosis or congestive heart failure, may be at risk of developing fluid retention and volume overload. Discontinue metoclopramide injection if any of these adverse reactions occur. Adverse Reactions with Rapid Intravenous Administration Intravenous injections of undiluted metoclopramide injection should be made slowly allowing 1 to 2 minutes for 10 mg since a transient but intense feeling of anxiety and restlessness, followed by drowsiness, may occur with rapid administration. Intravenous administration of metoclopramide injection diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes. Anastamotic Dehiscence Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure. This possibility should be considered and weighed when deciding whether to use metoclopramide injection or nasogastric suction in the prevention of postoperative nausea and vomiting. Effects on the Ability to Drive and Operate Machinery Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle. Concomitant use of central nervous system (CNS) depressants or drugs associated with EPS may increase this effect (e.g., alcohol, sedatives, hypnotics, opiates, and anxiolytics). Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient. Drug Interactions Effects of Other Drugs on Metoclopramide Table 3 displays the effects of other drugs on metoclopramide. Table 3. Effects of Other Drugs on Metoclopramide Antipsychotics Clinical Impact Potential for additive effects, including increased frequency and severity of tardive dyskinesia (TD), other extrapyramidal symptoms (EPS), and neuroleptic malignant syndrome (NMS). Intervention Avoid concomitant use . Strong CYP2D6 Inhibitors, not Included in Antipsychotic Category Above Clinical Impact Increased plasma concentrations of metoclopramide; risk of exacerbation of extrapyramidal symptoms. Intervention Avoid metoclopramide injection. If use is unavoidable, monitor for adverse reactions Examples quinidine, bupropion, fluoxetine, and paroxetine Monoamine Oxidase Inhibitors Clinical Impact Increased risk of hypertension . Intervention Avoid concomitant use. Central Nervous System (CNS) Depressants Clinical Impact Increased risk of CNS depression . Intervention Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient Examples alcohol, sedatives, hypnotics, opiates and anxiolytics Drugs that Impair Gastrointestinal Motility Clinical Impact Decreased systemic absorption of metoclopramide. Intervention Monitor for reduced therapeutic effect. Examples antiperistaltic antidiarrheal drugs, anticholinergic drugs, and opiates Dopaminergic Agonists and Other Drugs that Increase Dopamine Concentrations Clinical Impact Decreased therapeutic effect of metoclopramide due to opposing effects on dopamine. Intervention Monitor for reduced therapeutic effect. Examples apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, and rotigotine Effects of Metoclopramide on Other Drugs Table 4 displays the effects of metoclopramide on other drugs. Table 4. Effects of Metoclopramide on Other Drugs Dopaminergic Agonists and Drugs Increasing Dopamine Concentrations Clinical Impact Opposing effects of metoclopramide and the interacting drug on dopamine. Potential exacerbation of symptoms (e.g., parkinsonian symptoms). Intervention Avoid concomitant use. Examples Apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, rotigotine Succinylcholine, Mivacurium Clinical Impact Metoclopramide inhibits plasma cholinesterase leading to enhanced neuromuscular blockade. Intervention Monitor for signs and symptoms of prolonged neuromuscular blockade Drugs with Absorption Altered due to Increased Gastrointestinal Motility Clinical Impact The effect of metoclopramide on other drugs is variable. Increased gastrointestinal (GI) motility by metoclopramide may impact absorption of other drugs leading to decreased or increased drug exposure. Intervention Drugs with Decreased Absorption (e.g., digoxin, atovaquone, posaconazole oral suspension*, fosfomycin) : Monitor for reduced therapeutic effect of the interacting drug. For digoxin monitor therapeutic drug concentrations and increase the digoxin dose as needed (see prescribing information for digoxin). Drugs with Increased Absorption (e.g., sirolimus, tacrolimus, cyclosporine) : Monitor therapeutic drug concentrations and adjust the dose as needed. See prescribing information for the interacting drug. Insulin Clinical Impact Increased GI motility by metoclopramide may increase delivery of food to the intestines and increase blood glucose. Intervention Monitor blood glucose and adjust insulin dosage regimen as needed. *Interaction does not apply to posaconazole delayed-release tablets Information for Patients A patient Medication Guide is available for metoclopramide injection. The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents. Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have. Refer to accompanying Medication Guide. Tardive Dyskinesia and/or other Extrapyramidal Reactions Metoclopramide injection may cause tardive dyskinesia or other extrapyramidal symptoms, parkinsonian symptoms, and motor restlessness. Instruct patients to immediately contact their healthcare provider if symptoms occur. See WARNINGS . Neuroleptic Malignant Syndrome Serious neuroleptic malignant syndrome (NMS) has been reported in association with concomitant treatment of metoclopramide with another drug associated with NMS. Advise patients to report all prescription and over-the-counter medications to the healthcare provider. Instruct patients to seek medical attention if symptoms occur. Depression and/or Possible Suicidal Ideation Symptoms of new onset or worsening depression as well as suicidal ideation have been reported in patients taking metoclopramide. Instruct patients to contact their healthcare provider if any of these symptoms occur. Drug Interactions Concomitant treatment with numerous other medications can precipitate or worsen serious adverse reactions such as tardive dyskinesia or other extrapyramidal reactions, neuroleptic malignant syndrome, and CNS depression. Advise patients to report all prescriptions and over the counter medications to the healthcare provider. Effects on the Ability to Drive and Operate Machinery Metoclopramide can cause drowsiness or dizziness, or otherwise impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle. Carcinogenesis, Mutagenesis, Impairment of Fertility A 77-week study was conducted in rats with oral doses up to about 40 times the maximum recommended human daily dose. Metoclopramide elevates prolactin levels and the elevation persists during chronic administration. Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro , a factor of potential importance if the prescription of metoclopramide is contemplated in a patient with previously detected breast cancer. Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating drugs, the clinical significance of elevated serum prolactin levels is unknown for most patients. An increase in mammary neoplasms has been found in rodents after chronic administration of prolactin-stimulating neuroleptic drugs and metoclopramide. Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is too limited to be conclusive at this time. An Ames mutagenicity test performed on metoclopramide was negative. Pregnancy Reproduction studies performed in rats, mice and rabbits by the intramuscular (IM), intravenous (IV), subcutaneous (SC), and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Fetal/Neonatal Adverse Reactions Metoclopramide crosses the placental barrier and may cause extrapyramidal signs and methemoglobinemia in neonates with material administration during delivery. Monitor neonates for extrapyramidal signs. Nursing Mothers Metoclopramide is excreted in human milk. Monitor breastfeeding neonates because metoclopramide may cause extrapyramidal signs (dystonias) and methemoglobinemia. Pediatric Use The safety and effectiveness of metoclopramide injection has been established as a single-dose to facilitate small bowel intubation in pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers. The safety and effectiveness of metoclopramide injection has not been established in pediatric patients for the following: • relief of symptoms associated with diabetic gastroparesis • prevention of nausea and vomiting associated with emetogenic cancer chemotherapy • prevention of postoperative nausea and vomiting • to stimulate gastric emptying and intestinal transit of barium where delayed emptying interferes with radiological examination of the stomach and/or small intestine The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients. Neonates have reduced levels of NADH-cytochrome b 5 reductase which, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE ). Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults (see WARNINGS and ADVERSE REACTIONS – Extrapyramidal Reactions ). Geriatric Use Metoclopramide is known to be substantially excreted by the kidney, and the risk of adverse reactions, including TD, may be greater in patients with impaired renal function (see WARNINGS – Tardive Dyskinesia ). The risk of developing parkinsonian-like side effects increases with ascending dose. Geriatric patients should receive the lowest dose of metoclopramide injection that is effective. If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection, metoclopramide injection should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS – Other Extrapyramidal Symptoms ) . Sedation has been reported in metoclopramide injection users. Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY , PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects ). For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION - Use in Patients with Renal or Hepatic Impairment ). Other Special Populations NADH-Cytochrome b5 Reductase Deficiency Patients with NADH-cytochrome b 5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered. In patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see OVERDOSAGE ). CYP2D6 Poor Metabolizers Metoclopramide is a substrate of CYP2D6. The elimination of metoclopramide may be slowed in patients who are CYP2D6 poor metabolizers (compared to patients who are CYP2D6 intermediate, extensive , or ultra-rapid metabolizers); possibly increasing the risk of dystonic and other adverse reactions to metoclopramide injection. Avoid metoclopramide injection in patients who are poor CYP2D6 metabolizers. If use in unavoidable, monitor for adverse reactions."
+  ],
+  "precautions_table": [
+   "<table width=\"100%\"> <col width=\"21%\"/> <col width=\"77%\"/> <tbody> <tr styleCode=\"Toprule\"> <td colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Antipsychotics </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Potential for additive effects, including increased frequency and severity of tardive dyskinesia (TD), other extrapyramidal symptoms (EPS), and neuroleptic malignant syndrome (NMS). </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Avoid concomitant use<content styleCode=\"italics\">. </content> </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Strong CYP2D6 Inhibitors, not Included in Antipsychotic Category Above </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Increased plasma concentrations of metoclopramide; risk of exacerbation of extrapyramidal symptoms. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Avoid metoclopramide injection. If use is unavoidable, monitor for adverse reactions </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Examples </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>quinidine, bupropion, fluoxetine, and paroxetine </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Monoamine Oxidase Inhibitors </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Increased risk of hypertension<content styleCode=\"italics\">. </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Avoid concomitant use. </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Central Nervous System (CNS) Depressants </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Increased risk of CNS depression<content styleCode=\"italics\">. </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Examples </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>alcohol, sedatives, hypnotics, opiates and anxiolytics </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Drugs that Impair Gastrointestinal Motility </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Decreased systemic absorption of metoclopramide. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Monitor for reduced therapeutic effect. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Examples</content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>antiperistaltic antidiarrheal drugs, anticholinergic drugs, and opiates</paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Dopaminergic Agonists and Other Drugs that Increase Dopamine Concentrations</content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Decreased therapeutic effect of metoclopramide due to opposing effects on dopamine.</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Monitor for reduced therapeutic effect. </paragraph> </td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Examples </content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, and rotigotine </paragraph> </td> </tr> </tbody> </table>",
+   "<table width=\"100%\"> <col width=\"19%\"/> <col width=\"79%\"/> <tbody> <tr styleCode=\"Toprule\"> <td colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Dopaminergic Agonists and Drugs Increasing Dopamine Concentrations </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Opposing effects of metoclopramide and the interacting drug on dopamine. Potential exacerbation of symptoms (e.g., parkinsonian symptoms). </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Avoid concomitant use. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Examples </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, rotigotine </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Succinylcholine, Mivacurium </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Metoclopramide inhibits plasma cholinesterase leading to enhanced neuromuscular blockade. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Monitor for signs and symptoms of prolonged neuromuscular blockade </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Drugs with Absorption Altered due to Increased Gastrointestinal Motility </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>The effect of metoclopramide on other drugs is variable. Increased gastrointestinal (GI) motility by metoclopramide may impact absorption of other drugs leading to decreased or increased drug exposure. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"underline\">Drugs with Decreased Absorption (e.g., digoxin, atovaquone, posaconazole oral suspension*, fosfomycin)</content>: Monitor for reduced therapeutic effect of the interacting drug. For digoxin monitor therapeutic drug concentrations and increase the digoxin dose as needed (see prescribing information for digoxin). </paragraph> <paragraph> <content styleCode=\"underline\">Drugs with Increased Absorption (e.g., sirolimus, tacrolimus, cyclosporine)</content>: Monitor therapeutic drug concentrations and adjust the dose as needed. See prescribing information for the interacting drug. </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Insulin </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Increased GI motility by metoclopramide may increase delivery of food to the intestines and increase blood glucose. </paragraph> </td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>Monitor blood glucose and adjust insulin dosage regimen as needed. </paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "general_precautions": [
+   "Hypertension In one study in hypertensive patients, intravenously administered metoclopramide was shown to release catecholamines; avoid metoclopramide injection in patients with hypertension or patients taking monoamine oxidase inhibitors (see PRECAUTIONS – Drug Interactions ). There are also clinical reports of hypertensive crises in patients with undiagnosed pheochromocytoma. Metoclopramide injection is contraindicated in patients with pheochromocytoma or other catecholamine-releasing paragangliomas. Discontinue metoclopramide injection in any patient with a rapid rise in blood pressure. Fluid Overload Because metoclopramide produces a transient increase in plasma aldosterone, certain patients, especially those with cirrhosis or congestive heart failure, may be at risk of developing fluid retention and volume overload. Discontinue metoclopramide injection if any of these adverse reactions occur. Adverse Reactions with Rapid Intravenous Administration Intravenous injections of undiluted metoclopramide injection should be made slowly allowing 1 to 2 minutes for 10 mg since a transient but intense feeling of anxiety and restlessness, followed by drowsiness, may occur with rapid administration. Intravenous administration of metoclopramide injection diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes. Anastamotic Dehiscence Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure. This possibility should be considered and weighed when deciding whether to use metoclopramide injection or nasogastric suction in the prevention of postoperative nausea and vomiting. Effects on the Ability to Drive and Operate Machinery Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle. Concomitant use of central nervous system (CNS) depressants or drugs associated with EPS may increase this effect (e.g., alcohol, sedatives, hypnotics, opiates, and anxiolytics). Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient. Drug Interactions Effects of Other Drugs on Metoclopramide Table 3 displays the effects of other drugs on metoclopramide. Table 3. Effects of Other Drugs on Metoclopramide Antipsychotics Clinical Impact Potential for additive effects, including increased frequency and severity of tardive dyskinesia (TD), other extrapyramidal symptoms (EPS), and neuroleptic malignant syndrome (NMS). Intervention Avoid concomitant use . Strong CYP2D6 Inhibitors, not Included in Antipsychotic Category Above Clinical Impact Increased plasma concentrations of metoclopramide; risk of exacerbation of extrapyramidal symptoms. Intervention Avoid metoclopramide injection. If use is unavoidable, monitor for adverse reactions Examples quinidine, bupropion, fluoxetine, and paroxetine Monoamine Oxidase Inhibitors Clinical Impact Increased risk of hypertension . Intervention Avoid concomitant use. Central Nervous System (CNS) Depressants Clinical Impact Increased risk of CNS depression . Intervention Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient Examples alcohol, sedatives, hypnotics, opiates and anxiolytics Drugs that Impair Gastrointestinal Motility Clinical Impact Decreased systemic absorption of metoclopramide. Intervention Monitor for reduced therapeutic effect. Examples antiperistaltic antidiarrheal drugs, anticholinergic drugs, and opiates Dopaminergic Agonists and Other Drugs that Increase Dopamine Concentrations Clinical Impact Decreased therapeutic effect of metoclopramide due to opposing effects on dopamine. Intervention Monitor for reduced therapeutic effect. Examples apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, and rotigotine Effects of Metoclopramide on Other Drugs Table 4 displays the effects of metoclopramide on other drugs. Table 4. Effects of Metoclopramide on Other Drugs Dopaminergic Agonists and Drugs Increasing Dopamine Concentrations Clinical Impact Opposing effects of metoclopramide and the interacting drug on dopamine. Potential exacerbation of symptoms (e.g., parkinsonian symptoms). Intervention Avoid concomitant use. Examples Apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, rotigotine Succinylcholine, Mivacurium Clinical Impact Metoclopramide inhibits plasma cholinesterase leading to enhanced neuromuscular blockade. Intervention Monitor for signs and symptoms of prolonged neuromuscular blockade Drugs with Absorption Altered due to Increased Gastrointestinal Motility Clinical Impact The effect of metoclopramide on other drugs is variable. Increased gastrointestinal (GI) motility by metoclopramide may impact absorption of other drugs leading to decreased or increased drug exposure. Intervention Drugs with Decreased Absorption (e.g., digoxin, atovaquone, posaconazole oral suspension*, fosfomycin) : Monitor for reduced therapeutic effect of the interacting drug. For digoxin monitor therapeutic drug concentrations and increase the digoxin dose as needed (see prescribing information for digoxin). Drugs with Increased Absorption (e.g., sirolimus, tacrolimus, cyclosporine) : Monitor therapeutic drug concentrations and adjust the dose as needed. See prescribing information for the interacting drug. Insulin Clinical Impact Increased GI motility by metoclopramide may increase delivery of food to the intestines and increase blood glucose. Intervention Monitor blood glucose and adjust insulin dosage regimen as needed. *Interaction does not apply to posaconazole delayed-release tablets"
+  ],
+  "general_precautions_table": [
+   "<table width=\"100%\"> <col width=\"21%\"/> <col width=\"77%\"/> <tbody> <tr styleCode=\"Toprule\"> <td colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Antipsychotics </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Potential for additive effects, including increased frequency and severity of tardive dyskinesia (TD), other extrapyramidal symptoms (EPS), and neuroleptic malignant syndrome (NMS). </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Avoid concomitant use<content styleCode=\"italics\">. </content> </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Strong CYP2D6 Inhibitors, not Included in Antipsychotic Category Above </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Increased plasma concentrations of metoclopramide; risk of exacerbation of extrapyramidal symptoms. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Avoid metoclopramide injection. If use is unavoidable, monitor for adverse reactions </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Examples </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>quinidine, bupropion, fluoxetine, and paroxetine </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Monoamine Oxidase Inhibitors </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Increased risk of hypertension<content styleCode=\"italics\">. </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Avoid concomitant use. </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Central Nervous System (CNS) Depressants </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Increased risk of CNS depression<content styleCode=\"italics\">. </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Avoid metoclopramide injection or the interacting drug, depending on the importance of the drug to the patient </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Examples </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>alcohol, sedatives, hypnotics, opiates and anxiolytics </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Drugs that Impair Gastrointestinal Motility </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Decreased systemic absorption of metoclopramide. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Monitor for reduced therapeutic effect. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Examples</content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>antiperistaltic antidiarrheal drugs, anticholinergic drugs, and opiates</paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"bold\">Dopaminergic Agonists and Other Drugs that Increase Dopamine Concentrations</content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Decreased therapeutic effect of metoclopramide due to opposing effects on dopamine.</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"> <paragraph>Monitor for reduced therapeutic effect. </paragraph> </td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Examples </content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, and rotigotine </paragraph> </td> </tr> </tbody> </table>",
+   "<table width=\"100%\"> <col width=\"19%\"/> <col width=\"79%\"/> <tbody> <tr styleCode=\"Toprule\"> <td colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Dopaminergic Agonists and Drugs Increasing Dopamine Concentrations </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Opposing effects of metoclopramide and the interacting drug on dopamine. Potential exacerbation of symptoms (e.g., parkinsonian symptoms). </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Avoid concomitant use. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Examples </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Apomorphine, bromocriptine, cabergoline, levodopa, pramipexole, ropinirole, rotigotine </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Succinylcholine, Mivacurium </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Metoclopramide inhibits plasma cholinesterase leading to enhanced neuromuscular blockade. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Monitor for signs and symptoms of prolonged neuromuscular blockade </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Drugs with Absorption Altered due to Increased Gastrointestinal Motility </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>The effect of metoclopramide on other drugs is variable. Increased gastrointestinal (GI) motility by metoclopramide may impact absorption of other drugs leading to decreased or increased drug exposure. </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"underline\">Drugs with Decreased Absorption (e.g., digoxin, atovaquone, posaconazole oral suspension*, fosfomycin)</content>: Monitor for reduced therapeutic effect of the interacting drug. For digoxin monitor therapeutic drug concentrations and increase the digoxin dose as needed (see prescribing information for digoxin). </paragraph> <paragraph> <content styleCode=\"underline\">Drugs with Increased Absorption (e.g., sirolimus, tacrolimus, cyclosporine)</content>: Monitor therapeutic drug concentrations and adjust the dose as needed. See prescribing information for the interacting drug. </paragraph> </td> </tr> <tr> <td colspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Insulin </content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Clinical Impact </content> </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Increased GI motility by metoclopramide may increase delivery of food to the intestines and increase blood glucose. </paragraph> </td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"italics\">Intervention </content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>Monitor blood glucose and adjust insulin dosage regimen as needed. </paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "information_for_patients": [
+   "Information for Patients A patient Medication Guide is available for metoclopramide injection. The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents. Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have. Refer to accompanying Medication Guide. Tardive Dyskinesia and/or other Extrapyramidal Reactions Metoclopramide injection may cause tardive dyskinesia or other extrapyramidal symptoms, parkinsonian symptoms, and motor restlessness. Instruct patients to immediately contact their healthcare provider if symptoms occur. See WARNINGS . Neuroleptic Malignant Syndrome Serious neuroleptic malignant syndrome (NMS) has been reported in association with concomitant treatment of metoclopramide with another drug associated with NMS. Advise patients to report all prescription and over-the-counter medications to the healthcare provider. Instruct patients to seek medical attention if symptoms occur. Depression and/or Possible Suicidal Ideation Symptoms of new onset or worsening depression as well as suicidal ideation have been reported in patients taking metoclopramide. Instruct patients to contact their healthcare provider if any of these symptoms occur."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Concomitant treatment with numerous other medications can precipitate or worsen serious adverse reactions such as tardive dyskinesia or other extrapyramidal reactions, neuroleptic malignant syndrome, and CNS depression. Advise patients to report all prescriptions and over the counter medications to the healthcare provider. Effects on the Ability to Drive and Operate Machinery Metoclopramide can cause drowsiness or dizziness, or otherwise impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility A 77-week study was conducted in rats with oral doses up to about 40 times the maximum recommended human daily dose. Metoclopramide elevates prolactin levels and the elevation persists during chronic administration. Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro , a factor of potential importance if the prescription of metoclopramide is contemplated in a patient with previously detected breast cancer. Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating drugs, the clinical significance of elevated serum prolactin levels is unknown for most patients. An increase in mammary neoplasms has been found in rodents after chronic administration of prolactin-stimulating neuroleptic drugs and metoclopramide. Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is too limited to be conclusive at this time. An Ames mutagenicity test performed on metoclopramide was negative."
+  ],
+  "pregnancy": [
+   "Pregnancy Reproduction studies performed in rats, mice and rabbits by the intramuscular (IM), intravenous (IV), subcutaneous (SC), and oral routes at maximum levels ranging from 12 to 250 times the human dose have demonstrated no impairment of fertility or significant harm to the fetus due to metoclopramide. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Fetal/Neonatal Adverse Reactions Metoclopramide crosses the placental barrier and may cause extrapyramidal signs and methemoglobinemia in neonates with material administration during delivery. Monitor neonates for extrapyramidal signs."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Metoclopramide is excreted in human milk. Monitor breastfeeding neonates because metoclopramide may cause extrapyramidal signs (dystonias) and methemoglobinemia."
+  ],
+  "pediatric_use": [
+   "Pediatric Use The safety and effectiveness of metoclopramide injection has been established as a single-dose to facilitate small bowel intubation in pediatric patients in whom the tube does not pass the pylorus with conventional maneuvers. The safety and effectiveness of metoclopramide injection has not been established in pediatric patients for the following: • relief of symptoms associated with diabetic gastroparesis • prevention of nausea and vomiting associated with emetogenic cancer chemotherapy • prevention of postoperative nausea and vomiting • to stimulate gastric emptying and intestinal transit of barium where delayed emptying interferes with radiological examination of the stomach and/or small intestine The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients. Neonates have reduced levels of NADH-cytochrome b 5 reductase which, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE ). Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults (see WARNINGS and ADVERSE REACTIONS – Extrapyramidal Reactions )."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Metoclopramide is known to be substantially excreted by the kidney, and the risk of adverse reactions, including TD, may be greater in patients with impaired renal function (see WARNINGS – Tardive Dyskinesia ). The risk of developing parkinsonian-like side effects increases with ascending dose. Geriatric patients should receive the lowest dose of metoclopramide injection that is effective. If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection, metoclopramide injection should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS – Other Extrapyramidal Symptoms ) . Sedation has been reported in metoclopramide injection users. Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY , PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects ). For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION - Use in Patients with Renal or Hepatic Impairment )."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS In general, the incidence of adverse reactions correlates with the dose and duration of metoclopramide administration. The following reactions have been reported, although in most instances, data do not permit an estimate of frequency. CNS Effects Restlessness, drowsiness, fatigue, and lassitude may occur in patients receiving the recommended prescribed dosage of metoclopramide injection. Insomnia, headache, confusion, dizziness, or mental depression with suicidal ideation also may occur (see WARNINGS ). In cancer chemotherapy patients being treated with 1 mg/kg to 2 mg/kg per dose, incidence of drowsiness is about 70%. There are isolated reports of convulsive seizures without clear-cut relationship to metoclopramide. Rarely, hallucinations have been reported. Extrapyramidal Reactions (EPS) Acute dystonic reactions, the most common type of EPS associated with metoclopramide, occur in approximately 0.2% of patients (1 in 500) treated with 30 mg to 40 mg of metoclopramide per day. In cancer chemotherapy patients receiving 1 mg/kg to 2 mg/kg per dose, the incidence is 2% in patients over the ages of 30 to 35, and 25% or higher in pediatric patients and adult patients less than 30 years of age who have not had prophylactic administration of diphenhydramine. Symptoms include involuntary movements of limbs, facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, opisthotonus (tetanus-like reactions), and, rarely, stridor and dyspnea possibly due to laryngospasm; ordinarily these symptoms are readily reversed by diphenhydramine (see WARNINGS ). Parkinsonian-like symptoms may include bradykinesia, tremor, cogwheel rigidity, mask-like facies (see WARNINGS ). Tardive dyskinesia most frequently is characterized by involuntary movements of the tongue, face, mouth, or jaw, and sometimes by involuntary movements of the trunk and/or extremities; movements may be choreoathetotic in appearance (see WARNINGS ). Motor restlessness (akathisia) may consist of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, foot tapping. These symptoms may disappear spontaneously or respond to a reduction in dosage. Neuroleptic Malignant Syndrome Rare occurrences of neuroleptic malignant syndrome (NMS) have been reported. This potentially fatal syndrome is comprised of the symptom complex of hyperthermia, muscular rigidity, altered consciousness, and autonomic instability (see WARNINGS ). Endocrine Disturbances Galactorrhea, amenorrhea, gynecomastia, impotence secondary to hyperprolactinemia (see PRECAUTIONS ). Fluid retention secondary to transient elevation of aldosterone (see CLINICAL PHARMACOLOGY ). Cardiovascular Hypotension, hypertension, supraventricular tachycardia, bradycardia, fluid retention, acute congestive heart failure and possible atrioventricular (AV) block (see CONTRAINDICATIONS and PRECAUTIONS ). Gastrointestinal Nausea and bowel disturbances, primarily diarrhea. Hepatic Rarely, cases of hepatotoxicity, characterized by such findings as jaundice and altered liver function tests, when metoclopramide was administered with other drugs with known hepatotoxic potential. Renal Urinary frequency and incontinence. Hematologic A few cases of neutropenia, leukopenia, or agranulocytosis, generally without clear-cut relationship to metoclopramide. Methemoglobinemia in adults and especially with overdosage in neonates (see OVERDOSAGE ). Sulfhemoglobinemia in adults. Allergic Reactions A few cases of rash, urticaria, or bronchospasm, especially in patients with a history of asthma. Rarely, angioneurotic edema, including glossal or laryngeal edema. Miscellaneous Visual disturbances. Porphyria. Transient flushing of the face and upper body, without alterations in vital signs, following high doses intravenously. To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare Corporation at 1-877-725-2747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Manifestations of metoclopramide overdosage included drowsiness, disorientation, extrapyramidal reactions, other adverse reactions associated with metoclopramide use (including, e.g., methemoglobinemia), and sometimes death. Neuroleptic malignant syndrome (NMS) has been reported in association with metoclopramide overdose and concomitant treatment with another drug associated with NMS (see WARNINGS ). There are no specific antidotes for metoclopramide injection overdosage. If over-exposure occurs, call your Poison Control Center at 1-800-222-1222 for current information on the management of poisoning or overdosage. Methemoglobinemia can be reversed by the intravenous administration of methylene blue. However, methylene blue may cause hemolytic anemia in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency, which may be fatal. Hemodialysis and continuous ambulatory peritoneal dialysis do not remove significant amounts of metoclopramide."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION For the Relief of Symptoms Associated with Diabetic Gastroparesis If only the earliest manifestations of diabetic gastroparesis are present, oral administration of metoclopramide may be initiated. However, if severe symptoms are present, the recommended dosage of metoclopramide injection in adults is 10 mg administered intramuscularly or intravenously over at least 1- to 2-minutes. Administration of metoclopramide injection up to 10 days may be required before symptoms subside, at which time oral administration of metoclopramide may be instituted. Avoid a total duration of treatment with metoclopramide products, including metoclopramide injection, for longer than 12 weeks. If longer-term use us unavoidable, routinely monitor for signs and symptoms of TD (see WARNINGS – Tardive Dyskinesia ). For the Prevention of Nausea and Vomiting Associated with Emetogenic Cancer Chemotherapy The recommended dosage of metoclopramide injection in adults is 2 mg/kg, with highly emetogenic drugs (e.g., cisplatin or dacarbazine) alone or in combination, and 1 mg/kg, with less emetogenic drugs, infused intravenously over at least 15 minutes, 30 minutes before beginning cancer chemotherapy and repeated every 2 hours for two doses, then every 3 hours for three doses. For doses in excess of 10 mg, metoclopramide injection should be diluted in 50 mL of a parenteral solution. The preferred parenteral solution is Sodium Chloride Injection (normal saline), which when combined with metoclopramide injection, can be stored frozen for up to 4 weeks. Metoclopramide injection is degraded when admixed and frozen with Dextrose-5% in Water. Metoclopramide injection diluted in Sodium Chloride Injection, Dextrose-5% in Water, Dextrose-5% in 0.45% Sodium Chloride, Ringer’s Injection, or Lactated Ringer’s Injection may be stored up to 48 hours (without freezing) after preparation if protected from light. All dilutions may be stored unprotected from light under normal light conditions up to 24 hours after preparation. If acute dystonic reactions should occur, inject 50 mg Benadryl ® (diphenhydramine hydrochloride) intramuscularly, and the symptoms usually will subside. For the Prevention of Postoperative Nausea and Vomiting The recommended dosage of metoclopramide injection in adults is 10 mg or 20 mg as a single intramuscular injection near the end of surgery. To Facilitate Small Bowel Intubation In adult and pediatric patients undergoing small bowel intubation, in whom the tube has not passed the pylorus with conventional maneuvers after 10 minutes, the recommended dosage of metoclopramide injection is a single-dose administered (undiluted) by the intravenous route over at least 1 to 2 minutes: • Adults and pediatric patients above 14 years of age : 10 mg • Pediatric patients 6 to 14 years of age : 2.5 mg to 5 mg • Pediatric patients less than 6 years of age : 0.1 mg/kg To Aid in Radiological Examinations In adult patients where delayed gastric emptying interferes with radiological examination of the stomach and/or small intestine, the recommended dosage of metoclopramide injection is a single 10 mg dose administered (undiluted) by the intravenous route over at least 1 to 2 minutes. Use in Patients with Renal Impairment The clearance of metoclopramide is decreased, and the systemic exposure is increased in patients with moderate to severe renal impairment compared to patients with normal renal function, which may increase the risk of adverse reactions. There is no dosage adjustment for patients with mild renal impairment (creatinine clearance greater than 60 mL/minute). For patients with moderate or severe renal impairment (creatinine clearance less than or equal to 60 mL/minute), who are receiving more than a single dose of metoclopramide injection, reduce the metoclopramide injection dosage to one-half the dosage recommended for patients with normal renal function. For patients with End-Stage Renal Disease (ESRD) including those treated with hemodialysis or continuous ambulatory peritoneal dialysis, who are receiving more than a single dose of metoclopramide injection, reduce the metoclopramide injection dosage to one-fourth the dosage recommended for patients with normal renal function. See OVERDOSAGE section for information regarding dialysis. Use in Patients with Hepatic Impairment Patients with severe hepatic impairment (Child-Pugh C) have reduced systemic metoclopramide clearance (by approximately 50%) following intravenous administration compared to patients with normal hepatic function. The resulting increase in metoclopramide blood concentrations increases the risk of adverse reactions. There is no pharmacokinetic data in patients with moderate hepatic impairment (Child-Pugh B). There is no dosage adjustment required for patients with mild hepatic impairment (Child-Pugh A). For patients with moderate and severe hepatic impairment (Child-Pugh B or C), who are receiving more than a single dose of metoclopramide injection, reduce the metoclopramide injection dosage to one-half the dosage recommended for patients with normal hepatic function. NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Metoclopramide injection USP, 5 mg/mL, metoclopramide base (as the monohydrochloride monohydrate) is supplied as below: AIN code Fill Volume Strength # NDC NUMBER Administration AIN03158 2 mL single-dose vial 10 mg/2 mL (5 mg/mL) 36000-366-25 (Pack of 25) FOR INTRAVENOUS or INTRAMUSCULAR ADMINISTRATION # Metoclopramide base (as the monohydrochloride monohydrate) Store vials in carton until used. Do not store open single-dose vials for later use, as they contain no preservative. This product is light sensitive. It should be inspected before use and discarded if either color or particulate is observed. Dilutions may be stored unprotected from light under normal light conditions up to 24 hours after preparation. Metoclopramide injection should be stored at Controlled Room Temperature, 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature]. All trademarks are the property of their respective owners. Baxter is a registered trademark of Baxter International Inc. Manufactured by: Baxter Pharmaceuticals India Private Ltd Ahmedabad 382213, India Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA Rev. August 2026 1400008737 MEDICATION GUIDE Metoclopramide (met” oh kloe’ pra mide) Injection You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection and before you get another dose of metoclopramide injection. There may be new information. If you take another product that contains metoclopramide (such as tablets, orally disintegrating tablets, oral syrup, or nasal spray), you should read the Medication Guide that comes with that product. Some of the information may be different. This Medication Guide does not take the place of talking to your doctor about your medical condition or your treatment. What is the most important information I should know about metoclopramide injection? Metoclopramide injection can cause serious side effects, including: Tardive Dyskinesia: Metoclopramide, including metoclopramide injection, can cause tardive dyskinesia (TD), a potentially irreversible serious movement disorder. • These movements happen mostly in the face or tongue, and sometimes in the arms or legs. You cannot control these movements. • These symptoms may not go away even after stopping metoclopramide injection. Your chances for getting TD go up: • the longer you take metoclopramide injection and the more metoclopramide injection you take. People taking metoclopramide injection to relieve the symptoms of slow stomach emptying due to diabetes, should not take metoclopramide injection, or other drugs containing metoclopramide, for more than 12 weeks. • if you are older, especially if you are a woman. • if you have diabetes. It is not possible for your doctor to know if you will get TD if you take metoclopramide injection. Call your doctor right away if you get movements you cannot stop or control, such as: • lip smacking, chewing, or puckering up your mouth • frowning or scowling • sticking out your tongue • blinking and moving your eyes • shaking of your arms and legs Your doctor may stop treatment with metoclopramide injection if you develop signs or symptoms of TD. See the section “ What are the possible side effects of metoclopramide injection? ” for more information about side effects. What is metoclopramide injection? Metoclopramide injection is a prescription medicine used to: • relieve symptoms of slow stomach emptying in adults with diabetes. • prevent nausea and vomiting that can happen with cancer chemotherapy in adults. • prevent nausea and vomiting that may happen after surgery in adults, if your doctor decides that you should not be treated with a stomach tube and suction. • help make it easier to insert a tube into the small intestine in both adults and children, if the tube does not pass into the stomach normally. • to help empty stomach contents or to help barium move through the intestine in adults, when you get an X-ray examination of the stomach or small intestine. It is not known if metoclopramide injection is safe and effective in children except when used to help insert a tube into the small intestine. Who should not receive metoclopramide injection? Do not receive metoclopramide injection if you: • have a history of tardive dyskinesia or have a problem controlling your muscles and movements after taking metoclopramide injection or a medicine that works like metoclopramide injection. • have stomach or intestine problems that could get worse with metoclopramide injection, such as bleeding, blockage or a tear in your stomach or bowel wall. • have an adrenal gland tumor called pheochromocytoma. • are allergic to metoclopramide. • have seizures. What should I tell my doctor before receiving metoclopramide injection? Tell your doctor about all of your medical conditions, including if you: • have problems controlling your muscle movements after taking any medicine. • have Parkinson’s disease. • have or had depression or mental illness. • have kidney or liver problems. • have heart failure or heart rhythm problems. • have high blood pressure. • drink alcohol. • have diabetes. Your dose of insulin may need to be changed. • are pregnant or plan to become pregnant. It is not known if metoclopramide injection will harm your unborn child. • are breastfeeding. Metoclopramide is passed into human milk and may harm your baby. Talk with your doctor about the best way to feed your baby if you take metoclopramide injection. Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements. Metoclopramide injection and some other medicines can affect each other and may not work as well, or cause possible side effects. Do not start any new medicines while receiving metoclopramide injection until you talk with your doctor. Especially tell your doctor if you take: • another medicine that contains metoclopramide, such as metoclopramide tablets, metoclopramide orally disintegrating tablets, metoclopramide oral syrup, or Gimoti nasal spray • an anti-psychotic medicine, used to treat mental illness such as schizophrenia • a medicine for Parkinson’s disease • a medicine for depression, especially a Monoamine Oxidase Inhibitor (MAOI) • insulin • medicines that can make you sleepy, such as anti-anxiety medicines, sleep medicines, and narcotics. If you are not sure if your medicine is one listed above, ask your doctor or pharmacist. Know the medicines you take. Keep a list of them and show it to your doctor and pharmacist when you get a new medicine. How will I receive metoclopramide injection? • Metoclopramide injection will be given to you by intravenous (IV) infusion into your vein or by intramuscular (IM) injection into a large muscle. Where and how you receive your metoclopramide injection (intravenous or intramuscular) will depend on why you are receiving it. • Certain side effects can happen if metoclopramide injection is given too fast. See the section “What are the possible side effects of metoclopramide injection?” • You should not take or receive medicines containing metoclopramide (including metoclopramide injection) for more than 12 weeks. What should I avoid while receiving metoclopramide injection? • Do not drink alcohol while receiving metoclopramide injection. Alcohol may make some side effects of metoclopramide injection worse, such as feeling sleepy. • Do not drive, work with machines, or do dangerous tasks until you know how metoclopramide injection affects you. Metoclopramide injection may cause sleepiness. • You should avoid taking antipsychotic medicines (used to treat mental illness such as schizophrenia), while receiving metoclopramide injection. Taking these medicines with metoclopramide injection may make the serious side effect TD worse. What are the possible side effects of metoclopramide injection? Metoclopramide injection can cause serious side effects, including: • Tardive dyskinesia (Abnormal muscle movements). See the section “ What is the most important information I should know about metoclopramide injection? ” • Uncontrolled spasms of your face and neck muscles, or muscles of your body, arms, and legs (dystonia). These muscle spasms can cause abnormal movements and body positions. These spasms usually start within the first 2 days of treatment. These spasms happen more often in children and adults under age 30 and in those who took higher doses of metoclopramide. • Parkinsonism. Symptoms include slight shaking, body stiffness, trouble moving or keeping your balance. If you already have Parkinson’s disease, your symptoms may become worse while you are receiving metoclopramide injection. • Being unable to sit still or feeling you need to move your hands, feet, or body (akathisia). Symptoms can include feeling jittery, anxious, irritated or unable to sleep (insomnia), feeling the need to walk around (pacing) and tapping your feet. • Neuroleptic Malignant Syndrome (NMS). NMS is a very rare but very serious condition that can happen with metoclopramide injection. NMS can cause death and must be treated in a hospital. Symptoms of NMS include: high fever, stiff muscles, problems thinking, very fast or uneven heartbeat, and increased sweating. • Depression, thoughts about suicide, and suicide. Some people who take metoclopramide injection become depressed. You may have thoughts about hurting or killing yourself. Some people who take metoclopramide injection have ended their own lives (suicide). • High blood pressure. Metoclopramide injection can cause your blood pressure to increase. • Too much body water. People who have certain liver problems or heart failure and take metoclopramide injection may hold too much water in their body (fluid retention). Tell your doctor right away if you have sudden weight gain, or swelling of your hands, legs, or feet. Call your doctor and get medical help right away if you: • have muscle movements you cannot stop or control • have muscle movements that are new or unusual • feel depressed or have thoughts about hurting or killing yourself • have high fever, stiff muscles, problems thinking, very fast or uneven heartbeat, and increased sweating Common side effects of metoclopramide injection include: • feeling restless, sleepy, tired, dizzy, or exhausted • headache • confusion • trouble sleeping Infusion related side effects can happen if metoclopramide injection is given too fast. You may feel very anxious and restless for a short time, and then become sleepy while you are receiving a dose of metoclopramide injection. Tell your doctor or nurse right away if this happens. You may have more side effects the longer you take metoclopramide injection and the more metoclopramide injection you take. Tell your doctor about any side effects that bother you or do not go away. These are not all the possible side effects of metoclopramide injection. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. General information about metoclopramide injection Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. This Medication Guide summarizes the most important information about metoclopramide injection. If you would like more information about metoclopramide injection, talk with your doctor. You can ask your doctor or pharmacist for information about metoclopramide injection that is written for healthcare professionals. For more information, call Baxter Healthcare at 1-877-725-2747. What are the ingredients in metoclopramide injection? Active ingredient: metoclopramide Inactive ingredients: sodium chloride, water, hydrochloric acid or sodium hydroxide This Medication Guide has been approved by the U.S. Food and Drug Administration. Baxter is a registered trademark of Baxter International Inc. Manufactured by: Baxter Pharmaceuticals India Private Ltd Ahmedabad 382213, India Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA Rev. August 2026 1400008736"
+  ],
+  "how_supplied_table": [
+   "<table cellpadding=\"0pt\" width=\"100%\"> <col width=\"12%\"/> <col width=\"17%\"/> <col width=\"13%\"/> <col width=\"18%\"/> <col width=\"39%\"/> <tbody> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <content styleCode=\"bold\">AIN code</content> </item> </list> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Fill Volume</content> </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Strength<sup>#</sup> </content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <content styleCode=\"bold\">NDC NUMBER</content> </item> </list> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <content styleCode=\"bold\">Administration</content> </item> </list> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>AIN03158</item> </list> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>2 mL single-dose vial</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">10 mg/2 mL</content> </paragraph> <paragraph>(5 mg/mL)</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>36000-366-25</item> <item> <caption> </caption>(Pack of 25)</item> </list> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption>FOR INTRAVENOUS or INTRAMUSCULAR ADMINISTRATION</item> </list> </td> </tr> <tr> <td colspan=\"5\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <list listType=\"ordered\"> <item> <caption> </caption> <sup>#</sup> Metoclopramide base (as the monohydrochloride monohydrate)</item> </list> </td> </tr> </tbody> </table>"
+  ],
+  "set_id": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347",
+  "id": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347",
+  "effective_time": "20260819",
+  "version": "1"
+ }
+}
