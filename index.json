@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T11:15Z",
- "n": 348,
+ "updated": "2026-11-11T11:16Z",
+ "n": 349,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -5503,20 +5503,36 @@
    "n_candidates": 1
   },
   {
+   "id_es": "verapamilo-iv",
+   "generic_en": "verapamil hydrochloride",
+   "brand": [
+    "Verapamil Hydrochloride"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20260709",
+   "set_id": "1c993365-1b62-4524-e781-d307f28f63bc",
+   "application": [
+    "ANDA070737"
+   ],
+   "n_candidates": 1
+  },
+  {
    "id_es": "verapamilo",
    "generic_en": "verapamil",
    "brand": [
     "Verapamil Hydrochloride"
    ],
    "manufacturer": [
-    "Wilshire Pharmaceuticals, Inc."
+    "Bryant Ranch Prepack"
    ],
-   "effective_time": "20241127",
-   "set_id": "5f665d08-e1e4-422a-88c2-d8834abf9e1a",
+   "effective_time": "20260924",
+   "set_id": "d4d29e80-2f6f-475d-b704-f9443aadf3db",
    "application": [
-    "NDA020943"
+    "ANDA070995"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "vitamina-k",
