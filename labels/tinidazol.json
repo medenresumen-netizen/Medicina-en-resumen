@@ -1,0 +1,326 @@
+{
+ "id_es": "tinidazol",
+ "generic_en": "tinidazole",
+ "search": "openfda.generic_name.exact:\"TINIDAZOLE\"",
+ "downloaded": "2026-11-11T06:40Z",
+ "chosen": {
+  "set_id": "a0d01539-8413-4703-94cc-d221918630a1",
+  "id": "d423971d-34c8-c7d2-e053-2a95a90abe74",
+  "effective_time": "20211227",
+  "version": "9",
+  "brand_name": [
+   "Tindamax"
+  ],
+  "generic_name": [
+   "TINIDAZOLE"
+  ],
+  "manufacturer_name": [
+   "Mission Pharmacal Company"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA021618"
+  ],
+  "n_sections": 34
+ },
+ "candidates": [
+  {
+   "set_id": "7f552a9b-3190-4301-8352-36451a73b956",
+   "id": "5965b16b-36e9-1b69-e063-6294a90a2bf0",
+   "effective_time": "20260819",
+   "version": "1",
+   "brand_name": [
+    "Tinidazole"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203808"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "45fa3ebd-52da-4987-82a1-4a64f99785a7",
+   "id": "59513899-6da6-e4bf-e063-6294a90afcf1",
+   "effective_time": "20260818",
+   "version": "3",
+   "brand_name": [
+    "Tindazole"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202489"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "6f3ce597-64c1-4204-a67a-8b6f6e7e8bca",
+   "id": "462f7240-9709-4782-e063-6294a90a9e28",
+   "effective_time": "20251217",
+   "version": "9",
+   "brand_name": [
+    "Tinidazole"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Edenbridge Pharmaceuticals LLC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203808"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "f55bcc41-2e8d-4ee5-9993-05c7d86f2d2c",
+   "id": "44ecbffa-e4aa-9dd3-e063-6394a90a4d48",
+   "effective_time": "20251201",
+   "version": "5",
+   "brand_name": [
+    "Tinidazole"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "BioComp Pharma, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021618"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "32167dd7-5d37-457b-9b00-cd735de6b060",
+   "id": "8dbd79dd-9243-4413-aa01-ba1301573a48",
+   "effective_time": "20250331",
+   "version": "6",
+   "brand_name": [
+    "Tindazole"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202489"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "b39bc167-f1c4-4169-8b46-e6c2eafe6bbf",
+   "id": "1d71c803-2d38-ccc8-e063-6294a90a7923",
+   "effective_time": "20240717",
+   "version": "1",
+   "brand_name": [
+    "Tinidazole"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202044"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "95ab57b2-5d7e-4986-abcd-65edf1728383",
+   "id": "98a66e10-fb32-46ce-a68b-c21d615f6621",
+   "effective_time": "20220214",
+   "version": "4",
+   "brand_name": [
+    "Tinidazole"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Lupin Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202044"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "a0d01539-8413-4703-94cc-d221918630a1",
+   "id": "d423971d-34c8-c7d2-e053-2a95a90abe74",
+   "effective_time": "20211227",
+   "version": "9",
+   "brand_name": [
+    "Tindamax"
+   ],
+   "generic_name": [
+    "TINIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Mission Pharmacal Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021618"
+   ],
+   "n_sections": 34
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: POTENTIAL RISK FOR CARCINOGENICITY Carcinogenicity has been seen in mice and rats treated chronically with metronidazole, another nitroimidazole agent ( 13.1 ). Although such data have not been reported for tinidazole, the two drugs are structurally related and have similar biologic effects. Its use should be reserved for the conditions described in INDICATIONS AND USAGE ( 1 ). WARNING: POTENTIAL RISK FOR CARCINOGENICITY See full prescribing information for complete boxed warning. Carcinogenicity has been seen in mice and rats treated chronically with metronidazole, another nitroimidazole agent ( 13.1 ). Although such data have not been reported for tinidazole, the two drugs are structurally related and have similar biologic effects. Use should be limited to approved indications only."
+  ],
+  "recent_major_changes": [
+   "Contraindications (4) 12/2021"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE 1 INDICATIONS AND USAGE 1.1 Trichomoniasis Tinidazole is indicated for the treatment of trichomoniasis caused by Trichomonas vaginalis. The organism should be identified by appropriate diagnostic procedures. Because trichomoniasis is a sexually transmitted disease with potentially serious sequelae, partners of infected patients should be treated simultaneously in order to prevent re-infection [see Clinical Studies (14.1)]. 1.2 Giardiasis Tinidazole is indicated for the treatment of giardiasis caused by Giardia duodenalis (also termed G. lamblia) in both adults and pediatric patients older than three years of age [see Clinical Studies (14.2)]. 1.3 Amebiasis Tinidazole is indicated for the treatment of intestinal amebiasis and amebic liver abscess caused by Entamoeba histolytica in both adults and pediatric patients older than three years of age. It is not indicated in the treatment of asymptomatic cyst passage [see Clinical Studies (14.3, 14.4)]. 1.4 Bacterial Vaginosis Tinidazole is indicated for the treatment of bacterial vaginosis (formerly referred to as Haemophilus vaginitis, Gardnerella vaginitis, nonspecific vaginitis, or anaerobic vaginosis) in adult women [see Use in Specific Populations (8.1) and Clinical Studies (14.5)]. Other pathogens commonly associated with vulvovaginitis such as Trichomonas vaginalis, Chlamydia trachomatis, Neisseria gonorrhoeae, Candida albicans and Herpes simplex virus should be ruled out. 1.5 Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of Tindamax and other antibacterial drugs, Tindamax should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Tindamax is a nitroimidazole antimicrobial indicated for: Trichomoniasis ( 1.1 ) Giardiasis: in patients age 3 and older ( 1.2 ) Amebiasis: in patients age 3 and older ( 1.3 ) Bacterial Vaginosis: in non-pregnant, adult women ( 1.4, 8.1 ) To reduce the development of drug-resistant bacteria and maintain the effectiveness of Tindamax and other antibacterial drugs, Tindamax should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria (1.5)."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Trichomoniasis: a single 2 g oral dose taken with food. Treat sexual partners with the same dose and at the same time ( 2.3 ) Giardiasis: Adults: a single 2 g dose taken with food. Pediatric patients older than three years of age: a single dose of 50 mg/kg (up to 2 g) with food ( 2.4 ) Amebiasis, Intestinal: Adults: 2 g per day for 3 days with food. Pediatric patients older than three years of age: 50 mg/kg/day (up to 2 g per day) for 3 days with food ( 2.5 ). Amebic liver abscess: Adults: 2 g per day for 3-5 days with food. Pediatric patients older than three years of age: 50 mg/kg/day (up to 2 g per day) for 3-5 days with food ( 2.5 ) Bacterial vaginosis: Non-pregnant, adult women: 2 g once daily for 2 days taken with food, or 1 g once daily for 5 days taken with food ( 2.6 ) 2.1 Dosing Instructions It is advisable to take tinidazole with food to minimize the incidence of epigastric discomfort and other gastrointestinal side-effects. Food does not affect the oral bioavailability of tinidazole [see Clinical Pharmacology ( 12.3 )]. Alcoholic beverages should be avoided when taking tinidazole and for 3 days afterwards [see Drug Interactions ( 7.1 )]. 2.2 Compounding of the Oral Suspension For those unable to swallow tablets, tinidazole tablets may be crushed in artificial cherry syrup to be taken with food. Procedure for Extemporaneous Pharmacy Compounding of the Oral Suspension: Pulverize four 500 mg oral tablets with a mortar and pestle. Add approximately 10 mL of cherry syrup to the powder and mix until smooth. Transfer the suspension to a graduated amber container. Use several small rinses of cherry syrup to transfer any remaining drug in the mortar to the final suspension for a final volume of 30 mL. The suspension of crushed tablets in artificial cherry syrup is stable for 7 days at room temperature. When this suspension is used, it should be shaken well before each administration. 2.3 Trichomoniasis The recommended dose in both females and males is a single 2 g oral dose taken with food. Since trichomoniasis is a sexually transmitted disease, sexual partners should be treated with the same dose and at the same time. 2.4 Giardiasis The recommended dose in adults is a single 2 g dose taken with food. In pediatric patients older than three years of age, the recommended dose is a single dose of 50 mg/kg (up to 2 g) with food. 2.5 Amebiasis Intestinal: The recommended dose in adults is a 2 g dose per day for 3 days taken with food. In pediatric patients older than three years of age, the recommended dose is 50 mg/kg/day (up to 2 g per day) for 3 days with food. Amebic Liver Abscess: The recommended dose in adults is a 2 g dose per day for 3-5 days taken with food. In pediatric patients older than three years of age, the recommended dose is 50 mg/kg/day (up to 2 g per day) for 3-5 days with food. There are limited pediatric data on durations of therapy exceeding 3 days, although a small number of children were treated for 5 days without additional reported adverse reactions. Children should be closely monitored when treatment durations exceed 3 days. 2.6 Bacterial Vaginosis The recommended dose in non-pregnant females is a 2 g oral dose once daily for 2 days taken with food or a 1 g oral dose once daily for 5 days taken with food. The use of tinidazole in pregnant patients has not been studied for bacterial vaginosis."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS 250 mg tablets are pink, round, scored tablets, with TM debossed on one side and 250 on the other 500 mg tablets are pink, oval, scored tablets, with TM debossed on one side and 500 on the other Tablets: 250 mg and 500 mg ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS 4 CONTRAINDICATIONS The use of tinidazole is contraindicated: In patients with a previous history of hypersensitivity to tinidazole or other nitroimidazole derivatives. Reported reactions have ranged in severity from urticaria to Stevens-Johnson syndrome [see Adverse Reactions (6.1, 6.2)]. In patients with Cockayne syndrome. Severe irreversible hepatotoxicity/acute liver failure with fatal outcomes have been reported after initiation of metronidazole, another nitroimidazole drug, structurally related to tinidazole, in patients with Cockayne syndrome [see Adverse Reactions (6.2)] Prior history of hypersensitivity to tinidazole or other nitroimidazole derivatives (4, 6.1, 6.2) Patients with Cockayne syndrome (4, 6.2)"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Seizures and neuropathy have been reported. Discontinue Tindamax if abnormal neurologic signs develop ( 5.1 ) Vaginal candidiasis may develop with Tindamax and require treatment with an antifungal agent ( 5.2 ) Use Tindamax with caution in patients with blood dyscrasias. Tindamax may produce transient leukopenia and neutropenia ( 5.3, 7.3 ) 5.1 Neurological Adverse Reactions Convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with tinidazole. The appearance of abnormal neurologic signs demands the prompt discontinuation of tinidazole therapy. 5.2 Vaginal Candidiasis The use of tinidazole may result in Candida vaginitis. In a clinical study of 235 women who received tinidazole for bacterial vaginosis, a vaginal fungal infection developed in 11 (4.7%) of all study subjects [see Clinical Studies ( 14.5 )]. 5.3 Blood Dyscrasia Tinidazole should be used with caution in patients with evidence of or history of blood dyscrasia [see Drug Interactions ( 7.3 )]. 5.4 Drug Resistance Prescribing Tindamax in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS 6 ADVERSE REACTIONS 6.1 Clinical Studies Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Among 3669 patients treated with a single 2 g dose of tinidazole, in both controlled and uncontrolled trichomoniasis and giardiasis clinical studies, adverse reactions were reported by 11.0% of patients. For multi-day dosing in controlled and uncontrolled amebiasis studies, adverse reactions were reported by 13.8% of 1765 patients. Common (≥ 1% incidence) adverse reactions reported by body system are as follows. (Note: Data described in Table 1 below are pooled from studies with variable designs and safety evaluations.) Other adverse reactions reported with tinidazole include: Central Nervous System: Two serious adverse reactions reported include convulsions and transient peripheral neuropathy including numbness and paresthesia [see Warnings and Precautions (5.1)]. Other CNS reports include vertigo, ataxia, giddiness, insomnia, drowsiness. Gastrointestinal: tongue discoloration, stomatitis, diarrhea Hypersensitivity: urticaria, pruritis, rash, flushing, sweating, dryness of mouth, fever, burning sensation, thirst, salivation, angioedema Renal: darkened urine Cardiovascular: palpitations Hematopoietic: transient neutropenia, transient leukopenia Other: Candida overgrowth, increased vaginal discharge, oral candidiasis, hepatic abnormalities including raised transaminase level, arthralgias, myalgias, and arthritis. Table 1. Adverse Reactions Summary of Published Reports Adverse Reactions in Pediatric Patients: In pooled pediatric studies, adverse reactions reported in pediatric patients taking tinidazole were similar in nature and frequency to adult findings including nausea, vomiting, diarrhea, taste change, anorexia, and abdominal pain. Rare reported adverse reactions include bronchospasm, dyspnea, coma, confusion, depression, furry tongue, pharyngitis and reversible thrombocytopenia. Bacterial vaginosis: The most common adverse reactions in treated patients (incidence >2%), which were not identified in the trichomoniasis, giardiasis and amebiasis studies, are gastrointestinal: decreased appetite, and flatulence; renal: urinary tract infection, painful urination, and urine abnormality; and other reactions including pelvic pain, vulvo-vaginal discomfort, vaginal odor, menorrhagia, and upper respiratory tract infection [See Clinical Studies (14.5)]. 6.2 Postmarketing Experience The following adverse reactions have been identified and reported during post-approval use of Tindamax or other nitroimidazole agents. Because the reports of these reactions are voluntary and the population is of uncertain size, it is not always possible to reliably estimate the frequency of the reaction or establish a causal relationship to drug exposure. Tindamax: Severe acute hypersensitivity reactions have been reported on initial or subsequent exposure to tinidazole. Hypersensitivity reactions may include urticaria, pruritis, angioedema, Stevens-Johnson syndrome and erythema multiforme. Metronidazole, Another Nitroimidazole Product, Structurally Related to Tinidazole: Cases of severe irreversible hepatotoxicity/acute liver failure, including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole, another nitroimidazole agent structurally related to tinidazole, have been reported in patients with Cockayne syndrome (latency from drug start to signs of liver failure as short as 2 days) [see Contraindications (4)] . Most common adverse reactions for a single 2 g dose of tinidazole (incidence >1%) are metallic/bitter taste, nausea, weakness/fatigue/malaise, dyspepsia/cramps/epigastric discomfort, vomiting, anorexia, headache, dizziness and constipation (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Mission Pharmacal Company at 1-800-298-1087 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch Table 6.1 Clinical Studies Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Among 3669 patients treated with a single 2 g dose of tinidazole, in both controlled and uncontrolled trichomoniasis and giardiasis clinical studies, adverse reactions were reported by 11.0% of patients. For multi-day dosing in controlled and uncontrolled amebiasis studies, adverse reactions were reported by 13.8% of 1765 patients. Common (≥ 1% incidence) adverse reactions reported by body system are as follows. (Note: Data described in Table 1 below are pooled from studies with variable designs and safety evaluations.) Other adverse reactions reported with tinidazole include: Central Nervous System: Two serious adverse reactions reported include convulsions and transient peripheral neuropathy including numbness and paresthesia [see Warnings and Precautions ( 5.1 )]. Other CNS reports include vertigo, ataxia, giddiness, insomnia, drowsiness. Gastrointestinal: tongue discoloration, stomatitis, diarrhea Hypersensitivity: urticaria, pruritis, rash, flushing, sweating, dryness of mouth, fever, burning sensation, thirst, salivation, angioedema Renal: darkened urine Cardiovascular: palpitations Hematopoietic: transient neutropenia, transient leukopenia Other: Candida overgrowth, increased vaginal discharge, oral candidiasis, hepatic abnormalities including raised transaminase level, arthralgias, myalgias, and arthritis. Table 1. Adverse Reactions Summary of Published Reports 2 g single dose Multi-day dose GI: Metallic/bitter taste 3.7% 6.3% Nausea 3.2% 4.5% Anorexia 1.5% 2.5% Dyspepsia/cramps/epigastric discomfort 1.8% 1.4% Vomiting 1.5% 0.9% Constipation 0.4% 1.4% CNS: Weakness/fatigue/malaise 2.1% 1.1% Dizziness 1.1% 0.5% Other: Headache 1.3% 0.7% Total patients with adverse reactions 11.0% (403/3669) 13.8% (244/1765) Rare reported adverse reactions include bronchospasm, dyspnea, coma, confusion, depression, furry tongue, pharyngitis and reversible thrombocytopenia. Adverse Reactions in Pediatric Patients: In pooled pediatric studies, adverse reactions reported in pediatric patients taking tinidazole were similar in nature and frequency to adult findings including nausea, vomiting, diarrhea, taste change, anorexia, and abdominal pain. Bacterial vaginosis: The most common adverse reactions in treated patients (incidence >2%), which were not identified in the trichomoniasis, giardiasis and amebiasis studies, are gastrointestinal: decreased appetite, and flatulence; renal: urinary tract infection, painful urination, and urine abnormality; and other reactions including pelvic pain, vulvo-vaginal discomfort, vaginal odor, menorrhagia, and upper respiratory tract infection [See Clinical Studies ( 14.5 )]. 6.2 Postmarketing Experience The following adverse reactions have been identified and reported during post-approval use of Tindamax. Because the reports of these reactions are voluntary and the population is of uncertain size, it is not always possible to reliably estimate the frequency of the reaction or establish a causal relationship to drug exposure. Severe acute hypersensitivity reactions have been reported on initial or subsequent exposure to tinidazole. Hypersensitivity reactions may include urticaria, pruritis, angioedema, Stevens-Johnson syndrome and erythema multiforme."
+  ],
+  "adverse_reactions_table": [
+   "<table ID=\"t30991221357159760\" width=\"55%\"><caption>Table 1. Adverse Reactions Summary of Published Reports </caption><col align=\"left\" valign=\"middle\" width=\"60%\"/><col align=\"center\" valign=\"middle\" width=\"20%\"/><col align=\"center\" valign=\"middle\" width=\"20%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> </td><td styleCode=\"Lrule\">2 g single dose</td><td styleCode=\"Lrule Rrule\">Multi-day dose</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> GI: Metallic/bitter taste</td><td styleCode=\"Lrule\">3.7%</td><td styleCode=\"Lrule Rrule\">6.3%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> Nausea</td><td styleCode=\"Lrule\">3.2%</td><td styleCode=\"Lrule Rrule\">4.5%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> Anorexia</td><td styleCode=\"Lrule\">1.5%</td><td styleCode=\"Lrule Rrule\">2.5%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> Dyspepsia/cramps/epigastric discomfort</td><td styleCode=\"Lrule\" valign=\"middle\">1.8%</td><td styleCode=\"Lrule Rrule\" valign=\"middle\">1.4%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> Vomiting</td><td styleCode=\"Lrule\">1.5%</td><td styleCode=\"Lrule Rrule\">0.9%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> Constipation</td><td styleCode=\"Lrule\">0.4%</td><td styleCode=\"Lrule Rrule\">1.4%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> CNS: Weakness/fatigue/malaise</td><td styleCode=\"Lrule\">2.1%</td><td styleCode=\"Lrule Rrule\">1.1%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> Dizziness</td><td styleCode=\"Lrule\">1.1%</td><td styleCode=\"Lrule Rrule\">0.5%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> Other: Headache</td><td styleCode=\"Lrule\">1.3%</td><td styleCode=\"Lrule Rrule\">0.7%</td></tr><tr><td styleCode=\"Lrule\"> Total patients with adverse reactions</td><td styleCode=\"Lrule\">11.0%  (403/3669) </td><td styleCode=\"Lrule Rrule\">13.8%  (244/1765) </td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Although not specifically identified in studies with tinidazole, the following drug interactions were reported for metronidazole, a chemically-related nitroimidazole. Therefore, these drug interactions may occur with tinidazole. The following drug interactions were reported for metronidazole, a chemically-related nitroimidazole and may therefore occur with tinidazole: Warfarin and other oral coumarin anticoagulants: Anticoagulant dosage may need adjustment during and up to 8 days after tinidazole therapy ( 7.1 ) Alcohol-containing beverages/preparations: Avoid during and up to 3 days after tinidazole therapy ( 7.1 ) Lithium: Monitor serum lithium concentrations ( 7.1 ) Cyclosporine, tacrolimus: Monitor for toxicities of these immunosuppressive drugs ( 7.1 ) Fluorouracil: Monitor for fluorouracil-associated toxicities ( 7.1 ) Phenytoin, fosphenytoin: Adjustment of anticonvulsant and/or tinidazole dose(s) may be needed ( 7.1, 7.2 ) CYP3A4 inducers/inhibitors: Monitor for decreased tinidazole effect or increased adverse reactions ( 7.2 ) 7.1 Potential Effects of Tinidazole on Other Drugs Warfarin and Other Oral Coumarin Anticoagulants: As with metronidazole, tinidazole may enhance the effect of warfarin and other coumarin anticoagulants, resulting in a prolongation of prothrombin time. The dosage of oral anticoagulants may need to be adjusted during tinidazole co-administration and up to 8 days after discontinuation. Alcohols, Disulfiram: Alcoholic beverages and preparations containing ethanol or propylene glycol should be avoided during tinidazole therapy and for 3 days afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur. Psychotic reactions have been reported in alcoholic patients using metronidazole and disulfiram concurrently. Though no similar reactions have been reported with tinidazole, tinidazole should not be given to patients who have taken disulfiram within the last two weeks. Lithium: Metronidazole has been reported to elevate serum lithium levels. It is not known if tinidazole shares this property with metronidazole, but consideration should be given to measuring serum lithium and creatinine levels after several days of simultaneous lithium and tinidazole treatment to detect potential lithium intoxication. Phenytoin, Fosphenytoin: Concomitant administration of oral metronidazole and intravenous phenytoin was reported to result in prolongation of the half-life and reduction in the clearance of phenytoin. Metronidazole did not significantly affect the pharmacokinetics of orally-administered phenytoin. Cyclosporine, Tacrolimus: There are several case reports suggesting that metronidazole has the potential to increase the levels of cyclosporine and tacrolimus. During tinidazole co-administration with either of these drugs, the patient should be monitored for signs of calcineurin-inhibitor associated toxicities. Fluorouracil: Metronidazole was shown to decrease the clearance of fluorouracil, resulting in an increase in side-effects without an increase in therapeutic benefits. If the concomitant use of tinidazole and fluorouracil cannot be avoided, the patient should be monitored for fluorouracil-associated toxicities. 7.2 Potential Effects of Other Drugs on Tinidazole CYP3A4 Inducers and Inhibitors: Simultaneous administration of tinidazole with drugs that induce liver microsomal enzymes, i.e., CYP3A4 inducers such as phenobarbital, rifampin, phenytoin, and fosphenytoin (a pro-drug of phenytoin), may accelerate the elimination of tinidazole, decreasing the plasma level of tinidazole. Simultaneous administration of drugs that inhibit the activity of liver microsomal enzymes, i.e., CYP3A4 inhibitors such as cimetidine and ketoconazole, may prolong the half-life and decrease the plasma clearance of tinidazole, increasing the plasma concentrations of tinidazole. Cholestyramine: Cholestyramine was shown to decrease the oral bioavailability of metronidazole by 21%. Thus, it is advisable to separate dosing of cholestyramine and tinidazole to minimize any potential effect on the oral bioavailability of tinidazole. Oxytetracycline: Oxytetracycline was reported to antagonize the therapeutic effect of metronidazole. 7.3 Laboratory Test Interactions Tinidazole, like metronidazole, may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose. Values of zero may be observed. All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide adenine dinucleotide (NAD + ↔ NADH). Potential interference is due to the similarity of absorbance peaks of NADH and tinidazole. Tinidazole, like metronidazole, may produce transient leukopenia and neutropenia; however, no persistent hematological abnormalities attributable to tinidazole have been observed in clinical studies. Total and differential leukocyte counts are recommended if re-treatment is necessary."
+  ],
+  "drug_and_or_laboratory_test_interactions": [
+   "7.3 Laboratory Test Interactions Tinidazole, like metronidazole, may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose. Values of zero may be observed. All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide adenine dinucleotide (NAD + ↔ NADH). Potential interference is due to the similarity of absorbance peaks of NADH and tinidazole. Tinidazole, like metronidazole, may produce transient leukopenia and neutropenia; however, no persistent hematological abnormalities attributable to tinidazole have been observed in clinical studies. Total and differential leukocyte counts are recommended if re-treatment is necessary."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pediatric Use: Data on tinidazole use in children is limited to treatment of giardiasis and amebiasis in patients age 3 and older ( 8.4 ) Hemodialysis patients: If tinidazole is administered the same day and prior to hemodialysis, administer an additional ½ dose after end of hemodialysis ( 8.6, 12.3 ) See 17 for PATIENT COUNSELING INFORMATION Revised: 5/2007 8.1 Pregnancy Teratogenic effects: Pregnancy Category C The use of tinidazole in pregnant patients has not been studied. Since tinidazole crosses the placental barrier and enters fetal circulation it should not be administered to pregnant patients in the first trimester. Embryo-fetal developmental toxicity studies in pregnant mice indicated no embryo-fetal toxicity or malformations at the highest dose level of 2,500 mg/kg (approximately 6.3-fold the highest human therapeutic dose based upon body surface area conversions). In a study with pregnant rats a slightly higher incidence of fetal mortality was observed at a maternal dose of 500 mg/kg (2.5-fold the highest human therapeutic dose based upon body surface area conversions). No biologically relevant neonatal developmental effects were observed in rat neonates following maternal doses as high as 600 mg/kg (3-fold the highest human therapeutic dose based upon body surface area conversions). Although there is some evidence of mutagenic potential and animal reproduction studies are not always predictive of human response, the use of tinidazole after the first trimester of pregnancy requires that the potential benefits of the drug be weighed against the possible risks to both the mother and the fetus. 8.3 Nursing Mothers Tinidazole is excreted in breast milk in concentrations similar to those seen in serum. Tinidazole can be detected in breast milk for up to 72 hours following administration. Interruption of breast-feeding is recommended during tinidazole therapy and for 3 days following the last dose. 8.4 Pediatric Use Other than for use in the treatment of giardiasis and amebiasis in pediatric patients older than three years of age, safety and effectiveness of tinidazole in pediatric patients have not been established. Pediatric Administration: For those unable to swallow tablets, tinidazole tablets may be crushed in artificial cherry syrup, to be taken with food [see Dosage and Administration ( 2.2 )]. 8.5 Geriatric Use Clinical studies of tinidazole did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. 8.6 Renal Impairment Because the pharmacokinetics of tinidazole in patients with severe renal impairment (CrCL < 22 mL/min) are not significantly different from those in healthy subjects, no dose adjustments are necessary in these patients. Patients undergoing hemodialysis: If tinidazole is administered on the same day as and prior to hemodialysis, it is recommended that an additional dose of tinidazole equivalent to one-half of the recommended dose be administered after the end of the hemodialysis [see Clinical Pharmacology ( 12.3 )]. 8.7 Hepatic Impairment There are no data on tinidazole pharmacokinetics in patients with impaired hepatic function. Reduced elimination of metronidazole, a chemically-related nitroimidazole, has been reported in this population. Usual recommended doses of tinidazole should be administered cautiously in patients with hepatic dysfunction [see Clinical Pharmacology ( 12.3 )]."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Teratogenic effects: Pregnancy Category C The use of tinidazole in pregnant patients has not been studied. Since tinidazole crosses the placental barrier and enters fetal circulation it should not be administered to pregnant patients in the first trimester. Embryo-fetal developmental toxicity studies in pregnant mice indicated no embryo-fetal toxicity or malformations at the highest dose level of 2,500 mg/kg (approximately 6.3-fold the highest human therapeutic dose based upon body surface area conversions). In a study with pregnant rats a slightly higher incidence of fetal mortality was observed at a maternal dose of 500 mg/kg (2.5-fold the highest human therapeutic dose based upon body surface area conversions). No biologically relevant neonatal developmental effects were observed in rat neonates following maternal doses as high as 600 mg/kg (3-fold the highest human therapeutic dose based upon body surface area conversions). Although there is some evidence of mutagenic potential and animal reproduction studies are not always predictive of human response, the use of tinidazole after the first trimester of pregnancy requires that the potential benefits of the drug be weighed against the possible risks to both the mother and the fetus."
+  ],
+  "nursing_mothers": [
+   "8.3 Nursing Mothers Tinidazole is excreted in breast milk in concentrations similar to those seen in serum. Tinidazole can be detected in breast milk for up to 72 hours following administration. Interruption of breast-feeding is recommended during tinidazole therapy and for 3 days following the last dose."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Other than for use in the treatment of giardiasis and amebiasis in pediatric patients older than three years of age, safety and effectiveness of tinidazole in pediatric patients have not been established. Pediatric Administration: For those unable to swallow tablets, tinidazole tablets may be crushed in artificial cherry syrup, to be taken with food [see Dosage and Administration ( 2.2 )]."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of tinidazole did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE There are no reported overdoses with tinidazole in humans. Treatment of Overdosage: There is no specific antidote for the treatment of overdosage with tinidazole; therefore, treatment should be symptomatic and supportive. Gastric lavage may be helpful. Hemodialysis can be considered because approximately 43% of the amount present in the body is eliminated during a 6-hour hemodialysis session."
+  ],
+  "description": [
+   "11 DESCRIPTION Tinidazole is a synthetic antiprotozoal and antibacterial agent. It is 1-[2-(ethylsulfonyl)ethyl]-2-methyl-5-nitroimidazole, a second-generation 2-methyl-5-nitroimidazole, which has the following chemical structure: Tindamax pink oral tablets contain 250 mg or 500 mg of tinidazole. Inactive ingredients include croscarmellose sodium, FD&C Red 40 lake, FD&C Yellow 6 lake, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, pregelatinized corn starch, titanium dioxide, and triacetin. struct-tinidazole"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Tinidazole is an antiprotozoal, antibacterial agent. [See Clinical Pharmacology ( 12.4 )]. 12.3 Pharmacokinetics Absorption: After oral administration, tinidazole is rapidly and completely absorbed. A bioavailability study of Tindamax tablets was conducted in adult healthy volunteers. All subjects received a single oral dose of 2 g (four 500 mg tablets) of Tindamax following an overnight fast. Oral administration of four 500 mg tablets of Tindamax under fasted conditions produced a mean peak plasma concentration (C max ) of 47.7 (±7.5) µg/mL with a mean time to peak concentration (T max ) of 1.6 (±0.7) hours, and a mean area under the plasma concentration-time curve (AUC, 0-∞) of 901.6 (± 126.5) µg/hr/mL at 72 hours. The elimination half-life (T 1/2 ) was 13.2 (±1.4) hours. Mean plasma levels decreased to 14.3 µg/mL at 24 hours, 3.8 µg/mL at 48 hours and 0.8 µg/mL at 72 hours following administration. Steady-state conditions are reached in 2½ - 3 days of multi-day dosing. Administration of Tindamax tablets with food resulted in a delay in T max of approximately 2 hours and a decline in C max of approximately 10% , compared to fasted conditions. However, administration of Tindamax with food did not affect AUC or T 1/2 in this study. In healthy volunteers, administration of crushed Tindamax tablets in artificial cherry syrup, [prepared as described in Dosage and Administration ( 2.2 ) ] after an overnight fast had no effect on any pharmacokinetic parameter as compared to tablets swallowed whole under fasted conditions. Distribution: Tinidazole is distributed into virtually all tissues and body fluids and also crosses the blood-brain barrier. The apparent volume of distribution is about 50 liters. Plasma protein binding of tinidazole is 12%. Tinidazole crosses the placental barrier and is secreted in breast milk. Metabolism: Tinidazole is significantly metabolized in humans prior to excretion. Tinidazole is partly metabolized by oxidation, hydroxylation, and conjugation. Tinidazole is the major drug-related constituent in plasma after human treatment, along with a small amount of the 2-hydroxymethyl metabolite. Tinidazole is biotransformed mainly by CYP3A4. In an in vitro metabolic drug interaction study, tinidazole concentrations of up to 75 µg/mL did not inhibit the enzyme activities of CYP1A2, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4. The potential of tinidazole to induce the metabolism of other drugs has not been evaluated. Elimination: The plasma half-life of tinidazole is approximately 12-14 hours. Tinidazole is excreted by the liver and the kidneys. Tinidazole is excreted in the urine mainly as unchanged drug (approximately 20-25% of the administered dose). Approximately 12% of the drug is excreted in the feces. Patients with impaired renal function: The pharmacokinetics of tinidazole in patients with severe renal impairment (CrCL < 22 mL/min) are not significantly different from the pharmacokinetics seen in healthy subjects. However, during hemodialysis, clearance of tinidazole is significantly increased; the half-life is reduced from 12.0 hours to 4.9 hours. Approximately 43% of the amount present in the body is eliminated during a 6-hour hemodialysis session [see Use in Specific Populations ( 8.6 )]. The pharmacokinetics of tinidazole in patients undergoing routine continuous peritoneal dialysis have not been investigated. Patients with impaired hepatic function: There are no data on tinidazole pharmacokinetics in patients with impaired hepatic function. Reduction of metabolic elimination of metronidazole, a chemically-related nitroimidazole, in patients with hepatic dysfunction has been reported in several studies [see Use in Specific Populations ( 8.7 )]. 12.4 Microbiology Mechanism of Action: Tinidazole is an antiprotozoal, antibacterial agent. The nitro- group of tinidazole is reduced by cell extracts of Trichomonas. The free nitro- radical generated as a result of this reduction may be responsible for the antiprotozoal activity. Chemically reduced tinidazole was shown to release nitrites and cause damage to purified bacterial DNA in vitro. Additionally, the drug caused DNA base changes in bacterial cells and DNA strand breakage in mammalian cells. The mechanism by which tinidazole exhibits activity against Giardia and Entamoeba species is not known. Antibacterial: Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Indications and Usage ( 1.4 )]; standard methodology for the susceptibility testing of potential bacterial pathogens, Gardnerella vaginalis, Mobiluncus spp. or Mycoplasma hominis, has not been defined. The following in vitro data are available, but their clinical significance is unknown. Tinidazole is active in vitro against most strains of the following organisms that have been reported to be associated with bacterial vaginosis: Bacteroides spp. Gardnerella vaginalis Prevotella spp. Tinidazole does not appear to have activity against most strains of vaginal lactobacilli. Antiprotozoal: Tinidazole demonstrates activity both in vitro and in clinical infections against the following protozoa: Trichomonas vaginalis; Giardia duodenalis (also termed G. lamblia ); and Entamoeba histolytica. For protozoal parasites, standardized susceptibility tests do not exist for use in clinical microbiology laboratories. Drug Resistance: The development of resistance to tinidazole by G. duodenalis, E. histolytica, or bacteria associated with bacterial vaginosis has not been examined. Cross-resistance: Approximately 38% of T. vaginalis isolates exhibiting reduced susceptibility to metronidazole also show reduced susceptibility to tinidazole in vitro. The clinical significance of such an effect is not known. To reduce the development of drug-resistant bacteria and maintain the effectiveness of Tindamax and other antibacterial drugs, Tindamax should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Tinidazole is an antiprotozoal, antibacterial agent. [See Clinical Pharmacology ( 12.4 )]."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption: After oral administration, tinidazole is rapidly and completely absorbed. A bioavailability study of Tindamax tablets was conducted in adult healthy volunteers. All subjects received a single oral dose of 2 g (four 500 mg tablets) of Tindamax following an overnight fast. Oral administration of four 500 mg tablets of Tindamax under fasted conditions produced a mean peak plasma concentration (C max ) of 47.7 (±7.5) µg/mL with a mean time to peak concentration (T max ) of 1.6 (±0.7) hours, and a mean area under the plasma concentration-time curve (AUC, 0-∞) of 901.6 (± 126.5) µg/hr/mL at 72 hours. The elimination half-life (T 1/2 ) was 13.2 (±1.4) hours. Mean plasma levels decreased to 14.3 µg/mL at 24 hours, 3.8 µg/mL at 48 hours and 0.8 µg/mL at 72 hours following administration. Steady-state conditions are reached in 2½ - 3 days of multi-day dosing. Administration of Tindamax tablets with food resulted in a delay in T max of approximately 2 hours and a decline in C max of approximately 10% , compared to fasted conditions. However, administration of Tindamax with food did not affect AUC or T 1/2 in this study. In healthy volunteers, administration of crushed Tindamax tablets in artificial cherry syrup, [prepared as described in Dosage and Administration ( 2.2 ) ] after an overnight fast had no effect on any pharmacokinetic parameter as compared to tablets swallowed whole under fasted conditions. Distribution: Tinidazole is distributed into virtually all tissues and body fluids and also crosses the blood-brain barrier. The apparent volume of distribution is about 50 liters. Plasma protein binding of tinidazole is 12%. Tinidazole crosses the placental barrier and is secreted in breast milk. Metabolism: Tinidazole is significantly metabolized in humans prior to excretion. Tinidazole is partly metabolized by oxidation, hydroxylation, and conjugation. Tinidazole is the major drug-related constituent in plasma after human treatment, along with a small amount of the 2-hydroxymethyl metabolite. Tinidazole is biotransformed mainly by CYP3A4. In an in vitro metabolic drug interaction study, tinidazole concentrations of up to 75 µg/mL did not inhibit the enzyme activities of CYP1A2, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4. The potential of tinidazole to induce the metabolism of other drugs has not been evaluated. Elimination: The plasma half-life of tinidazole is approximately 12-14 hours. Tinidazole is excreted by the liver and the kidneys. Tinidazole is excreted in the urine mainly as unchanged drug (approximately 20-25% of the administered dose). Approximately 12% of the drug is excreted in the feces. Patients with impaired renal function: The pharmacokinetics of tinidazole in patients with severe renal impairment (CrCL < 22 mL/min) are not significantly different from the pharmacokinetics seen in healthy subjects. However, during hemodialysis, clearance of tinidazole is significantly increased; the half-life is reduced from 12.0 hours to 4.9 hours. Approximately 43% of the amount present in the body is eliminated during a 6-hour hemodialysis session [see Use in Specific Populations ( 8.6 )]. The pharmacokinetics of tinidazole in patients undergoing routine continuous peritoneal dialysis have not been investigated. Patients with impaired hepatic function: There are no data on tinidazole pharmacokinetics in patients with impaired hepatic function. Reduction of metabolic elimination of metronidazole, a chemically-related nitroimidazole, in patients with hepatic dysfunction has been reported in several studies [see Use in Specific Populations ( 8.7 )]."
+  ],
+  "microbiology": [
+   "12.4 Microbiology Mechanism of Action: Tinidazole is an antiprotozoal, antibacterial agent. The nitro- group of tinidazole is reduced by cell extracts of Trichomonas. The free nitro- radical generated as a result of this reduction may be responsible for the antiprotozoal activity. Chemically reduced tinidazole was shown to release nitrites and cause damage to purified bacterial DNA in vitro. Additionally, the drug caused DNA base changes in bacterial cells and DNA strand breakage in mammalian cells. The mechanism by which tinidazole exhibits activity against Giardia and Entamoeba species is not known. Antibacterial: Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Indications and Usage ( 1.4 )]; standard methodology for the susceptibility testing of potential bacterial pathogens, Gardnerella vaginalis, Mobiluncus spp. or Mycoplasma hominis, has not been defined. The following in vitro data are available, but their clinical significance is unknown. Tinidazole is active in vitro against most strains of the following organisms that have been reported to be associated with bacterial vaginosis: Bacteroides spp. Gardnerella vaginalis Prevotella spp. Tinidazole does not appear to have activity against most strains of vaginal lactobacilli. Antiprotozoal: Tinidazole demonstrates activity both in vitro and in clinical infections against the following protozoa: Trichomonas vaginalis; Giardia duodenalis (also termed G. lamblia ); and Entamoeba histolytica. For protozoal parasites, standardized susceptibility tests do not exist for use in clinical microbiology laboratories. Drug Resistance: The development of resistance to tinidazole by G. duodenalis, E. histolytica, or bacteria associated with bacterial vaginosis has not been examined. Cross-resistance: Approximately 38% of T. vaginalis isolates exhibiting reduced susceptibility to metronidazole also show reduced susceptibility to tinidazole in vitro. The clinical significance of such an effect is not known. To reduce the development of drug-resistant bacteria and maintain the effectiveness of Tindamax and other antibacterial drugs, Tindamax should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Metronidazole, a chemically-related nitroimidazole, has been reported to be carcinogenic in mice and rats but not hamsters. In several studies metronidazole showed evidence of pulmonary, hepatic, and lymphatic tumorigenesis in mice and mammary and hepatic tumors in female rats. Tinidazole carcinogenicity studies in rats, mice or hamsters have not been reported. Tinidazole was mutagenic in the TA 100, S. typhimurium tester strain both with and without the metabolic activation system and was negative for mutagenicity in the TA 98 strain. Mutagenicity results were mixed (positive and negative) in the TA 1535, 1537, and 1538 strains. Tinidazole was also mutagenic in a tester strain of Klebsiella pneumonia . Tinidazole was negative for mutagenicity in a mammalian cell culture system utilizing Chinese hamster lung V79 cells (HGPRT test system) and negative for genotoxicity in the Chinese hamster ovary (CHO) sister chromatid exchange assay. Tinidazole was positive for in vivo genotoxicity in the mouse micronucleus assay. In a 60-day fertility study, tinidazole reduced fertility and produced testicular histopathology in male rats at a 600 mg/kg/day dose level (approximately 3-fold the highest human therapeutic dose based upon body surface area conversions). Spermatogenic effects resulted from 300 and 600 mg/kg/day dose levels. The no observed adverse reaction level for testicular and spermatogenic effects was 100 mg/kg/day (approximately 0.5-fold the highest human therapeutic dose based upon body surface area conversions). This effect is characteristic of agents in the 5-nitroimidazole class. 13.2 Animal Toxicology and/or Pharmacology In acute studies with mice and rats, the LD 50 for mice was generally > 3,600 mg/kg for oral administration and was > 2,300 mg/kg for intraperitoneal administration. In rats, the LD 50 was > 2,000 mg/kg for both oral and intraperitoneal administration. A repeated-dose toxicology study has been performed in beagle dogs using oral dosing of tinidazole at 100 mg/kg/day, 300 mg/kg/day, and 1000 mg/kg/day for 28-days. On Day 18 of the study, the highest dose was lowered to 600 mg/kg/day due to severe clinical symptoms. The two compound-related effects observed in the dogs treated with tinidazole were increased atrophy of the thymus in both sexes at the middle and high doses, and atrophy of the prostate at all doses in the males. A no-adverse-effect level (NOAEL) of 100 mg/kg/day for females was determined. There was no NOAEL identified for males because of minimal atrophy of the prostate at 100 mg/kg/day (approximately 0.9-fold the highest human dose based upon plasma AUC comparisons)."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Metronidazole, a chemically-related nitroimidazole, has been reported to be carcinogenic in mice and rats but not hamsters. In several studies metronidazole showed evidence of pulmonary, hepatic, and lymphatic tumorigenesis in mice and mammary and hepatic tumors in female rats. Tinidazole carcinogenicity studies in rats, mice or hamsters have not been reported. Tinidazole was mutagenic in the TA 100, S. typhimurium tester strain both with and without the metabolic activation system and was negative for mutagenicity in the TA 98 strain. Mutagenicity results were mixed (positive and negative) in the TA 1535, 1537, and 1538 strains. Tinidazole was also mutagenic in a tester strain of Klebsiella pneumonia . Tinidazole was negative for mutagenicity in a mammalian cell culture system utilizing Chinese hamster lung V79 cells (HGPRT test system) and negative for genotoxicity in the Chinese hamster ovary (CHO) sister chromatid exchange assay. Tinidazole was positive for in vivo genotoxicity in the mouse micronucleus assay. In a 60-day fertility study, tinidazole reduced fertility and produced testicular histopathology in male rats at a 600 mg/kg/day dose level (approximately 3-fold the highest human therapeutic dose based upon body surface area conversions). Spermatogenic effects resulted from 300 and 600 mg/kg/day dose levels. The no observed adverse reaction level for testicular and spermatogenic effects was 100 mg/kg/day (approximately 0.5-fold the highest human therapeutic dose based upon body surface area conversions). This effect is characteristic of agents in the 5-nitroimidazole class."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology In acute studies with mice and rats, the LD 50 for mice was generally > 3,600 mg/kg for oral administration and was > 2,300 mg/kg for intraperitoneal administration. In rats, the LD 50 was > 2,000 mg/kg for both oral and intraperitoneal administration. A repeated-dose toxicology study has been performed in beagle dogs using oral dosing of tinidazole at 100 mg/kg/day, 300 mg/kg/day, and 1000 mg/kg/day for 28-days. On Day 18 of the study, the highest dose was lowered to 600 mg/kg/day due to severe clinical symptoms. The two compound-related effects observed in the dogs treated with tinidazole were increased atrophy of the thymus in both sexes at the middle and high doses, and atrophy of the prostate at all doses in the males. A no-adverse-effect level (NOAEL) of 100 mg/kg/day for females was determined. There was no NOAEL identified for males because of minimal atrophy of the prostate at 100 mg/kg/day (approximately 0.9-fold the highest human dose based upon plasma AUC comparisons)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES 14.1 Trichomoniasis Tinidazole (2 g single oral dose) use in trichomoniasis has been well documented in 34 published reports from the world literature involving over 2,800 patients treated with tinidazole. In four published, blinded, randomized, comparative studies of the 2 g tinidazole single oral dose where efficacy was assessed by culture at time points post-treatment ranging from one week to one month, reported cure rates ranged from 92% (37/40) to 100% (65/65) (n=172 total subjects). In four published, blinded, randomized, comparative studies where efficacy was assessed by wet mount between 7-14 days post-treatment, reported cure rates ranged from 80% (8/10) to 100% (16/16) (n=116 total subjects). In these studies, tinidazole was superior to placebo and comparable to other anti-trichomonal drugs. The single oral 2 g tinidazole dose was also assessed in four open-label trials in men (one comparative to metronidazole and 3 single-arm studies). Parasitological evaluation of the urine was performed both pre- and post-treatment and reported cure rates ranged from 83% (25/30) to 100% (80/80) (n=142 total subjects). 14.2 Giardiasis Tinidazole (2 g single dose) use in giardiasis has been documented in 19 published reports from the world literature involving over 1,600 patients (adults and pediatric patients). In eight controlled studies involving a total of 619 subjects of whom 299 were given the 2 g × 1 day (50 mg/kg × 1 day in pediatric patients) oral dose of tinidazole, reported cure rates ranged from 80% (40/50) to 100% (15/15). In three of these trials where the comparator was 2 to 3 days of various doses of metronidazole, reported cure rates for metronidazole were 76% (19/25) to 93% (14/15). Data comparing a single 2 g dose of tinidazole to usually recommended 5-7 days of metronidazole are limited. 14.3 Intestinal Amebiasis Tinidazole use in intestinal amebiasis has been documented in 26 published reports from the world literature involving over 1,400 patients. Most reports utilized tinidazole 2 g/day × 3 days. In four published, randomized, controlled studies (1 investigator single-blind, 3 open-label) of the 2 g/day × 3 days oral dose of tinidazole, reported cure rates after 3 days of therapy among a total of 220 subjects ranged from 86% (25/29) to 93% (25/27). 14.4 Amebic Liver Abscess Tinidazole use in amebic liver abscess has been documented in 18 published reports from the world literature involving over 470 patients. Most reports utilized tinidazole 2 g/day × 2-5 days. In seven published, randomized, controlled studies (1 double-blind, 1 single-blind, 5 open-label) of the 2 g/day × 2-5 days oral dose of tinidazole accompanied by aspiration of the liver abscess when clinically necessary, reported cure rates among 133 subjects ranged from 81% (17/21) to 100% (16/16). Four of these studies utilized at least 3 days of tinidazole. 14.5 Bacterial Vaginosis A randomized, double-blind, placebo-controlled clinical trial in 235 non-pregnant women was conducted to evaluate the efficacy of tinidazole for the treatment of bacterial vaginosis. A clinical diagnosis of bacterial vaginosis was based on Amsel's criteria and defined by the presence of an abnormal homogeneous vaginal discharge that (a) has a pH of greater than 4.5, (b) emits a \"fishy\" amine odor when mixed with a 10% KOH solution, and (c) contains ≥20% clue cells on microscopic examination. Clinical cure required a return to normal vaginal discharge and resolution of all Amsel's criteria. A microbiologic diagnosis of bacterial vaginosis was based on Gram stain of the vaginal smear demonstrating (a) markedly reduced or absent Lactobacillus morphology, (b) predominance of Gardnerella morphotype, and (c) absent or few white blood cells, with quantification of these bacterial morphotypes to determine the Nugent score, where a score ≥4 was required for study inclusion and a score of 0-3 considered a microbiologic cure. Therapeutic cure was a composite endpoint, consisting of both a clinical cure and microbiologic cure. In patients with all four Amsel's criteria and with a baseline Nugent score ≥4, tinidazole oral tablets given as either 2 g once daily for 2 days or 1 g once daily for 5 days demonstrated superior efficacy over placebo tablets as measured by therapeutic cure, clinical cure, and a microbiologic cure. Table 2. Efficacy of Tindamax in the Treatment of Bacterial Vaginosis in a Randomized, Double-Blind, Double-Dummy, Placebo-Controlled Trial: Modified Intent-to-Treat Population 1 (n=227) Outcome Tindamax 1 g × 5 days (n=76) Tindamax 2 g × 2 days (n=73) Placebo (n=78) % Cure % Cure % Cure Therapeutic Cure Difference 2 97.5% CI 3 36.8 31.7 (16.8, 46.6) 27.4 22.3 (8.0, 36.6) 5.1 Clinical Cure Difference 2 97.5% CI 3 51.3 39.8 (23.3, 56.3) 35.6 24.1 (7.8, 40.3) 11.5 Nugent Score Cure Difference 2 97.5% CI 3 38.2 33.1 (18.1, 48.0) 27.4 22.3 (8.0, 36.6) 5.1 1 Modified Intent-to-Treat defined as all patients randomized with a baseline Nugent score of at least 4 2 Difference in cure rates (Tindamax-placebo) 3 CI: confidence interval p-values for both Tindamax regimens vs. placebo for therapeutic, clinical and Nugent score cure rates for both 2 and 5 days <0.001 The therapeutic cure rates reported in this clinical study conducted with Tindamax were based on resolution of 4 out of 4 Amsel's criteria and a Nugent score of <4. The cure rates for previous clinical studies with other products approved for bacterial vaginosis were based on resolution of either 2 or 3 out of 4 Amsel's criteria. At the time of approval for other products for bacterial vaginosis, there was no requirement for a Nugent score on Gram stain, resulting in higher reported rates of cure for bacterial vaginosis for those products than for those reported here for tinidazole."
+  ],
+  "clinical_studies_table": [
+   "<table ID=\"t76981221357159760\" width=\"58%\"><caption>Table 2. Efficacy of Tindamax in the Treatment of Bacterial Vaginosis in a Randomized, Double-Blind, Double-Dummy, Placebo-Controlled Trial: Modified Intent-to-Treat Population <sup>1</sup> (n=227) </caption><col align=\"center\" valign=\"middle\" width=\"32%\"/><col align=\"center\" valign=\"middle\" width=\"24%\"/><col align=\"center\" valign=\"middle\" width=\"24%\"/><col align=\"center\" valign=\"middle\" width=\"20%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\" valign=\"top\"> Outcome</td><td styleCode=\"Lrule\">Tindamax  1 g &#xD7; 5 days  (n=76) </td><td styleCode=\"Lrule\">Tindamax  2 g &#xD7; 2 days  (n=73) </td><td styleCode=\"Lrule Rrule\" valign=\"top\">Placebo   (n=78) </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"> </td><td styleCode=\"Lrule\">% Cure</td><td styleCode=\"Lrule\">% Cure</td><td styleCode=\"Lrule Rrule\">% Cure</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\" valign=\"top\">  Therapeutic Cure   Difference <sup>2</sup> 97.5% CI <sup>3</sup></td><td styleCode=\"Lrule\" valign=\"top\"> 36.8   31.7  (16.8, 46.6) </td><td styleCode=\"Lrule\" valign=\"top\"> 27.4   22.3  (8.0, 36.6) </td><td styleCode=\"Lrule Rrule\" valign=\"top\"> 5.1 </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\" valign=\"top\">  Clinical Cure   Difference <sup>2</sup> 97.5% CI <sup>3</sup></td><td styleCode=\"Lrule\" valign=\"top\"> 51.3   39.8  (23.3, 56.3) </td><td styleCode=\"Lrule\" valign=\"top\"> 35.6   24.1  (7.8, 40.3) </td><td styleCode=\"Lrule Rrule\" valign=\"top\"> 11.5 </td></tr><tr><td styleCode=\"Lrule\" valign=\"top\">  Nugent Score Cure   Difference <sup>2</sup> 97.5% CI <sup>3</sup></td><td styleCode=\"Lrule\" valign=\"top\"> 38.2   33.1  (18.1, 48.0) </td><td styleCode=\"Lrule\" valign=\"top\"> 27.4   22.3  (8.0, 36.6) </td><td styleCode=\"Lrule Rrule\" valign=\"top\"> 5.1 </td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Tindamax 250 mg tablets are pink, round, scored tablets, with TM debossed on one side and 250 on the other, supplied in bottles with child-resistant caps as: NDC 0178-8250-40 Bottle of 40 Tindamax 500 mg tablets are pink, oval, scored tablets, with TM debossed on one side and 500 on the other, supplied in bottles with child-resistant caps as: NDC 0178-8500-60 Bottle of 60 NDC 0178-8500-20 Bottle of 20 Professional Samples: NDC 0178-8500-04 Bottle of 4 Storage: Store at controlled room temperature 20-25° C (68-77° F); excursions permitted to 15-30° C (59-86° F) [see USP]. Protect contents from light."
+  ],
+  "storage_and_handling": [
+   "Storage: Store at controlled room temperature 20-25° C (68-77° F); excursions permitted to 15-30° C (59-86° F) [see USP]. Protect contents from light."
+  ],
+  "set_id": "a0d01539-8413-4703-94cc-d221918630a1",
+  "id": "d423971d-34c8-c7d2-e053-2a95a90abe74",
+  "effective_time": "20211227",
+  "version": "9"
+ }
+}

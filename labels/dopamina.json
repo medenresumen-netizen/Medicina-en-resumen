@@ -1,0 +1,113 @@
+{
+ "id_es": "dopamina",
+ "generic_en": "dopamine",
+ "search": "openfda.generic_name.exact:\"DOPAMINE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "2a69474e-1ba5-43a1-b78e-66159db36e11",
+  "id": "55862a7a-e52f-4d82-b78b-12d7b458f6ce",
+  "effective_time": "20260108",
+  "version": "2",
+  "brand_name": [
+   "Dopamine 1515"
+  ],
+  "generic_name": [
+   "DOPAMINE"
+  ],
+  "manufacturer_name": [
+   "Professional Complementary Health Formulas"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [],
+  "n_sections": 15
+ },
+ "candidates": [
+  {
+   "set_id": "2a69474e-1ba5-43a1-b78e-66159db36e11",
+   "id": "55862a7a-e52f-4d82-b78b-12d7b458f6ce",
+   "effective_time": "20260108",
+   "version": "2",
+   "brand_name": [
+    "Dopamine 1515"
+   ],
+   "generic_name": [
+    "DOPAMINE"
+   ],
+   "manufacturer_name": [
+    "Professional Complementary Health Formulas"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 15
+  },
+  {
+   "set_id": "9e02d6dd-97c1-7277-e053-2995a90a112d",
+   "id": "2dd20800-2cfb-02d4-e063-6294a90a0f00",
+   "effective_time": "20250210",
+   "version": "2",
+   "brand_name": [
+    "Dopamine"
+   ],
+   "generic_name": [
+    "DOPAMINE"
+   ],
+   "manufacturer_name": [
+    "Newton Laboratories, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 14
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "ACTIVE INGREDIENTS Dopamine 9X, 12X, 30X, 60X"
+  ],
+  "questions": [
+   "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+   "INDICATIONS For the temporary relief of occasional headache, anxiousness, forgetfulness, hay fever, or congestion due to sensitivity to phenolic compounds found in foods or other products.*"
+  ],
+  "purpose": [
+   "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+   "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+   "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+   "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+   "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "set_id": "2a69474e-1ba5-43a1-b78e-66159db36e11",
+  "id": "55862a7a-e52f-4d82-b78b-12d7b458f6ce",
+  "effective_time": "20260108",
+  "version": "2"
+ }
+}

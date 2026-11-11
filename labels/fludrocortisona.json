@@ -1,0 +1,505 @@
+{
+ "id_es": "fludrocortisona",
+ "generic_en": "fludrocortisone",
+ "search": "openfda.generic_name:\"fludrocortisone\"",
+ "downloaded": "2026-11-11T06:43Z",
+ "chosen": {
+  "set_id": "2cd3965d-cab9-a97c-db61-7d03ced154f3",
+  "id": "47e530bb-3b7a-dae5-e063-6394a90a1149",
+  "effective_time": "20260108",
+  "version": "13",
+  "brand_name": [
+   "FLUDROCORTISONE ACETATE"
+  ],
+  "generic_name": [
+   "FLUDROCORTISONE ACETATE"
+  ],
+  "manufacturer_name": [
+   "AvPAK"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA040431"
+  ],
+  "n_sections": 27
+ },
+ "candidates": [
+  {
+   "set_id": "933e28ef-05e8-419e-a786-21eab67f33a2",
+   "id": "b450e16e-26ca-424c-8f9f-3ed4ede6f0f1",
+   "effective_time": "20260624",
+   "version": "3",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215279"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "89b5687a-6e21-47cd-9c05-d9c9f4f8cf49",
+   "id": "3ad1aae5-8021-4f12-bad7-5d9ce8810556",
+   "effective_time": "20260515",
+   "version": "15",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040431"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "eff2eae8-94ce-46ca-a027-6b1d08e7b96b",
+   "id": "a521d1c2-f4c3-4b7c-ba34-13e06d8ef71b",
+   "effective_time": "20260513",
+   "version": "4",
+   "brand_name": [
+    "fludrocortisone acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Eywa Pharma Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220308"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "3e3b8a1f-ed2a-4235-8a8f-e4ffbe9d1da7",
+   "id": "8fd21358-b22c-451f-bfb7-f456bbde63a1",
+   "effective_time": "20260506",
+   "version": "2",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215279"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "3c007f9a-4cd5-4e74-a633-d55dde1fe903",
+   "id": "8ee49c80-0201-4532-a8b7-918fbd031ff4",
+   "effective_time": "20260227",
+   "version": "19",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040431"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "b8ce5b7e-7aa2-45f8-e053-2995a90a6c65",
+   "id": "487504b1-ef26-c343-e063-6294a90a8bf7",
+   "effective_time": "20260115",
+   "version": "4",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040431"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "2cd3965d-cab9-a97c-db61-7d03ced154f3",
+   "id": "47e530bb-3b7a-dae5-e063-6394a90a1149",
+   "effective_time": "20260108",
+   "version": "13",
+   "brand_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040431"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "4ed382df-f2d5-46a4-a68b-aba807777093",
+   "id": "1e3aaf68-d0e7-4a70-8ac4-29a9ac4cb037",
+   "effective_time": "20251220",
+   "version": "18",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals of New York LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040431"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "3752ff25-8887-5c88-e063-6294a90a345a",
+   "id": "3d863fa4-bdeb-e0a4-e063-6294a90a7cc4",
+   "effective_time": "20250829",
+   "version": "2",
+   "brand_name": [
+    "Fludrocortisone acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219251"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "001e72ea-2c9e-468c-90cc-6c347234e2a9",
+   "id": "35818f71-8d18-1daa-e063-6394a90aeb9f",
+   "effective_time": "20250519",
+   "version": "9",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040431"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "6c4a7d2d-00a4-4d80-ab4c-2afd4e4f614e",
+   "id": "3d915d99-8d45-4077-990f-da0f653675a2",
+   "effective_time": "20241029",
+   "version": "1",
+   "brand_name": [
+    "Fludrocortisone acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219251"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "3d6f1a89-ea11-474d-aaca-64fea02a3beb",
+   "id": "e41b141d-6aec-4008-a178-83a517cebfff",
+   "effective_time": "20240730",
+   "version": "100",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215279"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "bc92f5c6-3a65-4fab-85b3-fd5b84f917c1",
+   "id": "4b107dc9-d932-49db-87ed-66df936588d7",
+   "effective_time": "20240713",
+   "version": "1",
+   "brand_name": [
+    "Fludrocortisone acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Viona Pharmaceuticals Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219251"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "51363453-6d33-4aee-8426-37ac0bf3cc10",
+   "id": "0c6f4e43-c7f8-4bd7-9e9c-f40f83bfd353",
+   "effective_time": "20240209",
+   "version": "4",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040431"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "04ad6ba3-6781-b5df-e063-6294a90a7e6e",
+   "id": "04ad6ba3-6782-b5df-e063-6294a90a7e6e",
+   "effective_time": "20230907",
+   "version": "1",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215279"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "96dbbf53-962b-49a4-a60d-91ae0b9fb9ff",
+   "id": "96dbbf53-962b-49a4-a60d-91ae0b9fb9ff",
+   "effective_time": "20220603",
+   "version": "1",
+   "brand_name": [
+    "Fludrocortisone Acetate"
+   ],
+   "generic_name": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Novitium Pharma LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215279"
+   ],
+   "n_sections": 25
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Fludrocortisone Acetate Tablets USP, 0.1 mg contain fludrocortisone acetate, a synthetic adrenocortical steroid possessing very potent mineralocorticoid properties and high glucocorticoid activity; it is used only for its mineralocorticoid effects. The chemical name for fludrocortisone acetate is 9-fluoro-11β, 17, 21-trihydroxypregn-4-ene-3, 20- dione 21-acetate; its structural formula is: Fludrocortisone acetate tablets USP, 0.1 mg are available for oral administration as scored tablets providing 0.1 mg fludrocortisone acetate per tablet. Inactive ingredients: croscarmellose sodium NF, lactose monohydrate NF, magnesium stearate NF, and microcrystalline cellulose NF. The molecular structure of the Fludrocortisone Acetate consists of 3 O, 1 F, 3 H, and 4 CH3 all connected by lines creating 3 hexagons and 1 pentagon."
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Corticosteroids are thought to act at least in part, by controlling the rate of synthesis of proteins. Although there are a number of instances in which the synthesis of specific proteins is known to be induced by corticosteroids, the links between the initial actions of the hormones and the final metabolic effects have not been completely elucidated. The physiologic action of fludrocortisone acetate is similar to that of hydrocortisone. However, the effects of fludrocortisone acetate, particularly on electrolyte balance, but also on carbohydrate metabolism, are considerably heightened and prolonged. Mineralocorticoids act on the distal tubules of the kidney to enhance the reabsorption of sodium ions from the tubular fluid into the plasma; they increase the urinary excretion of both potassium and hydrogen ions. The consequence of these three primary effects together with similar actions on cation transport in other tissues appear to account for the entire spectrum of physiological activities that are characteristic of mineralocorticoids. In small oral doses, fludrocortisone acetate produces marked sodium retention and increased urinary potassium excretion. It also causes a rise in blood pressure, apparently because of these effects on electrolyte levels. In larger doses, fludrocortisone acetate inhibits endogenous adrenal cortical secretion, thymic activity, and pituitary corticotropin excretion; promotes the deposition of liver glycogen; and, unless protein intake is adequate, induces negative nitrogen balance. The approximate plasma half-life of fludrocortisone (fluorohydrocortisone) is 3.5 hours or more and the biological half-life is 18 to 36 hours."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Fludrocortisone acetate tablets USP, 0.1 mg are indicated as partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenogenital syndrome."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Corticosteroids are contraindicated in patients with systemic fungal infections and in those with a history of possible or known hypersensitivity to these agents."
+  ],
+  "warnings": [
+   "WARNINGS BECAUSE OF ITS MARKED EFFECT ON SODIUM RETENTION THE USE OF FLUDROCORTISONE ACETATE IN THE TREATMENT OF CONDITIONS OTHER THAN THOSE INDICATED HEREIN IS NOT ADVISED. Corticosteroids may mask some signs of infection, and new infections may appear during their use. There may be decreased resistance and inability to localize infection when corticosteroids are used. If an infection occurs during fludrocortisone acetate therapy, it should be promptly controlled by suitable antimicrobial therapy. Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses. Average and large doses of hydrocortisone or cortisone can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium. These effects are less likely to occur with the synthetic derivatives except when used in large doses. However, since fludrocortisone acetate is a potent mineralocorticoid, both the dosage and salt intake should be carefully monitored in order to avoid the development of hypertension, edema or weight gain. Periodic checking of serum electrolyte levels is advisable during prolonged therapy; dietary salt restriction and potassium supplementation may be necessary . All corticosteroids increase calcium excretion. Patients should not be vaccinated against smallpox while on corticosteroid therapy. Other immunization procedures should not be undertaken in patients who are on corticosteroids, especially on high dose, because of possible hazards of neurological complications and a lack of antibody response. The use of fludrocortisone acetate in patients with active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen. If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary since reactivation of the disease may occur. During prolonged corticosteroid therapy these patients should receive chemoprophylaxis. Children who are on immunosuppressant drugs are more susceptible to infections than healthy children. Chicken pox and measles, for example, can have a more serious or even fatal course in children on immunosuppressant corticosteroids. In such children, or in adults who have not had these diseases, particular care should be taken to avoid exposure. If exposed, therapy with variicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated. If chicken pox develops, treatment with antiviral agents may be considered."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Adverse reactions to corticosteroids may be produced by too rapid withdrawal or by continued use of large doses. To avoid drug-induced adrenal insufficiency, supportive dosage may be required in times of stress (such as trauma, surgery, or severe illness) both during treatment with fludrocortisone acetate and for a year afterwards. There is an enhanced corticosteroid effect in patients with hypothyroidism and in those with cirrhosis. Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation. The lowest possible dose of corticosteroid should be used to control the condition being treated. A gradual reduction in dosage should be made when possible. Psychic derangements may appear when corticosteroids are used. These may range from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations. Existing emotional instability or psychotic tendencies may also be aggravated by corticosteroids. Aspirin should be used cautiously in conjunction with corticosteroids in patients with hypoprothrombinemia. Corticosteroids should be used with caution in patients with nonspecific ulcerative colitis if there is a probability of impending perforation, abscess, or other pyogenic infection. Corticosteroids should also be used cautiously in patients with diverticulitis, fresh intestinal anastomoses, active or latent peptic ulcer, renal insufficiency, hypertension, osteoporosis, and myasthenia gravis. Information for Patients The physician should advise the patient to report any medical history of heart disease, high blood pressure, or kidney or liver disease and to report current use of any medicines to determine if these medicines might interact adversely with fludrocortisone acetate (see Drug Interactions ). Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chicken pox or measles and, if exposed, to obtain medical advice. The patient's understanding of his steroid-dependent status and increased dosage requirement under widely variable conditions of stress is vital. Advise the patient to carry medical identification indicating his dependence on steroid medication and, if necessary, instruct him to carry an adequate supply of medication for use in emergencies. Stress to the patient the importance of regular follow-up visits to check his progress and the need to promptly notify the physician of dizziness, severe or continuing headaches, swelling of feet or lower legs, or unusual weight gain. Advise the patient to use the medicine only as directed, to take a missed dose as soon as possible, unless it is almost time for the next dose, and not to double the next dose. Inform the patient to keep this medication and all drugs out of the reach of children. Laboratory Tests Patients should be monitored regularly for blood pressure determinations and serum electrolyte determinations (see WARNINGS ). Drug Interactions When administered concurrently, the following drugs may interact with adrenal corticosteroids. Amphotericin B or potassium-depleting diuretics (benzothiadiazines and related drugs, ethacrynic acid and furosemide)—enhanced hypokalemia. Check serum potassium levels at frequent intervals; use potassium supplements if necessary (see WARNINGS ). Digitalis glycosides —enhanced possibility of arrhythmias or digitalis toxicity associated with hypokalemia. Monitor serum potassium levels; use potassium supplements if necessary. Oral anticoagulants — decreased prothrombin time response. Monitor prothrombin levels and adjust anticoagulant dosage accordingly. Antidiabetic drugs (oral agents and insulin)—diminished antidiabetic effect. Monitor for symptoms of hyperglycemia; adjust dosage of antidiabetic drug upward if necessary. Aspirin — increased ulcerogenic effect; decreased pharmacologic effect of aspirin. Rarely salicylate toxicity may occur in patients who discontinue steroids after concurrent high-dose aspirin therapy. Monitor salicylate levels or the therapeutic effect for which aspirin is given; adjust salicylate dosage accordingly if effect is altered (see PRECAUTIONS , General ). Barbiturates, phenytoin, or rifampin— increased metabolic clearance of fludrocortisone acetate because of the induction of hepatic enzymes. Observe the patient for possible diminished effect of steroid and increase the steroid dosage accordingly. Anabolic steroids (particularly C-17 alkylated androgens such as oxymetholone, methandrostenolone, norethandrolone, and similar compounds)—enhanced tendency toward edema. Use caution when giving these drugs together, especially in patients with hepatic or cardiac disease. Vaccines —neurological complications and lack of antibody response (see WARNINGS ). Estrogen —increased levels of corticosteroid-binding globulin thereby increasing the bound (inactive) fraction; this effect is at least balanced by decreased metabolism of corticosteroids. When estrogen therapy is initiated, a reduction in corticosteroid dosage may be required, and increased amounts may be required when estrogen is terminated. Drug/Laboratory Test Interactions Corticosteroids may affect the nitrobluetetrazolium test for bacterial infection and produce false-negative results. Carcinogenesis, Mutagenesis, Impairment of Fertility Adequate studies have not been performed in animals to determine whether fludrocortisone acetate has carcinogenic or mutagenic activity or whether it affects fertility in males or females. Pregnancy Teratogenic Effects: Category C Adequate animal reproduction studies have not been conducted with fludrocortisone acetate. However, many corticosteroids have been shown to be teratogenic in laboratory animals at low doses. Teratogenicity of these agents in man has not been demonstrated. It is not known whether fludrocortisone acetate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Fludrocortisone acetate should be given to a pregnant woman only if clearly needed. Pregnancy: Nonteratogenic Effects Infants born of mothers who have received substantial doses of fludrocortisone acetate during pregnancy should be carefully observed for signs of hypoadrenalism. Maternal treatment with corticosteroids should be carefully documented in the infant's medical records to assist in follow up. Nursing Mothers Corticosteroids are found in the breast milk of lactating women receiving systemic therapy with these agents. Caution should be exercised when fludrocortisone acetate is administered to a nursing woman. Pediatric Use Safety and effectiveness in children have not been established. Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed."
+  ],
+  "general_precautions": [
+   "General Adverse reactions to corticosteroids may be produced by too rapid withdrawal or by continued use of large doses. To avoid drug-induced adrenal insufficiency, supportive dosage may be required in times of stress (such as trauma, surgery, or severe illness) both during treatment with fludrocortisone acetate and for a year afterwards. There is an enhanced corticosteroid effect in patients with hypothyroidism and in those with cirrhosis. Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation. The lowest possible dose of corticosteroid should be used to control the condition being treated. A gradual reduction in dosage should be made when possible. Psychic derangements may appear when corticosteroids are used. These may range from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations. Existing emotional instability or psychotic tendencies may also be aggravated by corticosteroids. Aspirin should be used cautiously in conjunction with corticosteroids in patients with hypoprothrombinemia. Corticosteroids should be used with caution in patients with nonspecific ulcerative colitis if there is a probability of impending perforation, abscess, or other pyogenic infection. Corticosteroids should also be used cautiously in patients with diverticulitis, fresh intestinal anastomoses, active or latent peptic ulcer, renal insufficiency, hypertension, osteoporosis, and myasthenia gravis."
+  ],
+  "information_for_patients": [
+   "Information for Patients The physician should advise the patient to report any medical history of heart disease, high blood pressure, or kidney or liver disease and to report current use of any medicines to determine if these medicines might interact adversely with fludrocortisone acetate (see Drug Interactions ). Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chicken pox or measles and, if exposed, to obtain medical advice. The patient's understanding of his steroid-dependent status and increased dosage requirement under widely variable conditions of stress is vital. Advise the patient to carry medical identification indicating his dependence on steroid medication and, if necessary, instruct him to carry an adequate supply of medication for use in emergencies. Stress to the patient the importance of regular follow-up visits to check his progress and the need to promptly notify the physician of dizziness, severe or continuing headaches, swelling of feet or lower legs, or unusual weight gain. Advise the patient to use the medicine only as directed, to take a missed dose as soon as possible, unless it is almost time for the next dose, and not to double the next dose. Inform the patient to keep this medication and all drugs out of the reach of children."
+  ],
+  "laboratory_tests": [
+   "Laboratory Tests Patients should be monitored regularly for blood pressure determinations and serum electrolyte determinations (see WARNINGS )."
+  ],
+  "drug_interactions": [
+   "Drug Interactions When administered concurrently, the following drugs may interact with adrenal corticosteroids. Amphotericin B or potassium-depleting diuretics (benzothiadiazines and related drugs, ethacrynic acid and furosemide)—enhanced hypokalemia. Check serum potassium levels at frequent intervals; use potassium supplements if necessary (see WARNINGS ). Digitalis glycosides —enhanced possibility of arrhythmias or digitalis toxicity associated with hypokalemia. Monitor serum potassium levels; use potassium supplements if necessary. Oral anticoagulants — decreased prothrombin time response. Monitor prothrombin levels and adjust anticoagulant dosage accordingly. Antidiabetic drugs (oral agents and insulin)—diminished antidiabetic effect. Monitor for symptoms of hyperglycemia; adjust dosage of antidiabetic drug upward if necessary. Aspirin — increased ulcerogenic effect; decreased pharmacologic effect of aspirin. Rarely salicylate toxicity may occur in patients who discontinue steroids after concurrent high-dose aspirin therapy. Monitor salicylate levels or the therapeutic effect for which aspirin is given; adjust salicylate dosage accordingly if effect is altered (see PRECAUTIONS , General ). Barbiturates, phenytoin, or rifampin— increased metabolic clearance of fludrocortisone acetate because of the induction of hepatic enzymes. Observe the patient for possible diminished effect of steroid and increase the steroid dosage accordingly. Anabolic steroids (particularly C-17 alkylated androgens such as oxymetholone, methandrostenolone, norethandrolone, and similar compounds)—enhanced tendency toward edema. Use caution when giving these drugs together, especially in patients with hepatic or cardiac disease. Vaccines —neurological complications and lack of antibody response (see WARNINGS ). Estrogen —increased levels of corticosteroid-binding globulin thereby increasing the bound (inactive) fraction; this effect is at least balanced by decreased metabolism of corticosteroids. When estrogen therapy is initiated, a reduction in corticosteroid dosage may be required, and increased amounts may be required when estrogen is terminated."
+  ],
+  "drug_and_or_laboratory_test_interactions": [
+   "Drug/Laboratory Test Interactions Corticosteroids may affect the nitrobluetetrazolium test for bacterial infection and produce false-negative results."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Adequate studies have not been performed in animals to determine whether fludrocortisone acetate has carcinogenic or mutagenic activity or whether it affects fertility in males or females."
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects: Category C Adequate animal reproduction studies have not been conducted with fludrocortisone acetate. However, many corticosteroids have been shown to be teratogenic in laboratory animals at low doses. Teratogenicity of these agents in man has not been demonstrated. It is not known whether fludrocortisone acetate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Fludrocortisone acetate should be given to a pregnant woman only if clearly needed. Pregnancy: Nonteratogenic Effects Infants born of mothers who have received substantial doses of fludrocortisone acetate during pregnancy should be carefully observed for signs of hypoadrenalism. Maternal treatment with corticosteroids should be carefully documented in the infant's medical records to assist in follow up."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects: Category C Adequate animal reproduction studies have not been conducted with fludrocortisone acetate. However, many corticosteroids have been shown to be teratogenic in laboratory animals at low doses. Teratogenicity of these agents in man has not been demonstrated. It is not known whether fludrocortisone acetate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Fludrocortisone acetate should be given to a pregnant woman only if clearly needed."
+  ],
+  "nonteratogenic_effects": [
+   "Pregnancy: Nonteratogenic Effects Infants born of mothers who have received substantial doses of fludrocortisone acetate during pregnancy should be carefully observed for signs of hypoadrenalism. Maternal treatment with corticosteroids should be carefully documented in the infant's medical records to assist in follow up."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Corticosteroids are found in the breast milk of lactating women receiving systemic therapy with these agents. Caution should be exercised when fludrocortisone acetate is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness in children have not been established. Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Most adverse reactions are caused by the drug's mineralocorticoid activity (retention of sodium and water) and include hypertension, edema, cardiac enlargement, congestive heart failure, potassium loss, and hypokalemic alkalosis. When fludrocortisone is used in the small dosages recommended, the glucocorticoid side effects often seen with cortisone and its derivatives are not usually a problem; however the following untoward effects should be kept in mind, particularly when fludrocortisone is used over a prolonged period of time or in conjunction with cortisone or a similar glucocorticoid. Musculoskeletal —muscle weakness, steroid myopathy, loss of muscle mass, osteoporosis, vertebral compression fractures, aseptic necrosis of femoral and humeral heads, pathologic fracture of long bones, and spontaneous fractures. Gastrointestinal —peptic ulcer with possible perforation and hemorrhage, pancreatitis, abdominal distention, and ulcerative esophagitis. Dermatologic —impaired wound healing, thin fragile skin, bruising, petechiae and ecchymoses, facial erythema, increased sweating, subcutaneous fat atrophy, purpura, striae, hyperpigmentation of the skin and nails, hirsutism, acneiform eruptions and hives; reactions to skin tests may be suppressed. Neurological— convulsions, increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually after treatment, vertigo, headache, and severe mental disturbances. Endocrine —menstrual irregularities; development of the cushingoid state; suppression of growth in children; secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress (e.g., trauma, surgery, or illness); decreased carbohydrate tolerance; manifestations of latent diabetes mellitus; and increased requirements for insulin or oral hypoglycemic agents in diabetics. Ophthalmic —posterior subcapsular cataracts, increased intraocular pressure, glaucoma, and exophthalmos. Metabolic —hyperglycemia, glycosuria, and negative nitrogen balance due to protein catabolism. Allergic Reactions —allergic skin rash, maculopapular rash, and urticaria. Other adverse reactions that may occur following the administration of a corticosteroid are necrotizing angiitis, thrombophlebitis, aggravation or masking of infections, insomnia, syncopal episodes, and anaphylactoid reactions. To report SUSPECTED ADVERSE REACTIONS contact AvKARE at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Development of hypertension, edema, hypokalemia, excessive increase in weight, and increase in heart size are signs of overdosage of fludrocortisone acetate. When these are noted, administration of drugs should be discontinued, after which the symptoms will usually subside within several days; subsequent treatment with fludrocortisone acetate should be with a reduced dose. Muscular weakness may develop due to excessive potassium loss and can be treated by administering a potassium supplement. Regular monitoring of blood pressure and serum electrolytes can help to prevent overdosage (see WARNINGS )."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Dosage depends on the severity of the disease and the response of the patient. Patients should be continually monitored for signs that indicate dosage adjustment is necessary, such as remission or exacerbations of the disease and stress (surgery, infection, trauma)(see WARNINGS and PRECAUTIONS , General ). Addison's Disease In Addison's disease, the combination of fludrocortisone acetate tablets with a gluco-corticoid such as hydrocortisone or cortisone provides substitution therapy approximating normal adrenal activity with minimal risks of unwanted effects. The usual dose is 0.1 mg of fludrocortisone acetate tablets daily, although dosage ranging from 0.1 mg three times a week to 0.2 mg daily has been employed. In the event transient hypertension develops as a consequence of therapy, the dose should be reduced to 0.05 mg daily. Fludrocortisone acetate tablets are preferably administered in conjunction with cortisone (10 mg to 37.5 mg daily in divided doses) or hydrocortisone (10 mg to 30 mg daily in divided doses). Salt-Losing Adrenogenital Syndrome The recommended dosage for treating the salt-losing adrenogenital syndrome is 0.1 mg to 0.2 mg of fludrocortisone acetate tablets daily."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Fludrocortisone Acetate Tablets USP , 0.1 mg—Each white to off-white, round, convex tablet debossed with a \"7033\" on one side and with a bisect on the other side. NDC 50268-330-15 (10 tablets per card, 5 cards per carton) Store at controlled room temperature 15° to 30°C (59° to 86°F)(see USP). Avoid excessive heat. Dispensed in Unit Dose Package. For Institutional Use Only. Keep out of the reach of children."
+  ],
+  "storage_and_handling": [
+   "Store at controlled room temperature 15° to 30°C (59° to 86°F)(see USP). Avoid excessive heat. Dispensed in Unit Dose Package. For Institutional Use Only. Keep out of the reach of children."
+  ],
+  "set_id": "2cd3965d-cab9-a97c-db61-7d03ced154f3",
+  "id": "47e530bb-3b7a-dae5-e063-6394a90a1149",
+  "effective_time": "20260108",
+  "version": "13"
+ }
+}

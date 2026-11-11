@@ -1,0 +1,487 @@
+{
+ "id_es": "nitroprusiato",
+ "generic_en": "sodium nitroprusside",
+ "search": "openfda.generic_name.exact:\"SODIUM NITROPRUSSIDE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "5acf0836-93ff-4064-b888-3f560e8a558d",
+  "id": "ed0040fb-c481-4477-8712-00fa6350cd70",
+  "effective_time": "20180720",
+  "version": "6",
+  "brand_name": [
+   "NIPRIDE RTU"
+  ],
+  "generic_name": [
+   "SODIUM NITROPRUSSIDE"
+  ],
+  "manufacturer_name": [
+   "EXELA PHARMA SCIENCES, LLC"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA209387"
+  ],
+  "n_sections": 21
+ },
+ "candidates": [
+  {
+   "set_id": "5a599880-c133-44ef-a9f2-bd1b681563be",
+   "id": "58ae93d9-ac6f-c677-e063-6294a90a6c58",
+   "effective_time": "20260810",
+   "version": "7",
+   "brand_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209352"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "2122b9c1-0af4-493b-82cc-63eee02f987f",
+   "id": "5e39cef4-deb1-4512-974e-25e4fa0447db",
+   "effective_time": "20260624",
+   "version": "10",
+   "brand_name": [
+    "Sodium Nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210882"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "6fbfb86c-da8d-4741-b1e0-7000e2bbad5f",
+   "id": "c4d84a94-85c2-4073-b1aa-c4f4b21a500a",
+   "effective_time": "20260415",
+   "version": "5",
+   "brand_name": [
+    "Sodium nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Mylan Institutional LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210763"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "a3b83d0e-b8f7-5e90-c363-1edfcd27a33d",
+   "id": "b246076f-49e6-6a0d-e065-9b3f853adb2d",
+   "effective_time": "20251117",
+   "version": "1",
+   "brand_name": [
+    "Sodium Nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Dr.Reddy's Laboratories Inc.,"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210114"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "a8c5d04b-c6cb-46e6-b90c-e858a0a52406",
+   "id": "eb59b468-0778-4910-820c-36ca56b935d5",
+   "effective_time": "20251029",
+   "version": "4",
+   "brand_name": [
+    "Sodium Nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Caplin Steriles Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211016"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "5a689f89-3cbd-f9fa-13cc-26063feb9c83",
+   "id": "367c01f3-9128-7427-1da8-862b4a9b650c",
+   "effective_time": "20241219",
+   "version": "4",
+   "brand_name": [
+    "Sodium Nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Dr.Reddy's Laboratories Inc.,"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210114"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "820eadcb-1230-4b17-a652-e69b52b3c12f",
+   "id": "e5bd8841-49d6-43fd-9c13-5d0134872ce2",
+   "effective_time": "20241204",
+   "version": "2",
+   "brand_name": [
+    "Sodium Nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211016"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "1f875445-f8e4-b097-e063-6294a90ad544",
+   "id": "1f875458-09fa-7330-e063-6394a90aac33",
+   "effective_time": "20240813",
+   "version": "1",
+   "brand_name": [
+    "sodium nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Hainan Poly Pharm. Co., Ltd."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214199"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "d3f1276a-5944-48e3-8ff1-19995ffb7ef9",
+   "id": "e2df76e1-9850-4469-a3c0-43d2a8cfeba3",
+   "effective_time": "20230719",
+   "version": "4",
+   "brand_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Armas Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209352"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "72a9b7df-3a2f-4c16-93a9-b645bc0e8143",
+   "id": "e826d769-c243-f0ac-e053-2995a90afcff",
+   "effective_time": "20221231",
+   "version": "1",
+   "brand_name": [
+    "Sodium Nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Hainan Poly Pharm. Co., Ltd."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215846"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "01841345-bed3-458f-8e99-911fbd286512",
+   "id": "01841345-bed3-458f-8e99-911fbd286512",
+   "effective_time": "20210722",
+   "version": "1",
+   "brand_name": [
+    "Sodium Nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "BE Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214971"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "41e11afb-5fa4-4212-889d-1092dbd0702a",
+   "id": "41e11afb-5fa4-4212-889d-1092dbd0702a",
+   "effective_time": "20201212",
+   "version": "1",
+   "brand_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "AuroMedics Pharma LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211934"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "01dfae56-3d9b-448a-84a7-03a54a533eb1",
+   "id": "b17353da-2c56-d579-e053-2995a90a8227",
+   "effective_time": "20201015",
+   "version": "2",
+   "brand_name": [
+    "sodium nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Slate Run Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214199"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "a8999285-16b1-473d-8e92-684f581534f6",
+   "id": "d94f852b-f928-4e74-b01d-3f69fbe9e5ab",
+   "effective_time": "20200130",
+   "version": "2",
+   "brand_name": [
+    "Sodium nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Mylan Institutional LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210763"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "2fa687a2-10e7-45ae-953a-9d63564c2908",
+   "id": "68b15b81-486f-4f89-9f88-9ac103767767",
+   "effective_time": "20191107",
+   "version": "10",
+   "brand_name": [
+    "Sodium nitroprusside"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209493"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "5acf0836-93ff-4064-b888-3f560e8a558d",
+   "id": "ed0040fb-c481-4477-8712-00fa6350cd70",
+   "effective_time": "20180720",
+   "version": "6",
+   "brand_name": [
+    "NIPRIDE RTU"
+   ],
+   "generic_name": [
+    "SODIUM NITROPRUSSIDE"
+   ],
+   "manufacturer_name": [
+    "EXELA PHARMA SCIENCES, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA209387"
+   ],
+   "n_sections": 21
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: (A) EXCESSIVE HYPOTENSION; (B) CYANIDE TOXICITY (A) EXCESSIVE HYPOTENSION: Sodium Nitroprusside can cause precipitous decreases in blood pressure which can lead to irreversible ischemic injuries or death. Use only with continuous blood pressure monitoring [see Dosage and Administration ( 2.2 ) and Warnings and Precautions ( 5.1 ). (B) CYANIDE TOXICITY: Sodium nitroprusside metabolism produces dose-related cyanide, which can be lethal. A patient’s ability to buffer cyanide will be exceeded in less than one hour at the maximum dose rate (10 mcg/kg/min); limit infusions at the maximum rate to as short a duration as possible [see Warnings and Precautions ( 5.2 )]. WARNING: (A) EXCESSIVE HYPOTENSION; (B) CYANIDE TOXICITY (A) Sodium Nitroprusside can cause precipitous decreases in blood pressure which can lead to irreversible ischemic injuries or death. Use only with continuous blood pressure monitoring. ( 2.2 , 5.1 ) (B) Sodium nitroprusside metabolism produces dose-related cyanide, which can be lethal. A patient’s ability to buffer cyanide will be exceeded in less than one hour at the maximum dose rate (10 mcg/kg/min); limit infusion at the maximum rate to as short a duration as possible ( 5.2 )."
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Sodium nitroprusside is a direct acting vasodilator indicated for: • Immediate reduction of blood pressure ( 1.1 ) • Producing controlled hypotension to reduce bleeding during surgery. ( 1.2 ) • Treatment of acute heart failure to reduce left ventricular end-diastolic pressure, pulmonary capillary wedge pressure, peripheral vascular resistance and mean arterial blood pressure. ( 1.3 ) 1.1 Immediate Reduction of Blood Pressure Sodium nitroprusside is indicated for the immediate reduction of blood pressure of adult and pediatric patients in hypertensive crises. 1.2 Induction and Maintenance of Controlled Hypotension Sodium nitroprusside indicated for induction and maintenance of controlled hypotension in adults and children during surgery, to reduce bleeding. 1.3 Treatment of Acute Heart Failure Sodium nitroprusside is indicated for the treatment of acute heart failure to reduce, left ventricular end-diastolic pressure, pulmonary capillary wedge pressure, peripheral vascular resistance and mean arterial blood pressure."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Initiate infusion of sodium nitroprusside at a rate of 0.3 mcg/kg/min, and titrate every few minutes until the desired effect is achieved OR the maximum recommended infusion rate of 10 mcg/kg/min has been reached ( 2.2 ). 2.1 Inspection Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit. Sodium nitroprusside should be a clear colorless to red/brown color; do not use if solution is blue, green, or bright red. 2.2 Dosing Continuously monitor blood pressure in patients receiving sodium nitroprusside. Start infusion of sodium nitroprusside at a rate of 0.3 mcg/kg/min. Evaluate blood pressure for at least 5 minutes before titrating to a higher or lower dose to achieve the desired blood pressure. The dose may be titrated upward until: • the desired effect is achieved, • systemic blood pressure cannot be further reduced without compromising the perfusion of vital organs, or • the maximum recommended infusion rate of 10 mcg/kg/min has been reached, whichever occurs first. In patients with eGFR <30 mL/min/1.73 m 2 , limit the mean infusion rate to less than 3 mcg/kg/min. In anuric patients, limit the mean infusion rate to 1 mcg/kg/min. 2.3 Administration Do not administer other drugs in the same solution with sodium nitroprusside. Sodium nitroprusside must be delivered by a volumetric infusion pump because small variations in infusion rate can lead to wide, undesirable variations in blood pressure [see Clinical Pharmacology ( 12.2 )] ."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection: 50 mg/100 mL of 0.9% sodium chloride (0.5 mg/mL), 20 mg/100 mL of 0.9% sodium chloride (0.2 mg/mL), and 10 mg/50 mL of 0.9% sodium chloride (0.2 mg/mL). NIPRIDE ® RTU is supplied as a sterile, unpreserved, colorless to red-brown solution available in a single-use vial. Injection: 50 mg of sodium nitroprusside in 100 mL of 0.9% sodium chloride (0.5 mg/mL) in 100 mL single-use vials, 20 mg of sodium nitroprusside in 100 mL of 0.9% sodium chloride (0.2 mg/mL) in 100 mL single-use vials and 10 mg of sodium nitroprusside in 50 mL of 0.9% sodium chloride (0.2 mg/mL) in 50 mL single-use vials ( 3 )."
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS • Diseases with compensatory hypertension (e.g., coarctation of the aorta, arteriovenous shunting). • Inadequate cerebral circulation or in moribund patients (A.S.A. Class 5E) coming to emergency surgery. • Patients with congenital (Leber’s) optic atrophy or with tobacco amblyopia. • Acute heart failure associated with reduced peripheral vascular resistance. • Concomitant use with sildenafil, tadalafil, vardenifil, or riociguat. • Diseases with compensatory hypertension (e.g. coarctation of the aorta, arteriovenous shunting) ( 4 ). • Inadequate cerebral circulation or moribund patients (A.S.A. Class 5E) coming to emergency surgery ( 4 ). • Congenital (Leber’s) optic atrophy or tobacco amblyopia ( 4 ). • Acute heart failure with reduced peripheral vascular resistance ( 4 ). • Concomitant use with sildenafil, tadalafil, vardenifil, or riociguat ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Thiocynate toxicity ( 5.3 ) • Methemoglobinemia ( 5.4 ) • Increases in intracranial pressure ( 5.5 ) • Diminished capacity to compensate for anemia and hypovolemia with anesthesia during surgery ( 5.6 ) 5.1 Excessive Hypotension Sodium nitroprusside, can cause excessive hypotension leading to hypoperfusion of vital organs. Hypotension should resolve within 1-10 minutes after discontinuation of the nitroprusside infusion; during these few minutes, it may be helpful to put the patient into a head-down (Trendelenburg) position to maximize venous return. If hypotension persists more than a few minutes after discontinuation, consider other causes. Elderly patients may be more sensitive to the hypotensive effects of the drug. 5.2 Cyanide Toxicity Sodium nitroprusside infusions above 2 mcg/kg/min generate cyanide ion (CN¯) faster than the body can normally dispose of it. At the maximum recommended infusion rate of 10 mcg/kg/min, the patient’s ability to buffer CN¯ will be exceeded in less than one hour [see Overdose ( 10 )] . Patients with hepatic dysfunction are more susceptible to cyanide toxicity. An early manifestation of cyanide toxicity is increasing dosage requirements to maintain blood pressure control. Metabolic acidosis may not be evident for more than an hour after toxic cyanide levels accumulate. If cyanide toxicity develops, discontinue sodium nitroprusside, and consider specific treatment of cyanide toxicity [see Overdosage ( 10 )] . 5.3 Thiocyanate Toxicity Most of the cyanide produced during metabolism of sodium nitroprusside is eliminated in the form of thiocyanate. Thiocyanate is mildly neurotoxic (tinnitus, miosis, hyperreflexia) at serum levels of 1 mmol/L (60 mg/L). Thiocyanate is life-threatening when levels reach ~200 mg/L. Therefore, routine monitoring of plasma thiocyanate levels is recommended in patients with normal renal function when cumulative sodium nitroprusside doses exceed 7 mg/kg/day. In patients with eGFR <30 mL/min/1.73 m2, limit the mean infusion rate to less than 3 mcg/kg/min. In anuric patients, limit the mean infusion rate to 1 mcg/kg/min. Renal hemodialysis may be used to eliminate thiocyanate in cases of severe toxicity. 5.4 Methemoglobinemia Sodium nitroprusside infusions cause conversion of hemoglobin to methemoglobin in a dose-dependent manner. Methemoglobin binds oxygen more strongly than does hemoglobin, and when methemoglobin levels are elevated, oxygen release from red blood cells in tissue capillaries may be impaired. However, conversion of methemoglobin back to hemoglobin is normally rapid, and clinically significant methemoglobinemia is infrequent. Suspect methemoglobinemia in patients who have received >10 mg/kg of sodium nitroprusside and who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO2. Methemoglobinemic blood is chocolate brown, without the expected color change on exposure to air. Methemoglobin levels >10% are considered clinically significant. When methemoglobinemia is diagnosed, the treatment of choice is 1-2 mg/kg of methylene blue, administered intravenously over several minutes. 5.5 Increased Intracranial Pressure Like other vasodilators, sodium nitroprusside can cause increases in intracranial pressure. 5.6 Anemia and Hypovolemia with Anesthesia When sodium nitroprusside (or any other vasodilator) is used for controlled hypotension during anesthesia, the patient’s capacity to compensate for anemia and hypovolemia may be diminished. If possible, correct pre-existing anemia and hypovolemia prior to administration."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions are described, or described in greater detail, in other sections: • Hypotension [see Warnings and Precautions ( 5.1 )] • Cyanide Toxicity [see Warnings and Precautions ( 5.2 )] • Thiocyanate Toxicity [see Warnings and Precautions ( 5.3 )] • Methemoglobinemia [see Warnings and Precautions ( 5.4 )] • Increased Intracranial Pressure [see Warnings and Precautions ( 5.5 )] • Anemia and Hypovolemia [see Warnings and Precautions ( 5.6 )] Less common adverse reactions include: Cardiovascular: Bradycardia, electrocardiographic changes, tachycardia, palpitations, retrosternal discomfort Dermatologic: Rash Endocrine: Hypothyroidism Gastrointestinal: Ileus, nausea, abdominal pain Hematologic: Decreased platelet aggregation Musculoskelatal: Muscle twitching Neurologic: Increased intracranial pressure, dizziness, headache Miscellaneous: Flushing, diaphoresis, venous streaking, irritation at the infusion site Most common adverse reactions are hypotension and cyanide toxicity ( 6 ). To report SUSPECTED ADVERSE REACTIONS, Contact Exela Pharma Sciences, LLC at 1-888-451-4321 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Based on animal data and mechanism of action, sodium nitroprusside may lead to cyanide exposure and potential adverse effects in the fetus [see Clinical Pharmacology ( 12.3 ) and Clinical Considerations] . Published post-marketing reports with sodium nitroprusside use in pregnant women are insufficient to inform a drug-associated risk of adverse pregnancy related outcomes [see Data] . There were no animal reproduction studies conducted with sodium nitroprusside during pregnancy. However, there are published studies in pregnant sheep that demonstrate that nitroprusside crosses the placenta and that fetal cyanide levels were dose-related to maternal levels of sodium nitroprusside [see Data]. Advise pregnant women of the potential risk to a fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use and large doses of sodium nitroprusside during pregnancy may result in cyanide toxicity that may be fatal to the fetus. In the unusual case that there is no appropriate alternative to therapy with sodium nitroprusside for a particular patient, apprise the mother of the potential risk to the fetus [see Warnings and Precautions ( 5.2 )] . Data Human Data A small number of cases have reported adverse events, including stillbirths, in pregnant women with severe pregnancy-induced hypertension who were treated with sodium nitroprusside. However, methodological limitations, including small sample size and limited information on sodium nitroprusside dosage and duration of treatment, as well as the cyanide concentration in maternal blood or fetal tissue, preclude a reliable evaluation of the potential risk of adverse fetal outcomes with the use of sodium nitroprusside during pregnancy. Animal Data In three studies in pregnant ewes, nitroprusside was shown to cross the placental barrier. Fetal cyanide levels were shown to be dose-related to maternal levels of nitroprusside. The metabolic transformation of sodium nitroprusside given to pregnant ewes led to fatal levels of cyanide in the fetuses. The infusion of 25 mcg/kg/min of sodium nitroprusside for one hour in pregnant ewes resulted in the death of all fetuses. Pregnant ewes infused with 1 mcg/kg/min of sodium nitroprusside for one hour delivered normal lambs. 8.2 Lactation Risk Summary There is no information about the presence of sodium nitroprusside in human milk, the effects on the breastfed infant, or the effects on milk production. Thiocyanate, one of sodium nitroprusside’s metabolites, is present in human milk. It is unclear how long, if ever, levels of thiocyanate in milk are clinically relevant. 8.4 Pediatric Use Efficacy in the pediatric population was established based on adult trials and supported by the dose-ranging trial (Study 1) and an open label trial of at least 12 hour infusion at a rate that achieved adequate MAP control (Study 2) with pediatric patients on sodium nitroprusside. No novel safety issues were seen in these studies in pediatric patients [see Clinical Studies ( 14 )]."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdosage of nitroprusside can be manifested as excessive hypotension or cyanide toxicity [see Warnings and Precaution ( 5.1 , 5.2 )] or as thiocyanate toxicity [see Warnings and Precautions ( 5.3 )] . Cyanide toxicity causes venous hyperoxemia with bright red venous blood. Cells become unable to extract the oxygen delivered to them, leading to air hunger, confusion and death. Lactic acidosis may occur, but its emergence may lag other life-threatening manifestations of cyanide toxicity. Cyanide levels can be measured by many laboratories, and blood-gas studies that can detect venous hyperoxemia or acidosis are widely available. Acidosis may not appear until more than an hour after the appearance of dangerous cyanide levels. Suspicion of cyanide toxicity is adequate grounds for initiation of treatment. Treatment of cyanide toxicity consists of: • discontinuing sodium nitroprusside; • administration of sodium nitrite to convert as much hemoglobin into methemoglobin as the patient can safely tolerate; and then • infusing sodium thiosulfate to convert the cyanide into thiocyanate. Hemodialysis is ineffective in removal of cyanide, but it will eliminate most thiocyanate. Sodium nitrite is available in a 3% solution, and 4-6 mg/kg (about 0.2 mL/kg) should be injected over 2-4 minutes. This dose can be expected to convert about 10% of the patient’s hemoglobin into methemoglobin; this level of methemoglobinemia is not associated with any important hazard of its own. Immediately after infusion of the sodium nitrite, sodium thiosulfate should be infused. This agent is available in 10% and 25% solutions, and the recommended dose is 150-200 mg/kg; a typical adult dose is 50 mL of the 25% solution. Thiosulfate treatment of an acutely cyanide-toxic patient will raise thiocyanate levels, but not to a dangerous degree. The nitrite/thiosulfate regimen may be repeated, at half the original doses, after two hours. Cyanide antidote kits are available."
+  ],
+  "description": [
+   "11 DESCRIPTION Sodium nitroprusside is disodium pentacyanonitrosylferrate(2-) dihydrate, a hypotensive agent whose structural formula is Sodium Nitroprusside has molecular formula Na 2 [Fe(CN) 5 NO] • 2H 2 O and molecular weight of 297.95. Dry sodium nitroprusside is a reddish-brown powder, soluble in water. Sodium nitroprusside solution is rapidly degraded by trace contaminants, often with resulting color changes [see Dosage and Administration ( 2.1 )] . NIPRIDE ® RTU is supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 100-mL vial. Each 100 mL of solution in vial contains 50 mg of sodium nitroprusside (0.5 mg/mL), 900 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP. NIPRIDE ® RTU is also supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 100-mL vial. Each 100 mL of solution in vial contains 20 mg of sodium nitroprusside (0.2 mg/mL), 900 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP. NIPRIDE ® RTU is also supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 50-mL vial. Each 50 mL of solution in vial contains 10 mg of sodium nitroprusside (0.2 mg/mL), 450 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP. structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Sodium nitroprusside interacts with oxyhemoglobin to produce methemoglobin, cyanide, and nitric oxide (NO). NO then reacts with guanylate cyclase in vascular smooth muscle to produce cGMP that reduces intracellular calcium concentrations resulting in relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins. Other smooth muscle (e.g., uterus, duodenum) is not affected. Sodium nitroprusside is more active on veins than on arteries, but this selectivity is much less marked than that of nitroglycerin. Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end diastolic pressure and pulmonary capillary wedge pressure (preload). Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload). Dilatation of the coronary arteries also occurs. 12.2 Pharmacodynamics In association with the decrease in blood pressure, sodium nitroprusside administered intravenously to hypertensive and normotensive patients produces slight increases in heart rate and a variable effect on cardiac output. In hypertensive patients, moderate doses induce renal vasodilatation roughly proportional to the decrease in systemic blood pressure, so there is no appreciable change in renal blood flow or glomerular filtration rate. The hypotensive effect of sodium nitroprusside is seen within a minute or two after the start of an adequate infusion, and it dissipates almost as rapidly after an infusion is discontinued. The effect is augmented by ganglionic blocking agents and inhaled anesthetics. 12.3 Pharmacokinetics Infused sodium nitroprusside is rapidly distributed to a volume that is approximately coextensive with the extracellular space. The drug is cleared by intraerythrocytic reaction with hemoglobin (Hgb), and sodium nitroprusside’s resulting circulatory half-life is about 2 minutes. The products of the nitroprusside/hemoglobin reaction are cyanmethemoglobin (cyanmetHgb) and cyanide ion (CN¯). Metabolism As shown in the diagram below, the essential features of nitroprusside metabolism are: • one molecule of sodium nitroprusside is metabolized by combination with hemoglobin to produce one molecule of cyanmethemoglobin and four CN¯ ions; • methemoglobin, obtained from hemoglobin, can sequester cyanide as cyanmethemoglobin; • thiosulfate reacts with cyanide to produce thiocyanate; • thiocyanate is eliminated in the urine; • cyanide not otherwise removed binds to cytochromes; and • cyanide is much more toxic than methemoglobin or thiocyanate. Cyanide ion is normally found in serum; it is derived from dietary substrates and from tobacco smoke. CN¯ levels in packed erythrocytes are typically less than 1 μmol/L (less than 25 mcg/L); levels are roughly doubled in heavy smokers. At healthy steady state, most people have less than 1% of their hemoglobin in the form of methemoglobin. Nitroprusside metabolism can lead to methemoglobin formation. Relatively large quantities of sodium nitroprusside, however, are required to produce significant methemoglobinemia. At physiologic methemoglobin levels, the CN¯ binding capacity of packed red cells is a little less than 200 μmol/L (5 mg/L). Cytochrome toxicity is seen at levels only slightly higher, and death has been reported at levels from 300 to 3000 μmol/L (8–80 mg/L). A patient with a normal redcell mass (35 mL/kg) and normal methemoglobin levels can buffer about 175 mcg/kg of CN¯, corresponding to a little less than 500 mcg/kg of infused sodium nitroprusside. Thiocyanate (SCN¯) is a normal physiological constituent of serum, with normal levels typically in the range of 50-250 μmol/L (3-15 mg/L). Clearance of SCN¯ is primarily renal. In renal failure, the half-life can be doubled or tripled. When thiosulfate is being supplied only by normal physiologic mechanisms, conversion of CN¯ to SCN¯ generally proceeds at about 1 mcg/kg/min. This rate of CN¯ clearance corresponds to steady-state processing of a sodium nitroprusside infusion of slightly more than 2 mcg/kg/min. CN¯ begins to accumulate when sodium nitroprusside infusions exceed this rate. image descriptionmetabolic pathway"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Animal studies assessing sodium nitroprusside’s carcinogenicity and mutagenicity have not been conducted. Similarly, sodium nitroprusside has not been tested for effects on fertility. 13.2 Animal Toxicology and/or Pharmacology The acute intravenous mean lethal doses (LD 50 ) of nitroprusside in rabbits, dogs, mice, and rats are 2.8, 5.0, 8.4, and 11.2 mg/kg, respectively."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES Baseline-controlled clinical trials have uniformly shown that sodium nitroprusside has a prompt hypotensive effect, at least initially, in all populations. With increasing rates of infusion, sodium nitroprusside has been able to lower blood pressure without an observed limit of effect. Clinical trials have also shown that the hypotensive effect of sodium nitroprusside is associated with reduced blood loss in a variety of major surgical procedures. In patients with acute heart failure and increased peripheral vascular resistance, administration of sodium nitroprusside causes reductions in peripheral resistance, increases in cardiac output, and reductions in left ventricular filling pressure. Progressive tachyphylaxis to the hypotensive effects of sodium nitroprusside has been reported in several trials and numerous case reports. The mechanism of tachyphylaxis to sodium nitroprusside remains unknown. Pediatric The effects of sodium nitroprusside to induce hypotension were evaluated in two trials in pediatric patients less than 17 years of age. In both trials, at least 50% of the patients were pre-pubertal, and about 50% of these pre-pubertal patients were less than 2 years of age, including 4 neonates. The primary efficacy variable was the mean arterial pressure (MAP). There were 203 pediatric patients in a parallel, dose-ranging study (Study 1). During the 30-minute blinded phase, patients were randomized 1:1:1:1 to receive sodium nitroprusside 0.3, 1, 2, or 3 mcg/kg/min. The infusion rate was increased step-wise to the target dose rate (i.e., 1/3 of the full rate for the first 5 minutes, 2/3 of the full rate for the next 5 minutes, and the full dose rate for the last 20 minutes). If the investigator believed that an increase to the next higher dose rate would be unsafe, the infusion remained at the current rate for the remainder of the blinded infusion. Since there was no placebo group, the change from baseline likely overestimates the true magnitude of blood pressure effect. Nevertheless, MAP decreased 11 to 20 mmHg from baseline across the four doses (Table 1). There were 63 pediatric patients in a long-term infusion trial (Study 2). During an open-label phase (12 to 24 hours), sodium nitroprusside was started at 0.3 mcg/kg/min and titrated according to the BP response. Patients were then randomized to placebo or to continuing the same dose of sodium nitroprusside. The average MAP was greater in the control group than in the sodium nitroprusside group for every time point during the blinded withdrawal phase, demonstrating that sodium nitroprusside is effective for at least 12 hours. In both studies, similar effects on MAP were seen in all age groups. Table 1: Change from Baseline in MAP (mmHg) After 30 Minutes Double-Blind Infusion (Study 1) Dose (mcg/kg/min) Endpoint 0.3 1 2 3 (N = 50) (N = 49) (N = 53) (N = 51) Baseline 76 ± 11 77 ± 15 74 ± 12 76 ± 12 30 Min 65 ± 13 60 ± 15 54 ± 12 60 ± 18 Change from -11 ± 16 -17 ± 13 -20 ± 16 -17 ± 19 Baseline (-15, -6.5) (-21, -13) (-24, -13) (-22, -11) Mean ± SD (95% CI)"
+  ],
+  "clinical_studies_table": [
+   "<table ID=\"_RefID0E4RAE\" width=\"98.04%\"> <caption>Table 1: Change from Baseline in MAP (mmHg) After 30 Minutes Double-Blind Infusion (Study 1)</caption> <col width=\"38%\"/> <col width=\"16%\"/> <col width=\"16%\"/> <col width=\"16%\"/> <col width=\"15%\"/> <tbody> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"/> <td align=\"center\" colspan=\"4\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>Dose (mcg/kg/min)</paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Endpoint</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph>0.3</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph>1</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph>2</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph>3</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"/> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>(N = 50)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>(N = 49)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>(N = 53)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>(N = 51)</paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> Baseline</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 76 &#xB1; 11</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 77 &#xB1; 15</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>74 &#xB1; 12 </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 76 &#xB1; 12</paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 30 Min</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 65 &#xB1; 13</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 60 &#xB1; 15</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 54 &#xB1; 12</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> 60 &#xB1; 18</paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Change from</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> -11 &#xB1; 16</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> -17 &#xB1; 13</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> -20 &#xB1; 16</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> -17 &#xB1; 19</paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> Baseline</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> (-15, -6.5)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> (-21, -13)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> (-24, -13)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph> (-22, -11)</paragraph> </td> </tr> <tr> <td colspan=\"5\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"> <paragraph> Mean &#xB1; SD (95% CI)</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING NIPRIDE ® RTU is supplied in amber-colored, single-dose, 50 mg/100 mL (0.5 mg/mL) Fliptop Vials (NDC 51754-1006-1), 20 mg/100 mL (0.2 mg/mL) Fliptop Vials (NDC 51754-1029-1) and 10 mg/50 mL (0.2 mg/mL) Fliptop Vials (NDC 51754-1018-1). Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. To protect NIPRIDE ® RTU from light, vial should be stored in its carton until used."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Pregnancy Inform female patients of reproductive potential that Sodium Nitroprusside Injection may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Population ( 8.1 )]."
+  ],
+  "set_id": "5acf0836-93ff-4064-b888-3f560e8a558d",
+  "id": "ed0040fb-c481-4477-8712-00fa6350cd70",
+  "effective_time": "20180720",
+  "version": "6"
+ }
+}

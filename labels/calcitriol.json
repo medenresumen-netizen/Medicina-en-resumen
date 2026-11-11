@@ -1,0 +1,746 @@
+{
+ "id_es": "calcitriol",
+ "generic_en": "calcitriol",
+ "search": "openfda.generic_name.exact:\"CALCITRIOL\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "a1567da9-af74-4afd-9ac5-8b53ec5d7cbf",
+  "id": "93422dd9-0d64-4f85-8d26-dd7cc97dbb44",
+  "effective_time": "20261105",
+  "version": "17",
+  "brand_name": [
+   "Vectical"
+  ],
+  "generic_name": [
+   "CALCITRIOL"
+  ],
+  "manufacturer_name": [
+   "Galderma Laboratories, L.P."
+  ],
+  "route": [
+   "TOPICAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA022087"
+  ],
+  "n_sections": 32
+ },
+ "candidates": [
+  {
+   "set_id": "a1567da9-af74-4afd-9ac5-8b53ec5d7cbf",
+   "id": "93422dd9-0d64-4f85-8d26-dd7cc97dbb44",
+   "effective_time": "20261105",
+   "version": "17",
+   "brand_name": [
+    "Vectical"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Galderma Laboratories, L.P."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022087"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "45f78bbe-4bbc-404d-a061-ead3db50908e",
+   "id": "5de20a62-2338-62a5-e063-6394a90a939d",
+   "effective_time": "20261015",
+   "version": "1",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091174"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e1fcb1c7-11a9-4a23-a64a-2c8ce9698321",
+   "id": "5b739d24-5f7b-b971-e063-6294a90a031f",
+   "effective_time": "20260914",
+   "version": "21",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076917"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "bf621b22-b783-416f-aee3-e0dbfdb782ca",
+   "id": "ec15e3fa-e7a9-4cd9-9678-55dc3c36854a",
+   "effective_time": "20260715",
+   "version": "104",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091174"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "bdb9c0d4-bdb3-4174-a4d9-55c423f38476",
+   "id": "371007e6-f0c3-4cb2-8832-938790c61032",
+   "effective_time": "20260710",
+   "version": "2",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021068"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "cdcaffc6-e14e-4607-b77b-fc78a8382f60",
+   "id": "81dbfa92-024a-48d1-94de-84e3394f043c",
+   "effective_time": "20260710",
+   "version": "17",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076917"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "8465337c-86ca-ea9d-e053-2991aa0ab167",
+   "id": "55f7b058-2d1d-31e2-e063-6294a90adcd2",
+   "effective_time": "20260706",
+   "version": "8",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091174"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "626f23d5-31e6-41ca-a696-191a4f2bc7ef",
+   "id": "54eeeb25-93af-421d-e063-6294a90a2714",
+   "effective_time": "20260622",
+   "version": "5",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "BIONPHARMA INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091174"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "554a54a0-3e46-4a9d-8e54-3d853302dbbb",
+   "id": "51ae0d1a-48cf-091b-e063-6394a90aff4a",
+   "effective_time": "20260513",
+   "version": "3",
+   "brand_name": [
+    "CALCITRIOL"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "EPIC PHARMA LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219796"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "36820cd0-7b30-4454-9005-09d71e1d5796",
+   "id": "458c15a3-d256-681b-e063-6294a90a282a",
+   "effective_time": "20251209",
+   "version": "3",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091356"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "34f53d71-78b0-5237-e063-6294a90a2bbd",
+   "id": "34f54402-2dd2-3eeb-e063-6394a90ab403",
+   "effective_time": "20250512",
+   "version": "100",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075765"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "1bd717a4-5fdf-4697-a6b2-9df55c6517bb",
+   "id": "9f3e830b-274e-43f4-b056-b607fec13df8",
+   "effective_time": "20250418",
+   "version": "3",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209798"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "2b48f57a-c023-485d-b846-cab3aaaad486",
+   "id": "bbb5e828-e3b4-4ffd-8556-05651b1b77cf",
+   "effective_time": "20250310",
+   "version": "7",
+   "brand_name": [
+    "CALCITRIOL"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091356"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "26ac6b4d-9576-4710-856b-aca114ea84cf",
+   "id": "9f187bd7-c9ff-4a40-aa84-f2625e0d7c04",
+   "effective_time": "20241212",
+   "version": "1",
+   "brand_name": [
+    "CALCITRIOL"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091356"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "b1fef137-63c5-4662-8cd9-b9e8b12bacb6",
+   "id": "ef9469b2-7a07-48f6-b7be-8a8ae57f08e4",
+   "effective_time": "20241023",
+   "version": "10",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203289"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "38a676c3-c6c6-4008-87df-f32e1cbaba9b",
+   "id": "52e7d648-d051-4290-b772-4f584ab3e414",
+   "effective_time": "20240820",
+   "version": "105",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075765"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "6c68beb7-1fed-4652-b4e1-672fde0b621d",
+   "id": "8abfa075-cc08-4c58-a57c-7ec530ba4225",
+   "effective_time": "20240814",
+   "version": "104",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075765"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "fe7ea4da-bda0-bb00-e053-6394a90a94e7",
+   "id": "177ba166-3f8f-49b1-e063-6394a90a0656",
+   "effective_time": "20240502",
+   "version": "3",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "FOSUN PHARMA USA INC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211030"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "7e0574e0-3a41-486a-be37-92ab56b7f81f",
+   "id": "2eef31a6-f775-43b5-bd03-f35ef5840821",
+   "effective_time": "20231117",
+   "version": "2",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075765"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "b57feb9f-2c5c-4d1c-9330-09c6e9fed95c",
+   "id": "c8e9e4a3-65ea-411c-b712-51f6c0e8f555",
+   "effective_time": "20231002",
+   "version": "1",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091174"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "c5c37779-0c26-438f-b1ca-61cf9915d233",
+   "id": "6590e5b0-9097-45ca-bc73-a3dededb6901",
+   "effective_time": "20231002",
+   "version": "3",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Patrin Pharma, Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203973"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "3289b482-8733-484d-b1db-d7f4cdcd1ac2",
+   "id": "2b8745f3-5289-474e-bd44-48b59a40dd78",
+   "effective_time": "20230731",
+   "version": "15",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076242"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "3c40c40c-1627-4bcd-ba35-bee9b952d985",
+   "id": "e4a50edb-a1aa-436f-9379-63010ae70dae",
+   "effective_time": "20230613",
+   "version": "2",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091174"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "7fa4ab07-3d8e-4300-91f3-b1e17cba8691",
+   "id": "d1600f2d-9c61-486e-9ef0-54160ef6adc3",
+   "effective_time": "20230131",
+   "version": "7",
+   "brand_name": [
+    "calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Padagis Israel Pharmaceuticals Ltd"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022087"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "d9ba544c-6ca8-410d-a306-51482a8c6848",
+   "id": "7e6d4205-3332-4f96-b258-8ffde9119ed4",
+   "effective_time": "20221010",
+   "version": "4",
+   "brand_name": [
+    "Calcitriol"
+   ],
+   "generic_name": [
+    "CALCITRIOL"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211030"
+   ],
+   "n_sections": 25
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE VECTICAL Ointment is a vitamin D analog indicated for the topical treatment of mild to moderate plaque psoriasis in adult and pediatric patients 2 years and older. ( 1.1 ) Limitations of Use The safety and effectiveness of VECTICAL Ointment in patients with known or suspected disorders of calcium metabolism have not been evaluated. ( 1.2 ) 1.1 Indication VECTICAL Ointment is indicated for the topical treatment of mild to moderate plaque psoriasis in adults and pediatric patients 2 years and older. 1.2 Limitations of Use The safety and effectiveness of VECTICAL Ointment in patients with known or suspected disorders of calcium metabolism have not been evaluated."
+  ],
+  "recent_major_changes": [
+   "Indications and Usage ( 1 ) Date 07/2020 Dosage and Administration ( 2 ) Date 07/2020"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Apply VECTICAL Ointment to affected areas twice daily, morning and evening Adults: • The maximum weekly dose should not exceed 200 grams. Pediatrics: • 2 to 6 years of age: the maximum weekly dose should not exceed 100 grams • 7 years of age and older: the maximum weekly dose should not exceed 200 grams VECTICAL Ointment should not be applied to the eyes, lips, or facial skin. VECTICAL Ointment is for topical use only. VECTICAL Ointment is not for oral, ophthalmic or intravaginal use. Apply VECTICAL Ointment to affected areas of the body twice daily. ( 2 ) Adults: • The maximum weekly dose should not exceed 200 grams. ( 2 ) Pediatrics: • 2 to 6 years of age: the maximum weekly dose should not exceed 100 grams. ( 2 ) • 7 years of age and older: the maximum weekly dose should not exceed 200 grams. ( 2 ) For topical use only. ( 2 ) Not for oral, ophthalmic, or intravaginal use. ( 2 )"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Ointment, 3 mcg/g. Each gram of VECTICAL Ointment contains 3 micrograms (mcg/g) of calcitriol. Ointment, 3 mcg/g ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS None None ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Effects on Calcium metabolism: Risk of hypercalcemia. If aberrations in parameters of calcium metabolism are noted discontinue VECTICAL Ointment until these normalize. Increased absorption may occur with occlusive use. ( 5.1 ) VECTICAL Ointment should be used with caution in patients receiving medications known to increase the serum calcium level, such as thiazide diuretics, and in patients receiving calcium supplements or high doses of vitamin D. ( 5.1 ) 5.1 Effects on Calcium Metabolism In controlled clinical trials hypercalcemia was observed in subjects exposed to VECTICAL Ointment. If aberrations in parameters of calcium metabolism occur, treatment should be discontinued until these parameters have normalized. The effects of VECTICAL Ointment on calcium metabolism following treatment durations greater than 52 weeks have not been evaluated. Increased absorption may occur with occlusive use. VECTICAL Ointment should be used with caution in patients receiving medications known to increase the serum calcium level, such as thiazide diuretics, and in patients receiving calcium supplements or high doses of vitamin D."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Most common adverse reactions (incidence ≥ 3%) are hypercalcemia, hypercalciuria, and skin discomfort. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact: Galderma Laboratories, L.P. at 866-735-4137 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. VECTICAL Ointment was studied in two vehicle-controlled trials and one open label trial, resulting in 743 subjects exposed to VECTICAL Ointment. Table 1 describes adverse events in subjects treated with VECTICAL Ointment twice daily for 8 weeks. The population included subjects ages 13 to 87 years, males (284) and females (135), Caucasians (372) and non-Caucasians (47); with mild (105) to moderate (313) chronic plaque psoriasis. Four hundred and nineteen subjects were treated with VECTICAL Ointment twice daily for 8 weeks. The population included subjects ages 13 to 87, males (284) and females (135), Caucasians (372) and non-Caucasians (47); with mild (105) to moderate (313) chronic plaque psoriasis. Table 1. Selected Averse Events Occurring in at least 1% of Subjects in the Two Pooled Vehicle-Controlled Trials VECTICAL (n = 419) Vehicle Ointment (n = 420) Discomfort skin 3% 2% Pruritus 1% 1% Among subjects having laboratory monitoring, hypercalcemia was observed in 24% (18/74) of subjects exposed to active drug and in 16% (13/79) of subjects exposed to vehicle, the elevations were less than 10% above the upper limit of normal ) [see Warnings and Precautions (5.1). The open label trial enrolled 324 subjects with psoriasis who were treated for up to 52 weeks and included 239 subjects exposed for 6 months and 116 subjects exposed for one year. Adverse events reported at a rate of greater than or equal to 3% of subjects treated with VECTICAL Ointment were lab test abnormality (8%), urine abnormality (4%), psoriasis (4%), hypercalciuria (3%), and discomfort of skin (3%). Kidney stones were reported in 3 subjects and confirmed in two. 6.2 Postmarketing Experience The following adverse reactions have been identified during world-wide post-approval use of VECTICAL Ointment: acute blistering dermatitis, erythema and skin burning sensation. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+  ],
+  "adverse_reactions_table": [
+   "<table border=\"1\" cellpadding=\"4\" cellspacing=\"0\" width=\"50%\"> <caption>Table 1. Selected Averse Events Occurring in at least 1% of Subjects in the Two Pooled Vehicle-Controlled Trials</caption> <col width=\"150\"/> <col width=\"125\"/> <col width=\"125\"/> <tbody> <tr> <td styleCode=\"Botrule Lrule Rrule Toprule\"/> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">VECTICAL   (n = 419) </td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">Vehicle Ointment   (n = 420) </td> </tr> <tr> <td styleCode=\"Botrule Lrule Rrule Toprule\">Discomfort skin</td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">3%</td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">2%</td> </tr> <tr> <td styleCode=\"Botrule Lrule Rrule Toprule\">Pruritus</td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">1%</td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">1%</td> </tr> </tbody> </table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from pregnancies that occurred during the clinical development of VECTICAL Ointment and published case series of oral and intravenous calcitriol use in pregnant women have not identified a drug associated risk for major birth defects, miscarriages, or adverse maternal or fetal outcomes. In animal reproduction studies, topical administration of calcitriol to pregnant rabbits during the period of organogenesis resulted in an increased incidence of fetal deaths, as well as an increased incidence of minor skeletal abnormalities (see Data) . The available data do not allow the calculation of relevant comparisons between the systemic exposures of calcitriol observed in animal studies to the systemic exposures that would be expected in humans after topical use of VECTICAL Ointment. The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data Embryo-fetal development studies with calcitriol were performed in which rats were treated orally at dosages up to 0.9 mcg/kg/day (5.4 mcg/m 2 /day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area. No effects on reproductive or fetal parameters were observed in rats. In rabbits, topically applied calcitriol induced a significantly elevated mean post-implantation loss and an increased incidence of minor skeletal abnormalities due to delayed ossification of the pubic bones. A slightly increased incidence of skeletal variation (extra 13th rib, reduced ossification of epiphyses) was also observed. These effects may have been secondary to maternal toxicity. 8.2 Lactation Risk Summary There are no data on the presence of calcitriol in human milk, the effects on the breastfed infant or on milk production after treatment with VECTICAL Ointment. It is not known whether topical administration of calcitriol could result in sufficient systemic absorption to produce detectable quantities in human milk. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VECTICAL Ointment and any potential adverse effects on the breastfed infant from VECTICAL Ointment or from the underlying maternal conditions. Clinical Considerations Advise breastfeeding women not to apply VECTICAL Ointment directly to the nipple and areola to avoid direct infant exposure. 8.4 Pediatric Use The safety and effectiveness of VECTICAL Ointment have been established in pediatric patients age 2 years and older for topical treatment of mild to moderate psoriasis. Use of VECTICAL Ointment in this age group is supported by two adequate and well-controlled 8-week trials and an open label trial in adult subjects, and additional data from trials conducted in pediatric subjects 2 to 17 years of age including; a vehicle controlled 8-week trial in 19 subjects 2 to 12 years of age with mild to moderate plaque psoriasis an open-label 8-week safety and pharmacokinetics (PK) trial in 25 subjects 12 to 17 years of age an open-label 14-day safety and PK trial in 18 subjects 2 to 12 years of age; and �an open-label 26-week safety and PK trial in 54 subjects 2 to 17 years of age. Data from 63 subjects ages 2 to 12 years, and 42 subjects ages 13 to 17 years showed no significant effects on indices of calcium metabolism. The systemic exposure of calcitriol in the pediatric subjects was generally comparable to the endogenous levels observed at baseline. No new safety signals were identified in subjects 2 to 17 years [see Clinical Studies ( 14 ), Clinical Pharmacology ( 12.3 ) and Adverse Reactions ( 6.1 )]. The safety and effectiveness of VECTICAL Ointment in pediatric subjects below the age of 2 years have not been established. 8.5 Geriatric Use Clinical studies of VECTICAL Ointment did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported experience has not identified differences in responses between the elderly and younger patients."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data from pregnancies that occurred during the clinical development of VECTICAL Ointment and published case series of oral and intravenous calcitriol use in pregnant women have not identified a drug associated risk for major birth defects, miscarriages, or adverse maternal or fetal outcomes. In animal reproduction studies, topical administration of calcitriol to pregnant rabbits during the period of organogenesis resulted in an increased incidence of fetal deaths, as well as an increased incidence of minor skeletal abnormalities (see Data) . The available data do not allow the calculation of relevant comparisons between the systemic exposures of calcitriol observed in animal studies to the systemic exposures that would be expected in humans after topical use of VECTICAL Ointment. The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data Embryo-fetal development studies with calcitriol were performed in which rats were treated orally at dosages up to 0.9 mcg/kg/day (5.4 mcg/m 2 /day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area. No effects on reproductive or fetal parameters were observed in rats. In rabbits, topically applied calcitriol induced a significantly elevated mean post-implantation loss and an increased incidence of minor skeletal abnormalities due to delayed ossification of the pubic bones. A slightly increased incidence of skeletal variation (extra 13th rib, reduced ossification of epiphyses) was also observed. These effects may have been secondary to maternal toxicity."
+  ],
+  "labor_and_delivery": [
+   "8.2 Lactation Risk Summary There are no data on the presence of calcitriol in human milk, the effects on the breastfed infant or on milk production after treatment with VECTICAL Ointment. It is not known whether topical administration of calcitriol could result in sufficient systemic absorption to produce detectable quantities in human milk. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VECTICAL Ointment and any potential adverse effects on the breastfed infant from VECTICAL Ointment or from the underlying maternal conditions. Clinical Considerations Advise breastfeeding women not to apply VECTICAL Ointment directly to the nipple and areola to avoid direct infant exposure."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of VECTICAL Ointment have been established in pediatric patients age 2 years and older for topical treatment of mild to moderate psoriasis. Use of VECTICAL Ointment in this age group is supported by two adequate and well-controlled 8-week trials and an open label trial in adult subjects, and additional data from trials conducted in pediatric subjects 2 to 17 years of age including; a vehicle controlled 8-week trial in 19 subjects 2 to 12 years of age with mild to moderate plaque psoriasis an open-label 8-week safety and pharmacokinetics (PK) trial in 25 subjects 12 to 17 years of age an open-label 14-day safety and PK trial in 18 subjects 2 to 12 years of age; and �an open-label 26-week safety and PK trial in 54 subjects 2 to 17 years of age. Data from 63 subjects ages 2 to 12 years, and 42 subjects ages 13 to 17 years showed no significant effects on indices of calcium metabolism. The systemic exposure of calcitriol in the pediatric subjects was generally comparable to the endogenous levels observed at baseline. No new safety signals were identified in subjects 2 to 17 years [see Clinical Studies ( 14 ), Clinical Pharmacology ( 12.3 ) and Adverse Reactions ( 6.1 )]. The safety and effectiveness of VECTICAL Ointment in pediatric subjects below the age of 2 years have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of VECTICAL Ointment did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported experience has not identified differences in responses between the elderly and younger patients."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Topically applied calcitriol can be absorbed in sufficient amounts to produce systemic effects [ see Warnings and Precautions ( 5.1 ) ]."
+  ],
+  "description": [
+   "11 DESCRIPTION VECTICAL (calcitriol) Ointment 3 mcg/g is a vitamin D analog intended for topical application to the skin. The chemical name of the active ingredient is (5Z,7E)-9,10-secocholesta-5,7,10(19)-triene-1α,3β,25-triol. The structural formula is: Calcitriol is a white or almost white crystalline solid. It is practically insoluble in water, soluble in alcohol and in fatty oils. The molecular formula is C 27 H 44 O 3 , and the molecular weight is 416.64. VECTICAL Ointment is a translucent ointment containing 3 mcg/g (0.0003% w/w) of calcitriol, packaged in aluminum tubes with screw caps. Other components of the ointment are mineral oil, dl-α-tocopherol, and white petrolatum. chemical-structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY The contribution to efficacy of individual components of the vehicle has not been established. 12.1 Mechanism of Action The mechanism of action of calcitriol in the treatment of psoriasis has not been established. 12.3 Pharmacokinetics The systemic exposure of calcitriol was assessed in subjects with chronic, plaque psoriasis. In the pivotal pharmacokinetic/pharmacodynamic study, calcitriol ointment 3 mcg/g, was applied twice daily for 21 days (for a total dose of 30 g/day) to 35% of the body surface area (psoriatic + surrounding healthy skin) of subjects with at least 25% of body surface area involvement. At Day 21, the geometric mean plasma concentration values of C max increased by approximately 36% over baseline and the geometric mean value of AUC (0 – 12 hr) increased by 44%. There was no correlation between the elevated calcitriol levels and the pharmacodynamic parameters of serum albumin adjusted calcium, serum phosphorus, urinary calcium and urinary phosphorus. Specific Populations Pediatric Patients The systemic exposure of calcitriol was assessed in pediatric subjects ages 2 to 17 years with plaque psoriasis in two trials. In one trial, 25 subjects ages 12 to 17 applied calcitriol ointment 3 mcg/g twice a day for 8 weeks to a body surface area of 10% to 35%. The mean daily dose was 10.43 g/day. In the second trial, 17 subjects ages 2 to 12 applied calcitriol ointment 3 mcg/g twice a day for 14 days to a body surface area of 3% to 18%. The mean daily dose was 17.09 g/day. In both trials, the systemic concentrations of calcitriol post treatment were relatively flat and were generally comparable to the endogenous levels observed at baseline. The PK parameters could not be reliably estimated. There was no correlation between the elevated calcitriol levels and the pharmacodynamic parameters of serum albumin adjusted calcium, serum phosphorus, urinary calcium and urinary phosphorus."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action The mechanism of action of calcitriol in the treatment of psoriasis has not been established."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics The systemic exposure of calcitriol was assessed in subjects with chronic, plaque psoriasis. In the pivotal pharmacokinetic/pharmacodynamic study, calcitriol ointment 3 mcg/g, was applied twice daily for 21 days (for a total dose of 30 g/day) to 35% of the body surface area (psoriatic + surrounding healthy skin) of subjects with at least 25% of body surface area involvement. At Day 21, the geometric mean plasma concentration values of C max increased by approximately 36% over baseline and the geometric mean value of AUC (0 – 12 hr) increased by 44%. There was no correlation between the elevated calcitriol levels and the pharmacodynamic parameters of serum albumin adjusted calcium, serum phosphorus, urinary calcium and urinary phosphorus. Specific Populations Pediatric Patients The systemic exposure of calcitriol was assessed in pediatric subjects ages 2 to 17 years with plaque psoriasis in two trials. In one trial, 25 subjects ages 12 to 17 applied calcitriol ointment 3 mcg/g twice a day for 8 weeks to a body surface area of 10% to 35%. The mean daily dose was 10.43 g/day. In the second trial, 17 subjects ages 2 to 12 applied calcitriol ointment 3 mcg/g twice a day for 14 days to a body surface area of 3% to 18%. The mean daily dose was 17.09 g/day. In both trials, the systemic concentrations of calcitriol post treatment were relatively flat and were generally comparable to the endogenous levels observed at baseline. The PK parameters could not be reliably estimated. There was no correlation between the elevated calcitriol levels and the pharmacodynamic parameters of serum albumin adjusted calcium, serum phosphorus, urinary calcium and urinary phosphorus."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility When calcitriol was applied topically to mice for up to 24 months, no significant changes in tumor incidence were observed. Concentrations of calcitriol in ointment base of 0 (vehicle control), 0.3, 0.6 and 1.0 ppm were evaluated. A two-year carcinogenicity study was conducted in which calcitriol was orally administered to rats at dosages of approximately 0.005, 0.03, and 0.1 mcg/kg/day (0.03, 0.18, and 0.6 mcg/m 2 /day, respectively). The incidence of benign pheochromocytomas was significantly increased in female rats. No other significant differences in tumor incidence were observed. Calcitriol did not elicit genotoxic effects in the mouse lymphoma TK locus assay. Studies in which male and female rats received oral doses of calcitriol of up to 0.6 mcg/kg/day (3.6 mcg/m 2 /day) indicated no impairment of fertility or general reproductive performance."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility When calcitriol was applied topically to mice for up to 24 months, no significant changes in tumor incidence were observed. Concentrations of calcitriol in ointment base of 0 (vehicle control), 0.3, 0.6 and 1.0 ppm were evaluated. A two-year carcinogenicity study was conducted in which calcitriol was orally administered to rats at dosages of approximately 0.005, 0.03, and 0.1 mcg/kg/day (0.03, 0.18, and 0.6 mcg/m 2 /day, respectively). The incidence of benign pheochromocytomas was significantly increased in female rats. No other significant differences in tumor incidence were observed. Calcitriol did not elicit genotoxic effects in the mouse lymphoma TK locus assay. Studies in which male and female rats received oral doses of calcitriol of up to 0.6 mcg/kg/day (3.6 mcg/m 2 /day) indicated no impairment of fertility or general reproductive performance."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES In two, multicenter, double-blind, vehicle-controlled studies, a total of 839 subjects with psoriasis rated \"mild\" or \"moderate\" using an investigator global assessment scale were treated twice daily for 8 weeks. Subjects were randomized in a 1:1 ratio to receive either VECTICAL Ointment or vehicle ointment. The mean age of the subjects was 48 years and 66% were male; most subjects were rated \"moderate\" at baseline. Success was defined as \"Clear or Minimal\" (up to light red or pink in coloration, surface dryness with some white coloration, and slight elevation above normal skin) with at least a 2-grade change from baseline. The success rates are displayed in the Table 2. Table 2. Percentage of Subjects with Clear or Minimal Disease AND Two Grade Improvement at End of Treatment (8 weeks) Study 1 Study 2 VECTICAL Ointment (N = 209) Vehicle Ointment (N = 209) VECTICAL Ointment (N = 210) Vehicle Ointment (N = 211) 23.4% 14.4% 20.5% 6.6%"
+  ],
+  "clinical_studies_table": [
+   "<table border=\"1\" cellpadding=\"4\" cellspacing=\"0\" width=\"50%\"> <caption>Table 2. Percentage of Subjects with Clear or Minimal Disease AND Two Grade Improvement at End of Treatment (8 weeks)</caption> <col/> <col/> <col/> <col/> <tbody> <tr> <td align=\"center\" colspan=\"2\" styleCode=\"Botrule Lrule Rrule Toprule\">Study 1</td> <td align=\"center\" colspan=\"2\" styleCode=\"Botrule Lrule Rrule Toprule\">Study 2</td> </tr> <tr> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">VECTICAL   Ointment   (N = 209) </td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">Vehicle   Ointment   (N = 209) </td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">VECTICAL   Ointment   (N = 210) </td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">Vehicle   Ointment   (N = 211) </td> </tr> <tr> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">23.4%</td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">14.4%</td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">20.5%</td> <td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\">6.6%</td> </tr> </tbody> </table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied VECTICAL Ointment 3 mcg/g is available in collapsible aluminum tubes of the following package sizes: 100 g tube (NDC 0299-2012-10) 16.2 Storage Store at Controlled Room temperature 68° - 77°F (20° - 25°C) with excursions permitted between 59° - 86°F (15° - 30°C). [See USP Controlled Room Temperature.] Do not freeze or refrigerate.",
+   "16.1 How Supplied VECTICAL Ointment 3 mcg/g is available in collapsible aluminum tubes of the following package sizes: 100 g tube (NDC 0299-2012-10)"
+  ],
+  "storage_and_handling": [
+   "16.2 Storage Store at Controlled Room temperature 68° - 77°F (20° - 25°C) with excursions permitted between 59° - 86°F (15° - 30°C). [See USP Controlled Room Temperature.] Do not freeze or refrigerate."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Patient Information). Patients using VECTICAL Ointment should receive the following information: This medication is to be used as directed by the physician. It is for external use only. This medication is to be applied only to areas of the skin affected by psoriasis, as directed. It should be gently rubbed into the skin so that no medication remains visible. This medication may affect calcium metabolism. Hypercalcemia has been observed in subjects exposed to this medicine. Increased absorption may occur with use of occlusive dressings. Avoid use of more than 100 grams per week in patients ages 2-6 years and use of more than 200 grams per week in patients ages 7 years and older. Instruct patients to report any signs of adverse reactions to their physician. Avoid contact with eyes, lips, and facial skin. Advise breastfeeding women not to apply VECTICAL Ointment directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations ( 8.2 )]. To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 866-735-4137 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. US Patent No. 7,749,986 Marketed by: GALDERMA LABORATORIES, L.P. Dallas, Texas 75201 USA Made in Canada. Galderma is a registered trademark. P51460-6"
+  ],
+  "spl_patient_package_insert": [
+   "PATIENT INFORMATION VECTICAL® (Vek te kal) (calcitriol) Ointment Important: VECTICAL Ointment is for use on the skin only (topical use). Do not use VECTICAL Ointment in your mouth, eyes, or vagina. What is VECTICAL Ointment? VECTICAL Ointment is a prescription medicine used on the skin (topical) to treat mild to moderate plaque psoriasis in adults and children 2 years and older. It is not known if VECTICAL Ointment is safe and effective in children under 2 years of age. It is not known if VECTICAL Ointment is safe and effective in people with known or suspected problems with calcium metabolism. Before using VECTICAL Ointment, tell your healthcare provider about all your medical conditions, including if you: are pregnant or planning to become pregnant. It is not known if VECTICAL Ointment will harm your unborn baby. are breastfeeding or plan to breastfeed. It is not known if VECTICAL Ointment passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with VECTICAL Ointment. If you use VECTICAL Ointment and breastfeed, do not apply VECTICAL Ointment to your nipple and areola to avoid getting VECTICAL Ointment into your baby’s mouth. Tell your healthcare provider about all of the medicines you take , including prescription and over-the-counter medicines, vitamins, and herbal supplements. Especially tell your healthcare provider if you take: medicines that can increase your calcium levels, such as water pills (thiazide diuretics) calcium or vitamin D supplements Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure if you are taking any of the medicines listed above. Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. How should I use VECTICAL Ointment? Use VECTICAL Ointment exactly as your healthcare provider tells you to use it. Apply VECTICAL Ointment to the affected areas 2 times each day in the morning and evening. Adults and children 7 years of age and older should not use more than 200 grams in 1 week. Children 2 to 6 years of age should not use more than 100 grams in 1 week. Avoid applying VECTICAL Ointment to your eyes, lips, or facial skin. Apply only enough VECTICAL Ointment to cover your affected skin area. You should not cover the treated area(s) with a waterproof (occlusive) bandage or overdosage may occur. Gently rub VECTICAL Ointment into the affected area until it disappears into your skin. Wash your hands after using VECTICAL Ointment, unless you are using the medicine to treat your hands. What are the possible side effects of VECTICAL Ointment? VECTICAL Ointment may cause serious side effects, including: Too much calcium in your blood (hypercalcemia) may occur with VECTICAL Ointment. Your healthcare provider may tell you to stop using VECTICAL Ointment until your calcium levels become normal. The most common side effects of VECTICAL Ointment include increased urine calcium level, itching, and skin discomfort. These are not all of the possible side effects of VECTICAL Ointment. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137. How should I store VECTICAL Ointment? Store VECTICAL Ointment at room temperature between 68°F to 77°F (20°C to 25°C). Do not freeze or refrigerate VECTICAL Ointment. Keep VECTICAL Ointment and all medicines out of the reach of children. General information about the safe and effective use of VECTICAL Ointment. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use VECTICAL Ointment for a condition for which it was not prescribed. Do not give VECTICAL Ointment to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about VECTICAL Ointment that is written for health professionals. What are the ingredients in VECTICAL Ointment? Active ingredient: calcitriol Inactive ingredients: mineral oil, dl-α-tocopherol, and white petrolatum. Manufactured by: G. Production Inc. Baie d’Urfé, QC H9X 3S4 Canada This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 10/2022"
+  ],
+  "patient_medication_information": [
+   ""
+  ],
+  "set_id": "a1567da9-af74-4afd-9ac5-8b53ec5d7cbf",
+  "id": "93422dd9-0d64-4f85-8d26-dd7cc97dbb44",
+  "effective_time": "20261105",
+  "version": "17"
+ }
+}

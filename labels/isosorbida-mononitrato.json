@@ -1,0 +1,754 @@
+{
+ "id_es": "isosorbida-mononitrato",
+ "generic_en": "isosorbide mononitrate",
+ "search": "openfda.generic_name.exact:\"ISOSORBIDE MONONITRATE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "f871dfa7-219f-4704-8e4d-215caeb7408d",
+  "id": "44ed966d-bf75-4379-84f4-b5270e2bb700",
+  "effective_time": "20191101",
+  "version": "3",
+  "brand_name": [
+   "isosorbide mononitrate"
+  ],
+  "generic_name": [
+   "ISOSORBIDE MONONITRATE"
+  ],
+  "manufacturer_name": [
+   "Proficient Rx LP"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020215"
+  ],
+  "n_sections": 33
+ },
+ "candidates": [
+  {
+   "set_id": "21bd9824-537d-4bcd-8093-1270df52c29c",
+   "id": "15a9231a-e601-4428-8626-c1f8ca083fc7",
+   "effective_time": "20261026",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "AiPing Pharmaceutical, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214115"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "6a582db5-eb45-4320-98c1-55517d7d8c38",
+   "id": "5c3f0de0-9544-2a94-e063-6394a90abe35",
+   "effective_time": "20260924",
+   "version": "5",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200270",
+    "ANDA200495"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "d01d4f0f-5164-4ea3-b772-72b97961c6fb",
+   "id": "57e8068b-c8e0-5eb7-e063-6394a90a3b14",
+   "effective_time": "20260731",
+   "version": "9",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200270"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "55f240e1-3056-38cc-e063-6294a90a814e",
+   "id": "55f236a5-e62f-efbb-e063-6394a90a0d5b",
+   "effective_time": "20260706",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075147"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "72b8a20c-5833-4765-a4b5-9066eaec6ea1",
+   "id": "1e850741-a971-40d6-9c70-dfdcc9d549d7",
+   "effective_time": "20260626",
+   "version": "10",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200270",
+    "ANDA200495"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "8cbb364a-bafe-454b-a53f-bd7cd69a5593",
+   "id": "228e57f0-57e5-4305-802a-0b87fb9b4c68",
+   "effective_time": "20260527",
+   "version": "9",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200270",
+    "ANDA200495"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "0a1e317a-7b05-4d30-9bbc-1d4ccd56ba3c",
+   "id": "34e0adcc-8899-4abb-bba4-6be95d0ce2dd",
+   "effective_time": "20260511",
+   "version": "13",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Torrent Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200270",
+    "ANDA200495"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "0d739bf3-0672-4504-9064-b39d6b200b47",
+   "id": "74da603c-8c7e-4823-a2a7-82e6ae007531",
+   "effective_time": "20260409",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Genus Lifesciences Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075037"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "06839534-85b8-42aa-b0e3-079ed236be44",
+   "id": "616fb1d3-ab4c-40a1-b11a-7a913f0b617c",
+   "effective_time": "20260327",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075147"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "cd953cfa-b6f5-4b82-afcc-52a57236b9d3",
+   "id": "47b286d2-bbaf-75ff-e063-6294a90a6de7",
+   "effective_time": "20260106",
+   "version": "14",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Shandong New Time Pharmaceutical Co., Ltd."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214115"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "df5fd5e2-3a7b-5a5b-e053-2995a90a0dd3",
+   "id": "497428e5-d404-55ce-e063-6394a90ab8ec",
+   "effective_time": "20260101",
+   "version": "4",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210918"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "46b3030d-f492-da9d-e063-6294a90a31b3",
+   "id": "46b2f5a6-295b-3549-e063-6394a90a514d",
+   "effective_time": "20251224",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075522"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "b38f43c8-d02d-4aee-ab23-e898cbfadfbc",
+   "id": "44fde4f9-0086-6476-e063-6394a90a6a92",
+   "effective_time": "20251202",
+   "version": "3",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075522",
+    "ANDA210822"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "3e0e013f-6887-fa72-e063-6294a90a18ca",
+   "id": "3e0e00c9-653e-fa76-e063-6294a90a2bff",
+   "effective_time": "20250905",
+   "version": "1",
+   "brand_name": [
+    "isosorbide mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020215"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "3dffc84e-93e4-0005-e063-6294a90aa9ca",
+   "id": "3dffc7eb-52db-f691-e063-6294a90a9354",
+   "effective_time": "20250904",
+   "version": "1",
+   "brand_name": [
+    "isosorbide mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020215"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "cd60ded0-01d9-4a51-a8ad-cdfeb27d88fb",
+   "id": "334cb4f5-b33c-4871-9777-7bd9d0f4cab0",
+   "effective_time": "20250826",
+   "version": "2",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075522"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "cdf01e14-778b-4b3f-8372-1c18f266fb98",
+   "id": "dba5d0c5-88bc-4091-b882-43dddc70923e",
+   "effective_time": "20250806",
+   "version": "2",
+   "brand_name": [
+    "isosorbide mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "OMNIVIUM PHARMACEUTICALS LLC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020215"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "0e3c4461-2e04-481f-a9e5-29f21cc71ec5",
+   "id": "aaebe3ce-b7d9-4114-aacb-a3c778360549",
+   "effective_time": "20250606",
+   "version": "3",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Edenbridge Pharmaceuticals LLC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075522"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "7443a5b6-6153-4227-870c-3c710f1f2174",
+   "id": "7443a5b6-6153-4227-870c-3c710f1f2174",
+   "effective_time": "20250606",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Edenbridge Pharmaceuticals LLC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210822"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "2d99893a-296a-134c-e063-6294a90ace3b",
+   "id": "2d9988ef-55cb-3043-e063-6294a90a1851",
+   "effective_time": "20250207",
+   "version": "1",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216557"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5fd86c08-18de-43a2-9962-ab6cbf57d6c0",
+   "id": "0c3e9f4b-0c12-4e79-85a0-f80fa5e900ae",
+   "effective_time": "20250117",
+   "version": "1",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216557"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "86be0e85-5337-bee4-e053-2a91aa0a8158",
+   "id": "26ab803d-04f8-b766-e063-6394a90a117f",
+   "effective_time": "20241111",
+   "version": "8",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210918"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "63dc518f-4f86-4820-98c2-5de8aed09a4b",
+   "id": "c8f05814-88ec-44f5-bf13-52590d9f9052",
+   "effective_time": "20240813",
+   "version": "5",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200270"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "ba6120c8-c885-4cfa-b68e-9eee7a3bad6d",
+   "id": "4beb800d-fb92-42eb-a765-50ed0dfe1587",
+   "effective_time": "20240813",
+   "version": "12",
+   "brand_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200495"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "65935a15-a023-1941-e053-2991aa0a5eb4",
+   "id": "1a3dc619-6b11-21b4-e063-6294a90acb1e",
+   "effective_time": "20240606",
+   "version": "5",
+   "brand_name": [
+    "Isosorbide Mononitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE MONONITRATE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075522"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Isosorbide mononitrate, an organic nitrate, is a vasodilator with effects on both arteries and veins. The empirical formula is C 6 H 9 NO 6 and the molecular weight is 191.14. The chemical name for isosorbide mononitrate is 1,4:3,6-Dianhydro-D-glucitol 5-nitrate and the compound has the following structural formula: Isosorbide Mononitrate Tablets, USP are available as 10 mg and 20 mg tablets. Each tablet also contains as inactive ingredients: lactose, talc, colloidal silicon dioxide, starch, microcrystalline cellulose and aluminum stearate. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Isosorbide mononitrate is the major active metabolite of isosorbide dinitrate (ISDN), and most of the clinical activity of the dinitrate is attributable to the mononitrate. The principal pharmacological action of isosorbide mononitrate is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter. Dilation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload). Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload). Dilatation of the coronary arteries also occurs. The relative importance of preload reduction, afterload reduction and coronary dilatation remains undefined. Pharmacodynamics Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration. This strategy is inappropriate for organic nitrates. Several well-controlled clinical trials have used exercise testing to assess the antianginal efficacy of continuously-delivered nitrates. In the large majority of these trials, active agents were indistinguishable from placebo after 24 hours (or less) of continuous therapy. Attempts to overcome tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed. Only after nitrates have been absent from the body for several hours has their antianginal efficacy been restored. The drug-free interval sufficient to avoid tolerance to isosorbide mononitrate has not been completely defined. In the only regimen of twice-daily isosorbide mononitrate that has been shown to avoid development of tolerance, the two doses of Isosorbide Mononitrate Tablets are given 7 hours apart, so there is a gap of 17 hours between the second dose of each day and the first dose of the next day. Taking account of the relatively long half-life of isosorbide mononitrate this result is consistent with those obtained for other organic nitrates. The asymmetric twice-daily regimen of Isosorbide Mononitrate Tablets successfully avoided significant rebound/withdrawal effects. The incidence and magnitude of such phenomena have appeared, in studies of other nitrates, to be highly dependent upon the schedule of nitrate administration. Pharmacokinetics Isosorbide mononitrate is rapidly and completely absorbed from the gastrointestinal tract. In humans, isosorbide mononitrate is not subject to first pass metabolism in the liver. The absolute bioavailability of isosorbide mononitrate from Isosorbide Mononitrate Tablets is nearly 100%. Peak plasma concentrations usually occur in about 30-60 minutes. Isosorbide mononitrate exhibits dose proportionality over the recommended dose range. Food does not significantly affect the absorption or bioavailability of Isosorbide Mononitrate Tablets. Metoprolol coadministration did not change the pharmacokinetics of isosorbide mononitrate. The volume of distribution is approximately 0.6 L/kg. Plasma protein binding of isosorbide mononitrate was found to be less than 5%. When radiolabelled isosorbide mononitrate was administered to humans in order to elucidate the metabolic fate, about half of the dose was found denitrated and renally excreted as isosorbide and sorbitol. One quarter of the dose was accounted for as conjugates of the parent drug in the urine. None of these metabolites is vasoactive. Only 2% of the dose was excreted as unchanged drug. The overall elimination half-life of isosorbide mononitrate is about 5 hours. The rate of clearance is the same in healthy young adults, in patients with various degrees of renal, hepatic or cardiac dysfunction and in the elderly. When radiolabelled isosorbide mononitrate was administered to humans, 93% of the dose was excreted within 48 hours into the urine. Renal excretion was virtually complete after 5 days; fecal excretion amounted to only 1% of the dose. Isosorbide mononitrate has no known effect on renal and hepatic function. In patients with varying degrees of renal failure, dosage adjustment does not appear necessary. In patients with liver cirrhosis, the pharmacokinetic parameters after a single dose of isosorbide mononitrate were similar to the values found in healthy volunteers. Isosorbide mononitrate is significantly removed from the blood during hemodialysis; however, an additional dose to compensate for drug lost is not necessary. In patients undergoing continuous ambulatory peritoneal dialysis, blood levels are similar to patients not on dialysis. Clinical Trials The acute and chronic antianginal efficacy of isosorbide mononitrate has been confirmed in clinical trials. The clinical efficacy of isosorbide mononitrate was studied in 21 stable angina pectoris patients. After single dose administration of Isosorbide Mononitrate Tablets, 20 mg, the exercise capacity was increased by 42.7% after one hour, 29.6% after 6 hours, and by 25% after eight hours when compared to placebo. Controlled trials of single doses of Isosorbide Mononitrate Tablets have demonstrated that antianginal activity is present about 1 hour after dosing, with peak effect seen from 1-4 hours after dosing. In one multicenter placebo-controlled trial, isosorbide mononitrate was found to be safe and effective during acute and chronic (3 weeks) treatment of angina pectoris. Two hundred fourteen (214) patients were enrolled in the trial; 54 patients were randomized to receive placebo and 106 patients were randomized to receive 10 or 20 mg of Isosorbide Mononitrate Tablets twice daily seven hours apart. The largest effect of isosorbide mononitrate, compared to placebo, was on day one - dose one. Although 14 hours after the first dose of day 14, the increase in exercise tolerance due to isosorbide mononitrate was statistically significant, the increase was about half of that seen 2 hours after the first dose of day one. On day 21, two hours after the first dose the effect of isosorbide mononitrate was 60 to 70% of that seen on day one."
+  ],
+  "pharmacodynamics": [
+   "Pharmacodynamics Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration. This strategy is inappropriate for organic nitrates. Several well-controlled clinical trials have used exercise testing to assess the antianginal efficacy of continuously-delivered nitrates. In the large majority of these trials, active agents were indistinguishable from placebo after 24 hours (or less) of continuous therapy. Attempts to overcome tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed. Only after nitrates have been absent from the body for several hours has their antianginal efficacy been restored. The drug-free interval sufficient to avoid tolerance to isosorbide mononitrate has not been completely defined. In the only regimen of twice-daily isosorbide mononitrate that has been shown to avoid development of tolerance, the two doses of Isosorbide Mononitrate Tablets are given 7 hours apart, so there is a gap of 17 hours between the second dose of each day and the first dose of the next day. Taking account of the relatively long half-life of isosorbide mononitrate this result is consistent with those obtained for other organic nitrates. The asymmetric twice-daily regimen of Isosorbide Mononitrate Tablets successfully avoided significant rebound/withdrawal effects. The incidence and magnitude of such phenomena have appeared, in studies of other nitrates, to be highly dependent upon the schedule of nitrate administration."
+  ],
+  "pharmacokinetics": [
+   "Pharmacokinetics Isosorbide mononitrate is rapidly and completely absorbed from the gastrointestinal tract. In humans, isosorbide mononitrate is not subject to first pass metabolism in the liver. The absolute bioavailability of isosorbide mononitrate from Isosorbide Mononitrate Tablets is nearly 100%. Peak plasma concentrations usually occur in about 30-60 minutes. Isosorbide mononitrate exhibits dose proportionality over the recommended dose range. Food does not significantly affect the absorption or bioavailability of Isosorbide Mononitrate Tablets. Metoprolol coadministration did not change the pharmacokinetics of isosorbide mononitrate. The volume of distribution is approximately 0.6 L/kg. Plasma protein binding of isosorbide mononitrate was found to be less than 5%. When radiolabelled isosorbide mononitrate was administered to humans in order to elucidate the metabolic fate, about half of the dose was found denitrated and renally excreted as isosorbide and sorbitol. One quarter of the dose was accounted for as conjugates of the parent drug in the urine. None of these metabolites is vasoactive. Only 2% of the dose was excreted as unchanged drug. The overall elimination half-life of isosorbide mononitrate is about 5 hours. The rate of clearance is the same in healthy young adults, in patients with various degrees of renal, hepatic or cardiac dysfunction and in the elderly. When radiolabelled isosorbide mononitrate was administered to humans, 93% of the dose was excreted within 48 hours into the urine. Renal excretion was virtually complete after 5 days; fecal excretion amounted to only 1% of the dose. Isosorbide mononitrate has no known effect on renal and hepatic function. In patients with varying degrees of renal failure, dosage adjustment does not appear necessary. In patients with liver cirrhosis, the pharmacokinetic parameters after a single dose of isosorbide mononitrate were similar to the values found in healthy volunteers. Isosorbide mononitrate is significantly removed from the blood during hemodialysis; however, an additional dose to compensate for drug lost is not necessary. In patients undergoing continuous ambulatory peritoneal dialysis, blood levels are similar to patients not on dialysis."
+  ],
+  "clinical_studies": [
+   "Clinical Trials The acute and chronic antianginal efficacy of isosorbide mononitrate has been confirmed in clinical trials. The clinical efficacy of isosorbide mononitrate was studied in 21 stable angina pectoris patients. After single dose administration of Isosorbide Mononitrate Tablets, 20 mg, the exercise capacity was increased by 42.7% after one hour, 29.6% after 6 hours, and by 25% after eight hours when compared to placebo. Controlled trials of single doses of Isosorbide Mononitrate Tablets have demonstrated that antianginal activity is present about 1 hour after dosing, with peak effect seen from 1-4 hours after dosing. In one multicenter placebo-controlled trial, isosorbide mononitrate was found to be safe and effective during acute and chronic (3 weeks) treatment of angina pectoris. Two hundred fourteen (214) patients were enrolled in the trial; 54 patients were randomized to receive placebo and 106 patients were randomized to receive 10 or 20 mg of Isosorbide Mononitrate Tablets twice daily seven hours apart. The largest effect of isosorbide mononitrate, compared to placebo, was on day one - dose one. Although 14 hours after the first dose of day 14, the increase in exercise tolerance due to isosorbide mononitrate was statistically significant, the increase was about half of that seen 2 hours after the first dose of day one. On day 21, two hours after the first dose the effect of isosorbide mononitrate was 60 to 70% of that seen on day one."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Isosorbide Mononitrate Tablets are indicated for the prevention and treatment of angina pectoris due to coronary artery disease. The onset of action of oral isosorbide mononitrate is not sufficiently rapid for this product to be useful in aborting an acute anginal episode."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Isosorbide mononitrate is contraindicated in patients who are allergic to it. Do not use isosorbide mononitrate in patients who are taking certain drugs for erectile dysfunction (phosphodiesterase inhibitors), such as sildenafil, tadalafil, or vardenafil. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia. Do not use isosorbide mononitrate in patients who are taking the soluble guanylate cyclase stimulator riociguat. Concomitant use can cause hypotension."
+  ],
+  "warnings": [
+   "WARNINGS Amplification of the vasodilatory effects of isosorbide mononitrate by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. The benefits of isosorbide mononitrate in patients with acute myocardial infarction or congestive heart failure have not been established. Because the effects of isosorbide mononitrate are difficult to terminate rapidly, this drug is not recommended in these settings. If isosorbide mononitrate is used in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide mononitrate. This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by isosorbide mononitrate may be accompanied by paradoxical bradycardia and increased angina pectoris. Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence. The importance of these observations to the routine, clinical use of oral isosorbide mononitrate is not known. Information for Patients Patients should be told that the antianginal efficacy of Isosorbide Mononitrate Tablets can be maintained by carefully following the prescribed schedule of dosing (two doses taken seven hours apart). For most patients, this can be accomplished by taking the first dose on awakening and the second dose 7 hours later. As with other nitrates, daily headaches sometimes accompany treatment with isosorbide mononitrate. In patients who get these headaches, the headaches are a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide mononitrate, since loss of headache may be associated with simultaneous loss of antianginal efficacy. Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide mononitrate-induced headaches with no deleterious effect on isosorbide mononitrate's antianginal efficacy. Treatment with isosorbide mononitrate may be associated with light-headedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol. Drug Interactions Concomitant use of isosorbide mononitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS). Concomitant use of isosorbide mononitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS). The vasodilating effects of isosorbide mononitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination. Dose adjustments of either class of agents may be necessary. Carcinogenesis, Mutagenesis, Impairment of Fertility No evidence of carcinogenicity was observed in rats exposed to isosorbide mononitrate in their diets at doses of up to 900 mg/kg/day for the first six months and 500 mg/kg/day for the remaining duration of a study in which males were dosed for up to 121 weeks and females were dosed for up to 137 weeks. No evidence of mutagenicity was seen in vitro in the Salmonella test (Ames test), in human peripheral lymphocytes, in Chinese hamster cells (V79) or, in vivo in the rat micronucleus test. In a study on the fertility and breeding capacity of two generations of rats, isosorbide mononitrate had no adverse effects on fertility or general reproductive performance with oral doses up to 120 mg/kg/day. A dose of 360 mg/kg/day was associated with increased mortality in treated males and females and a reduced fertility index. (See table at end of Pregnancy section for animal-to-human dosage comparisons.) Pregnancy Teratogenic Effects Pregnancy Category B Reproduction studies performed in rats and rabbits at doses of up to 540 and 810 mg/kg/day, respectively, have revealed no evidence of harm to the fetus due to isosorbide mononitrate. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, isosorbide mononitrate should be used during pregnancy only if clearly needed. Nonteratogenic Effects Birth weights, neonatal survival and development, and incidence of stillbirths were adversely affected when pregnant rats were administered oral doses of 540 (but not 270) mg isosorbide mononitrate/kg/day during late gestation and lactation. This dose was associated with decreased maternal body weight gain and decreased maternal motor activity. Species Daily Dose (mg/kg) Multiple of MRHD Maximum recommended human dose (MRHD) is 20 mg bid. Based on: Body Weight Body Surface Calculations assume a human weight of 50 kg and human body surface area of 1.46 m 2 , a rabbit weight of 2 kg and rabbit body surface area of 0.163 m 2 , and a rat weight of 150 g and rat body surface area of 0.025 m 2 . Rabbit 810 1013 375 Rat 900 540 500 360 270 1125 675 625 450 338 195 117 108 78 59 Nursing Mothers It is not known whether isosorbide mononitrate is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when isosorbide mononitrate is administered to a nursing woman. Pediatric Use Safety and effectiveness of isosorbide mononitrate in pediatric patients have not been established. Geriatric Use Clinical studies of isosorbide mononitrate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "precautions_table": [
+   "<table width=\"100%\"> <col width=\"25%\"/> <col width=\"25%\"/> <col width=\"25%\"/> <col width=\"25%\"/> <thead> <tr> <th align=\"left\" rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <content styleCode=\"bold\"> Species</content> </th> <th align=\"center\" rowspan=\"2\" styleCode=\"Rrule Toprule \" valign=\"bottom\"> <content styleCode=\"bold\"> Daily Dose</content>   <content styleCode=\"bold\">(mg/kg)</content> </th> <th align=\"center\" colspan=\"2\" styleCode=\"Rrule Toprule \" valign=\"top\"> <content styleCode=\"bold\"> Multiple of MRHD</content> <footnote ID=\"_RefFOOT_7010\">Maximum recommended human dose (MRHD) is 20 mg bid.</footnote>   <content styleCode=\"bold\">Based on:</content> </th> </tr> <tr> <th align=\"center\" styleCode=\"Botrule \" valign=\"top\"> <content styleCode=\"bold\"> Body Weight</content> </th> <th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <content styleCode=\"bold\"> Body Surface</content> </th> </tr> </thead> <tfoot> <tr> <td align=\"left\" colspan=\"4\" styleCode=\"Botrule\" valign=\"top\"> Calculations assume a human weight of 50 kg and human body surface area of 1.46 m<sup>2</sup>, a rabbit weight of 2 kg and rabbit body surface area of 0.163 m<sup>2</sup>, and a rat weight of 150 g and rat body surface area of 0.025 m<sup>2</sup>.</td> </tr> </tfoot> <tbody> <tr> <td styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <paragraph> Rabbit</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 810</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 1013</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 375</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"> <paragraph> Rat</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 900 540 500 360 270</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 1125 675 625 450 338</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 195 117 108 78 59</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "general_precautions": [
+   "General Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide mononitrate. This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by isosorbide mononitrate may be accompanied by paradoxical bradycardia and increased angina pectoris. Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence. The importance of these observations to the routine, clinical use of oral isosorbide mononitrate is not known."
+  ],
+  "information_for_patients": [
+   "Information for Patients Patients should be told that the antianginal efficacy of Isosorbide Mononitrate Tablets can be maintained by carefully following the prescribed schedule of dosing (two doses taken seven hours apart). For most patients, this can be accomplished by taking the first dose on awakening and the second dose 7 hours later. As with other nitrates, daily headaches sometimes accompany treatment with isosorbide mononitrate. In patients who get these headaches, the headaches are a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide mononitrate, since loss of headache may be associated with simultaneous loss of antianginal efficacy. Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide mononitrate-induced headaches with no deleterious effect on isosorbide mononitrate's antianginal efficacy. Treatment with isosorbide mononitrate may be associated with light-headedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Concomitant use of isosorbide mononitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS). Concomitant use of isosorbide mononitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS). The vasodilating effects of isosorbide mononitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination. Dose adjustments of either class of agents may be necessary."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility No evidence of carcinogenicity was observed in rats exposed to isosorbide mononitrate in their diets at doses of up to 900 mg/kg/day for the first six months and 500 mg/kg/day for the remaining duration of a study in which males were dosed for up to 121 weeks and females were dosed for up to 137 weeks. No evidence of mutagenicity was seen in vitro in the Salmonella test (Ames test), in human peripheral lymphocytes, in Chinese hamster cells (V79) or, in vivo in the rat micronucleus test. In a study on the fertility and breeding capacity of two generations of rats, isosorbide mononitrate had no adverse effects on fertility or general reproductive performance with oral doses up to 120 mg/kg/day. A dose of 360 mg/kg/day was associated with increased mortality in treated males and females and a reduced fertility index. (See table at end of Pregnancy section for animal-to-human dosage comparisons.)"
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects Pregnancy Category B Reproduction studies performed in rats and rabbits at doses of up to 540 and 810 mg/kg/day, respectively, have revealed no evidence of harm to the fetus due to isosorbide mononitrate. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, isosorbide mononitrate should be used during pregnancy only if clearly needed. Nonteratogenic Effects Birth weights, neonatal survival and development, and incidence of stillbirths were adversely affected when pregnant rats were administered oral doses of 540 (but not 270) mg isosorbide mononitrate/kg/day during late gestation and lactation. This dose was associated with decreased maternal body weight gain and decreased maternal motor activity. Species Daily Dose (mg/kg) Multiple of MRHD Maximum recommended human dose (MRHD) is 20 mg bid. Based on: Body Weight Body Surface Calculations assume a human weight of 50 kg and human body surface area of 1.46 m 2 , a rabbit weight of 2 kg and rabbit body surface area of 0.163 m 2 , and a rat weight of 150 g and rat body surface area of 0.025 m 2 . Rabbit 810 1013 375 Rat 900 540 500 360 270 1125 675 625 450 338 195 117 108 78 59"
+  ],
+  "pregnancy_table": [
+   "<table width=\"100%\"> <col width=\"25%\"/> <col width=\"25%\"/> <col width=\"25%\"/> <col width=\"25%\"/> <thead> <tr> <th align=\"left\" rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <content styleCode=\"bold\"> Species</content> </th> <th align=\"center\" rowspan=\"2\" styleCode=\"Rrule Toprule \" valign=\"bottom\"> <content styleCode=\"bold\"> Daily Dose</content>   <content styleCode=\"bold\">(mg/kg)</content> </th> <th align=\"center\" colspan=\"2\" styleCode=\"Rrule Toprule \" valign=\"top\"> <content styleCode=\"bold\"> Multiple of MRHD</content> <footnote ID=\"_RefFOOT_7010\">Maximum recommended human dose (MRHD) is 20 mg bid.</footnote>   <content styleCode=\"bold\">Based on:</content> </th> </tr> <tr> <th align=\"center\" styleCode=\"Botrule \" valign=\"top\"> <content styleCode=\"bold\"> Body Weight</content> </th> <th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <content styleCode=\"bold\"> Body Surface</content> </th> </tr> </thead> <tfoot> <tr> <td align=\"left\" colspan=\"4\" styleCode=\"Botrule\" valign=\"top\"> Calculations assume a human weight of 50 kg and human body surface area of 1.46 m<sup>2</sup>, a rabbit weight of 2 kg and rabbit body surface area of 0.163 m<sup>2</sup>, and a rat weight of 150 g and rat body surface area of 0.025 m<sup>2</sup>.</td> </tr> </tfoot> <tbody> <tr> <td styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <paragraph> Rabbit</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 810</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 1013</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 375</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"> <paragraph> Rat</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 900 540 500 360 270</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 1125 675 625 450 338</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 195 117 108 78 59</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects Pregnancy Category B Reproduction studies performed in rats and rabbits at doses of up to 540 and 810 mg/kg/day, respectively, have revealed no evidence of harm to the fetus due to isosorbide mononitrate. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, isosorbide mononitrate should be used during pregnancy only if clearly needed."
+  ],
+  "nonteratogenic_effects": [
+   "Nonteratogenic Effects Birth weights, neonatal survival and development, and incidence of stillbirths were adversely affected when pregnant rats were administered oral doses of 540 (but not 270) mg isosorbide mononitrate/kg/day during late gestation and lactation. This dose was associated with decreased maternal body weight gain and decreased maternal motor activity. Species Daily Dose (mg/kg) Multiple of MRHD Maximum recommended human dose (MRHD) is 20 mg bid. Based on: Body Weight Body Surface Calculations assume a human weight of 50 kg and human body surface area of 1.46 m 2 , a rabbit weight of 2 kg and rabbit body surface area of 0.163 m 2 , and a rat weight of 150 g and rat body surface area of 0.025 m 2 . Rabbit 810 1013 375 Rat 900 540 500 360 270 1125 675 625 450 338 195 117 108 78 59"
+  ],
+  "nonteratogenic_effects_table": [
+   "<table width=\"100%\"> <col width=\"25%\"/> <col width=\"25%\"/> <col width=\"25%\"/> <col width=\"25%\"/> <thead> <tr> <th align=\"left\" rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <content styleCode=\"bold\"> Species</content> </th> <th align=\"center\" rowspan=\"2\" styleCode=\"Rrule Toprule \" valign=\"bottom\"> <content styleCode=\"bold\"> Daily Dose</content>   <content styleCode=\"bold\">(mg/kg)</content> </th> <th align=\"center\" colspan=\"2\" styleCode=\"Rrule Toprule \" valign=\"top\"> <content styleCode=\"bold\"> Multiple of MRHD</content> <footnote ID=\"_RefFOOT_7010\">Maximum recommended human dose (MRHD) is 20 mg bid.</footnote>   <content styleCode=\"bold\">Based on:</content> </th> </tr> <tr> <th align=\"center\" styleCode=\"Botrule \" valign=\"top\"> <content styleCode=\"bold\"> Body Weight</content> </th> <th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <content styleCode=\"bold\"> Body Surface</content> </th> </tr> </thead> <tfoot> <tr> <td align=\"left\" colspan=\"4\" styleCode=\"Botrule\" valign=\"top\"> Calculations assume a human weight of 50 kg and human body surface area of 1.46 m<sup>2</sup>, a rabbit weight of 2 kg and rabbit body surface area of 0.163 m<sup>2</sup>, and a rat weight of 150 g and rat body surface area of 0.025 m<sup>2</sup>.</td> </tr> </tfoot> <tbody> <tr> <td styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <paragraph> Rabbit</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 810</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 1013</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"top\"> <paragraph> 375</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"> <paragraph> Rat</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 900 540 500 360 270</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 1125 675 625 450 338</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"> <paragraph> 195 117 108 78 59</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether isosorbide mononitrate is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when isosorbide mononitrate is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness of isosorbide mononitrate in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of isosorbide mononitrate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Headache is the most frequent side effect and was the cause of 2% of all dropouts from controlled-clinical trials. Headache decreased in incidence after the first few days of therapy. The following table shows the frequency of adverse reactions observed in 1% or more of subjects in 6 placebo-controlled trials, conducted in the United States and abroad. The same table shows the frequency of withdrawal for these adverse reactions. In many cases the adverse reactions were of uncertain relation to drug treatment. Frequency of Adverse Reactions (Discontinuations) Some individuals discontinued for multiple reasons. 6 Placebo-Controlled Studies Dose Placebo 5 mg 10 mg 20 mg Patients 160 54 52 159 Headache 6% (0%) 17% (0%) 13% (0%) 35% (5%) Fatigue 2% (0%) 0% (0%) 4% (0%) 1% (0%) Upper Respiratory Infection <1% (0%) 0% (0%) 4% (0%) 1% (0%) Pain <1% (0%) 4% (0%) 0% (0%) <1% (0%) Dizziness 1% (0%) 0% (0%) 0% (0%) 4% (0%) Nausea <1% (0%) 0% (0%) 0% (0%) 3% (2%) Increased Cough <1% (0%) 0% (0%) 2% (0%) <1% (0%) Rash 0% (0%) 2% (2%) 0% (0%) <1% (0%) Abdominal Pain <1% (0%) 0% (0%) 2% (0%) 0% (0%) Allergic Reaction 0% (0%) 0% (0%) 2% (0%) 0% (0%) Cardiovascular Disorder 0% (0%) 2% (0%) 0% (0%) 0% (0%) Chest Pain <1% (0%) 0% (0%) 2% (0%) <1% (0%) Diarrhea 0% (0%) 0% (0%) 2% (0%) 0% (0%) Flushing 0% (0%) 0% (0%) 2% (0%) 0% (0%) Emotional Lability 0% (0%) 2% (0%) 0% (0%) 0% (0%) Pruritus 1% (0%) 2% (2%) 0% (0%) 0% (0%) Other adverse reactions, each reported by fewer than 1% of exposed patients, and in many cases of uncertain relation to drug treatment, were: Cardiovascular: acute myocardial infarction, apoplexy, arrhythmias, bradycardia, edema, hypertension, hypotension, pallor, palpitations, tachycardia. Dermatologic: sweating. Gastrointestinal: anorexia, dry mouth, dyspepsia, thirst, vomiting, decreased weight. Genitourinary: prostatic disorder. Miscellaneous: amblyopia, back pain, bitter taste, muscle cramps, neck pain, paresthesia, susurrus aurium. Neurologic: anxiety, impaired concentration, depression, insomnia, nervousness, nightmares, restlessness, tremor, vertigo. Respiratory: asthma, dyspnea, sinusitis. Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients; for further discussion of its diagnosis and treatment see Overdosage ."
+  ],
+  "adverse_reactions_table": [
+   "<table ID=\"_RefID0EYDAE\" width=\"100%\"> <caption>Frequency of Adverse Reactions (Discontinuations)<footnote ID=\"_RefFOOT_7011\">Some individuals discontinued for multiple reasons.</footnote> </caption> <col width=\"33%\"/> <col width=\"25%\"/> <col width=\"14%\"/> <col width=\"14%\"/> <col width=\"14%\"/> <thead> <tr> <th align=\"left\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"/> <th align=\"left\" styleCode=\"Toprule \" valign=\"top\"> <content styleCode=\"bold\"> 6 Placebo-Controlled Studies</content> </th> </tr> <tr> <th align=\"left\" styleCode=\"Rrule Lrule \" valign=\"top\"> <content styleCode=\"bold\"> Dose</content> </th> <th align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <content styleCode=\"bold\"> Placebo</content> </th> <th align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <content styleCode=\"bold\"> 5 mg</content> </th> <th align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <content styleCode=\"bold\"> 10 mg</content> </th> <th align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <content styleCode=\"bold\"> 20 mg</content> </th> </tr> <tr> <th align=\"left\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <content styleCode=\"bold\"> Patients</content> </th> <th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <content styleCode=\"bold\"> 160</content> </th> <th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <content styleCode=\"bold\"> 54</content> </th> <th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <content styleCode=\"bold\"> 52</content> </th> <th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <content styleCode=\"bold\"> 159</content> </th> </tr> </thead> <tbody> <tr> <td styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <paragraph> Headache</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"bottom\"> <paragraph> 6% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"bottom\"> <paragraph> 17% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"bottom\"> <paragraph> 13% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Toprule \" valign=\"bottom\"> <paragraph> 35% (5%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Fatigue</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 4% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 1% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Upper Respiratory Infection</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 4% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 1% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Pain</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 4% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Dizziness</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 4% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Nausea</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 3% (2%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Increased Cough</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Rash</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (2%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Abdominal Pain</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Allergic Reaction</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Cardiovascular Disorder</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Chest Pain</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> &lt;1% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Diarrhea</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Flushing</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule \" valign=\"top\"> <paragraph> Emotional Lability</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 2% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"> <paragraph> Pruritus</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <paragraph> 1% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <paragraph> 2% (2%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"bottom\"> <paragraph> 0% (0%)</paragraph> </td> </tr> </tbody> </table>",
+   "<table width=\"100%\"> <col width=\"54%\"/> <col width=\"46%\"/> <tbody> <tr> <td styleCode=\"Toprule \" valign=\"top\"> <paragraph> Cardiovascular:</paragraph> </td> <td styleCode=\"Toprule \" valign=\"top\"> <paragraph> acute myocardial infarction, apoplexy, arrhythmias, bradycardia, edema, hypertension, hypotension, pallor, palpitations, tachycardia.</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> </paragraph> </td> <td valign=\"top\"> <paragraph> </paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> Dermatologic:</paragraph> </td> <td valign=\"top\"> <paragraph> sweating.</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> </paragraph> </td> <td valign=\"top\"> <paragraph> </paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> Gastrointestinal:</paragraph> </td> <td valign=\"top\"> <paragraph> anorexia, dry mouth, dyspepsia, thirst, vomiting, decreased weight.</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> </paragraph> </td> <td valign=\"top\"> <paragraph> </paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> Genitourinary:</paragraph> </td> <td valign=\"top\"> <paragraph> prostatic disorder.</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> </paragraph> </td> <td valign=\"top\"> <paragraph> </paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> Miscellaneous:</paragraph> </td> <td valign=\"top\"> <paragraph> amblyopia, back pain, bitter taste, muscle cramps, neck pain, paresthesia, susurrus aurium.</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> </paragraph> </td> <td valign=\"top\"> <paragraph> </paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> Neurologic:</paragraph> </td> <td valign=\"top\"> <paragraph> anxiety, impaired concentration, depression, insomnia, nervousness, nightmares, restlessness, tremor, vertigo.</paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> </paragraph> </td> <td valign=\"top\"> <paragraph> </paragraph> </td> </tr> <tr> <td styleCode=\"Botrule \" valign=\"top\"> <paragraph> Respiratory:</paragraph> </td> <td styleCode=\"Botrule \" valign=\"top\"> <paragraph> asthma, dyspnea, sinusitis.</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE Hemodynamic Effects The ill effects of isosorbide mononitrate overdose are generally the results of isosorbide mononitrate's capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension. These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures and death. Laboratory determinations of serum levels of isosorbide mononitrate and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of isosorbide mononitrate overdose. There are no data suggesting what dose of isosorbide mononitrate is likely to be life-threatening in humans. In rats and mice, there is significant lethality at oral doses of 1965 mg/kg and 2581 mg/kg, respectively. No data are available to suggest physiological maneuvers (e.g., maneuvers to change the pH of the urine) that might accelerate elimination of isosorbide mononitrate. Isosorbide mononitrate is significantly removed from the blood during hemodialysis. No specific antagonist to the vasodilator effects of isosorbide mononitrate is known, and no intervention has been subject to controlled study as a therapy of isosorbide mononitrate overdose. Because the hypotension associated with isosorbide mononitrate overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward an increase in central fluid volume. Passive elevation of the patient's legs may be sufficient, but intravenous infusion of normal saline of similar fluid may also be necessary. The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good. In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard. Treatment of isosorbide mononitrate overdose in these patients may be subtle and difficult, and invasive monitoring may be required. Methemoglobinemia Methemoglobinemia has been reported in patients receiving other organic nitrates, and it probably could also occur as a side effect of isosorbide mononitrate. Certainly nitrate ions liberated during metabolism of isosorbide mononitrate can oxidize hemoglobin into methemoglobin. Even in patients totally without cytochrome b5 reductase activity, however, and even assuming that the nitrate moiety of isosorbide mononitrate is quantitatively applied to oxidation of hemoglobin, about 2 mg/kg of isosorbide mononitrate should be required before any of these patients manifests clinically significant (≥10%) methemoglobinemia. In patients with normal reductase function, significant production of methemoglobin should require even larger doses of isosorbide mononitrate. In one study in which 36 patients received 2-4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr (equivalent, in total administered dose of nitrate ions, to 7.8 – 11.1 mg of isosorbide mononitrate per hour), the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo. Notwithstanding these observations, there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates. None of the affected patients had been thought to be unusually susceptible. Methemoglobin levels are available from most clinical laboratories. The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial p0 2 . Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air. When methemoglobinemia is diagnosed, the treatment of choice is methylene blue, 1-2 mg/kg intravenously."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION The recommended regimen of Isosorbide Mononitrate Tablets is 20 mg twice daily, with the doses seven hours apart. A starting dose of 5 mg (½ tablet of the 10 mg dosing strength) might be appropriate for persons of particularly small stature but should be increased to at least 10 mg by the second or third day of therapy. Dosage adjustments are not necessary for elderly patients or patients with altered hepatic or renal function. As noted above ( Clinical Pharmacology ), multiple studies of organic nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. The asymmetric (2 doses, 7 hours apart) dosing regimen for Isosorbide Mononitrate Tablets provides a daily nitrate-free interval to minimize the development of tolerance. As also noted under Clinical Pharmacology , well-controlled studies have shown that tolerance to Isosorbide Mononitrate Tablets occurs to some extent when using the twice-daily regimen in which the two doses are given seven hours apart. This regimen has been shown to have antianginal efficacy beginning one hour after the first dose and lasting at least seven hours after the second dose. The duration (if any) of antianginal activity beyond fourteen hours has not been studied. In clinical trials, isosorbide mononitrate has been administered in a variety of regimens and doses. Doses above 20 mg twice a day (with the doses seven hours apart) have not been adequately studied. Doses of 5 mg twice a day are clearly effective (effectiveness based on exercise tolerance) for only the first day of a twice-a-day (with doses 7 hours apart) regimen."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Isosorbide Mononitrate 20 mg Tablets, USP are white, round, scored and engraved \"20\" on one side and engraved \"KU 107\" on the other. They are supplied as follows: Bottles of 30 NDC 63187-900-30 Bottles of 60 NDC 63187-900-60 Bottles of 90 NDC 63187-900-90 Store at 20° - 30°C (68° - 86°F) [See USP]. Keep tightly closed."
+  ],
+  "storage_and_handling": [
+   "Store at 20° - 30°C (68° - 86°F) [See USP]. Keep tightly closed."
+  ],
+  "set_id": "f871dfa7-219f-4704-8e4d-215caeb7408d",
+  "id": "44ed966d-bf75-4379-84f4-b5270e2bb700",
+  "effective_time": "20191101",
+  "version": "3"
+ }
+}

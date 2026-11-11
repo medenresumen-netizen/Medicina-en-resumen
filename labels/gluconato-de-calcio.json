@@ -1,0 +1,709 @@
+{
+ "id_es": "gluconato-de-calcio",
+ "generic_en": "calcium gluconate",
+ "search": "openfda.generic_name.exact:\"CALCIUM GLUCONATE\"",
+ "downloaded": "2026-11-11T06:43Z",
+ "chosen": {
+  "set_id": "0deed071-d89d-420e-b4b4-797dce0ad8f0",
+  "id": "28e2a95a-ff79-4986-9bd6-70c70233cd32",
+  "effective_time": "20260731",
+  "version": "4",
+  "brand_name": [
+   "Calcium Gluconate in Sodium Chloride"
+  ],
+  "generic_name": [
+   "CALCIUM GLUCONATE"
+  ],
+  "manufacturer_name": [
+   "WG Critical Care, LLC"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA210906"
+  ],
+  "n_sections": 28
+ },
+ "candidates": [
+  {
+   "set_id": "3cbf6bf7-2415-4435-b3df-41855514a05d",
+   "id": "267a3c88-2663-40aa-b98a-23e152d2d6bb",
+   "effective_time": "20261027",
+   "version": "2",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213071"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d6db3a1c-ed02-48fc-9134-ea1d58acf42e",
+   "id": "5afb2f7b-7cba-e71c-e063-6394a90a5533",
+   "effective_time": "20260908",
+   "version": "3",
+   "brand_name": [
+    "calcium gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213071"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "0deed071-d89d-420e-b4b4-797dce0ad8f0",
+   "id": "28e2a95a-ff79-4986-9bd6-70c70233cd32",
+   "effective_time": "20260731",
+   "version": "4",
+   "brand_name": [
+    "Calcium Gluconate in Sodium Chloride"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA210906"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e6d531ec-fcdc-49f6-b0c4-878d3952827f",
+   "id": "1df4c6cf-881d-4503-9333-02c19a621105",
+   "effective_time": "20260630",
+   "version": "18",
+   "brand_name": [
+    "Calcium Gluconate in Sodium Chloride"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA210906"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "787603c6-3f50-473a-8e3b-71dcf6d86964",
+   "id": "2a2f5cae-dd07-4027-9bfc-41e406e2a767",
+   "effective_time": "20260623",
+   "version": "3",
+   "brand_name": [
+    "calcium gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals Private Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216611"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b2470072-f443-4596-ae33-1b8b0d05bc9d",
+   "id": "b2470072-f443-4596-ae33-1b8b0d05bc9d",
+   "effective_time": "20260611",
+   "version": "1",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "GLENMARK PHARMACEUTICALS INC., USA"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218840"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "8b77c3d2-992d-4261-8421-9cfd07328fbf",
+   "id": "661fc3fe-30e4-4d3e-a7a0-7405bfabe79f",
+   "effective_time": "20260518",
+   "version": "7",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "f28e9871-d546-4b48-ac3d-aead0d4c0449",
+   "id": "f28e9871-d546-4b48-ac3d-aead0d4c0449",
+   "effective_time": "20260513",
+   "version": "1",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Caplin Steriles Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218840"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "13d7cfc9-ff7a-437e-8c21-d9709ac07d48",
+   "id": "0602d492-1b9d-4475-8d2b-3cfc5a636793",
+   "effective_time": "20260512",
+   "version": "4",
+   "brand_name": [
+    "calcium gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals Private Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216611"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "841ea51f-dc0d-45ed-8b55-bb64640cb930",
+   "id": "f98230b1-9032-485d-9879-f3678c6dd4a0",
+   "effective_time": "20251103",
+   "version": "7",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "16307c00-d0d5-4e05-821f-17b0c1a29fc9",
+   "id": "62edfc55-5292-4d27-ba52-d72d34744ead",
+   "effective_time": "20251101",
+   "version": "5",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA210906"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "4c635f60-7868-46d5-b932-d5cf8fc84432",
+   "id": "3ff0b519-50f1-93a8-e063-6294a90a9994",
+   "effective_time": "20250929",
+   "version": "3",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "38413366-b558-7dd0-e063-6394a90acb7e",
+   "id": "3a3909d4-4bb5-ba8a-e063-6294a90a4a50",
+   "effective_time": "20250718",
+   "version": "2",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "ProPharma Distribution"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "fb40eba7-04e5-40dc-8a95-5f45e7bd70bc",
+   "id": "42dd49af-172b-4202-ab5c-442fa942a491",
+   "effective_time": "20250206",
+   "version": "6",
+   "brand_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217689"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "1aaf5c76-e526-4d8b-887e-cc3c4f39cc8b",
+   "id": "166681fc-9f43-470d-81e2-ff8be7cd39dc",
+   "effective_time": "20240821",
+   "version": "1",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "7f5101e0-abf9-4fcf-8986-c799e3333434",
+   "id": "3351b72a-aa15-419f-a58c-4df90573d9f9",
+   "effective_time": "20240506",
+   "version": "4",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "8ee79b4c-21d3-4742-ae37-e2f562917706",
+   "id": "2bd614b6-02ce-49e3-86e2-dfaec7a13e04",
+   "effective_time": "20240418",
+   "version": "16",
+   "brand_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals Private Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217174"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "788ab6d7-d80c-0220-e053-2991aa0ae6e9",
+   "id": "105823ca-66f6-365a-e063-6294a90a5991",
+   "effective_time": "20240201",
+   "version": "5",
+   "brand_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "8ec4d137-1e9b-40e2-aeb2-8f62626a8fa5",
+   "id": "8ec4d137-1e9b-40e2-aeb2-8f62626a8fa5",
+   "effective_time": "20230901",
+   "version": "1",
+   "brand_name": [
+    "calcium gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213071"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "ce7becd8-cf59-4470-aac8-82761a24ebd7",
+   "id": "ce7becd8-cf59-4470-aac8-82761a24ebd7",
+   "effective_time": "20230901",
+   "version": "1",
+   "brand_name": [
+    "calcium gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213071"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "313a4ea9-178b-495e-9bc7-af1860fa6501",
+   "id": "313a4ea9-178b-495e-9bc7-af1860fa6501",
+   "effective_time": "20230526",
+   "version": "1",
+   "brand_name": [
+    "calcium gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213071"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "b6226367-b061-eec5-e053-2a95a90a617d",
+   "id": "fadf4e81-eac7-e407-e053-6394a90a4932",
+   "effective_time": "20230504",
+   "version": "2",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "af362bcb-7010-4eb5-b8c4-42aa3b0cdcde",
+   "id": "c39effaa-a9b8-4430-a42a-c642b76550df",
+   "effective_time": "20230428",
+   "version": "5",
+   "brand_name": [
+    "Calcium Gluconate"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "B. Braun Medical Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216541"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "7d93251a-b555-0be0-e053-2991aa0ad764",
+   "id": "ef7bd5a0-02a5-7b66-e053-2995a90a8ffa",
+   "effective_time": "20221210",
+   "version": "4",
+   "brand_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "generic_name": [
+    "CALCIUM GLUCONATE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208418"
+   ],
+   "n_sections": 18
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Calcium Gluconate in Sodium Chloride Injection is indicated for pediatric and adult patients for the treatment of acute symptomatic hypocalcemia. Limitations of Use The safety of Calcium Gluconate in Sodium Chloride Injection for long term use has not been established. • Calcium Gluconate in Sodium Chloride Injection is a form of calcium indicated for pediatric and adult patients for the treatment of acute symptomatic hypocalcemia. (1) • Limitations of Use: The safety of Calcium Gluconate Injection for long term use has not been established. (1)"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • Administer intravenously (bolus or continuous infusion) via a secure intravenous line (2.1) • See Full Prescribing Information (FPI) for administration rates, and appropriate monitoring (2.1) • Do not dilute Calcium Gluconate in Sodium Chloride Injection prior to use. Any unused portion should be discarded (2.1) • Individualize the dose within the recommended range in adults and pediatric patients depending on the severity of symptoms of hypocalcemia, the serum calcium level, and the acuity of onset of hypocalcemia. See Table 1 in the FPI for dosing recommendations in mg of calcium gluconate for neonates, pediatric and adult patients. (2.2) • Measure serum calcium during intermittent infusions every 4 to 6 hours and during continuous infusion every 1 to 4 hours. (2.3) • Calcium Gluconate Injection is not physically compatible with fluids containing phosphate or bicarbonate. Precipitation may result if mixed. See FPI for all drug incompatibilities. (2.5) 2.1 Important Administration Instructions See Table 1 for amounts of elemental calcium in Calcium Gluconate in Sodium Chloride Injection. Table 1. Amounts of Calcium Gluconate and Elemental Calcium Total Strength per Total Volume Strength per mL Elemental Calcium (mg) per mL Elemental Calcium (mEq) per mL Total Amount of Elemental Calcium (mg) per Total Volume Total Amount of Elemental Calcium (mEq) per Total Volume 1,000 mg per 50 mL 20 mg/mL 1.86 mg 0.093 mEq 93 mg per 50 mL 4.65 mEq per 50 mL 1,000 mg per 100 mL 10 mg/mL 0.93 mg 0.0465 mEq 93 mg per 100 mL 4.65 mEq per 100 mL 2,000 mg per 100 mL 20 mg/mL 1.86 mg 0.093 mEq 186 mg per 100 mL 9.3 mEq per 100 mL • Do not dilute Calcium Gluconate in Sodium Chloride Injection prior to use. Any unused portion should be discarded. • Inspect Calcium Gluconate in Sodium Chloride Injection visually prior to administration. The solution should appear clear and colorless. Do not administer if there is particulate matter or discoloration. • Administer Calcium Gluconate in Sodium Chloride Injection intravenously via a secure intravenous line to avoid calcinosis cutis and tissue necrosis [see Warnings and Precautions (5.3)]. Administer Calcium Gluconate in Sodium Chloride Injection by continuous infusion at the rate recommended in Table 2 [see Dosage and Administration (2.2)] and monitor patients, vitals, calcium and ECG during the infusion [see Warnings and Precautions (5.4)] . 2.2 Recommended Dosage Individualize the dose of Calcium Gluconate in Sodium Chloride Injection within the recommended range depending on the severity of symptoms of hypocalcemia, the serum calcium level, and the acuity of onset of hypocalcemia. Table 2 provides dosing recommendations for Calcium Gluconate in Sodium Chloride Injection in mg of calcium gluconate for neonates, pediatric and adult patients. Table 2. Dosing Recommendations in mg of Calcium Gluconate for Neonate, Pediatric, and Adult Patients PatientPopulation Initial Dose Subsequent Doses (if needed) Bolus Continuous Infusion Neonate (less than1 month to 1 month) 100 mg/kg to 200 mg/kg 100 mg/kg to 200 mg/kg every 6 hours Initiate at 17 mg/kg/hour to 33 mg/kg/hour Pediatric (greater than 1 month to less than 17 years) 29 mg/kg to 60 mg/kg 29 mg/kg to 60 mg/kg every 6 hours Initiate at 8 mg/kg/hour to 13 mg/kg/hour Adult (17 years and greater) 1,000 mg to 2,000 mg 1,000 mg to 2,000 mg every 6 hours Initiate at 5.4 mg/kg/hour to 21.5 mg/kg/hour For bolus administration, DO NOT exceed an infusion rate of: •200 mg/minute in adult patients •100 mg/minute in pediatric patients For continuous infusions, adjust rate as needed based on serum calcium levels 2.3 Serum Calcium Monitoring Measure serum calcium every 4 to 6 hours during intermittent infusions with Calcium Gluconate in Sodium Chloride Injection and measure serum calcium every 1 to 4 hours during continuous infusion. 2.4 Dosage in Renal Impairment For patients with renal impairment, initiate Calcium Gluconate in Sodium Chloride Injection at the lowest dose of the recommended dose ranges for all age groups and monitor serum calcium levels every 4 hours. 2.5 Drug Incompatibilities • Do not mix Calcium Gluconate in Sodium Chloride Injection with ceftriaxone. Concurrent use of intravenous ceftriaxone and Calcium Gluconate in Sodium Chloride Injection can lead to the formation of ceftriaxone-calcium precipitates. Concomitant use of ceftriaxone and intravenous calcium-containing products is contraindicated in neonates (28 days of age or younger) [see Contraindications (4)] . In patients older than 28 days of age, ceftriaxone and calcium-containing products may be administered sequentially, provided the infusion lines are thoroughly flushed between infusions with a compatible fluid. Ceftriaxone must not be administered simultaneously with intravenous calcium-containing solutions via a Y-site in any age group [see Warnings and Precautions (5.2), Drug Interactions (7.3)]. • Do not mix Calcium Gluconate in Sodium Chloride Injection with fluids containing bicarbonate or phosphate. Calcium Gluconate Injection is not physically compatible with fluids containing phosphate or bicarbonate. Precipitation may result if mixed. • Do not mix Calcium Gluconate in Sodium Chloride Injection with minocycline injection. Calcium complexes minocycline rendering it inactive."
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"100%\"> <col width=\"17%\"/> <col width=\"11%\"/> <col width=\"15%\"/> <col width=\"16%\"/> <col width=\"21%\"/> <col width=\"21%\"/> <tbody> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Total Strength per Total Volume</content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Strength per mL</content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Elemental Calcium (mg) per mL</content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Elemental Calcium (mEq) per mL</content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Total Amount of Elemental Calcium (mg) per Total Volume</content> </paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Total Amount of Elemental Calcium (mEq) per Total Volume</content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>1,000 mg per 50 mL </paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>20 mg/mL</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>1.86 mg</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>0.093 mEq</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>93 mg per 50 mL</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>4.65 mEq per 50 mL</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>1,000 mg per 100 mL</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>10 mg/mL</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>0.93 mg</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>0.0465 mEq</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>93 mg per 100 mL</paragraph> </td> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>4.65 mEq per 100 mL</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>2,000 mg per 100 mL</paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>20 mg/mL</paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>1.86 mg</paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>0.093 mEq</paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>186 mg per 100 mL</paragraph> </td> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>9.3 mEq per 100 mL</paragraph> </td> </tr> </tbody> </table>",
+   "<table cellpadding=\"0pt\" width=\"100%\"> <col width=\"24%\"/> <col width=\"25%\"/> <col width=\"27%\"/> <col width=\"25%\"/> <tbody> <tr> <td rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">PatientPopulation</content> </paragraph> </td> <td align=\"center\" rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Initial Dose</content> </paragraph> </td> <td align=\"center\" colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Subsequent Doses (if needed)</content> </paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Bolus</content> </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Continuous Infusion</content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Neonate (less than1 month to 1 month)</content> </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>100 mg/kg to 200 mg/kg</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>100 mg/kg to 200 mg/kg every 6 hours</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Initiate at 17 mg/kg/hour to 33 mg/kg/hour</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Pediatric (greater than 1 month to less than 17 years)</content> </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>29 mg/kg to 60 mg/kg</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>29 mg/kg to 60 mg/kg every 6 hours</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Initiate at 8 mg/kg/hour to 13 mg/kg/hour</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Adult (17 years and greater)</content> </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>1,000 mg to 2,000 mg</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>1,000 mg to 2,000 mg every 6 hours</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>Initiate at 5.4 mg/kg/hour to 21.5 mg/kg/hour</paragraph> </td> </tr> <tr> <td colspan=\"4\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>For bolus administration, DO NOT exceed an infusion rate of:</paragraph> <list listType=\"unordered\"> <item> <caption> </caption>&#x2022;200 mg/minute in adult patients</item> <item> <caption> </caption>&#x2022;100 mg/minute in pediatric patients</item> </list> <paragraph> For continuous infusions, adjust rate as needed based on serum calcium levels</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Calcium Gluconate in Sodium Chloride Injection is a clear, colorless solution available as: Injection: • Calcium gluconate 1,000 mg per 50 mL (20 mg/mL) single-dose bags • Calcium gluconate 2,000 mg per 100 mL (20 mg/mL) single-dose bags Injection: • Calcium gluconate 1,000 mg per 50 mL (20 mg/mL) single-dose bags (3) • Calcium gluconate 2,000 mg per 100 mL (20 mg/mL) single-dose bags (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Calcium Gluconate in Sodium Chloride Injection is contraindicated in: •Hyperca lcemia • Neonates (28 days of age or younger) receiving ceftriaxone [see Warnings and Precautions (5.2)] • Hypercalcemia (4) • Neonates (28 days of age or younger) receiving ceftriaxone (4)"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Arrhythmias with Concomitant Cardiac Glycoside Use: If concomitant therapy is necessary, Calcium Gluconate in Sodium Chloride Injection should be given slowly in small amounts and close ECG monitoring is recommended (5.1) • End-Organ Damage due to Intravascular Ceftriaxone-Calcium Precipitates: Concurrent use of intravenous ceftriaxone may cause life-threatening precipitates. Do not administer ceftriaxone simultaneously with Calcium Gluconate in Sodium Chloride Injection via a Y-site in any age group. Cases of fatal outcomes in neonates have occurred. (4, 5.2) • Tissue Necrosis and Calcinosis: Calcinosis cutis can occur with or without extravasation of Calcium Gluconate in Sodium Chloride Injection. Tissue necrosis, ulceration, and secondary infection are the most serious complications. If extravasation occurs or clinical manifestations of calcinosis cutis are noted, immediately discontinue intravenous administration at that site and treat as needed. (5.3) • Hypotension, Bradycardia, and Cardiac Arrhythmias with Rapid Administration: To avoid adverse reactions that may follow rapid intravenous administration, Calcium Gluconate in Sodium Chloride Injection should be infused slowly, with careful ECG monitoring for cardiac arrhythmias. (5.4) • Aluminum Toxicity: This product contains aluminum, up to 25 mcg per liter, that may be toxic. (5.5) 5.1 Arrhythmias with Concomitant Cardiac Glycoside Use Cardiac arrhythmias may occur if calcium and cardiac glycosides are administered together. Hypercalcemia increases the risk of digoxin toxicity. Administration of Calcium Gluconate in Sodium Chloride Injection should be avoided in patients receiving cardiac glycosides. If concomitant therapy is necessary, Calcium Gluconate in Sodium Chloride Injection should be given slowly in small amounts and with close ECG monitoring [see Drug Interactions (7.1)] . 5.2 End-Organ Damage due to Intravascular Ceftriaxone-Calcium Precipitates Concomitant use of ceftriaxone and Calcium Gluconate in Sodium Chloride Injection is contraindicated in neonates (28 days of age or younger) due to cases of fatal outcomes in neonates in which a crystalline material was observed in the lungs and kidneys at autopsy after ceftriaxone and calcium were administrated simultaneously through the same intravenous line. Concomitant administration can lead to the formation of ceftriaxone-calcium precipitates that may act as emboli, resulting in vascular spasm or infarction [see Contraindications (4)]. In patients older than 28 days of age, ceftriaxone and Calcium Gluconate in Sodium Chloride Injection may be administered sequentially, provided the infusion lines are thoroughly flushed between infusions with a compatible fluid. Do not administer Ceftriaxone simultaneously with Calcium Gluconate in Sodium Chloride Injection via a Y-site in any age group. 5.3 Tissue Necrosis and Calcinosis Intravenous administration of Calcium Gluconate in Sodium Chloride Injection and local trauma may result in calcinosis cutis due to transient increase in local calcium concentration. Calcinosis cutis can occur with or without extravasation of Calcium Gluconate in Sodium Chloride Injection, is characterized by abnormal dermal deposits of calcium salts, and clinically manifests as papules, plaques, or nodules that may be associated with erythema, swelling, or induration. Tissue necrosis, ulceration, and secondary infection are the most serious complications. If extravasation occurs or clinical manifestations of calcinosis cutis are noted, immediately discontinue intravenous administration at that site and treat as needed. 5.4 Hypotension, Bradycardia, and Cardiac Arrhythmias with Rapid Administration Rapid injection of Calcium Gluconate in Sodium Chloride Injection may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. To avoid adverse reactions that may follow rapid intravenous administration, Calcium Gluconate in Sodium Chloride Injection should be infused slowly. If rapid intravenous bolus of Calcium Gluconate Injection is required, the rate of intravenous administration should not exceed 200 mg/minute in adults and 100 mg/minute in pediatric patients and ECG monitoring during administration is recommended [see Dosage and Administration (2.1)] . 5.5 Aluminum Toxicity Calcium Gluconate in Sodium Chloride Injection contains aluminum, up to 25 mcg per liter, that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 mcg/kg/day to 5 mcg/kg/day accumulate aluminum levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious adverse reactions are also described elsewhere in the labeling: • Arrhythmias with Concomitant Cardiac Glycoside Use [see Warnings and Precautions (5.1)] • End-Organ Damage due to Intravascular Ceftriaxone-Calcium Precipitates [see Warnings and Precautions (5.2)] • Tissue Necrosis and Calcinosis [see Warnings and Precautions (5.3)] • Hypotension, Bradycardia, and Cardiac Arrhythmias [see Warnings and Precautions (5.4)] • Aluminum toxicity [see Warnings and Precautions (5.5)] The following adverse reactions associated with the use of calcium gluconate were identified in the literature. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure. Cardiovascular : Vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmia, syncope, cardiac arrest Administration site reactions : Local soft tissue inflammation, local necrosis, calcinosis cutis and calcification due to extravasation The most common adverse events with Calcium Gluconate Injection are local soft tissue inflammation and necrosis, calcinosis cutis and calcification that are related to extravasation. Other adverse events include vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmia, syncope, and cardiac arrest. (6) To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS • Cardiac Glycoside : Synergistic arrhythmias may occur if calcium and cardiac glycosides are administered together. (7.1) • Calcium Channel Blockers : Administration of calcium may reduce the response. (7.2) • Drugs that may cause hypercalcemia: Vitamin D, vitamin A, thiazide diuretics, estrogen, calcipotriene and teriparatide administration may cause hypercalcemia. Monitor plasma calcium concentrations in patients taking these drugs concurrently. (7.3) 7.1 Cardiac Glycosides Hypercalcemia increases the risk of digoxin toxicity, while digoxin may be therapeutically ineffective in the presence of hypocalcemia. Synergistic arrhythmias may occur if calcium and cardiac glycosides are administered together. Avoid administration of Calcium Gluconate in Sodium Chloride Injection in patients receiving cardiac glycosides; if considered necessary, administer Calcium Gluconate in Sodium Chloride Injection slowly in small amounts and monitor ECG closely during administration. 7.2 Calcium Channel Blockers Administration of calcium may reduce the response to calcium channel blockers. 7.3 Drugs that may cause Hypercalcemia Vitamin D, vitamin A, thiazide diuretics, estrogen, calcipotriene and teriparatide administration may cause hypercalcemia. Monitor plasma calcium concentrations in patients taking these drugs concurrently."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS • Geriatric use : Dosing in elderly patients should be cautious, usually starting at the low end of the dosage range. (8.5) • Renal impairment: Initiate with the lower limit of the dosage range and monitor serum calcium levels every 4 hours. (8.6, 2.4) 8.1 Pregnancy Risk summary Limited available data with Calcium Gluconate Injection use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes. There are risks to the mother and the fetus associated with hypocalcemia in pregnancy [see Clinical Considerations] . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Disease-associated maternal risk Maternal hypocalcemia can result in an increased rate of spontaneous abortion, premature and dysfunctional labor, and possibly preeclampsia. Fetal/Neonatal adverse reactions Infants born to mothers with hypocalcemia can have associated fetal and neonatal hyperparathyroidism, which in turn can cause fetal and neonatal skeletal demineralization, subperiosteal bone resorption, osteitis fibrosa cystica and neonatal seizures. Infants born to mothers with hypocalcemia should be carefully monitored for signs of hypocalcemia or hypercalcemia, including neuromuscular irritability, apnea, cyanosis and cardiac rhythm disorders. 8.2 Lactation Risk summary Calcium is present in human milk as a natural component of human milk. It is not known whether intravenous administration of Calcium Gluconate in Sodium Chloride Injection can alter calcium concentration in human milk. There are no data on the effects of Calcium Gluconate Injection on the breastfed infant, or on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Calcium Gluconate in Sodium Chloride Injection and any potential adverse effects on the breastfed child from Calcium Gluconate in Sodium Chloride Injection or from the underlying maternal condition. 8.4 Pediatric Use The safety and effectiveness of Calcium Gluconate in Sodium Chloride Injection have been established in pediatric patients for the treatment of acute, symptomatic hypocalcemia. Pediatric approval for Calcium Gluconate in Sodium Chloride Injection, including doses, is not based on adequate and well-controlled clinical studies. Safety and dosing recommendations in pediatric patients are based on published literature and clinical experience [see Dosage and Administration (2.2)] . Concomitant use of ceftriaxone and Calcium Gluconate in Sodium Chloride Injection is contraindicated in neonates (28 days of age or younger) due to reports of fatal outcomes associated with the presence of lung and kidney ceftriaxone-calcium precipitates. In patients older than 28 days of age, ceftriaxone and Calcium Gluconate Injection may be administered sequentially, provided the infusion lines are thoroughly flushed between infusions with a compatible fluid [ see Contraindications (4) and Warnings and Precautions (5.2)] . This product contains up to 25 mcg/L aluminum which may be toxic, particularly for premature neonates due to immature renal function. Parenteral administration of aluminum greater than 4 mcg/kg/day to 5 mcg/kg/day is associated with central nervous system and bone toxicity [see Warnings and Precautions (5.5)] . 8.5 Geriatric Use In general dose selection for an elderly patient should start at the lowest dose of the recommended dose range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. 8.6 Renal Impairment For patients with renal impairment, initiate Calcium Gluconate in Sodium Chloride Injection at the lowest dose of the recommended dose ranges across all age groups. Monitor serum calcium levels every 4 hours [see Dosage and Administration (2.4)]. 8.7 Hepatic Impairment Hepatic function does not impact the availability of ionized calcium after calcium gluconate intravenous administration. Dose adjustment in hepatically impaired patients may not be necessary."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk summary Limited available data with Calcium Gluconate Injection use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes. There are risks to the mother and the fetus associated with hypocalcemia in pregnancy [see Clinical Considerations] . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Disease-associated maternal risk Maternal hypocalcemia can result in an increased rate of spontaneous abortion, premature and dysfunctional labor, and possibly preeclampsia. Fetal/Neonatal adverse reactions Infants born to mothers with hypocalcemia can have associated fetal and neonatal hyperparathyroidism, which in turn can cause fetal and neonatal skeletal demineralization, subperiosteal bone resorption, osteitis fibrosa cystica and neonatal seizures. Infants born to mothers with hypocalcemia should be carefully monitored for signs of hypocalcemia or hypercalcemia, including neuromuscular irritability, apnea, cyanosis and cardiac rhythm disorders."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of Calcium Gluconate in Sodium Chloride Injection have been established in pediatric patients for the treatment of acute, symptomatic hypocalcemia. Pediatric approval for Calcium Gluconate in Sodium Chloride Injection, including doses, is not based on adequate and well-controlled clinical studies. Safety and dosing recommendations in pediatric patients are based on published literature and clinical experience [see Dosage and Administration (2.2)] . Concomitant use of ceftriaxone and Calcium Gluconate in Sodium Chloride Injection is contraindicated in neonates (28 days of age or younger) due to reports of fatal outcomes associated with the presence of lung and kidney ceftriaxone-calcium precipitates. In patients older than 28 days of age, ceftriaxone and Calcium Gluconate Injection may be administered sequentially, provided the infusion lines are thoroughly flushed between infusions with a compatible fluid [ see Contraindications (4) and Warnings and Precautions (5.2)] . This product contains up to 25 mcg/L aluminum which may be toxic, particularly for premature neonates due to immature renal function. Parenteral administration of aluminum greater than 4 mcg/kg/day to 5 mcg/kg/day is associated with central nervous system and bone toxicity [see Warnings and Precautions (5.5)] ."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use In general dose selection for an elderly patient should start at the lowest dose of the recommended dose range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdosage of Calcium Gluconate in Sodium Chloride Injection may result in hypercalcemia. Symptoms of hypercalcemia typically develop when the total serum calcium concentration is ≥12 mg/dL. Neurologic symptoms include depression, weakness, fatigue, and confusion at lower levels, with patients experiencing hallucinations, disorientation, hypotonicity, seizures, and coma. Effects on the kidney include diminished ability to concentrate urine and diuresis. If overdose of Calcium Gluconate in Sodium Chloride Injection occurs immediately discontinue administration and provide supportive treatments to restore intravascular volume as well as promote calcium excretion in the urine if necessary."
+  ],
+  "description": [
+   "11 DESCRIPTION Calcium Gluconate in Sodium Chloride Injection is a sterile, preservative-free, nonpyrogenic solution of calcium gluconate, a form of calcium, for intravenous use. Calcium Gluconate is calcium D-gluconate (1:2) monohydrate. The structural formula is: Molecular formula: C 12 H 22 CaO 14 • H 2 O Molecular weight: 448.39 Solubility in water: 3.5 g/100 mL at 25°C Calcium Gluconate in Sodium Chloride Injection is available as 1,000 mg per 50 mL (equivalent to 18.8 mg per mL calcium gluconate anhydrous), 2,000 mg per 100 mL (equivalent to 18.8 mg per mL calcium gluconate anhydrous) in single-dose bags. Table 3. Calcium Gluconate Formulations 1,000 mg per 50 mL 2,000 mg per 100 mL Calcium Gluconate 20 mg per mL 20 mg per mL Elemental Calcium 1.86 mg per mL 1.86 mg per mL Sodium Chloride 6.75 mg per mL 6.75 mg per mL Hydrochloric Acid or Sodium Hydroxide pH adjusted 6.0 to 8.2 calcium gluconate structural formula"
+  ],
+  "description_table": [
+   "<table width=\"100%\"> <col width=\"37%\"/> <col width=\"30%\"/> <col width=\"33%\"/> <tbody> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"/> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">1,000 mg per 50 mL</content> </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph> <content styleCode=\"bold\">2,000 mg per 100 mL</content> </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>Calcium Gluconate</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>20 mg per mL</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>20 mg per mL</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>Elemental Calcium</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>1.86 mg per mL</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>1.86 mg per mL </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>Sodium Chloride</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>6.75 mg per mL</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>6.75 mg per mL </paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>Hydrochloric Acid or Sodium Hydroxide</paragraph> </td> <td align=\"center\" colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"> <paragraph>pH adjusted 6.0 to 8.2</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Intravenous administration of calcium gluconate increases serum ionized calcium level. Calcium gluconate dissociates into ionized calcium in plasma. Ionized calcium and gluconate are constituents of body fluids. 12.3 Pharmacokinetics Absorption Calcium Gluconate Injection is 100% bioavailable following intravenous injection. Metabolism Calcium itself does not undergo direct metabolism. The release of ionized calcium from intravenous administration of calcium gluconate is direct and does not seem to be affected by the first pass through the liver. Distribution Calcium in the body is distributed mainly in skeleton (99%). Only 1% of the total body calcium is distributed within the extracellular fluids and soft tissues. About 50% of total serum calcium is in the ionized form and represents the biologically active part. 8% to 10% serum calcium is bound to organic and inorganic acid and approximately 40% is protein-bound (primarily to albumin). Elimination Studies have shown a relationship between urinary calcium excretion and the intravenous administration of calcium gluconate, with a significant increase in urinary calcium excretion observed after the intravenous administration of calcium gluconate."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Intravenous administration of calcium gluconate increases serum ionized calcium level. Calcium gluconate dissociates into ionized calcium in plasma. Ionized calcium and gluconate are constituents of body fluids."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Calcium Gluconate Injection is 100% bioavailable following intravenous injection. Metabolism Calcium itself does not undergo direct metabolism. The release of ionized calcium from intravenous administration of calcium gluconate is direct and does not seem to be affected by the first pass through the liver. Distribution Calcium in the body is distributed mainly in skeleton (99%). Only 1% of the total body calcium is distributed within the extracellular fluids and soft tissues. About 50% of total serum calcium is in the ionized form and represents the biologically active part. 8% to 10% serum calcium is bound to organic and inorganic acid and approximately 40% is protein-bound (primarily to albumin). Elimination Studies have shown a relationship between urinary calcium excretion and the intravenous administration of calcium gluconate, with a significant increase in urinary calcium excretion observed after the intravenous administration of calcium gluconate."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been conducted to evaluate the carcinogenic potential of Calcium Gluconate in Sodium Chloride Injection. Calcium gluconate was not mutagenic with or without metabolic activation in the Ames test with Salmonella typhimurium (strains TA-1535, TA-1537, and TA-1538) or Saccharomyces cerevisiae (Strain D4). Fertility studies in animals have not been conducted with calcium gluconate administered by the intravenous route."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been conducted to evaluate the carcinogenic potential of Calcium Gluconate in Sodium Chloride Injection. Calcium gluconate was not mutagenic with or without metabolic activation in the Ames test with Salmonella typhimurium (strains TA-1535, TA-1537, and TA-1538) or Saccharomyces cerevisiae (Strain D4). Fertility studies in animals have not been conducted with calcium gluconate administered by the intravenous route."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Calcium Gluconate in Sodium Chloride Injection is a clear, colorless solution supplied in single-dose bags with an aluminum overwrap available as: Total Strength per Total Volume Strength per mL 24 single-dose bags NDC Bag and Overwrap NDC 1,000 mg per 50 mL 20 mg/mL 44567-620-84 44567-620-02 2,000 mg per 100 mL 20 mg/mL 44567-621-84 44567-621-02 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Do not freeze. Product should be used within 60 days of removal from aluminum overwrap. Preservative-free. Discard any unused portion in the single-dose bag immediately."
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\"> <col width=\"27%\"/> <col width=\"22%\"/> <col width=\"27%\"/> <col width=\"25%\"/> <tbody> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>Total Strength per Total Volume</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>Strength per mL</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>24 single-dose bags NDC</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>Bag and Overwrap NDC</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"> <paragraph>1,000 mg per 50 mL </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>20 mg/mL</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>44567-620-84</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"> <paragraph>44567-620-02</paragraph> </td> </tr> <tr> <td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>2,000 mg per 100 mL</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>20 mg/mL</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>44567-621-84</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"> <paragraph>44567-621-02</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Inform patients of the risks associated with infusion of Calcium Gluconate in Sodium Chloride Injection including local tissue inflammation, local necrosis and calcinosis. [see Warnings and Precautions (5.3)] . Manufactured for: WG Critical Care, LLC Paramus, NJ 07652 Made in Switzerland Patented. See www.wgcriticalcare.com/patents Novaplus is a registered trademark of Vizient, Inc. novapluse logo image"
+  ],
+  "set_id": "0deed071-d89d-420e-b4b4-797dce0ad8f0",
+  "id": "28e2a95a-ff79-4986-9bd6-70c70233cd32",
+  "effective_time": "20260731",
+  "version": "4"
+ }
+}

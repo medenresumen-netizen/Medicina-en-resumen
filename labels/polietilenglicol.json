@@ -1,0 +1,715 @@
+{
+ "id_es": "polietilenglicol",
+ "generic_en": "polyethylene glycol 3350",
+ "search": "openfda.generic_name.exact:\"POLYETHYLENE GLYCOL 3350\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "d69ce3d4-7ca4-4fe3-b49e-6655e48d6963",
+  "id": "51040c1b-71bf-bb83-e063-6294a90aca4e",
+  "effective_time": "20260504",
+  "version": "24",
+  "brand_name": [
+   "MiraLAX"
+  ],
+  "generic_name": [
+   "POLYETHYLENE GLYCOL 3350"
+  ],
+  "manufacturer_name": [
+   "Bayer HealthCare LLC."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "NDA022015"
+  ],
+  "n_sections": 21
+ },
+ "candidates": [
+  {
+   "set_id": "d649f758-a46f-4864-8718-878ee5a74bfc",
+   "id": "ebd2744e-03ff-47d9-aaa3-5e2e484a19a0",
+   "effective_time": "20261105",
+   "version": "4",
+   "brand_name": [
+    "Winco"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "WINCO FOODS"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA202071"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "48488531-5d04-4af6-e063-6294a90afe4b",
+   "id": "5f66b0d3-03b8-eca7-e063-6294a90a56d6",
+   "effective_time": "20261103",
+   "version": "2",
+   "brand_name": [
+    "Polyethylene Glycol 3350"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "YYBA Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA214990"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "2f5c975f-0d35-4f68-a27c-28af9a898733",
+   "id": "5f65d267-1458-49f3-b828-0242f3f50652",
+   "effective_time": "20261013",
+   "version": "5",
+   "brand_name": [
+    "Polyethylene glycol 3350"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA203928"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "ee30489a-8683-4403-8f85-76434242663c",
+   "id": "3b8d47b9-eabb-40f7-aac8-8f67cb474342",
+   "effective_time": "20261013",
+   "version": "10",
+   "brand_name": [
+    "clearlax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Publix Super Markets Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "9858edef-cdb2-4ac4-8e4b-ba0720a24e41",
+   "id": "e50b93c4-a7b8-4ca2-841e-e9bce8b9edce",
+   "effective_time": "20261009",
+   "version": "3",
+   "brand_name": [
+    "good sense clearlax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "L. Perrigo Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "2a3ef673-418e-45d2-b17b-50d28e172333",
+   "id": "2a3ef673-418e-45d2-b17b-50d28e172333",
+   "effective_time": "20260930",
+   "version": "1",
+   "brand_name": [
+    "Polyethylene Glycol 3350"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Aurohealth LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA209017"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "4f2d3ef2-5097-4653-8dab-de5ba1fb9c41",
+   "id": "039bff6d-583b-4516-82b0-c18d4cccf69b",
+   "effective_time": "20260928",
+   "version": "13",
+   "brand_name": [
+    "Good Neighbor Pharmacy ClearLax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Amerisource Bergen"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "bd16827b-5e6a-4fa7-bc2e-c9a05e1e2dab",
+   "id": "d1e06b01-7d1a-4370-850b-9c2ea4fcd01f",
+   "effective_time": "20260928",
+   "version": "12",
+   "brand_name": [
+    "clear lax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "H E B"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "e0871542-9136-4cf8-a4b7-6c2b6edcbe0e",
+   "id": "e5252319-9efc-40a5-864f-ab3f304497e6",
+   "effective_time": "20260928",
+   "version": "12",
+   "brand_name": [
+    "equaline clearlax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "United Natural Foods, Inc. dba UNFI"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "f9eb9023-c83b-49b4-af82-d8344ffa46c3",
+   "id": "a34466ff-3047-4088-9bb5-da3cb0709ae4",
+   "effective_time": "20260928",
+   "version": "10",
+   "brand_name": [
+    "berkley and jensen clearlax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "BJWC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "6aca8ba5-b5ec-4766-ad65-2a80b06f2fdf",
+   "id": "7f80a27a-f861-4830-a09f-761107956056",
+   "effective_time": "20260924",
+   "version": "6",
+   "brand_name": [
+    "Exchange Select ClearLax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Army & Air Force Exchange Service"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "c548c557-a88f-4fcc-a297-fc4219169299",
+   "id": "cff29712-27a2-43c9-bea5-c858831f7746",
+   "effective_time": "20260924",
+   "version": "11",
+   "brand_name": [
+    "care one clearlax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "American Sales Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "e138b8c8-48de-48cd-8baa-2cc148cef62c",
+   "id": "c7938c5a-5794-4952-ad6c-078a2b9a5243",
+   "effective_time": "20260924",
+   "version": "10",
+   "brand_name": [
+    "Polyethylene Glycol 3350"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Padagis Israel Pharmaceuticals Ltd"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "e26457c4-03e8-430e-bfad-38ae105dbf6f",
+   "id": "ce67268f-07e6-4629-8454-2d18beb31d52",
+   "effective_time": "20260924",
+   "version": "5",
+   "brand_name": [
+    "Polyethylene glycol 3350"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA203928"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "812c59b0-e7ce-4c7a-91ed-e74b7b1b84be",
+   "id": "accc6f85-e45f-408b-861d-3f08f958c637",
+   "effective_time": "20260922",
+   "version": "7",
+   "brand_name": [
+    "leader clearlax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 110, LLC. dba Leader"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "9c76c9b3-5203-400b-8f3a-3690bea30924",
+   "id": "103edafc-0a15-4257-9dc4-f1c9938342f1",
+   "effective_time": "20260917",
+   "version": "7",
+   "brand_name": [
+    "rugby PEG 3350"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Rugby Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "9dc3679f-22b3-4f0c-ba06-9ffa875799e7",
+   "id": "4d709cd7-ecb0-45e6-9625-bb9a36459a8e",
+   "effective_time": "20260911",
+   "version": "4",
+   "brand_name": [
+    "Discount Drug Mart"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "DISCOUNT DRUG MART"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA202071"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "bbc11078-73f7-4d27-b0d3-4d4ae5dae240",
+   "id": "41972e0f-61cb-43d5-a74e-f10ee85dcfe8",
+   "effective_time": "20260910",
+   "version": "10",
+   "brand_name": [
+    "Polyethylene Glycol 3350"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "L.N.K. International, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA217505"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "7ed915ec-7e99-4e0e-aca0-20718987a88c",
+   "id": "4c6a3ea3-912d-4562-b68a-a799d4d51c84",
+   "effective_time": "20260908",
+   "version": "4",
+   "brand_name": [
+    "CLEARLAX"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "fc3b6006-a75a-41b3-9f0b-a3152df1363f",
+   "id": "c6dc53e0-c48a-4ced-9ffa-c6e0fcac264d",
+   "effective_time": "20260904",
+   "version": "3",
+   "brand_name": [
+    "purelax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1ccb8604-34f6-4e1e-beed-eb81d6aa7aef",
+   "id": "f54ecac7-e6d8-44bd-87da-8306457e8cd5",
+   "effective_time": "20260903",
+   "version": "7",
+   "brand_name": [
+    "basic care clearlax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "006a9eca-400f-47f5-bee5-facf7034043e",
+   "id": "56426544-544c-4632-b5dd-568d1787f578",
+   "effective_time": "20260902",
+   "version": "16",
+   "brand_name": [
+    "purelax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "c56271ff-703a-40c4-840f-1962798c9e42",
+   "id": "5a7d8101-1c89-68db-e063-6394a90a84e2",
+   "effective_time": "20260902",
+   "version": "5",
+   "brand_name": [
+    "Kroger"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "KROGER COMPANY"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA202071"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0d820dcc-440a-4036-86e9-fdb30cac9573",
+   "id": "0142d3f9-43c5-4f5e-b2eb-9e0c2d71a0a0",
+   "effective_time": "20260901",
+   "version": "13",
+   "brand_name": [
+    "gentle lax"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Kroger Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "bd33463b-eb1a-41ed-92d1-f50d0923eb3b",
+   "id": "48e36bc3-4581-46ac-b364-18ee079f8559",
+   "effective_time": "20260831",
+   "version": "2",
+   "brand_name": [
+    "CLEARLAX"
+   ],
+   "generic_name": [
+    "POLYETHYLENE GLYCOL 3350"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA090685"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each dose) (Bottle Only) Polyethylene Glycol 3350, 17 g (cap filled to line)",
+   "Active ingredient (in each dose) (Packet Only) Polyethylene Glycol 3350, 17 g"
+  ],
+  "purpose": [
+   "Purpose Osmotic Laxative",
+   "Purpose Osmotic Laxative"
+  ],
+  "indications_and_usage": [
+   "Use relieves occasional constipation (irregularity) generally produces a bowel movement in 1 to 3 days"
+  ],
+  "warnings": [
+   "Warnings Allergy alert Do not use if you are allergic to polyethylene glycol Do not use if you have kidney disease, except under the advice and supervision of a doctor Ask a doctor before use if you have nausea, vomiting or abdominal pain a sudden change in bowel habits that lasts over 2 weeks irritable bowel syndrome Ask a doctor of pharmacist before use if you are taking a prescription drug When using this product you may have loose, watery, more frequent stools Stop use and ask a doctor if you have rectal bleeding or you nausea, bloating or cramping or abdominal pain gets worse. These may be signs of a serious condition. you get diarrhea you need to use a laxative for longer than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+   "Do not use if you have kidney disease, except under the advice and supervision of a doctor"
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if you have nausea, vomiting or abdominal pain a sudden change in bowel habits that lasts over 2 weeks irritable bowel syndrome"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor of pharmacist before use if you are taking a prescription drug"
+  ],
+  "when_using": [
+   "When using this product you may have loose, watery, more frequent stools"
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if you have rectal bleeding or you nausea, bloating or cramping or abdominal pain gets worse. These may be signs of a serious condition. you get diarrhea you need to use a laxative for longer than 1 week"
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+   "Directions (Bottle Only) do not take more than directed unless advised by your doctor the bottle top is a measuring cap marked to contain 17 grams of powder when filled to the indicated line (white section in cap) adults and children 17 years of age and older: use once a day fill to top of white section in cap which is marked to indicate the correct dose (17 g) stir and dissolve in any 4 to 8 ounces of beverage (cold, hot or room temperature) then drink do not combine with starch-based thickeners used for difficulty swallowing ensure that the powder is fully dissolved before drinking do not drink if there are any clumps do not use no more than 7 days children 16 years of age or under: ask a doctor",
+   "Directions (Packet Only) do not take more than directed unless advised by your doctor adults and children 17 years of age and older: use once a day stir and dissolve one packet of powder (17 g) in any 4 to 8 ounces of beverage (cold, hot or room temperature) then drink do not combine with starch-based thickeners used for difficulty swallowing ensure that the powder is fully dissolved before drinking do not drink if there are any clumps do not use more than 7 days children 16 years of age or under: ask a doctor"
+  ],
+  "storage_and_handling": [
+   "Other information store at 20°-25°C (68°-77°F) tamper-evident: do not use if foil seal under cap, printed with \"SEALED for YOUR PROTECTION\" is missing, open or broken"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients none"
+  ],
+  "questions": [
+   "Questions or comments? 1-800-MiraLAX (1-800-647-2529)"
+  ],
+  "recent_major_changes": [
+   ""
+  ],
+  "set_id": "d69ce3d4-7ca4-4fe3-b49e-6655e48d6963",
+  "id": "51040c1b-71bf-bb83-e063-6294a90aca4e",
+  "effective_time": "20260504",
+  "version": "24"
+ }
+}

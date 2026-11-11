@@ -1,0 +1,706 @@
+{
+ "id_es": "esomeprazol",
+ "generic_en": "esomeprazole",
+ "search": "openfda.generic_name.exact:\"ESOMEPRAZOLE\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "4c37280d-25b6-ad2f-e063-6394a90a0b9d",
+  "id": "5ce47955-8791-b643-e063-6294a90a995c",
+  "effective_time": "20261002",
+  "version": "3",
+  "brand_name": [
+   "RIOPAN"
+  ],
+  "generic_name": [
+   "ESOMEPRAZOLE"
+  ],
+  "manufacturer_name": [
+   "OPMX LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "ANDA212507"
+  ],
+  "n_sections": 19
+ },
+ "candidates": [
+  {
+   "set_id": "126c269b-260d-40f4-879d-169c09251c67",
+   "id": "ff637eee-2d02-4cca-9192-de113766d969",
+   "effective_time": "20261028",
+   "version": "6",
+   "brand_name": [
+    "esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Meijer Distribution Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "8799c88f-dafb-4be6-b279-a54d916162fe",
+   "id": "6d887803-10a1-4bd6-987e-49669d782ef3",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Meijer, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0d08dd06-8df6-43ff-9033-8eebd215bec1",
+   "id": "dc8248c2-81b2-45d5-b14c-fdcfa32e3e11",
+   "effective_time": "20261008",
+   "version": "4",
+   "brand_name": [
+    "Esomeprazole Magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "H E B"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "4c37280d-25b6-ad2f-e063-6394a90a0b9d",
+   "id": "5ce47955-8791-b643-e063-6294a90a995c",
+   "effective_time": "20261002",
+   "version": "3",
+   "brand_name": [
+    "RIOPAN"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "OPMX LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA212507"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d6a55d37-c53b-4451-859b-4dbe1988eb9d",
+   "id": "9d416c58-216c-4968-998d-b418e904cc04",
+   "effective_time": "20261002",
+   "version": "3",
+   "brand_name": [
+    "esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "90d6a679-2968-4b20-a2a6-f3a9908a7e2e",
+   "id": "e63fa8bc-cfba-4850-bf49-343492b2f405",
+   "effective_time": "20260827",
+   "version": "2",
+   "brand_name": [
+    "Esomeprazole Magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "4ba317eb-e007-4c97-b382-2b7cac0f6845",
+   "id": "9688d181-7842-4957-b438-4f574d943194",
+   "effective_time": "20260813",
+   "version": "2",
+   "brand_name": [
+    "esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "19fa87e4-8225-4969-9857-1bf43db4427b",
+   "id": "ff0d65ca-7ca9-4689-b5f9-1065402c91b2",
+   "effective_time": "20260731",
+   "version": "3",
+   "brand_name": [
+    "Esomeprazole Magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "CVS WOONSOCKET PRESCRIPTION CENTER, INCORPORATED"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "42dd2e93-776c-4f49-b590-afc7dab6ef2f",
+   "id": "0c2ceff8-ed3a-425c-8cd7-22600d26406a",
+   "effective_time": "20260617",
+   "version": "2",
+   "brand_name": [
+    "Basic Care Esomeprazole Magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "f13088de-6841-453e-acb0-08bbdf9529d1",
+   "id": "674a7792-7ba0-4a78-acd3-0dfcde8128d5",
+   "effective_time": "20260520",
+   "version": "3",
+   "brand_name": [
+    "good sense esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "L. Perrigo Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "ce5f2915-327d-4a91-b7fd-e399664a250f",
+   "id": "4adcde28-8101-4dc3-88e6-c78ba95fc746",
+   "effective_time": "20260319",
+   "version": "2",
+   "brand_name": [
+    "EQUATE ESOMEPRAZOLE MAGNESIUM"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "WALMART INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "32933772-c0ef-46ad-84e5-d70218bcc866",
+   "id": "5c410f5e-26ec-470a-93cb-9be23e33e788",
+   "effective_time": "20260307",
+   "version": "3",
+   "brand_name": [
+    "Foster and Thrive Acid Reducer"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Strategic Sourcing Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "87913038-4b90-40a0-bce5-2d368bd5758c",
+   "id": "566fb836-800f-4bbc-baf0-5ae366d06d55",
+   "effective_time": "20260207",
+   "version": "6",
+   "brand_name": [
+    "members mark esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Sam's West Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b0968243-171e-428a-b692-740e0c05a0fc",
+   "id": "320a5a94-ab7d-4d44-9201-b73e7aab50e5",
+   "effective_time": "20260129",
+   "version": "2",
+   "brand_name": [
+    "esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "HyVee Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "2369c948-d46f-4ace-bc51-47477631bc43",
+   "id": "ef5ff944-86d5-487c-86df-e255793a9f52",
+   "effective_time": "20260119",
+   "version": "6",
+   "brand_name": [
+    "berkley and jensen heartburn treatment"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "BJWC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "aaafc536-f846-4019-a629-b52b3f36e682",
+   "id": "d4a545cc-a934-4205-97e0-ceb4550d86d1",
+   "effective_time": "20260119",
+   "version": "4",
+   "brand_name": [
+    "equate esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Wal-Mart Stores Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "3f9a2747-8afd-4898-bbfb-5f379293137e",
+   "id": "96c2b7f1-ae2c-4b41-b58a-183b654a70ff",
+   "effective_time": "20251103",
+   "version": "5",
+   "brand_name": [
+    "careone esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "American Sales Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "60554fd6-96d5-4e73-b676-332116caa800",
+   "id": "dd61324d-e918-43f2-8c65-ddbdf7102fee",
+   "effective_time": "20250929",
+   "version": "5",
+   "brand_name": [
+    "Esomeprazole Magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Publix Super Markets Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "c9472b82-d345-4531-bf07-bd55c94876ab",
+   "id": "70bfe4f8-4dba-4b46-abbd-7ff48928c9d5",
+   "effective_time": "20250423",
+   "version": "3",
+   "brand_name": [
+    "leader esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 110, LLC. dba Leader"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "6f1d75c1-3c0d-41c2-a625-1ee1bf642c32",
+   "id": "49ebfeb6-d3ff-4eca-a18b-6c54d6dae782",
+   "effective_time": "20250111",
+   "version": "7",
+   "brand_name": [
+    "esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d68c9247-91c7-4e0f-adc4-2cfa7446580f",
+   "id": "d68c9247-91c7-4e0f-adc4-2cfa7446580f",
+   "effective_time": "20241130",
+   "version": "1",
+   "brand_name": [
+    "esomeprazole"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Macleods Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208511"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "4a89b4b5-5c42-44ee-98a9-e26a237aaef7",
+   "id": "34b0e9f8-27ec-49a8-a373-2a43ce42861d",
+   "effective_time": "20240827",
+   "version": "5",
+   "brand_name": [
+    "Good Sense Esomeprazole Magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "L. Perrigo Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "2b0e555d-3ed5-4ec4-82a6-855351c503b3",
+   "id": "1c810178-5b0b-4390-bf2e-ee36839b2617",
+   "effective_time": "20240802",
+   "version": "6",
+   "brand_name": [
+    "DG Health Esomeprazole Magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Dolgencorp Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "4a87d5d5-c98b-4dc5-81be-50183342b047",
+   "id": "7eb4e2fc-b372-464a-b0aa-d63d52c6717e",
+   "effective_time": "20240801",
+   "version": "6",
+   "brand_name": [
+    "kirkland signature esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Costco Wholesale Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "717e5d5b-4bf7-415e-b259-44056bc96d8b",
+   "id": "77452ea9-bfd7-426f-9a66-1f5f759b4295",
+   "effective_time": "20240801",
+   "version": "7",
+   "brand_name": [
+    "up and up esomeprazole magnesium"
+   ],
+   "generic_name": [
+    "ESOMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Target Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207193"
+   ],
+   "n_sections": 19
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Drug Facts Active ingredient (in each capsule) Esomeprazole 20 mg (*Each delayed-release capsule corresponds to 22.25 mg esomeprazole magnesium trihydrate USP)."
+  ],
+  "purpose": [
+   "Purpose Acid reducer"
+  ],
+  "indications_and_usage": [
+   "Uses treats frequent heartburn (occurs 2 or more days a week) not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect."
+  ],
+  "warnings": [
+   "Warnings Allergy alert: Do not use if you are allergic to esomeprazole. Esomeprazole may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you have: trouble or pain swallowing food, vomiting with blood, or bloody or black stools heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain. These may be signs of a serious condition. See your doctor. Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. frequent wheezing, particularly with heartburn unexplained weight loss I nausea or vomiting stomach pain Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days you need to take more than 1 course of treatment every 4 months you get diarrhea you develop a rash or joint pain If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+   "Do not use if you have: trouble or pain swallowing food, vomiting with blood, or bloody or black stools heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain. These may be signs of a serious condition. See your doctor."
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. frequent wheezing, particularly with heartburn unexplained weight loss I nausea or vomiting stomach pain"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs."
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days you need to take more than 1 course of treatment every 4 months you get diarrhea you develop a rash or joint pain"
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+   "Directions adults 18 years of age and older this product is to be used once a day (every 24 hours), every day for 14 days may take 1 to 4 days for full effect 14-Day Course of Treatment swallow 1 capsule with a glass of water before eating in the morning take every day for 14 days do not take more than 1 capsule a day swallow whole. Do not crush or chew capsules. do not use for more than 14 days unless directed by a doctor Repeated 14-Day Courses (if needed) you may repeat a 14-day course every 4 months do not take for more than 14 days or more often than every 4 months unless directed by a doctor children under 18 years of age:ask a doctor before use. Heartburn in children may sometimes be caused by a serious condition."
+  ],
+  "other_safety_information": [
+   "Other information read the directions and warnings before use keep the carton. It contains important information. store 20° to 25° C (68° TO 77°F)"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients Black iron oxide, FD&C Blue No.1, FD&C Blue No. 2, gelatin, glyceryl monostearate, hydroxyl propyl cellulose, hypromellose, magnesium stearate, methacrylic acid ethyl acrylate copolymer, potassium hydroxide, polysorbate 80, propylene glycol, shellac, simethicone, sodium lauryl sulfate, strong ammonia solution, sugar spheres (contains sucrose and corn starch), talc, titanium dioxide, triehtyl citrate."
+  ],
+  "questions": [
+   "Questions? Call toll - free weekdays 9 AM to 5 PM PT at 619-600-5236"
+  ],
+  "set_id": "4c37280d-25b6-ad2f-e063-6394a90a0b9d",
+  "id": "5ce47955-8791-b643-e063-6294a90a995c",
+  "effective_time": "20261002",
+  "version": "3"
+ }
+}

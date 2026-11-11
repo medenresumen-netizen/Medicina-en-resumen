@@ -1,0 +1,720 @@
+{
+ "id_es": "vasopresina",
+ "generic_en": "vasopressin",
+ "search": "openfda.generic_name.exact:\"VASOPRESSIN\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "b1147beb-743e-4c62-8927-91192447f8b8",
+  "id": "5686729a-7e3c-48da-9c58-bbdb604c56fb",
+  "effective_time": "20260421",
+  "version": "49",
+  "brand_name": [
+   "Vasostrict"
+  ],
+  "generic_name": [
+   "VASOPRESSIN"
+  ],
+  "manufacturer_name": [
+   "Par Health USA, LLC"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA204485"
+  ],
+  "n_sections": 32
+ },
+ "candidates": [
+  {
+   "set_id": "53372911-5a55-dfac-e063-6394a90ae2f6",
+   "id": "5946e4cc-d507-e28e-e063-6394a90a0feb",
+   "effective_time": "20260817",
+   "version": "4",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213988"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5232a8bc-d7ae-48a5-e063-6294a90a76ca",
+   "id": "57269b0b-eac2-54a5-e063-6394a90a1f73",
+   "effective_time": "20260721",
+   "version": "2",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA212593"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "52324969-4536-2b7c-e063-6394a90a9b4d",
+   "id": "564adf55-3c43-498c-e063-6294a90a5600",
+   "effective_time": "20260710",
+   "version": "2",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA212593"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b1147beb-743e-4c62-8927-91192447f8b8",
+   "id": "5686729a-7e3c-48da-9c58-bbdb604c56fb",
+   "effective_time": "20260421",
+   "version": "49",
+   "brand_name": [
+    "Vasostrict"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204485"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "b97e5c3e-ca28-4ffa-80af-6c5bdbadaf10",
+   "id": "6f434b1d-450a-49bb-af3d-1ec060e153ea",
+   "effective_time": "20260416",
+   "version": "8",
+   "brand_name": [
+    "Vasostrict"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204485"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "386a8e67-1f18-6513-e063-6294a90a5ffe",
+   "id": "463d4d40-b3a7-f2c1-e063-6294a90a6877",
+   "effective_time": "20251218",
+   "version": "3",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "ProPharma Distribution"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214314"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "eadd82d7-e2cb-4144-9f0c-b340f54c6fa4",
+   "id": "5831b6d0-9a37-45fd-858f-5516b32289f1",
+   "effective_time": "20251024",
+   "version": "6",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214314"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "971f9b1c-6094-4f80-920b-cb5d7e62950a",
+   "id": "d8e752a0-dc4e-4262-921f-133a88d89db8",
+   "effective_time": "20250826",
+   "version": "9",
+   "brand_name": [
+    "Vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216963"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "f5f03364-e71c-9bcd-e053-2995a90a8ada",
+   "id": "39ae8951-80f9-e2c7-e063-6294a90a4f43",
+   "effective_time": "20250711",
+   "version": "3",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214314"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "bf4b0b63-0055-40d8-b331-7f9f1ea3214c",
+   "id": "55507afe-de33-407d-bf9d-1b916efa1518",
+   "effective_time": "20250617",
+   "version": "10",
+   "brand_name": [
+    "Vasopressin in 0.9% Sodium Chloride"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Long Grove Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA217766"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "3532868c-ac1d-43c8-e063-6394a90a4fd1",
+   "id": "35328f75-ef53-4566-e063-6394a90a9e72",
+   "effective_time": "20250515",
+   "version": "1",
+   "brand_name": [
+    "vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213988"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "cce1a220-3178-49ec-b046-f0cb134cf051",
+   "id": "5549bf12-c4f9-481d-a8bd-c8c75e439edb",
+   "effective_time": "20250301",
+   "version": "2",
+   "brand_name": [
+    "Vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Civica, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA212593"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "50aef1e8-0a70-466d-93cd-c1b9ed489839",
+   "id": "9fa80e75-4058-47f2-be6f-36d33062abd6",
+   "effective_time": "20250227",
+   "version": "2",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213206"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "04e0c406-6b49-4c0b-abc5-9a1a75532485",
+   "id": "2d123e0c-8440-410e-b3f2-c30769ad72b6",
+   "effective_time": "20250215",
+   "version": "9",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213206"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "ad3ac280-49da-4816-9097-14517d0c0f85",
+   "id": "c264bd5a-2111-48fc-8c43-1bd12d44006b",
+   "effective_time": "20241109",
+   "version": "1",
+   "brand_name": [
+    "Vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216963"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "0ab267f4-9ec9-44fd-8521-f975074667d9",
+   "id": "36148e09-1c3c-4878-a194-8e10291972ff",
+   "effective_time": "20241031",
+   "version": "14",
+   "brand_name": [
+    "Vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "American Regent, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA212593"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "caf04d72-679e-daf9-e86f-4867f83b8ac5",
+   "id": "42257a46-b637-c06d-0d94-b78b7936e753",
+   "effective_time": "20240731",
+   "version": "9",
+   "brand_name": [
+    "vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213988"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "d9869345-b02c-4225-a97b-656f14c86dec",
+   "id": "852dfca1-d3f4-4c85-8140-1b74e464ec0c",
+   "effective_time": "20240707",
+   "version": "13",
+   "brand_name": [
+    "vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212944"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "85e3dc1e-98ae-4c4c-8af9-237375475e08",
+   "id": "85e3dc1e-98ae-4c4c-8af9-237375475e08",
+   "effective_time": "20231107",
+   "version": "1",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214314"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "0933a550-03f1-0937-e063-6394a90a1e89",
+   "id": "09337389-136a-2a2e-e063-6294a90a5245",
+   "effective_time": "20231102",
+   "version": "1",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214314"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "6672a5c9-bcfd-d7fc-e053-2991aa0aef88",
+   "id": "fd1a231f-3406-51ef-e053-6394a90abf4e",
+   "effective_time": "20230601",
+   "version": "3",
+   "brand_name": [
+    "Vasostrict"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasin Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204485"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "d162d386-105d-e916-e053-2995a90a350c",
+   "id": "facc32bf-5a56-24d8-e053-6394a90a080f",
+   "effective_time": "20230503",
+   "version": "2",
+   "brand_name": [
+    "Vasostrict"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204485"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "4e6c737d-65e8-4af4-b301-69a93affbc7f",
+   "id": "93e40d97-9476-44dc-80dc-4c9d33062d63",
+   "effective_time": "20220822",
+   "version": "2",
+   "brand_name": [
+    "Vasopressin"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "Amphastar Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211857"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "7ae1c8c9-7d75-55a8-e053-2991aa0af05b",
+   "id": "cfc4383a-4c3c-69a0-e053-2a95a90a268a",
+   "effective_time": "20211101",
+   "version": "6",
+   "brand_name": [
+    "VASOPRESSIN"
+   ],
+   "generic_name": [
+    "VASOPRESSIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204485"
+   ],
+   "n_sections": 19
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   ""
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Vasostrict ® is indicated to increase blood pressure in adults with vasodilatory shock who remain hypotensive despite fluids and catecholamines. Vasostrict ® is indicated to increase blood pressure in adults with vasodilatory shock who remain hypotensive despite fluids and catecholamines. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Dilute 20 units/mL single dose vial or 200 units/10 mL (20 units/mL) multiple dose vial contents with normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) to either 0.1 units/mL or 1 unit/mL for intravenous administration. Discard unused diluted solution after 18 hours at room temperature or 24 hours under refrigeration. ( 2.1 ) The 20 units/100 mL, 40 units/100 mL, 60 units/100 mL and 50 units/50 mL single dose vials do not require further dilution prior to administration. ( 2.1 ) Post-cardiotomy shock: 0.03 to 0.1 units/minute ( 2.2 ) Septic shock: 0.01 to 0.07 units/minute ( 2.2 ) 2.1 Preparation of Solution Inspect parenteral drug products for particulate matter and discoloration prior to use, whenever solution and container permit. Vasostrict ® Solution for Dilution, 20 units/mL and 200 units/10 mL (20 units/mL) Dilute Vasostrict ® in normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) prior to use for intravenous administration. Discard unused diluted solution after 18 hours at room temperature or 24 hours under refrigeration. Table 1 Preparation of diluted solutions Fluid restriction? Final concentration Mix Vasostrict ® Diluent No 0.1 units/mL 2.5 mL (50 units) 500 mL Yes 1 unit/mL 5 mL (100 units) 100 mL Vasostrict ® Premixed Solution, 20 units/100 mL (0.2 units/mL), 40 units/100 mL (0.4 units/mL), 60 units/100 mL (0.6 units/mL) and 50 units/50 mL (1 unit/mL) This product does not require further dilution prior to administration. 2.2 Administration In general, titrate to the lowest dose compatible with a clinically acceptable response. The recommended starting dose is: Post-cardiotomy shock: 0.03 units/minute Septic Shock: 0.01 units/minute Titrate up by 0.005 units/minute at 10- to 15-minute intervals until the target blood pressure is reached. There are limited data for doses above 0.1 units/minute for post-cardiotomy shock and 0.07 units/minute for septic shock. Adverse reactions are expected to increase with higher doses. After target blood pressure has been maintained for 8 hours without the use of catecholamines, taper vasopressin injection by 0.005 units/minute every hour as tolerated to maintain target blood pressure."
+  ],
+  "dosage_and_administration_table": [
+   "<table><caption>Table 1 Preparation of diluted solutions</caption><col width=\"1px\"/><col/><col width=\"1px\"/><col/><thead><tr><th align=\"center\" valign=\"top\" styleCode=\" Toprule Lrule Rrule\" rowspan=\"2\">Fluid restriction?</th><th align=\"center\" valign=\"top\" styleCode=\" Toprule Lrule Rrule\" rowspan=\"2\">Final concentration</th><th align=\"center\" valign=\"top\" styleCode=\" Botrule Toprule Rrule\" colspan=\"2\">Mix</th></tr><tr><th align=\"center\" valign=\"top\" styleCode=\" Botrule Lrule Rrule\">Vasostrict<sup>&#xAE;</sup></th><th align=\"center\" valign=\"top\" styleCode=\" Botrule Rrule\">Diluent</th></tr></thead><tbody><tr><td valign=\"top\" styleCode=\" Botrule Toprule Lrule Rrule\"> <paragraph>No</paragraph></td><td valign=\"top\" styleCode=\" Botrule Toprule Rrule\"> <paragraph>0.1 units/mL</paragraph></td><td valign=\"top\" styleCode=\" Botrule Toprule Rrule\"> <paragraph>2.5 mL (50 units)</paragraph></td><td valign=\"top\" styleCode=\" Botrule Toprule Rrule\"> <paragraph>500 mL</paragraph></td></tr><tr><td valign=\"top\" styleCode=\" Botrule Lrule Rrule\"> <paragraph>Yes</paragraph></td><td valign=\"top\" styleCode=\" Botrule Rrule\"> <paragraph>1 unit/mL</paragraph></td><td valign=\"top\" styleCode=\" Botrule Rrule\"> <paragraph>5 mL (100 units)</paragraph></td><td valign=\"top\" styleCode=\" Botrule Rrule\"> <paragraph>100 mL</paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection: vasopressin injection, USP is a clear, practically colorless solution available as: 20 units/mL in a single dose vial. To be used after dilution. 200 units/10 mL (20 units/mL) in a multiple dose vial. To be used after dilution. 20 units/100 mL (0.2 units/mL) premixed in dextrose in a single dose vial. Ready to use. 40 units/100 mL (0.4 units/mL) premixed in dextrose in a single dose vial. Ready to use. 60 units/100 mL (0.6 units/mL) premixed in dextrose in a single dose vial. Ready to use. 50 units/50 mL (1 unit/mL) premixed in dextrose in a single dose vial. Ready to use. Injection: 20 units/mL in a single dose vial. To be used after dilution. 200 units/10 mL (20 units/mL) in a multiple dose vial. To be used after dilution. 20 units/100 mL (0.2 units/mL) premixed in dextrose in a single dose vial. Ready to use. 40 units/100 mL (0.4 units/mL) premixed in dextrose in a single dose vial. Ready to use. 60 units/100 mL (0.6 units/mL) premixed in dextrose in a single dose vial. Ready to use. 50 units/50 mL (1 unit/mL) premixed in dextrose in a single dose vial. Ready to use."
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Vasostrict ® 10 mL multiple dose vial is contraindicated in patients with known allergy or hypersensitivity to 8‑L-arginine vasopressin or chlorobutanol. The 1 mL single dose vial, 50 mL and 100 mL pre-mixed single dose vial does not contain chlorobutanol and is therefore contraindicated only in patients with a known allergy or hypersensitivity to 8-L-arginine vasopressin. Vasostrict ® 10 mL multiple dose vial is contraindicated in patients with known allergy or hypersensitivity to 8‑L-arginine vasopressin or chlorobutanol. The 1 mL single dose vial, 50 mL and 100 mL pre-mixed single dose vial does not contain chlorobutanol and is therefore contraindicated only in patients with a known allergy or hypersensitivity to 8-L-arginine vasopressin. (4)"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Can worsen cardiac function. ( 5.1 ) Reversible diabetes insipidus ( 5.2 ) 5.1 Worsening Cardiac Function A decrease in cardiac index may be observed with the use of vasopressin. 5.2 Reversible Diabetes Insipidus Patients may experience reversible diabetes insipidus, manifested by the development of polyuria, a dilute urine, and hypernatremia, after cessation of treatment with vasopressin. Monitor serum electrolytes, fluid status and urine output after vasopressin discontinuation. Some patients may require readministration of vasopressin or administration of desmopressin to correct fluid and electrolyte shifts."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions associated with the use of vasopressin were identified in the literature. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency reliably or to establish a causal relationship to drug exposure. Bleeding/lymphatic system disorders: Hemorrhagic shock, decreased platelets, intractable bleeding Cardiac disorders: Right heart failure, atrial fibrillation, bradycardia, myocardial ischemia Gastrointestinal disorders: Mesenteric ischemia Hepatobiliary: Increased bilirubin levels Renal/urinary disorders: Acute renal insufficiency Vascular disorders: Distal limb ischemia Metabolic: Hyponatremia Skin: Ischemic lesions Postmarketing Experience Reversible diabetes insipidus [see Warnings and Precautions (5.2) ] The most common adverse reactions include decreased cardiac output, bradycardia, tachyarrhythmias, hyponatremia and ischemia (coronary, mesenteric, skin, digital). ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Par Health at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Pressor effects of catecholamines and Vasostrict ® are expected to be additive. ( 7.1 ) Indomethacin may prolong effects of Vasostrict ® . ( 7.2 ) Co-administration of ganglionic blockers or drugs causing SIADH may increase the pressor response. ( 7.3 , 7.4 ) Co-administration of drugs causing diabetes insipidus may decrease the pressor response. ( 7.5 ) 7.1 Catecholamines Use with catecholamines is expected to result in an additive effect on mean arterial blood pressure and other hemodynamic parameters. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed. 7.2 Indomethacin Use with indomethacin may prolong the effect of Vasostrict ® on cardiac index and systemic vascular resistance. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed [see Clinical Pharmacology (12.3) ]. 7.3 Ganglionic Blocking Agents Use with ganglionic blocking agents may increase the effect of Vasostrict ® on mean arterial blood pressure. Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed [see Clinical Pharmacology (12.3) ]. 7.4 Drugs Suspected of Causing SIADH Use with drugs suspected of causing SIADH (e.g., SSRIs, tricyclic antidepressants, haloperidol, chlorpropamide, enalapril, methyldopa, pentamidine, vincristine, cyclophosphamide, ifosfamide, felbamate) may increase the pressor effect in addition to the antidiuretic effect of Vasostrict ® . Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed. 7.5 Drugs Suspected of Causing Diabetes Insipidus Use with drugs suspected of causing diabetes insipidus (e.g., demeclocycline, lithium, foscarnet, clozapine) may decrease the pressor effect in addition to the antidiuretic effect of Vasostrict ® . Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pregnancy: May induce uterine contractions. ( 8.1 ) Pediatric Use: Safety and effectiveness have not been established. ( 8.4 ) Geriatric Use: No safety issues have been identified in older patients. ( 8.5 ) 8.1 Pregnancy Risk Summary There are no available data on Vasostrict ® use in pregnant women to inform a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Animal reproduction studies have not been conducted with vasopressin . Clinical Considerations Dose adjustments during pregnancy and the postpartum period: Because of increased clearance of vasopressin in the second and third trimester, the dose of Vasostrict ® may need to be increased [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3) ] . Maternal adverse reactions: Vasostrict ® may produce tonic uterine contractions that could threaten the continuation of pregnancy. 8.2 Lactation There are no data on the presence of vasopressin injection in either human or animal milk, the effects on the breastfed infant, or the effects on milk production. 8.4 Pediatric Use Safety and effectiveness of Vasostrict ® in pediatric patients with vasodilatory shock have not been established. 8.5 Geriatric Use Clinical studies of vasopressin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Warnings and Precautions (5) , Adverse Reactions (6) , and Clinical Pharmacology (12.3) ] ."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no available data on Vasostrict ® use in pregnant women to inform a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Animal reproduction studies have not been conducted with vasopressin . Clinical Considerations Dose adjustments during pregnancy and the postpartum period: Because of increased clearance of vasopressin in the second and third trimester, the dose of Vasostrict ® may need to be increased [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3) ] . Maternal adverse reactions: Vasostrict ® may produce tonic uterine contractions that could threaten the continuation of pregnancy."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness of Vasostrict ® in pediatric patients with vasodilatory shock have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of vasopressin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Warnings and Precautions (5) , Adverse Reactions (6) , and Clinical Pharmacology (12.3) ] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdosage with Vasostrict ® can be expected to manifest as consequences of vasoconstriction of various vascular beds (peripheral, mesenteric, and coronary) and as hyponatremia. In addition, overdosage may lead less commonly to ventricular tachyarrhythmias (including Torsade de Pointes), rhabdomyolysis, and non-specific gastrointestinal symptoms. Direct effects will resolve within minutes of withdrawal of treatment."
+  ],
+  "description": [
+   "11 DESCRIPTION Vasopressin is a polypeptide hormone. Vasostrict ® is a sterile, aqueous solution of synthetic arginine vasopressin for intravenous administration. The 1 mL solution contains vasopressin 20 units/mL, 1.36 mg sodium acetate buffer and Water for Injection, USP. The 10 mL solution contains vasopressin 20 units/mL, 1.36 mg sodium acetate buffer, chlorobutanol, NF 0.5% as a preservative and Water for Injection, USP. Sodium hydroxide and hydrochloric acid are included to adjust to a pH of 3.8. The 50 mL solution contains vasopressin 1 unit/mL. Each mL of the 1 unit/mL strength also contains dextrose anhydrous, 0.0546 mg acetic acid, 0.012 mg sodium acetate and Water for Injection, USP. Sodium hydroxide and hydrochloric acid are included to adjust to a pH of 3.8. The 100 mL solution contains vasopressin 0.2 units/mL, 0.4 units/mL, or 0.6 units/mL. Each mL of the 0.2 unit/mL strength also contains dextrose anhydrous, 0.0546 mg acetic acid, 0.012 mg sodium acetate and Water for Injection, USP. Each mL of the 0.4 unit/mL strength also contains dextrose anhydrous, 0.0546 mg acetic acid, 0.012 mg sodium acetate and Water for Injection, USP. Each mL of the 0.6 unit/mL strength also contains dextrose anhydrous, 0.0546 mg acetic acid, 0.012 mg sodium acetate and Water for Injection, USP. Sodium hydroxide and hydrochloric acid are included to adjust to a pH of 3.8. Each vial of the Vasostrict ® premixed solutions contains 5% Dextrose in approximately 100 mL Water for Injection. The chemical name of vasopressin is Cyclo (1-6) L-Cysteinyl-L-Tyrosyl-L-Phenylalanyl-L-Glutaminyl-L-Asparaginyl-L-Cysteinyl-L-Prolyl-L-Arginyl-L-Glycinamide. It is a white to off-white amorphous powder, freely soluble in water. The structural formula is: Molecular Formula: C 46 H 65 N 15 O 12 S 2 Molecular Weight: 1084.23 One mg is equivalent to 530 units. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Vasopressin causes vasoconstriction by binding to V 1 receptors on vascular smooth muscle coupled to the Gq/11-phospholipase C-phosphatidyl-inositol-triphosphate pathway, resulting in the release of intracellular calcium. In addition, vasopressin stimulates antidiuresis via stimulation of V 2 receptors which are coupled to adenyl cyclase. 12.2 Pharmacodynamics At therapeutic doses exogenous vasopressin elicits a vasoconstrictive effect in most vascular beds including the splanchnic, renal and cutaneous circulation. In addition, vasopressin at pressor doses triggers contractions of smooth muscles in the gastrointestinal tract mediated by muscular V 1 -receptors and release of prolactin and ACTH via V 3 receptors. At lower concentrations typical for the antidiuretic hormone vasopressin inhibits water diuresis via renal V 2 receptors. In addition, vasopressin has been demonstrated to cause vasodilation in numerous vascular beds that are mediated by V 2 , V 3 , oxytocin and purinergic P2 receptors. In patients with vasodilatory shock vasopressin in therapeutic doses increases systemic vascular resistance and mean arterial blood pressure and reduces the dose requirements for norepinephrine. Vasopressin tends to decrease heart rate and cardiac output. The pressor effect is proportional to the infusion rate of exogenous vasopressin. The pressor effect reaches its peak within 15 minutes. After stopping the infusion the pressor effect fades within 20 minutes. There is no evidence for tachyphylaxis or tolerance to the pressor effect of vasopressin in patients. 12.3 Pharmacokinetics Vasopressin plasma concentrations increase linearly with increasing infusion rates from 10 to 200 μU/kg/min. Steady state plasma concentrations are achieved after 30 minutes of continuous intravenous infusion. Distribution Vasopressin does not appear to bind plasma protein. The volume of distribution is 140 mL/kg. Elimination At infusion rates used in vasodilatory shock (0.01 to 0.1 units/minute), the clearance of vasopressin is 9 to 25 mL/min/kg in patients with vasodilatory shock. The apparent t 1/2 of vasopressin at these levels is ≤10 minutes. Metabolism Serine protease, carboxipeptidase and disulfide oxido-reductase cleave vasopressin at sites relevant for the pharmacological activity of the hormone. Thus, the generated metabolites are not expected to retain important pharmacological activity. Excretion Vasopressin is predominantly metabolized and only about 6% of the dose is excreted unchanged into urine. Specific Populations Pregnancy: Because of a spillover into blood of placental vasopressinase, the clearance of exogenous and endogenous vasopressin increases gradually over the course of a pregnancy. During the first trimester of pregnancy, the clearance is only slightly increased. However, by the third trimester the clearance of vasopressin is increased about 4-fold and at term up to 5-fold. After delivery, the clearance of vasopressin returns to preconception baseline within two weeks. Drug Interactions Indomethacin more than doubles the time to offset for vasopressin’s effect on peripheral vascular resistance and cardiac output in healthy subjects [ see Drug Interactions (7.2) ] . The ganglionic blocking agent tetra-ethylammonium increases the pressor effect of vasopressin by 20% in healthy subjects [ see Drug Interactions (7.3) ] . Halothane, morphine, fentanyl, alfentanyl and sufentanyl do not impact exposure to endogenous vasopressin."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Vasopressin causes vasoconstriction by binding to V 1 receptors on vascular smooth muscle coupled to the Gq/11-phospholipase C-phosphatidyl-inositol-triphosphate pathway, resulting in the release of intracellular calcium. In addition, vasopressin stimulates antidiuresis via stimulation of V 2 receptors which are coupled to adenyl cyclase."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics At therapeutic doses exogenous vasopressin elicits a vasoconstrictive effect in most vascular beds including the splanchnic, renal and cutaneous circulation. In addition, vasopressin at pressor doses triggers contractions of smooth muscles in the gastrointestinal tract mediated by muscular V 1 -receptors and release of prolactin and ACTH via V 3 receptors. At lower concentrations typical for the antidiuretic hormone vasopressin inhibits water diuresis via renal V 2 receptors. In addition, vasopressin has been demonstrated to cause vasodilation in numerous vascular beds that are mediated by V 2 , V 3 , oxytocin and purinergic P2 receptors. In patients with vasodilatory shock vasopressin in therapeutic doses increases systemic vascular resistance and mean arterial blood pressure and reduces the dose requirements for norepinephrine. Vasopressin tends to decrease heart rate and cardiac output. The pressor effect is proportional to the infusion rate of exogenous vasopressin. The pressor effect reaches its peak within 15 minutes. After stopping the infusion the pressor effect fades within 20 minutes. There is no evidence for tachyphylaxis or tolerance to the pressor effect of vasopressin in patients."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Vasopressin plasma concentrations increase linearly with increasing infusion rates from 10 to 200 μU/kg/min. Steady state plasma concentrations are achieved after 30 minutes of continuous intravenous infusion. Distribution Vasopressin does not appear to bind plasma protein. The volume of distribution is 140 mL/kg. Elimination At infusion rates used in vasodilatory shock (0.01 to 0.1 units/minute), the clearance of vasopressin is 9 to 25 mL/min/kg in patients with vasodilatory shock. The apparent t 1/2 of vasopressin at these levels is ≤10 minutes. Metabolism Serine protease, carboxipeptidase and disulfide oxido-reductase cleave vasopressin at sites relevant for the pharmacological activity of the hormone. Thus, the generated metabolites are not expected to retain important pharmacological activity. Excretion Vasopressin is predominantly metabolized and only about 6% of the dose is excreted unchanged into urine. Specific Populations Pregnancy: Because of a spillover into blood of placental vasopressinase, the clearance of exogenous and endogenous vasopressin increases gradually over the course of a pregnancy. During the first trimester of pregnancy, the clearance is only slightly increased. However, by the third trimester the clearance of vasopressin is increased about 4-fold and at term up to 5-fold. After delivery, the clearance of vasopressin returns to preconception baseline within two weeks. Drug Interactions Indomethacin more than doubles the time to offset for vasopressin’s effect on peripheral vascular resistance and cardiac output in healthy subjects [ see Drug Interactions (7.2) ] . The ganglionic blocking agent tetra-ethylammonium increases the pressor effect of vasopressin by 20% in healthy subjects [ see Drug Interactions (7.3) ] . Halothane, morphine, fentanyl, alfentanyl and sufentanyl do not impact exposure to endogenous vasopressin."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No formal carcinogenicity or fertility studies with vasopressin have been conducted in animals. Vasopressin was found to be negative in the in vitro bacterial mutagenicity (Ames) test and the in vitro Chinese hamster ovary (CHO) cell chromosome aberration test. In mice, vasopressin has been reported to have an effect on function and fertilizing ability of spermatozoa. 13.2 Animal Toxicology and/or Pharmacology No toxicology studies were conducted with vasopressin."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No formal carcinogenicity or fertility studies with vasopressin have been conducted in animals. Vasopressin was found to be negative in the in vitro bacterial mutagenicity (Ames) test and the in vitro Chinese hamster ovary (CHO) cell chromosome aberration test. In mice, vasopressin has been reported to have an effect on function and fertilizing ability of spermatozoa."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology No toxicology studies were conducted with vasopressin."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES Increases in systolic and mean blood pressure following administration of vasopressin were observed in 7 studies in septic shock and 8 in post-cardiotomy vasodilatory shock."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Vasostrict ® (vasopressin injection, USP) is a clear, practically colorless solution for intravenous administration available as: NDC 42023-164-10: A carton of 10 single dose vials. Each vial contains vasopressin 1 mL at 20 units/mL. NDC 42023-164-25: A carton of 25 single dose vials. Each vial contains vasopressin 1 mL at 20 units/mL. NDC 42023-190-01: A carton of 1 multiple dose vial. Each vial contains vasopressin 10 mL at 200 units/10 mL (20 units/mL). NDC 42023-219-10: A carton of 10 single dose vials. Each vial contains vasopressin premixed in dextrose 100 mL at 40 units/100 mL (0.4 units/mL). NDC 42023-220-10: A carton of 10 single dose vials. Each vial contains vasopressin premixed in dextrose 100 mL at 60 units/100 mL (0.6 units/mL). NDC 42023-237-10: A carton of 10 single dose vials. Each vial contains vasopressin premixed in dextrose 100 mL at 20 units/100 mL (0.2 units/mL). NDC 42023-268-10: A carton of 10 single dose vials. Each vial contains vasopressin premixed in dextrose 50 mL at 50 units/50 mL (1 unit/mL). Store between 2°C and 8°C (36°F and 46°F). Do not freeze. Vials may be held up to 12 months upon removal from refrigeration to room temperature storage conditions (20°C to 25°C [68°F to 77°F], USP Controlled Room Temperature), anytime within the labeled shelf life. Once removed from refrigeration, unopened vial should be marked to indicate the revised 12 month expiration date. If the manufacturer’s original expiration date is shorter than the revised expiration date, then the shorter date must be used. Do not use Vasostrict ® beyond the manufacturer’s expiration date stamped on the vial. After initial entry into the 10 mL vial, the remaining contents must be refrigerated. Discard the refrigerated 10 mL vial after 30 days after first puncture. The storage conditions and expiration periods are summarized in the following table. Unopened Refrigerated 2°C to 8°C (36°F to 46°F) Unopened Room Temperature 20°C to 25°C (68°F to 77°F) Do not store above 25°C (77°F) Opened (After First Puncture) 1 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier N/A 10 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier 30 days 50 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier N/A 100 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier N/A"
+  ],
+  "how_supplied_table": [
+   "<table width=\"863.991px\"><col width=\"12%\"/><col width=\"25%\"/><col width=\"39%\"/><col width=\"39%\"/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"> </td><td align=\"center\" valign=\"top\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Unopened Refrigerated</paragraph><paragraph>2&#xB0;C to 8&#xB0;C (36&#xB0;F to 46&#xB0;F)</paragraph></td><td align=\"center\" valign=\"top\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Unopened Room Temperature</paragraph><paragraph>20&#xB0;C to 25&#xB0;C (68&#xB0;F to 77&#xB0;F)</paragraph><paragraph>Do not store above 25&#xB0;C (77&#xB0;F)</paragraph></td><td align=\"center\" valign=\"top\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph> Opened (After First Puncture)</paragraph></td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 mL Vial</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Until manufacturer expiration date</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>12 months or until manufacturer expiration date, whichever is earlier</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>N/A</paragraph></td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph> 10 mL Vial</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Until manufacturer expiration date</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>12 months or until manufacturer expiration date, whichever is earlier</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>30 days</paragraph></td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\">50 mL Vial </td><td styleCode=\" Botrule Toprule Lrule Rrule\"> Until manufacturer expiration date</td><td styleCode=\" Botrule Toprule Lrule Rrule\">12 months or until manufacturer expiration date, whichever is earlier</td><td styleCode=\" Botrule Toprule Lrule Rrule\"> N/A</td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"> 100 mL Vial</td><td styleCode=\" Botrule Toprule Lrule Rrule\">Until manufacturer expiration date</td><td styleCode=\" Botrule Toprule Lrule Rrule\">12 months or until manufacturer expiration date, whichever is earlier</td><td styleCode=\" Botrule Toprule Lrule Rrule\">N/A</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Store between 2°C and 8°C (36°F and 46°F). Do not freeze. Vials may be held up to 12 months upon removal from refrigeration to room temperature storage conditions (20°C to 25°C [68°F to 77°F], USP Controlled Room Temperature), anytime within the labeled shelf life. Once removed from refrigeration, unopened vial should be marked to indicate the revised 12 month expiration date. If the manufacturer’s original expiration date is shorter than the revised expiration date, then the shorter date must be used. Do not use Vasostrict ® beyond the manufacturer’s expiration date stamped on the vial. After initial entry into the 10 mL vial, the remaining contents must be refrigerated. Discard the refrigerated 10 mL vial after 30 days after first puncture. The storage conditions and expiration periods are summarized in the following table. Unopened Refrigerated 2°C to 8°C (36°F to 46°F) Unopened Room Temperature 20°C to 25°C (68°F to 77°F) Do not store above 25°C (77°F) Opened (After First Puncture) 1 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier N/A 10 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier 30 days 50 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier N/A 100 mL Vial Until manufacturer expiration date 12 months or until manufacturer expiration date, whichever is earlier N/A"
+  ],
+  "storage_and_handling_table": [
+   "<table width=\"863.991px\"><col width=\"12%\"/><col width=\"25%\"/><col width=\"39%\"/><col width=\"39%\"/><tbody><tr><td styleCode=\" Botrule Toprule Lrule Rrule\"> </td><td align=\"center\" valign=\"top\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Unopened Refrigerated</paragraph><paragraph>2&#xB0;C to 8&#xB0;C (36&#xB0;F to 46&#xB0;F)</paragraph></td><td align=\"center\" valign=\"top\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Unopened Room Temperature</paragraph><paragraph>20&#xB0;C to 25&#xB0;C (68&#xB0;F to 77&#xB0;F)</paragraph><paragraph>Do not store above 25&#xB0;C (77&#xB0;F)</paragraph></td><td align=\"center\" valign=\"top\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph> Opened (After First Puncture)</paragraph></td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>1 mL Vial</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Until manufacturer expiration date</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>12 months or until manufacturer expiration date, whichever is earlier</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>N/A</paragraph></td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph> 10 mL Vial</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>Until manufacturer expiration date</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>12 months or until manufacturer expiration date, whichever is earlier</paragraph></td><td styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph>30 days</paragraph></td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\">50 mL Vial </td><td styleCode=\" Botrule Toprule Lrule Rrule\"> Until manufacturer expiration date</td><td styleCode=\" Botrule Toprule Lrule Rrule\">12 months or until manufacturer expiration date, whichever is earlier</td><td styleCode=\" Botrule Toprule Lrule Rrule\"> N/A</td></tr><tr><td align=\"center\" styleCode=\" Botrule Toprule Lrule Rrule\"> 100 mL Vial</td><td styleCode=\" Botrule Toprule Lrule Rrule\">Until manufacturer expiration date</td><td styleCode=\" Botrule Toprule Lrule Rrule\">12 months or until manufacturer expiration date, whichever is earlier</td><td styleCode=\" Botrule Toprule Lrule Rrule\">N/A</td></tr></tbody></table>"
+  ],
+  "set_id": "b1147beb-743e-4c62-8927-91192447f8b8",
+  "id": "5686729a-7e3c-48da-9c58-bbdb604c56fb",
+  "effective_time": "20260421",
+  "version": "49"
+ }
+}

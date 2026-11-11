@@ -1,0 +1,706 @@
+{
+ "id_es": "omeprazol",
+ "generic_en": "omeprazole",
+ "search": "openfda.generic_name.exact:\"OMEPRAZOLE\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "1729c60d-3475-45cd-b192-f88438403d1a",
+  "id": "64916be2-9c0a-4eeb-8d44-7e16b1faa8e9",
+  "effective_time": "20260910",
+  "version": "3",
+  "brand_name": [
+   "berkley and jensen omeprazole"
+  ],
+  "generic_name": [
+   "OMEPRAZOLE"
+  ],
+  "manufacturer_name": [
+   "BJWC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "NDA209400"
+  ],
+  "n_sections": 19
+ },
+ "candidates": [
+  {
+   "set_id": "346141b5-b49d-489a-84eb-18df8b940460",
+   "id": "5eb7be96-b7cf-5f8a-e063-6394a90a62b7",
+   "effective_time": "20261026",
+   "version": "3",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Twin Med LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207891"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "35a95bec-51b9-465b-aa93-ad26afb87be8",
+   "id": "5d3ff619-03ea-61ec-e063-6394a90a19bc",
+   "effective_time": "20260930",
+   "version": "9",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "OHM LABORATORIES INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207891"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "287ceb12-e4d8-43c7-8cec-c4d23aa8fb12",
+   "id": "d6f7f450-2dfc-43bb-baac-6ff50a48dc55",
+   "effective_time": "20260921",
+   "version": "6",
+   "brand_name": [
+    "Acid Reducer"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Aurohealth LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206877"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "1729c60d-3475-45cd-b192-f88438403d1a",
+   "id": "64916be2-9c0a-4eeb-8d44-7e16b1faa8e9",
+   "effective_time": "20260910",
+   "version": "3",
+   "brand_name": [
+    "berkley and jensen omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "BJWC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "NDA209400"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "10efef7c-bdf4-36cf-e063-6394a90a8c0f",
+   "id": "cb706e6b-615c-4b2a-b148-2f207c95ec8d",
+   "effective_time": "20260828",
+   "version": "3",
+   "brand_name": [
+    "AMAZON BASIC CARE OMEPRAZOLE"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206877"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0e7c4aee-2c9f-4d5c-9d47-c333bf00ba9f",
+   "id": "e838a28b-a3ad-42dd-b755-d3bdd7534e2d",
+   "effective_time": "20260819",
+   "version": "3",
+   "brand_name": [
+    "good now omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Gobrands, Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "NDA022032"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "062800b1-790a-41c3-a8be-94143d2c7fb6",
+   "id": "062800b1-790a-41c3-a8be-94143d2c7fb6",
+   "effective_time": "20260801",
+   "version": "1",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078490"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "0344268f-d8e6-48d5-b1e1-f750ed1d8a52",
+   "id": "56d11df3-a35b-e577-e063-6394a90a9464",
+   "effective_time": "20260717",
+   "version": "35",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078490"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "1eb57c13-25ed-70bc-e063-6294a90afdac",
+   "id": "55008f08-bf88-2b54-e063-6394a90aed9c",
+   "effective_time": "20260610",
+   "version": "3",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075576"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "448ba584-6a6e-3d85-e063-6294a90a5579",
+   "id": "50962214-2053-1974-e063-6394a90a0fc0",
+   "effective_time": "20260429",
+   "version": "2",
+   "brand_name": [
+    "Omeprazole Delayed-Release"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "H-E-B"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA218829"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "319d990e-161b-4c16-b026-f55c413c7e8f",
+   "id": "319d990e-161b-4c16-b026-f55c413c7e8f",
+   "effective_time": "20260421",
+   "version": "1",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Phharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203270"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "0521c51b-d113-7e35-f1a6-c4495a2bcfcc",
+   "id": "0c214fe9-7d95-39e0-0526-2d257f47695e",
+   "effective_time": "20260417",
+   "version": "3",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "AMERISOURCEBERGEN DRUG CORPORATION"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207740"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "47c41c68-cb20-40f0-9d85-ea8db3328478",
+   "id": "d9659b73-1336-4777-8ce9-926b851e1616",
+   "effective_time": "20260306",
+   "version": "2",
+   "brand_name": [
+    "omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Meijer, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA216096"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "40a75dc7-49b7-5c9d-6c5f-d4682ec6922e",
+   "id": "fe36a9a7-13d0-f4f1-1e31-b35cf651b79d",
+   "effective_time": "20260302",
+   "version": "6",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078490"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "33990795-e994-4307-a570-9e8e8b44c473",
+   "id": "6616864c-9739-4e69-86a1-29c07441f9ba",
+   "effective_time": "20260204",
+   "version": "5",
+   "brand_name": [
+    "Acid Reducer"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Rugby Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206877"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "288bdd5e-a0ac-4c5c-abe0-93183a28dcdd",
+   "id": "c3183e18-e844-49e6-8546-270232604cbf",
+   "effective_time": "20260120",
+   "version": "2",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078490"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "2782b98b-50e4-4a4e-8626-d34ebfd71bfb",
+   "id": "5c220251-3504-4c65-a385-85920515c499",
+   "effective_time": "20260114",
+   "version": "1",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "WinCo Foods, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206582"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "10a3fbc9-00c6-ad83-e063-6294a90ae1ad",
+   "id": "47a7a66e-084e-6ab3-e063-6394a90a9406",
+   "effective_time": "20260105",
+   "version": "4",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203270"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "4720cc17-013e-074e-e063-6294a90ac1f4",
+   "id": "4720cc17-013f-074e-e063-6294a90ac1f4",
+   "effective_time": "20251229",
+   "version": "2",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078490"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "2fd1acb8-12dc-70b7-e063-6394a90a0399",
+   "id": "46c31df9-7e4a-a125-e063-6294a90a6d30",
+   "effective_time": "20251225",
+   "version": "3",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078490"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "10f5502a-2e63-4f2a-a3ba-ddc5bd403051",
+   "id": "46879e67-0bb9-93a7-e063-6294a90af37d",
+   "effective_time": "20251222",
+   "version": "3",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075410"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "205652e1-7fbc-4b6a-bbd6-2fd346d812df",
+   "id": "459ef81b-22fe-40fe-e063-6294a90af7ad",
+   "effective_time": "20251210",
+   "version": "5",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078490"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "015b1c8f-9d5b-4afc-a55c-1a731b5fc72a",
+   "id": "ca200f16-7b7e-4b33-964b-e2ccfc62f0f4",
+   "effective_time": "20251208",
+   "version": "9",
+   "brand_name": [
+    "omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Kroger Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "NDA022032"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "17ccdbe0-19c1-498d-8e81-578be549b4e5",
+   "id": "7c806ac1-dabf-4f02-89ad-9b38610bafec",
+   "effective_time": "20251202",
+   "version": "6",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091672"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "44f59d88-d401-950b-e063-6294a90a2a50",
+   "id": "44f5aafa-b7be-b398-e063-6394a90ab9f3",
+   "effective_time": "20251202",
+   "version": "1",
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207891"
+   ],
+   "n_sections": 19
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each tablet) Omeprazole 20 mg"
+  ],
+  "purpose": [
+   "Purpose Acid reducer"
+  ],
+  "indications_and_usage": [
+   "Use • treats frequent heartburn (occurs 2 or more days a week) • not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect"
+  ],
+  "warnings": [
+   "Warnings Allergy alert: • do not use if you are allergic to omeprazole. • omeprazole may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor. Ask a doctor before use if you have: • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if: • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "do_not_use": [
+   "Do not use if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor."
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if you have: • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs."
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if: • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain"
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+   "Directions • for adults 18 years of age and older • this product is to be used once a day (every 24 hours), every day for 14 days • it may take 1 to 4 days for full effect; some people get complete relief of symptoms within 24 hours 14-Day Course of Treatment • take 1 tablet before eating in the morning • do not crush or chew tablets • place the tablet on tongue; tablet disintegrates, with or without water. The tablets can also be swallowed whole with water. • take every day for 14 days • do not take more than 1 tablet a day • do not use for more than 14 days unless directed by your doctor • do not take this medicine with alcohol Repeated 14-Day Course (if needed) • you may repeat a 14-day course every 4 months • do not take for more than 14 days or more often than every 4 months unless directed by a doctor • children under 18 years of age: ask a doctor before use. Heartburn in children may sometimes be caused by a serious condition."
+  ],
+  "storage_and_handling": [
+   "Other information • read the directions and warnings before use • keep the carton. It contains important information. • store at 20-25°C (68-77°F); keep product out of high heat and moisture • take the tablet immediately after opening individual blister. Do not store the tablet outside the blister pack for future use."
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients amino methacrylate copolymer, ascorbic acid, cetyl alcohol, colloidal silicon dioxide, crospovidone, ferric oxide, flavor, hypromellose, hypromellose phthalate, maize maltodextrin, mannitol, microcrystalline cellulose, propylene glycol, silicon dioxide, sodium stearate, sodium stearyl fumarate, sorbitol, sucralose, sugar spheres, talc, titanium dioxide, triethyl citrate"
+  ],
+  "questions": [
+   "Questions or comments? 1-800-719-9260: weekdays 7:30 AM to 5:00 PM EST"
+  ],
+  "set_id": "1729c60d-3475-45cd-b192-f88438403d1a",
+  "id": "64916be2-9c0a-4eeb-8d44-7e16b1faa8e9",
+  "effective_time": "20260910",
+  "version": "3"
+ }
+}

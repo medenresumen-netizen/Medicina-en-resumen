@@ -1,0 +1,709 @@
+{
+ "id_es": "famotidina",
+ "generic_en": "famotidine",
+ "search": "openfda.generic_name.exact:\"FAMOTIDINE\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "0f343092-4fc7-1fff-e063-6294a90aba6e",
+  "id": "21af4ff4-5892-565e-e063-6394a90aa728",
+  "effective_time": "20241111",
+  "version": "2",
+  "brand_name": [
+   "Maximum Strength PEPCID AC Icy Cool Mint"
+  ],
+  "generic_name": [
+   "FAMOTIDINE"
+  ],
+  "manufacturer_name": [
+   "Kenvue Brands LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "NDA020325"
+  ],
+  "n_sections": 20
+ },
+ "candidates": [
+  {
+   "set_id": "2f5ec69d-926c-47a2-be47-8fef2e0ff207",
+   "id": "5f669243-5d50-92b3-e063-6394a90a0b13",
+   "effective_time": "20261103",
+   "version": "4",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215767"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "505d3c4c-5567-72cc-e054-00144ff88e88",
+   "id": "5f678e6d-74ff-e041-e063-6294a90a8735",
+   "effective_time": "20261103",
+   "version": "7",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceutical, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078916"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "002875d2-8c30-2d2e-e063-6294a90ae01e",
+   "id": "5eeddaec-54e4-1d2b-e063-6294a90a9235",
+   "effective_time": "20261028",
+   "version": "10",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215767"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "2190e348-3d91-44d8-9f4d-cd9f4e5b6292",
+   "id": "5c3f7648-b027-9de5-e063-6394a90a7b6b",
+   "effective_time": "20260924",
+   "version": "2",
+   "brand_name": [
+    "Heartburn Relief"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Shield Pharmaceuticals Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA215822"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "4e02a443-1e4c-46a5-8323-03d749b8634a",
+   "id": "5c3f8f38-4409-6c3b-e063-6294a90a22dc",
+   "effective_time": "20260924",
+   "version": "7",
+   "brand_name": [
+    "Heartburn Relief"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Shield Pharmaceuticals Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA215822"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "10ed726b-9792-4d8d-e063-6294a90ae61d",
+   "id": "7d01f9d4-fd00-441d-bc52-c2e9ccdac464",
+   "effective_time": "20260918",
+   "version": "5",
+   "brand_name": [
+    "AMAZON BASIC CARE ACID REDUCER"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206531"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "2cdd1a75-5d68-7f9d-e063-6294a90aeee3",
+   "id": "5b9dabaa-dd52-0b29-e063-6294a90a9ff2",
+   "effective_time": "20260916",
+   "version": "3",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215767"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "3e6d167f-91e4-4122-911d-d3da66386f44",
+   "id": "ee03be10-ad4f-48f2-8e8c-6acad76cde8d",
+   "effective_time": "20260820",
+   "version": "5",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075718"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "4af90b5d-f47a-4436-8e24-4cb7e5b758b3",
+   "id": "4af90b5d-f47a-4436-8e24-4cb7e5b758b3",
+   "effective_time": "20260804",
+   "version": "1",
+   "brand_name": [
+    "FAMOTIDINE"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219091"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "529cef2d-e6cc-3b37-e063-6294a90aff59",
+   "id": "554485e1-6776-5eb3-e063-6394a90a7c6b",
+   "effective_time": "20260627",
+   "version": "2",
+   "brand_name": [
+    "Zantac 360"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Select Consumer Group LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206531"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "4421ceb7-a114-436c-871a-7bc5444f8154",
+   "id": "5522df17-39cd-040b-e063-6394a90a5ae9",
+   "effective_time": "20260626",
+   "version": "1",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075718"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "4dc7c2c4-83c7-608d-e063-6294a90a90eb",
+   "id": "b70c77e5-838a-45e6-955a-79747d3227ed",
+   "effective_time": "20260623",
+   "version": "2",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Family Dollar Stores, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206531"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "54d93bf1-8f9a-981b-e063-6394a90a0fde",
+   "id": "54d93c04-e982-c907-e063-6294a90aa703",
+   "effective_time": "20260622",
+   "version": "1",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206530"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "1b5cb132-d28f-4fbe-91f5-dc04f9a551d1",
+   "id": "53ff3550-0e3c-e65a-e063-6294a90a1894",
+   "effective_time": "20260611",
+   "version": "3",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Safecor Health, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216441"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "31cdc900-fe17-2d5f-e063-6294a90a0fda",
+   "id": "53ca2039-d872-1e56-e063-6394a90a3c01",
+   "effective_time": "20260608",
+   "version": "4",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "ST. MARY'S MEDICAL PARK PHARMACY"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215767"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "32fd4101-15cb-411e-8b9d-270ec0592c6e",
+   "id": "32fd4101-15cb-411e-8b9d-270ec0592c6e",
+   "effective_time": "20260608",
+   "version": "1",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078916"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "381db08e-5756-4255-8202-1d8e6a1cf038",
+   "id": "ad62930b-1add-4138-b290-5174d04508e1",
+   "effective_time": "20260603",
+   "version": "3",
+   "brand_name": [
+    "ACID REDUCER"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "HyVee Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA077351"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "05b47b1d-f7f3-4dae-9b22-d43d2a7cfaef",
+   "id": "a63e5306-6e12-4fdd-927d-94d3092eb7e8",
+   "effective_time": "20260529",
+   "version": "1",
+   "brand_name": [
+    "FAMOTIDINE"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215630"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "206f5483-7de1-4bc3-af27-190e211bcb95",
+   "id": "cfef527e-520d-460c-9658-c51195beb1ee",
+   "effective_time": "20260521",
+   "version": "9",
+   "brand_name": [
+    "CareOne Acid Relief"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "American Sales Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA077351"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "39cb0f15-d177-46eb-a549-7acb885fbf07",
+   "id": "80ef8ca0-0d3d-400f-be18-9b125b11ee76",
+   "effective_time": "20260511",
+   "version": "9",
+   "brand_name": [
+    "Good Sense Acid Reducer"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "L. Perrigo Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA077351"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "42392cb1-7958-4a2f-8622-f00f02afd961",
+   "id": "66b3969f-1536-48ad-9e8b-5a25f5eb1c5e",
+   "effective_time": "20260424",
+   "version": "11",
+   "brand_name": [
+    "Acid Controller"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA077351"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "1531aa51-02e9-45ed-99aa-53b21732dd2e",
+   "id": "a437ab2b-07b7-44d2-8326-3de4df3c7b88",
+   "effective_time": "20260406",
+   "version": "11",
+   "brand_name": [
+    "acid controller"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA077351"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "3ab235f4-da59-4a92-ad6b-c76cf3ecd985",
+   "id": "4e7dedbd-fe91-4c60-e063-6394a90aec7c",
+   "effective_time": "20260402",
+   "version": "5",
+   "brand_name": [
+    "FAMOTIDINE"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215630"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "4e803491-8030-50d0-e063-6294a90a5c8d",
+   "id": "4e803491-8031-50d0-e063-6294a90a5c8d",
+   "effective_time": "20260402",
+   "version": "1",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075622"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "545d5c1f-ec1c-4135-965f-333ad888d96f",
+   "id": "6e3954f4-f887-4ead-9790-c5262ccf5307",
+   "effective_time": "20260331",
+   "version": "102",
+   "brand_name": [
+    "Famotidine"
+   ],
+   "generic_name": [
+    "FAMOTIDINE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075718"
+   ],
+   "n_sections": 31
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each tablet) Famotidine 20 mg"
+  ],
+  "purpose": [
+   "Purpose Acid reducer"
+  ],
+  "indications_and_usage": [
+   "Uses relieves heartburn associated with acid indigestion and sour stomach prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain food and beverages"
+  ],
+  "warnings": [
+   "Warnings Allergy alert Do not use if you are allergic to famotidine or other acid reducers Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. with other acid reducers Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating, or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "do_not_use": [
+   "Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. with other acid reducers"
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating, or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs."
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days"
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "dosage_and_administration": [
+   "Directions adults and children 12 years and over: to relieve symptoms, swallow 1 tablet with a glass of water. Do not chew. to prevent symptoms, swallow 1 tablet with a glass of water at any time from 10 to 60 minutes before eating food or drinking beverages that cause heartburn do not use more than 2 tablets in 24 hours children under 12 years: ask a doctor"
+  ],
+  "storage_and_handling": [
+   "Other information read the directions and warnings before use keep the carton. It contains important information. store at 20°-25°C (68°-77°F) protect from moisture"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients carnauba wax, FD&C blue no. 1 aluminum lake, flavors, hypromellose 2910, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sucralose, talc, titanium dioxide"
+  ],
+  "questions": [
+   "Questions or comments? 1-800-755-4008 (toll-free) or 215-273-8755 (collect)"
+  ],
+  "user_safety_warnings": [
+   "Do not use if foil inner seal imprinted with SEALED FOR YOUR SAFETY is broken or missing"
+  ],
+  "set_id": "0f343092-4fc7-1fff-e063-6294a90aba6e",
+  "id": "21af4ff4-5892-565e-e063-6394a90aa728",
+  "effective_time": "20241111",
+  "version": "2"
+ }
+}

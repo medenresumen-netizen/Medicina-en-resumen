@@ -1,0 +1,305 @@
+{
+ "id_es": "salbutamol",
+ "generic_en": "albuterol",
+ "search": "openfda.generic_name.exact:\"ALBUTEROL\"",
+ "downloaded": "2026-11-11T06:45Z",
+ "chosen": {
+  "set_id": "9e6e982b-7dfe-45b8-aa76-754e8d2a8ef6",
+  "id": "6e4e9eff-5117-47b1-a43f-58a45cd90457",
+  "effective_time": "20260315",
+  "version": "3",
+  "brand_name": [
+   "Albuterol"
+  ],
+  "generic_name": [
+   "ALBUTEROL"
+  ],
+  "manufacturer_name": [
+   "Mylan Pharmaceuticals Inc."
+  ],
+  "route": [
+   "RESPIRATORY (INHALATION)"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA214531"
+  ],
+  "n_sections": 27
+ },
+ "candidates": [
+  {
+   "set_id": "230d66fc-f62c-42a6-adb3-0a0f879c8ad4",
+   "id": "efcb5cab-b9c0-4ef9-84fc-5f321c13a0ed",
+   "effective_time": "20260414",
+   "version": "7",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208804"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "9e6e982b-7dfe-45b8-aa76-754e8d2a8ef6",
+   "id": "6e4e9eff-5117-47b1-a43f-58a45cd90457",
+   "effective_time": "20260315",
+   "version": "3",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Mylan Pharmaceuticals Inc."
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214531"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "601a18ed-d66e-498f-a804-f1a3330827d4",
+   "id": "3352d236-01ed-a102-e063-6294a90a2a8d",
+   "effective_time": "20250421",
+   "version": "102",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207046"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "40f3cdbc-c9ee-4a3c-8061-a44b9a1d035c",
+   "id": "f3d2f709-6e2e-4c25-8069-52661dc76e2d",
+   "effective_time": "20250306",
+   "version": "4",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207046"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "a4709eea-e4a2-46e2-850f-1e6afca01893",
+   "id": "f4ea29a0-b1df-4ca8-9438-1f0300eb6d9d",
+   "effective_time": "20241125",
+   "version": "4",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208884"
+   ],
+   "n_sections": 5
+  },
+  {
+   "set_id": "c3fa0068-fd12-45de-818e-e929fb45ba05",
+   "id": "1d5b3219-efd5-4842-9b6e-2ea1874d0d4d",
+   "effective_time": "20230821",
+   "version": "3",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208884"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "ff9b287b-e4a4-4c12-ad2f-6b7d55b20dc6",
+   "id": "f89dffb1-5c4b-48aa-90b4-74043fc9b690",
+   "effective_time": "20221215",
+   "version": "3",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213657"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "895dff1c-d21c-4470-b021-a5b68364c1ec",
+   "id": "f5ac6375-7f17-4d27-b13a-b44e73281838",
+   "effective_time": "20220401",
+   "version": "3",
+   "brand_name": [
+    "Albuterol"
+   ],
+   "generic_name": [
+    "ALBUTEROL"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207046"
+   ],
+   "n_sections": 16
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Albuterol inhalation solution, USP is a sterile, clear, colorless solution of the sulfate salt of racemic albuterol, albuterol sulfate. Albuterol sulfate is a relatively selective beta 2 - adrenergic bronchodilator (see CLINICAL PHARMACOLOGY ). The chemical name for albuterol sulfate is α 1 [(tert-butylamino) methyl]-4-hydroxy-m-xylene-α, α’-diol sulfate (2:1) (salt), and its established chemical structure is as follows: The molecular weight of albuterol sulfate is 576.7 and the empirical formula is (C 13 H 21 NO 3 ) 2 • H 2 SO 4 . Albuterol sulfate is a white crystalline powder, soluble in water and slightly soluble in ethanol. The World Health Organization recommended name for albuterol is salbutamol. Albuterol Inhalation Solution, USP is supplied in two strengths in unit dose vials. Each unit dose vial contains either 0.63 mg of albuterol equivalent to 0.75 mg of albuterol sulfate or 1.25 mg of albuterol equivalent to 1.5 mg of albuterol sulfate with sodium chloride, edetate disodium (EDTA), and sulfuric acid in a 3-mL isotonic, sterile, aqueous solution. Sodium chloride is added to adjust isotonicity of the solution, EDTA is added as a stabilizer for the active pharmaceutical ingredient, and sulfuric acid is added to adjust pH of the solution to 3.5 (see HOW SUPPLIED ). Albuterol Inhalation Solution, USP does not require dilution prior to administration by nebulization. For Albuterol Inhalation Solution, USP, like all other nebulized treatments, the amount delivered to the lungs will depend on patient factors, the jet nebulizer utilized, and compressor performance. Using the Pari LC Plus™ nebulizer (with face mask or mouthpiece) connected to a Pari PRONEB™ compressor, under in vitro conditions, the mean delivered dose from the mouth piece (% nominal dose) was approximately 43% of albuterol (1.25 mg strength) and 39% of albuterol (0.63 mg strength) at a mean flow rate of 3.6 L/min. The mean nebulization time was 15 minutes or less. Albuterol Inhalation Solution, USP should be administered from a jet nebulizer at an adequate flow rate, via a mouthpiece or face mask (see DOSAGE AND ADMINISTRATION ). Albuterol Sulfate Structural Formula"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY The prime action of beta-adrenergic drugs is to stimulate adenyl cyclase, the enzyme which catalyzes the formation of cyclic-3’,5’-adenosine monophosphate (cyclic AMP) from adenosine triphosphate (ATP). The cyclic AMP thus formed mediates the cellular responses. In vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta 2 -adrenergic receptors compared with isoproterenol. While it is recognized that beta 2 -adrenergic receptors are the predominant receptors in bronchial smooth muscle, recent data indicate that 10% to 50% of the beta-receptors in the human heart may be beta 2 -receptors. The precise function of these receptors, however, is not yet established. Controlled clinical studies and other clinical experience have shown that inhaled albuterol, like other beta-adrenergic agonist drugs, can produce a significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, symptoms, and/or electrocardiographic changes. Albuterol is longer acting than isoproterenol in most patients by any route of administration because it is not a substrate for the cellular uptake processes for catecholamines nor for catechol-O-methyl transferase. Pharmacokinetics Studies in asthmatic patients have shown that less than 20% of a single albuterol dose was absorbed following either intermittent positive-pressure breathing (IPPB) or nebulizer administration; the remaining amount was recovered from the nebulizer and apparatus, and expired air. Most of the absorbed dose was recovered in urine collected during the 24 hours after drug administration. Following oral administration of 4 mg albuterol, the elimination half-life was five to six hours. Following a 3 mg dose of nebulized albuterol in adults, the mean maximum albuterol plasma level at 0.5 hours was 2.1 ng/mL (range, 1.4 to 3.2 ng/mL). The pharmacokinetics of albuterol following administration of 0.63 mg or 1.25 mg albuterol inhalation solution by nebulization have not been determined in children 2 to 12 years old. Animal Pharmacology/Toxicology Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5% of plasma concentrations. In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those found in whole brain. Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently. The clinical significance of these findings is unknown. Clinical Trials The safety and efficacy of Albuterol Inhalation Solution was evaluated in a 4-week, multi-center, randomized, double-blind, placebo-controlled, parallel group study in 349 children 6 to 12 years of age with mild-to-moderate asthma (mean baseline FEV 1 60% to 70% of predicted). Approximately half of the patients were also receiving inhaled corticosteroids. Patients were randomized to receive Albuterol Inhalation Solution 0.63 mg, Albuterol Inhalation Solution 1.25 mg, or placebo three times a day administered via a Pari LC Plus™ nebulizer and a Pari PRONEB™ compressor. Racemic albuterol, delivered by a chlorofluorocarbon (CFC) metered dose inhaler (MDI) or nebulized, was used on an as-needed basis as the rescue medication. Efficacy, as measured by the mean percent change from baseline in the area under the 6-hour curve for FEV 1 , was demonstrated for both active treatment regimens (n=112 [1.25 mg group] and n=110 [0.63 mg group]) compared with placebo (n=110) on day 1 and day 28. Figures 1 and 2 illustrate the mean percentage change from pre-dose FEV 1 on day 1 and day 28, respectively. The mean baseline FEV 1 for all patients was 1.49 L. Figure 1 % Change from Pre-Dose FEV 1 Intent-to-Treat Population Day 1 Figure 2 % Change from Pre-Dose FEV 1 Intent-to-Treat Population Day 28 The onset of a 15% increase in FEV 1 over baseline for both doses of Albuterol Inhalation Solution was seen at 30 minutes (the first post-dose assessment). The mean time to peak effect was approximately 30 to 60 minutes for both doses on day 1 and after 4 weeks of treatment. The mean duration of effect, as measured by a >15% increase from baseline in FEV 1 , was approximately 2.5 hours for both doses on day 1 and approximately 2 hours for both doses after 4 weeks of treatment. In some patients, the duration of effect was as long as 6 hours. Figure 1 % Change from Pre-Dose FEV1 Intent-to-Treat Population Day 1 Figure 2 % Change from Pre-Dose FEV1 Intent-to-Treat Population Day 28"
+  ],
+  "pharmacokinetics": [
+   "Pharmacokinetics Studies in asthmatic patients have shown that less than 20% of a single albuterol dose was absorbed following either intermittent positive-pressure breathing (IPPB) or nebulizer administration; the remaining amount was recovered from the nebulizer and apparatus, and expired air. Most of the absorbed dose was recovered in urine collected during the 24 hours after drug administration. Following oral administration of 4 mg albuterol, the elimination half-life was five to six hours. Following a 3 mg dose of nebulized albuterol in adults, the mean maximum albuterol plasma level at 0.5 hours was 2.1 ng/mL (range, 1.4 to 3.2 ng/mL). The pharmacokinetics of albuterol following administration of 0.63 mg or 1.25 mg albuterol inhalation solution by nebulization have not been determined in children 2 to 12 years old."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Albuterol Inhalation Solution is indicated for the relief of bronchospasm in patients 2 to 12 years of age with asthma (reversible obstructive airway disease)."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Albuterol Inhalation Solution is contraindicated in patients with a history of hypersensitivity to any of its components."
+  ],
+  "warnings": [
+   "WARNINGS Paradoxical Bronchospasm As with other inhaled beta-adrenergic agonists, Albuterol Inhalation Solution can produce paradoxical bronchospasm, which may be life threatening. If paradoxical bronchospasm occurs, Albuterol Inhalation Solution should be discontinued immediately and alternative therapy instituted. It should be noted that paradoxical bronchospasm, when associated with inhaled formulations, frequently occurs with the first use of a new canister or vial. Use of Anti-Inflammatory Agents The use of beta-adrenergic bronchodilators alone may not be adequate to control asthma in many patients. Early consideration should be given to adding anti-inflammatory agents (e.g., corticosteroids). Deterioration of Asthma Asthma may deteriorate acutely over a period of hours or chronically over several days or longer. If the patient needs more doses of Albuterol Inhalation Solution than usual, this may be a marker of destabilization of asthma and requires re-evaluation of the patient and the treatment regimen, giving special consideration of the possible need for anti-inflammatory treatment (e.g., corticosteroids). Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs and with the home use of nebulizers. It is, therefore, essential that the physician instruct the patient in the need for further evaluation, if his/her asthma becomes worse. Cardiovascular Effects Albuterol Inhalation Solution, like other beta-adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms. Although such effects are uncommon for Albuterol Inhalation Solution at recommended doses, if they occur, the drug may need to be discontinued. In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T-wave, prolongation of the QTc interval, and ST segment depression. The clinical significance of these findings is unknown. Therefore, Albuterol Inhalation Solution like all other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension. Immediate Hypersensitivity Reactions Immediate hypersensitivity reactions may occur after administration of albuterol as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, and oropharyngeal edema."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Large doses of intravenous albuterol have been reported to aggravate pre-existing diabetes mellitus and ketoacidosis. As with other beta-agonists, inhaled and intravenous albuterol may produce a significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. The decrease is usually transient, not requiring potassium supplementation. Information for Patients The action of Albuterol Inhalation Solution may last up to six hours, and therefore it should not be used more frequently than recommended. Do not increase the dose or frequency of medication without consulting your physician. If you find that treatment with Albuterol Inhalation Solution becomes less effective for symptomatic relief, your symptoms become worse, and/or you need to use the product more frequently than usual, you should seek medical attention immediately. All asthma medication should only be used under the supervision and direction of a physician. Common effects with medications such as Albuterol Inhalation Solution include palpitations, chest pain, rapid heart rate, tremor, or nervousness. If you are pregnant or nursing, contact your physician about the use of Albuterol Inhalation Solution. Effective and safe use of Albuterol Inhalation Solution includes an understanding of the way it should be administered. If the solution in the vial changes color or becomes cloudy, you should not use it. The drug compatibility (physical and chemical), clinical efficacy, and safety of Albuterol Inhalation Solution, when mixed with other drugs in a nebulizer, has not been established. See illustrated Patient’s Instructions for Use . Drug Interactions Other short-acting sympathomimetic aerosol bronchodilators or epinephrine should not be used concomitantly with albuterol inhalation solution. Albuterol Inhalation Solution should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants or within 2 weeks of discontinuation of such agents, since the action of albuterol on the vascular system may be potentiated. Beta-receptor blocking agents not only block the pulmonary effect of beta-agonists, such as Albuterol Inhalation Solution, but may produce severe bronchospasm in asthmatic patients. Therefore, patients with asthma should not normally be treated with beta-blockers. However, under certain circumstances (e.g., prophylaxis after myocardial infarction), there may be no acceptable alternatives to the use of beta-adrenergic blocking agents in patients with asthma. In this setting, cardioselective beta-blockers should be considered, although they should be administered with caution. The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the dose of the beta-agonist is exceeded. Although the clinical significance of these effects is unknown, caution is advised in the co-administration of beta-agonists with non-potassium sparing diuretics. Mean decreases of 16% to 22% in serum digoxin levels were demonstrated after single dose intravenous and oral administration of albuterol, respectively, to normal volunteers who had received digoxin for 10 days. The clinical significance of these findings for patients with obstructive airway disease who are receiving albuterol and digoxin on a chronic basis is unclear. Nevertheless, it would be prudent to carefully evaluate the serum digoxin levels in patients who are currently receiving digoxin and albuterol. Carcinogenesis, Mutagenesis, and Impairment of Fertility In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium and above dietary doses of 2 mg/kg (approximately equivalent to the maximum recommended daily inhalation dose for Albuterol Inhalation Solution on a mg/m 2 basis). In another study, this effect was blocked by the co-administration of propranolol, a non-selective beta-adrenergic antagonist. In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 500 mg/kg (approximately 140 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). In a 22-month study in Golden hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 50 mg/kg (approximately 20 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). Albuterol sulfate was not mutagenic in the Ames test or a mutation test in yeast. Albuterol sulfate was not clastogenic in a human peripheral lymphocyte assay or in an AH 1 strain mouse micronucleus assay. Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses of albuterol sulfate up to 50 mg/kg (approximately 30 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). Pregnancy Teratogenic Effects Albuterol has been shown to be teratogenic in mice. A study in CD-1 mice given albuterol subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis) and cleft palate formation in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately equal to the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). The drug did not induce cleft palate formation when administered subcutaneously at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). Cleft palate formation also occurred in 23 of 72 (30.5%) fetuses from females treated subcutaneously with 2.5 mg/kg isoproterenol (positive control). A reproduction study in Stride rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg (approximately 60 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material was transferred from the maternal circulation to the fetus. There are no adequate and well-controlled studies of the use of albuterol sulfate in pregnant women. Albuterol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients being treated with albuterol. Some of the mothers were taking multiple medications during their pregnancies. Because no consistent pattern of defects can be discerned, a relationship between albuterol use and congenital anomalies has not been established. Labor and Delivery Oral albuterol has been shown to delay pre-term labor in some reports. There are presently no well-controlled studies that demonstrate that it will stop pre-term labor or prevent labor at term. Because of the potential for beta agonist interference with uterine contractility, use of Albuterol Inhalation Solution for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk. Albuterol has not been approved for the management of pre-term labor. The benefit:risk ratio when albuterol is administered for tocolysis has not been established. Serious adverse reactions, including pulmonary edema, have been reported following administration of albuterol to women in labor. Nursing Mothers It is not known whether this drug is excreted in human milk. Because of the potential for tumorigenicity shown for albuterol in some animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. Pediatric Use Safety and effectiveness of Albuterol Inhalation Solution 1.25 mg and 0.63 mg have been established in pediatric patients between the ages of 2 and 12 years. The use of Albuterol Inhalation Solution in these age groups is supported by evidence from adequate and well-controlled studies of Albuterol Inhalation Solution in children age 6 to 12 years and published reports of albuterol sulfate trials in pediatric patients 3 years of age and older. The safety and effectiveness of Albuterol Inhalation Solution in children below 2 years of age have not been established."
+  ],
+  "general_precautions": [
+   "General Large doses of intravenous albuterol have been reported to aggravate pre-existing diabetes mellitus and ketoacidosis. As with other beta-agonists, inhaled and intravenous albuterol may produce a significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. The decrease is usually transient, not requiring potassium supplementation."
+  ],
+  "information_for_patients": [
+   "Information for Patients The action of Albuterol Inhalation Solution may last up to six hours, and therefore it should not be used more frequently than recommended. Do not increase the dose or frequency of medication without consulting your physician. If you find that treatment with Albuterol Inhalation Solution becomes less effective for symptomatic relief, your symptoms become worse, and/or you need to use the product more frequently than usual, you should seek medical attention immediately. All asthma medication should only be used under the supervision and direction of a physician. Common effects with medications such as Albuterol Inhalation Solution include palpitations, chest pain, rapid heart rate, tremor, or nervousness. If you are pregnant or nursing, contact your physician about the use of Albuterol Inhalation Solution. Effective and safe use of Albuterol Inhalation Solution includes an understanding of the way it should be administered. If the solution in the vial changes color or becomes cloudy, you should not use it. The drug compatibility (physical and chemical), clinical efficacy, and safety of Albuterol Inhalation Solution, when mixed with other drugs in a nebulizer, has not been established. See illustrated Patient’s Instructions for Use ."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Other short-acting sympathomimetic aerosol bronchodilators or epinephrine should not be used concomitantly with albuterol inhalation solution. Albuterol Inhalation Solution should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants or within 2 weeks of discontinuation of such agents, since the action of albuterol on the vascular system may be potentiated. Beta-receptor blocking agents not only block the pulmonary effect of beta-agonists, such as Albuterol Inhalation Solution, but may produce severe bronchospasm in asthmatic patients. Therefore, patients with asthma should not normally be treated with beta-blockers. However, under certain circumstances (e.g., prophylaxis after myocardial infarction), there may be no acceptable alternatives to the use of beta-adrenergic blocking agents in patients with asthma. In this setting, cardioselective beta-blockers should be considered, although they should be administered with caution. The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the dose of the beta-agonist is exceeded. Although the clinical significance of these effects is unknown, caution is advised in the co-administration of beta-agonists with non-potassium sparing diuretics. Mean decreases of 16% to 22% in serum digoxin levels were demonstrated after single dose intravenous and oral administration of albuterol, respectively, to normal volunteers who had received digoxin for 10 days. The clinical significance of these findings for patients with obstructive airway disease who are receiving albuterol and digoxin on a chronic basis is unclear. Nevertheless, it would be prudent to carefully evaluate the serum digoxin levels in patients who are currently receiving digoxin and albuterol."
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects Albuterol has been shown to be teratogenic in mice. A study in CD-1 mice given albuterol subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis) and cleft palate formation in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately equal to the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). The drug did not induce cleft palate formation when administered subcutaneously at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). Cleft palate formation also occurred in 23 of 72 (30.5%) fetuses from females treated subcutaneously with 2.5 mg/kg isoproterenol (positive control). A reproduction study in Stride rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg (approximately 60 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material was transferred from the maternal circulation to the fetus. There are no adequate and well-controlled studies of the use of albuterol sulfate in pregnant women. Albuterol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients being treated with albuterol. Some of the mothers were taking multiple medications during their pregnancies. Because no consistent pattern of defects can be discerned, a relationship between albuterol use and congenital anomalies has not been established."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects Albuterol has been shown to be teratogenic in mice. A study in CD-1 mice given albuterol subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis) and cleft palate formation in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately equal to the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). The drug did not induce cleft palate formation when administered subcutaneously at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). Cleft palate formation also occurred in 23 of 72 (30.5%) fetuses from females treated subcutaneously with 2.5 mg/kg isoproterenol (positive control). A reproduction study in Stride rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg (approximately 60 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material was transferred from the maternal circulation to the fetus. There are no adequate and well-controlled studies of the use of albuterol sulfate in pregnant women. Albuterol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients being treated with albuterol. Some of the mothers were taking multiple medications during their pregnancies. Because no consistent pattern of defects can be discerned, a relationship between albuterol use and congenital anomalies has not been established."
+  ],
+  "labor_and_delivery": [
+   "Labor and Delivery Oral albuterol has been shown to delay pre-term labor in some reports. There are presently no well-controlled studies that demonstrate that it will stop pre-term labor or prevent labor at term. Because of the potential for beta agonist interference with uterine contractility, use of Albuterol Inhalation Solution for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk. Albuterol has not been approved for the management of pre-term labor. The benefit:risk ratio when albuterol is administered for tocolysis has not been established. Serious adverse reactions, including pulmonary edema, have been reported following administration of albuterol to women in labor."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether this drug is excreted in human milk. Because of the potential for tumorigenicity shown for albuterol in some animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness of Albuterol Inhalation Solution 1.25 mg and 0.63 mg have been established in pediatric patients between the ages of 2 and 12 years. The use of Albuterol Inhalation Solution in these age groups is supported by evidence from adequate and well-controlled studies of Albuterol Inhalation Solution in children age 6 to 12 years and published reports of albuterol sulfate trials in pediatric patients 3 years of age and older. The safety and effectiveness of Albuterol Inhalation Solution in children below 2 years of age have not been established."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Clinical Trial Experience Adverse events reported in >1% of patients receiving Albuterol Inhalation Solution and more frequently than in patients receiving placebo in a four-week double-blind study are listed in the following table. Table 1: Adverse Events with an Incidence of >1% of Patients Receiving Albuterol Inhalation Solution and Greater than Placebo (expressed as % of treatment group) 1.25 mg Albuterol Inhalation Solution (N=115) 0.63 mg Albuterol Inhalation Solution (N=117) Placebo (N=117) Asthma Exacerbation 13 11.1 8.5 Otitis Media 4.3 0.9 0 Allergic Reaction 0.9 3.4 1.7 Gastroenteritis 0.9 3.4 0.9 Cold Symptoms 0 3.4 1.7 Flu Syndrome 2.6 2.6 1.7 Lymphadenopathy 2.6 0.9 1.7 Skin/Appendage Infection 1.7 0 0 Urticaria 1.7 0.9 0 Migraine 0.9 1.7 0 Chest Pain 0.9 1.7 0 Bronchitis 0.9 1.7 0.9 Nausea 1.7 0.9 0.9 There was one case of ST segment depression in the 1.25 mg Albuterol Inhalation Solution treatment group. No clinically relevant laboratory abnormalities related to Albuterol Inhalation Solution administration were seen in this study. Postmarketing Experience Metabolic acidosis has been reported after the use of albuterol inhalation solution. Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate its frequency or establish a causal relationship to drug exposure."
+  ],
+  "adverse_reactions_table": [
+   "<table styleCode=\"Noautorules\" width=\"100%\"><caption>Table 1: Adverse Events with an Incidence of &gt;1% of Patients Receiving Albuterol Inhalation Solution and Greater than Placebo (expressed as % of treatment group)</caption><col width=\"26%\"/><col width=\"32%\"/><col width=\"32%\"/><col width=\"10%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"/><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">1.25 mg Albuterol  Inhalation Solution (N=115)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">0.63 mg Albuterol  Inhalation Solution (N=117)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Placebo</content></paragraph><paragraph><content styleCode=\"bold\">(N=117)</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Asthma Exacerbation</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>13</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>11.1</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>8.5</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Otitis Media</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4.3</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Allergic Reaction</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>3.4</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Gastroenteritis</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>3.4</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Cold Symptoms</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>3.4</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Flu Syndrome</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>2.6</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>2.6</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Lymphadenopathy</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>2.6</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Skin/Appendage Infection</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Urticaria</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Migraine</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Chest Pain</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Bronchitis</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.7</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>0.9</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Nausea</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>1.7</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>0.9</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>0.9</paragraph></td></tr></tbody></table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE The expected symptoms with overdosage are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of symptoms such as seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats per minute, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, insomnia, and exaggeration of the pharmacological effects listed in ADVERSE REACTIONS . Hypokalemia may also occur. As with all sympathomimetic aerosol medications, cardiac arrest and even death may be associated with abuse of Albuterol Inhalation Solution. Treatment consists of discontinuation of Albuterol Inhalation Solution together with appropriate symptomatic therapy. The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm. There is insufficient evidence to determine if dialysis is beneficial for overdosage of Albuterol Inhalation Solution. The oral median lethal dose of albuterol sulfate in mice is greater than 2000 mg/kg (approximately 580 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). The subcutaneous median lethal dose of albuterol sulfate in mature rats and small young rats is approximately 450 mg/kg and 2000 mg/kg, respectively (approximately 260 and 1200 times the maximum recommended daily inhalation dose of Albuterol Inhalation Solution on a mg/m 2 basis). The inhalation median lethal dose has not been determined in animals."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION The usual starting dosage for patients 2 to 12 years of age is 1.25 mg or 0.63 mg of Albuterol Inhalation Solution administered 3 or 4 times daily, as needed, by nebulization. More frequent administration is not recommended. To administer 1.25 mg or 0.63 mg of albuterol, use the entire contents of one unit-dose vial (3 mL of 1.25 mg or 0.63 mg inhalation solution) by nebulization. Adjust nebulizer flow rate to deliver Albuterol Inhalation Solution over 5 to 15 minutes. The use of Albuterol Inhalation Solution can be continued as medically indicated to control recurring bouts of bronchospasm. During this time most patients gain optimum benefit from regular use of the inhalation solution. Patients 6 to 12 years of age with more severe asthma (baseline FEV 1 less than 60% predicted), weight > 40 kg, or patients 11 to 12 years of age may achieve a better initial response with the 1.25 mg dose. Albuterol Inhalation Solution has not been studied in the setting of acute attacks of bronchospasm. A 2.5 mg dose of albuterol provided by a higher concentration product (2.5 mg albuterol per 3 mL) may be more appropriate for treating acute exacerbations, particularly in children 6 years old and above. If a previously effective dosage regimen fails to provide the usual relief, medical advice should be sought immediately, as this is often a sign of seriously worsening asthma which would require reassessment of therapy. The drug compatibility (physical and chemical), clinical efficacy and safety of Albuterol Inhalation Solution, when mixed with other drugs in a nebulizer have not been established. The safety and efficacy of Albuterol Inhalation Solution have been established in clinical trials when administered using the Pari LC Plus™ nebulizer and Pari PRONEB™ compressor. The safety and efficacy of Albuterol Inhalation Solution when administered with other nebulizer systems have not been established. Albuterol Inhalation Solution should be administered via jet nebulizer connected to an air compressor with adequate air flow, equipped with a mouthpiece or suitable face mask."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Albuterol Inhalation Solution, USP is supplied as a 3 mL, clear, colorless, sterile, preservative-free, aqueous solution in two different strengths, 0.63 mg/3 mL and 1.25 mg/3 mL, of albuterol (equivalent to 0.75 mg of albuterol sulfate or 1.5 mg of albuterol sulfate per 3 mL) in unit-dose low-density polyethylene (LDPE) vials. Each unit-dose LDPE vial is protected in a foil pouch, and each foil pouch contains 5 unit-dose LDPE vials. Each strength of Albuterol Inhalation Solution, USP is available in a shelf carton containing multiple foil pouches. Albuterol Inhalation Solution, USP, 0.63 mg/3 mL (potency expressed as albuterol) contains 0.75 mg albuterol sulfate per 3 mL in unit-dose vials and is available in the following packaging configuration. NDC 0378-7057-52 5 foil pouches, each containing 5 vials, total 25 vials per carton Albuterol Inhalation Solution, USP, 1.25 mg/3 mL (potency expressed as albuterol) contains 1.5 mg albuterol sulfate per 3 mL in unit-dose vials and is available in the following packaging configuration. NDC 0378-7058-52 5 foil pouches, each containing 5 vials, total 25 vials per carton Rx only STORAGE Store between 2°C to 25°C (36°F to 77°F). Protect from light and excessive heat. Store unit-dose vials in protective foil pouch until time of use. Discard the vial if the solution is not colorless. Keep out of the reach of children. The brands listed are trademarks of their respective owners. Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A. Manufactured by: The Ritedose Corporation Columbia, SC 29203 U.S.A. TRC:ASISLD:R3 RPIN0222 March 2026"
+  ],
+  "spl_patient_package_insert": [
+   "Patient Information Albuterol Inhalation Solution, USP (al bue' ter ol) 0.63 mg/3 mL and 1.25 mg/3 mL Read the patient information that comes with Albuterol Inhalation Solution before using it and each time you get a refill for your child. There may be new information. This leaflet does not take the place of talking to your child’s doctor about your child’s medical condition or treatment. What is Albuterol Inhalation Solution? Albuterol Inhalation Solution is a medicine that is used for the relief of bronchospasms caused by asthma in children ages 2 to 12 years. Bronchospasm is the tightening and swelling of the muscles around the airways. Albuterol Inhalation Solution can help relax these airway muscles for up to 6 hours so that your child may breathe more easily. Who should not use Albuterol Inhalation Solution? Do not give your child Albuterol Inhalation Solution if he or she is allergic to any of its ingredients. The active ingredient is albuterol sulfate. See the end of this leaflet for a complete list of ingredients. What should I tell my child’s doctor before giving Albuterol Inhalation Solution? Tell your child’s doctor about all of your child’s medical conditions including if your child has: • Heart problems • High blood pressure • Seizures • A thyroid problem called hyperthyroidism • Diabetes Tell your child’s doctor about all the medicines your child takes, including prescription and non-prescription medicines, vitamins and herbal supplements. Albuterol Inhalation Solution and some other medicines can affect each other and may cause serious side effects. Especially tell your child’s doctor if your child is taking or using: • Any short-acting bronchodilator medicines (sometimes called rescue inhalers) • Epinephrine • Medicines called monoamine oxidase inhibitors (MAOIs) or tricyclic anti-depressants or has stopped taking them in the past 2 weeks. These medicines are usually used for mental problems. • Medicines called beta-blockers (used for heart problems and high blood pressure) • Certain diuretic medicines (water pills) • Digoxin Know the medicines your child takes. Keep a list of them and show it to your child’s doctor and pharmacist each time your child gets a new medicine. How should Albuterol Inhalation Solution be given? Read the Patient’s Instructions for Use that comes with Albuterol Inhalation Solution. Ask your pharmacist for these instructions if they are not with your medicine. Keep the instructions with Albuterol Inhalation Solution because you may want to read them again. • Give Albuterol Inhalation Solution exactly as prescribed for your child. Do not change your child’s dose or how often it is used without talking to your child’s doctor first. • Albuterol Inhalation Solution is breathed into the lungs. Albuterol Inhalation Solution is used with a special breathing machine called a nebulizer. Do not mix other medicines with Albuterol Inhalation Solution in the nebulizer. Do not use Albuterol Inhalation Solution that is not clear and colorless. • Call your child’s doctor or get emergency help right away if your child’s breathing is not helped or gets worse during treatment with Albuterol Inhalation Solution. • Call your child’s doctor right away if your child needs to use Albuterol Inhalation Solution more often than prescribed. • Albuterol Inhalation Solution has not been studied for treating acute attacks of bronchospasm (rescue use). Your child may need a different medicine for rescue use. • If you give your child too much Albuterol Inhalation Solution call your child’s doctor right away. What are the side effects with Albuterol Inhalation Solution? Albuterol Inhalation Solution may cause the following serious side effects: • Worsening of the tightening and swelling of the muscles around your child’s airways (bronchospasm). This side effect can be life threatening. Call your child’s doctor or get emergency help right away if your child’s breathing is not helped or gets worse during treatment with Albuterol Inhalation Solution. • Serious and life threatening allergic reactions. Symptoms of a serious allergic reaction include: • Hives, rash • Swelling of your child’s face, eyelids, lips, tongue, or throat, and trouble swallowing • Worsening of your child’s breathing problems such as wheezing, chest tightness or shortness of breath • Shock (loss of blood pressure and consciousness). The most common side effects with Albuterol Inhalation Solution include a fast or irregular heartbeat, chest pain, shakiness, or nervousness. How should Albuterol Inhalation Solution be stored? • Store Albuterol Inhalation Solution at room temperature, 2°C to 25°C (36°F to 77°F) in its tightly closed container. • Protect vials from light before use. Therefore, keep unused vials in the foil pouch or carton. • Do not use Albuterol Inhalation Solution after the expiration (EXP) date printed on the vial. • Do not use Albuterol Inhalation Solution that is not clear and colorless. • Safely, discard Albuterol Inhalation Solution that is out-of-date or no longer needed. • Keep Albuterol Inhalation Solution and all medicines out of the reach of children. General Information about Albuterol Inhalation Solution Medicines are sometimes prescribed for conditions that are not mentioned in the patient information leaflets. Do not use Albuterol Inhalation Solution for a condition for which it was not prescribed. Do not give Albuterol Inhalation Solution to other people, even if they have the same symptoms your child has. It may harm them. This leaflet summarizes the most important information about Albuterol Inhalation Solution. If you would like more information, talk with your child’s doctor. You can ask your child’s doctor or pharmacist for information about Albuterol Inhalation Solution that is written for health professionals. To report SUSPECTED ADVERSE REACTIONS, contact Ritedose Pharmaceuticals, LLC at 1-855-806-3300 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . What are the ingredients in Albuterol Inhalation Solution? Active Ingredient: albuterol sulfate Inactive Ingredients: sodium chloride, edetate disodium (EDTA), and sulfuric acid Rx only Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A. Manufactured by: The Ritedose Corporation Columbia, SC 29203 U.S.A. Albuterol Inhalation Solution, USP 0.63 mg/3 mL and 1.25 mg/3 mL PATIENT’S INSTRUCTIONS FOR USE Read this patient information completely every time your prescription is filled as information may have changed. Keep these instructions with your medication, as you may want to read them again. Albuterol Inhalation Solution should only be used under the direction of a physician. Your physician and pharmacist have more information about Albuterol Inhalation Solution and the condition for which it has been prescribed. Contact them if you have additional questions. Storing your Medicine Store Albuterol Inhalation Solution between 2°C to 25°C (36°F to 77°F). Vials should be protected from light before use, therefore, keep unused vials in the foil pouch. Do not use after the expiration (EXP) date printed on the vial. Dose Albuterol Inhalation Solution is supplied as a single-dose, ready-to-use vial containing 3 mL of solution. No mixing or dilution is needed. Use one new vial with each nebulizer treatment."
+  ],
+  "instructions_for_use": [
+   "Instructions for Use 1. Remove one vial from the foil pouch. Place remaining vials back into foil pouch for storage. 2. Twist the cap completely off the vial and squeeze the contents into the nebulizer reservoir (Figure 1). 3. Connect the nebulizer to the mouthpiece or face mask (Figure 2). 4. Connect the nebulizer to the compressor. 5. Sit in a comfortable, upright position; place the mouthpiece in your mouth (Figure 3) or put on the face mask (Figure 4); and turn on the compressor. 6. Breathe as calmly, deeply and evenly as possible through your mouth until no more mist is formed in the nebulizer chamber (about 5-15 minutes). At this point, the treatment is finished. 7. Clean the nebulizer (see manufacturer’s instructions). Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A. Manufactured by: The Ritedose Corporation Columbia, SC 29203 U.S.A. TRC:PIL:ASISLD:R3 RPIN0222 March 2026 Instructions for Use Figure 1 Instructions for Use Figure 2 Instructions for Use Figures 3 and 4"
+  ],
+  "set_id": "9e6e982b-7dfe-45b8-aa76-754e8d2a8ef6",
+  "id": "6e4e9eff-5117-47b1-a43f-58a45cd90457",
+  "effective_time": "20260315",
+  "version": "3"
+ }
+}

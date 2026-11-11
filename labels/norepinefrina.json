@@ -1,0 +1,136 @@
+{
+ "id_es": "norepinefrina",
+ "generic_en": "norepinephrine",
+ "search": "openfda.generic_name.exact:\"NOREPINEPHRINE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "9eb4ebe0-fb2f-4147-b117-0fa19bbd2c1e",
+  "id": "ede263c1-d0b9-4f59-83c9-07c84d155297",
+  "effective_time": "20260108",
+  "version": "2",
+  "brand_name": [
+   "Norepinephrine 1530"
+  ],
+  "generic_name": [
+   "NOREPINEPHRINE"
+  ],
+  "manufacturer_name": [
+   "Professional Complementary Health Formulas"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [],
+  "n_sections": 15
+ },
+ "candidates": [
+  {
+   "set_id": "9eb4ebe0-fb2f-4147-b117-0fa19bbd2c1e",
+   "id": "ede263c1-d0b9-4f59-83c9-07c84d155297",
+   "effective_time": "20260108",
+   "version": "2",
+   "brand_name": [
+    "Norepinephrine 1530"
+   ],
+   "generic_name": [
+    "NOREPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Professional Complementary Health Formulas"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 15
+  },
+  {
+   "set_id": "edf75607-d285-45e5-912e-280d13acbc2b",
+   "id": "9ae285bc-3fd4-43f8-bb02-402336512a2f",
+   "effective_time": "20250404",
+   "version": "5",
+   "brand_name": [
+    "Norepinephrine"
+   ],
+   "generic_name": [
+    "NOREPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "BioActive Nutritional, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 13
+  },
+  {
+   "set_id": "77da899e-fa5b-476c-a7b3-5fa635e5ea4c",
+   "id": "75203db5-f71e-46ad-9dd9-202b663fafbb",
+   "effective_time": "20250402",
+   "version": "4",
+   "brand_name": [
+    "Norepinephrine"
+   ],
+   "generic_name": [
+    "NOREPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "BioActive Nutritional, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 13
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "ACTIVE INGREDIENTS Norepinephrine 9X, 12X, 30X, 60X"
+  ],
+  "questions": [
+   "QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035"
+  ],
+  "indications_and_usage": [
+   "INDICATIONS For the temporary relief of anxiousness, low mood, weak memory or concentration, excessive sweating, or occasional headache due to sensitivity to phenolic compounds found in foods or other products.*"
+  ],
+  "purpose": [
+   "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "warnings": [
+   "WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of the reach of children."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breastfeeding, ask a healthcare professional before use."
+  ],
+  "dosage_and_administration": [
+   "DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age."
+  ],
+  "other_safety_information": [
+   "OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat."
+  ],
+  "inactive_ingredient": [
+   "INACTIVE INGREDIENTS 20% ethanol, purified water."
+  ],
+  "set_id": "9eb4ebe0-fb2f-4147-b117-0fa19bbd2c1e",
+  "id": "ede263c1-d0b9-4f59-83c9-07c84d155297",
+  "effective_time": "20260108",
+  "version": "2"
+ }
+}

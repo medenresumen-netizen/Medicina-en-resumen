@@ -1,0 +1,768 @@
+{
+ "id_es": "vitamina-k",
+ "generic_en": "phytonadione",
+ "search": "openfda.generic_name.exact:\"PHYTONADIONE\"",
+ "downloaded": "2026-11-11T06:41Z",
+ "chosen": {
+  "set_id": "e8808230-2c44-44c6-8cab-8f29b6b34051",
+  "id": "689ec2ad-01a2-43bb-82f4-ac5cf0d91313",
+  "effective_time": "20260809",
+  "version": "23",
+  "brand_name": [
+   "Vitamin K1"
+  ],
+  "generic_name": [
+   "PHYTONADIONE"
+  ],
+  "manufacturer_name": [
+   "Hospira, Inc."
+  ],
+  "route": [
+   "INTRAMUSCULAR",
+   "INTRAVENOUS",
+   "SUBCUTANEOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA087954",
+   "ANDA087955"
+  ],
+  "n_sections": 27
+ },
+ "candidates": [
+  {
+   "set_id": "0d971993-466c-46dd-bdd6-2e300173621e",
+   "id": "8d803d50-91e2-4cc7-8099-8b78d86efc19",
+   "effective_time": "20261106",
+   "version": "6",
+   "brand_name": [
+    "PHYTONADIONE"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "PARENTERAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA083722"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1cf90be3-a744-4db5-999d-a84c67372304",
+   "id": "e907b7f4-c4f4-4ea3-aefc-3f9dc39e1e54",
+   "effective_time": "20261106",
+   "version": "6",
+   "brand_name": [
+    "PHYTONADIONE"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207719"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "4eca41d2-467a-4d62-a206-36dee802d0b6",
+   "id": "5f8a1f7a-b7b3-8013-e063-6294a90a04e8",
+   "effective_time": "20261105",
+   "version": "3",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Safecor Health, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210189"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "226c0a5c-3e04-65a9-01ac-e67aad9a430a",
+   "id": "8f00bc47-096d-2653-7d8c-df3bd0db06c7",
+   "effective_time": "20260930",
+   "version": "8",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Dr.Reddys Laboratories Inc"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215820"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "5686f34b-446a-00ae-e063-6394a90a6029",
+   "id": "596cedea-ae71-a84f-e063-6394a90a54df",
+   "effective_time": "20260819",
+   "version": "2",
+   "brand_name": [
+    "PHYTONADIONE"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207719"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "e8808230-2c44-44c6-8cab-8f29b6b34051",
+   "id": "689ec2ad-01a2-43bb-82f4-ac5cf0d91313",
+   "effective_time": "20260809",
+   "version": "23",
+   "brand_name": [
+    "Vitamin K1"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087954",
+    "ANDA087955"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "51c175dd-02f9-68d1-e063-6294a90a4b36",
+   "id": "529e577c-78f0-54c6-e063-6394a90af94f",
+   "effective_time": "20260410",
+   "version": "2",
+   "brand_name": [
+    "PHYTONADIONE"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216298"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "68701a07-2921-4443-bff3-76e261a9eb18",
+   "id": "40b908ab-22d0-45df-925a-7f18d4d9c8f5",
+   "effective_time": "20260331",
+   "version": "2",
+   "brand_name": [
+    "PHYTONADIONE"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Padagis US LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220454"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "ddd351d3-8b9e-482d-9ab8-f367ce1c3cc0",
+   "id": "2e9f7291-f42c-4b3f-98a2-6126b5c38a66",
+   "effective_time": "20260331",
+   "version": "5",
+   "brand_name": [
+    "PHYTONADIONE"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals Private Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217734"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "d954e3d7-a4d5-4798-887d-7af916ff0181",
+   "id": "1a12da69-249c-42d2-8cde-1f0ecfbc299c",
+   "effective_time": "20260324",
+   "version": "1",
+   "brand_name": [
+    "PHYTONADIONE"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Orbicular Pharmaceutical Technologies Private Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216298"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "54f23bc8-d8f3-40e8-a93d-3121cc581d54",
+   "id": "c18b843e-3f3e-4314-bf6d-b1e5bfaaf84b",
+   "effective_time": "20260316",
+   "version": "6",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209373"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "3d571642-3d3a-41ae-855e-304ae4fff459",
+   "id": "ba507639-69c8-4451-ac5c-b5bc64f297ca",
+   "effective_time": "20260204",
+   "version": "1",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216444"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "60e5abd1-e2fa-4a5e-b25b-3ec6cfdeed14",
+   "id": "9410a036-446d-493b-845e-d87105f8e0df",
+   "effective_time": "20251218",
+   "version": "2",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "GLENMARK PHARMACEUTICALS INC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217386"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "66ada4f8-c5a9-49f1-848f-e172416892a1",
+   "id": "efc664b8-931d-4577-8b06-9653637eb89a",
+   "effective_time": "20251201",
+   "version": "3",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Agnitio Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213336"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "2ce1dd90-11ad-4f74-af16-45b7e59f05da",
+   "id": "a2f87d42-33cd-4706-bd3c-8b15c8095617",
+   "effective_time": "20251023",
+   "version": "6",
+   "brand_name": [
+    "phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216601"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "6ccb76ab-1549-4a47-a119-8059588ad83d",
+   "id": "6ccb76ab-1549-4a47-a119-8059588ad83d",
+   "effective_time": "20250911",
+   "version": "1",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216444"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "b1e53422-c85d-4bb6-af4f-24934cc319b0",
+   "id": "6da12ac4-63b8-4927-917e-7856d68686f4",
+   "effective_time": "20250911",
+   "version": "5",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216444"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "3e4f86c4-7e89-c864-e063-6394a90a59af",
+   "id": "3e4f86c4-7e70-c864-e063-6394a90a59af",
+   "effective_time": "20250908",
+   "version": "1",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210189"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "a4b394e7-b766-824e-a8bf-f56808de76e1",
+   "id": "2151937d-2482-d1f1-fbb4-08df466c26a0",
+   "effective_time": "20250821",
+   "version": "2",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Xiromed LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217386"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "114b1330-6f03-476c-8678-8cd0da189bce",
+   "id": "114b1330-6f03-476c-8678-8cd0da189bce",
+   "effective_time": "20250426",
+   "version": "1",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Caplin Steriles Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219212"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "02a39690-38e6-42e9-9897-391c2df9e07e",
+   "id": "02a39690-38e6-42e9-9897-391c2df9e07e",
+   "effective_time": "20250417",
+   "version": "1",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219212"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "4bc2de7b-6564-4d77-8a65-6be57b706093",
+   "id": "d0d625e2-d304-4382-bd6a-e714de668f13",
+   "effective_time": "20250107",
+   "version": "2",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Cipla USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214966"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "c375bfab-5a4b-40f3-a783-8372158af860",
+   "id": "1d345aaf-a506-4d73-a0ac-41c41675cebf",
+   "effective_time": "20241212",
+   "version": "4",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217386"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "54c1c1df-0e65-4da8-9023-6cbaa0f5bd0d",
+   "id": "94d89db9-981d-4fc5-b6fe-5d4b73230e35",
+   "effective_time": "20241209",
+   "version": "6",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209373"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "88d13044-6ce8-4374-86ff-e8d9eea27829",
+   "id": "22df1183-63b6-9572-e063-6394a90ae974",
+   "effective_time": "20240924",
+   "version": "5",
+   "brand_name": [
+    "Phytonadione"
+   ],
+   "generic_name": [
+    "PHYTONADIONE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209373"
+   ],
+   "n_sections": 25
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: HYPERSENSITIVITY REACTIONS WITH INTRAVENOUS AND INTRAMUSCULAR USE Fatal hypersensitivity reactions, including anaphylaxis, have occurred during and immediately after intravenous and intramuscular injection of Vitamin K 1 Injection. Reactions have occurred despite dilution to avoid rapid intravenous infusion and upon first dose. Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified [see Warnings and Precautions (5.1) ] . WARNING: HYPERSENSITIVITY REACTIONS WITH INTRAVENOUS AND INTRAMUSCULAR USE See full prescribing information for complete boxed warning. Fatal hypersensitivity reactions, including anaphylaxis, have occurred during and immediately after INTRAVENOUS and INTRAMUSCULAR injection of Vitamin K 1 Injection. Reactions have occurred despite dilution to avoid rapid infusion and upon first and subsequent doses. Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified. ( 5.1 )"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Vitamin K 1 Injection is a vitamin K replacement indicated for the treatment of the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity. • Anticoagulant-induced hypoprothrombinemia deficiency caused by coumarin or indanedione derivatives. ( 1.1 ) • Hypoprothrombinemia due to antibacterial therapy. ( 1.1 ) • Hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K, e.g., obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis. ( 1.1 ) • Other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism, e.g., salicylates. ( 1.1 ) Vitamin K 1 Injection is indicated for prophylaxis and treatment of vitamin K-deficiency bleeding in neonates. ( 1.2 ) 1.1 Treatment of Hypoprothrombinemia Due to Vitamin K Deficiency or Interference Vitamin K 1 Injection is indicated for the treatment of the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity: • anticoagulant-induced hypoprothrombinemia caused by coumarin or indanedione derivatives; • hypoprothrombinemia due to antibacterial therapy; • hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K, e.g., obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis; • other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism, e.g., salicylates. 1.2 Prophylaxis and Treatment of Vitamin K-Deficiency Bleeding in Neonates Vitamin K 1 Injection is indicated for prophylaxis and treatment of vitamin K-deficiency bleeding in neonates."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • Administer Vitamin K 1 Injection by the subcutaneous route, whenever possible. ( 2.1 ) • When intravenous administration is unavoidable, inject the drug very slowly, not exceeding 1 mg per minute. ( 2.1 ) 2.1 Dosing Considerations Whenever possible, administer Vitamin K 1 Injection by the subcutaneous route [see Boxed Warning ] . When intravenous administration is unavoidable, inject the drug very slowly, not exceeding 1 mg per minute [see Warnings and Precautions (5.1) ] . Monitor international normalized ratio (INR) regularly and as clinical conditions indicate. Use the lowest effective dose of Vitamin K 1 Injection. The coagulant effects of Vitamin K 1 Injection are not immediate; improvement of INR may take 1 to 8 hours. Interim use of whole blood or component therapy may also be necessary if bleeding is severe. Whenever possible, administer benzyl alcohol-free phytonadione formulations in pediatric patients [see Warnings and Precautions (5.2) , Use in Specific Populations (8.4) ] . When Vitamin K 1 Injection is used to correct excessive anticoagulant-induced hypoprothrombinemia, anticoagulant therapy still being indicated, the patient is again faced with the clotting hazards existing prior to starting the anticoagulant therapy. Vitamin K 1 Injection is not a clotting agent, but overzealous therapy with Vitamin K 1 Injection may restore conditions which originally permitted thromboembolic phenomena. Dosage should be kept as low as possible, and INR should be checked regularly as clinical conditions indicate. 2.2 Recommended Dosage for Coagulation Disorders from Vitamin K Deficiency or Interference The recommended dosage of Vitamin K 1 Injection is based on whether the hypoprothrombinemia is anticoagulant-induced (e.g., due to coumarin or indanedione derivatives) or non-anticoagulant-induced (e.g., due to antibiotics; salicylates or other drugs; factors limiting absorption or synthesis) as follows: • Anticoagulant-Induced Hypoprothrombinemia: Vitamin K 1 Injection 2.5 mg to 10 mg or more subcutaneously, intramuscularly, or intravenously. Up to 25 mg to 50 mg may be administered as a single dose. Repeated large doses of Vitamin K 1 Injection are not warranted in liver disease if the initial response is unsatisfactory. Failure to respond to Vitamin K 1 Injection may indicate that the condition being treated is inherently unresponsive to Vitamin K 1 Injection. • Hypoprothrombinemia Due to Other Causes (Non-Anticoagulation-Induced Hypoprothrombinemia): Vitamin K 1 Injection 2.5 mg to 25 mg or more intravenously, intramuscularly, or subcutaneously. Up to 50 mg may be administered as a single dose. Evaluate INR after 6 to 8 hours, and repeat dose if INR remains prolonged. Modify subsequent dosage (amount and frequency) based on the INR or clinical condition. 2.3 Recommended Dosage for Prophylaxis and Treatment of Vitamin K Deficiency Bleeding in Neonates Prophylaxis of Vitamin K-Deficiency Bleeding in Neonates The recommended dosage of Vitamin K 1 Injection is 0.5 mg to 1 mg within one hour of birth for a single dose. Treatment of Vitamin K Deficiency Bleeding in Neonates The recommended dosage of Vitamin K 1 Injection is 1 mg given either subcutaneously or intramuscularly. Consider higher doses if the mother has been receiving oral anticoagulants. A failure to respond (shortening of the INR in 2 to 4 hours) may indicate another diagnosis or coagulation disorder. 2.4 Directions for Dilution Dilute Vitamin K 1 Injection with 0.9% Sodium Chloride Injection, 5% Dextrose Injection, or 5% Dextrose and Sodium Chloride Injection. Avoid use of other diluents that may contain benzyl alcohol, which can cause serious toxicity in newborns or low birth weight infants [see Warnings and Precautions (5.2) , Use in Specific Populations (8.4) ]. When diluted, start administration of Vitamin K 1 Injection immediately after dilution. Discard unused portions of diluted solution as well as unused contents of the ampul. Protect Vitamin K 1 Injection from light at all times. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection: 1 mg/0.5 mL and 10 mg/mL single-dose ampuls. Injection: 1 mg/0.5 mL and 10 mg/mL single-dose ampuls. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Hypersensitivity to phytonadione or any other component of this medication [see Warnings and Precautions (5.1) ] . Hypersensitivity to any component of this medication. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative: Use benzyl alcohol-free phytonadione formulations in neonates and infants, if available. ( 5.2 ) • Cutaneous Reactions: May occur with parenteral use. Discontinue drug and manage medically. ( 5.3 ) 5.1 Hypersensitivity Reactions Fatal and severe hypersensitivity reactions, including anaphylaxis, have occurred with intravenous or intramuscular administration of Vitamin K 1 Injection. Reactions have occurred despite dilution to avoid rapid intravenous infusion and upon first dose. These reactions have included shock, cardiorespiratory arrest, flushing, diaphoresis, chest pain, tachycardia, cyanosis, weakness, and dyspnea. Administer Vitamin K 1 Injection subcutaneously whenever feasible. Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified [see Dosage and Administration (2.1) ] . 5.2 Risk of Serious Adverse Reaction in Infants due to Benzyl Alcohol Preservative Use benzyl alcohol-free phytonadione formulations in neonates and infants, if available. Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol‑preserved drugs, including Vitamin K 1 Injection. The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations. When prescribing Vitamin K 1 Injection in infants, consider the combined daily metabolic load of benzyl alcohol from all sources including Vitamin K 1 Injection (contains 9 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1 , 8.2 and 8.4) ] . 5.3 Cutaneous Reactions Parenteral administration of vitamin K replacements (including Vitamin K 1 Injection) may cause cutaneous reactions. Reactions have included eczematous reactions, scleroderma-like patches, urticaria, and delayed-type hypersensitivity reactions. Time of onset ranged from 1 day to a year after parenteral administration. Discontinue Vitamin K 1 Injection for skin reactions and institute medical management. 5.4 Aluminum Toxicity WARNING: This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious adverse reactions are described elsewhere in the labeling: • Hypersensitivity Reactions [see Warnings and Precautions (5.1) ] • Cutaneous Reactions [see Warnings and Precautions (5.3) ] Most common adverse reactions are cyanosis, diaphoresis, dizziness, dysgeusia, dyspnea, flushing, hypotension and tachycardia. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc. at 1‑800‑438‑1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of Vitamin K 1 Injection. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Cardiac Disorders: Tachycardia, hypotension. General Disorders and Administration Site Conditions: Generalized flushing; pain, swelling, and tenderness at injection site. Hepatobiliary Disorders: Hyperbilirubinemia. Immune System Disorders: Fatal hypersensitivity reactions, anaphylactic reactions. Neurologic: Dysgeusia, dizziness. Pulmonary: Dyspnea. Skin and Subcutaneous Tissue Disorders: Erythema, pruritic plaques, scleroderma-like lesions, erythema perstans. Vascular: Cyanosis."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Anticoagulants Vitamin K 1 Injection may induce temporary resistance to prothrombin-depressing anticoagulants, especially when larger doses of Vitamin K 1 Injection are used. Should this occur, higher doses of anticoagulant therapy may be needed when resuming anticoagulant therapy, or a change in therapy to a different class of anticoagulant may be necessary (i.e., heparin sodium). Vitamin K 1 Injection does not affect the anticoagulant action of heparin. Anticoagulants: May induce temporary resistance to prothrombin-depressing anticoagulants. ( 7 )"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS • Pregnancy: If available, use a preservative-free phytonadione formulation in pregnant women. ( 8.1 ) • Lactation: If available, use a preservative-free phytonadione formulation in lactating women. ( 8.2 ) • Pediatric Use: The safety and effectiveness of Vitamin K 1 Injection in pediatric patients from 6 months to 17 years have not been established. ( 8.4 ) 8.1 Pregnancy Risk Summary Vitamin K 1 Injection contains benzyl alcohol, which has been associated with gasping syndrome in neonates. The preservative benzyl alcohol can cause serious adverse events and death when administered intravenously to neonates and infants . If Vitamin K 1 Injection is needed during pregnancy, consider using a benzyl alcohol-free phytonadione formulation [see Warnings and Precautions (5.2) , Use in Specific Populations (8.4) ] . Published studies with the use of phytonadione during pregnancy have not reported a clear association with phytonadione and adverse developmental outcomes [see Data ]. There are maternal and fetal risks associated with vitamin K deficiency during pregnancy [see Clinical Considerations ] . Animal reproduction studies have not been conducted with phytonadione. The estimated background risk for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Disease-associated Maternal and/or Embryo/Fetal Risk Pregnant women with vitamin K deficiency hypoprothrombinemia may be at an increased risk for bleeding diatheses during pregnancy and hemorrhagic events at delivery. Subclinical maternal vitamin K deficiency during pregnancy has been implicated in rare cases of fetal intracranial hemorrhage. Data Human Data Phytonadione has been measured in cord blood of infants whose mothers were treated with phytonadione during pregnancy in concentrations lower than seen in maternal plasma. Administration of vitamin K 1 to pregnant women shortly before delivery increased both maternal and cord blood concentrations. Published data do not report a clear association with phytonadione and adverse maternal or fetal outcomes when used during pregnancy. However, these studies cannot definitively establish the absence of any risk because of methodologic limitations including small sample size and lack of blinding. Animal Data In pregnant rats receiving vitamin K 1 orally, fetal plasma and liver concentrations increased following administration, supporting placental transfer. 8.2 Lactation Risk Summary Vitamin K 1 Injection contains benzyl alcohol. If available, a preservative-free phytonadione formulation is recommended when Vitamin K 1 Injection is needed during lactation [see Warnings and Precautions (5.2) , Use in Specific Populations (8.4) ] . Phytonadione is present in breastmilk. There are no data on the effects of Vitamin K 1 Injection on the breastfed child or on milk production. The developmental and health benefits of breastfeeding should be considered along with the clinical need for Vitamin K 1 Injection and any potential adverse effects on the breastfed child from Vitamin K 1 Injection or from the underlying maternal condition. 8.4 Pediatric Use The safety and effectiveness of Vitamin K 1 Injection for prophylaxis and treatment of vitamin K deficiency have been established in neonates. Use of phytonadione injection for prophylaxis and treatment of vitamin K deficiency is based on published clinical studies. Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and infants in the intensive care unit who received drugs containing benzyl alcohol as a preservative. In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L). Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse. Preterm, low birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol. When prescribing Vitamin K 1 Injection in infants consider the combined daily metabolic load of benzyl alcohol from all sources including Vitamin K 1 Injection (Vitamin K 1 Injection contains 9 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.2) ] . Whenever possible, use preservative-free phytonadione formulations in neonates. The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients. Premature and low birth weight infants may be more likely to develop toxicity."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Vitamin K 1 Injection contains benzyl alcohol, which has been associated with gasping syndrome in neonates. The preservative benzyl alcohol can cause serious adverse events and death when administered intravenously to neonates and infants . If Vitamin K 1 Injection is needed during pregnancy, consider using a benzyl alcohol-free phytonadione formulation [see Warnings and Precautions (5.2) , Use in Specific Populations (8.4) ] . Published studies with the use of phytonadione during pregnancy have not reported a clear association with phytonadione and adverse developmental outcomes [see Data ]. There are maternal and fetal risks associated with vitamin K deficiency during pregnancy [see Clinical Considerations ] . Animal reproduction studies have not been conducted with phytonadione. The estimated background risk for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Clinical Considerations Disease-associated Maternal and/or Embryo/Fetal Risk Pregnant women with vitamin K deficiency hypoprothrombinemia may be at an increased risk for bleeding diatheses during pregnancy and hemorrhagic events at delivery. Subclinical maternal vitamin K deficiency during pregnancy has been implicated in rare cases of fetal intracranial hemorrhage. Data Human Data Phytonadione has been measured in cord blood of infants whose mothers were treated with phytonadione during pregnancy in concentrations lower than seen in maternal plasma. Administration of vitamin K 1 to pregnant women shortly before delivery increased both maternal and cord blood concentrations. Published data do not report a clear association with phytonadione and adverse maternal or fetal outcomes when used during pregnancy. However, these studies cannot definitively establish the absence of any risk because of methodologic limitations including small sample size and lack of blinding. Animal Data In pregnant rats receiving vitamin K 1 orally, fetal plasma and liver concentrations increased following administration, supporting placental transfer."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of Vitamin K 1 Injection for prophylaxis and treatment of vitamin K deficiency have been established in neonates. Use of phytonadione injection for prophylaxis and treatment of vitamin K deficiency is based on published clinical studies. Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and infants in the intensive care unit who received drugs containing benzyl alcohol as a preservative. In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L). Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse. Preterm, low birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol. When prescribing Vitamin K 1 Injection in infants consider the combined daily metabolic load of benzyl alcohol from all sources including Vitamin K 1 Injection (Vitamin K 1 Injection contains 9 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.2) ] . Whenever possible, use preservative-free phytonadione formulations in neonates. The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients. Premature and low birth weight infants may be more likely to develop toxicity."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Hemolysis, jaundice, and hyperbilirubinemia in newborns, particularly in premature infants, may result from Vitamin K 1 Injection overdose."
+  ],
+  "description": [
+   "11 DESCRIPTION Phytonadione is a vitamin K replacement, which is a clear, yellow to amber, viscous, odorless or nearly odorless liquid. It is insoluble in water, soluble in chloroform and slightly soluble in ethanol. It has a molecular weight of 450.70. Phytonadione is 2-methyl-3-phytyl-1, 4-naphthoquinone. Its empirical formula is C 31 H 46 O 2 and its molecular structure is: Vitamin K 1 Injection (Phytonadione Injectable Emulsion, USP) is a yellow, sterile, nonpyrogenic aqueous dispersion available for injection by the intravenous, intramuscular and subcutaneous routes. Vitamin K 1 Injection is available in 1 mg (1 mg/0.5 mL) and 10 mg (10 mg/mL) single-dose ampuls. Each milliliter contains phytonadione 2 mg or 10 mg, polyoxyethylated fatty acid derivative 70 mg, dextrose, hydrous 37.5 mg in water for injection; benzyl alcohol 9 mg added as preservative. May contain hydrochloric acid for pH adjustment. pH is 6.3 (5.0 to 7.0). Phytonadione is oxygen sensitive. structural formula phytonadione"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Vitamin K 1 Injection aqueous dispersion of vitamin K 1 for parenteral injection, possesses the same type and degree of activity as does naturally-occurring vitamin K, which is necessary for the production via the liver of active prothrombin (factor II), proconvertin (factor VII), plasma thromboplastin component (factor IX), and Stuart factor (factor X). Vitamin K is an essential cofactor for a microsomal enzyme that catalyzes the post‑translational carboxylation of multiple, specific, peptide-bound glutamic acid residues in inactive hepatic precursors of factors II, VII, IX, and X. The resulting gamma-carboxy-glutamic acid residues convert the precursors into active coagulation factors that are subsequently secreted by liver cells into the blood. In normal animals and humans, phytonadione is virtually devoid of activity. However, in animals and humans deficient in vitamin K, the pharmacological action of vitamin K is related to its normal physiological function, that is, to promote the hepatic biosynthesis of vitamin K dependent clotting factors. 12.2 Pharmacodynamics The action of the aqueous dispersion, when administered intravenously, is generally detectable within an hour or two and hemorrhage is usually controlled within 3 to 6 hours. A normal INR may often be obtained in 12 to 14 hours. 12.3 Pharmacokinetics Absorption Phytonadione is readily absorbed following intramuscular administration. Distribution After absorption, phytonadione is initially concentrated in the liver, but the concentration declines rapidly. Very little vitamin K accumulates in tissues. Elimination Little is known about the metabolic fate of vitamin K. Almost no free unmetabolized vitamin K appears in bile or urine."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Vitamin K 1 Injection aqueous dispersion of vitamin K 1 for parenteral injection, possesses the same type and degree of activity as does naturally-occurring vitamin K, which is necessary for the production via the liver of active prothrombin (factor II), proconvertin (factor VII), plasma thromboplastin component (factor IX), and Stuart factor (factor X). Vitamin K is an essential cofactor for a microsomal enzyme that catalyzes the post‑translational carboxylation of multiple, specific, peptide-bound glutamic acid residues in inactive hepatic precursors of factors II, VII, IX, and X. The resulting gamma-carboxy-glutamic acid residues convert the precursors into active coagulation factors that are subsequently secreted by liver cells into the blood. In normal animals and humans, phytonadione is virtually devoid of activity. However, in animals and humans deficient in vitamin K, the pharmacological action of vitamin K is related to its normal physiological function, that is, to promote the hepatic biosynthesis of vitamin K dependent clotting factors."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics The action of the aqueous dispersion, when administered intravenously, is generally detectable within an hour or two and hemorrhage is usually controlled within 3 to 6 hours. A normal INR may often be obtained in 12 to 14 hours."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Phytonadione is readily absorbed following intramuscular administration. Distribution After absorption, phytonadione is initially concentrated in the liver, but the concentration declines rapidly. Very little vitamin K accumulates in tissues. Elimination Little is known about the metabolic fate of vitamin K. Almost no free unmetabolized vitamin K appears in bile or urine."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Studies of carcinogenicity, genotoxicity or impairment of fertility have not been conducted with phytonadione."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Studies of carcinogenicity, genotoxicity or impairment of fertility have not been conducted with phytonadione."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Vitamin K 1 Injection (Phytonadione Injectable Emulsion, USP) is a yellow, sterile, nonpyrogenic aqueous dispersion and is supplied as follows: Unit of Sale Concentration NDC 0409-9157-01 Bundle of 5 clamcells containing 5 single-dose ampuls 1 mg/0.5 mL NDC 0409-9158-01 Bundle of 5 clamcells containing 5 single-dose ampuls 10 mg/mL Store at 20°C to 25°C (68°F to 77°F). [See USP Controlled Room Temperature.] Protect from light. Keep ampuls in tray until time of use."
+  ],
+  "how_supplied_table": [
+   "<table width=\"75%\"><col width=\"43%\"/><col width=\"44%\"/><thead><tr><th align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Unit of Sale</content></th><th align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Concentration</content></th></tr></thead><tbody><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC 0409-9157-01</content> Bundle of 5 clamcells containing 5 single-dose ampuls</paragraph></td><td align=\"center\" styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>1 mg/0.5 mL</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">NDC 0409-9158-01</content> Bundle of 5 clamcells containing 5 single-dose ampuls</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>10 mg/mL</paragraph></td></tr></tbody></table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Inform the patient of the following important risks of Vitamin K 1 Injection: Serious Hypersensitivity Reactions Advise the patient and caregivers to immediately report signs of hypersensitivity after receiving Vitamin K 1 Injection [see Warnings and Precautions (5.1) ]. Risk of Gasping Syndrome Due to Benzyl Alcohol Advise the patient and caregivers of the risk of gasping syndrome associated with the use of products that contain benzyl alcohol (including Vitamin K 1 Injection) in neonates, infants, and pregnant women [see Warnings and Precautions (5.2) ]. Cutaneous Reactions Advise the patient and caregivers to report the occurrence of new rashes after receiving Vitamin K 1 Injection. These reactions may be delayed for up to a year after treatment [see Warnings and Precautions (5.3) ]. This product’s labeling may have been updated. For the most recent prescribing information, please visit www.pfizer.com . Distributed by Hospira, Inc., Lake Forest, IL 60045 USA LAB-1141-3.0 Hospira logo"
+  ],
+  "set_id": "e8808230-2c44-44c6-8cab-8f29b6b34051",
+  "id": "689ec2ad-01a2-43bb-82f4-ac5cf0d91313",
+  "effective_time": "20260809",
+  "version": "23"
+ }
+}

@@ -1,0 +1,700 @@
+{
+ "id_es": "haloperidol",
+ "generic_en": "haloperidol",
+ "search": "openfda.generic_name.exact:\"HALOPERIDOL\"",
+ "downloaded": "2026-11-11T06:46Z",
+ "chosen": {
+  "set_id": "65df5d2d-79aa-41d4-866a-566e520320f7",
+  "id": "74d33642-a53d-4042-aa8f-87460d97fd9f",
+  "effective_time": "20260302",
+  "version": "7",
+  "brand_name": [
+   "Haloperidol Lactate"
+  ],
+  "generic_name": [
+   "HALOPERIDOL"
+  ],
+  "manufacturer_name": [
+   "Henry Schein, Inc."
+  ],
+  "route": [
+   "INTRAMUSCULAR"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA078347"
+  ],
+  "n_sections": 17
+ },
+ "candidates": [
+  {
+   "set_id": "8ca14b79-6671-4e44-aa34-6564a92aa197",
+   "id": "cc13d0ae-4a42-461c-985d-8099c7e01473",
+   "effective_time": "20261015",
+   "version": "9",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070278"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "31e33656-2f53-49e6-9816-261ea2e6961a",
+   "id": "3af25358-362b-4046-98c9-1c12eb623e02",
+   "effective_time": "20260902",
+   "version": "3",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Ajanta Pharma USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218210"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "a0751f2e-05ab-4ba9-9bae-7b791bf1a621",
+   "id": "5a5a5e13-73d5-e3f0-e063-6394a90a07c5",
+   "effective_time": "20260831",
+   "version": "3",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216918"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "addb5b30-d1f8-47dd-ba4c-94d0b01ae17c",
+   "id": "590115aa-2728-b742-e063-6394a90aa6af",
+   "effective_time": "20260814",
+   "version": "1",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216918"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "afb3ac3e-7459-42d3-b5ca-e0d6d27ced73",
+   "id": "ca5f7ae2-4c1e-488e-8d6f-32c3a5bfe3fb",
+   "effective_time": "20260805",
+   "version": "7",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Upsher-Smith Laboratories, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211061"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "5827f1d4-ff98-03ba-e063-6394a90a4630",
+   "id": "5827f012-d006-c736-e063-6294a90ad07f",
+   "effective_time": "20260803",
+   "version": "1",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077580"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "051f3c99-7d16-4185-a857-c90440e1b1c5",
+   "id": "57eb50a1-f783-0264-e063-6294a90a29e6",
+   "effective_time": "20260731",
+   "version": "9",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071173"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "746f3ab9-9e6e-4ce8-9384-0c7a57de8007",
+   "id": "561ddbec-220b-c2f8-e063-6394a90ab396",
+   "effective_time": "20260708",
+   "version": "14",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077580"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "54ee5fa9-e346-a1d0-e063-6294a90aef83",
+   "id": "54ee6af6-9bdd-0dec-e063-6394a90a1172",
+   "effective_time": "20260623",
+   "version": "1",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077580"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "9be08519-b3b5-4b9d-ae4c-bb7e68f19ede",
+   "id": "53ff97f3-62e9-0b53-e063-6294a90ae539",
+   "effective_time": "20260611",
+   "version": "3",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Safecor Health, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077580"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "eaabdc53-366f-4dc2-b9c7-0d70f1bbb6f9",
+   "id": "d379561b-354c-442e-b689-9ffdbd96a994",
+   "effective_time": "20260515",
+   "version": "6",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077580"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "50b0ea2f-0a54-7b49-e063-6394a90abcc4",
+   "id": "50b0d800-4b56-2e33-e063-6394a90a19ca",
+   "effective_time": "20260430",
+   "version": "1",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218789"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "26aa869a-25e8-0dd5-e063-6394a90a0aba",
+   "id": "509c0ed2-caa0-4c47-e063-6294a90a7dda",
+   "effective_time": "20260429",
+   "version": "2",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077580"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "509e5424-1323-c841-e063-6294a90a2714",
+   "id": "509e5fd6-a61b-c9c1-e063-6294a90ac172",
+   "effective_time": "20260429",
+   "version": "1",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077580"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "861c7b75-572c-48c2-adf9-1ca3fc3db19b",
+   "id": "5073809c-f025-d88f-e063-6394a90a0e8a",
+   "effective_time": "20260427",
+   "version": "10",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071173"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "533b0b4c-cbd6-4ec0-a333-8b04b5b43a1d",
+   "id": "50221596-087a-9973-e063-6394a90ae95f",
+   "effective_time": "20260423",
+   "version": "2",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071130"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "42549018-8f15-40b4-ac0a-8b06a2178e46",
+   "id": "a3f793da-0516-4ef5-98b0-20c8e967283a",
+   "effective_time": "20260421",
+   "version": "100",
+   "brand_name": [
+    "HALOPERIDOL"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218162"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "57d77858-758c-41ce-a47c-ca42c4e88859",
+   "id": "2d4b71c2-8d1a-4fdd-b0d5-e943e9bb1e73",
+   "effective_time": "20260421",
+   "version": "100",
+   "brand_name": [
+    "HALOPERIDOL"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218162"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "7212f03f-caa0-43bc-aac5-9d8b3c304897",
+   "id": "c1b36e57-cf8f-41e6-80a3-bf77c5d24d2d",
+   "effective_time": "20260421",
+   "version": "100",
+   "brand_name": [
+    "HALOPERIDOL"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218162"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "7666e56f-9eef-4343-8a76-60613c4ca57f",
+   "id": "7ce2ea8a-01a8-4d19-b9ba-bd955728615a",
+   "effective_time": "20260421",
+   "version": "100",
+   "brand_name": [
+    "HALOPERIDOL"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218162"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "f6f6f2ed-33a5-4139-b2f1-ce446814e597",
+   "id": "5ff37e29-8eec-431f-8305-549bf4156f10",
+   "effective_time": "20260421",
+   "version": "100",
+   "brand_name": [
+    "HALOPERIDOL"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218162"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "f6fb9e4c-630b-4f82-8223-f154dd6c17a2",
+   "id": "84617f30-c56a-41c3-8893-092dc90c2222",
+   "effective_time": "20260421",
+   "version": "100",
+   "brand_name": [
+    "HALOPERIDOL"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218162"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "8743da03-67f1-4cb0-8159-45141cb5466e",
+   "id": "21b9d026-f029-427f-aa44-1e3f82f5a185",
+   "effective_time": "20260414",
+   "version": "2",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216918"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "22598f07-501b-471a-b512-449d95e2301c",
+   "id": "4f5d4d03-9ae4-cacf-e063-6294a90a1eb0",
+   "effective_time": "20260413",
+   "version": "7",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071173"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "a3afd19a-c340-4fad-8ddd-d71242515345",
+   "id": "4f5bc1f8-5ae6-94f0-e063-6294a90ae5f1",
+   "effective_time": "20260413",
+   "version": "6",
+   "brand_name": [
+    "Haloperidol"
+   ],
+   "generic_name": [
+    "HALOPERIDOL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071173"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "BOXED WARNING WARNING Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients. Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group. Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature. Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality. The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear. Haloperidol Injection is not approved for the treatment of patients with dementia-related psychosis (see WARNINGS)."
+  ],
+  "description": [
+   "Description Haloperidol is the first of the butyrophenone series of major antipsychotics. The chemical designation is 4-[4-(p-chlorophenyl)-4-hydroxypiperidino]-4'-fluorobutyrophenone and it has the following structural formula: Haloperidol, USP is a white or slightly yellowish crystalline powder. Haloperidol injection, USP is available as a sterile parenteral form for intramuscular injection. Each mL contains 5 mg haloperidol (as the lactate) with 1.8 mg methylparaben, 0.2 mg propylparaben, lactic acid to adjust the pH to 3.0 to 3.8 [at 25ºC] and Water for Injection, q.s. Formula1.jpg"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Haloperidol is an antipsychotic. The mechanism of action of haloperidol for the treatment of schizophrenia is unclear. However, its efficacy could be mediated through its activity as an antagonist at central dopamine type 2 receptors. Haloperidol also binds to alpha-1 adrenergic receptors, but with lower affinity, and displays minimal binding to muscarinic cholinergic and histaminergic (H 1 ) receptors."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Haloperidol Injection, USP is indicated for use in the treatment of schizophrenia."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Haloperidol is contraindicated in patients with: • Severe toxic central nervous system depression or comatose states from any cause. • Hypersensitivity to this drug – hypersensitivity reactions have included anaphylactic reaction and angioedema (see WARNINGS, Hypersensitivity Reactions and ADVERSE REACTIONS). • Parkinson’s disease (see WARNINGS, Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies). • Dementia with Lewy bodies (see WARNINGS, Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies)."
+  ],
+  "warnings": [
+   "WARNINGS Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Haloperidol injection is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING). Cardiovascular Effects Cases of sudden death, QTc interval-prolongation, and Torsades de Pointes have been reported in patients receiving haloperidol (see ADVERSE REACTIONS ). Higher than recommended doses of any formulation and intravenous administration of haloperidol appear to be associated with a higher risk of QTc interval-prolongation and Torsades de Pointes. Also, a QTc interval that exceeds 500 msec is associated with an increased risk of Torsades de Pointes. Although cases have been reported even in the absence of predisposing factors, particular caution is advised in treating patients with other QTc-prolonging conditions (including electrolyte imbalance [particularly hypokalemia and hypomagnesemia], drugs known to prolong QTc, underlying cardiac abnormalities, hypothyroidism, and familial long QT-syndrome). HALOPERIDOL INJECTION IS NOT APPROVED FOR INTRAVENOUS ADMINISTRATION. If haloperidol is administered intravenously, the ECG should be monitored for QTc prolongation and arrhythmias. Tachycardia and hypotension (including orthostatic hypotension) have also been reported in occasional patients (see ADVERSE REACTIONS ). Cerebrovascular Adverse Reactions In controlled trials, elderly patients with dementia-related psychosis treated with some antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities. The mechanism for this increased risk is not known. An increased risk cannot be excluded for haloperidol, other antipsychotics, or other patient populations. Haloperidol should be used with caution in patients with risk factors for cerebrovascular adverse reactions. Tardive Dyskinesia A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs (see ADVERSE REACTIONS ). Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome. Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown. Both the risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase. However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses. Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is discontinued. Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process. The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown. Given these considerations, antipsychotic drugs should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia. Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate. In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought. The need for continued treatment should be reassessed periodically. If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered. However, some patients may require treatment despite the presence of the syndrome. Neuroleptic Malignant Syndrome (NMS) A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs (see ADVERSE REACTIONS ). Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status (including catatonic signs) and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure. The diagnostic evaluation of patients with this syndrome is complicated. In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms. Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology. The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available. There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS. If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered. The patient should be carefully monitored, since recurrences of NMS have been reported. Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol. Neurological Adverse Reactions in Patients with Parkinson’s Disease or Dementia with Lewy Bodies Patients with Parkinson’s Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication. Manifestations of this increased sensitivity with haloperidol treatment include severe extrapyramidal symptoms, confusion, sedation, and falls. In addition, haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists. Haloperidol is contraindicated in patients with Parkinson’s Disease or Dementia with Lewy Bodies (see CONTRAINDICATIONS ). Hypersensitivity Reactions There have been postmarketing reports of hypersensitivity reactions with haloperidol. These include anaphylactic reaction, angioedema, dermatitis exfoliative, hypersensitivity vasculitis, rash, urticaria, face edema, laryngeal edema, bronchospasm, and laryngospasm (see ADVERSE REACTIONS ). Haloperidol is contraindicated in patients with hypersensitivity to this drug (see CONTRAINDICATIONS ). Falls Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including haloperidol, which may lead to falls and, consequently, fractures or other fall-related injuries. For patients, particularly the elderly, with diseases, conditions, or medications that could exacerbate these effects, assess the risk of falls when initiating antipsychotic treatment and recurrently for patients receiving repeated doses. Usage in Pregnancy Rats or rabbits administered oral haloperidol at doses of 0.5 to 7.5 mg/kg. which are approximately 0.2 to 7 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m 2 body surface area, showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality. No fetal abnormalities were observed at these doses in rats or rabbits. Cleft palate has been observed in mice administered oral haloperidol at a dose of 0.5 mg/kg, which is approximately 0.1 times the MRHD based on mg/m 2 body surface area. There are no well controlled studies with haloperidol in pregnant women. There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy. Causal relationships were not established in these cases. Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus. Infants should not be nursed during drug treatment. Non-Teratogenic Effects Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery. There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates. These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization. Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Combined Use of Haloperidol and Lithium An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and fasting blood sugar) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol. A causal relationship between these events and the concomitant administration of lithium and haloperidol has not been established; however, patients receiving such combined therapy should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear. General A number of cases of bronchopneumonia, some fatal, have followed the use of antipsychotic drugs, including haloperidol. It has been postulated that lethargy and decreased sensation of thirst due to central inhibition may lead to dehydration, hemoconcentration and reduced pulmonary ventilation. Therefore, if the above signs and symptoms appear, especially in the elderly, the physician should institute remedial therapy promptly. Although not reported with haloperidol, decreased serum cholesterol and/or cutaneous and ocular changes have been reported in patients receiving chemically-related drugs."
+  ],
+  "precautions": [
+   "PRECAUTIONS Leukopenia, Neutropenia, and Agranulocytosis Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol. Agranulocytosis has also been reported. Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia. Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of haloperidol should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors. Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur. Patients with severe neutropenia (absolute neutrophil count <1000/mm 3 ) should discontinue haloperidol and have their WBC followed until recovery. Withdrawal Emergent Dyskinesia Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs. However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal. In certain of these cases the dyskinetic movements are indistinguishable from tardive dyskinesia (see WARNINGS, Tardive Dyskinesia ) except for duration. It is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs but until further evidence becomes available, it seems reasonable to gradually withdraw use of haloperidol (see WARNINGS, Usage in Pregnancy ). Other Haloperidol should be administered cautiously to patients: • with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain. Should hypotension occur and a vasopressor be required, epinephrine must not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur. Instead, metaraminol, phenylephrine or norepinephrine should be used. • receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold. If indicated, adequate anticonvulsant therapy should be concomitantly maintained. • with known allergies, or with a history of allergic reactions to drugs. • receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione). When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression. Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol. Drug Interactions Drug-drug interactions can be pharmacodynamic (combined pharmacologic effects) or pharmacokinetic (alteration of plasma levels). The risks of using haloperidol in combination with other drugs have been evaluated as described below. Pharmacodynamic Interactions Since QTc interval-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions or to patients receiving medications known to prolong the QTc-interval (see WARNINGS, Cardiovasucular Effects ). Examples include (but are not limited to): Class 1A antiarrhythmics (e.g., procainamide, quinidine, disopyramide); Class 3 antiarrhythmics (e.g., amiodarone, sotalol); and other drugs such as citalopram, erythromycin, levofloxacin, methadone, and ziprasidone. Caution is advised when haloperidol is used in combination with drugs known to cause electrolyte imbalance (e.g., diuretics or corticosteroids because hypokalemia, hypomagnesemia, and hypocalcemia are risk factors for QT prolongation. Haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists. If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates. If both are discontinued simultaneously, extrapyramidal symptoms may occur. The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol. As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opioids, and alcohol. Pharmacokinetic Interactions Drugs that May Increase Haloperidol Plasma Concentrations Haloperidol is metabolized by several routes. The major pathways are glucuronidation and ketone reduction. The cytochrome P450 enzyme system is also involved, particularly CYP3A4 and, to a lesser extent, CYP2D6. Inhibition of these routes of metabolism by another drug or a decrease in CYP2D6 enzyme may result in increased haloperidol concentrations. The effect of CYP3A4 inhibition and of decreased CYP2D6 enzyme activity may be additive. The haloperidol plasma concentrations increased when a CYP3A4 and/or CYP2D6 inhibitor was coadministered with haloperidol. Examples include: •CYP3A4 inhibitors – alprazolam; itraconazole, ketoconazole, nefazodone, ritonavir. •CYP2D6 inhibitors – chlorpromazine; promethazine; quinidine; paroxetine, sertraline, venlafaxine. •Combined CYP3A4 and CYP2D6 inhibitors – fluoxetine, fluvoxamine; ritonavir. •Buspirone. Increased haloperidol plasma concentrations may result in an increased risk of adverse events, including QTc interval prolongation (see WARNINGS, Cardiovasucular Effects ). Increases in QTc have been observed when haloperidol was given with a combination of the metabolic inhibitors ketoconazole (400 mg/day) and paroxetine (20 mg/day). It is recommended that patients who take haloperidol concomitantly with such medicinal products be monitored for signs or symptoms of increased or prolonged pharmacologic effects of haloperidol, and the haloperidol dose be decreased as deemed necessary. Valproate: Sodium valproate, a drug known to inhibit glucuronidation, does not affect haloperidol plasma concentrations. Drugs that May Decrease Haloperidol Plasma Concentrations Coadministration of haloperidol with potent enzyme inducers of CYP3A4 may gradually decrease the plasma concentrations of haloperidol to such an extent that efficacy may be reduced. Examples include (but are not limited to): carbamazepine, phenobarbital, phenytoin, rifampin, St John’s Wort ( Hypericum, perforatum ). Rifampin: In a study of 12 patients with schizophrenia coadministered oral haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline. In 5 other patients with schizophrenia treated with oral haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations. Carbamazepine: In a study in 11 patients with schizophrenia coadministered haloperidol and increasing doses of carbamazepine, haloperidol plasma concentrations decreased linearly with increasing carbamazepine concentrations. During combination treatment with inducers of CYP3A4, it is recommended that patients be monitored and the haloperidol dose increased as deemed necessary. After withdrawal of the CYP3A4 inducer, the concentration of haloperidol may gradually increase and therefore it may be necessary to reduce the dose of haloperidol. Effect of Haloperidol on Other Drugs Haloperidol is an inhibitor of CYP2D6. Plasma concentrations of CYP2D6 substrates (e.g., tricyclic antidepressants such as desipramine or imipramine) may increase when they are co-administered with haloperidol. Information for Patients Haloperidol may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle. The ambulatory patient should be warned accordingly. The use of alcohol with this drug should be avoided due to possible additive effects and hypotension. Carcinogenesis, Mutagenesis, Impairment of Fertility No mutagenic potential of haloperidol was found in the Ames Salmonella assay. Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of haloperidol on chromosome structure and number. The available cytogenetic evidence is considered too inconsistent to be conclusive at this time. Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months). In the rat study survival was reduced in all dose groups, decreasing the number of rats at risk for developing tumors. However, although a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals. Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to approximately 2.5 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m 2 body surface area. In female mice there was a statistically significant increase in mammary gland neoplasia and total tumor incidence at doses approximately 0.3 and 1.2 times the MRHD based on mg/m 2 body surface area and there was a statistically significant increase in pituitary gland neoplasia at approximately 1.2 times the MRHD. In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted. Antipsychotic drugs elevate prolactin levels; the elevation persists during chronic administration. Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer. Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients. An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs. Published epidemiologic studies have shown inconsistent results when exploring the association between hyperprolactinemia and breast cancer. There are no well controlled studies with haloperidol in pregnant women. There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy. Causal relationships were not established in these cases. Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus. Nursing Mothers Since haloperidol is excreted in human breast milk, infants should not be nursed during drug treatment with haloperidol. Pediatric Use Safety and effectiveness in pediatric patients have not been established. Geriatric Use Clinical studies of haloperidol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients. However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia ) Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION ). Use in Hepatic Impairment Studies in patients with hepatic impairment have not been conducted. Haloperidol concentrations may increase in hepatically impaired patients, because it is primarily metabolized by the liver and protein binding may decrease."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS The following adverse reactions are discussed in more detail in other sections of the labeling: •WARNINGS, Increased Mortality in Elderly Patients with Dementia-Related Psychosis •WARNINGS, Cardiovascular Effects •WARNINGS, Tardive Dyskinesia •WARNINGS, Neuroleptic Malignant Syndrome •WARNINGS, Hypersensitivity Reactions •WARNINGS, Falls •WARNINGS, Usage in Pregnancy •WARNINGS, Combined Use of Haloperidol and Lithium •WARNINGS, General •PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis •PRECAUTIONS, Withdrawal Emergent Dyskinesia •PRECAUTIONS, Other Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice. The data described below reflect exposure to haloperidol in the following: •284 patients who participated in 3 double-blind, placebo-controlled clinical trials with haloperidol (oral formulation, 2 to 20 mg/day); two trials were in the treatment of schizophrenia and one in the treatment of bipolar disorder. •1295 patients who participated in 16 double-blind, active comparator-controlled clinical trials with haloperidol (injection or oral formulation, 1 to 45 mg/day) in the treatment of schizophrenia. Based on the pooled safety data, the most common adverse reactions in haloperidol-treated patients from these double-blind placebo-controlled clinical trials (≥5%) were: extrapyramidal disorder, hyperkinesia, tremor, hypertonia, dystonia, and somnolence. Adverse Reactions Reported at ≥1% Incidence in Double-Blind Placebo-Controlled Clinical Trials with Oral Haloperidol Adverse reactions occurring in ≥1% of haloperidol-treated patients and at higher rate than placebo in 3 double-blind, parallel, placebo-controlled, clinical trials with the oral formulation are shown in Table 1. Table 1. Adverse Reactions Occurring in ≥1% of Haloperidol-Treated Patients in Double-Blind, Parallel Placebo-Controlled Clinical Trials (Oral Haloperidol) a Represents the total reporting rate for extrapyramidal disorder (reported term) and individual symptoms of extrapyramidal disorder, including events that did not meet the threshold of ≥1% for inclusion in this table. Additional Adverse Reactions Reported in Double-Blind, Placebo- or Active Comparator-Controlled Clinical Trials with Injectable or Oral Haloperidol Additional adverse reactions that are listed below were reported by haloperidol-treated patients in double-blind, active comparator-controlled clinical trials with the injectable or oral formulation, or at <1% incidence in double-blind, parallel, placebo-controlled, clinical trials with the oral formulation. Cardiac Disorders: Tachycardia Endocrine Disorders: Hyperprolactinemia Eye Disorders: Vision blurred Investigations: Weight increased Musculoskeletal and Connective Tissue Disorders: Torticollis, Trismus, Muscle rigidity, Muscle twitching Nervous System Disorders: Akathisia, Dizziness, Dyskinesia, Hypokinesia, Neuroleptic malignant syndrome, Nystagmus, Oculogyric crisis, Parkinsonism, Sedation, Tardive dyskinesia Psychiatric Disorders: Loss of libido, Restlessness Reproductive System and Breast Disorders: Amenorrhea, Galactorrhea, Dysmenorrhea, Erectile dysfunction, Menorrhagia, Breast discomfort Skin and Subcutaneous Tissue Disorders: Acneiform skin reactions Vascular Disorders: Hypotension, Orthostatic hypotension Adverse Reactions Identified in Clinical Trials with Haloperidol Decanoate The adverse reactions listed below were identified in clinical trials with haloperidol decanoate (long-acting depot formulation), and reflect exposure to the active moiety haloperidol in 410 patients who participated in 13 clinical trials with haloperidol decanoate (15 to 500 mg/month) in the treatment of schizophrenia or schizoaffective disorder. These clinical trials comprised: •1 double-blind, active comparator-controlled trial with fluphenazine decanoate. •2 trials comparing the decanoate formulation to oral haloperidol. •9 open-label trials. •1 dose-response trial. Nervous System Disorders: Akinesia, Cogwheel rigidity, Masked facies. Postmarketing Experience The following adverse reactions relating to the active moiety haloperidol have been identified during postapproval use of haloperidol or haloperidol decanoate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles Endocrine Disorders: Inappropriate antidiuretic hormone secretion Gastrointestinal Disorders: Vomiting, Nausea General Disorders and Administration Site Conditions: Sudden death, Face edema, Edema, Hyperthermia, Hypothermia Hepatobiliary Disorders: Acute hepatic failure, Hepatitis, Cholestasis, Jaundice, Liver function test abnormal Immune System Disorders: Anaphylactic reaction, Hypersensitivity Investigations: Electrocardiogram QT prolonged, Weight decreased Metabolic and Nutritional Disorders: Hypoglycemia Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis Nervous System Disorders: Convulsion, Headache, Opisthotonus, Tardive dystonia Pregnancy, Puerperium and Perinatal Conditions: Drug withdrawal syndrome neonatal Psychiatric Disorders: Agitation, Confusional state, Depression, Insomnia Renal and Urinary Disorders: Urinary retention Reproductive System and Breast Disorders: Priapism, Gynecomastia Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis To report SUSPECTED ADVERSE REACTIONS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. Image1.jpg"
+  ],
+  "overdosage": [
+   "OVERDOSAGE Manifestations In general, the symptoms of overdosage would be an exaggeration of known pharmacologic effects and adverse reactions, the most prominent of which would be: 1) severe extrapyramidal reactions, 2) hypotension, or 3) sedation. The patient would appear comatose with respiratory depression and hypotension which could be severe enough to produce a shock-like state. The extrapyramidal reactions would be manifested by muscular weakness or rigidity and a generalized or localized tremor as demonstrated by the akinetic or agitans types respectively. With accidental overdosage, hypertension rather than hypotension occurred in a two-year old child. The risk of ECG changes associated with torsade de pointes should be considered. (For further information regarding torsade de pointes, please refer to ADVERSE REACTIONS .) Treatment Since there is no specific antidote, treatment is primarily supportive. Dialysis is not recommended in the treatment of overdose because it moves only very small amounts of haloperidol. A patent airway must be established by use of an oropharyngeal airway or endotracheal tube or, in prolonged cases of coma, by tracheostomy. Respiratory depression may be counteracted by artificial respiration and mechanical respirators. Hypotension and circulatory collapse may be counteracted by use of intravenous fluids, plasma, or concentrated albumin, and vasopressor agents such as metaraminol, phenylephrine and norepinephrine. Epinephrine should not be used. In case of severe extrapyramidal reactions, antiparkinson medication should be administered. ECG and vital signs should be monitored especially for signs of QT-interval prolongation or dysrhythmias and monitoring should continue until the ECG is normal. Severe arrhythmias should be treated with appropriate anti-arrhythmic measures. In case of overdose, consult a Certified Poison Control Center (1-800-222-1222)."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION There is considerable variation from patient to patient in the amount of medication required for treatment. As with all drugs used to treat schizophrenia, dosage should be individualized according to the needs and response of each patient. Dosage adjustments, either upward or downward, should be carried out as rapidly as practicable to achieve optimum therapeutic control. To determine the initial dosage, consideration should be given to the patient’s age, severity of illness, previous response to other antipsychotic drugs, and any concomitant medication or disease state. Debilitated or geriatric patients, as well as those with a history of adverse reactions to antipsychotic drugs, may require less haloperidol. The optimal response in such patients is usually obtained with more gradual dosage adjustments and at lower dosage levels. Parenteral medication, administered intramuscularly in doses of 2 mg to 5 mg, is utilized for prompt control of the acutely agitated schizophrenic patient with moderately severe to very severe symptoms. Depending on the response of the patient, subsequent doses may be given, administered as often as every hour, although 4 to 8 hour intervals may be satisfactory. The maximum dose is 20 mg/day. Controlled trials to establish the safety and effectiveness of intramuscular administration in children have not been conducted. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Switchover Procedure An oral form should supplant the injectable as soon as practicable. In the absence of bioavailability studies establishing bioequivalence between these two dosage forms the following guidelines for dosage are suggested. For an initial approximation of the total daily dose required, the parenteral dose administered in the preceding 24 hours may be used. Since this dose is only an initial estimate, it is recommended that careful monitoring of clinical signs and symptoms, including clinical efficacy, sedation, and adverse effects, be carried out periodically for the first several days following the initiation of switchover. In this way, dosage adjustments, either upward or downward, can be quickly accomplished. Depending on the patient’s clinical status, the first oral dose should be given within 12 to 24 hours following the last parenteral dose."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Haloperidol injection, USP (For Immediate Release) equivalent to 5 mg haloperidol per mL (as the lactate) is supplied as follows: NDC 67457-426-12 1 mL (5 mg) vial, 25 vials per carton. Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Protect from light. Do not freeze. Product repackaged by: Henry Schein, Inc., Bastian, VA 24314 From Original Manufacturer/Distributor's NDC and Unit of Sale To Henry Schein Repackaged Product NDC and Unit of Sale Total Strength/Total Volume (Concentration) per unit NDC 67457-426-12 25 vials per carton NDC 0404-9871-01 1 1 mL (5 mg) vial in a bag (Vial bears NDC 67457-426-00) 5 mg per mL"
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\"><caption>Product repackaged by: Henry Schein, Inc., Bastian, VA 24314 </caption><tbody><tr><td>From Original Manufacturer/Distributor&apos;s NDC and Unit of Sale</td><td>To Henry Schein Repackaged Product NDC and Unit of Sale</td><td>Total Strength/Total Volume (Concentration) per unit </td></tr><tr><td>NDC 67457-426-12 25 vials per carton</td><td>NDC 0404-9871-01 1 1 mL (5 mg) vial in a bag (Vial bears NDC 67457-426-00)</td><td>5 mg per mL</td></tr></tbody></table>"
+  ],
+  "set_id": "65df5d2d-79aa-41d4-866a-566e520320f7",
+  "id": "74d33642-a53d-4042-aa8f-87460d97fd9f",
+  "effective_time": "20260302",
+  "version": "7"
+ }
+}

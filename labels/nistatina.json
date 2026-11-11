@@ -1,0 +1,691 @@
+{
+ "id_es": "nistatina",
+ "generic_en": "nystatin",
+ "search": "openfda.generic_name.exact:\"NYSTATIN\"",
+ "downloaded": "2026-11-11T06:40Z",
+ "chosen": {
+  "set_id": "9954118e-abe6-4388-98c9-4473d39b2e28",
+  "id": "4c47b825-6b93-307f-e063-6394a90a2b7d",
+  "effective_time": "20260305",
+  "version": "7",
+  "brand_name": [
+   "Nystatin"
+  ],
+  "generic_name": [
+   "NYSTATIN"
+  ],
+  "manufacturer_name": [
+   "Chartwell RX, LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA050299"
+  ],
+  "n_sections": 14
+ },
+ "candidates": [
+  {
+   "set_id": "56aca0e2-8691-4701-beba-e2315524709f",
+   "id": "b137c100-538a-4d06-8f71-3681bd9018f9",
+   "effective_time": "20261027",
+   "version": "5",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203621"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "d59098da-1395-49fb-9fd6-947bbbeed56f",
+   "id": "23ff72d6-6f17-4f7d-8365-9022d844a3ee",
+   "effective_time": "20261012",
+   "version": "8",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203621"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "8211a0ef-98a8-4136-986c-23c306db1159",
+   "id": "bf047ee0-bcba-42cf-b968-aa5088eff729",
+   "effective_time": "20261009",
+   "version": "4",
+   "brand_name": [
+    "NYSTATIN"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214346"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "90a52c3f-3ef7-4f3b-9fe5-40af408e9f2a",
+   "id": "8e20e512-dc60-4315-89d6-b76f19398856",
+   "effective_time": "20261007",
+   "version": "2",
+   "brand_name": [
+    "NYSTATIN"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Kanchan Healthcare Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062832"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "05cc72dd-8e05-bfb5-e063-6394a90a92f1",
+   "id": "5968f53d-ca46-0c6e-e063-6394a90af3b5",
+   "effective_time": "20260819",
+   "version": "2",
+   "brand_name": [
+    "nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062474"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "197e3046-3e58-4246-b260-f3995dce41a1",
+   "id": "a9d91711-f249-4f9e-b3cc-17ad5371d4d5",
+   "effective_time": "20260805",
+   "version": "3",
+   "brand_name": [
+    "nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062474"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d92f67a7-dcae-41c0-9a35-dbafa2361170",
+   "id": "6481ba58-8416-4c9f-90b1-4e4507dee519",
+   "effective_time": "20260804",
+   "version": "3",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "98bd8ccb-0c68-47b9-bcb4-c5d8217868d9",
+   "id": "517d9b5e-2840-4db0-a042-c990b7b5d768",
+   "effective_time": "20260724",
+   "version": "3",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA061966"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "28b4e26e-206a-4e8a-abfe-774b780e91c3",
+   "id": "7d265612-edc5-42bc-8e58-bae7d7ab7918",
+   "effective_time": "20260721",
+   "version": "9",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "PAI Holdings, LLC dba PAI Pharma"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203621"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "0bb31239-fb77-442a-a9ee-ba61b45e7e68",
+   "id": "2da30521-5793-43d7-a6b2-831bc4443048",
+   "effective_time": "20260714",
+   "version": "103",
+   "brand_name": [
+    "Nystop"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA064118"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "2d2c4f79-95b5-417e-b5c1-8fac1dd09ddc",
+   "id": "6467595c-fcd2-4dd8-8521-a12d9980ce27",
+   "effective_time": "20260709",
+   "version": "101",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "a97b4fa6-c1a7-4003-9321-3717eb640ea9",
+   "id": "a97b4fa6-c1a7-4003-9321-3717eb640ea9",
+   "effective_time": "20260706",
+   "version": "1",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213566"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "50737729-a4a4-e747-e063-6394a90adcc5",
+   "id": "50738a43-7297-270c-e063-6294a90af2cc",
+   "effective_time": "20260630",
+   "version": "1",
+   "brand_name": [
+    "NYSTATIN"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Kesin Pharma Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062832"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "4f6f59fb-ae7d-48e5-b23e-a1d92160974f",
+   "id": "e2765480-7416-41c4-a4f5-4b5f5325e07f",
+   "effective_time": "20260511",
+   "version": "100",
+   "brand_name": [
+    "NYSTATIN"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062832"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "4949dea7-d2b9-4e0d-974a-39408fa174ba",
+   "id": "b5c975a5-4d7a-4177-b1e2-524bad92a5fb",
+   "effective_time": "20260508",
+   "version": "8",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Torrent Pharmaceuticals Limited"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211838"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "b25cbae5-eaf5-4501-b013-02c778ca4a4e",
+   "id": "319a98e0-8009-47c9-9f40-9cd288c26e48",
+   "effective_time": "20260507",
+   "version": "2",
+   "brand_name": [
+    "NYSTATIN"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Genus Lifesciences Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065148"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "559b5bd4-3564-4437-8d0a-fa3a972f8b83",
+   "id": "96bcc133-c446-4fce-a99a-ccd1039ded49",
+   "effective_time": "20260501",
+   "version": "9",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Torrent Pharmaceuticals Limited"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "f1857ac0-806c-4a7e-e053-2995a90abbc0",
+   "id": "4d3a9fbe-9f7f-e1a0-e063-6294a90a7857",
+   "effective_time": "20260317",
+   "version": "3",
+   "brand_name": [
+    "Mycostatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Direct_Rx"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062225"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "f1b13a36-c349-4e26-a322-3ec02c610155",
+   "id": "ad683192-24e2-4cf2-8176-77ebf3fc8ebb",
+   "effective_time": "20260316",
+   "version": "15",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062225"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "9954118e-abe6-4388-98c9-4473d39b2e28",
+   "id": "4c47b825-6b93-307f-e063-6394a90a2b7d",
+   "effective_time": "20260305",
+   "version": "7",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA050299"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "17b9e33d-da9c-467a-bbc4-9e257727f19a",
+   "id": "764e2a6a-00ef-4340-8810-9537bae3b0be",
+   "effective_time": "20260223",
+   "version": "7",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203621"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "4a670371-d373-1ba6-e063-6394a90a13b6",
+   "id": "4a2ff89a-52fe-8bf9-e063-6394a90a7f1d",
+   "effective_time": "20260206",
+   "version": "1",
+   "brand_name": [
+    "Nystatin Oral Suspension"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Xttrium Laboratories, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062512"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "f4c298d5-b012-7b56-e053-2a95a90a3d55",
+   "id": "4922a3ab-05b8-2ff2-e063-6294a90a9fd4",
+   "effective_time": "20260124",
+   "version": "4",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "RedPharm Drug, Inc"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "5c08148f-83e5-4f14-b0d3-af8d2c26062e",
+   "id": "484acdef-5f40-bd3e-e063-6394a90aebe2",
+   "effective_time": "20260113",
+   "version": "3",
+   "brand_name": [
+    "NYSTATIN"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "ATLANTIC BIOLOGICALS CORP."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214346"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "30175930-f5fa-403d-a3ac-3bdbbe723641",
+   "id": "462a7357-7985-7f48-e063-6294a90ac5c8",
+   "effective_time": "20251217",
+   "version": "3",
+   "brand_name": [
+    "Nystatin"
+   ],
+   "generic_name": [
+    "NYSTATIN"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062474"
+   ],
+   "n_sections": 14
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Nystatin, USP is obtained from Streptomyces noursei . It is known to be a mixture, but the composition has not been completely elucidated. Nystatin A is closely related to amphotericin B. Each is a macro-cyclic lactone containing a ketal ring, an all-trans polyene system, and a mycosamine (3-amino-3-deoxyrhamose) moiety. Its structural formula is: C 47 H 75 NO 17 M.W .926 .13 Nystatin Oral Suspension, USP, is a cherry-flavored, ready-to-use suspension containing 100,000 units of Nystatin, USP per mL. Nystatin, USP contains the following inactive ingredients: artificial (wild) cherry flavor, D&C Yellow 10, edetate calcium disodium, hydrochloric acid, methylparaben, polysorbate 80, propylparaben, purified bentonite, purified water, sodium hydroxide and sucrose. image description"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Nystatin acts by binding to sterols in the cell membrane of the fungus with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin is absorbed very sparingly following oral administration, with no detectable blood levels when given in the recommended doses."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Nystatin oral suspension is indicated for the treatment of infections of the oral cavity caused by Candida albicans ."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Nystatin is contraindicated in patients with a history of hypersensitivity to nystatin or any of the suspension components."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Discontinue treatment with nystatin if sensitization or irritation is reported during use. Nystatin is not effective in the treatment of systemic mycoses since it is not significantly absorbed from the gastrointestinal tract. Information for the Patient Patient should be advised to retain nystatin in the mouth as long as possible and to continue its use for at least 2 days after symptoms have subsided. There should be no interruption or discontinuation of the medication until the prescribed course of treatment is completed, even though symptomatic relief may occur within a few days. If symptoms of local irritation develop, the physician should be notified immediately. Laboratory Tests If there is a lack of therapeutic response, appropriate microbiological studies (e.g., KOH smears and/or cultures) should be repeated to confirm the diagnosis of candidiasis and rule out other pathogens before instituting another course of therapy. Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term animal studies have been performed to evaluate the carcinogenic potential of nystatin. In mice exposed to nystatin 50 mg/kg by injection, an increased incidence of chromosomal aberrations, consisting primarily of chromatid breaks, was observed in bone marrow cells. However, there have been no studies to determine the mutagenicity of orally-administered nystatin or its effects on fertility in males or females. Pregnancy Teratogenic effects Teratogenicity studies have not been conducted with nystatin. It is also not known whether nystatin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Nystatin should be given to a pregnant woman only if clearly needed. Nonteratogenic effects In one rat reproductive study, nystatin was administered orally to pregnant rats in single doses of 100, 500, or 3000 mg/kg on the ninth day of gestation, or as multiple doses of 500 mg/kg/day on gestation days 1-20, 1-4, 7-10, 11-14, or 15-18. It was found that nystatin had a slight abortive effect when used during the whole period of pregnancy. No abnormalities were seen in surviving fetuses. Although no adverse effects or complications have been attributed to the use of intra-vaginal nystatin in neonates born to women treated during pregnancy, no similar studies evaluating complications of oral nystatin have been conducted. Nursing Mothers It is not known whether nystatin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when nystatin is administered to a nursing woman. Pediatric Use See DOSAGE AND ADMINISTRATION section for pediatric dosing recommendations."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Gastrointestinal symptoms including diarrhea, gastrointestinal distress, nausea, vomiting and burning of the mouth have been reported. Hypersensitivity reactions including rash, pruritus, and anaphylactoid reaction have also been reported."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Oral doses of nystatin in excess of five million units daily have caused nausea and gastrointestinal upset."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Infants: 2 mL (200,000 units) four times daily (1 mL in each side of mouth). Pediatric patients and adults: 4 to 6 mL (400,000 to 600,000 units) four times daily (one-half of dose in each side of mouth). NOTE: Limited clinical studies in neonates, including premature and low-birth weight neonates, indicate that 1 mL (100,000 units) four times daily is effective. Local treatment should be continued at least 48 hours after perioral symptoms have disappeared and/or cultures returned to normal. It is recommended that the drug be retained in the mouth as long as possible before swallowing."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Nystatin Oral Suspension, USP is a bright yellow color suspension with cherry flavor containing 100,000 units of nystatin per mL, supplied as follows: NDC 62135-813-46 – bottle of 60 mL with dropper NDC 62135-813-47 – bottle of 473 mL Store at controlled room temperature between 20°C to 25°C (68°F to 77°F). DO NOT FREEZE Manufactured for: Chartwell RX, LLC. Congers, NY 10920 L71884 Rev. 03/2026"
+  ],
+  "set_id": "9954118e-abe6-4388-98c9-4473d39b2e28",
+  "id": "4c47b825-6b93-307f-e063-6394a90a2b7d",
+  "effective_time": "20260305",
+  "version": "7"
+ }
+}

@@ -1,0 +1,719 @@
+{
+ "id_es": "flecainida",
+ "generic_en": "flecainide",
+ "search": "openfda.generic_name:\"flecainide\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "74c1eb2a-a37f-4f33-86bf-51e0d1d0c2bc",
+  "id": "52eef22b-3545-b398-e063-6394a90aec29",
+  "effective_time": "20260529",
+  "version": "8",
+  "brand_name": [
+   "Flecainide Acetate"
+  ],
+  "generic_name": [
+   "FLECAINIDE ACETATE"
+  ],
+  "manufacturer_name": [
+   "Epic Pharma, LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA215599"
+  ],
+  "n_sections": 23
+ },
+ "candidates": [
+  {
+   "set_id": "ee9595d5-08a1-4529-9215-ddc3c7f929c4",
+   "id": "e9e0eab5-efc5-4bac-8d46-0bce60b2fcc5",
+   "effective_time": "20260611",
+   "version": "11",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals of New York LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075442"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "74c1eb2a-a37f-4f33-86bf-51e0d1d0c2bc",
+   "id": "52eef22b-3545-b398-e063-6394a90aec29",
+   "effective_time": "20260529",
+   "version": "8",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Epic Pharma, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215599"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "a30103c5-a261-49a5-a7b3-f43eb77e87b7",
+   "id": "d1f9c698-47c7-46f7-9e8a-f31610f0e6cf",
+   "effective_time": "20260508",
+   "version": "2",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210683"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "2b336028-1e13-4ef7-b75e-345bc9c06f9a",
+   "id": "4bc04d15-e3ce-d29c-e063-6294a90a0103",
+   "effective_time": "20260226",
+   "version": "7",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210683"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "45d39dff-22d9-4c04-af26-0cffd41abaa8",
+   "id": "4bc0523c-158e-9ad2-e063-6294a90a5b87",
+   "effective_time": "20260226",
+   "version": "4",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210683"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "abcb261b-30ae-4eb1-baf0-e9667a2bd8cf",
+   "id": "4bc0370f-21ea-1acb-e063-6394a90ad768",
+   "effective_time": "20260226",
+   "version": "8",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210683"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "8a900f29-85e1-464c-ae9e-44dc7cf11f46",
+   "id": "89eba7bc-b9e6-4132-901c-7c95963039e0",
+   "effective_time": "20260206",
+   "version": "1",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215599"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "5cfa10ba-dfe8-42ab-81b3-8cca657aba07",
+   "id": "7f3745b5-2c12-438a-bbdb-32e1803b73f3",
+   "effective_time": "20260204",
+   "version": "1",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215599"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "b821ec16-93ff-4569-9fbb-4f3842c58bec",
+   "id": "b840330d-c2a7-4b52-83f2-d935e0f3f00e",
+   "effective_time": "20260204",
+   "version": "2",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215599"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "5b33e96a-8336-46c4-aac7-4a6c0039cc80",
+   "id": "6e5f6cbe-c7eb-4168-b02b-119798e895d6",
+   "effective_time": "20260127",
+   "version": "2",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "UNICHEM PHARMACEUTICALS (USA), INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210683"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "f53e1a49-6185-6db4-c867-ffd1241a8cb7",
+   "id": "48253893-9512-565b-e063-6294a90a8ad8",
+   "effective_time": "20260111",
+   "version": "9",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075442"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "166aa9e4-3402-4ebd-baa5-07a8da8aae56",
+   "id": "f01dc898-446e-4f1c-ad65-f91b98169516",
+   "effective_time": "20260106",
+   "version": "3",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075442"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "1a2a5e08-2697-4a00-94fe-de07148acbd9",
+   "id": "77dd2073-3743-4fbc-9f9b-217d1d788b63",
+   "effective_time": "20251126",
+   "version": "11",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "bc304b04-9373-4e47-905d-6b3367ad3be7",
+   "id": "b5726fa0-1d91-4235-9a77-b06e5b54cbf9",
+   "effective_time": "20251103",
+   "version": "101",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "cf143926-439b-4005-be0e-1e049b44c044",
+   "id": "d7ef3cfb-c310-4d8b-b8a6-bdf4dedfd642",
+   "effective_time": "20251103",
+   "version": "101",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "d34fae51-3658-4456-b3ea-1217f0f52260",
+   "id": "d3d69961-0cb7-4439-acdf-99bec2148aac",
+   "effective_time": "20251103",
+   "version": "101",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "f0416c8c-faae-4e31-aa50-1fb7df10abf0",
+   "id": "f0ea084d-e915-46dd-a726-56dbce934a27",
+   "effective_time": "20250923",
+   "version": "5",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "9929c166-8ba3-4159-a5f9-4618d5d227b0",
+   "id": "90b6ca54-dac4-43e7-b75e-dbee6370c2f8",
+   "effective_time": "20250910",
+   "version": "103",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "74355cd2-b50e-0dc2-e053-2a91aa0aa164",
+   "id": "3e665020-7874-2ae3-e063-6394a90ac9c7",
+   "effective_time": "20250909",
+   "version": "10",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "2028149f-6fc0-455c-bac5-729eeaa4aee5",
+   "id": "f2b5a016-df67-45ce-933e-b1f39c8aa6d0",
+   "effective_time": "20250829",
+   "version": "103",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "8dc86db1-2a09-4625-80eb-ff6ce9de2d7a",
+   "id": "53e01a4a-d6ee-4f76-94ce-40fbede5eeae",
+   "effective_time": "20250829",
+   "version": "104",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "5a12889a-52ce-4dc4-9240-22d126f071ac",
+   "id": "74b708a0-2859-4efd-98a6-0c2f04d20114",
+   "effective_time": "20250728",
+   "version": "7",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE TABLET"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "bf810a3b-1a71-4a05-bf54-d5a6caba444b",
+   "id": "142e3bd5-63ba-4882-86c5-94649daa52f2",
+   "effective_time": "20250623",
+   "version": "1",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210683"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "4f6b78d4-8ac8-464b-bb78-ee70cbc97898",
+   "id": "e34a6adf-8794-426e-9e43-11060803a90d",
+   "effective_time": "20241204",
+   "version": "11",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076278"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "475a52a9-f18c-4a69-91f0-8f5e601f4336",
+   "id": "c97a62d4-b357-486d-a0be-6a87af13f749",
+   "effective_time": "20241113",
+   "version": "7",
+   "brand_name": [
+    "Flecainide Acetate"
+   ],
+   "generic_name": [
+    "FLECAINIDE ACETATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202821"
+   ],
+   "n_sections": 22
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Flecainide Acetate Tablets, USP are an antiarrhythmic drug containing 50 mg, 100 mg or 150 mg of flecainide acetate USP for oral administration. Flecainide acetate USP is benzamide, N-(2-piperidinylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)-monoacetate. The structural formula is given below. Flecainide acetate USP is a white crystalline substance with a pKa of 9.3. It has an aqueous solubility of 48.4 mg/mL at 37°C. Flecainide Acetate Tablets, USP also contain: croscarmellose sodium, magnesium stearate, microcrystalline cellulose, and pregelatinized starch. Flecainide Acetate Tablets, USP meets USP Dissolution Test 2. Structural formula for Flecainide Acetate"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Flecainide acetate has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics. Electrophysiology In man, flecainide acetate produces a dose-related decrease in intracardiac conduction in all parts of the heart with the greatest effect on the His-Purkinje system (H-V conduction). Effects upon atrioventricular (AV) nodal conduction time and intra-atrial conduction times, although present, are less pronounced than those on ventricular conduction velocity. Significant effects on refractory periods were observed only in the ventricle. Sinus node recovery times (corrected) following pacing and spontaneous cycle lengths are somewhat increased. This latter effect may become significant in patients with sinus node dysfunction. (See WARNINGS .) Flecainide acetate causes a dose-related and plasma-level related decrease in single and multiple PVCs and can suppress recurrence of ventricular tachycardia. In limited studies of patients with a history of ventricular tachycardia, flecainide acetate has been successful 30 to 40% of the time in fully suppressing the inducibility of arrhythmias by programmed electrical stimulation. Based on PVC suppression, it appears that plasma levels of 0.2 to 1 mcg/mL may be needed to obtain the maximal therapeutic effect. It is more difficult to assess the dose needed to suppress serious arrhythmias, but trough plasma levels in patients successfully treated for recurrent ventricular tachycardia were between 0.2 and 1 mcg/mL. Plasma levels above 0.7 to 1 mcg/mL are associated with a higher rate of cardiac adverse experiences such as conduction defects or bradycardia. The relation of plasma levels to proarrhythmic events is not established, but dose reduction in clinical trials of patients with ventricular tachycardia appears to have led to a reduced frequency and severity of such events. Hemodynamics Flecainide acetate does not usually alter heart rate, although bradycardia and tachycardia have been reported occasionally. In animals and isolated myocardium, a negative inotropic effect of flecainide has been demonstrated. Decreases in ejection fraction, consistent with a negative inotropic effect, have been observed after single administration of 200 to 250 mg of the drug in man; both increases and decreases in ejection fraction have been encountered during multidose therapy in patients at usual therapeutic doses. (See WARNINGS .) Metabolism in Humans Following oral administration, the absorption of flecainide acetate is nearly complete. Peak plasma levels are attained at about three hours in most individuals (range, 1 to 6 hours). Flecainide does not undergo any consequential presystemic biotransformation (first-pass effect). Food or antacid do not affect absorption. Milk, however, may inhibit absorption in infants. A reduction in flecainide acetate dosage should be considered when milk is removed from the diet of infants. The apparent plasma half-life averages about 20 hours and is quite variable (range, 12 to 27 hours) after multiple oral doses in patients with premature ventricular contractions (PVCs). With multiple dosing, plasma levels increase because of its long half-life with steady-state levels approached in 3 to 5 days; once at steady-state, no additional (or unexpected) accumulation of drug in plasma occurs during chronic therapy. Over the usual therapeutic range, data suggest that plasma levels in an individual are approximately proportional to dose, deviating upwards from linearity only slightly (about 10 to 15% per 100 mg on average). In healthy subjects, about 30% of a single oral dose (range, 10 to 50%) is excreted in urine as unchanged drug. The two major urinary metabolites are meta-O-dealkylated flecainide (active, but about one-fifth as potent) and the meta-O-dealkylated lactam of flecainide (non-active metabolite). These two metabolites (primarily conjugated) account for most of the remaining portion of the dose. Several minor metabolites (3% of the dose or less) are also found in urine; only 5% of an oral dose is excreted in feces. In patients, free (unconjugated) plasma levels of the two major metabolites are very low (less than 0.05 mcg/mL). In vitro metabolic studies have confirmed that cytochrome P450IID6 is involved in the metabolism of flecainide acetate. When urinary pH is very alkaline (8 or higher), as may occur in rare conditions (e.g., renal tubular acidosis, strict vegetarian diet), flecainide elimination from plasma is much slower. The elimination of flecainide from the body depends on renal function (i.e., 10 to 50% appears in urine as unchanged drug). With increasing renal impairment, the extent of unchanged drug excretion in urine is reduced and the plasma half-life of flecainide is prolonged. Since flecainide is also extensively metabolized, there is no simple relationship between creatinine clearance and the rate of flecainide elimination from plasma. (See DOSAGE AND ADMINISTRATION .) In patients with NYHA class III congestive heart failure (CHF), the rate of flecainide elimination from plasma (mean half-life, 19 hours) is moderately slower than for healthy subjects (mean half-life, 14 hours), but similar to the rate for patients with PVCs without CHF. The extent of excretion of unchanged drug in urine is also similar. (See DOSAGE AND ADMINISTRATION .) Under one year of age, currently available data are limited but suggest that the half-life at birth may be as long as 29 hours, decreasing to 11 to 12 hours by three months of age and 6 hours by one year of age. The pharmacokinetics in hydropic infants have not been studied, but case reports suggest prolonged elimination. In children aged 1 year to 12 years the half-life is approximately 8 hours. In adolescents (age 12 to 15) the plasma elimination half-life is approximately 11 to 12 hours. Since milk may inhibit absorption in infants, a reduction in flecainide acetate dosage should be considered when milk is removed from the diet (e.g., gastroenteritis, weaning). Plasma trough flecainide levels should be monitored during major changes in dietary milk intake. From age 20 to 80, plasma levels are only slightly higher with advancing age; flecainide elimination from plasma is somewhat slower in elderly subjects than in younger subjects. Patients up to age 80+ have been safely treated with usual dosages. The extent of flecainide binding to human plasma proteins is about 40% and is independent of plasma drug level over the range of 0.015 to about 3.4 mcg/mL. Thus, clinically significant drug interactions based on protein binding effects would not be expected. Hemodialysis removes only about 1% of an oral dose as unchanged flecainide. Small increases in plasma digoxin levels are seen during coadministration of flecainide acetate with digoxin. Small increases in both flecainide and propranolol plasma levels are seen during coadministration of these two drugs. (See PRECAUTIONS: Drug Interactions .) Clinical Trials In two randomized, crossover, placebo-controlled clinical trials of 16 weeks double-blind duration, 79% of patients with paroxysmal supraventricular tachycardia (PSVT) receiving flecainide acetate were attack free, whereas 15% of patients receiving placebo remained attack free. The median time-before-recurrence of PSVT in patients receiving placebo was 11 to 12 days, whereas over 85% of patients receiving flecainide acetate had no recurrence at 60 days. In two randomized, crossover, placebo-controlled clinical trials of 16 weeks double-blind duration, 31% of patients with paroxysmal atrial fibrillation/flutter (PAF) receiving flecainide acetate were attack free, whereas 8% receiving placebo remained attack free. The median time-before-recurrence of PAF in patients receiving placebo was about 2 to 3 days, whereas for those receiving flecainide acetate the median time-before-recurrence was 15 days."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE In patients without structural heart disease, Flecainide Acetate Tablets, USP are indicated for the prevention of: paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disabling symptoms paroxysmal atrial fibrillation/flutter (PAF) associated with disabling symptoms Flecainide Acetate Tablets, USP are also indicated for the prevention of: documented ventricular arrhythmias, such as sustained ventricular tachycardia ( sustained VT), that in the judgment of the physician are life-threatening. Use of Flecainide Acetate Tablets, USP for the treatment of sustained VT, like other antiarrhythmics, should be initiated in the hospital. The use of Flecainide Acetate Tablets, USP is not recommended in patients with less severe ventricular arrhythmias even if the patients are symptomatic. Because of the proarrhythmic effects of Flecainide Acetate Tablets, USP, its use should be reserved for patients in whom, in the opinion of the physician, the benefits of treatment outweigh the risks. Flecainide Acetate Tablets, USP should not be used in patients with recent myocardial infarction. (See Boxed WARNINGS .) Use of Flecainide Acetate Tablets, USP in chronic atrial fibrillation has not been adequately studied and is not recommended. (See Boxed WARNINGS .) As is the case for other antiarrhythmic agents, there is no evidence from controlled trials that the use of Flecainide Acetate Tablets, USP favorably affects survival or the incidence of sudden death."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Flecainide Acetate Tablets are contraindicated in patients with pre-existing second- or third-degree AV block, or with right bundle branch block when associated with a left hemiblock (bifascicular block), unless a pacemaker is present to sustain the cardiac rhythm should complete heart block occur. Flecainide Acetate Tablets are also contraindicated in the presence of cardiogenic shock or known hypersensitivity to the drug."
+  ],
+  "warnings": [
+   "WARNINGS Mortality Flecainide acetate was included in the National Heart Lung and Blood Institute’s Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multicenter, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had a myocardial infarction more than six days but less than two years previously. An excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with flecainide acetate compared with that seen in patients assigned to a carefully matched placebo-treated group. This rate was 16/315 (5.1%) for flecainide acetate and 7/309 (2.3%) for the matched placebo. The average duration of treatment with flecainide acetate in this study was ten months. The applicability of the CAST results to other populations (e.g., those without recent myocardial infarction) is uncertain, but at present, it is prudent to consider the risks of Class IC agents (including flecainide acetate), coupled with the lack of any evidence of improved survival, generally unacceptable in patients without life-threatening ventricular arrhythmias, even if the patients are experiencing unpleasant, but not life-threatening, symptoms or signs. Ventricular Pro-arrhythmic Effects in Patients with Atrial Fibrillation/Flutter A review of the world literature revealed reports of 568 patients treated with oral flecainide acetate for paroxysmal atrial fibrillation/flutter (PAF). Ventricular tachycardia was experienced in 0.4% (2/568) of these patients. Of 19 patients in the literature with chronic atrial fibrillation (CAF), 10.5% (2) experienced VT or VF. FLECAINIDE IS NOT RECOMMENDED FOR USE IN PATIENTS WITH CHRONIC ATRIAL FIBRILLATION. Case reports of ventricular proarrhythmic effects in patients treated with flecainide acetate for atrial fibrillation/flutter have included increased PVCs, VT, ventricular fibrillation (VF), and death. As with other Class I agents, patients treated with flecainide acetate for atrial flutter have been reported with 1:1 atrioventricular conduction due to slowing the atrial rate. A paradoxical increase in the ventricular rate also may occur in patients with atrial fibrillation who receive flecainide acetate. Concomitant negative chronotropic therapy such as digoxin or beta-blockers may lower the risk of this complication."
+  ],
+  "boxed_warning": [
+   "Mortality Flecainide acetate was included in the National Heart Lung and Blood Institute’s Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multicenter, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had a myocardial infarction more than six days but less than two years previously. An excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with flecainide acetate compared with that seen in patients assigned to a carefully matched placebo-treated group. This rate was 16/315 (5.1%) for flecainide acetate and 7/309 (2.3%) for the matched placebo. The average duration of treatment with flecainide acetate in this study was ten months. The applicability of the CAST results to other populations (e.g., those without recent myocardial infarction) is uncertain, but at present, it is prudent to consider the risks of Class IC agents (including flecainide acetate), coupled with the lack of any evidence of improved survival, generally unacceptable in patients without life-threatening ventricular arrhythmias, even if the patients are experiencing unpleasant, but not life-threatening, symptoms or signs. Ventricular Pro-arrhythmic Effects in Patients with Atrial Fibrillation/Flutter A review of the world literature revealed reports of 568 patients treated with oral flecainide acetate for paroxysmal atrial fibrillation/flutter (PAF). Ventricular tachycardia was experienced in 0.4% (2/568) of these patients. Of 19 patients in the literature with chronic atrial fibrillation (CAF), 10.5% (2) experienced VT or VF. FLECAINIDE IS NOT RECOMMENDED FOR USE IN PATIENTS WITH CHRONIC ATRIAL FIBRILLATION. Case reports of ventricular proarrhythmic effects in patients treated with flecainide acetate for atrial fibrillation/flutter have included increased PVCs, VT, ventricular fibrillation (VF), and death. As with other Class I agents, patients treated with flecainide acetate for atrial flutter have been reported with 1:1 atrioventricular conduction due to slowing the atrial rate. A paradoxical increase in the ventricular rate also may occur in patients with atrial fibrillation who receive flecainide acetate. Concomitant negative chronotropic therapy such as digoxin or beta-blockers may lower the risk of this complication."
+  ],
+  "pediatric_use": [
+   "Pediatric Use The safety and efficacy of flecainide acetate in the fetus, infant, or child have not been established in double-blind, randomized, placebo-controlled trials. The proarrhythmic effects of flecainide acetate, as described previously, apply also to children. In pediatric patients with structural heart disease, flecainide acetate has been associated with cardiac arrest and sudden death. Flecainide acetate should be started in the hospital with rhythm monitoring. Any use of flecainide acetate in children should be directly supervised by a cardiologist skilled in the treatment of arrhythmias in children.",
+   "Pediatric Use The safety and efficacy of flecainide acetate in the fetus, infant, or child have not been established in double-blind, randomized, placebo-controlled trials (see CLINICAL PHARMACOLOGY , WARNINGS , and DOSAGE AND ADMINISTRATION )."
+  ],
+  "precautions": [
+   "PRECAUTIONS Drug Interactions Flecainide acetate has been administered to patients receiving digitalis preparations or beta-adrenergic blocking agents without adverse effects. During administration of multiple oral doses of flecainide acetate to healthy subjects stabilized on a maintenance dose of digoxin , a 13% to 19% increase in plasma digoxin levels occurred at six hours postdose. In a study involving healthy subjects receiving flecainide acetate and propranolol concurrently, plasma flecainide levels were increased about 20% and propranolol levels were increased about 30% compared to control values. In this formal interaction study, flecainide acetate and propranolol were each found to have negative inotropic effects; when the drugs were administered together, the effects were additive. The effects of concomitant administration of flecainide acetate and propranolol on the PR interval were less than additive. In flecainide acetate clinical trials, patients who were receiving beta blockers concurrently did not experience an increased incidence of side effects. Nevertheless, the possibility of additive negative inotropic effects of beta blockers and flecainide should be recognized. Flecainide is not extensively bound to plasma proteins. In vitro studies with several drugs which may be administered concomitantly showed that the extent of flecainide binding to human plasma proteins is either unchanged or only slightly less. Consequently, interactions with other drugs which are highly protein bound (e.g., anticoagulants ) would not be expected. Flecainide acetate has been used in a large number of patients receiving diuretics without apparent interaction. Limited data in patients receiving known enzyme inducers ( phenytoin, phenobarbital, carbamazepine ) indicate only a 30% increase in the rate of flecainide elimination. In healthy subjects receiving cimetidine (1 gm daily) for one week, plasma flecainide levels increased by about 30% and half-life increased by about 10%. When amiodarone is added to flecainide acetate therapy, plasma flecainide levels may increase two-fold or more in some patients, if flecainide acetate dosage is not reduced. (See DOSAGE AND ADMINISTRATION ) Drugs that inhibit cytochrome P450IID6, such as quinidine , might increase the plasma concentrations of flecainide in patients that are on chronic flecainide therapy; especially if these patients are extensive metabolizers. There has been little experience with the coadministration of flecainide acetate and either disopyramide or verapamil . Because both of these drugs have negative inotropic properties and the effects of coadministration with flecainide acetate are unknown, neither disopyramide nor verapamil should be administered concurrently with flecainide acetate unless, in the judgment of the physician, the benefits of this combination outweigh the risks. There has been too little experience with the coadministration of flecainide acetate with nifedipine or diltiazem to recommend concomitant use. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies with flecainide acetate in rats and mice at doses up to 60 mg/kg/day have not revealed any compound-related carcinogenic effects. Mutagenicity studies (Ames test, mouse lymphoma and in vivo cytogenetics) did not reveal any mutagenic effects. A rat reproduction study at doses up to 50 mg/kg/day (seven times the usual human dose) did not reveal any adverse effect on male or female fertility. Pregnancy Flecainide has been shown to have teratogenic effects (club paws, sternebrae and vertebrae abnormalities, pale hearts with contracted ventricular septum) and an embryotoxic effect (increased resorptions) in one breed of rabbit (New Zealand White) when given doses of 30 and 35 mg/kg/day, but not in another breed of rabbit (Dutch Belted) when given doses up to 30 mg/kg/day. No teratogenic effects were observed in rats and mice given doses up to 50 and 80 mg/kg/day, respectively; however, delayed sternebral and vertebral ossification was observed at the high dose in rats. Because there are no adequate and well-controlled studies in pregnant women, flecainide acetate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Labor and Delivery It is not known whether the use of flecainide acetate during labor or delivery has immediate or delayed adverse effects on the mother or fetus, affects the duration of labor or delivery, or increases the possibility of forceps delivery or other obstetrical intervention. Nursing Mothers Results from a multiple dose study conducted in mothers soon after delivery indicates that flecainide is excreted in human breast milk in concentrations as high as 4 times (with average levels about 2.5 times) corresponding plasma levels; assuming a maternal plasma level at the top of the therapeutic range (1 mcg/mL), the calculated daily dose to a nursing infant (assuming about 700 mL breast milk over 24 hours) would be less than 3 mg. Pediatric Use The safety and efficacy of flecainide acetate in the fetus, infant, or child have not been established in double-blind, randomized, placebo-controlled trials (see CLINICAL PHARMACOLOGY , WARNINGS , and DOSAGE AND ADMINISTRATION ). Hepatic Impairment Since flecainide elimination from plasma can be markedly slower in patients with significant hepatic impairment, flecainide acetate should not be used in such patients unless the potential benefits clearly outweigh the risks. If used, frequent and early plasma level monitoring is required to guide dosage (see Plasma Level Monitoring ) ; dosage increases should be made very cautiously when plasma levels have plateaued (after more than four days)."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Flecainide acetate has been administered to patients receiving digitalis preparations or beta-adrenergic blocking agents without adverse effects. During administration of multiple oral doses of flecainide acetate to healthy subjects stabilized on a maintenance dose of digoxin , a 13% to 19% increase in plasma digoxin levels occurred at six hours postdose. In a study involving healthy subjects receiving flecainide acetate and propranolol concurrently, plasma flecainide levels were increased about 20% and propranolol levels were increased about 30% compared to control values. In this formal interaction study, flecainide acetate and propranolol were each found to have negative inotropic effects; when the drugs were administered together, the effects were additive. The effects of concomitant administration of flecainide acetate and propranolol on the PR interval were less than additive. In flecainide acetate clinical trials, patients who were receiving beta blockers concurrently did not experience an increased incidence of side effects. Nevertheless, the possibility of additive negative inotropic effects of beta blockers and flecainide should be recognized. Flecainide is not extensively bound to plasma proteins. In vitro studies with several drugs which may be administered concomitantly showed that the extent of flecainide binding to human plasma proteins is either unchanged or only slightly less. Consequently, interactions with other drugs which are highly protein bound (e.g., anticoagulants ) would not be expected. Flecainide acetate has been used in a large number of patients receiving diuretics without apparent interaction. Limited data in patients receiving known enzyme inducers ( phenytoin, phenobarbital, carbamazepine ) indicate only a 30% increase in the rate of flecainide elimination. In healthy subjects receiving cimetidine (1 gm daily) for one week, plasma flecainide levels increased by about 30% and half-life increased by about 10%. When amiodarone is added to flecainide acetate therapy, plasma flecainide levels may increase two-fold or more in some patients, if flecainide acetate dosage is not reduced. (See DOSAGE AND ADMINISTRATION ) Drugs that inhibit cytochrome P450IID6, such as quinidine , might increase the plasma concentrations of flecainide in patients that are on chronic flecainide therapy; especially if these patients are extensive metabolizers. There has been little experience with the coadministration of flecainide acetate and either disopyramide or verapamil . Because both of these drugs have negative inotropic properties and the effects of coadministration with flecainide acetate are unknown, neither disopyramide nor verapamil should be administered concurrently with flecainide acetate unless, in the judgment of the physician, the benefits of this combination outweigh the risks. There has been too little experience with the coadministration of flecainide acetate with nifedipine or diltiazem to recommend concomitant use."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies with flecainide acetate in rats and mice at doses up to 60 mg/kg/day have not revealed any compound-related carcinogenic effects. Mutagenicity studies (Ames test, mouse lymphoma and in vivo cytogenetics) did not reveal any mutagenic effects. A rat reproduction study at doses up to 50 mg/kg/day (seven times the usual human dose) did not reveal any adverse effect on male or female fertility."
+  ],
+  "pregnancy": [
+   "Pregnancy Flecainide has been shown to have teratogenic effects (club paws, sternebrae and vertebrae abnormalities, pale hearts with contracted ventricular septum) and an embryotoxic effect (increased resorptions) in one breed of rabbit (New Zealand White) when given doses of 30 and 35 mg/kg/day, but not in another breed of rabbit (Dutch Belted) when given doses up to 30 mg/kg/day. No teratogenic effects were observed in rats and mice given doses up to 50 and 80 mg/kg/day, respectively; however, delayed sternebral and vertebral ossification was observed at the high dose in rats. Because there are no adequate and well-controlled studies in pregnant women, flecainide acetate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus."
+  ],
+  "labor_and_delivery": [
+   "Labor and Delivery It is not known whether the use of flecainide acetate during labor or delivery has immediate or delayed adverse effects on the mother or fetus, affects the duration of labor or delivery, or increases the possibility of forceps delivery or other obstetrical intervention."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Results from a multiple dose study conducted in mothers soon after delivery indicates that flecainide is excreted in human breast milk in concentrations as high as 4 times (with average levels about 2.5 times) corresponding plasma levels; assuming a maternal plasma level at the top of the therapeutic range (1 mcg/mL), the calculated daily dose to a nursing infant (assuming about 700 mL breast milk over 24 hours) would be less than 3 mg."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS In post-myocardial infarction patients with asymptomatic PVCs and non-sustained ventricular tachycardia, flecainide acetate therapy was found to be associated with a 5.1% rate of death and non-fatal cardiac arrest, compared with a 2.3% rate in a matched placebo group. (See WARNINGS .) Adverse effects reported for flecainide acetate, described in detail in the WARNINGS section, were new or worsened arrhythmias which occurred in 1% of 108 patients with PSVT and in 7% of 117 patients with PAF; and new or exacerbated ventricular arrhythmias which occurred in 7% of 1,330 patients with PVCs, non-sustained or sustained VT. In patients treated with flecainide acetate for sustained VT, 80% (51/64) of proarrhythmic events occurred within 14 days of the onset of therapy. 198 patients with sustained VT experienced a 13% incidence of new or exacerbated ventricular arrhythmias when dosage was initiated at 200 mg/day with slow upward titration, and did not exceed 300 mg/day in most patients. In some patients, flecainide acetate treatment has been associated with episodes of unresuscitatable VT or ventricular fibrillation (cardiac arrest). (See WARNINGS .) New or worsened CHF occurred in 6.3% of 1,046 patients with PVCs, non-sustained or sustained VT. Of 297 patients with sustained VT, 9.1% experienced new or worsened CHF. New or worsened CHF was reported in 0.4% of 225 patients with supraventricular arrhythmias. There have also been instances of second- (0.5%) or third-degree (0.4%) AV block. Patients have developed sinus bradycardia, sinus pause, or sinus arrest, about 1.2% altogether (see WARNINGS ) . The frequency of most of these serious adverse events probably increases with higher trough plasma levels, especially when these trough levels exceed 1 mcg/mL. There have been rare reports of isolated elevations of serum alkaline phosphatase and isolated elevations of serum transaminase levels. These elevations have been asymptomatic and no cause and effect relationship with flecainide acetate has been established. In foreign postmarketing surveillance studies, there have been rare reports of hepatic dysfunction including reports of cholestasis and hepatic failure, and extremely rare reports of blood dyscrasias. Although no cause and effect relationship has been established, it is advisable to discontinue flecainide acetate in patients who develop unexplained jaundice or signs of hepatic dysfunction or blood dyscrasias in order to eliminate flecainide acetate as the possible causative agent. Incidence figures for other adverse effects in patients with ventricular arrhythmias are based on a multicenter efficacy study, utilizing starting doses of 200 mg/day with gradual upward titration to 400 mg/day. Patients were treated for an average of 4.7 months, with some receiving up to 22 months of therapy. In this trial, 5.4% of patients discontinued due to non-cardiac adverse effects. Table 1: Most Common Non-Cardiac Effects in Ventricular Arrhythmia Patients Treated with Flecainide Acetate in the Multicenter Study Adverse Effect Incidence All 429 Patients at Any Dose Incidence by Dose During Upward Titration 200 mg/Day (N=426) 300 mg/Day (N=293) 400 mg/Day (N=100) Dizziness Dizziness includes reports of dizziness, lightheadedness, faintness, unsteadiness, near syncope, etc. 18.9% 11.0% 10.6% 13.0% Visual Disturbances Visual disturbance includes reports of blurred vision, difficulty in focusing, spots before eyes, etc. 15.9% 5.4% 12.3% 18.0% Dyspnea 10.3% 5.2% 7.5% 4.0% Headache 9.6% 4.5% 6.1% 9.0% Nausea 8.9% 4.9% 4.8% 6.0% Fatigue 7.7% 4.5% 4.4% 3.0% Palpitation 6.1% 3.5% 2.4% 7.0% Chest Pain 5.4% 3.1% 3.8% 1.0% Asthenia 4.9% 2.6% 2.0% 4.0% Tremor 4.7% 2.4% 3.4% 2.0% Constipation 4.4% 2.8% 2.1% 1.0% Edema 3.5% 1.9% 1.4% 2.0% Abdominal Pain 3.3% 1.9% 2.4% 1.0% The following additional adverse experiences, possibly related to flecainide acetate therapy and occurring in 1% to less than 3% of patients, have been reported in acute and chronic studies: Body as a Whole: malaise, fever; Cardiovascular: tachycardia, sinus pause or arrest; Gastrointestinal: vomiting, diarrhea, dyspepsia, anorexia; Skin: rash; Visual: diplopia; Nervous System: hypoesthesia, paresthesia, paresis, ataxia, flushing, increased sweating, vertigo, syncope, somnolence, tinnitus; Psychiatric: anxiety, insomnia, depression. The following additional adverse experiences, possibly related to flecainide acetate, have been reported in less than 1% of patients: Body as a Whole: swollen lips, tongue and mouth; arthralgia, bronchospasm, myalgia; Cardiovascular: angina pectoris, second-degree and third-degree AV block, bradycardia, hypertension, hypotension; Gastrointestinal: flatulence; Urinary System: polyuria, urinary retention; Hematologic: leukopenia, granulocytopenia, thrombocytopenia; Skin: urticaria, exfoliative dermatitis, pruritus, alopecia; Visual: eye pain or irritation, photophobia, nystagmus; Nervous System: twitching, weakness, change in taste, dry mouth, convulsions, impotence, speech disorder, stupor, neuropathy; Respiratory: pneumonitis/pulmonary infiltration possibly due to chronic flecainide treatment; Psychiatric: amnesia, confusion, decreased libido, depersonalization, euphoria, morbid dreams, apathy. For patients with supraventricular arrhythmias, the most commonly reported noncardiac adverse experiences remain consistent with those known for patients treated with flecainide acetate for ventricular arrhythmias. Dizziness is possibly more frequent in PAF patients."
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"100%\"><caption>Table 1: Most Common Non-Cardiac Effects in Ventricular Arrhythmia Patients Treated with Flecainide Acetate in the Multicenter Study</caption><col width=\"25%\"/><col width=\"22%\"/><col width=\"18%\"/><col width=\"18%\"/><col width=\"18%\"/><tbody><tr><td rowspan=\"2\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph>Adverse Effect</paragraph></td><td rowspan=\"2\" align=\"center\" styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>Incidence All 429 Patients at Any Dose</paragraph></td><td colspan=\"3\" align=\"center\" styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>Incidence by Dose During Upward Titration</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>200 mg/Day (N=426)</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>300 mg/Day (N=293)</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>400 mg/Day (N=100)</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Dizziness <footnote ID=\"_Ref406500564\">Dizziness includes reports of dizziness, lightheadedness, faintness, unsteadiness, near syncope, etc.</footnote></paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>18.9%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>11.0%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>10.6%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>13.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Visual Disturbances <footnote ID=\"_Ref406500577\">Visual disturbance includes reports of blurred vision, difficulty in focusing, spots before eyes, etc.</footnote></paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>15.9%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>5.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>12.3%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>18.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Dyspnea</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>10.3%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>5.2%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>7.5%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Headache</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>9.6%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.5%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>6.1%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>9.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Nausea</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>8.9%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.9%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.8%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>6.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Fatigue</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>7.7%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.5%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>3.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Palpitation</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>6.1%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>3.5%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>7.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Chest Pain</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>5.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>3.1%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>3.8%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>1.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Asthenia</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.9%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.6%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.0%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Tremor</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.7%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>3.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Constipation</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>4.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.8%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.1%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>1.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Edema</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>3.5%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>1.9%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>1.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.0%</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Abdominal Pain</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>3.3%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>1.9%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>2.4%</paragraph></td><td align=\"center\" styleCode=\"Botrule Rrule\" valign=\"top\"><paragraph>1.0%</paragraph></td></tr></tbody></table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE No specific antidote has been identified for the treatment of flecainide acetate overdosage. Overdoses ranging up to 8,000 mg have been survived, with peak plasma flecainide concentrations as high as 5.3 mcg/mL. Untoward effects in these cases included nausea and vomiting, convulsions, hypotension, bradycardia, syncope, extreme widening of the QRS complex, widening of the QT interval, widening of the PR interval, ventricular tachycardia, AV nodal block, asystole, bundle branch block, cardiac failure, and cardiac arrest. The spectrum of events observed in fatal cases was much the same as that seen in the non-fatal cases. Death has resulted following ingestion of as little as 1,000 mg; concomitant overdose of other drugs and/or alcohol in many instances undoubtedly contributed to the fatal outcome. Treatment of overdosage should be supportive and may include the following: removal of unabsorbed drug from the gastrointestinal tract, administration of inotropic agents or cardiac stimulants such as dopamine, dobutamine or isoproterenol; mechanically assisted respiration; circulatory assists such as intra-aortic balloon pumping; and transvenous pacing in the event of conduction block. Because of the long plasma half-life of flecainide (12 to 27 hours in patients receiving usual doses), and the possibility of markedly non-linear elimination kinetics at very high doses, these supportive treatments may need to be continued for extended periods of time. Hemodialysis is not an effective means of removing flecainide from the body. Since flecainide elimination is much slower when urine is very alkaline (pH 8 or higher), theoretically, acidification of urine to promote drug excretion may be beneficial in overdose cases with very alkaline urine. There is no evidence that acidification from normal urinary pH increases excretion."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION For patients with sustained VT, no matter what their cardiac status, Flecainide Acetate Tablets, USP like other antiarrhythmics, should be initiated in-hospital with rhythm monitoring. Flecainide has a long half-life (12 to 27 hours in patients). Steady-state plasma levels, in patients with normal renal and hepatic function, may not be achieved until the patient has received 3 to 5 days of therapy at a given dose. Therefore, increases in dosage should be made no more frequently than once every four days , since during the first 2 to 3 days of therapy the optimal effect of a given dose may not be achieved. For patients with PSVT and patients with PAF the recommended starting dose is 50 mg every 12 hours. Flecainide Acetate Tablets, USP doses may be increased in increments of 50 mg bid every four days until efficacy is achieved. For PAF patients, a substantial increase in efficacy without a substantial increase in discontinuations for adverse experiences may be achieved by increasing the Flecainide Acetate Tablets, USP dose from 50 mg to 100 mg bid. The maximum recommended dose for patients with paroxysmal supraventricular arrhythmias is 300 mg/day. For sustained VT the recommended starting dose is 100 mg every 12 hours. This dose may be increased in increments of 50 mg bid every four days until efficacy is achieved. Most patients with sustained VT do not require more than 150 mg every 12 hours (300 mg/day), and the maximum dose recommended is 400 mg/day. In patients with sustained VT, use of higher initial doses and more rapid dosage adjustments have resulted in an increased incidence of proarrhythmic events and CHF, particularly during the first few days of dosing (see WARNINGS ) . Therefore, a loading dose is not recommended. Intravenous lidocaine has been used occasionally with Flecainide Acetate Tablets, USP while awaiting the therapeutic effect of Flecainide Acetate Tablets, USP. No adverse drug interactions were apparent. However, no formal studies have been performed to demonstrate the usefulness of this regimen. An occasional patient not adequately controlled by (or intolerant to) a dose given at 12-hour intervals may be dosed at eight-hour intervals. Once adequate control of the arrhythmia has been achieved, it may be possible in some patients to reduce the dose as necessary to minimize side effects or effects on conduction. In such patients, efficacy at the lower dose should be evaluated. Flecainide Acetate Tablets, USP should be used cautiously in patients with a history of CHF or myocardial dysfunction (see WARNINGS ) . Any use of Flecainide Acetate Tablets, USP in children should be directly supervised by a cardiologist skilled in the treatment of arrhythmias in children. Because of the evolving nature of information in this area, specialized literature should be consulted. Under six months of age, the initial starting dose of Flecainide Acetate Tablets, USP in children is approximately 50 mg/M 2 body surface area daily, divided into two or three equally spaced doses. Over six months of age, the initial starting dose maybe increased to 100 mg/M 2 per day. The maximum recommended dose is 200 mg/M 2 per day. This dose should not be exceeded. In some children on higher doses, despite previously low plasma levels, the level has increased rapidly to far above therapeutic values while taking the same dose. Small changes in dose may also lead to disproportionate increases in plasma levels. Plasma trough (less than one hour pre-dose) flecainide levels and electrocardiograms should be obtained at presumed steady state (after at least five doses) either after initiation or change in Flecainide Acetate Tablets, USP dose, whether the dose was increased for lack of effectiveness, or increased growth of the patient. For the first year on therapy, whenever the patient is seen for reasons of clinical follow-up, it is suggested that a 12-lead electrocardiogram and plasma trough flecainide level are obtained. The usual therapeutic level of flecainide in children is 200 to 500 ng/mL. In some cases, levels as high as 800 ng/mL may be required for control. In patients with severe renal impairment (creatinine clearance of 35 mL/min/1.73 square meters or less), the initial dosage should be 100 mg once daily (or 50 mg bid); when used in such patients, frequent plasma level monitoring is required to guide dosage adjustments (see Plasma Level Monitoring ) . In patients with less severe renal disease, the initial dosage should be 100 mg every 12 hours; plasma level monitoring may also be useful in these patients during dosage adjustment. In both groups of patients, dosage increases should be made very cautiously when plasma levels have plateaued (after more than four days), observing the patient closely for signs of adverse cardiac effects or other toxicity. It should be borne in mind that in these patients it may take longer than four days before a new steady-state plasma level is reached following a dosage change. Based on theoretical considerations, rather than experimental data, the following suggestion is made: when transferring patients from another antiarrhythmic drug to Flecainide Acetate Tablets, USP allow at least two to four plasma half-lives to elapse for the drug being discontinued before starting Flecainide Acetate Tablets, USP at the usual dosage. In patients where withdrawal of a previous antiarrhythmic agent is likely to produce life-threatening arrhythmias, the physician should consider hospitalizing the patient. When Flecainide Acetate Tablets, USP is given in the presence of amiodarone, reduce the usual Flecainide Acetate Tablets, USP dose by 50% and monitor the patient closely for adverse effects. Plasma level monitoring is strongly recommended to guide dosage with such combination therapy (see below). Plasma Level Monitoring The large majority of patients successfully treated with Flecainide Acetate Tablets, USP were found to have trough plasma levels between 0.2 and 1 mcg/mL. The probability of adverse experiences, especially cardiac, may increase with higher trough plasma levels, especially when these exceed 1 mcg/mL. Periodic monitoring of trough plasma levels may be useful in patient management. Plasma level monitoring is required in patients with severe renal failure or severe hepatic disease, since elimination of flecainide from plasma may be markedly slower. Monitoring of plasma levels is strongly recommended in patients on concurrent amiodarone therapy and may also be helpful in patients with CHF and in patients with moderate renal disease."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Flecainide Acetate Tablets, USP 50 mg tablet is supplied as a white biconvex round tablet with “YH 777” debossed on one side and plain on the other side. Bottles of 100 tablets with child-resistant closure, NDC 42806-817-01 100 mg tablet is supplied as a white biconvex round tablet with “YH 717” debossed on one side and have a score on the other side. Bottles of 100 tablets with child-resistant closure, NDC 42806-818-01 150 mg tablet is supplied as a white, capsule shaped tablet, with “YH 711” debossed on one side and scored on the other side. Bottles of 100 tablets with child-resistant closure, NDC 42806-819-01 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature.] Dispense in a tight, light-resistant container as defined in the USP with a child-resistant closure. KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN. Adverse reaction contact: Epic Pharma, LLC at 1-888-374-2791 Distributed by: Epic Pharma, LLC Laurelton NY, 11413 Rev. 09-2025-00"
+  ],
+  "set_id": "74c1eb2a-a37f-4f33-86bf-51e0d1d0c2bc",
+  "id": "52eef22b-3545-b398-e063-6394a90aec29",
+  "effective_time": "20260529",
+  "version": "8"
+ }
+}

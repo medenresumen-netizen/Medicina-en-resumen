@@ -1,0 +1,511 @@
+{
+ "id_es": "ampicilina-sulbactam",
+ "generic_en": "ampicillin sodium and sulbactam sodium",
+ "search": "openfda.generic_name.exact:\"AMPICILLIN SODIUM AND SULBACTAM SODIUM\"",
+ "downloaded": "2026-11-11T06:38Z",
+ "chosen": {
+  "set_id": "155c7ec0-5862-404f-b1d0-f278f8a8bbda",
+  "id": "04da40ca-b337-4cac-a8d7-8dc9d5301c23",
+  "effective_time": "20260710",
+  "version": "46",
+  "brand_name": [
+   "UNASYN"
+  ],
+  "generic_name": [
+   "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+  ],
+  "manufacturer_name": [
+   "Roerig"
+  ],
+  "route": [
+   "INTRAMUSCULAR",
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA050608"
+  ],
+  "n_sections": 32
+ },
+ "candidates": [
+  {
+   "set_id": "1e5004f1-e79e-4e0b-9f3f-25f6bbc15255",
+   "id": "5830b7eb-e359-4196-9ac0-c06f9170d8ca",
+   "effective_time": "20261104",
+   "version": "3",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065222"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "5e8d35cb-e93d-42ad-a02c-0dbf04910f61",
+   "id": "d1ddad6e-5896-4efa-b3e6-f8f4ed9c0080",
+   "effective_time": "20261104",
+   "version": "4",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065314"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "139b4b2e-46f7-44a8-9cc1-774afa463b80",
+   "id": "92c74f7e-57ea-4eab-acd8-0798529a6db0",
+   "effective_time": "20260723",
+   "version": "4",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065403"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "006f9a3f-b4e3-4aa5-ac65-6cc3d3e2582d",
+   "id": "13827c0d-189b-468c-be84-a183793dd8a3",
+   "effective_time": "20260722",
+   "version": "3",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065406"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "155c7ec0-5862-404f-b1d0-f278f8a8bbda",
+   "id": "04da40ca-b337-4cac-a8d7-8dc9d5301c23",
+   "effective_time": "20260710",
+   "version": "46",
+   "brand_name": [
+    "UNASYN"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Roerig"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA050608"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "12eeb72a-403d-41be-bae4-4cb930862884",
+   "id": "4ab1bb1d-5604-4d23-a112-77b04116e448",
+   "effective_time": "20260709",
+   "version": "40",
+   "brand_name": [
+    "UNASYN"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Roerig"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA050608"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "e6cf14a8-3ed9-4a7a-ba69-be0b794cbdc4",
+   "id": "321dbb78-6419-46a7-b462-5cab5c732924",
+   "effective_time": "20260610",
+   "version": "7",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065406"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "4e81c215-2ab6-87c6-e063-6294a90ac28c",
+   "id": "4e81c223-f1fb-7ade-e063-6294a90aba4d",
+   "effective_time": "20260402",
+   "version": "1",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090349"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "437a26f4-776b-4f74-99b2-09ad79831b0c",
+   "id": "4681869d-6a9c-4aaf-90e2-090469e45012",
+   "effective_time": "20251218",
+   "version": "3",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090339"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "44181723-ef09-301b-e063-6394a90a2cad",
+   "id": "44180e69-5422-2235-e063-6394a90aae5d",
+   "effective_time": "20251121",
+   "version": "1",
+   "brand_name": [
+    "ampicillin sodium and sulbactam sodium"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "ONESOURCE SPECIALTY PHARMA LIMITED"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA201024"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "16fdfdb9-9e26-48d0-8838-570d30c8e897",
+   "id": "9113a685-ad21-4c1e-a23d-0706e5a432d1",
+   "effective_time": "20251104",
+   "version": "3",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090349"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "e98a36a1-b75b-42b9-ad1a-05004e9587b6",
+   "id": "3e4c5fd9-5f8b-0b79-e063-6294a90a2885",
+   "effective_time": "20250908",
+   "version": "1",
+   "brand_name": [
+    "ampicillin sodium and sulbactam sodium"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Civica, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA201024"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "2709e9fc-2341-4382-af72-c2e3201bd77a",
+   "id": "7ce213ad-5b4b-4726-8522-6c5e485970db",
+   "effective_time": "20250812",
+   "version": "14",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090339"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "adc92303-b62b-41c8-becf-9c3a4e8c3a6b",
+   "id": "13813cd5-ff90-48a1-97d4-3a0f1db1fb45",
+   "effective_time": "20250812",
+   "version": "11",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090349",
+    "ANDA090340"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "9f2ff165-2a21-4155-a4f0-57885a83c7dc",
+   "id": "84c3faf2-020c-486c-9f5b-a8423c0c9e73",
+   "effective_time": "20250724",
+   "version": "2",
+   "brand_name": [
+    "Ampicillin and Sulbactam"
+   ],
+   "generic_name": [
+    "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065314"
+   ],
+   "n_sections": 33
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION UNASYN (ampicillin and sulbactam) for injection, USP is a sterile antibacterial fixed-combination drug product consisting of the semisynthetic antibacterial ampicillin sodium and the beta-lactamase inhibitor sulbactam sodium for intravenous and intramuscular administration. Ampicillin sodium is derived from the penicillin nucleus, 6-aminopenicillanic acid. Chemically, it is monosodium (2S, 5R, 6R)-6-[(R)-2-amino-2-phenylacetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate and has a molecular weight of 371.39. Its chemical formula is C 16 H 18 N 3 NaO 4 S. The structural formula is: Sulbactam sodium is a derivative of the basic penicillin nucleus. Chemically, sulbactam sodium is sodium penicillinate sulfone; sodium (2S, 5R)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate 4,4-dioxide. Its chemical formula is C 8 H 10 NNaO 5 S with a molecular weight of 255.22. The structural formula is: UNASYN is available as a white to off-white dry powder for reconstitution. UNASYN dry powder is freely soluble in aqueous diluents to yield pale yellow to yellow solutions containing ampicillin sodium and sulbactam sodium equivalent to 250 mg ampicillin per mL and 125 mg sulbactam per mL. The pH of the solutions is between 8.0 and 10.0. Dilute solutions (up to 30 mg ampicillin and 15 mg sulbactam per mL) are essentially colorless to pale yellow. The pH of dilute solutions remains the same. Each 1.5 g vial contains ampicillin 1 g and sulbactam 0.5 g (equivalent to 1.063 g ampicillin sodium and 0.547 g sulbactam sodium). Each 1.5 g vial contains approximately 115 mg of sodium. Each 3 g vial contains ampicillin 2 g and sulbactam 1 g (equivalent to 2.125 g ampicillin sodium and 1.094 g sulbactam sodium). Each 3 g vial contains approximately 230 mg of sodium. Chemical Structure Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY General Immediately after completion of a 15-minute intravenous infusion of UNASYN, peak serum concentrations of ampicillin and sulbactam are attained. Ampicillin serum levels are similar to those produced by the administration of equivalent amounts of ampicillin alone. Peak ampicillin serum levels ranging from 109 to 150 mcg/mL are attained after administration of 2000 mg of ampicillin plus 1000 mg sulbactam and 40 to 71 mcg/mL after administration of 1000 mg ampicillin plus 500 mg sulbactam. The corresponding mean peak serum levels for sulbactam range from 48 to 88 mcg/mL and 21 to 40 mcg/mL, respectively. After an intramuscular injection of 1000 mg ampicillin plus 500 mg sulbactam, peak ampicillin serum levels ranging from 8 to 37 mcg/mL and peak sulbactam serum levels ranging from 6 to 24 mcg/mL are attained. The mean serum half-life of both drugs is approximately 1 hour in healthy volunteers. Approximately 75 to 85% of both ampicillin and sulbactam are excreted unchanged in the urine during the first 8 hours after administration of UNASYN to individuals with normal renal function. Somewhat higher and more prolonged serum levels of ampicillin and sulbactam can be achieved with the concurrent administration of probenecid. In patients with impaired renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function. The dose of UNASYN in such patients should be administered less frequently in accordance with the usual practice for ampicillin (see DOSAGE AND ADMINISTRATION section). Ampicillin has been found to be approximately 28% reversibly bound to human serum protein and sulbactam approximately 38% reversibly bound. The following average levels of ampicillin and sulbactam were measured in the tissues and fluids listed: TABLE 1 Concentration of UNASYN in Various Body Tissues and Fluids Fluid or Tissue Dose (grams) Ampicillin/Sulbactam Concentration (mcg/mL or mcg/g) Ampicillin/Sulbactam Peritoneal Fluid 0.5/0.5 IV 7/14 Blister Fluid (Cantharides) 0.5/0.5 IV 8/20 Tissue Fluid 1/0.5 IV 8/4 Intestinal Mucosa 0.5/0.5 IV 11/18 Appendix 2/1 IV 3/40 Penetration of both ampicillin and sulbactam into cerebrospinal fluid in the presence of inflamed meninges has been demonstrated after IV administration of UNASYN. The pharmacokinetics of ampicillin and sulbactam in pediatric patients receiving UNASYN are similar to those observed in adults. Immediately after a 15-minute infusion of 50 to 75 mg UNASYN/kg body weight, peak serum and plasma concentrations of 82 to 446 mcg ampicillin/mL and 44 to 203 mcg sulbactam/mL were obtained. Mean half-life values were approximately 1 hour. MICROBIOLOGY Mechanism of Action Ampicillin is similar to benzyl penicillin in its bactericidal action against susceptible organisms during the stage of active multiplication. It acts through the inhibition of cell wall mucopeptide biosynthesis. Ampicillin has a broad spectrum of bactericidal activity against many gram-positive and gram-negative aerobic and anaerobic bacteria. (Ampicillin is, however, degraded by beta-lactamases and therefore the spectrum of activity does not normally include organisms which produce these enzymes). A wide range of beta-lactamases found in microorganisms resistant to penicillins and cephalosporins have been shown in biochemical studies with cell free bacterial systems to be irreversibly inhibited by sulbactam. Although sulbactam alone possesses little useful antibacterial activity except against the Neisseriaceae , whole organism studies have shown that sulbactam restores ampicillin activity against beta-lactamase producing strains. In particular, sulbactam has good inhibitory activity against the clinically important plasmid mediated beta-lactamases most frequently responsible for transferred drug resistance. Sulbactam has no effect on the activity of ampicillin against ampicillin-susceptible strains. The presence of sulbactam in the UNASYN formulation effectively extends the antibacterial spectrum of ampicillin to include many bacteria normally resistant to it and to other beta-lactam antibacterials. Thus, UNASYN possesses the properties of a broad-spectrum antibacterial and a beta-lactamase inhibitor. Antimicrobial Activity While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS AND USAGE section has not been documented. Gram-positive Bacteria: Staphylococcus aureus (beta-lactamase and non-beta-lactamase producing) Staphylococcus epidermidis (beta-lactamase and non-beta-lactamase producing) Staphylococcus saprophyticus (beta-lactamase and non-beta-lactamase producing) Enterococcus faecalis Streptococcus pneumoniae Streptococcus pyogenes Streptococcus viridans Gram-negative Bacteria: Hemophilus influenzae (beta-lactamase and non-beta-lactamase producing) Moraxella catarrhalis (beta-lactamase and non-beta-lactamase producing) Escherichia coli (beta-lactamase and non-beta-lactamase producing) Klebsiella species (all known strains are beta-lactamase producing) Proteus mirabilis (beta-lactamase and non-beta-lactamase producing) Proteus vulgaris Providencia rettgeri Providencia stuartii Morganella morganii Neisseria gonorrhoeae (beta-lactamase and non-beta-lactamase producing) Anaerobes: Clostridium species These are not beta-lactamase producing strains and, therefore, are susceptible to ampicillin alone. Peptococcus species Peptostreptococcus species Bacteroides species, including B. fragilis Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC ."
+  ],
+  "clinical_pharmacology_table": [
+   "<table ID=\"_RefID0E2GAE\" width=\"100%\"><caption>TABLE 1 Concentration of UNASYN in Various Body Tissues and Fluids</caption><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><thead><tr styleCode=\"Toprule\"><th align=\"left\" styleCode=\"Botrule Toprule \" valign=\"bottom\"><content styleCode=\"bold\">Fluid or Tissue</content></th><th align=\"center\" styleCode=\"Botrule Toprule \" valign=\"middle\"><content styleCode=\"bold\">Dose</content> <content styleCode=\"bold\">(grams)</content> <content styleCode=\"bold\">Ampicillin/Sulbactam</content></th><th align=\"center\" styleCode=\"Botrule Toprule \" valign=\"middle\"><content styleCode=\"bold\">Concentration</content> <content styleCode=\"bold\">(mcg/mL or mcg/g)</content> <content styleCode=\"bold\">Ampicillin/Sulbactam</content></th></tr></thead><tbody><tr><td styleCode=\"Toprule \" valign=\"middle\"><paragraph>Peritoneal Fluid</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"middle\"><paragraph>0.5/0.5 IV</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"middle\"><paragraph>7/14</paragraph></td></tr><tr><td valign=\"middle\"><paragraph>Blister Fluid (Cantharides)</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>0.5/0.5 IV</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>8/20</paragraph></td></tr><tr><td valign=\"middle\"><paragraph>Tissue Fluid</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>1/0.5 IV</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>8/4</paragraph></td></tr><tr><td valign=\"middle\"><paragraph>Intestinal Mucosa</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>0.5/0.5 IV</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>11/18</paragraph></td></tr><tr styleCode=\"Botrule\"><td valign=\"middle\"><paragraph>Appendix</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>2/1 IV</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>3/40</paragraph></td></tr></tbody></table>"
+  ],
+  "microbiology": [
+   "MICROBIOLOGY Mechanism of Action Ampicillin is similar to benzyl penicillin in its bactericidal action against susceptible organisms during the stage of active multiplication. It acts through the inhibition of cell wall mucopeptide biosynthesis. Ampicillin has a broad spectrum of bactericidal activity against many gram-positive and gram-negative aerobic and anaerobic bacteria. (Ampicillin is, however, degraded by beta-lactamases and therefore the spectrum of activity does not normally include organisms which produce these enzymes). A wide range of beta-lactamases found in microorganisms resistant to penicillins and cephalosporins have been shown in biochemical studies with cell free bacterial systems to be irreversibly inhibited by sulbactam. Although sulbactam alone possesses little useful antibacterial activity except against the Neisseriaceae , whole organism studies have shown that sulbactam restores ampicillin activity against beta-lactamase producing strains. In particular, sulbactam has good inhibitory activity against the clinically important plasmid mediated beta-lactamases most frequently responsible for transferred drug resistance. Sulbactam has no effect on the activity of ampicillin against ampicillin-susceptible strains. The presence of sulbactam in the UNASYN formulation effectively extends the antibacterial spectrum of ampicillin to include many bacteria normally resistant to it and to other beta-lactam antibacterials. Thus, UNASYN possesses the properties of a broad-spectrum antibacterial and a beta-lactamase inhibitor. Antimicrobial Activity While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS AND USAGE section has not been documented. Gram-positive Bacteria: Staphylococcus aureus (beta-lactamase and non-beta-lactamase producing) Staphylococcus epidermidis (beta-lactamase and non-beta-lactamase producing) Staphylococcus saprophyticus (beta-lactamase and non-beta-lactamase producing) Enterococcus faecalis Streptococcus pneumoniae Streptococcus pyogenes Streptococcus viridans Gram-negative Bacteria: Hemophilus influenzae (beta-lactamase and non-beta-lactamase producing) Moraxella catarrhalis (beta-lactamase and non-beta-lactamase producing) Escherichia coli (beta-lactamase and non-beta-lactamase producing) Klebsiella species (all known strains are beta-lactamase producing) Proteus mirabilis (beta-lactamase and non-beta-lactamase producing) Proteus vulgaris Providencia rettgeri Providencia stuartii Morganella morganii Neisseria gonorrhoeae (beta-lactamase and non-beta-lactamase producing) Anaerobes: Clostridium species These are not beta-lactamase producing strains and, therefore, are susceptible to ampicillin alone. Peptococcus species Peptostreptococcus species Bacteroides species, including B. fragilis Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC ."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE UNASYN is indicated for the treatment of infections due to susceptible strains of the designated microorganisms in the conditions listed below. Skin and Skin Structure Infections caused by beta-lactamase producing strains of Staphylococcus aureus , Escherichia coli , Efficacy for this organism in this organ system was studied in fewer than 10 infections. Klebsiella spp. (including K. pneumoniae ), Proteus mirabilis , Bacteroides fragilis , Enterobacter spp., and Acinetobacter calcoaceticus. NOTE: For information on use in pediatric patients (see PRECAUTIONS–Pediatric Use and CLINICAL STUDIES sections). Intra-Abdominal Infections caused by beta-lactamase producing strains of Escherichia coli , Klebsiella spp. (including K. pneumoniae ), Bacteroides spp. (including B. fragilis ), and Enterobacter spp. Gynecological Infections caused by beta-lactamase producing strains of Escherichia coli, and Bacteroides spp. (including B. fragilis ). While UNASYN is indicated only for the conditions listed above, infections caused by ampicillin-susceptible organisms are also amenable to treatment with UNASYN due to its ampicillin content. Therefore, mixed infections caused by ampicillin-susceptible organisms and beta-lactamase producing organisms susceptible to UNASYN should not require the addition of another antibacterial. Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify the organisms causing infection and to determine their susceptibility to UNASYN. Therapy may be instituted prior to obtaining the results from bacteriological and susceptibility studies when there is reason to believe the infection may involve any of the beta-lactamase producing organisms listed above in the indicated organ systems. Once the results are known, therapy should be adjusted if appropriate. To reduce the development of drug-resistant bacteria and maintain effectiveness of UNASYN and other antibacterial drugs, UNASYN should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS The use of UNASYN is contraindicated in individuals with a history of serious hypersensitivity reactions (e.g., anaphylaxis or Stevens-Johnson syndrome) to ampicillin, sulbactam or to other beta-lactam antibacterial drugs (e.g., penicillins and cephalosporins). UNASYN is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with UNASYN."
+  ],
+  "warnings": [
+   "WARNINGS Hypersensitivity Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy. These reactions are more apt to occur in individuals with a history of penicillin hypersensitivity and/or hypersensitivity reactions to multiple allergens. There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins. Before therapy with a penicillin, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, and other allergens. If an allergic reaction occurs, UNASYN should be discontinued and the appropriate therapy instituted. Hepatotoxicity Hepatic dysfunction, including hepatitis and cholestatic jaundice has been associated with the use of UNASYN. Hepatic toxicity is usually reversible; however, deaths have been reported. Hepatic function should be monitored at regular intervals in patients with hepatic impairment. Severe Cutaneous Adverse Reactions UNASYN may cause severe skin reactions, such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), dermatitis exfoliative, erythema multiforme, and Acute generalized exanthematous pustulosis (AGEP). If patients develop a skin rash they should be monitored closely and UNASYN discontinued if lesions progress (see CONTRAINDICATIONS and ADVERSE REACTIONS sections). Clostridioides difficile -Associated Diarrhea Clostridioides difficile -associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including UNASYN, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial drug use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated."
+  ],
+  "precautions": [
+   "PRECAUTIONS General A high percentage of patients with mononucleosis who receive ampicillin develop a skin rash. Thus, ampicillin class antibacterials should not be administered to patients with mononucleosis. In patients treated with UNASYN the possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy. If superinfections occur (usually involving Pseudomonas or Candida ), the drug should be discontinued and/or appropriate therapy instituted. Prescribing UNASYN in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. Information for Patients Patients should be counseled that antibacterial drugs including UNASYN should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When UNASYN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by UNASYN or other antibacterial drugs in the future. Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued. Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial. If this occurs, patients should contact their physician as soon as possible. Drug Interactions Probenecid decreases the renal tubular secretion of ampicillin and sulbactam. Concurrent use of probenecid with UNASYN may result in increased and prolonged blood levels of ampicillin and sulbactam. The concurrent administration of allopurinol and ampicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving ampicillin alone. It is not known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients. There are no data with UNASYN and allopurinol administered concurrently. UNASYN and aminoglycosides should not be reconstituted together due to the in vitro inactivation of aminoglycosides by the ampicillin component of UNASYN. Drug/Laboratory Test Interactions Administration of UNASYN will result in high urine concentration of ampicillin. High urine concentrations of ampicillin may result in false positive reactions when testing for the presence of glucose in urine using Clinitest™, Benedict's Solution or Fehling's Solution. It is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix™ or Testape™) be used. Following administration of ampicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone and estradiol has been noted. This effect may also occur with UNASYN. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been performed to evaluate carcinogenic or mutagenic potential. Pregnancy Reproduction studies have been performed in mice, rats, and rabbits at doses up to ten (10) times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to UNASYN. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed (see PRECAUTIONS-Drug/Laboratory Test Interactions section). Labor and Delivery Studies in guinea pigs have shown that intravenous administration of ampicillin decreased the uterine tone, frequency of contractions, height of contractions, and duration of contractions. However, it is not known whether the use of UNASYN in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary. Nursing Mothers Low concentrations of ampicillin and sulbactam are excreted in the milk; therefore, caution should be exercised when UNASYN is administered to a nursing woman. Pediatric Use The safety and effectiveness of UNASYN have been established for pediatric patients one year of age and older for skin and skin structure infections as approved in adults. Use of UNASYN in pediatric patients is supported by evidence from adequate and well-controlled studies in adults with additional data from pediatric pharmacokinetic studies, a controlled clinical trial conducted in pediatric patients and post-marketing adverse events surveillance (see CLINICAL PHARMACOLOGY , INDICATIONS AND USAGE , ADVERSE REACTIONS , DOSAGE AND ADMINISTRATION , and CLINICAL STUDIES sections). The safety and effectiveness of UNASYN have not been established for pediatric patients for intra-abdominal infections."
+  ],
+  "general_precautions": [
+   "General A high percentage of patients with mononucleosis who receive ampicillin develop a skin rash. Thus, ampicillin class antibacterials should not be administered to patients with mononucleosis. In patients treated with UNASYN the possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy. If superinfections occur (usually involving Pseudomonas or Candida ), the drug should be discontinued and/or appropriate therapy instituted. Prescribing UNASYN in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria."
+  ],
+  "information_for_patients": [
+   "Information for Patients Patients should be counseled that antibacterial drugs including UNASYN should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When UNASYN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by UNASYN or other antibacterial drugs in the future. Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued. Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial. If this occurs, patients should contact their physician as soon as possible."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Probenecid decreases the renal tubular secretion of ampicillin and sulbactam. Concurrent use of probenecid with UNASYN may result in increased and prolonged blood levels of ampicillin and sulbactam. The concurrent administration of allopurinol and ampicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving ampicillin alone. It is not known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients. There are no data with UNASYN and allopurinol administered concurrently. UNASYN and aminoglycosides should not be reconstituted together due to the in vitro inactivation of aminoglycosides by the ampicillin component of UNASYN."
+  ],
+  "drug_and_or_laboratory_test_interactions": [
+   "Drug/Laboratory Test Interactions Administration of UNASYN will result in high urine concentration of ampicillin. High urine concentrations of ampicillin may result in false positive reactions when testing for the presence of glucose in urine using Clinitest™, Benedict's Solution or Fehling's Solution. It is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix™ or Testape™) be used. Following administration of ampicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone and estradiol has been noted. This effect may also occur with UNASYN."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been performed to evaluate carcinogenic or mutagenic potential."
+  ],
+  "pregnancy": [
+   "Pregnancy Reproduction studies have been performed in mice, rats, and rabbits at doses up to ten (10) times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to UNASYN. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed (see PRECAUTIONS-Drug/Laboratory Test Interactions section)."
+  ],
+  "labor_and_delivery": [
+   "Labor and Delivery Studies in guinea pigs have shown that intravenous administration of ampicillin decreased the uterine tone, frequency of contractions, height of contractions, and duration of contractions. However, it is not known whether the use of UNASYN in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Low concentrations of ampicillin and sulbactam are excreted in the milk; therefore, caution should be exercised when UNASYN is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use The safety and effectiveness of UNASYN have been established for pediatric patients one year of age and older for skin and skin structure infections as approved in adults. Use of UNASYN in pediatric patients is supported by evidence from adequate and well-controlled studies in adults with additional data from pediatric pharmacokinetic studies, a controlled clinical trial conducted in pediatric patients and post-marketing adverse events surveillance (see CLINICAL PHARMACOLOGY , INDICATIONS AND USAGE , ADVERSE REACTIONS , DOSAGE AND ADMINISTRATION , and CLINICAL STUDIES sections). The safety and effectiveness of UNASYN have not been established for pediatric patients for intra-abdominal infections."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Adult Patients UNASYN is generally well tolerated. The following adverse reactions have been reported in clinical trials. Local Adverse Reactions Pain at IM injection site – 16% Pain at IV injection site – 3% Thrombophlebitis – 3% Phlebitis – 1.2% Systemic Adverse Reactions The most frequently reported adverse reactions were diarrhea in 3% of the patients and rash in less than 2% of the patients. Additional systemic reactions reported in less than 1% of the patients were: itching, nausea, vomiting, candidiasis, fatigue, malaise, headache, chest pain, flatulence, abdominal distension, glossitis, urine retention, dysuria, edema, facial swelling, erythema, chills, tightness in throat, substernal pain, epistaxis and mucosal bleeding. Pediatric Patients Available safety data for pediatric patients treated with UNASYN demonstrate a similar adverse events profile to those observed in adult patients. Additionally, atypical lymphocytosis has been observed in one pediatric patient receiving UNASYN. Adverse Laboratory Changes Adverse laboratory changes without regard to drug relationship that were reported during clinical trials were: Hepatic: Increased AST (SGOT), ALT (SGPT), alkaline phosphatase, and LDH. Hematologic: Decreased hemoglobin, hematocrit, RBC, WBC, neutrophils, lymphocytes, platelets and increased lymphocytes, monocytes, basophils, eosinophils, and platelets. Blood Chemistry: Decreased serum albumin and total proteins. Renal: Increased BUN and creatinine. Urinalysis: Presence of RBC's and hyaline casts in urine. Post-marketing Experience In addition to adverse reactions reported from clinical trials, the following have been identified during post-marketing use of ampicillin sodium and sulbactam sodium or other products containing ampicillin. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to ampicillin sodium and sulbactam sodium. Infections and Infestations: Clostridioides difficile -associated diarrhea (see WARNINGS section). Blood and Lymphatic System Disorders: Hemolytic anemia, thrombocytopenic purpura, and agranulocytosis have been reported. These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena. Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibacterials. Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, dyspepsia, and black \"hairy\" tongue (see CONTRAINDICATIONS AND WARNINGS sections). General Disorders and Administration Site Conditions: Injection site reaction Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (see WARNINGS section), Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction. Metabolism and Nutrition Disorders: Hypokalemia Nervous System Disorders: Convulsion and dizziness Renal and Urinary Disorders: Tubulointerstitial nephritis Musculoskeletal and Connective Tissue Disorders: Arthralgia Respiratory, Thoracic and Mediastinal Disorders: Dyspnea Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS), angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, urticaria (see CONTRAINDICATIONS and WARNINGS sections), and linear IgA bullous dermatosis."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Neurological adverse reactions, including convulsions, may occur with the attainment of high CSF levels of beta-lactams. Ampicillin may be removed from circulation by hemodialysis. The molecular weight, degree of protein binding and pharmacokinetics profile of sulbactam suggest that this compound may also be removed by hemodialysis."
+  ],
+  "clinical_studies": [
+   "CLINICAL STUDIES Skin and Skin Structure Infections in Pediatric Patients Data from a controlled clinical trial conducted in pediatric patients provided evidence supporting the safety and efficacy of UNASYN for the treatment of skin and skin structure infections. Of 99 pediatric patients evaluable for clinical efficacy, 60 patients received a regimen containing intravenous UNASYN, and 39 patients received a regimen containing intravenous cefuroxime. This trial demonstrated similar outcomes (assessed at an appropriate interval after discontinuation of all antimicrobial therapy) for UNASYN- and cefuroxime-treated patients: TABLE 2 Therapeutic Regimen Clinical Success Clinical Failure UNASYN 51/60 (85%) 9/60 (15%) Cefuroxime 34/39 (87%) 5/39 (13%) Most patients received a course of oral antimicrobials following initial treatment with intravenous administration of parenteral antimicrobials. The study protocol required that the following three criteria be met prior to transition from intravenous to oral antimicrobial therapy: (1) receipt of a minimum of 72 hours of intravenous therapy; (2) no documented fever for prior 24 hours; and (3) improvement or resolution of the signs and symptoms of infection. The choice of oral antimicrobial agent used in this trial was determined by susceptibility testing of the original pathogen, if isolated, to oral agents available. The course of oral antimicrobial therapy should not routinely exceed 14 days."
+  ],
+  "clinical_studies_table": [
+   "<table ID=\"_RefID0EGBAG\" styleCode=\"Noautorules\" width=\"100%\"><caption>TABLE 2</caption><col width=\"33%\"/><col width=\"32%\"/><col width=\"32%\"/><thead><tr><th align=\"center\" valign=\"middle\"><content styleCode=\"bold\"><content styleCode=\"underline\">Therapeutic Regimen</content></content></th><th align=\"center\" valign=\"middle\"><content styleCode=\"bold\"><content styleCode=\"underline\">Clinical Success</content></content></th><th align=\"center\" valign=\"middle\"><content styleCode=\"bold\"><content styleCode=\"underline\">Clinical Failure</content></content></th></tr></thead><tbody><tr><td align=\"center\" valign=\"middle\"><paragraph>UNASYN</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>51/60 (85%)</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>9/60 (15%)</paragraph></td></tr><tr><td align=\"center\" valign=\"middle\"><paragraph>Cefuroxime</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>34/39 (87%)</paragraph></td><td align=\"center\" valign=\"middle\"><paragraph>5/39 (13%)</paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION UNASYN may be administered by either the IV or the IM routes. For IV administration, the dose can be given by slow intravenous injection over at least 10–15 minutes or can also be delivered in greater dilutions with 50 mL–100 mL of a compatible diluent as an intravenous infusion over 15–30 minutes. (see DIRECTIONS FOR USE-Preparation for Intravenous Use section). UNASYN may be administered by deep intramuscular injection (see DIRECTIONS FOR USE-Preparation for Intramuscular Injection section). The recommended adult dosage of UNASYN is 1.5 g (ampicillin 1 g and sulbactam 0.5 g) to 3 g (ampicillin 2 g and sulbactam 1 g) every six hours. This 1.5 g to 3 g range represents the total of ampicillin content plus the sulbactam content of UNASYN, and corresponds to a range of 1 g ampicillin and 0.5 g sulbactam to 2 g ampicillin and 1 g sulbactam. The total dose of sulbactam should not exceed 4 g per day. Pediatric Patients 1 Year of Age or Older The recommended daily dose of UNASYN in pediatric patients is 300 mg per kg of body weight administered via intravenous infusion in equally divided doses every 6 hours. This 300 mg/kg/day dosage represents the total ampicillin content plus the sulbactam content of UNASYN, and corresponds to 200 mg ampicillin and 100 mg sulbactam per kg per day. The safety and efficacy of UNASYN administered via intramuscular injection in pediatric patients have not been established. Pediatric patients weighing 40 kg or more should be dosed according to adult recommendations, and the total dose of sulbactam should not exceed 4 g per day. The course of intravenous therapy should not routinely exceed 14 days. In clinical trials, most pediatric patients received a course of oral antimicrobials following initial treatment with intravenous UNASYN (see CLINICAL STUDIES section). Impaired Renal Function In patients with impairment of renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function. The dose of UNASYN in such patients should be administered less frequently in accordance with the usual practice for ampicillin and according to the following recommendations: TABLE 3 UNASYN Dosage Guide for Patients with Renal Impairment Creatinine Clearance (mL/min/1.73m 2 ) Ampicillin and Sulbactam Half-Life (Hours) Recommended UNASYN Dosage ≥30 1 1.5 g to 3 g every 6 to 8 hours 15–29 5 1.5 g to 3 g every 12 hours 5–14 9 1.5 g to 3 g every 24 hours When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance. The serum creatinine should represent a steady state of renal function. Males Weight (kg) x (140 – age) 72 x serum creatinine Females 0.85 x above value"
+  ],
+  "dosage_and_administration_table": [
+   "<table ID=\"_RefID0E6DAG\" width=\"100%\"><caption>TABLE 3 UNASYN Dosage Guide for Patients with Renal Impairment</caption><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><thead><tr><th align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Creatinine Clearance</content> <content styleCode=\"bold\">(mL/min/1.73m<sup>2</sup>)</content></th><th align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Ampicillin and Sulbactam Half-Life (Hours)</content></th><th align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Recommended UNASYN Dosage</content></th></tr></thead><tbody><tr><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>&#x2265;30</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>1</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>1.5 g to 3 g every 6 to 8 hours</paragraph></td></tr><tr><td align=\"center\" valign=\"top\"><paragraph>15&#x2013;29</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>5</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>1.5 g to 3 g every 12 hours</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>5&#x2013;14</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>9</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>1.5 g to 3 g every 24 hours</paragraph></td></tr></tbody></table>",
+   "<table styleCode=\"Noautorules\" width=\"70%\"><col width=\"34%\"/><col width=\"35%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Males</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"underline\">Weight (kg) x (140 &#x2013; age)</content></paragraph><paragraph>72 x serum creatinine</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Females</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>0.85 x above value</paragraph></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "COMPATIBILITY, RECONSTITUTION AND STABILITY UNASYN sterile powder is to be stored at or below 30°C (86°F) prior to reconstitution. When concomitant therapy with aminoglycosides is indicated, UNASYN and aminoglycosides should be reconstituted and administered separately, due to the in vitro inactivation of aminoglycosides by any of the aminopenicillins."
+  ],
+  "spl_unclassified_section_table": [
+   "<table styleCode=\"Noautorules\" width=\"62.5%\"><caption>TABLE 4.</caption><col width=\"24%\"/><col width=\"37%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">UNASYN</content></paragraph><paragraph><content styleCode=\"bold\">Vial Size</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Volume of Sterile Water for Injection for Reconstitution</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>1.5 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>3.2 mL</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>3 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>6.4 mL</paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID0EGIAG\" width=\"100%\"><caption>TABLE 5</caption><col width=\"34%\"/><col width=\"40%\"/><col width=\"24%\"/><thead><tr styleCode=\"Toprule\"><th align=\"left\" styleCode=\"Botrule \" valign=\"bottom\"><content styleCode=\"bold\">Diluent</content></th><th align=\"center\" styleCode=\"Botrule \" valign=\"top\"><content styleCode=\"bold\">Maximum Concentration</content> <content styleCode=\"bold\">(mg/mL)</content> <content styleCode=\"bold\">UNASYN (Ampicillin/Sulbactam)</content></th><th align=\"center\" styleCode=\"Botrule \" valign=\"bottom\"><content styleCode=\"bold\">Use Periods</content></th></tr></thead><tbody><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Sterile Water for Injection</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>45 (30/15)</paragraph><paragraph>45 (30/15)</paragraph><paragraph>30 (20/10)</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>8 hours at 25&#xB0;C</paragraph><paragraph>48 hours at 4&#xB0;C</paragraph><paragraph>72 hours at 4&#xB0;C</paragraph></td></tr><tr><td valign=\"top\"><paragraph>0.9% Sodium Chloride Injection</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>45 (30/15)</paragraph><paragraph>45 (30/15)</paragraph><paragraph>30 (20/10)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>8 hours at 25&#xB0;C</paragraph><paragraph>48 hours at 4&#xB0;C</paragraph><paragraph>72 hours at 4&#xB0;C</paragraph></td></tr><tr><td valign=\"top\"><paragraph>5% Dextrose Injection</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>30 (20/10)</paragraph><paragraph>30 (20/10)</paragraph><paragraph>3 (2/1)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>2 hours at 25&#xB0;C</paragraph><paragraph>4 hours at 4&#xB0;C</paragraph><paragraph>4 hours at 25&#xB0;C</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Lactated Ringer&apos;s Injection </paragraph></td><td align=\"center\" valign=\"top\"><paragraph>45 (30/15)</paragraph><paragraph>45 (30/15)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>8 hours at 25&#xB0;C</paragraph><paragraph>24 hours at 4&#xB0;C</paragraph></td></tr><tr><td valign=\"top\"><paragraph>M/6 Sodium Lactate Injection</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>45 (30/15)</paragraph><paragraph>45 (30/15)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>8 hours at 25&#xB0;C</paragraph><paragraph>8 hours at 4&#xB0;C</paragraph></td></tr><tr><td valign=\"top\"><paragraph>5% Dextrose in 0.45% Saline</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>3 (2/1)</paragraph><paragraph>15 (10/5)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>4 hours at 25&#xB0;C</paragraph><paragraph>4 hours at 4&#xB0;C</paragraph></td></tr><tr styleCode=\"Botrule\"><td valign=\"top\"><paragraph>10% Invert Sugar</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>3 (2/1)</paragraph><paragraph>30 (20/10)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>4 hours at 25&#xB0;C</paragraph><paragraph>3 hours at 4&#xB0;C</paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID0EKOAG\" width=\"100%\"><caption>TABLE 6</caption><col width=\"33%\"/><col width=\"32%\"/><col width=\"32%\"/><thead><tr styleCode=\"Toprule\"><th align=\"center\" styleCode=\"Botrule \" valign=\"top\"><content styleCode=\"bold\">UNASYN Vial Size</content></th><th align=\"center\" styleCode=\"Botrule \" valign=\"top\"><content styleCode=\"bold\">Volume of Diluent to be Added</content></th><th align=\"center\" styleCode=\"Botrule \" valign=\"top\"><content styleCode=\"bold\">Withdrawal Volume</content><footnote ID=\"_RefID0E6OAG\">There is sufficient excess present to allow withdrawal and administration of the stated volumes.</footnote></th></tr></thead><tbody><tr><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>1.5 g</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>3.2 mL</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>4 mL</paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" valign=\"top\"><paragraph>3 g</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>6.4 mL</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>8 mL<footnote ID=\"_Ref234405226\">Administer 3 g in two equally divided dose volumes of 4 mL.</footnote></paragraph></td></tr></tbody></table>"
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "Animal Pharmacology While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin sodium and sulbactam sodium therapy in man."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED UNASYN (ampicillin and sulbactam) for injection, USP is supplied as a sterile off-white dry powder in glass vials. Single-dose vial. Discard unused portion. The following packages are available: Carton of 10 vials containing 1.5 g (ampicillin 1 g and sulbactam 0.5 g) NDC 0049-0013-83 (10 of NDC 0049-0013-81). Carton of 10 vials containing 1.5 g (ampicillin 1 g and sulbactam 0.5 g) NDC 0049-0710-10 (10 of NDC 0049-0710-01). Carton of 10 vials containing 3 g (ampicillin 2 g and sulbactam 1 g) NDC 0049-0014-83 (10 of NDC 0049-0014-81). Carton of 10 vials containing 3 g (ampicillin 2 g and sulbactam 1 g) NDC 0049-3003-10 (10 of NDC 0049-3003-01)."
+  ],
+  "set_id": "155c7ec0-5862-404f-b1d0-f278f8a8bbda",
+  "id": "04da40ca-b337-4cac-a8d7-8dc9d5301c23",
+  "effective_time": "20260710",
+  "version": "46"
+ }
+}

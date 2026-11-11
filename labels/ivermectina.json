@@ -1,0 +1,747 @@
+{
+ "id_es": "ivermectina",
+ "generic_en": "ivermectin",
+ "search": "openfda.generic_name.exact:\"IVERMECTIN\"",
+ "downloaded": "2026-11-11T06:40Z",
+ "chosen": {
+  "set_id": "681888c9-af79-4b7d-ae80-c3f4f6f1effd",
+  "id": "21f446cf-c0bf-48a5-a535-9d376bc365a9",
+  "effective_time": "20240920",
+  "version": "21",
+  "brand_name": [
+   "STROMECTOL"
+  ],
+  "generic_name": [
+   "IVERMECTIN"
+  ],
+  "manufacturer_name": [
+   "Merck Sharp & Dohme LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA050742"
+  ],
+  "n_sections": 32
+ },
+ "candidates": [
+  {
+   "set_id": "5e195636-552d-7aae-e063-6294a90a3504",
+   "id": "5e709af2-a15a-ca0d-e063-6294a90ad82a",
+   "effective_time": "20261022",
+   "version": "2",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Whitezenith Inc"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 13
+  },
+  {
+   "set_id": "0d405318-3db5-41b6-a248-a6c1cfe7a765",
+   "id": "adfc71da-41b4-49e3-8563-6105884c3634",
+   "effective_time": "20261008",
+   "version": "3",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Belmora LLC"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5c4c9c2e-2949-bca9-e063-6294a90a992f",
+   "id": "5c4c9c2e-294a-bca9-e063-6294a90a992f",
+   "effective_time": "20260925",
+   "version": "1",
+   "brand_name": [
+    "Vivoclear lvermectin Lice Treatment"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Guangxi Zhouyu Xingchen Technology Co., Ltd."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M024"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "e31c09ab-88a1-4969-90dc-4e3c783d189c",
+   "id": "27fcfab4-1410-4416-ae2c-143d26f46239",
+   "effective_time": "20260925",
+   "version": "1",
+   "brand_name": [
+    "OZIPCO IVERMECTIN"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Fast Sold LLC"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "15f1fe25-8ac4-486c-926d-86da187f5efc",
+   "id": "5ba01c08-ca51-4ace-e063-6394a90a0a3b",
+   "effective_time": "20260916",
+   "version": "3",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "59ea9767-2e0b-ebc2-e063-6294a90ab904",
+   "id": "59ea9772-20ab-ebe2-e063-6294a90a698f",
+   "effective_time": "20260825",
+   "version": "1",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "YYBA Corp"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "58c9cc4d-b1f3-1b6f-e063-6294a90ab597",
+   "id": "58c9cc5a-56e2-0e49-e063-6394a90a4264",
+   "effective_time": "20260811",
+   "version": "1",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Azurity Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "56a37d8f-c1b8-465a-e063-6394a90aa334",
+   "id": "56a37d8f-c1b9-465a-e063-6394a90aa334",
+   "effective_time": "20260715",
+   "version": "1",
+   "brand_name": [
+    "Head Lice Treatment Ivermectin Lotion118mL"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Yunqi Cosmetics (Shenzhen) Co., Ltd"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "505G(a)(3)"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "540d6a24-68bf-50c8-e063-6294a90aaa30",
+   "id": "54d87fee-e6f4-74a9-e063-6394a90ae7ec",
+   "effective_time": "20260622",
+   "version": "2",
+   "brand_name": [
+    "SYNTHABIO Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Shenzhen Xuyan Technology Co., Ltd."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M024"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "4e924212-cd7b-ccd9-e063-6394a90afb95",
+   "id": "4f9549d0-8c2f-d3b3-e063-6294a90aec31",
+   "effective_time": "20260416",
+   "version": "2",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "AmerisourceBergen"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "1fb17bc2-9192-4a0b-a3ee-fda9db035daa",
+   "id": "3a1375c9-01f7-4ff7-8208-5a7baf4de267",
+   "effective_time": "20260409",
+   "version": "3",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Ajanta Pharma USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218509"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "104a5045-94b1-4022-bc49-719521f30f0d",
+   "id": "d50e3025-7a56-450b-99d3-fdbb463c1c06",
+   "effective_time": "20260303",
+   "version": "7",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204154"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "2de5ee45-0465-4996-ac00-5bdd352b4ed7",
+   "id": "74497c59-8194-466d-a95f-3bf838ff99f8",
+   "effective_time": "20260227",
+   "version": "1",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Viona Pharmaceuticals Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216863"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "6d626814-5288-441c-9508-f7f5130feceb",
+   "id": "865fe6e0-775f-439c-97d3-762298423d78",
+   "effective_time": "20260227",
+   "version": "1",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216863"
+   ],
+   "n_sections": 5
+  },
+  {
+   "set_id": "dd2c66e6-bd50-46df-a335-26215d02d13b",
+   "id": "468c6f20-854b-ec91-e063-6394a90aeaa1",
+   "effective_time": "20251222",
+   "version": "5",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "847a1dd7-d65b-4a0e-a67d-d90392059dac",
+   "id": "46410c0e-07e7-7194-e063-6394a90a3997",
+   "effective_time": "20251218",
+   "version": "8",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Edenbridge Pharmaceuticals LLC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204154"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "1061e454-d1dc-4293-b18d-9c8717fbbb40",
+   "id": "41dc4fab-4adc-eed2-e063-6294a90a4000",
+   "effective_time": "20251023",
+   "version": "100",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210225"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "326e85c6-b95f-6aa8-e063-6294a90a4985",
+   "id": "3802b5f4-b108-3614-e063-6294a90a6674",
+   "effective_time": "20250620",
+   "version": "2",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "de9253c3-7d66-47fe-8ad7-8c0d4ee8ebda",
+   "id": "14ca838b-d540-4653-ac10-261e77906a51",
+   "effective_time": "20250531",
+   "version": "8",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Actavis Pharma, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210019"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "731a15f8-3578-4a95-b04c-aa6cf44a4665",
+   "id": "2fc2e0fd-e442-d3f5-e063-6394a90a8473",
+   "effective_time": "20250307",
+   "version": "3",
+   "brand_name": [
+    "RID One and Done"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Oystershell Consumer Health, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "e88adfbc-e375-4fea-827e-6ec51ed6fd0a",
+   "id": "2cda4d15-1149-28c0-e063-6294a90a8736",
+   "effective_time": "20250129",
+   "version": "1",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Ltd"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215922"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "1608ec4a-2af4-4a43-a83f-5b25937068d1",
+   "id": "2b4be691-2fcd-a688-e063-6294a90a921b",
+   "effective_time": "20250109",
+   "version": "3",
+   "brand_name": [
+    "Ivermectin"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "WALMART INC."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210720"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "4cb062d7-0597-4e92-b2f6-7129a95e9500",
+   "id": "d1f547db-1cd1-4ff8-9549-edf1866e319c",
+   "effective_time": "20241119",
+   "version": "2",
+   "brand_name": [
+    "IVERMECTIN"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "DR. REDDY'S LABORATORIES, INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218324"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "b1d5b166-ab06-4ab5-b0c6-31126238118a",
+   "id": "253c7c90-5d85-b1e0-e063-6394a90a7a4b",
+   "effective_time": "20241024",
+   "version": "8",
+   "brand_name": [
+    "SOOLANTRA"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Galderma Laboratories, L.P."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA206255"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "681888c9-af79-4b7d-ae80-c3f4f6f1effd",
+   "id": "21f446cf-c0bf-48a5-a535-9d376bc365a9",
+   "effective_time": "20240920",
+   "version": "21",
+   "brand_name": [
+    "STROMECTOL"
+   ],
+   "generic_name": [
+    "IVERMECTIN"
+   ],
+   "manufacturer_name": [
+    "Merck Sharp & Dohme LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA050742"
+   ],
+   "n_sections": 32
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION STROMECTOL® (Ivermectin) is a semisynthetic, anthelmintic agent for oral administration. Ivermectin is derived from the avermectins, a class of highly active broad-spectrum, anti-parasitic agents isolated from the fermentation products of Streptomyces avermitilis . Ivermectin is a mixture containing at least 90% 5- O -demethyl-22,23-dihydroavermectin A 1a and less than 10% 5- O -demethyl-25-de(1-methylpropyl)-22,23-dihydro-25-(1-methylethyl) avermectin A 1a , generally referred to as 22,23-dihydroavermectin B 1a and B 1b , or H 2 B 1a and H 2 B 1b , respectively. The respective empirical formulas are C 48 H 74 O 14 and C 47 H 72 O 14 , with molecular weights of 875.10 and 861.07, respectively. The structural formulas are: Ivermectin is a white to yellowish-white, nonhygroscopic, crystalline powder with a melting point of about 155°C. It is insoluble in water but is freely soluble in methanol and soluble in 95% ethanol. STROMECTOL is available in 3 mg tablets containing the following inactive ingredients: microcrystalline cellulose, pregelatinized starch, magnesium stearate, butylated hydroxyanisole, and citric acid powder (anhydrous). image of chemical structure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Pharmacokinetics Following oral administration of ivermectin, plasma concentrations are approximately proportional to the dose. In two studies, after single 12 mg doses of STROMECTOL in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H 2 B 1a ) were 46.6 (±21.9) (range: 16.4-101.1) and 30.6 (±15.6) (range: 13.9-68.4) ng/mL, respectively, at approximately 4 hours after dosing. Ivermectin is metabolized in the liver, and ivermectin and/or its metabolites are excreted almost exclusively in the feces over an estimated 12 days, with less than 1% of the administered dose excreted in the urine. The plasma half-life of ivermectin in man is approximately 18 hours following oral administration. The safety and pharmacokinetic properties of ivermectin were further assessed in a multiple-dose clinical pharmacokinetic study involving healthy volunteers. Subjects received oral doses of 30 to 120 mg (333 to 2000 mcg/kg) ivermectin in a fasted state or 30 mg (333 to 600 mcg/kg) ivermectin following a standard high-fat (48.6 g of fat) meal. Administration of 30 mg ivermectin following a high-fat meal resulted in an approximate 2.5-fold increase in bioavailability relative to administration of 30 mg ivermectin in the fasted state. In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4. Depending on the in vitro method used, CYP2D6 and CYP2E1 were also shown to be involved in the metabolism of ivermectin but to a significantly lower extent compared to CYP3A4. The findings of in vitro studies using human liver microsomes suggest that clinically relevant concentrations of ivermectin do not significantly inhibit the metabolizing activities of CYP3A4, CYP2D6, CYP2C9, CYP1A2, and CYP2E1. Microbiology Ivermectin is a member of the avermectin class of broad-spectrum antiparasitic agents which have a unique mode of action. Compounds of the class bind selectively and with high affinity to glutamate-gated chloride ion channels which occur in invertebrate nerve and muscle cells. This leads to an increase in the permeability of the cell membrane to chloride ions with hyperpolarization of the nerve or muscle cell, resulting in paralysis and death of the parasite. Compounds of this class may also interact with other ligand-gated chloride channels, such as those gated by the neurotransmitter gamma-aminobutyric acid (GABA). The selective activity of compounds of this class is attributable to the facts that some mammals do not have glutamate-gated chloride channels and that the avermectins have a low affinity for mammalian ligand-gated chloride channels. In addition, ivermectin does not readily cross the blood-brain barrier in humans. Ivermectin is active against various life-cycle stages of many but not all nematodes. It is active against the tissue microfilariae of Onchocerca volvulus but not against the adult form. Its activity against Strongyloides stercoralis is limited to the intestinal stages. Clinical Studies Strongyloidiasis Two controlled clinical studies using albendazole as the comparative agent were carried out in international sites where albendazole is approved for the treatment of strongyloidiasis of the gastrointestinal tract, and three controlled studies were carried out in the U.S. and internationally using thiabendazole as the comparative agent. Efficacy, as measured by cure rate, was defined as the absence of larvae in at least two follow-up stool examinations 3 to 4 weeks post-therapy. Based on this criterion, efficacy was significantly greater for STROMECTOL (a single dose of 170 to 200 mcg/kg) than for albendazole (200 mg b.i.d. for 3 days). STROMECTOL administered as a single dose of 200 mcg/kg for 1 day was as efficacious as thiabendazole administered at 25 mg/kg b.i.d. for 3 days. Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of Strongyloidiasis Cure Rate Number and % of evaluable patients (%) Ivermectin 170-200 mcg/kg Comparative Agent Albendazole 200 mg b.i.d. for 3 days Comparative International Study WHO Study 24/26 (92) 126/152 (83) 12/22 (55) 67/149 (45) Thiabendazole 25 mg/kg b.i.d. for 3 days Comparative International Study US Studies 9/14 (64) 14/14 (100) 13/15 (87) 16/17 (94) In one study conducted in France, a non-endemic area where there was no possibility of reinfection, several patients were observed to have recrudescence of Strongyloides larvae in their stool as long as 106 days following ivermectin therapy. Therefore, at least three stool examinations should be conducted over the three months following treatment to ensure eradication. If recrudescence of larvae is observed, retreatment with ivermectin is indicated. Concentration techniques (such as using a Baermann apparatus) should be employed when performing these stool examinations, as the number of Strongyloides larvae per gram of feces may be very low. Onchocerciasis The evaluation of STROMECTOL in the treatment of onchocerciasis is based on the results of clinical studies involving 1278 patients. In a double-blind, placebo-controlled study involving adult patients with moderate to severe onchocercal infection, patients who received a single dose of 150 mcg/kg STROMECTOL experienced an 83.2% and 99.5% decrease in skin microfilariae count (geometric mean) 3 days and 3 months after the dose, respectively. A marked reduction of >90% was maintained for up to 12 months after the single dose. As with other microfilaricidal drugs, there was an increase in the microfilariae count in the anterior chamber of the eye at day 3 after treatment in some patients. However, at 3 and 6 months after the dose, a significantly greater percentage of patients treated with STROMECTOL had decreases in microfilariae count in the anterior chamber than patients treated with placebo. In a separate open study involving pediatric patients ages 6 to 13 (n=103; weight range: 17-41 kg), similar decreases in skin microfilariae counts were observed for up to 12 months after dosing."
+  ],
+  "clinical_pharmacology_table": [
+   "<table width=\"512.000\" ID=\"id_b81fb7ed-8a4c-41e2-9446-411aab361e26\"> <caption ID=\"id_fefa0b0d-ff9a-4f61-b7b4-281edb7eb4b4\">Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of Strongyloidiasis</caption> <col width=\"48.0%\"/> <col width=\"25.2%\"/> <col width=\"26.8%\"/> <thead> <tr ID=\"id_23c09bf3-046b-441c-908b-709372f7002d\"> <td align=\"left\" valign=\"top\" styleCode=\"Toprule\"/> <td align=\"center\" valign=\"top\" colspan=\"2\">Cure Rate<footnote ID=\"id-a54e2045-cd44-4ac3-905e-876ec4254a38\">Number and % of evaluable patients</footnote>(%)</td> </tr> <tr ID=\"id_6772012b-f33e-48e9-889f-0e934646d338\"> <td align=\"left\" valign=\"top\" styleCode=\"Botrule\"/> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">Ivermectin<footnote ID=\"id-8847f9e1-e015-4441-b94f-8f70ccfeb609\">170-200 mcg/kg</footnote> </td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">Comparative Agent</td> </tr> </thead> <tbody> <tr ID=\"id_e9723947-8694-45c5-a91e-e64101e6b108\"> <td align=\"left\" valign=\"top\" styleCode=\"Toprule Botrule\">Albendazole<footnote ID=\"id-5e4949fb-5f10-4e59-bede-a78419190616\">200 mg b.i.d. for 3 days</footnote> Comparative  International Study  WHO Study</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  24/26 (92)  126/152 (83)</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  12/22 (55) 67/149 (45)</td> </tr> <tr ID=\"id_51a0ae39-6323-433e-a9b1-4ce122682fd9\"> <td align=\"left\" valign=\"top\" styleCode=\"Botrule\">Thiabendazole<footnote ID=\"id-26dc54e7-747a-4a6d-b3be-d1d0c3582419\">25 mg/kg b.i.d. for 3 days</footnote> Comparative  International Study   US Studies</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  9/14 (64) 14/14 (100)</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  13/15 (87) 16/17 (94)</td> </tr> </tbody> </table>"
+  ],
+  "pharmacokinetics": [
+   "Pharmacokinetics Following oral administration of ivermectin, plasma concentrations are approximately proportional to the dose. In two studies, after single 12 mg doses of STROMECTOL in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H 2 B 1a ) were 46.6 (±21.9) (range: 16.4-101.1) and 30.6 (±15.6) (range: 13.9-68.4) ng/mL, respectively, at approximately 4 hours after dosing. Ivermectin is metabolized in the liver, and ivermectin and/or its metabolites are excreted almost exclusively in the feces over an estimated 12 days, with less than 1% of the administered dose excreted in the urine. The plasma half-life of ivermectin in man is approximately 18 hours following oral administration. The safety and pharmacokinetic properties of ivermectin were further assessed in a multiple-dose clinical pharmacokinetic study involving healthy volunteers. Subjects received oral doses of 30 to 120 mg (333 to 2000 mcg/kg) ivermectin in a fasted state or 30 mg (333 to 600 mcg/kg) ivermectin following a standard high-fat (48.6 g of fat) meal. Administration of 30 mg ivermectin following a high-fat meal resulted in an approximate 2.5-fold increase in bioavailability relative to administration of 30 mg ivermectin in the fasted state. In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4. Depending on the in vitro method used, CYP2D6 and CYP2E1 were also shown to be involved in the metabolism of ivermectin but to a significantly lower extent compared to CYP3A4. The findings of in vitro studies using human liver microsomes suggest that clinically relevant concentrations of ivermectin do not significantly inhibit the metabolizing activities of CYP3A4, CYP2D6, CYP2C9, CYP1A2, and CYP2E1."
+  ],
+  "microbiology": [
+   "Microbiology Ivermectin is a member of the avermectin class of broad-spectrum antiparasitic agents which have a unique mode of action. Compounds of the class bind selectively and with high affinity to glutamate-gated chloride ion channels which occur in invertebrate nerve and muscle cells. This leads to an increase in the permeability of the cell membrane to chloride ions with hyperpolarization of the nerve or muscle cell, resulting in paralysis and death of the parasite. Compounds of this class may also interact with other ligand-gated chloride channels, such as those gated by the neurotransmitter gamma-aminobutyric acid (GABA). The selective activity of compounds of this class is attributable to the facts that some mammals do not have glutamate-gated chloride channels and that the avermectins have a low affinity for mammalian ligand-gated chloride channels. In addition, ivermectin does not readily cross the blood-brain barrier in humans. Ivermectin is active against various life-cycle stages of many but not all nematodes. It is active against the tissue microfilariae of Onchocerca volvulus but not against the adult form. Its activity against Strongyloides stercoralis is limited to the intestinal stages."
+  ],
+  "clinical_studies": [
+   "Clinical Studies Strongyloidiasis Two controlled clinical studies using albendazole as the comparative agent were carried out in international sites where albendazole is approved for the treatment of strongyloidiasis of the gastrointestinal tract, and three controlled studies were carried out in the U.S. and internationally using thiabendazole as the comparative agent. Efficacy, as measured by cure rate, was defined as the absence of larvae in at least two follow-up stool examinations 3 to 4 weeks post-therapy. Based on this criterion, efficacy was significantly greater for STROMECTOL (a single dose of 170 to 200 mcg/kg) than for albendazole (200 mg b.i.d. for 3 days). STROMECTOL administered as a single dose of 200 mcg/kg for 1 day was as efficacious as thiabendazole administered at 25 mg/kg b.i.d. for 3 days. Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of Strongyloidiasis Cure Rate Number and % of evaluable patients (%) Ivermectin 170-200 mcg/kg Comparative Agent Albendazole 200 mg b.i.d. for 3 days Comparative International Study WHO Study 24/26 (92) 126/152 (83) 12/22 (55) 67/149 (45) Thiabendazole 25 mg/kg b.i.d. for 3 days Comparative International Study US Studies 9/14 (64) 14/14 (100) 13/15 (87) 16/17 (94) In one study conducted in France, a non-endemic area where there was no possibility of reinfection, several patients were observed to have recrudescence of Strongyloides larvae in their stool as long as 106 days following ivermectin therapy. Therefore, at least three stool examinations should be conducted over the three months following treatment to ensure eradication. If recrudescence of larvae is observed, retreatment with ivermectin is indicated. Concentration techniques (such as using a Baermann apparatus) should be employed when performing these stool examinations, as the number of Strongyloides larvae per gram of feces may be very low. Onchocerciasis The evaluation of STROMECTOL in the treatment of onchocerciasis is based on the results of clinical studies involving 1278 patients. In a double-blind, placebo-controlled study involving adult patients with moderate to severe onchocercal infection, patients who received a single dose of 150 mcg/kg STROMECTOL experienced an 83.2% and 99.5% decrease in skin microfilariae count (geometric mean) 3 days and 3 months after the dose, respectively. A marked reduction of >90% was maintained for up to 12 months after the single dose. As with other microfilaricidal drugs, there was an increase in the microfilariae count in the anterior chamber of the eye at day 3 after treatment in some patients. However, at 3 and 6 months after the dose, a significantly greater percentage of patients treated with STROMECTOL had decreases in microfilariae count in the anterior chamber than patients treated with placebo. In a separate open study involving pediatric patients ages 6 to 13 (n=103; weight range: 17-41 kg), similar decreases in skin microfilariae counts were observed for up to 12 months after dosing."
+  ],
+  "clinical_studies_table": [
+   "<table width=\"512.000\" ID=\"id_b81fb7ed-8a4c-41e2-9446-411aab361e26\"> <caption ID=\"id_fefa0b0d-ff9a-4f61-b7b4-281edb7eb4b4\">Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment of Strongyloidiasis</caption> <col width=\"48.0%\"/> <col width=\"25.2%\"/> <col width=\"26.8%\"/> <thead> <tr ID=\"id_23c09bf3-046b-441c-908b-709372f7002d\"> <td align=\"left\" valign=\"top\" styleCode=\"Toprule\"/> <td align=\"center\" valign=\"top\" colspan=\"2\">Cure Rate<footnote ID=\"id-a54e2045-cd44-4ac3-905e-876ec4254a38\">Number and % of evaluable patients</footnote>(%)</td> </tr> <tr ID=\"id_6772012b-f33e-48e9-889f-0e934646d338\"> <td align=\"left\" valign=\"top\" styleCode=\"Botrule\"/> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">Ivermectin<footnote ID=\"id-8847f9e1-e015-4441-b94f-8f70ccfeb609\">170-200 mcg/kg</footnote> </td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">Comparative Agent</td> </tr> </thead> <tbody> <tr ID=\"id_e9723947-8694-45c5-a91e-e64101e6b108\"> <td align=\"left\" valign=\"top\" styleCode=\"Toprule Botrule\">Albendazole<footnote ID=\"id-5e4949fb-5f10-4e59-bede-a78419190616\">200 mg b.i.d. for 3 days</footnote> Comparative  International Study  WHO Study</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  24/26 (92)  126/152 (83)</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  12/22 (55) 67/149 (45)</td> </tr> <tr ID=\"id_51a0ae39-6323-433e-a9b1-4ce122682fd9\"> <td align=\"left\" valign=\"top\" styleCode=\"Botrule\">Thiabendazole<footnote ID=\"id-26dc54e7-747a-4a6d-b3be-d1d0c3582419\">25 mg/kg b.i.d. for 3 days</footnote> Comparative  International Study   US Studies</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  9/14 (64) 14/14 (100)</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">  13/15 (87) 16/17 (94)</td> </tr> </tbody> </table>"
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE STROMECTOL is indicated for the treatment of the following infections: Strongyloidiasis of the intestinal tract . STROMECTOL is indicated for the treatment of intestinal (i.e., nondisseminated) strongyloidiasis due to the nematode parasite Strongyloides stercoralis . This indication is based on clinical studies of both comparative and open-label designs, in which 64-100% of infected patients were cured following a single 200-mcg/kg dose of ivermectin. (See CLINICAL PHARMACOLOGY, Clinical Studies .) Onchocerciasis . STROMECTOL is indicated for the treatment of onchocerciasis due to the nematode parasite Onchocerca volvulus . This indication is based on randomized, double-blind, placebo-controlled and comparative studies conducted in 1427 patients in onchocerciasis-endemic areas of West Africa. The comparative studies used diethylcarbamazine citrate (DEC-C). NOTE: STROMECTOL has no activity against adult Onchocerca volvulus parasites. The adult parasites reside in subcutaneous nodules which are infrequently palpable. Surgical excision of these nodules (nodulectomy) may be considered in the management of patients with onchocerciasis, since this procedure will eliminate the microfilariae-producing adult parasites."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS STROMECTOL is contraindicated in patients who are hypersensitive to any component of this product."
+  ],
+  "warnings": [
+   "WARNINGS Historical data have shown that microfilaricidal drugs, such as diethylcarbamazine citrate (DEC-C), might cause cutaneous and/or systemic reactions of varying severity (the Mazzotti reaction) and ophthalmological reactions in patients with onchocerciasis. These reactions are probably due to allergic and inflammatory responses to the death of microfilariae. Patients treated with STROMECTOL for onchocerciasis may experience these reactions in addition to clinical adverse reactions possibly, probably, or definitely related to the drug itself. (See ADVERSE REACTIONS, Onchocerciasis .) The treatment of severe Mazzotti reactions has not been subjected to controlled clinical trials. Oral hydration, recumbency, intravenous normal saline, and/or parenteral corticosteroids have been used to treat postural hypotension. Antihistamines and/or aspirin have been used for most mild to moderate cases. Neurotoxicity with the use of ivermectin, including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation and death, has been reported in patients without onchocerciasis or in patients with onchocerciasis in the absence of Loa loa infection. These reactions have generally resolved with supportive care and the discontinuation of ivermectin."
+  ],
+  "precautions": [
+   "PRECAUTIONS General After treatment with microfilaricidal drugs, patients with hyperreactive onchodermatitis (sowda) may be more likely than others to experience severe adverse reactions, especially edema and aggravation of onchodermatitis. Rarely, patients with onchocerciasis who are also heavily infected with Loa loa may develop a serious or even fatal encephalopathy either spontaneously or following treatment with an effective microfilaricide. In these patients, the following adverse experiences have also been reported: pain (including neck and back pain), red eye, conjunctival hemorrhage, dyspnea, urinary and/or fecal incontinence, difficulty in standing/walking, mental status changes, confusion, lethargy, stupor, seizures, or coma. This syndrome has been seen very rarely following the use of ivermectin. In individuals who warrant treatment with ivermectin for any reason and have had significant exposure to Loa loa -endemic areas of West or Central Africa, pretreatment assessment for loiasis and careful post-treatment follow-up should be implemented. Information for Patients STROMECTOL should be taken on an empty stomach with water. (See CLINICAL PHARMACOLOGY, Pharmacokinetics .) Strongyloidiasis: The patient should be reminded of the need for repeated stool examinations to document clearance of infection with Strongyloides stercoralis . Onchocerciasis: The patient should be reminded that treatment with STROMECTOL does not kill the adult Onchocerca parasites, and therefore repeated follow-up and retreatment is usually required. Drug Interactions Post-marketing reports of increased INR (International Normalized Ratio) have been rarely reported when ivermectin was co-administered with warfarin. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been performed to evaluate the carcinogenic potential of ivermectin. Ivermectin was not genotoxic in vitro in the Ames microbial mutagenicity assay of Salmonella typhimurium strains TA1535, TA1537, TA98, and TA100 with and without rat liver enzyme activation, the Mouse Lymphoma Cell Line L5178Y (cytotoxicity and mutagenicity) assays, or the unscheduled DNA synthesis assay in human fibroblasts. Ivermectin had no adverse effects on the fertility in rats in studies at repeated doses of up to 3 times the maximum recommended human dose of 200 mcg/kg (on a mg/m 2 /day basis). Pregnancy Teratogenic Effects Ivermectin has been shown to be teratogenic in mice, rats, and rabbits when given in repeated doses of 0.2, 8.1, and 4.5 times the maximum recommended human dose, respectively (on a mg/m 2 /day basis). Teratogenicity was characterized in the three species tested by cleft palate; clubbed forepaws were additionally observed in rabbits. These developmental effects were found only at or near doses that were maternotoxic to the pregnant female. Therefore, ivermectin does not appear to be selectively fetotoxic to the developing fetus. There are, however, no adequate and well-controlled studies in pregnant women. Ivermectin should not be used during pregnancy since safety in pregnancy has not been established. Nursing Mothers STROMECTOL is excreted in human milk in low concentrations. Treatment of mothers who intend to breast-feed should only be undertaken when the risk of delayed treatment to the mother outweighs the possible risk to the newborn. Pediatric Use Safety and effectiveness in pediatric patients weighing less than 15 kg have not been established. Geriatric Use Clinical studies of STROMECTOL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, treatment of an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Strongyloidiasis in Immunocompromised Hosts In immunocompromised (including HIV-infected) patients being treated for intestinal strongyloidiasis, repeated courses of therapy may be required. Adequate and well-controlled clinical studies have not been conducted in such patients to determine the optimal dosing regimen. Several treatments, i.e., at 2-week intervals, may be required, and cure may not be achievable. Control of extra-intestinal strongyloidiasis in these patients is difficult, and suppressive therapy, i.e., once per month, may be helpful."
+  ],
+  "general_precautions": [
+   "General After treatment with microfilaricidal drugs, patients with hyperreactive onchodermatitis (sowda) may be more likely than others to experience severe adverse reactions, especially edema and aggravation of onchodermatitis. Rarely, patients with onchocerciasis who are also heavily infected with Loa loa may develop a serious or even fatal encephalopathy either spontaneously or following treatment with an effective microfilaricide. In these patients, the following adverse experiences have also been reported: pain (including neck and back pain), red eye, conjunctival hemorrhage, dyspnea, urinary and/or fecal incontinence, difficulty in standing/walking, mental status changes, confusion, lethargy, stupor, seizures, or coma. This syndrome has been seen very rarely following the use of ivermectin. In individuals who warrant treatment with ivermectin for any reason and have had significant exposure to Loa loa -endemic areas of West or Central Africa, pretreatment assessment for loiasis and careful post-treatment follow-up should be implemented."
+  ],
+  "information_for_patients": [
+   "Information for Patients STROMECTOL should be taken on an empty stomach with water. (See CLINICAL PHARMACOLOGY, Pharmacokinetics .) Strongyloidiasis: The patient should be reminded of the need for repeated stool examinations to document clearance of infection with Strongyloides stercoralis . Onchocerciasis: The patient should be reminded that treatment with STROMECTOL does not kill the adult Onchocerca parasites, and therefore repeated follow-up and retreatment is usually required."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Post-marketing reports of increased INR (International Normalized Ratio) have been rarely reported when ivermectin was co-administered with warfarin."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been performed to evaluate the carcinogenic potential of ivermectin. Ivermectin was not genotoxic in vitro in the Ames microbial mutagenicity assay of Salmonella typhimurium strains TA1535, TA1537, TA98, and TA100 with and without rat liver enzyme activation, the Mouse Lymphoma Cell Line L5178Y (cytotoxicity and mutagenicity) assays, or the unscheduled DNA synthesis assay in human fibroblasts. Ivermectin had no adverse effects on the fertility in rats in studies at repeated doses of up to 3 times the maximum recommended human dose of 200 mcg/kg (on a mg/m 2 /day basis)."
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects Ivermectin has been shown to be teratogenic in mice, rats, and rabbits when given in repeated doses of 0.2, 8.1, and 4.5 times the maximum recommended human dose, respectively (on a mg/m 2 /day basis). Teratogenicity was characterized in the three species tested by cleft palate; clubbed forepaws were additionally observed in rabbits. These developmental effects were found only at or near doses that were maternotoxic to the pregnant female. Therefore, ivermectin does not appear to be selectively fetotoxic to the developing fetus. There are, however, no adequate and well-controlled studies in pregnant women. Ivermectin should not be used during pregnancy since safety in pregnancy has not been established."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects Ivermectin has been shown to be teratogenic in mice, rats, and rabbits when given in repeated doses of 0.2, 8.1, and 4.5 times the maximum recommended human dose, respectively (on a mg/m 2 /day basis). Teratogenicity was characterized in the three species tested by cleft palate; clubbed forepaws were additionally observed in rabbits. These developmental effects were found only at or near doses that were maternotoxic to the pregnant female. Therefore, ivermectin does not appear to be selectively fetotoxic to the developing fetus. There are, however, no adequate and well-controlled studies in pregnant women. Ivermectin should not be used during pregnancy since safety in pregnancy has not been established."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers STROMECTOL is excreted in human milk in low concentrations. Treatment of mothers who intend to breast-feed should only be undertaken when the risk of delayed treatment to the mother outweighs the possible risk to the newborn."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness in pediatric patients weighing less than 15 kg have not been established."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of STROMECTOL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, treatment of an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Strongyloidiasis In four clinical studies involving a total of 109 patients given either one or two doses of 170 to 200 mcg/kg of STROMECTOL, the following adverse reactions were reported as possibly, probably, or definitely related to STROMECTOL: Body as a Whole: asthenia/fatigue (0.9%), abdominal pain (0.9%) Gastrointestinal: anorexia (0.9%), constipation (0.9%), diarrhea (1.8%), nausea (1.8%), vomiting (0.9%) Nervous System/Psychiatric: dizziness (2.8%), somnolence (0.9%), vertigo (0.9%), tremor (0.9%) Skin: pruritus (2.8%), rash (0.9%), and urticaria (0.9%). In comparative trials, patients treated with STROMECTOL experienced more abdominal distention and chest discomfort than patients treated with albendazole. However, STROMECTOL was better tolerated than thiabendazole in comparative studies involving 37 patients treated with thiabendazole. The Mazzotti-type and ophthalmologic reactions associated with the treatment of onchocerciasis or the disease itself would not be expected to occur in strongyloidiasis patients treated with STROMECTOL. (See ADVERSE REACTIONS, Onchocerciasis .) Laboratory Test Findings In clinical trials involving 109 patients given either one or two doses of 170 to 200 mcg/kg STROMECTOL, the following laboratory abnormalities were seen regardless of drug relationship: elevation in ALT and/or AST (2%), decrease in leukocyte count (3%). Leukopenia and anemia were seen in one patient. Onchocerciasis In clinical trials involving 963 adult patients treated with 100 to 200 mcg/kg STROMECTOL, worsening of the following Mazzotti reactions during the first 4 days post-treatment were reported: arthralgia/synovitis (9.3%), axillary lymph node enlargement and tenderness (11.0% and 4.4%, respectively), cervical lymph node enlargement and tenderness (5.3% and 1.2%, respectively), inguinal lymph node enlargement and tenderness (12.6% and 13.9%, respectively), other lymph node enlargement and tenderness (3.0% and 1.9%, respectively), pruritus (27.5%), skin involvement including edema, papular and pustular or frank urticarial rash (22.7%), and fever (22.6%). (See WARNINGS .) In clinical trials, ophthalmological conditions were examined in 963 adult patients before treatment, at day 3, and months 3 and 6 after treatment with 100 to 200 mcg/kg STROMECTOL. Changes observed were primarily deterioration from baseline 3 days post-treatment. Most changes either returned to baseline condition or improved over baseline severity at the month 3 and 6 visits. The percentages of patients with worsening of the following conditions at day 3, month 3 and 6, respectively, were: limbitis: 5.5%, 4.8%, and 3.5% and punctate opacity: 1.8%, 1.8%, and 1.4%. The corresponding percentages for patients treated with placebo were: limbitis: 6.2%, 9.9%, and 9.4% and punctate opacity: 2.0%, 6.4%, and 7.2%. (See WARNINGS .) In clinical trials involving 963 adult patients who received 100 to 200 mcg/kg STROMECTOL, the following clinical adverse reactions were reported as possibly, probably, or definitely related to the drug in ≥1% of the patients: facial edema (1.2%), peripheral edema (3.2%), orthostatic hypotension (1.1%), and tachycardia (3.5%). Drug-related headache and myalgia occurred in <1% of patients (0.2% and 0.4%, respectively). However, these were the most common adverse experiences reported overall during these trials regardless of causality (22.3% and 19.7%, respectively). A similar safety profile was observed in an open study in pediatric patients ages 6 to 13. The following ophthalmological side effects do occur due to the disease itself but have also been reported after treatment with STROMECTOL: abnormal sensation in the eyes, eyelid edema, anterior uveitis, conjunctivitis, limbitis, keratitis, and chorioretinitis or choroiditis. These have rarely been severe or associated with loss of vision and have generally resolved without corticosteroid treatment. Laboratory Test Findings In controlled clinical trials, the following laboratory adverse experiences were reported as possibly, probably, or definitely related to the drug in ≥1% of the patients: eosinophilia (3%) and hemoglobin increase (1%). Post-Marketing Experience The following adverse reactions have been reported since the drug was registered overseas: Onchocerciasis Conjunctival hemorrhage All Indications Hypotension (mainly orthostatic hypotension), worsening of bronchial asthma, toxic epidermal necrolysis, Stevens-Johnson syndrome, seizures, hepatitis, elevation of liver enzymes, and elevation of bilirubin. Neurotoxicity including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation, and death (see WARNINGS )."
+  ],
+  "laboratory_tests": [
+   "Laboratory Test Findings In clinical trials involving 109 patients given either one or two doses of 170 to 200 mcg/kg STROMECTOL, the following laboratory abnormalities were seen regardless of drug relationship: elevation in ALT and/or AST (2%), decrease in leukocyte count (3%). Leukopenia and anemia were seen in one patient.",
+   "Laboratory Test Findings In controlled clinical trials, the following laboratory adverse experiences were reported as possibly, probably, or definitely related to the drug in ≥1% of the patients: eosinophilia (3%) and hemoglobin increase (1%)."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Cases of neurotoxicity, including alteration of consciousness of variable severity (e.g., somnolence/drowsiness, stupor, and coma), confusion, disorientation and death have been reported with recommended dosage and overdosage of ivermectin (see WARNINGS ). Significant lethality was observed in mice and rats after single oral doses of 25 to 50 mg/kg and 40 to 50 mg/kg, respectively. No significant lethality was observed in dogs after single oral doses of up to 10 mg/kg. At these doses, the treatment-related signs that were observed in these animals include ataxia, bradypnea, tremors, ptosis, decreased activity, emesis, and mydriasis. In accidental intoxication with, or significant exposure to, unknown quantities of veterinary formulations of ivermectin in humans, either by ingestion, inhalation, injection, or exposure to body surfaces, the following adverse effects have been reported most frequently: rash, edema, headache, dizziness, asthenia, nausea, vomiting, and diarrhea. Other adverse effects that have been reported include: seizure, ataxia, dyspnea, abdominal pain, paresthesia, urticaria, and contact dermatitis. In case of accidental poisoning, supportive therapy, if indicated, should include parenteral fluids and electrolytes, respiratory support (oxygen and mechanical ventilation if necessary) and pressor agents if clinically significant hypotension is present. Induction of emesis and/or gastric lavage as soon as possible, followed by purgatives and other routine anti-poison measures, may be indicated if needed to prevent absorption of ingested material."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Strongyloidiasis The recommended dosage of STROMECTOL for the treatment of strongyloidiasis is a single oral dose designed to provide approximately 200 mcg of ivermectin per kg of body weight. See Table 1 for dosage guidelines. Patients should take tablets on an empty stomach with water. (See CLINICAL PHARMACOLOGY, Pharmacokinetics .) In general, additional doses are not necessary. However, follow-up stool examinations should be performed to verify eradication of infection. (See CLINICAL PHARMACOLOGY, Clinical Studies .) Table 1: Dosage Guidelines for STROMECTOL for Strongyloidiasis Body Weight (kg) Single Oral Dose Number of 3 mg Tablets 15-24 1 tablet 25-35 2 tablets 36-50 3 tablets 51-65 4 tablets 66-79 5 tablets ≥80 200 mcg/kg Onchocerciasis The recommended dosage of STROMECTOL for the treatment of onchocerciasis is a single oral dose designed to provide approximately 150 mcg of ivermectin per kg of body weight. See Table 2 for dosage guidelines. Patients should take tablets on an empty stomach with water. (See CLINICAL PHARMACOLOGY, Pharmacokinetics .) In mass distribution campaigns in international treatment programs, the most commonly used dose interval is 12 months. For the treatment of individual patients, retreatment may be considered at intervals as short as 3 months. Table 2: Dosage Guidelines for STROMECTOL for Onchocerciasis Body Weight (kg) Single Oral Dose Number of 3 mg Tablets 15-25 1 tablet 26-44 2 tablets 45-64 3 tablets 65-84 4 tablets ≥85 150 mcg/kg"
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"363.000\" ID=\"id_b4cafbcf-461c-48dd-94df-23ae7d6ce051\"> <caption ID=\"id_49651fa5-0e1e-4118-bbc0-8d9d5bbd38e7\">Table 1: Dosage Guidelines for STROMECTOL for Strongyloidiasis</caption> <col width=\"48.5%\"/> <col width=\"51.5%\"/> <thead> <tr ID=\"id_7eed94d0-1f63-48af-a543-5740626c2014\"> <td align=\"center\" valign=\"top\" styleCode=\"Toprule\"> <content styleCode=\"underline\">Body Weight (kg) </content> </td> <td align=\"center\" valign=\"top\"> <content styleCode=\"underline\">Single Oral Dose</content> </td> </tr> <tr ID=\"id_bcc78105-dfa8-4384-b916-239c5764898b\"> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\"/> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\"> <content styleCode=\"underline\">Number of 3 mg Tablets</content> </td> </tr> </thead> <tbody> <tr ID=\"id_2b3361f0-0942-4e53-8f82-172d7df0310e\"> <td align=\"center\" valign=\"top\" styleCode=\"Toprule\">15-24</td> <td align=\"center\" valign=\"top\">1 tablet</td> </tr> <tr ID=\"id_a1fde600-2bc1-408e-aa3b-78ce5516ca93\"> <td align=\"center\" valign=\"top\">25-35 </td> <td align=\"center\" valign=\"top\">2 tablets</td> </tr> <tr ID=\"id_fe21bf1c-0589-4868-8bc4-fdd608a5896b\"> <td align=\"center\" valign=\"top\">36-50 </td> <td align=\"center\" valign=\"top\">3 tablets</td> </tr> <tr ID=\"id_7e5bdec2-fe6a-41ab-af36-a7031b4b364e\"> <td align=\"center\" valign=\"top\"> 51-65 </td> <td align=\"center\" valign=\"top\">4 tablets</td> </tr> <tr ID=\"id_4a249d83-718e-49a6-81ac-816d3aadc15b\"> <td align=\"center\" valign=\"top\">66-79 </td> <td align=\"center\" valign=\"top\">5 tablets</td> </tr> <tr ID=\"id_a1151de3-f901-4a0e-88bc-37121b5aa343\"> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">&#x2265;80</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">200 mcg/kg</td> </tr> </tbody> </table>",
+   "<table width=\"363.000\" ID=\"id_6d65d800-c8fc-4446-803d-875d8bbc9707\"> <caption ID=\"id_07a43b72-0d99-45c1-b393-8e874417c45b\">Table 2: Dosage Guidelines for STROMECTOL for Onchocerciasis</caption> <col width=\"48.5%\"/> <col width=\"51.5%\"/> <thead> <tr ID=\"id_dea8f13e-b8e8-40fe-bc22-c6bcdce38fe8\"> <td align=\"center\" valign=\"top\" styleCode=\"Toprule\"> <content styleCode=\"underline\">Body Weight (kg)</content> </td> <td align=\"center\" valign=\"top\"> <content styleCode=\"underline\">Single Oral Dose</content> </td> </tr> <tr ID=\"id_7cba7f31-dbc3-49aa-913c-b63b13c8b3c2\"> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\"/> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\"> <content styleCode=\"underline\">Number of 3 mg Tablets</content> </td> </tr> </thead> <tbody> <tr ID=\"id_1e587567-377b-4a51-ab94-a50f2c86916d\"> <td align=\"center\" valign=\"top\" styleCode=\"Toprule\">15-25</td> <td align=\"center\" valign=\"top\">1 tablet </td> </tr> <tr ID=\"id_d40e3ee0-979b-44ed-acaf-61c090eea24f\"> <td align=\"center\" valign=\"top\">26-44 </td> <td align=\"center\" valign=\"top\">2 tablets </td> </tr> <tr ID=\"id_e4b0f9d6-a018-4daf-ba12-cf06990a57e5\"> <td align=\"center\" valign=\"top\">45-64 </td> <td align=\"center\" valign=\"top\">3 tablets </td> </tr> <tr ID=\"id_b0a3bc01-65ea-4d00-b5ef-8f6daf0fe675\"> <td align=\"center\" valign=\"top\">65-84 </td> <td align=\"center\" valign=\"top\">4 tablets </td> </tr> <tr ID=\"id_a7e58c2d-5e83-43e2-a69a-fa7b727faa00\"> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">&#x2265;85</td> <td align=\"center\" valign=\"top\" styleCode=\"Botrule\">150 mcg/kg</td> </tr> </tbody> </table>"
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Tablets STROMECTOL 3 mg are white, round, flat, bevel-edged tablets coded MSD on one side and 32 on the other side. They are supplied as follows: NDC 0006-0032-20 unit dose packages of 20. NDC 0006-0032-01 unit dose packages of 20. Storage Store at temperatures below 30°C (86°F)."
+  ],
+  "storage_and_handling": [
+   "Storage Store at temperatures below 30°C (86°F)."
+  ],
+  "set_id": "681888c9-af79-4b7d-ae80-c3f4f6f1effd",
+  "id": "21f446cf-c0bf-48a5-a535-9d376bc365a9",
+  "effective_time": "20240920",
+  "version": "21"
+ }
+}

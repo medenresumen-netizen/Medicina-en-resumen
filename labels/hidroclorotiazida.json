@@ -1,0 +1,724 @@
+{
+ "id_es": "hidroclorotiazida",
+ "generic_en": "hydrochlorothiazide",
+ "search": "openfda.generic_name.exact:\"HYDROCHLOROTHIAZIDE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "41aaea48-6c1b-42c8-a96f-5923d49dc934",
+  "id": "d6ace9b2-f8fa-42b9-8338-9e2b5519ef6b",
+  "effective_time": "20251216",
+  "version": "2",
+  "brand_name": [
+   "INZIRQO"
+  ],
+  "generic_name": [
+   "HYDROCHLOROTHIAZIDE"
+  ],
+  "manufacturer_name": [
+   "ANI Pharmaceuticals, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA219141"
+  ],
+  "n_sections": 25
+ },
+ "candidates": [
+  {
+   "set_id": "4e43dd27-3f4b-4205-a26e-6ecaa8281347",
+   "id": "5f65709f-4944-a431-e063-6394a90aef92",
+   "effective_time": "20261103",
+   "version": "4",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA085182"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "98a58b54-bcf2-4726-800a-facf48d9155f",
+   "id": "76e7f2df-28f9-43cd-b98a-7bcefe6310ea",
+   "effective_time": "20261103",
+   "version": "28",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202556"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "1dc47186-3ecf-456f-b6d6-ba0f75c2504b",
+   "id": "5f4ce6bd-7024-de98-e063-6394a90ad1fc",
+   "effective_time": "20261102",
+   "version": "7",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087059"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "67bedecc-f758-4bc6-82c5-7d428cbbbd9b",
+   "id": "5ed9555d-cade-7a0f-e063-6294a90abc5c",
+   "effective_time": "20261027",
+   "version": "16",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040907"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "89d367b1-de04-4970-9967-27a1c7711c0f",
+   "id": "5ed92310-2821-424a-e063-6294a90ad0de",
+   "effective_time": "20261027",
+   "version": "8",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087059"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "31a3d1cb-0f52-4818-965d-7584374bb23e",
+   "id": "5da40fa3-974e-ccd0-e063-6294a90a36ce",
+   "effective_time": "20261012",
+   "version": "5",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA085182"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "8bc8d5e2-a974-64ed-e053-2a95a90a8340",
+   "id": "5d5a7128-2b05-614f-e063-6294a90ac5cd",
+   "effective_time": "20261008",
+   "version": "7",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040907"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0fc94bc2-fa38-439a-a609-1b4130cdacb1",
+   "id": "d269bcbb-63ba-480e-b064-57bf19ef4369",
+   "effective_time": "20260929",
+   "version": "6",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Westminster Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203561"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "2dd7c2a4-d335-4c6f-b1e6-b0ae6eebab84",
+   "id": "97ff1e14-49b8-4be6-be1e-10cfebf85ea4",
+   "effective_time": "20260923",
+   "version": "3",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040702"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "5ba2325f-5fc1-f6f0-e063-6294a90aefc6",
+   "id": "5ba2321c-931b-f6f7-e063-6294a90a513c",
+   "effective_time": "20260916",
+   "version": "1",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040702"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "1fad059f-f030-4dd8-b02a-bf3e775d37d2",
+   "id": "5b89b332-7841-bcf4-e063-6294a90ad13d",
+   "effective_time": "20260915",
+   "version": "2",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA085182"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "71691ccf-0ed9-4a14-8da6-7ab9b9698f52",
+   "id": "5b381fc8-9257-0279-e063-6394a90a2989",
+   "effective_time": "20260911",
+   "version": "3",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040702"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "8a1de4e2-3aca-a4d3-e053-2995a90a1a41",
+   "id": "5b359bf5-3209-c172-e063-6394a90ae65c",
+   "effective_time": "20260911",
+   "version": "4",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040907"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "8e0683e2-5473-4246-97ae-b71c21c39ac7",
+   "id": "59f343d2-f2f5-4c82-e063-6294a90ae306",
+   "effective_time": "20260826",
+   "version": "1",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040907"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "0789baef-3424-43ab-a3fb-4908172da565",
+   "id": "57613e3e-6f49-c980-e063-6394a90a9d30",
+   "effective_time": "20260724",
+   "version": "14",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203561"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "57436cfa-9b94-89bf-e063-6394a90aa264",
+   "id": "57436fef-3ad6-1202-e063-6294a90a4b44",
+   "effective_time": "20260723",
+   "version": "1",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA083177"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "03b7e52e-0003-47c3-af12-93ef00800b37",
+   "id": "5e2e9e5e-c329-4c42-b9cb-17db856fe84c",
+   "effective_time": "20260716",
+   "version": "103",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040702"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "a85f69f5-ba97-478d-e053-2a95a90a0a97",
+   "id": "55f7ec1d-d799-6eb1-e063-6294a90a6372",
+   "effective_time": "20260706",
+   "version": "10",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040702"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "54f027ea-0a6e-7920-e063-6394a90ab6ae",
+   "id": "54f027ea-0a6f-7920-e063-6394a90ab6ae",
+   "effective_time": "20260623",
+   "version": "1",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040907"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "8c868894-667e-4a51-906a-838d63e420ba",
+   "id": "12cad736-bf18-4ad0-8118-efc502f33e87",
+   "effective_time": "20260612",
+   "version": "20",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Leading Pharma, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040702"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "099496f1-4e2d-8d21-e063-6294a90af695",
+   "id": "54da3080-1ebb-8624-e063-6294a90a41b6",
+   "effective_time": "20260603",
+   "version": "2",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040702"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "a013211e-b8f8-426d-8e55-e86193f0634e",
+   "id": "793496da-96f0-4470-8f10-52d8f75e32ee",
+   "effective_time": "20260519",
+   "version": "9",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202556"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "2b21f3fc-4164-401a-803e-b982dea97e19",
+   "id": "c545f051-9fce-4a1f-b98b-6ef78b63a7ed",
+   "effective_time": "20260514",
+   "version": "106",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203561"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "27a7e751-8aca-440e-95e4-cfecae1a2465",
+   "id": "51b60669-eddc-ede8-e063-6294a90ae65c",
+   "effective_time": "20260513",
+   "version": "12",
+   "brand_name": [
+    "Hydrochlorothiazide"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202556"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5ab641d8-cd22-4368-8070-18487dd801eb",
+   "id": "43fe2acb-fd80-4aa2-8675-5dd137f2655d",
+   "effective_time": "20260511",
+   "version": "7",
+   "brand_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "generic_name": [
+    "HYDROCHLOROTHIAZIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA085182"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS & USAGE INZIRQO™ (hydrochlorothiazide) is a thiazide diuretic indicated for: The treatment of hypertension in adult and pediatric patients alone or in combination with other antihypertensive agents, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarction (1.1). The treatment of edema associated with congestive heart failure, hepatic cirrhosis and renal disease including the nephrotic syndrome in adult and pediatric patients. (1.2). 1.1 Hypertension INZIRQO is indicated for the treatment of hypertension in adult and pediatric patients, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes., including the class to which this drug principally belongs. Control of high blood pressure should be part of comprehensive cardiovascular risk management including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. INZIRQO can be used alone or in combination with other antihypertensive agents. 1.2 Edema Treatment of edema associated with congestive heart failure, hepatic cirrhosis, and renal disease including the nephrotic syndrome in adult and pediatric patients."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE & ADMINISTRATION For the treatment of hypertension in adults: The recommended initial dose in adults is 25 mg orally daily given as a single dose. As needed, increase the dose to 50 mg orally daily, given as a single or two divided doses(2.1). For the treatment of edema in adults: The recommended adult dosage is 25 mg to 100 mg orally daily as a single or divided dose. Consider intermittent therapy to reduce the risk of electrolyte imbalances, i.e., administration on alternate days or on 3 to 5 days each week (2.2). For the treatment of hypertension and edema in pediatric patients: The recommended pediatric dosage is 1 mg/kg to 2 mg/kg orally per day in single or two divided doses. Do not exceed 37.5 mg per day in patients less than 2 years of age or 100 mg per day in children 2 to less than 13 years of age. Patients less than 6 months of age may require doses up to 3 mg/kg orally per day in two divided doses (2.1, 2.2). 2.1 Recommended Dosage for the Treatment of Hypertension The recommended initial dose in adults is 25 mg orally daily given as a single dose. As needed, increase the dose to 50 mg orally daily, given as a single or two divided doses. Pediatric Patients: The recommended dose in pediatric patients is 1 to 2 mg/kg per day in one or two divided doses not to exceed 37.5 mg in patients less than 2 years of age and 100 mg in patients 2 to less than 13 years of age. In pediatric patients less than 6 months of age, doses up to 3 mg/kg per day in two divided doses may be required. 2.2 Recommended Dosage for the Treatment of Edema The recommended adult dosage is 25 mg to 100 mg orally daily as a single or divided dose. Consider intermittent therapy to reduce the risk of electrolyte imbalances, i.e., administration on alternate days or on 3 to 5 days each week. Pediatric Patients: The recommended dose in pediatric patients is 1 to 2 mg/kg per day in one or two divided doses not to exceed 37.5 mg in patients less than 2 years of age and 100 mg in patients 2 to less than 13 years of age. In pediatric patients less than 6 months of age, doses up to 3 mg/kg per day in two divided doses may be required. 2.3 Preparation of Oral Suspension INZIRQO is supplied as a powder for oral suspension and must be reconstituted prior to dispensing. Gently shake the bottle to loosen the powder, add 66 mL of water and shake vigorously for minimum of 30 seconds. When reconstituted as directed, the solution will result in a 10 mg/mL concentration of hydrochlorothiazide. Store the reconstituted solution at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Do not freeze. Write the date of expiration of the reconstituted oral suspension (calculated as 30 days after reconstitution) on the bottle label. 2.4 Important Administration Instructions Instruct patients or caregivers to use an oral dosing syringe to correctly measure the prescribed amount of medication. Inform patients that a bottle adapter and oral dosing syringes may be obtained from their pharmacy. Advise patients to always shake the bottle well prior to each use. INZIRQO may be administered with or without food [see Clinical Pharmacology (12.3)] ."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS & STRENGTHS For Oral Suspension: When reconstituted as directed, INZIRQO is an off-white to light brown colored suspension with caramel, peppermint flavor containing 10 mg/mL of hydrochlorothiazide, USP. For oral suspension: 10 mg/mL (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS INZIRQO is contraindicated: In patients with anuria. In patients with hypersensitivity to hydrochlorothiazide or any ingredient in INZIRQO. In patients with hypersensitivity to sulfonamide-derived drugs. Anuria (4) Hypersensitivity to hydrochlorothiazide or any ingredient in INZIRQO (4) Hypersensitivity to sulfonamide-derived drugs (4)"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Monitor kidney function periodically (5.1) Monitor and correct serum electrolytes prior to use and monitor periodically (5.2). Monitor blood sugar, lipid levels, uric acid and calcium levels periodically. (5.3) Exacerbation or activation of systemic lupus erythematosus (5.4) Acute angle-closure glaucoma and acute myopia (5.5) 5.1 Impaired Renal Function Monitor kidney function periodically. Diuretics can cause hypovolemia which may precipitate acute kidney injury. Patients with chronic kidney disease, heart failure, or volume depletion may be at particular risk of developing acute renal failure on INZIRQO. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in kidney function while on INZIRQO. 5.2 Electrolyte Abnormalities INZIRQO can cause potentially symptomatic hypokalemia, hyponatremia, hypomagnesemia, and hypochloremic alkalosis. Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion. Hypokalemia is dose dependent. Monitor and correct serum electrolytes prior to use and monitor periodically. Discontinue INZIRQO if hypokalemia is associated with clinical symptoms (e.g., ECG changes, muscular weakness). 5.3 Metabolic Disturbances INZIRQO may increase blood sugar levels, affect diabetes control, and cause changes in the need for diabetes medication. INZIRQO may raise serum levels of cholesterol and triglycerides. Monitor blood sugar and lipid levels. INZIRQO may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients. Increases in serum uric acid are dose related. INZIRQO decreases urinary calcium excretion and may cause elevations of serum calcium. Monitor calcium levels in patients with hypercalcemia receiving INZIRQO. Discontinue thiazides before carrying out tests for parathyroid function. 5.4 Systemic Lupus Erythematosus Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus. 5.5 Acute Angle-Closure Glaucoma and Acute Myopia Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction resulting in acute angle closure glaucoma and elevated intraocular pressure with or without a noticeable acute myopic shift and/or choroidal effusions. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma may result in permanent vision loss. Discontinue drug intake. Consider prompt medical or surgical treatments if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions with INZIRQO are described elsewhere: Impaired Renal Function [see Warnings and Precautions (5.1)] Electrolyte Abnormalities [see Warnings and Precautions (5.2)] Metabolic Disturbances [see Warnings and Precautions (5.3)] Systemic Lupus Erythematosus [see Warnings and Precautions (5.4)] Acute Angle-Closure Glaucoma and Acute Myopia [see Warnings and Precautions (5.5)] Adverse reactions include hypokalemia, hyponatremia, hypomagnesemia, hyperglycemia, hyperuricemia, hyperlipidemia and hypotension. See Adverse Reactions (6) To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience The following adverse reactions have been reported and, within each category, are listed in order of decreasing severity. Body as a Whole: Weakness. Cardiovascular: Hypotension including orthostatic hypotension (may be aggravated by alcohol, barbiturates, narcotics or antihypertensive drugs). Gastrointestinal: Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialadenitis, cramping, constipation, gastric irritation, nausea, anorexia. Hematologic: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia. Hypersensitivity: Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, fever, urticaria, rash, purpura. Metabolic: Electrolyte imbalance, hyperglycemia, glycosuria, hyperuricemia. Musculoskeletal: Muscle spasm. Nervous System: Vertigo, paresthesia, dizziness, headache, restlessness. Renal: Renal failure, renal dysfunction, interstitial nephritis. Skin and Appendages: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia. Special Senses: Transient blurred vision, xanthopsia. Urogenital System: Impotence. 6.2 Postmarketing Experience The following adverse reactions have been identified during postapproval use of hydrochlorothiazide. Non-melanoma Skin Cancer Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer. In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses. The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥ 50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS NSAID: May lead to increased risk of renal impairment and loss of diuretic and antihypertensive effect (7.1). Cholestyramine and colestipol: Reduced absorption of thiazides (7.1) Lithium: Increased lithium concentrations and lithium toxicity (7.2) Antidiabetic drugs: Dosage adjustment of antidiabetic may be required (7.2) 7.1 Potential for Other Drugs to Affect INZIRQO Non-Steroidal Anti-Inflammatory Agents: Administration of a nonsteroidal anti-inflammatory agent, including a selective COX-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of thiazide diuretics. Therefore, when INZIRQO and nonsteroidal anti-inflammatory agents are used concomitantly, check to determine if the desired effect of the diuretic is obtained. Cholestyramine and Colestipol : Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Stagger the dosage of INZIRQO and the resin such that INZIRQO is administered at least 4 hours before or 4 to 6 hours after the administration of the resin. 7.2 Potential for INZIRQO to Affect Other Drugs Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of hydrochlorothiazide. Monitor serum lithium levels during concomitant use and adjust the lithium dose during concomitant administration or discontinuation of hydrochlorothiazide. Antidiabetic Drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required when coadministered with hydrochlorothiazide."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Untreated hypertension during pregnancy can lead to adverse outcomes for the mother and the fetus (see Clinical Considerations). Available data from published observational studies have not demonstrated a drug-associated risk of major birth defects, miscarriage or adverse maternal outcomes with hydrochlorothiazide use during pregnancy. However, there have been rare reports of jaundice, thrombocytopenia, and electrolyte imbalances in infants exposed to thiazide medications during pregnancy. The background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Monitor pregnant women with hypertension. Data Animal Data Teratogenic effects: Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide /kg (approximately 146-fold and 97-fold the maximum recommended human dose based on body surface area), respectively, provided no evidence of harm to the fetus. 8.2 Lactation Risk Summary Available data from published literature indicate hydrochlorothiazide is present in human milk (see Data) . There are no reports of adverse effects on breastfed infants exposed to hydrochlorothiazide during lactation. Doses of hydrochlorothiazide associated with clinically significant diuresis have been associated with impaired milk production. Consider the developmental and health benefits of breastfeeding along with the mother’s clinical need for INZIRQO and any potential adverse effects on the breastfed infant from INZIRQO or from the underlying maternal condition. Data A single study involving one woman and her infant showed a peak concentration of 275 mcg/L at 3 hours following 50 mg dose. No drug was detected (<20 mcg/L) in the infant’s plasma at 2 and 11 hours following the mother’s dose. 8.4 Pediatric Use INZIRQO is approved for use in pediatric patients for the following: Treatment of hypertension to lower blood pressure Treatment of edema associated with congestive heart failure, hepatic cirrhosis, and renal disease, including the nephrotic syndrome 8.5 Hepatic Impairment Monitor for mental status changes when using INZIRQO in patients with hepatic impairment because fluid shifts may precipitate hepatic coma."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Untreated hypertension during pregnancy can lead to adverse outcomes for the mother and the fetus (see Clinical Considerations). Available data from published observational studies have not demonstrated a drug-associated risk of major birth defects, miscarriage or adverse maternal outcomes with hydrochlorothiazide use during pregnancy. However, there have been rare reports of jaundice, thrombocytopenia, and electrolyte imbalances in infants exposed to thiazide medications during pregnancy. The background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Monitor pregnant women with hypertension. Data Animal Data Teratogenic effects: Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide /kg (approximately 146-fold and 97-fold the maximum recommended human dose based on body surface area), respectively, provided no evidence of harm to the fetus."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use INZIRQO is approved for use in pediatric patients for the following: Treatment of hypertension to lower blood pressure Treatment of edema associated with congestive heart failure, hepatic cirrhosis, and renal disease, including the nephrotic syndrome"
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE The most common signs and symptoms observed are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis. The degree to which hydrochlorothiazide is removed by hemodialysis has not been established."
+  ],
+  "description": [
+   "11 DESCRIPTION Hydrochlorothiazide, USP is a diuretic and antihypertensive. It is the 3,4-dihydro derivative of chlorothiazide. It is chemically designated as 6-chloro-3,4-dihydro-2 H -1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide and has the following structural formula: Hydrochlorothiazide, USP is a white, or practically white, crystalline powder which is slightly soluble in water, freely soluble in sodium hydroxide solution, in n-butylamine, and in dimethylformamide; sparingly soluble in methanol; insoluble in ether, in chloroform, and in dilute mineral acids. The molecular formula is C 7 H 8 ClN 3 O 4 S 2 and the molecular weight is 297.74. INZIRQO (hydrochlorothiazide) is supplied in one strength as an off-white to light-brown colored powder for oral suspension. When reconstituted with 66 mL of water, the total volume of the suspension is 80 mL containing 10 mg/mL of hydrochlorothiazide, USP. In addition, INZIRQO contains the following inactive ingredients: anhydrous citric acid, caramel flavor (artificial flavor, caramel, maltodextrin, molasses, propylene glycol, salt and sucrose), cellulose, peppermint flavor (acacia and natural flavor), potassium sorbate, sucrose, talc and xanthan gum. structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Thiazides affect the renal tubular mechanisms of electrolyte reabsorption, directly increasing excretion of sodium and chloride in approximately equivalent amounts. Indirectly, the diuretic action of hydrochlorothiazide reduces plasma volume, with consequent increases in plasma renin activity, increases in aldosterone secretion, increases in urinary potassium loss, and decreases in serum potassium. The mechanism of the antihypertensive effect of thiazides is not fully understood. 12.2 Pharmacodynamics Hydrochlorothiazide does not usually affect normal blood pressure. Hydrochlorothiazide affects the distal renal tubular mechanism of electrolyte reabsorption. At maximal therapeutic dosage, all thiazides are approximately equal in their diuretic efficacy. Hydrochlorothiazide increases excretion of sodium and chloride in approximately equivalent amounts. Natriuresis may be accompanied by some loss of potassium and bicarbonate. After oral use, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours. 12.3 Pharmacokinetics Over a dose range of 50 to 100 mg, peak plasma hydrochlorothiazide concentrations and exposure (AUC) of INZIRQO increases proportionally with dose in healthy subjects. Absorption Following single-dose oral administration of 100 mg INZIRQO to healthy subjects in the fasted state, the AUC and C max of hydrochlorothiazide was 5940 ng.h/mL and 972 ng/mL, respectively. The peak plasma hydrochlorothiazide concentrations are achieved at approximately 1.5 hours. Effect of Food: A food-effect study involving administration of INZIRQO to healthy male and female subjects after a high-fat, high calorie breakfast indicated that the rate of absorption (C max ) decreased 38%, while the extent of absorption (AUC) remained unchanged, when compared to administration under fasting conditions. The T max was delayed by 2 hours. Cholestyramine and Colestipol Resins: Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins reduced the bioavailability of hydrochlorothiazide by up to 85% and 43%, respectively. Distribution Hydrochlorothiazide binds to albumin (40% to 70%) and distributes into erythrocytes. It crosses the placental but not the blood-brain barrier and is excreted in breast milk. Elimination Following oral administration of INZIRQO, plasma hydrochlorothiazide concentrations decline biexponentially, with a terminal elimination half-life of about 10 hours. At least 61% of the oral dose is eliminated unchanged in the urine within 24 hours."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Thiazides affect the renal tubular mechanisms of electrolyte reabsorption, directly increasing excretion of sodium and chloride in approximately equivalent amounts. Indirectly, the diuretic action of hydrochlorothiazide reduces plasma volume, with consequent increases in plasma renin activity, increases in aldosterone secretion, increases in urinary potassium loss, and decreases in serum potassium. The mechanism of the antihypertensive effect of thiazides is not fully understood."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Hydrochlorothiazide does not usually affect normal blood pressure. Hydrochlorothiazide affects the distal renal tubular mechanism of electrolyte reabsorption. At maximal therapeutic dosage, all thiazides are approximately equal in their diuretic efficacy. Hydrochlorothiazide increases excretion of sodium and chloride in approximately equivalent amounts. Natriuresis may be accompanied by some loss of potassium and bicarbonate. After oral use, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Over a dose range of 50 to 100 mg, peak plasma hydrochlorothiazide concentrations and exposure (AUC) of INZIRQO increases proportionally with dose in healthy subjects. Absorption Following single-dose oral administration of 100 mg INZIRQO to healthy subjects in the fasted state, the AUC and C max of hydrochlorothiazide was 5940 ng.h/mL and 972 ng/mL, respectively. The peak plasma hydrochlorothiazide concentrations are achieved at approximately 1.5 hours. Effect of Food: A food-effect study involving administration of INZIRQO to healthy male and female subjects after a high-fat, high calorie breakfast indicated that the rate of absorption (C max ) decreased 38%, while the extent of absorption (AUC) remained unchanged, when compared to administration under fasting conditions. The T max was delayed by 2 hours. Cholestyramine and Colestipol Resins: Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins reduced the bioavailability of hydrochlorothiazide by up to 85% and 43%, respectively. Distribution Hydrochlorothiazide binds to albumin (40% to 70%) and distributes into erythrocytes. It crosses the placental but not the blood-brain barrier and is excreted in breast milk. Elimination Following oral administration of INZIRQO, plasma hydrochlorothiazide concentrations decline biexponentially, with a terminal elimination half-life of about 10 hours. At least 61% of the oral dose is eliminated unchanged in the urine within 24 hours."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility Two year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day). The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice. Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity)and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus nidulans nondisjunction assay at an unspecified concentration."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility Two year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day). The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice. Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity)and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus nidulans nondisjunction assay at an unspecified concentration."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied INZIRQO (hydrochlorothiazide) is supplied as an off-white to light-brown colored powder for oral suspension in one strength containing 800 mg of hydrochlorothiazide, USP in a HDPE bottle. When reconstituted as directed, INZIRQO forms an off-white to light brown colored suspension with caramel, peppermint flavor. The total volume of the suspension is 80 mL containing 10 mg of hydrochlorothiazide, USP per mL (70954-522-10). 16.2 Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Do not freeze. Keep this and all medication out of the reach of children. Store reconstituted solutions of INZIRQO at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. [see Dosage and Administration (2.3)]."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Acute Angle-Closure Glaucoma and Acute Myopia Advise patients to discontinue INZIRQO and seek immediate medical attention if they experience symptoms of Acute Myopia or Secondary Angle-Closure Glaucoma [see Warnings and Precautions (5.5)] . Non-melanoma Skin Cancer Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening [see Postmarketing Experience (6.2)]. Recommended Administration Advise patients to always shake the bottle well before each use and measure the dose using a calibrated oral dosing syringe to ensure that the dose is measured and administered accurately. Inform patients that a bottle adapter and oral dosing syringes may be obtained from their pharmacy. Advise patients never to use household teaspoons or tablespoons to measure INZIRQO. Advise patients that the oral suspension should be stored at room temperature (20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F)). INZIRQO may be taken with or without meals. Discard any unused suspension 30 days after reconstitution. Trademarks are the property of their respective owners. Distributed by: ANI Pharmaceuticals, Inc., Baudette, MN 56623 LB4824-01 INZIRQO is a pending trademark of ANI Pharmaceuticals, Inc."
+  ],
+  "set_id": "41aaea48-6c1b-42c8-a96f-5923d49dc934",
+  "id": "d6ace9b2-f8fa-42b9-8338-9e2b5519ef6b",
+  "effective_time": "20251216",
+  "version": "2"
+ }
+}

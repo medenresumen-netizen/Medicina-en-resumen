@@ -1,0 +1,754 @@
+{
+ "id_es": "metronidazol",
+ "generic_en": "metronidazole",
+ "search": "openfda.generic_name.exact:\"METRONIDAZOLE\"",
+ "downloaded": "2026-11-11T06:39Z",
+ "chosen": {
+  "set_id": "3b6ff39d-f84b-43b3-9b07-c0521c6d7968",
+  "id": "09d13114-f228-f0bc-e063-6394a90a84f5",
+  "effective_time": "20231110",
+  "version": "9",
+  "brand_name": [
+   "Nuvessa"
+  ],
+  "generic_name": [
+   "METRONIDAZOLE"
+  ],
+  "manufacturer_name": [
+   "Exeltis USA, Inc."
+  ],
+  "route": [
+   "TOPICAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA205223"
+  ],
+  "n_sections": 33
+ },
+ "candidates": [
+  {
+   "set_id": "2f7d84d4-1085-4243-be88-442eecb85205",
+   "id": "5f9ba24a-0ecb-9d7d-e063-6394a90a60ad",
+   "effective_time": "20261106",
+   "version": "14",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203458"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "49360d6f-c8b3-420e-af75-154cf7b05255",
+   "id": "40e1e910-88a9-45f1-8165-10966a0ede9e",
+   "effective_time": "20261102",
+   "version": "7",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206191"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "8f1de4ca-a005-4ca9-a43a-380429c80d6f",
+   "id": "5dfbd866-087f-e577-e063-6394a90a4ca5",
+   "effective_time": "20261016",
+   "version": "14",
+   "brand_name": [
+    "metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206560"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "4cdd7ac5-a52c-4766-afeb-1b5e567a328c",
+   "id": "5dce431a-0d41-df7a-e063-6294a90afc2a",
+   "effective_time": "20261014",
+   "version": "19",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203458"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "2ced2460-a003-4314-897b-f4ae0ff72edf",
+   "id": "2ced2460-a003-4314-897b-f4ae0ff72edf",
+   "effective_time": "20261001",
+   "version": "1",
+   "brand_name": [
+    "Metronidazole Vaginal Gel"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "VAGINAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218485"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "2a6f8d77-a5b7-40fb-9a2e-e2778c39ba01",
+   "id": "5b72f53d-b858-bb90-e063-6294a90a89e0",
+   "effective_time": "20260914",
+   "version": "3",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "VAGINAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213648"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "9ed89bfc-ccf3-4e6c-924f-2a14bf82163f",
+   "id": "5882576d-a02a-4f0f-ae80-706826268036",
+   "effective_time": "20260910",
+   "version": "10",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070772"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "4040db14-750f-6d20-e054-00144ff8d46c",
+   "id": "59fbcd33-af2f-503f-e063-6294a90acbb9",
+   "effective_time": "20260826",
+   "version": "9",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203458"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "71f5ce2f-17f8-45fc-b27d-2bf982591ab3",
+   "id": "26aeebea-f29b-4221-82fb-a872e9c11051",
+   "effective_time": "20260821",
+   "version": "6",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205245"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "5cc3fd98-d579-432e-a4b5-b6d5586991a6",
+   "id": "585075f8-b5c5-1dc3-e063-6394a90abe07",
+   "effective_time": "20260805",
+   "version": "13",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205245"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "4748ba37-9d66-497d-aa9f-ca2d541c5f41",
+   "id": "61ab1dc6-b923-4058-8b85-58a72c9b66ef",
+   "effective_time": "20260715",
+   "version": "100",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209794"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "4a233572-2471-4e99-a45e-2de978abcf16",
+   "id": "56a64806-9414-af6c-e063-6394a90ab053",
+   "effective_time": "20260715",
+   "version": "6",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077819"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "5842a554-58d1-4ee4-99aa-1e6029a69be2",
+   "id": "56a665f7-d6b1-3f68-e063-6294a90afa3a",
+   "effective_time": "20260715",
+   "version": "6",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204651"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "5a504f74-bccd-433a-bd5b-6822f98c34df",
+   "id": "56a65e15-cd06-394c-e063-6294a90add76",
+   "effective_time": "20260715",
+   "version": "7",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204651"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "5cf3cc1f-601e-4997-bfb2-a573c31c8189",
+   "id": "31957e18-394e-4915-b781-94208eb75af5",
+   "effective_time": "20260715",
+   "version": "100",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209794"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "59e53582-244a-4e9d-b18e-75dddc6a5052",
+   "id": "1969dc9c-4ced-498b-90a6-c027846b7aaf",
+   "effective_time": "20260708",
+   "version": "3",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217128"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "3e0a14f1-961b-4722-bfea-aafcc5d7706c",
+   "id": "bef2bc89-5d47-45ff-bc56-f298514ffc58",
+   "effective_time": "20260707",
+   "version": "9",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203458"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "53918705-d2fe-4c6b-9501-a619a8ad3991",
+   "id": "55b688c2-20f1-65fa-e063-6294a90afe1c",
+   "effective_time": "20260703",
+   "version": "20",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070033"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "8836334e-6db4-44be-bc9e-099b26322cf4",
+   "id": "662b4c08-b4f3-42b8-bf9c-956b6dae3593",
+   "effective_time": "20260701",
+   "version": "14",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Kanchan Healthcare Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209794"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "99886f54-4ebe-4a2d-b779-bcfbb0634db1",
+   "id": "6ebcaed9-c56b-437c-8c30-0b3e06feb5c4",
+   "effective_time": "20260630",
+   "version": "102",
+   "brand_name": [
+    "metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070772"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "3c0ebb00-a0ae-4f64-9bfc-de01193191e8",
+   "id": "54ed697c-13b6-4c0c-e063-6394a90a3e76",
+   "effective_time": "20260623",
+   "version": "33",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203458"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "49bed450-7fa8-401c-8c8c-afc1c61d473a",
+   "id": "54ed3da6-6217-286a-e063-6394a90a175e",
+   "effective_time": "20260623",
+   "version": "30",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203458"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "545f2900-745c-c33c-e063-6294a90a5e4f",
+   "id": "545f1c56-176e-68bd-e063-6394a90a77bf",
+   "effective_time": "20260616",
+   "version": "1",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203458"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "4e1ac737-c353-4764-bd35-dc844e75b562",
+   "id": "e3cec84d-cab4-4239-bfea-eaac9dee15d2",
+   "effective_time": "20260610",
+   "version": "3",
+   "brand_name": [
+    "Metronidazole"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205245"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "7187779a-1f4c-4607-af53-4119e324aad5",
+   "id": "53cfb044-6f56-f028-e063-6394a90a53f2",
+   "effective_time": "20260609",
+   "version": "5",
+   "brand_name": [
+    "METRONIDAZOLE"
+   ],
+   "generic_name": [
+    "METRONIDAZOLE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212435"
+   ],
+   "n_sections": 29
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE NUVESSA is indicated for the treatment of bacterial vaginosis in females 12 years of age and older. NUVESSA is a nitroimidazole antimicrobial indicated for the treatment of bacterial vaginosis in females 12 years of age and older. ( 1 )​"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION A single-dose, pre-filled disposable applicator (which delivers approximately 5 g of gel containing 65 mg of metronidazole) administered once intravaginally. NUVESSA should be administered at bedtime. NUVESSA is not for ophthalmic, dermal or oral use. A single-dose, pre-filled disposable applicator administered once intravaginally at bedtime. ( 2 ) NUVESSA is not for ophthalmic, dermal, or oral use. ( 2 )"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Vaginal gel (1.3%) containing 65 mg of metronidazole in 5 grams of gel in a pre-filled applicator. Vaginal gel: 65 mg of metronidazole in 5 grams of gel (1.3%) in a prefilled applicator ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS History of hypersensitivity to metronidazole, parabens, other ingredients of the formulation, or other nitroimidazole derivatives ( 4.1 ) Concomitant use of disulfiram or within 2 weeks of disulfiram ( 4.2 , 7.1 ) Concomitant use of alcohol ( 4.3 , 7.2 ) 4.1 Hypersensitivity NUVESSA is contraindicated in persons who have shown hypersensitivity to metronidazole, parabens, other ingredients of the formulation, or other nitroimidazole derivatives. 4.2 Use of Disulfiram Psychotic reactions have been reported with co-administration of disulfiram and oral metronidazole. Do not administer concurrently with or within 2 weeks of disulfiram. 4.3 Concomitant Alcohol Disulfiram-like reactions to alcohol have been reported with co-administration of oral metronidazole; do not consume ethanol or propylene glycol, during and for at least 24 hours following treatment."
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Central and peripheral nervous system effects: Convulsive seizures and peripheral neuropathy have been reported in patients treated with oral or intravenous metronidazole. Discontinue promptly if abnormal neurologic signs develop ( 5.1 ) Interference with laboratory tests: Metronidazole may interfere with certain serum chemistry laboratory values. ( 5.3 ) 5.1 Central and Peripheral Nervous System Effects Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with oral or intravenous metronidazole. NUVESSA should be administered with caution to patients with central nervous system diseases. Discontinue promptly if abnormal neurologic signs develop. 5.2 Carcinogenicity in Animals Metronidazole has been shown to be carcinogenic at high doses administered orally in mice and rats [see Nonclinical Toxicology ( 13.1 )] . Unnecessary use of metronidazole should be avoided. Use of NUVESSA should be reserved for the treatment of bacterial vaginosis [see Indications and Usage ( 1 )]. 5.3 Drug/Laboratory Test Interactions Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and glucose hexokinase. Values of zero may be observed. All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation reduction of nicotinamide-adenine dinucleotides (NAD + NADH). Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The most common adverse reactions observed in adult clinical studies (incidence ≥1%) were vulvovaginal candidiasis, headache, vulvovaginal pruritus, nausea, diarrhea, and dysmenorrhea. The most common adverse reactions observed in pediatric clinical studies (incidence ≥1%) was vulvovaginal discomfort. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Exeltis USA, Inc., at 1-877-324-9349 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Clinical Trial Experience in Adult Subjects The safety of NUVESSA was evaluated in a randomized, double-blind, vehicle-controlled study in subjects with bacterial vaginosis. A total of 321 non-pregnant females with a mean age of 33.4 years (range 18 to 67 years) received NUVESSA. Subjects were primarily Black/African American (58.3%) or White (39.3%). Subjects administered a single dose of NUVESSA at bedtime on the first day of the study. There were no deaths or serious adverse reactions in this trial. Adverse reactions were reported by 19.0% of subjects treated with NUVESSA versus 16.1% of subjects treated with Vehicle Gel. Adverse reactions occurring in ≥1% of subjects receiving NUVESSA were: vulvovaginal candidiasis (5.6%), headache (2.2%), vulvovaginal pruritus (1.6%), nausea (1.6%), diarrhea (1.2%), and dysmenorrhea (1.2%). No subjects discontinued treatment due to adverse reactions. Clinical Trial Experience in Pediatric Subjects The safety of NUVESSA was evaluated in a multicenter, open-label study evaluating the safety and tolerability of NUVESSA in 60 pediatric subjects between the ages of 12 and less than 18 years old all of whom were treated with a single dose of NUVESSA administered once at bedtime intravaginally. Most subjects in this study were either Black/African-American, non-Hispanic (47%) or Hispanic (35%). Safety in pediatric female subjects aged 12 to less than 18 years old was comparable to adult women. No deaths occurred and no subjects discontinued treatment due to adverse reactions. Adverse reactions occurring in ≥ 1% of pediatric subjects included: vulvovaginal discomfort (2%). 6.2 Other Metronidazole Formulations Other Vaginal Formulations Other reactions that have been reported in association with the use of other formulations of metronidazole vaginal gel include: unusual taste and decreased appetite. Topical (Dermal) Formulations Other reactions that have been reported in association with the use of topical (dermal) formulations of metronidazole include skin irritation, transient skin erythema, and mild skin dryness and burning. None of these adverse reactions exceeded an incidence of 2% of patients. Oral and Parenteral Formulations The following adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of metronidazole: Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings. Nervous System: The most serious adverse reactions reported in patients treated with oral metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity. In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions ( 5.1 )]. Gastrointestinal: Abdominal discomfort, nausea, vomiting, diarrhea, an unpleasant metallic taste, anorexia, epigastric distress, abdominal cramping, constipation, \"furry\" tongue, glossitis, stomatitis, pancreatitis, and modification of taste of alcoholic beverages. Genitourinary: Overgrowth of Candida in the vagina, dyspareunia, decreased libido, proctitis. Hematopoietic: Reversible neutropenia, reversible thrombocytopenia. Hypersensitivity Reactions: Urticaria; erythematous rash; Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing; nasal congestion; dryness of the mouth, vagina, or vulva; fever; pruritus; fleeting joint pains [see Contraindications ( 4 )]. Renal: Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, darkened urine."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS The intravaginal administration of a single dose of NUVESSA results in lower systemic exposure to metronidazole that is approximately 2% to 4% of that achieved following oral administration of 500 mg metronidazole tablets [see Clinical Pharmacology ( 12.3 )] . The following drug interactions were reported for oral metronidazole. Warfarin and other coumarin anticoagulants: Prolonged anticoagulant effects of warfarin and other coumarin anticoagulants have been reported with co-administration of oral metronidazole. ( 7.3 ) Lithium: Elevated plasma lithium concentrations have been reported with oral metronidazole. ( 7.4 ) 7.1 Disulfiram Use of oral metronidazole has been associated with psychotic reactions in alcoholic patients who are using disulfiram concurrently. NUVESSA should not be used by patients who have taken disulfiram within the last two weeks [see Contraindications ( 4.2 )] . 7.2 Alcoholic Beverages Use of oral metronidazole has been associated with a disulfiram-like reaction (abdominal cramps, nausea, vomiting, headaches, and flushing) to alcohol. Alcoholic beverages and preparations containing ethanol or propylene glycol should not be consumed during and for at least 24 hours after NUVESSA therapy [see Contraindications ( 4.3 )]. 7.3 Coumarin and Other Oral Anticoagulants Use of oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other coumarin anticoagulants, resulting in a prolongation of prothrombin time. This possible drug interaction should be considered when NUVESSA is prescribed for patients on this type of anticoagulant therapy. 7.4 Lithium Short-term use of oral metronidazole has been associated with elevation of plasma lithium concentrations and, in a few cases, signs of lithium toxicity in patients stabilized on relatively high doses of lithium. 7.5 Cimetidine Use of oral metronidazole with cimetidine may prolong the half-life and decrease plasma clearance of metronidazole. No dose adjustment of NUVESSA is necessary."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Lactation: A lactating patient may pump and discard breast milk during treatment and for 48 hours after the last dose. ( 8.2 ) 8.1 Pregnancy Risk Summary There are no data available on the use of NUVESSA in pregnant women. Metronidazole usage in pregnancy has been associated with certain congenital anomalies (see Data ) . In animal reproduction studies, no fetotoxicity or teratogenicity was observed when metronidazole was administered orally, during organogenesis to pregnant rats and rabbits at up to 30 times and 60 times the recommended human dose based on body surface area comparison, respectively (see Data ) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Human Data Blood levels following NUVESSA vaginal administration are lower than those achieved with oral metronidazole. Following a single intravaginal 5 g dose of NUVESSA, mean maximum concentration (C max ) and total exposure (AUC 0 -∞ ) are approximately 2% and 4%, respectively, of those following a single oral 500 mg dose of metronidazole tablets [see Clinical Pharmacology ( 12.3 )] . Metronidazole crosses the placental barrier and enters the fetal circulation rapidly. There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy. Many studies included first trimester exposures. One study showed an increased risk of cleft lip, with or without cleft palate, in infants exposed to metronidazole in utero ; however, these findings were not confirmed. In addition, more than ten randomized placebo-controlled clinical trials enrolled more than 5000 pregnant women to assess the use of antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery. Most studies did not show an increased risk for congenital anomalies or other adverse fetal outcomes following metronidazole exposure during pregnancy. Three studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited. Animal Data No fetotoxicity or teratogenicity was observed when metronidazole was administered orally to pregnant rabbits at up to 200 mg/kg (about 60 times the maximum human dose based on body surface area comparison). Similarly, no fetotoxic or teratogenic effects were observed in five studies in rats where dosing was administered orally in the diet or by gastric intubation at doses up to 200 mg/kg (about 30 times the maximum human dose based on body surface area comparison). As well, no fetotoxicity or teratogenicity was observed when metronidazole was administered orally to pregnant mice at doses up to 100 mg/kg (about 7 times the maximum human dose based on body surface area comparison). However, some intrauterine deaths were observed in Swiss Webster mice administered metronidazole intraperitoneally at doses up to 15 mg/kg (about 1 times the maximum human dose based on body surface area comparison). The relationship of these intraperitoneal findings in mice to the vaginal use of NUVESSA is unknown. 8.2 Lactation Risk Summary There are no data on the presence of metronidazole in human milk following intravaginal administration. Metronidazole is present in human milk following oral metronidazole administration, at concentrations similar to those found in plasma ( see Data ). The metronidazole vaginal gel achieves 2% of the mean maximum serum concentration of a 500 mg oral metronidazole dose [see Clinical Pharmacology ( 12.3 )] . The published literature reports no adverse effects in infants exposed through breastmilk to maternal orally administered metronidazole. There are no data on the effects on milk production. Animal studies have shown the potential for tumorigenicity after oral metronidazole was administered chronically to rats and mice [see Nonclinical Toxicology ( 13.1 )] . The clinical relevance of these findings is unclear. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NUVESSA, and any potential adverse effects on the breastfed child from NUVESSA or from the underlying maternal condition. Alternatively, a lactating patient may interrupt breastfeeding and choose to pump and discard breastmilk during treatment with NUVESSA and for 48 hours after the last dose and feed her infant previously stored human milk or formula. Data In a study of lactating women receiving oral metronidazole 600 mg (n=11) or 1200 mg (n=4) daily, mean maternal plasma concentrations were 5.0 and 12.5 mcg/mL respectively, within 2 hours following administration; the milk: maternal plasma ratio was approximately 1. 8.4 Pediatric Use The safety and effectiveness of NUVESSA have been established in pediatric subjects between the ages of 12 and less than 18 years old. Use of NUVESSA in this age group is supported by evidence from a multicenter, open-label safety and tolerability study in 60 pediatric patients with bacterial vaginosis [see Adverse Reactions ( 6.1 )] and, evidence from adequate and well-controlled studies in adult women. The safety and effectiveness of NUVESSA in pediatric subjects below the age of 12 years have not been established. 8.5 Geriatric Use Clinical studies with NUVESSA did not include sufficient numbers of subjects 65 years of age or older to determine whether they respond differently than younger subjects."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no data available on the use of NUVESSA in pregnant women. Metronidazole usage in pregnancy has been associated with certain congenital anomalies (see Data ) . In animal reproduction studies, no fetotoxicity or teratogenicity was observed when metronidazole was administered orally, during organogenesis to pregnant rats and rabbits at up to 30 times and 60 times the recommended human dose based on body surface area comparison, respectively (see Data ) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Human Data Blood levels following NUVESSA vaginal administration are lower than those achieved with oral metronidazole. Following a single intravaginal 5 g dose of NUVESSA, mean maximum concentration (C max ) and total exposure (AUC 0 -∞ ) are approximately 2% and 4%, respectively, of those following a single oral 500 mg dose of metronidazole tablets [see Clinical Pharmacology ( 12.3 )] . Metronidazole crosses the placental barrier and enters the fetal circulation rapidly. There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy. Many studies included first trimester exposures. One study showed an increased risk of cleft lip, with or without cleft palate, in infants exposed to metronidazole in utero ; however, these findings were not confirmed. In addition, more than ten randomized placebo-controlled clinical trials enrolled more than 5000 pregnant women to assess the use of antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery. Most studies did not show an increased risk for congenital anomalies or other adverse fetal outcomes following metronidazole exposure during pregnancy. Three studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited. Animal Data No fetotoxicity or teratogenicity was observed when metronidazole was administered orally to pregnant rabbits at up to 200 mg/kg (about 60 times the maximum human dose based on body surface area comparison). Similarly, no fetotoxic or teratogenic effects were observed in five studies in rats where dosing was administered orally in the diet or by gastric intubation at doses up to 200 mg/kg (about 30 times the maximum human dose based on body surface area comparison). As well, no fetotoxicity or teratogenicity was observed when metronidazole was administered orally to pregnant mice at doses up to 100 mg/kg (about 7 times the maximum human dose based on body surface area comparison). However, some intrauterine deaths were observed in Swiss Webster mice administered metronidazole intraperitoneally at doses up to 15 mg/kg (about 1 times the maximum human dose based on body surface area comparison). The relationship of these intraperitoneal findings in mice to the vaginal use of NUVESSA is unknown."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of NUVESSA have been established in pediatric subjects between the ages of 12 and less than 18 years old. Use of NUVESSA in this age group is supported by evidence from a multicenter, open-label safety and tolerability study in 60 pediatric patients with bacterial vaginosis [see Adverse Reactions ( 6.1 )] and, evidence from adequate and well-controlled studies in adult women. The safety and effectiveness of NUVESSA in pediatric subjects below the age of 12 years have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies with NUVESSA did not include sufficient numbers of subjects 65 years of age or older to determine whether they respond differently than younger subjects."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE There is no human experience with overdosage of metronidazole vaginal gel. Vaginally applied NUVESSA could be absorbed in sufficient amounts to produce systemic effects [see Warnings and Precautions ( 5 ) and Adverse Reactions ( 6.2 )]."
+  ],
+  "description": [
+   "11 DESCRIPTION NUVESSA contains 1.3% metronidazole, USP in a single-dose prefilled disposable applicator. It is intended for intravaginal use. Metronidazole is a nitroimidazole antimicrobial. Chemically, metronidazole is a 2-methyl-5-nitroimidazole-1-ethanol. Its structural formula is: The molecular formula is C 6 H 9 N 3 O 3 with a molecular weight of 171.16. NUVESSA is an aqueous gel containing metronidazole at a concentration of 13 mg/g (1.3%). The gel is formulated at pH 4.0. The gel also contains benzyl alcohol, methylparaben, polycarbophil, polyethylene glycol 400, propylene glycol, propylparaben, and purified water. Each applicator contains approximately 65 mg of metronidazole in 5 g of vaginal gel. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Metronidazole is an antimicrobial drug [see Microbiology ( 12.4 )]. 12.3 Pharmacokinetics Following a single, intravaginal 5 g dose of NUVESSA (equivalent to 65 mg of metronidazole) to 20 healthy female subjects, a mean maximum serum metronidazole concentration (C max ) of 239 ng/mL was observed (range: 114 to 428 ng/mL). The average time to achieve this C max was 7.3 hours (range: 4 to 18 hours). This C max is approximately 2% of the mean maximum serum concentration reported in healthy subjects administered a single, oral 500 mg dose of metronidazole tablets (mean C max = 12,785 ng/mL). The extent of exposure [area under the curve (AUC)] of metronidazole, when administered as a single intravaginal 5 g dose of NUVESSA (equivalent to 65 mg of metronidazole), was 5,434 ng∙hr/mL (range: 1382 to 12744 ng∙hr/mL). This AUC 0-∞ is approximately 4% of the reported AUC of metronidazole following a single oral 500 mg dose of metronidazole (approximately 125,000 ng∙hr/mL). 12.4 Microbiology Mechanism of Action Metronidazole is a nitroimidazole antimicrobial agent that acts primarily against anaerobic bacteria and selected protozoa. The 5-nitro group on the metronidazole molecule is reduced by metabolically active anaerobes to its active state by the bacterial nitro-reductase enzyme after it diffuses into the bacterial cell. This results in the production of cytotoxic compounds that disrupt the helical structure of bacterial DNA thereby inhibiting bacterial nucleic acid synthesis which leads to cell death. Resistance The mechanism of resistance, like for other nitroimidazoles, appears to be multifactorial that include decreased uptake of the drug, higher efflux activity, and/or altered nitroreductase activity. Antibacterial Activity Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Clinical Studies ( 14 )] . The following in vitro data are available, but their clinical significance is unknown. Metronidazole is active in vitro against most isolates of the following organisms reported to be associated with bacterial vaginosis: Bacteroides spp. Gardnerella vaginalis Mobiluncus spp. Peptostreptococcus spp."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Metronidazole is an antimicrobial drug [see Microbiology ( 12.4 )]."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Following a single, intravaginal 5 g dose of NUVESSA (equivalent to 65 mg of metronidazole) to 20 healthy female subjects, a mean maximum serum metronidazole concentration (C max ) of 239 ng/mL was observed (range: 114 to 428 ng/mL). The average time to achieve this C max was 7.3 hours (range: 4 to 18 hours). This C max is approximately 2% of the mean maximum serum concentration reported in healthy subjects administered a single, oral 500 mg dose of metronidazole tablets (mean C max = 12,785 ng/mL). The extent of exposure [area under the curve (AUC)] of metronidazole, when administered as a single intravaginal 5 g dose of NUVESSA (equivalent to 65 mg of metronidazole), was 5,434 ng∙hr/mL (range: 1382 to 12744 ng∙hr/mL). This AUC 0-∞ is approximately 4% of the reported AUC of metronidazole following a single oral 500 mg dose of metronidazole (approximately 125,000 ng∙hr/mL)."
+  ],
+  "microbiology": [
+   "12.4 Microbiology Mechanism of Action Metronidazole is a nitroimidazole antimicrobial agent that acts primarily against anaerobic bacteria and selected protozoa. The 5-nitro group on the metronidazole molecule is reduced by metabolically active anaerobes to its active state by the bacterial nitro-reductase enzyme after it diffuses into the bacterial cell. This results in the production of cytotoxic compounds that disrupt the helical structure of bacterial DNA thereby inhibiting bacterial nucleic acid synthesis which leads to cell death. Resistance The mechanism of resistance, like for other nitroimidazoles, appears to be multifactorial that include decreased uptake of the drug, higher efflux activity, and/or altered nitroreductase activity. Antibacterial Activity Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Clinical Studies ( 14 )] . The following in vitro data are available, but their clinical significance is unknown. Metronidazole is active in vitro against most isolates of the following organisms reported to be associated with bacterial vaginosis: Bacteroides spp. Gardnerella vaginalis Mobiluncus spp. Peptostreptococcus spp."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis Mutagenesis, Impairment of Fertility Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic oral administration in mice and rats. Pulmonary tumors were reported in several mouse studies in which mice were dosed orally at 75 mg/kg and above (about 6 or more times the maximum recommended human dose based on mg/m 2 ). Malignant lymphoma was reported at 66 mg/kg and above (about 5 or more times the maximum recommended human dose based on mg/m 2 ). These tumors have been observed in all six reported studies in the mouse, including one study in which the animals were dosed on an intermittent schedule (administration during every fourth week only). All these effects were statistically significant. There were statistically significant increases in the incidence of mammary tumors, among female rats administered metronidazole at 270 mg/kg and above (about 40 times the maximum human dose based on mg/m 2 ). Hepatic adenomas and carcinomas were observed in rats administered 300 mg/kg (about 45 times the maximum human dose based on mg/m 2 ). Two lifetime oral tumorigenicity studies in hamsters have been performed and reported to be negative at doses up to 80 mg/kg (about 10 times the maximum human dose based on mg/m 2 ). Carcinogenesis studies have not been conducted with NUVESSA. Although metronidazole has shown in vitro mutagenic activity in bacterial reverse mutation tests, it was negative in in vitro mammalian mutation systems including CHO/HGPRT and CH V79 lung cell assays. Metronidazole was not clastogenic in vitro chromosome aberration tests in CHO cells up to 5000 µg/mL but was positive in human and monkey peripheral blood lymphocytes at 0.1 µg/mL. In general, numerous micronucleus studies in rats and mice have failed to demonstrate a potential for genetic damage up to single oral doses 3000 mg/kg in mice (about 225 times the maximum human dose based on mg/m 2 ). However, a dose dependent increase in the frequency of micronuclei was observed in CFW mice after intraperitoneal injections of up to 160 mg/kg (about 12 times the maximum human dose based on mg/m 2 ). Fertility studies have been performed in mice orally dosed up to 500 mg/kg (about 37 times the maximum human dose based on mg/m 2 ) revealed no evidence of impaired fertility. While no effects on fertility were observed in female rats dosed intraperitoneally at doses up to 1000 mg/kg (about 300 times the maximum human dose based on mg/m 2 ), studies in male rats resulted in effects on testes and sperm production at oral doses of 100 mg/kg and above (about 30 times the maximum human dose based on mg/m 2 )."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis Mutagenesis, Impairment of Fertility Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic oral administration in mice and rats. Pulmonary tumors were reported in several mouse studies in which mice were dosed orally at 75 mg/kg and above (about 6 or more times the maximum recommended human dose based on mg/m 2 ). Malignant lymphoma was reported at 66 mg/kg and above (about 5 or more times the maximum recommended human dose based on mg/m 2 ). These tumors have been observed in all six reported studies in the mouse, including one study in which the animals were dosed on an intermittent schedule (administration during every fourth week only). All these effects were statistically significant. There were statistically significant increases in the incidence of mammary tumors, among female rats administered metronidazole at 270 mg/kg and above (about 40 times the maximum human dose based on mg/m 2 ). Hepatic adenomas and carcinomas were observed in rats administered 300 mg/kg (about 45 times the maximum human dose based on mg/m 2 ). Two lifetime oral tumorigenicity studies in hamsters have been performed and reported to be negative at doses up to 80 mg/kg (about 10 times the maximum human dose based on mg/m 2 ). Carcinogenesis studies have not been conducted with NUVESSA. Although metronidazole has shown in vitro mutagenic activity in bacterial reverse mutation tests, it was negative in in vitro mammalian mutation systems including CHO/HGPRT and CH V79 lung cell assays. Metronidazole was not clastogenic in vitro chromosome aberration tests in CHO cells up to 5000 µg/mL but was positive in human and monkey peripheral blood lymphocytes at 0.1 µg/mL. In general, numerous micronucleus studies in rats and mice have failed to demonstrate a potential for genetic damage up to single oral doses 3000 mg/kg in mice (about 225 times the maximum human dose based on mg/m 2 ). However, a dose dependent increase in the frequency of micronuclei was observed in CFW mice after intraperitoneal injections of up to 160 mg/kg (about 12 times the maximum human dose based on mg/m 2 ). Fertility studies have been performed in mice orally dosed up to 500 mg/kg (about 37 times the maximum human dose based on mg/m 2 ) revealed no evidence of impaired fertility. While no effects on fertility were observed in female rats dosed intraperitoneally at doses up to 1000 mg/kg (about 300 times the maximum human dose based on mg/m 2 ), studies in male rats resulted in effects on testes and sperm production at oral doses of 100 mg/kg and above (about 30 times the maximum human dose based on mg/m 2 )."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES A single, randomized, double-blind, vehicle-controlled clinical trial was conducted to evaluate the efficacy of NUVESSA. Subjects had a clinical diagnosis of bacterial vaginosis defined by the presence of a homogenous vaginal discharge that (a) had a pH ≥ 4.7, (b) emitted a \"fishy\" amine odor when mixed with a 10% KOH solution (\"whiff\" test), and (c) contained clue cells ≥ 20% of the total vaginal epithelial cells. In addition, to be eligible for analysis subjects must have had a Gram stain Nugent score ≥ 4 and have been negative for N. gonorrhoeae and C. trachomatis . Non-pregnant females at least 18 years of age were randomized 1:1 to either NUVESSA or Vehicle Gel and instructed to administer study drug once at bedtime. Two hundred ninety-two (292) NUVESSA subjects and 285 Vehicle Gel subjects were eligible for the analysis. Clinical cure was defined as (a) return of normal physiologic discharge, (b) negative KOH \"whiff\" test, and (c) clue cell < 20% of the total vaginal epithelial cells at the Test of Cure visit (between 21 to 30 days post-treatment). Bacteriological Cure was defined as a Nugent score of < 4 and Therapeutic cure was defined as clinical cure and bacteriological cure. NUVESSA demonstrated statistically significantly higher cure rates over Vehicle Gel as measured by clinical cure, bacteriological cure and therapeutic cure (Table 1). Table 1. The Efficacy of NUVESSA for the Treatment of Bacterial Vaginosis in a Randomized, Double-Blind, Vehicle-Controlled, Parallel Group Study Outcome NUVESSA N = 292 n (%) Vehicle Gel N = 285 n (%) Treatment Difference (%) [95% Confidence Interval] Test of Cure (Day 21 to 30) Clinical Cure 108 (37.0) 76 (26.7) 10.3 (2.8, 17.9) Bacteriological Cure 57 (19.5) 22 (7.7) 11.8 (6.3, 17.3) Therapeutic Cure 49 (16.8) 18 (6.3) 10.5 (5.3, 15.6) Clinical Cure and Bacteriological Cure were also assessed at Day 7. Clinical Cure at Day 7 was achieved by a statistically significantly greater proportion of subjects in the NUVESSA group compared to subjects in the Vehicle Gel group (41.1% vs. 20.0%). Bacteriological Cure at Day 7 was achieved by a statistically significantly greater proportion of subjects in the NUVESSA group compared to subjects in the Vehicle Gel group (33.9% vs. 6.3%)."
+  ],
+  "clinical_studies_table": [
+   "<table width=\"65%\"><caption>Table 1. The Efficacy of NUVESSA for the Treatment of Bacterial Vaginosis in a Randomized, Double-Blind, Vehicle-Controlled, Parallel Group Study</caption><col width=\"20%\" align=\"left\" valign=\"middle\"/><col width=\"25%\" align=\"left\" valign=\"middle\"/><col width=\"25%\" align=\"left\" valign=\"middle\"/><col width=\"30%\" align=\"left\" valign=\"middle\"/><thead><tr styleCode=\"Botrule\"><th styleCode=\"Lrule Rrule\">Outcome</th><th align=\"center\" styleCode=\"Lrule Rrule\">NUVESSA  N = 292  n (%) </th><th align=\"center\" styleCode=\"Lrule Rrule\">Vehicle Gel  N = 285  n (%) </th><th align=\"center\" styleCode=\"Lrule Rrule\">Treatment Difference (%)  [95% Confidence Interval] </th></tr><tr><th colspan=\"4\" styleCode=\"Lrule Rrule\"> Test of Cure (Day 21 to 30)</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Clinical Cure</td><td styleCode=\"Rrule\">108 (37.0)</td><td styleCode=\"Rrule\">76 (26.7)</td><td styleCode=\"Rrule\">10.3 (2.8, 17.9)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Bacteriological Cure</td><td styleCode=\"Rrule\">57 (19.5)</td><td styleCode=\"Rrule\">22 (7.7)</td><td styleCode=\"Rrule\">11.8 (6.3, 17.3)</td></tr><tr><td styleCode=\"Lrule Rrule\"> Therapeutic Cure</td><td styleCode=\"Rrule\">49 (16.8)</td><td styleCode=\"Rrule\">18 (6.3)</td><td styleCode=\"Rrule\">10.5 (5.3, 15.6)</td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING NUVESSA is available in cartons containing one single-dose, prefilled disposable applicator delivering 5 g of vaginal gel containing approximately 65 mg of metronidazole: 5 g disposable applicator (NDC 0642-7466-05). Store at 20-25°C (68-77°F); excursions permitted to 15°-30°C (59°-86°F) [ see USP Controlled Room temperature ]. Do not freeze. Do not refrigerate."
+  ],
+  "storage_and_handling": [
+   "Store at 20-25°C (68-77°F); excursions permitted to 15°-30°C (59°-86°F) [ see USP Controlled Room temperature ]. Do not freeze. Do not refrigerate."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use). Interaction with Alcohol Instruct the patient not to consume alcoholic beverages and preparations containing ethanol or propylene glycol during and for at least 24 hours after treatment with NUVESSA [see Contraindications ( 4.3 ) and Drug Interactions ( 7.2 )]. Drug Interactions Instruct the patient not to use NUVESSA if disulfiram had been used within the last two weeks [see Contraindications ( 4.2 )] , and to inform their healthcare provider if they are taking oral anticoagulants, or lithium [see Drug Interactions ( 7.3 , 7.4 )]. Vaginal Intercourse and Use with Vaginal Products Instruct the patient not to engage in vaginal intercourse, or use other vaginal products (such as tampons or douches) following the single administration of NUVESSA. Lactation A patient may choose to pump and discard breast milk during treatment with NUVESSA and for 48 hours after last dose, and feed her infant previously stored human milk or formula [see Use in Specific Populations ( 8.2 )]. Vaginal Irritation Inform the patient to discontinue use and consult a healthcare provider if vaginal irritation occurs with use of NUVESSA. Administration of Drug Instruct the patient that NUVESSA is supplied as a single dose in a pre-filled applicator."
+  ],
+  "spl_patient_package_insert": [
+   "PATIENT INFORMATION NUVESSA ® (nue-ve-sa) (metronidazole vaginal gel 1.3%) For intravaginal use only. Do not use in the eyes, mouth or skin. What is NUVESSA? NUVESSA is a prescription medicine used to treat bacterial vaginal infections in females 12 years and older. It is not known if Nuvessa is safe and effective in female children younger than 12 years of age. Do not use NUVESSA if you: are allergic to metronidazole, parabens, nitroimidazole derivatives, or any of the ingredients in NUVESSA. See the end of this leaflet for a complete list of ingredients in NUVESSA. take or have taken a medicine called Antabuse (disulfiram) in the last 2 weeks. drink alcohol. Do not drink alcohol while you use NUVESSA and for at least 24 hours after you stop using it. It can increase your chances of getting serious side effects. Before you use NUVESSA, tell your healthcare provider about all your medical conditions, including if you: have or had central nervous system diseases. are pregnant or plan to become pregnant. It is not known if NUVESSA will harm your unborn baby. Tell your healthcare provider if you become pregnant during treatment with NUVESSA. are breastfeeding or plan to breastfeed. NUVESSA can pass into your breast milk. Talk with your healthcare provider about the best way to feed your baby while using NUVESSA. Tell your healthcare provider all about the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements. How should I use NUVESSA? See the \" Instructions for Use \" at the end of this Patient Information leaflet for detailed instructions about how to use NUVESSA. Use NUVESSA exactly as your healthcare provider tells you to. NUVESSA is used one time at bedtime. If you get NUVESSA in your eyes, rinse your eyes with cool tap water and call your healthcare provider. What should I avoid while using NUVESSA? Do not have vaginal intercourse or use other vaginal products (such as tampons or douches). What are the possible side effects of NUVESSA? The most common side effects of NUVESSA include: yeast infections, headache, vaginal itching, nausea, diarrhea, and pain with menstrual cycle and vaginal pain or discomfort. Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the side effects of NUVESSA. For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. General information about NUVESSA Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use NUVESSA for a condition for which it was not prescribed. Do not give NUVESSA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about NUVESSA that is written for health professionals. What are the ingredients in NUVESSA? Active ingredient: metronidazole Inactive ingredients: polyethylene glycol 400, propylene glycol, benzyl alcohol, methylparaben, propylparaben, purified water, and polycarbophil"
+  ],
+  "spl_patient_package_insert_table": [
+   "<table width=\"100%\"><colgroup><col align=\"left\" valign=\"middle\" width=\"100%\"/></colgroup><tbody><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">PATIENT INFORMATION    NUVESSA <sup>&#xAE;</sup> (nue-ve-sa) </content>   (metronidazole vaginal gel 1.3%) </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">For intravaginal use only. Do not use in the eyes, mouth or skin.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">What is NUVESSA?</content>  NUVESSA is a prescription medicine used to treat bacterial vaginal infections in females 12 years and older. It is not known if Nuvessa is safe and effective in female children younger than 12 years of age. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Do not use NUVESSA if you: </content><list listType=\"unordered\" styleCode=\"Disc\"><item>are allergic to metronidazole, parabens, nitroimidazole derivatives, or any of the ingredients in NUVESSA. See the end of this leaflet for a complete list of ingredients in NUVESSA.</item><item>take or have taken a medicine called Antabuse (disulfiram) in the last 2 weeks.</item><item>drink alcohol. Do not drink alcohol while you use NUVESSA and for at least 24 hours after you stop using it. It can increase your chances of getting serious side effects.</item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Before you use NUVESSA, tell your healthcare provider about all your medical conditions, including if you:</content><list listType=\"unordered\" styleCode=\"Disc\"><item>have or had central nervous system diseases.</item><item>are pregnant or plan to become pregnant. It is not known if NUVESSA will harm your unborn baby. Tell your healthcare provider if you become pregnant during treatment with NUVESSA.</item><item>are breastfeeding or plan to breastfeed. NUVESSA can pass into your breast milk. Talk with your healthcare provider about the best way to feed your baby while using NUVESSA.</item></list><content styleCode=\"bold\">Tell your healthcare provider all about the medicines you take,</content> including prescription and over-the-counter medicines, vitamins and herbal supplements. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">How should I use NUVESSA?</content><list listType=\"unordered\" styleCode=\"Disc\"><item>See the &quot; <linkHtml href=\"#IFU\">Instructions for Use</linkHtml>&quot; at the end of this Patient Information leaflet for detailed instructions about how to use NUVESSA. </item><item>Use NUVESSA exactly as your healthcare provider tells you to.</item><item>NUVESSA is used one time at bedtime.</item><item>If you get NUVESSA in your eyes, rinse your eyes with cool tap water and call your healthcare provider.</item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">What should I avoid while using NUVESSA?</content> <content styleCode=\"bold\">Do not</content> have vaginal intercourse or use other vaginal products (such as tampons or douches). </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">What are the possible side effects of NUVESSA?</content> <content styleCode=\"bold\">The most common side effects of NUVESSA</content> include: yeast infections, headache, vaginal itching, nausea, diarrhea, and pain with menstrual cycle and vaginal pain or discomfort. Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the side effects of NUVESSA. For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">General information about NUVESSA</content>  Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use NUVESSA for a condition for which it was not prescribed. Do not give NUVESSA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about NUVESSA that is written for health professionals. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">What are the ingredients in NUVESSA?</content>  <content styleCode=\"bold\">Active ingredient:</content> metronidazole   <content styleCode=\"bold\">Inactive ingredients:</content> polyethylene glycol 400, propylene glycol, benzyl alcohol, methylparaben, propylparaben, purified water, and polycarbophil </td></tr></tbody></table>"
+  ],
+  "instructions_for_use": [
+   "INSTRUCTIONS FOR USE NUVESSA ® (metronidazole vaginal gel 1.3%) For vaginal use only. You will need the following supplies (See Figure A ) Figure A Step 1: Remove the pre-filled applicator and plunger from the foil package (See Figure B ) Tear open the foil packet just before using. Remove the pre-filled applicator and plunger from the foil packaging. Figure B Step 2: Insert the plunger into the open end of the pre-filled applicator (See Figure C ) With the pink cap still on, push the tip of the plunger into the open end of the pre-filled applicator. Figure C Step 3: Remove the pink cap (See Figure D ) Pull the pink cap straight off the top of the pre-filled applicator. Figure D Step 4: Prepare to insert the pre-filled applicator (See Figure E ) The pre-filled applicator may be inserted while lying on your back with your knees bent or in any comfortable position. Figure E Step 5: Insert the pre-filled applicator (See Figure F ) Hold the pre-filled applicator by the barrel and gently insert the rounded tip into your vagina as far as it will comfortably go, then pull back slightly. Figure F Step 6: Push the plunger (See Figure G ) While holding the barrel in place, slowly press the plunger until it stops to release the gel into your vagina. Figure G Step 7: Remove the pre-filled applicator from your vagina and throw it away in your household trash. How should I store NUVESSA? Store NUVESSA at room temperature between 68°F to 77°F (20°-25°C). Do not freeze. Do not refrigerate. Keep NUVESSA and all medicines out of the reach of children. This Patient Information and Instructions for Use have been approved by the US Food and Drug Administration. Rx only Distributed By: Exeltis USA, Inc.. 180 Park Ave., Florham Park, NJ 07932 © 2022 Exeltis USA, Inc. All rights reserved. NUVESSA ® and its design are trademarks of Exeltis Healthcare S.L. Revised: 04/2022 Figure A Figure B Figure C Figure D Figure E Figure F Figure G"
+  ],
+  "instructions_for_use_table": [
+   "<table width=\"100%\" ID=\"FigureA\" styleCode=\"Noautorules\"><colgroup><col align=\"center\" valign=\"top\" width=\"100%\"/></colgroup><tbody><tr><td><renderMultiMedia referencedObject=\"MM2\"/></td></tr><tr><td>Figure A</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"FigureB\" styleCode=\"Noautorules\"><colgroup><col align=\"center\" valign=\"top\" width=\"100%\"/></colgroup><tbody><tr><td><renderMultiMedia referencedObject=\"MM3\"/></td></tr><tr><td>Figure B</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"FigureC\" styleCode=\"Noautorules\"><colgroup><col align=\"center\" valign=\"top\" width=\"100%\"/></colgroup><tbody><tr><td><renderMultiMedia referencedObject=\"MM4\"/></td></tr><tr><td>Figure C</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"FigureD\" styleCode=\"Noautorules\"><colgroup><col align=\"center\" valign=\"top\" width=\"100%\"/></colgroup><tbody><tr><td><renderMultiMedia referencedObject=\"MM5\"/></td></tr><tr><td>Figure D</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"FigureE\" styleCode=\"Noautorules\"><colgroup><col align=\"center\" valign=\"top\" width=\"100%\"/></colgroup><tbody><tr><td><renderMultiMedia referencedObject=\"MM6\"/></td></tr><tr><td>Figure E</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"FigureF\" styleCode=\"Noautorules\"><colgroup><col align=\"center\" valign=\"top\" width=\"100%\"/></colgroup><tbody><tr><td><renderMultiMedia referencedObject=\"MM7\"/></td></tr><tr><td>Figure F</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"FigureG\" styleCode=\"Noautorules\"><colgroup><col align=\"center\" valign=\"top\" width=\"100%\"/></colgroup><tbody><tr><td><renderMultiMedia referencedObject=\"MM8\"/></td></tr><tr><td>Figure G</td></tr></tbody></table>"
+  ],
+  "set_id": "3b6ff39d-f84b-43b3-9b07-c0521c6d7968",
+  "id": "09d13114-f228-f0bc-e063-6394a90a84f5",
+  "effective_time": "20231110",
+  "version": "9"
+ }
+}

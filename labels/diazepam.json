@@ -1,0 +1,793 @@
+{
+ "id_es": "diazepam",
+ "generic_en": "diazepam",
+ "search": "openfda.generic_name.exact:\"DIAZEPAM\"",
+ "downloaded": "2026-11-11T06:46Z",
+ "chosen": {
+  "set_id": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+  "id": "6642d0cb-3186-4b4c-8a67-c3f92081fbd0",
+  "effective_time": "20260603",
+  "version": "15",
+  "brand_name": [
+   "Valtoco"
+  ],
+  "generic_name": [
+   "DIAZEPAM"
+  ],
+  "manufacturer_name": [
+   "Neurelis, Inc"
+  ],
+  "route": [
+   "NASAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA211635"
+  ],
+  "n_sections": 43
+ },
+ "candidates": [
+  {
+   "set_id": "dcf7bc20-6c57-491a-b9e3-f42bacff8b99",
+   "id": "a2be6917-d042-44b4-a0ef-795faa1e0114",
+   "effective_time": "20261028",
+   "version": "2",
+   "brand_name": [
+    "DIAZEPAM"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070313"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "ae52866a-0b9a-4baf-af1b-f9d5e00c0e56",
+   "id": "91cde8d1-6c22-421d-96d5-40271e612876",
+   "effective_time": "20261015",
+   "version": "3",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214745"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "2f799120-0d08-47cd-8183-a98f0267c845",
+   "id": "acbd1b7e-1806-474f-b343-74535208f812",
+   "effective_time": "20261014",
+   "version": "2",
+   "brand_name": [
+    "DIAZEPAM"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217843"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+   "id": "a17d4f0b-e415-4921-b0f9-9e7a1b6e1db5",
+   "effective_time": "20261006",
+   "version": "12",
+   "brand_name": [
+    "Valium"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Waylis Therapeutics LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA013263"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "c57af2a2-aa9a-4dac-a200-e0d845005d05",
+   "id": "5d2d10d8-2ed9-10fe-e063-6294a90a2965",
+   "effective_time": "20261006",
+   "version": "19",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210363"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "9e85abed-1a8b-4762-a31f-f2c7f196b8af",
+   "id": "6d097388-f2e0-4bd4-9faf-1b6b9b949d54",
+   "effective_time": "20261001",
+   "version": "9",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070928"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "c397a9da-862f-4f3f-8109-7d21691de53a",
+   "id": "df4bf27d-6fa0-43cc-a27e-c9af09e8a59f",
+   "effective_time": "20260915",
+   "version": "18",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Mylan Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070325"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "ba953b22-f0cd-4be5-9e0e-178bded88727",
+   "id": "11a71ef2-ca48-4aa4-b0ee-0a5a259cce77",
+   "effective_time": "20260827",
+   "version": "19",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070325"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "cf7bd9ba-5030-479a-8448-3a99395b0d0c",
+   "id": "ba3b152b-865c-450e-8ac2-8eb346d0e82b",
+   "effective_time": "20260819",
+   "version": "2",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Civica, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070313"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b4a045e4-d6ce-475d-abe4-590941bd3815",
+   "id": "571ff0e0-2d04-bebc-e063-6394a90a8d53",
+   "effective_time": "20260721",
+   "version": "1",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218450"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "20e08b97-bb89-4129-a228-8ad9cf35a1d3",
+   "id": "564145ea-ff2f-2d6d-e063-6294a90ab7f9",
+   "effective_time": "20260710",
+   "version": "19",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071321"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "f466f8a3-f31c-44f4-b0e8-444464f20f66",
+   "id": "3324176f-d150-41ad-b21f-a2f75a06c85f",
+   "effective_time": "20260709",
+   "version": "5",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070311"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "5ebef149-1858-4199-aaed-7b9341fae63d",
+   "id": "54eecfae-506f-2a72-e063-6294a90a54f7",
+   "effective_time": "20260623",
+   "version": "25",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071322"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "547c2ad4-113c-7771-e063-6394a90a2073",
+   "id": "547c2ad4-113d-7771-e063-6394a90a2073",
+   "effective_time": "20260617",
+   "version": "1",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070325"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+   "id": "6642d0cb-3186-4b4c-8a67-c3f92081fbd0",
+   "effective_time": "20260603",
+   "version": "15",
+   "brand_name": [
+    "Valtoco"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Neurelis, Inc"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211635"
+   ],
+   "n_sections": 43
+  },
+  {
+   "set_id": "b5b17a28-2cab-4c0d-8f9d-7b224e4d0989",
+   "id": "84740b28-54e6-43df-8f50-063191eb1281",
+   "effective_time": "20260528",
+   "version": "3",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Navinta LLC"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217468"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "7e7dd743-a87b-4ab3-b6ae-f116cd0c8b0f",
+   "id": "54805cd5-8b81-402d-bb07-ffb5293222b9",
+   "effective_time": "20260522",
+   "version": "26",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071583"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5111654f-a026-71b2-e063-6294a90ab49b",
+   "id": "51117502-db13-4816-e063-6394a90ac59e",
+   "effective_time": "20260505",
+   "version": "1",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071322"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "5114ae6e-8cae-e96f-e063-6294a90a9e60",
+   "id": "5114a469-e926-94ca-e063-6294a90a92ca",
+   "effective_time": "20260505",
+   "version": "1",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071321"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "a0813073-d0b0-4fd7-b307-56f69c910c82",
+   "id": "a0813073-d0b0-4fd7-b307-56f69c910c82",
+   "effective_time": "20260504",
+   "version": "1",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219882"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "652714c7-25c4-4d05-979d-8eee3b6f2f4d",
+   "id": "ef34ecf3-de17-4493-82ef-857565ac4340",
+   "effective_time": "20260430",
+   "version": "2",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217468"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "2a633cef-6dfc-4186-b595-174db2d8330e",
+   "id": "5fd42d35-ec9c-8237-9edd-dfd883869b84",
+   "effective_time": "20260429",
+   "version": "5",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories Inc"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218422"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "9a860a4e-d670-d050-499d-eb1fd6b16176",
+   "id": "429d0ffe-9774-b285-8534-bb76611da385",
+   "effective_time": "20260422",
+   "version": "1",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories Inc"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218422"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "6dcbb5e9-1e8f-4069-9244-adb46356714d",
+   "id": "66b8a3e7-24fc-4d11-8855-b9ad94e677c6",
+   "effective_time": "20260401",
+   "version": "4",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070325"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "7646785b-dabc-482d-bf42-06177f00aca2",
+   "id": "954b2c53-e92b-4e20-b66e-faff475afcc9",
+   "effective_time": "20260401",
+   "version": "4",
+   "brand_name": [
+    "Diazepam"
+   ],
+   "generic_name": [
+    "DIAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070325"
+   ],
+   "n_sections": 33
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; and DEPENDENCE AND WITHDRAWAL REACTIONS Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death. Reserve concomitant prescribing of these drugs for patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients for signs and symptoms of respiratory depression and sedation [see Warnings and Precautions (5.1) and Drug Interactions (7.1) ] . The use of benzodiazepines, including VALTOCO, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death. Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes. Before prescribing VALTOCO and throughout treatment, assess each patient's risk for abuse, misuse, and addiction [see Warnings and Precautions (5.2) ]. The continued use of benzodiazepines may lead to clinically significant physical dependence. The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose. Although VALTOCO is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2) ] , if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of VALTOCO may precipitate acute withdrawal reactions, which can be life-threatening. For patients using VALTOCO more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue VALTOCO [see Warnings and Precautions (5.3) ]. WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; and DEPENDENCE AND WITHDRAWAL REACTIONS See full prescribing information for complete boxed warning Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death. ( 5.1 , 7.1 ) The use of benzodiazepines, including VALTOCO, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death. Before prescribing VALTOCO and throughout treatment, assess each patient's risk for abuse, misuse, and addiction. ( 5.2 ) Although VALTOCO is indicated only for intermittent use ( 1 , 2 ), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of VALTOCO may precipitate acute withdrawal reactions, which can be life-threatening. For patients using VALTOCO more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue VALTOCO. ( 5.3 )"
+  ],
+  "recent_major_changes": [
+   "Indications and Usage ( 1 ) 04/2025 Dosage and Administration ( 2.2 ) 04/2025"
+  ],
+  "recent_major_changes_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"80%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"right\" valign=\"top\"/><tbody><tr><td>Indications and Usage (<linkHtml href=\"#S1\">1</linkHtml>)</td><td>04/2025</td></tr><tr><td>Dosage and Administration (<linkHtml href=\"#S2.2\">2.2</linkHtml>)</td><td>04/2025</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE VALTOCO ® is indicated for the acute treatment of intermittent, stereotypic episodes of frequent seizure activity (i.e., seizure clusters, acute repetitive seizures) that are distinct from a patient's usual seizure pattern in patients with epilepsy 2 years of age and older. VALTOCO is a benzodiazepine indicated for the acute treatment of intermittent, stereotypic episodes of frequent seizure activity (i.e., seizure clusters, acute repetitive seizures) that are distinct from a patient's usual seizure pattern in patients with epilepsy 2 years of age and older. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Administer VALTOCO by the nasal route only. ( 2.3 ) Dosage is dependent on the patient's age and weight. ( 2.2 ) Initial Dose: VALTOCO 5 mg and 10 mg doses are administered as a single spray intranasally into one nostril. Administration of 15 mg and 20 mg doses requires two nasal spray devices, one spray into each nostril. ( 2.2 ) Second Dose: A second dose, when required, may be administered at least 4 hours after the initial dose. If administered, use a new blister pack. ( 2.2 ) Maximum Dosage and Treatment Frequency: Do not use more than 2 doses to treat a single episode. It is recommended that VALTOCO be used to treat no more than one episode every five days and no more than five episodes per month. ( 2.2 ) 2.1 Instructions Prior to Dosing Prior to treatment, healthcare professionals should instruct the individual administering VALTOCO on how to identify seizure clusters and use the product appropriately [see Dosage and Administration (2.3) and Patient Counseling Information (17) ]. 2.2 Dosing Information The recommended dose of VALTOCO nasal spray is 0.2 mg/kg to 0.5 mg/kg, depending on the patient's age and weight. See Table 1 and Table 2 for specific recommendations. Table 1: Recommended Dose Based on Age Age (Years) Recommended Dose 2 through 5 0.5 mg/kg 6 through 11 0.3 mg/kg 12 and older 0.2 mg/kg Table 2: Recommended Dosage and Administration for Adults and Pediatric Patients 2 Years of Age and Older Dose Based on Age and Weight Administration 2 to 5 Years of Age (0.5 mg/kg) 6 to 11 Years of Age (0.3 mg/kg) 12 Years of Age and Older (0.2 mg/kg) Dose (mg) Number of Nasal Spray Devices Number of Sprays Weight (kg) 6 to 11 10 to 18 14 to 27 5 One 5 mg device One spray in one nostril 12 to 22 19 to 37 28 to 50 10 One 10 mg device One spray in one nostril 23 to 33 38 to 55 51 to 75 15 Two 7.5 mg devices One spray in each nostril 56 to 74 76 and up 20 Two 10 mg devices One spray in each nostril Second Dose (if needed): A second dose, when required, may be administered after at least 4 hours after the initial dose. If the second dose is to be administered, use a new blister pack of VALTOCO. Maximum Dosage and Treatment Frequency : Do not use more than 2 doses of VALTOCO to treat a single episode. Do not use VALTOCO to treat more than one episode every five days or more than five episodes per month. 2.3 Important Administration Instructions VALTOCO is for intranasal use only. No device assembly is required. VALTOCO nasal spray delivers its entire contents upon activation. Do not prime or attempt to use for more than one administration per device. Patients and caregivers should be counseled to read carefully the \"Instructions for Use\" for complete directions on how to properly administer VALTOCO."
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"60%\" ID=\"Table1\"><caption>Table 1: Recommended Dose Based on Age</caption><col width=\"40%\" align=\"left\" valign=\"bottom\"/><col width=\"60%\" align=\"left\" valign=\"bottom\"/><thead><tr><th styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">Age (Years)</content></th><th styleCode=\"Rrule\">Recommended Dose</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">2 through 5</content></td><td styleCode=\"Rrule\">0.5 mg/kg</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">6 through 11</content></td><td styleCode=\"Rrule\">0.3 mg/kg</td></tr><tr><td styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">12 and older</content></td><td styleCode=\"Rrule\">0.2 mg/kg</td></tr></tbody></table>",
+   "<table width=\"85%\" ID=\"Table2\"><caption>Table 2: Recommended Dosage and Administration for Adults and Pediatric Patients 2 Years of Age and Older</caption><col width=\"16%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"10%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"20%\" align=\"center\" valign=\"top\"/><thead><tr styleCode=\"Botrule\"><th styleCode=\"Lrule Rrule\" colspan=\"4\" align=\"center\"><content styleCode=\"xmChange\">Dose Based on Age and Weight</content></th><th styleCode=\"Rrule\" colspan=\"2\" align=\"left\">Administration</th></tr><tr styleCode=\"Botrule\"><th styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">2 to 5 Years of Age (0.5 mg/kg)</content></th><th styleCode=\"Rrule\">6 to 11 Years of Age (0.3 mg/kg)</th><th styleCode=\"Rrule\">12 Years of Age and Older (0.2 mg/kg)</th><th styleCode=\"Rrule\">Dose (mg)</th><th styleCode=\"Rrule\">Number of Nasal Spray Devices</th><th styleCode=\"Rrule\">Number of Sprays</th></tr><tr><th styleCode=\"Lrule Rrule\" align=\"left\" valign=\"bottom\" colspan=\"3\"><content styleCode=\"xmChange\">Weight (kg)</content></th><th styleCode=\"Rrule\" colspan=\"3\"/></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">6 to 11</content></td><td styleCode=\"Rrule\">10 to 18</td><td styleCode=\"Rrule\">14 to 27</td><td styleCode=\"Rrule\">5</td><td styleCode=\"Rrule\">One 5 mg device</td><td styleCode=\"Rrule\">One spray in one nostril</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">12 to 22</content></td><td styleCode=\"Rrule\">19 to 37</td><td styleCode=\"Rrule\">28 to 50</td><td styleCode=\"Rrule\">10</td><td styleCode=\"Rrule\">One 10 mg device</td><td styleCode=\"Rrule\">One spray in one nostril</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\">23 to 33</content></td><td styleCode=\"Rrule\">38 to 55</td><td styleCode=\"Rrule\">51 to 75</td><td styleCode=\"Rrule\">15</td><td styleCode=\"Rrule\">Two 7.5 mg devices</td><td styleCode=\"Rrule\">One spray in each nostril</td></tr><tr><td styleCode=\"Lrule Rrule\"><content styleCode=\"xmChange\"> </content></td><td styleCode=\"Rrule\">56 to 74</td><td styleCode=\"Rrule\">76 and up</td><td styleCode=\"Rrule\">20</td><td styleCode=\"Rrule\">Two 10 mg devices</td><td styleCode=\"Rrule\">One spray in each nostril</td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS VALTOCO is available in 5 mg, 7.5 mg, and 10 mg strengths. Each VALTOCO nasal spray device contains 0.1 mL solution. Nasal spray: 5 mg, 7.5 mg, or 10 mg of diazepam in 0.1 mL. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS VALTOCO nasal spray is contraindicated in patients with: Known hypersensitivity to diazepam Acute narrow angle glaucoma [see Warnings and Precautions (5.6) ] Hypersensitivity to diazepam. ( 4 ) Acute narrow-angle glaucoma. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS CNS Depression: Monitor for central nervous system (CNS) depression. May cause an increased CNS-depressant effect when used with alcohol or other CNS depressants. ( 5.4 , 7.2 ) Suicidal Behavior and Ideation: Monitor patients for suicidal ideation and behavior. ( 5.5 ) Glaucoma: VALTOCO can increase intraocular pressure in patients with glaucoma. VALTOCO may be used in patients with open-angle glaucoma only if they are receiving appropriate therapy. ( 4 , 5.6 ) Neonatal Sedation and Withdrawal Syndrome: VALTOCO use during pregnancy can result in neonatal sedation and/or neonatal withdrawal. ( 5.7 , 8.1 ) 5.1 Risk of Concomitant Use with Opioids Concomitant use of benzodiazepines, including VALTOCO, and opioids may result in profound sedation, respiratory depression, coma, and death [see Drug Interactions (7.1) ]. Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for patients for whom alternative treatment options are inadequate. Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone. If a decision is made to prescribe VALTOCO concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation. Advise both patients and caregivers about the risks of respiratory depression and sedation when VALTOCO is used with opioids. 5.2 Abuse, Misuse, and Addiction The use of benzodiazepines, including VALTOCO, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death. Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2) ] . Before prescribing VALTOCO and throughout treatment, assess each patient's risk for abuse, misuse, and addiction. Use of VALTOCO, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of VALTOCO along with monitoring for signs and symptoms of abuse, misuse, and addiction. Do not exceed the recommended dosing frequency; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug. If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate. 5.3 Dependence and Withdrawal Reactions After Use of VALTOCO More Frequently Than Recommended For patients using VALTOCO more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue VALTOCO (a patient-specific plan should be used to taper the dose). Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use. Acute Withdrawal Reactions The continued use of benzodiazepines may lead to clinically significant physical dependence. Although VALTOCO is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2) ] , if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of VALTOCO, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3) ]. Protracted Withdrawal Syndrome In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence (9.3) ] . 5.4 CNS Depression Benzodiazepines, including VALTOCO, produce CNS depression. Caution patients against engaging in hazardous activities requiring mental alertness (e.g., operating machinery, driving a motor vehicle, or riding a bicycle) until the effects of the drug, such as drowsiness, have subsided, and as their medical condition permits. Although VALTOCO is indicated for use solely on an intermittent basis, the potential for synergistic CNS-depressant effects when used simultaneously with alcohol or other CNS depressants must be considered by the prescriber and appropriate recommendations made to the patient and/or caregiver. 5.5 Suicidal Behavior and Ideation Antiepileptic drugs (AEDs), including VALTOCO, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication. Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior. Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo. In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated. There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide. The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed. Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed. The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed. The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication. The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed. Table 3 shows absolute and relative risk by indication for all evaluated AEDs. Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis Indication Placebo Patients with Events/1000 Patients Drug Patients with Events per 1000 Patients Relative Risk: Incidence of Drug Events in Drug Patients /Incidence in Placebo Patients Risk Difference: Additional Drug Patients with Events per 1000 Patients Epilepsy 1.0 3.4 3.5 2.4 Psychiatric 5.7 8.5 1.5 2.9 Other 1.0 1.8 1.9 0.9 Total 2.4 4.3 1.8 1.9 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications. Anyone considering prescribing VALTOCO or any other AED must balance the risk of suicidal thoughts or behaviors with the risk of untreated illness. Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior. Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated. 5.6 Glaucoma Benzodiazepines, including VALTOCO, can increase intraocular pressure in patients with glaucoma. VALTOCO may be used in patients with open-angle glaucoma only if they are receiving appropriate therapy. VALTOCO is contraindicated in patients with narrow-angle glaucoma. 5.7 Neonatal Sedation and Withdrawal Syndrome Use of VALTOCO late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1) ] . Monitor neonates exposed to VALTOCO during pregnancy or labor for signs of sedation and monitor neonates exposed to VALTOCO during pregnancy for signs of withdrawal; manage these neonates accordingly. 5.8 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative VALTOCO is not approved for use in neonates or infants. Serious and fatal adverse reactions including \"gasping syndrome\" can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs, including VALTOCO. The \"gasping syndrome\" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (VALTOCO contains 10.5 mg of benzyl alcohol per 0.1 mL) [see Use in Specific Populations (8.4) ]."
+  ],
+  "warnings_and_cautions_table": [
+   "<table width=\"75%\" ID=\"Table3\"><caption>Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis</caption><col width=\"12%\" align=\"left\" valign=\"middle\"/><col width=\"20%\" align=\"center\" valign=\"middle\"/><col width=\"19%\" align=\"center\" valign=\"middle\"/><col width=\"23%\" align=\"center\" valign=\"middle\"/><col width=\"26%\" align=\"center\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\">Indication</th><th styleCode=\"Rrule\">Placebo Patients with Events/1000 Patients</th><th styleCode=\"Rrule\">Drug Patients with Events per 1000 Patients</th><th styleCode=\"Rrule\">Relative Risk: Incidence of Drug Events in Drug Patients /Incidence in Placebo Patients</th><th styleCode=\"Rrule\">Risk Difference: Additional Drug Patients with Events per 1000 Patients</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Epilepsy</td><td styleCode=\"Rrule\">1.0</td><td styleCode=\"Rrule\">3.4</td><td styleCode=\"Rrule\">3.5</td><td styleCode=\"Rrule\">2.4</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Psychiatric</td><td styleCode=\"Rrule\">5.7</td><td styleCode=\"Rrule\">8.5</td><td styleCode=\"Rrule\">1.5</td><td styleCode=\"Rrule\">2.9</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Other</td><td styleCode=\"Rrule\">1.0</td><td styleCode=\"Rrule\">1.8</td><td styleCode=\"Rrule\">1.9</td><td styleCode=\"Rrule\">0.9</td></tr><tr><td styleCode=\"Lrule Rrule\">Total</td><td styleCode=\"Rrule\">2.4</td><td styleCode=\"Rrule\">4.3</td><td styleCode=\"Rrule\">1.8</td><td styleCode=\"Rrule\">1.9</td></tr></tbody></table>"
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious adverse reactions are discussed elsewhere in the labeling: Risk of Concomitant Use with Opioids [see Warnings and Precautions (5.1) ] Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2) ] Dependence and Withdrawal Reactions After Use of VALTOCO More Frequently Than Recommended [see Warnings and Precautions (5.3) ] CNS depression [see Warnings and Precautions (5.4) ] Suicidal Behavior and Ideation [see Warnings and Precautions (5.5) ] Glaucoma [see Warnings and Precautions (5.6) ] Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.7) ] Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.8) ]. The most common adverse reactions (at least 4%) were somnolence, headache, and nasal discomfort. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Neurelis, Inc. at 1-866-696-3873 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice. The safety of VALTOCO is supported by clinical trials using diazepam rectal gel, as well as open-label, repeat-dose studies of VALTOCO in healthy subjects and epilepsy patients. Diazepam Rectal Gel In studies previously conducted with diazepam rectal gel, adverse event data were collected from double-blind, placebo-controlled studies and open-label studies. The majority of adverse events were mild to moderate in severity and transient in nature. Two patients who received diazepam rectal gel died seven to 15 weeks following treatment; neither of these deaths was deemed related to diazepam rectal gel. The most frequent adverse reactions (at least 4%) in the two double-blind, placebo-controlled studies were somnolence, headache, and diarrhea. Adverse events were usually mild or moderate in intensity. Approximately 1.4% of the 573 patients who received diazepam rectal gel in clinical trials of epilepsy discontinued treatment because of an adverse event. The adverse reaction most frequently associated with discontinuation (occurring in three patients) was somnolence. Other adverse reactions most commonly associated with discontinuation and occurring in two patients were hypoventilation and rash. Adverse reactions associated with discontinuation occurring in one patient were asthenia, hyperkinesia, incoordination, vasodilatation, and urticaria. In the two double-blind, placebo-controlled, parallel-group studies [see Clinical Studies (14) ] , the proportion of patients who discontinued treatment because of adverse events was 2% for the group treated with diazepam rectal gel, versus 2% for the placebo group. In the diazepam rectal gel group, one patient discontinued because of rash and one patient discontinued because of lethargy. Table 4: Adverse Reactions That Occurred in Greater Than 1% Of Patients in Parallel-Group, Placebo-Controlled Trials with Diazepam Rectal Gel and More Common Than Placebo Adverse Reaction Diazepam Rectal Gel N=101 % Placebo N=104 % Somnolence 23 8 Headache 5 4 Diarrhea 4 <1 Ataxia 3 <1 Dizziness 3 2 Euphoria 3 0 Incoordination 3 0 Rash 3 0 Asthma 2 0 Vasodilation 2 0 VALTOCO (Diazepam Nasal Spray) Clinical studies of patients with epilepsy 2 years of age and older were conducted to support the safety and tolerability of VALTOCO for the treatment of acute repetitive seizures. A total of 255 patients 2 years of age and older received VALTOCO, of whom 143 received VALTOCO for at least 1 year. Other than adverse reactions related to local nasal administration, the adverse reactions reported in these studies were similar to those seen in the efficacy trials of diazepam rectal gel. The most common local adverse reactions that occurred in at least 1% of VALTOCO-treated patients were nasal discomfort (5%), dysgeusia (2%), epistaxis (2%), and rhinorrhea (1%). Other Adverse Reactions Diazepam rectal gel has previously been administered to 573 patients with epilepsy during all clinical trials, only some of which were placebo-controlled. All of the events listed below occurred in at least 1% of the 573 individuals exposed to diazepam rectal gel. Body as a Whole: Asthenia Cardiovascular: Hypotension, vasodilatation Nervous: Agitation, confusion, convulsion, dysarthria, emotional lability, speech disorder, thinking abnormal, vertigo Respiratory: Hiccup The following infrequent adverse events have been reported previously with diazepam use: depression, slurred speech, syncope, changes in libido, urinary retention, bradycardia, cardiovascular collapse, nystagmus, urticaria, neutropenia, and jaundice. Paradoxical reactions such as acute hyperexcited states, anxiety, hallucinations, increased muscle spasticity, insomnia, rage, sleep disturbances and stimulation have been reported with other diazepam products. If these events occur with the use of VALTOCO, the prescriber should consider discontinuation of use."
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"60%\" ID=\"Table4\"><caption>Table 4: Adverse Reactions That Occurred in Greater Than 1% Of Patients in Parallel-Group, Placebo-Controlled Trials with Diazepam Rectal Gel and More Common Than Placebo</caption><col width=\"35%\" align=\"left\" valign=\"bottom\"/><col width=\"45%\" align=\"center\" valign=\"bottom\"/><col width=\"20%\" align=\"center\" valign=\"bottom\"/><thead><tr><th styleCode=\"Lrule Rrule\">Adverse Reaction</th><th styleCode=\"Rrule\">Diazepam Rectal Gel  N=101 %</th><th styleCode=\"Rrule\">Placebo  N=104  %</th></tr></thead><tbody><tr><td styleCode=\"Lrule Rrule\">Somnolence</td><td styleCode=\"Rrule\">23</td><td styleCode=\"Rrule\">8</td></tr><tr><td styleCode=\"Lrule Rrule\">Headache</td><td styleCode=\"Rrule\">5</td><td styleCode=\"Rrule\">4</td></tr><tr><td styleCode=\"Lrule Rrule\">Diarrhea</td><td styleCode=\"Rrule\">4</td><td styleCode=\"Rrule\">&lt;1</td></tr><tr><td styleCode=\"Lrule Rrule\">Ataxia</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">&lt;1</td></tr><tr><td styleCode=\"Lrule Rrule\">Dizziness</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">2</td></tr><tr><td styleCode=\"Lrule Rrule\">Euphoria</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">0</td></tr><tr><td styleCode=\"Lrule Rrule\">Incoordination</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">0</td></tr><tr><td styleCode=\"Lrule Rrule\">Rash</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">0</td></tr><tr><td styleCode=\"Lrule Rrule\"/><td styleCode=\"Rrule\"/><td styleCode=\"Rrule\"/></tr><tr><td styleCode=\"Lrule Rrule\">Asthma</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">0</td></tr><tr><td styleCode=\"Lrule Rrule\">Vasodilation</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">0</td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS CYP2C19 and CYP3A4 Inhibitors: Elimination of diazepam could be decreased with concurrent administration; therefore, adverse reactions with VALTOCO may be increased. ( 7.3 ) Inducers of CYP2C19 and CYP3A4 Inducers: Exposure of diazepam with concurrent administration may be decreased; therefore, efficacy with VALTOCO may be decreased. ( 7.3 ) 7.1 Effect of Concomitant Use of Benzodiazepines and Opioids The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at GABA- A sites, and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists [see Warnings and Precautions (5.1) ]. Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation. 7.2 CNS Depressants and Alcohol Coadministration of other CNS depressants (e.g., valproate) or consumption of alcohol may potentiate the CNS-depressant effects of diazepam [see Warnings and Precautions (5.4) ]. 7.3 Effect of Other Drugs on VALTOCO Metabolism Potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity. Inhibitors of CYP2C19 and CYP3A4 Inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination; therefore, adverse reactions to VALTOCO may be increased. Inducers of CYP2C19 and CYP3A4 Inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone, and phenobarbital) could increase the rate of diazepam elimination; therefore, efficacy of VALTOCO may be decreased. 7.4 Effect of VALTOCO on the Metabolism of Other Drugs Diazepam is a substrate for CYP2C19 and CYP3A4; therefore, it is possible that VALTOCO may interfere with the metabolism of drugs which are substrates for CYP2C19 (e.g., omeprazole, propranolol, and imipramine) and CYP3A4 (e.g., cyclosporine, paclitaxel, theophylline, and warfarin) leading to a potential drug-drug interaction."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pregnancy: Based on animal data, may cause fetal harm. ( 8.1 ) 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as VALTOCO, during pregnancy. Healthcare providers are encouraged to recommend that pregnant women who are taking VALTOCO during pregnancy enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org. Risk Summary Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.7) and Clinical Considerations ] . Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Human Data ) . In animal studies, administration of diazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically. Data for diazepam and other benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral and immunological function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses (see Animal Data ). The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates. Monitor neonates exposed to VALTOCO during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to VALTOCO during pregnancy for signs of withdrawal. Manage these neonates accordingly [see Warnings and Precautions (5.7) ] . Data Human Data Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco, and other medications, have not confirmed these findings. Animal Data Diazepam has been shown to produce increased incidences of fetal malformations in mice and hamsters when given orally at single doses of 100 mg/kg or greater (approximately 13 times the maximum recommended human dose [MRHD = 0.6mg/kg/day] or greater on a mg/m 2 basis). Cleft palate and exencephaly are the most common and consistently reported malformations produced in these species by administration of high, maternally-toxic doses of diazepam during organogenesis. In published animal studies, administration of benzodiazepines or other drugs that enhance GABAergic inhibition to neonatal rats has been reported to result in widespread apoptotic neurodegeneration in the developing brain at plasma concentrations relevant for seizure control in humans. The window of vulnerability to these changes in rats (postnatal days 0-14) includes a period of brain development that takes place during the third trimester of pregnancy in humans. 8.2 Lactation Risk Summary Diazepam is excreted in human milk. There are reports of sedation, poor feeding, and poor weight gain in infants exposed to benzodiazepines through breast milk. There are no data to assess the effects of diazepam and/or its active metabolite(s) on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for VALTOCO nasal spray and any potential adverse effects on the breastfed infant from VALTOCO or from the underlying maternal condition. Clinical Considerations Infants exposed to VALTOCO through breast milk should be monitored for sedation, poor feeding and poor weight gain. 8.4 Pediatric Use Safety and effectiveness of VALTOCO have been established in pediatric patients 2 years to 16 years of age. Use of VALTOCO in this age group is supported by evidence from adequate and well-controlled studies of diazepam rectal gel in adult and pediatric patients, adult bioavailability studies comparing VALTOCO with diazepam rectal gel, patient pharmacokinetic data, and open-label safety studies of VALTOCO including patients 2 years to 16 years of age [see Adverse Reactions (6.1) , Clinical Pharmacology (12.3) , and Clinical Studies (14) ]. Safety and effectiveness of VALTOCO in pediatric patients below the age of 2 years have not been established. VALTOCO is not approved for use in neonates or infants. Prolonged CNS depression has been observed in neonates treated with diazepam. Serious adverse reactions including fatal reactions and the \"gasping syndrome\" occurred in premature neonates and low-birth-weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative. In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L). Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse. Preterm, low-birth-weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (VALTOCO contains 10.5 mg of benzyl alcohol per 0.1 mL) [see Warnings and Precautions (5.8) ] 8.5 Geriatric Use Clinical studies of VALTOCO did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Therefore, in elderly patients, VALTOCO should be used with caution because of an increase in half-life with a corresponding decrease in the clearance of free diazepam [see Clinical Pharmacology (12.3) ] . It is also recommended that the dosage be decreased to reduce the likelihood of ataxia or oversedation. 8.6 Compromised Respiratory Function VALTOCO should be used with caution in patients with compromised respiratory function related to a concurrent disease process (e.g., asthma, pneumonia) or neurologic damage."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as VALTOCO, during pregnancy. Healthcare providers are encouraged to recommend that pregnant women who are taking VALTOCO during pregnancy enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org. Risk Summary Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.7) and Clinical Considerations ] . Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Human Data ) . In animal studies, administration of diazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically. Data for diazepam and other benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral and immunological function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses (see Animal Data ). The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates. Monitor neonates exposed to VALTOCO during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to VALTOCO during pregnancy for signs of withdrawal. Manage these neonates accordingly [see Warnings and Precautions (5.7) ] . Data Human Data Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco, and other medications, have not confirmed these findings. Animal Data Diazepam has been shown to produce increased incidences of fetal malformations in mice and hamsters when given orally at single doses of 100 mg/kg or greater (approximately 13 times the maximum recommended human dose [MRHD = 0.6mg/kg/day] or greater on a mg/m 2 basis). Cleft palate and exencephaly are the most common and consistently reported malformations produced in these species by administration of high, maternally-toxic doses of diazepam during organogenesis. In published animal studies, administration of benzodiazepines or other drugs that enhance GABAergic inhibition to neonatal rats has been reported to result in widespread apoptotic neurodegeneration in the developing brain at plasma concentrations relevant for seizure control in humans. The window of vulnerability to these changes in rats (postnatal days 0-14) includes a period of brain development that takes place during the third trimester of pregnancy in humans."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness of VALTOCO have been established in pediatric patients 2 years to 16 years of age. Use of VALTOCO in this age group is supported by evidence from adequate and well-controlled studies of diazepam rectal gel in adult and pediatric patients, adult bioavailability studies comparing VALTOCO with diazepam rectal gel, patient pharmacokinetic data, and open-label safety studies of VALTOCO including patients 2 years to 16 years of age [see Adverse Reactions (6.1) , Clinical Pharmacology (12.3) , and Clinical Studies (14) ]. Safety and effectiveness of VALTOCO in pediatric patients below the age of 2 years have not been established. VALTOCO is not approved for use in neonates or infants. Prolonged CNS depression has been observed in neonates treated with diazepam. Serious adverse reactions including fatal reactions and the \"gasping syndrome\" occurred in premature neonates and low-birth-weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative. In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L). Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse. Preterm, low-birth-weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol. The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (VALTOCO contains 10.5 mg of benzyl alcohol per 0.1 mL) [see Warnings and Precautions (5.8) ]"
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of VALTOCO did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Therefore, in elderly patients, VALTOCO should be used with caution because of an increase in half-life with a corresponding decrease in the clearance of free diazepam [see Clinical Pharmacology (12.3) ] . It is also recommended that the dosage be decreased to reduce the likelihood of ataxia or oversedation."
+  ],
+  "drug_abuse_and_dependence": [
+   "9 DRUG ABUSE AND DEPENDENCE 9.1 Controlled Substance VALTOCO contains diazepam, a Schedule IV controlled substance. 9.2 Abuse VALTOCO is a benzodiazepine and a CNS depressant with a potential for abuse and addiction. Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects. Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence. Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication. Abuse and misuse of benzodiazepines may lead to addiction. Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death. Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions (5.2) ]. The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo. The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death. Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol). In the clinical studies with VALTOCO at recommended doses, abuse-related adverse events included euphoria, somnolence, sedation, anterograde amnesia, depression, anxiety, hallucinations, and restlessness . 9.3 Dependence Physical Dependence After Use of VALTOCO More Frequently Than Recommended VALTOCO may produce physical dependence if used more frequently than recommended. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Although VALTOCO is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2) ], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening. Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3) ]. For patients using VALTOCO more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue VALTOCO [see Warnings and Precautions (5.3) ]. Acute Withdrawal Signs and Symptoms Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor. More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality. Protracted Withdrawal Syndrome Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal. Protracted withdrawal symptoms may last weeks to more than 12 months. As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used. Tolerance Tolerance to VALTOCO may develop after use more frequently than recommended. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose). Tolerance to the therapeutic effect of benzodiazepines may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines. It is recommended that patients be treated with VALTOCO no more frequently than every five days and no more than five times per month. VALTOCO is not recommended for chronic, daily use as an anticonvulsant. Chronic daily use of diazepam may increase the frequency and/or severity of tonic clonic seizures, requiring an increase in the dosage of standard anticonvulsant medication. In such cases, abrupt withdrawal of chronic diazepam may also be associated with a temporary increase in the frequency and/or severity of seizures."
+  ],
+  "controlled_substance": [
+   "9.1 Controlled Substance VALTOCO contains diazepam, a Schedule IV controlled substance."
+  ],
+  "abuse": [
+   "9.2 Abuse VALTOCO is a benzodiazepine and a CNS depressant with a potential for abuse and addiction. Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects. Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence. Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication. Abuse and misuse of benzodiazepines may lead to addiction. Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death. Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions (5.2) ]. The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo. The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death. Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol). In the clinical studies with VALTOCO at recommended doses, abuse-related adverse events included euphoria, somnolence, sedation, anterograde amnesia, depression, anxiety, hallucinations, and restlessness ."
+  ],
+  "dependence": [
+   "9.3 Dependence Physical Dependence After Use of VALTOCO More Frequently Than Recommended VALTOCO may produce physical dependence if used more frequently than recommended. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Although VALTOCO is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2) ], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening. Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3) ]. For patients using VALTOCO more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue VALTOCO [see Warnings and Precautions (5.3) ]. Acute Withdrawal Signs and Symptoms Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor. More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality. Protracted Withdrawal Syndrome Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal. Protracted withdrawal symptoms may last weeks to more than 12 months. As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used. Tolerance Tolerance to VALTOCO may develop after use more frequently than recommended. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose). Tolerance to the therapeutic effect of benzodiazepines may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines. It is recommended that patients be treated with VALTOCO no more frequently than every five days and no more than five times per month. VALTOCO is not recommended for chronic, daily use as an anticonvulsant. Chronic daily use of diazepam may increase the frequency and/or severity of tonic clonic seizures, requiring an increase in the dosage of standard anticonvulsant medication. In such cases, abrupt withdrawal of chronic diazepam may also be associated with a temporary increase in the frequency and/or severity of seizures."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma. In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia. Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur. In severe overdosage cases, patients may develop respiratory depression and coma. Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal [see Warnings and Precautions (5.2) ] . Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage. In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway maintenance. Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency. The risk of withdrawal seizures with flumazenil use may be increased in patients with epilepsy. Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus). If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage. See the flumazenil injection Prescribing Information. Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION Diazepam, the active ingredient of VALTOCO nasal spray, is a benzodiazepine anticonvulsant with the chemical name 7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one; its molecular formula is C 16 H 13 ClN 2 O and its molecular weight is 284.7 g/mol. The structural formula is as follows: The inactive ingredients in VALTOCO nasal spray include benzyl alcohol (10.5 mg per 0.1 mL), dehydrated alcohol, n-dodecyl beta-D-maltoside, and vitamin E. VALTOCO nasal spray is a clear pale amber liquid. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The exact mechanism of action for diazepam is not fully understood, but it is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor. 12.2 Pharmacodynamics The effects of diazepam on the CNS are dependent on the dose administered, the route of administration, and the presence or absence of other medications. 12.3 Pharmacokinetics Pharmacokinetic information for VALTOCO following nasal administration was obtained from studies conducted in healthy adult subjects, as well as adult and pediatric patients with epilepsy 2 years of age and older. Absorption In a pharmacokinetic study in healthy adult subjects, the highest plasma diazepam concentrations after nasal administration of VALTOCO was reached in 1.5 hours. The estimated volume of distribution of diazepam at steady-state is 0.8 to 1.0 L/kg. The absolute bioavailability of VALTOCO relative to intravenous diazepam was 97%. The mean elimination half-life of diazepam following administration of a 10 mg dose of VALTOCO was found to be about 49.2 hours. In another pharmacokinetic study in healthy adult subjects, diazepam plasma exposures (C max and AUC) increased approximately proportional to dose from 5 mg to 20 mg. In a relative bioavailability study in healthy adult subjects, diazepam exposure (C max and AUCs) was evaluated following administration of 15 and 20 mg of VALTOCO nasal spray and diazepam rectal gel. The diazepam PK parameters were 2 to 4-fold less variable for VALTOCO and within the range of those seen with diazepam rectal gel. In a pharmacokinetic study in patients with epilepsy, pharmacokinetic parameters were similar between seizure versus non-seizure states. Distribution Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%). Metabolism and Elimination In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam. It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite, desmethyldiazepam, and two minor active metabolites, 3- hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam), in plasma. At therapeutic doses, desmethyldiazepam is found in plasma at concentrations equivalent to those of diazepam while oxazepam and temazepam are not usually detectable. The metabolism of diazepam is primarily hepatic and involves demethylation (involving primarily CYP2C19 and CYP3A4) and 3-hydroxylation (involving primarily CYP3A4), followed by glucuronidation. The marked inter-individual variability in the clearance of diazepam reported in the literature is probably attributable to variability of CYP2C19 (which is known to exhibit genetic polymorphism; about 3-5% of Caucasians have little or no activity and are \"poor metabolizers\") and CYP3A4. No inhibition was demonstrated in the presence of inhibitors selective for CYP2A6, CYP2C9, CYP2D6, CYP2E1, or CYP1A2, indicating that these enzymes are not significantly involved in metabolism of diazepam. Specific Populations Geriatric Patients A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam [see Use in Specific Populations (8.5) ]. Pediatric Patients Literature review indicates that following IV administration (0.33 mg/kg), diazepam has a half-life in pediatric patients 6 to 12 years of age of approximately 15-21 hours. Based on simulation studies, in pediatric patients 2 to 5 years of age, median maximum plasma concentration (C max ) and median area under the plasma concentration curve (AUC 0-t ) of diazepam following a single administration of VALTOCO are approximately 2-times greater than in adults. In pediatric patients 6 to 11 years of age, median C max and median AUC 0-t of diazepam following a single administration of VALTOCO are approximately 1.4-times greater than in adults. Patients with Renal Impairment The pharmacokinetics of diazepam have not been studied in subjects with renal impairment. Patients with Hepatic Impairment No pharmacokinetic studies were conducted with VALTOCO in subjects with hepatic impairment. Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half. However, the exact degree of hepatic impairment in these subjects was not characterized in this literature. Effect of Gender, Race, and Cigarette Smoking No targeted pharmacokinetic studies have been conducted to evaluate the effect of gender, race, and cigarette smoking on the pharmacokinetics of diazepam. However, covariate analysis of a population of treated patients following administration of diazepam rectal gel, indicated that neither gender nor cigarette smoking had any effect on the pharmacokinetics of diazepam."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action The exact mechanism of action for diazepam is not fully understood, but it is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics The effects of diazepam on the CNS are dependent on the dose administered, the route of administration, and the presence or absence of other medications."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Pharmacokinetic information for VALTOCO following nasal administration was obtained from studies conducted in healthy adult subjects, as well as adult and pediatric patients with epilepsy 2 years of age and older. Absorption In a pharmacokinetic study in healthy adult subjects, the highest plasma diazepam concentrations after nasal administration of VALTOCO was reached in 1.5 hours. The estimated volume of distribution of diazepam at steady-state is 0.8 to 1.0 L/kg. The absolute bioavailability of VALTOCO relative to intravenous diazepam was 97%. The mean elimination half-life of diazepam following administration of a 10 mg dose of VALTOCO was found to be about 49.2 hours. In another pharmacokinetic study in healthy adult subjects, diazepam plasma exposures (C max and AUC) increased approximately proportional to dose from 5 mg to 20 mg. In a relative bioavailability study in healthy adult subjects, diazepam exposure (C max and AUCs) was evaluated following administration of 15 and 20 mg of VALTOCO nasal spray and diazepam rectal gel. The diazepam PK parameters were 2 to 4-fold less variable for VALTOCO and within the range of those seen with diazepam rectal gel. In a pharmacokinetic study in patients with epilepsy, pharmacokinetic parameters were similar between seizure versus non-seizure states. Distribution Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%). Metabolism and Elimination In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam. It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite, desmethyldiazepam, and two minor active metabolites, 3- hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam), in plasma. At therapeutic doses, desmethyldiazepam is found in plasma at concentrations equivalent to those of diazepam while oxazepam and temazepam are not usually detectable. The metabolism of diazepam is primarily hepatic and involves demethylation (involving primarily CYP2C19 and CYP3A4) and 3-hydroxylation (involving primarily CYP3A4), followed by glucuronidation. The marked inter-individual variability in the clearance of diazepam reported in the literature is probably attributable to variability of CYP2C19 (which is known to exhibit genetic polymorphism; about 3-5% of Caucasians have little or no activity and are \"poor metabolizers\") and CYP3A4. No inhibition was demonstrated in the presence of inhibitors selective for CYP2A6, CYP2C9, CYP2D6, CYP2E1, or CYP1A2, indicating that these enzymes are not significantly involved in metabolism of diazepam. Specific Populations Geriatric Patients A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam [see Use in Specific Populations (8.5) ]. Pediatric Patients Literature review indicates that following IV administration (0.33 mg/kg), diazepam has a half-life in pediatric patients 6 to 12 years of age of approximately 15-21 hours. Based on simulation studies, in pediatric patients 2 to 5 years of age, median maximum plasma concentration (C max ) and median area under the plasma concentration curve (AUC 0-t ) of diazepam following a single administration of VALTOCO are approximately 2-times greater than in adults. In pediatric patients 6 to 11 years of age, median C max and median AUC 0-t of diazepam following a single administration of VALTOCO are approximately 1.4-times greater than in adults. Patients with Renal Impairment The pharmacokinetics of diazepam have not been studied in subjects with renal impairment. Patients with Hepatic Impairment No pharmacokinetic studies were conducted with VALTOCO in subjects with hepatic impairment. Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half. However, the exact degree of hepatic impairment in these subjects was not characterized in this literature. Effect of Gender, Race, and Cigarette Smoking No targeted pharmacokinetic studies have been conducted to evaluate the effect of gender, race, and cigarette smoking on the pharmacokinetics of diazepam. However, covariate analysis of a population of treated patients following administration of diazepam rectal gel, indicated that neither gender nor cigarette smoking had any effect on the pharmacokinetics of diazepam."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis The carcinogenic potential of diazepam delivered by the intranasal route of administration has not been evaluated. In studies in which mice and rats were administered diazepam orally in the diet at a dose of 75 mg/kg/day (approximately 10 and 20 times, respectively, the maximum recommended human dose [MRHD=0.6 mg/kg/day] on a mg/m 2 basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species. Mutagenesis The data currently available are inadequate to determine the mutagenic potential of diazepam. Impairment of Fertility Reproduction studies with orally administered diazepam in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 27 times the MRHD on a mg/m 2 basis) prior to and during mating and throughout gestation and lactation. No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 22 times the MRHD on a mg/m 2 basis)."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis The carcinogenic potential of diazepam delivered by the intranasal route of administration has not been evaluated. In studies in which mice and rats were administered diazepam orally in the diet at a dose of 75 mg/kg/day (approximately 10 and 20 times, respectively, the maximum recommended human dose [MRHD=0.6 mg/kg/day] on a mg/m 2 basis) for 80 and 104 weeks, respectively, an increased incidence of liver tumors was observed in males of both species. Mutagenesis The data currently available are inadequate to determine the mutagenic potential of diazepam. Impairment of Fertility Reproduction studies with orally administered diazepam in rats showed decreases in the number of pregnancies and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 27 times the MRHD on a mg/m 2 basis) prior to and during mating and throughout gestation and lactation. No adverse effects on fertility or offspring viability were noted at a dose of 80 mg/kg/day (approximately 22 times the MRHD on a mg/m 2 basis)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES The efficacy of VALTOCO is based on the relative bioavailability of VALTOCO nasal spray compared to diazepam rectal gel in healthy adults [see Clinical Pharmacology (12.3) ]. The effectiveness of diazepam rectal gel has been established in two adequate and well-controlled clinical studies in children and adults exhibiting seizure patterns. A randomized, double-blind study compared sequential doses of diazepam rectal gel and placebo in 91 patients (47 children, 44 adults) exhibiting the appropriate seizure profile. The first dose was given at the onset of an identified episode. Children were dosed again four hours after the first dose and were observed for a total of 12 hours. Adults were dosed at four and 12 hours after the first dose and were observed for a total of 24 hours. Primary outcomes for this study were seizure frequency during the period of observation and a global assessment that took into account the severity and nature of the seizures as well as their frequency. The median seizure frequency for the diazepam rectal gel treated group was zero seizures per hour, compared to a median seizure frequency of 0.3 seizures per hour for the placebo group, a difference that was statistically significant (p < 0.0001). All three categories of the global assessment (seizure frequency, seizure severity, and \"overall\") were also found to be statistically significant in favor of diazepam rectal gel (p < 0.0001). The following histogram displays the results for the \"overall\" category of the global assessment. Figure 1: Caregiver Overall Global Assessment of the Efficacy of Diazepam Rectal Gel Patients treated with diazepam rectal gel experienced prolonged time-to-next-seizure compared to placebo (p = 0.0002) as shown in the following graph. Figure 2: Kaplan-Meier Survival Analysis of Time-to-Next-Seizure - First Study In addition, 62% of patients treated with diazepam rectal gel were seizure-free during the observation period compared to 20% of placebo patients. Analysis of response by gender and age revealed no substantial differences between treatment in either of these subgroups. Analysis of response by race was considered unreliable, due to the small percentage of non-Caucasians. A second double-blind study compared single doses of diazepam rectal gel and placebo in 114 patients (53 children, 61 adults). The dose was given at the onset of the identified episode and patients were observed for a total of 12 hours. The primary outcome in this study was seizure frequency. The median seizure frequency for the diazepam rectal gel-treated group was zero seizures per 12 hours, compared to a median seizure frequency of 2.0 seizures per 12 hours for the placebo group, a difference that was statistically significant (p < 0.03). Patients treated with diazepam rectal gel experienced prolonged time-to-next-seizure compared to placebo (p = 0.0072) as shown in Figure 3. Figure 3: Kaplan-Meier Survival Analysis of Time-to-Next-Seizure - Second Study In addition, 55% of patients treated with diazepam rectal gel were seizure-free during the observation period compared to 34% of patients receiving placebo. Overall, caregivers judged diazepam rectal gel to be more effective than placebo (p = 0.018), based on a 10-centimeter visual analog scale. In addition, investigators also evaluated the effectiveness of diazepam rectal gel and judged diazepam rectal gel to be more effective than placebo (p < 0.001). An analysis of response by gender revealed a statistically significant difference between treatments in females but not in males in this study, and the difference between the 2 genders in response to the treatments reached borderline statistical significance. Analysis of response by race was considered unreliable, due to the small percentage of non-Caucasians. Figure 1 Figure 2 Figure 3"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied VALTOCO is available in 5 mg, 7.5 mg, and 10 mg strengths. VALTOCO is supplied and packaged in doses of 5 mg, 10 mg, 15 mg, or 20 mg (see Table 5 ). Table 5: Available Packaging Configurations Description Contents NDC Each Carton Contains 2 Doses 5 mg carton 2 individual blister packs, each containing one 5 mg nasal spray device 72252-505-02 10 mg carton 2 individual blister packs, each containing one 10 mg nasal spray device 72252-510-02 15 mg carton 2 individual blister packs, each containing two 7.5 mg nasal spray devices 72252-515-04 20 mg carton 2 individual blister packs, each containing two 10 mg nasal spray devices 72252-520-04 Each Carton Contains 5 Doses 5 mg carton 5 individual blister packs, each containing one 5 mg nasal spray device 72252-505-05 10 mg carton 5 individual blister packs, each containing one 10 mg nasal spray device 72252-510-05 15 mg carton 5 individual blister packs, each containing two 7.5 mg nasal spray devices 72252-515-10 20 mg carton 5 individual blister packs, each containing two 10 mg nasal spray devices 72252-520-10 16.2 Storage and Handling Do not open individual blister packs or test nasal spray devices before use. Each single-dose nasal spray device sprays one (1) time and cannot be re-used. Do not use if the nasal spray unit appears damaged. Store VALTOCO at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Do not freeze. Protect from light."
+  ],
+  "how_supplied_table": [
+   "<table width=\"75%\" ID=\"Table5\"><caption>Table 5: Available Packaging Configurations</caption><col width=\"15%\" align=\"center\" valign=\"middle\"/><col width=\"65%\" align=\"left\" valign=\"middle\"/><col width=\"20%\" align=\"center\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\">Description</th><th styleCode=\"Rrule\" align=\"center\">Contents</th><th styleCode=\"Rrule\">NDC</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td colspan=\"3\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Each Carton Contains 2 Doses</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">5 mg carton</td><td styleCode=\"Rrule\">2 individual blister packs, each containing one 5 mg nasal spray device</td><td styleCode=\"Rrule\">72252-505-02</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">10 mg carton</td><td styleCode=\"Rrule\">2 individual blister packs, each containing one 10 mg nasal spray device</td><td styleCode=\"Rrule\">72252-510-02</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">15 mg carton</td><td styleCode=\"Rrule\">2 individual blister packs, each containing two 7.5 mg nasal spray devices</td><td styleCode=\"Rrule\">72252-515-04</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">20 mg carton</td><td styleCode=\"Rrule\">2 individual blister packs, each containing two 10 mg nasal spray devices</td><td styleCode=\"Rrule\">72252-520-04</td></tr><tr styleCode=\"Botrule\"><td colspan=\"3\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Each Carton Contains 5 Doses</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">5 mg carton</td><td styleCode=\"Rrule\">5 individual blister packs, each containing one 5 mg nasal spray device</td><td styleCode=\"Rrule\">72252-505-05</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">10 mg carton</td><td styleCode=\"Rrule\">5 individual blister packs, each containing one 10 mg nasal spray device</td><td styleCode=\"Rrule\">72252-510-05</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">15 mg carton</td><td styleCode=\"Rrule\">5 individual blister packs, each containing two 7.5 mg nasal spray devices</td><td styleCode=\"Rrule\">72252-515-10</td></tr><tr><td styleCode=\"Lrule Rrule\">20 mg carton</td><td styleCode=\"Rrule\">5 individual blister packs, each containing two 10 mg nasal spray devices</td><td styleCode=\"Rrule\">72252-520-10</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "16.2 Storage and Handling Do not open individual blister packs or test nasal spray devices before use. Each single-dose nasal spray device sprays one (1) time and cannot be re-used. Do not use if the nasal spray unit appears damaged. Store VALTOCO at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Do not freeze. Protect from light."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use) . Concomitant use with Opioids Concomitant use of benzodiazepines, including VALTOCO, and opioids may result in profound sedation, respiratory depression, coma, and death. Do not use such drugs concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.1) ] . Abuse, Misuse, and Addiction Inform patients that the use of VALTOCO more frequently than recommended, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances. Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions (5.2) and Drug Abuse and Dependence (9.2) ]. Withdrawal Reactions Inform patients that use of VALTOCO more frequently than recommended may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of VALTOCO may precipitate acute withdrawal reactions, which can be life-threatening. Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3) ]. Important Treatment Instructions Instruct patients and caregivers on what is and is not an intermittent and stereotypic episode of increased seizure activity (i.e., seizure cluster) that is appropriate for treatment, and the timing of administration in relation to the onset of the episode. Instruct patients and caregivers on what to observe following administration, and what would constitute an outcome requiring immediate medical attention. Instruct patients and caregivers not to administer a second dose of VALTOCO if they are concerned by the patient's breathing, the patient requires emergency rescue treatment with assisted breathing or intubation, or there is excessive sedation [see Use in Specific Populations (8.6) ]. Advise patients and caregivers on how frequently they can treat successive seizure cluster episodes over time. Pregnancy Advise pregnant females that the use of VALTOCO late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1) ] . Instruct patients to inform their healthcare provider if they are pregnant. Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking VALTOCO. The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1) ] . Lactation Counsel patients that diazepam, the active ingredient in VALTOCO, is excreted in breast milk. Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed. Instruct breastfeeding patients who take VALTOCO to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2) ]."
+  ],
+  "spl_medguide": [
+   "MEDICATION GUIDE VALTOCO ® (val-toe-koe) (diazepam nasal spray), CIV This Medication Guide has been approved by the U.S. Food and Drug Administration. Revised: 04/2025 US-PRC-25-00100-v1 What is the most important information I should know about VALTOCO? VALTOCO is a benzodiazepine medicine. Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death. Get emergency medical help right away if any of the following happens: shallow or slowed breathing breathing stops (which may lead to the heart stopping) excessive sleepiness (sedation) Do not drive or operate heavy machinery until you know how taking VALTOCO with opioids affects you. Risk of abuse, misuse, and addiction. There is a risk for abuse, misuse, and addiction with benzodiazepines, including VALTOCO, which can lead to overdose and serious side effects including coma and death. Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including diazepam (the active ingredient in VALTOCO). These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing. Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these serious side effects. You can develop an addiction even if you use VALTOCO as prescribed by your healthcare provider. Use VALTOCO exactly as your healthcare provider prescribed. Do not share your VALTOCO with other people. Keep VALTOCO in a safe place and away from children. Physical dependence and withdrawal reactions . Benzodiazepines, including VALTOCO, can cause physical dependence and withdrawal reactions, especially if you use VALTOCO daily. VALTOCO is not intended for daily use. Do not suddenly stop using VALTOCO without talking to your healthcare provider. Stopping VALTOCO suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions. Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms. Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months , including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears. Physical dependence is not the same as drug addiction. Your healthcare provider can tell you more about the differences between physical dependence and drug addiction. Do not use more VALTOCO than prescribed or use VALTOCO more often than prescribed. VALTOCO can make you sleepy or dizzy and can slow your thinking and motor skills. Do not drive, operate heavy machinery, or do other dangerous activities until you know how VALTOCO affects you. Do not drink alcohol or take other drugs that may make you sleepy or dizzy while using VALTOCO without first talking to your healthcare provider. When taken with alcohol or drugs that cause sleepiness or dizziness, VALTOCO may make your sleepiness or dizziness worse. Like other antiepileptic medicines, VALTOCO may cause suicidal thoughts or actions in a small number of people, about 1 in 500. Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you : thoughts about suicide or dying feeling agitated or restless acting aggressive, being angry, or violent attempts to commit suicide panic attacks acting on dangerous impulses trouble sleeping (insomnia) an extreme increase in activity and talking (mania) new or worse anxiety new or worse irritability other unusual changes in behavior or mood new or worse depression How can I watch for early symptoms of suicidal thoughts or actions? Pay attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings. Keep all follow-up visits with your healthcare provider as scheduled. Call your healthcare provider between visits as needed, especially if you are worried about symptoms. Suicidal thoughts or actions can be caused by things other than medicines. If you have suicidal thoughts or actions, your healthcare provider may check for other causes. What is VALTOCO? VALTOCO is a prescription medicine used for short-term treatment of seizure clusters (also known as \"acute repetitive seizures\") that are different from a person's normal seizure pattern in people 2 years of age and older. VALTOCO is a federally controlled substance (C-IV) because it contains diazepam that can be abused or lead to dependence. Keep VALTOCO in a safe place to prevent misuse and abuse. Selling or giving away VALTOCO may harm others and is against the law. Tell your healthcare provider if you have abused or been dependent on alcohol, prescription drugs, or street drugs. It is not known if VALTOCO is safe and effective in children under 2 years of age. Do not use VALTOCO if you: are allergic to diazepam or any of the ingredients in VALTOCO. See the end of this Medication Guide for a complete list of ingredients in VALTOCO. have an eye problem called acute narrow angle glaucoma. Before using VALTOCO, tell your healthcare provider about all of your medical conditions, including if you: have asthma, emphysema, bronchitis, chronic obstructive pulmonary disease, or other breathing problems. have a history of alcohol or drug abuse. have a history of depression, mood problems or suicidal thoughts or behaviors. have liver or kidney problems. are pregnant or plan to become pregnant. Taking VALTOCO late in pregnancy may cause your baby to have symptoms of sedation (breathing problems, sluggishness, low muscle tone) and/or withdrawal symptoms (jitteriness, irritability, restlessness, shaking, excessive crying, feeding problems). Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with VALTOCO. If you become pregnant while using VALTOCO, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry. You can register by calling 1-888-233-2334. For more information about the registry, go to http://www.aedpregnancyregistry.org. The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy. are breastfeeding or plan to breastfeed. VALTOCO passes into your breast milk and may harm your baby. Breastfeeding during treatment with VALTOCO may cause your baby to have sleepiness, feeding problems, and decreased weight gain. Talk to your healthcare provider about the best way to feed your baby if you use VALTOCO. Tell your healthcare provider about all the medicines you take , including prescription and over-the-counter medicines, vitamins, and herbal supplements. Using VALTOCO with certain other medicines can cause side effects or affect how well VALTOCO or the other medicines work. Do not start or stop other medicines without talking to your healthcare provider. How should I use VALTOCO? Read the Instructions for Use that comes with this Medication Guide for detailed information about the right way to use VALTOCO. Use VALTOCO exactly as prescribed by your healthcare provider. Your healthcare provider will tell you: what seizure clusters are exactly how much VALTOCO to give when to give VALTOCO how to give VALTOCO what to do after you give VALTOCO if the seizures do not stop or there is a change in breathing, behavior, or condition that worries you You should carry VALTOCO with you in case you need it to control your seizure clusters. Family members, care providers, and other people who may have to give VALTOCO should know where you keep your VALTOCO and how to give VALTOCO before a seizure cluster happens. VALTOCO is given in the nose (nasal) only. Do not test or prime the nasal spray before use. Each VALTOCO only sprays 1 time and cannot be reused. Each dose of VALTOCO is provided in an individual pack. Use all of the medicine in 1 pack for a complete dose. What should I do after I give VALTOCO? Stay with the person after you give VALTOCO and watch them closely. Make a note of the time VALTOCO was given. Call for emergency help if any of the following happen: seizure cluster behavior is different than other seizure clusters the person has had. you are alarmed by how often the seizures happen, by how severe the seizure is, by how long the seizure lasts, or by the color or breathing of the person. Throw away (discard) the used VALTOCO. If needed, a second dose may be given at least 4 hours after the first dose, using a new pack of VALTOCO. Do not give more than 2 doses of VALTOCO to treat a seizure cluster. A second dose should not be given if there is concern about the person's breathing, they need help with their breathing, or have extreme drowsiness. Do not use VALTOCO for more than 1 seizure cluster episode every 5 days. Do not use VALTOCO for more than 5 seizure cluster episodes in 1 month. What should I avoid while using VALTOCO? See \" What is the most important information I should know about VALTOCO? \" What are the possible side effects of VALTOCO? VALTOCO may cause serious side effects, including: See \" What is the most important information I should know about VALTOCO? \" Increase in eye pressure in people with open-angle glaucoma. See \" Do not use VALTOCO if you: \" The most common side effects of VALTOCO include: feeling sleepy or drowsy headache nose discomfort These are not all of the possible side effects of VALTOCO. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store VALTOCO? Store VALTOCO at room temperature between 68°F to 77°F (20°C to 25°C). Do not freeze VALTOCO. Keep VALTOCO in its blister pack until ready to use. Protect it from light. Keep VALTOCO and all medicines out of the reach of children. General information about the safe and effective use of VALTOCO. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use VALTOCO for a condition for which it was not prescribed. Do not give VALTOCO to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about VALTOCO that is written for health professionals. What are the ingredients in VALTOCO? Active ingredient: diazepam Inactive ingredients: benzyl alcohol, dehydrated alcohol, n-dodecyl beta-D-maltoside, and vitamin E. Distributed by Neurelis, Inc., San Diego, CA 92121 USA. NEURELIS and VALTOCO and the NEURELIS and VALTOCO logos are registered trademarks of Neurelis, Inc. For more information, go to www.valtoco.com or call 1-866-696-3873."
+  ],
+  "spl_medguide_table": [
+   "<table width=\"100%\"><col width=\"2%\" align=\"left\" valign=\"top\"/><col width=\"26%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"left\" valign=\"top\"/><col width=\"27%\" align=\"left\" valign=\"top\"/><col width=\"27%\" align=\"left\" valign=\"top\"/><thead><tr styleCode=\"Botrule\"><th styleCode=\"Lrule Rrule\" colspan=\"5\" align=\"center\">MEDICATION GUIDE  VALTOCO<sup>&#xAE;</sup> (val-toe-koe)  (diazepam nasal spray), CIV</th></tr></thead><tfoot><tr><td colspan=\"4\" align=\"left\">This Medication Guide has been approved by the U.S. Food and Drug Administration.</td><td colspan=\"1\" align=\"center\">Revised: 04/2025 US-PRC-25-00100-v1</td></tr><tr><td/><td/><td/><td/><td/></tr></tfoot><tbody><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><paragraph ID=\"Whatis\"><content styleCode=\"bold\">What is the most important information I should know about VALTOCO?</content></paragraph></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">VALTOCO is a benzodiazepine medicine. Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death.</content> Get emergency medical help right away if any of the following happens:<list listType=\"unordered\" styleCode=\"circle\"><item>shallow or slowed breathing</item><item>breathing stops (which may lead to the heart stopping)</item><item>excessive sleepiness (sedation)</item></list>Do not drive or operate heavy machinery until you know how taking VALTOCO with opioids affects you. </item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">Risk of abuse, misuse, and addiction.</content> There is a risk for abuse, misuse, and addiction with benzodiazepines, including VALTOCO, which can lead to overdose and serious side effects including coma and death. <list listType=\"unordered\" styleCode=\"circle\"><item><content styleCode=\"bold\">Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including diazepam (the active ingredient in VALTOCO).</content> These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing. <content styleCode=\"bold\">Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these serious side effects.</content></item><item>You can develop an addiction even if you use VALTOCO as prescribed by your healthcare provider.</item><item><content styleCode=\"bold\">Use VALTOCO exactly as your healthcare provider prescribed.</content></item><item>Do not share your VALTOCO with other people.</item><item>Keep VALTOCO in a safe place and away from children.</item></list></item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">Physical dependence and withdrawal reactions</content>. Benzodiazepines, including VALTOCO, can cause physical dependence and withdrawal reactions, especially if you use VALTOCO daily. VALTOCO is not intended for daily use.<list listType=\"unordered\" styleCode=\"circle\"><item><content styleCode=\"bold\">Do not suddenly stop using VALTOCO without talking to your healthcare provider.</content> Stopping VALTOCO suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions. <content styleCode=\"bold\">Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms.</content></item><item><content styleCode=\"bold\">Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months</content>, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.</item><item>Physical dependence is not the same as drug addiction. Your healthcare provider can tell you more about the differences between physical dependence and drug addiction. </item><item>Do not use more VALTOCO than prescribed or use VALTOCO more often than prescribed.</item></list></item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">VALTOCO can make you sleepy or dizzy and can slow your thinking and motor skills.</content><list listType=\"unordered\" styleCode=\"circle\"><item>Do not drive, operate heavy machinery, or do other dangerous activities until you know how VALTOCO affects you.</item><item>Do not drink alcohol or take other drugs that may make you sleepy or dizzy while using VALTOCO without first talking to your healthcare provider. When taken with alcohol or drugs that cause sleepiness or dizziness, VALTOCO may make your sleepiness or dizziness worse.</item></list></item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">Like other antiepileptic medicines, VALTOCO may cause suicidal thoughts or actions in a small number of people, about 1 in 500. Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you</content>:</item></list></td></tr><tr><td styleCode=\"Lrule\"/><td colspan=\"2\"><list listType=\"unordered\" styleCode=\"Circle\"><item>thoughts about suicide or dying</item><item>feeling agitated or restless</item><item>acting aggressive, being angry, or violent</item><item>attempts to commit suicide</item><item>panic attacks</item><item>acting on dangerous impulses</item></list></td><td styleCode=\"Rrule\" colspan=\"2\"><list listType=\"unordered\" styleCode=\"Circle\"><item>trouble sleeping (insomnia)</item><item>an extreme increase in activity and talking (mania)</item><item>new or worse anxiety</item><item>new or worse irritability</item><item>other unusual changes in behavior or mood</item><item>new or worse depression</item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"/><td colspan=\"4\" styleCode=\"Rrule\"><content styleCode=\"bold\">How can I watch for early symptoms of suicidal thoughts or actions?</content><list listType=\"unordered\" styleCode=\"circle\"><item>Pay attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.</item><item>Keep all follow-up visits with your healthcare provider as scheduled.</item></list>Call your healthcare provider between visits as needed, especially if you are worried about symptoms. Suicidal thoughts or actions can be caused by things other than medicines. If you have suicidal thoughts or actions, your healthcare provider may check for other causes. </td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">What is VALTOCO?</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item>VALTOCO is a prescription medicine used for short-term treatment of seizure clusters (also known as &quot;acute repetitive seizures&quot;) that are different from a person&apos;s normal seizure pattern in people 2 years of age and older.</item><item><content styleCode=\"bold\">VALTOCO is a federally controlled substance (C-IV) because it contains diazepam that can be abused or lead to dependence. </content> Keep VALTOCO in a safe place to prevent misuse and abuse. Selling or giving away VALTOCO may harm others and is against the law. Tell your healthcare provider if you have abused or been dependent on alcohol, prescription drugs, or street drugs.</item><item>It is not known if VALTOCO is safe and effective in children under 2 years of age.</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><paragraph ID=\"Donot\"><content styleCode=\"bold\">Do not use VALTOCO if you:</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item>are allergic to diazepam or any of the ingredients in VALTOCO. See the end of this Medication Guide for a complete list of ingredients in VALTOCO.</item><item>have an eye problem called acute narrow angle glaucoma.</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">Before using VALTOCO, tell your healthcare provider about all of your medical conditions, including if you:</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item>have asthma, emphysema, bronchitis, chronic obstructive pulmonary disease, or other breathing problems.</item><item>have a history of alcohol or drug abuse.</item><item>have a history of depression, mood problems or suicidal thoughts or behaviors.</item><item>have liver or kidney problems.</item><item>are pregnant or plan to become pregnant.<list listType=\"unordered\" styleCode=\"circle\"><item>Taking VALTOCO late in pregnancy may cause your baby to have symptoms of sedation (breathing problems, sluggishness, low muscle tone) and/or withdrawal symptoms (jitteriness, irritability, restlessness, shaking, excessive crying, feeding problems).</item><item>Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with VALTOCO.</item><item>If you become pregnant while using VALTOCO, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry. You can register by calling 1-888-233-2334. For more information about the registry, go to http://www.aedpregnancyregistry.org. The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.</item></list></item><item>are breastfeeding or plan to breastfeed. VALTOCO passes into your breast milk and may harm your baby.<list listType=\"unordered\" styleCode=\"Circle\"><item>Breastfeeding during treatment with VALTOCO may cause your baby to have sleepiness, feeding problems, and decreased weight gain.</item><item>Talk to your healthcare provider about the best way to feed your baby if you use VALTOCO.</item></list></item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">Tell your healthcare provider about all the medicines you take</content>, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Using VALTOCO with certain other medicines can cause side effects or affect how well VALTOCO or the other medicines work. Do not start or stop other medicines without talking to your healthcare provider.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">How should I use VALTOCO?</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">Read the Instructions for Use that comes with this Medication Guide for detailed information about the right way to use VALTOCO.</content></item><item>Use VALTOCO exactly as prescribed by your healthcare provider.</item><item>Your healthcare provider will tell you:<list listType=\"unordered\" styleCode=\"Circle\"><item>what seizure clusters are</item><item>exactly how much VALTOCO to give</item><item>when to give VALTOCO</item><item>how to give VALTOCO</item><item>what to do after you give VALTOCO if the seizures do not stop or there is a change in breathing, behavior, or condition that worries you</item></list></item><item>You should carry VALTOCO with you in case you need it to control your seizure clusters.</item><item>Family members, care providers, and other people who may have to give VALTOCO should know where you keep your VALTOCO and how to give VALTOCO before a seizure cluster happens.</item><item>VALTOCO is given in the nose (nasal) only.</item><item><content styleCode=\"bold\">Do not</content> test or prime the nasal spray before use.</item><item>Each VALTOCO only sprays 1 time and cannot be reused.</item><item>Each dose of VALTOCO is provided in an individual pack. Use all of the medicine in 1 pack for a complete dose.</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">What should I do after I give VALTOCO?</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item>Stay with the person after you give VALTOCO and watch them closely.</item><item>Make a note of the time VALTOCO was given.</item><item>Call for emergency help if any of the following happen:<list listType=\"unordered\" styleCode=\"Circle\"><item>seizure cluster behavior is different than other seizure clusters the person has had.</item><item>you are alarmed by how often the seizures happen, by how severe the seizure is, by how long the seizure lasts, or by the color or breathing of the person.</item></list></item><item>Throw away (discard) the used VALTOCO.</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\">If needed, a second dose may be given at least 4 hours after the first dose, using a new pack of VALTOCO. Do not give more than 2 doses of VALTOCO to treat a seizure cluster.  A second dose should <content styleCode=\"bold\">not</content> be given if there is concern about the person&apos;s breathing, they need help with their breathing, or have extreme drowsiness.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"5\">Do not use VALTOCO for more than 1 seizure cluster episode every 5 days. Do not use VALTOCO for more than 5 seizure cluster episodes in 1 month.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">What should I avoid while using VALTOCO?</content> See <content styleCode=\"bold\">&quot;<linkHtml href=\"#Whatis\">What is the most important information I should know about VALTOCO?</linkHtml>&quot;</content> <content styleCode=\"bold\">What are the possible side effects of VALTOCO?</content> <content styleCode=\"bold\">VALTOCO may cause serious side effects, including:</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item>See <content styleCode=\"bold\">&quot;<linkHtml href=\"#Whatis\">What is the most important information I should know about VALTOCO?</linkHtml>&quot;</content></item><item><content styleCode=\"bold\">Increase in eye pressure in people with open-angle glaucoma.</content> See <content styleCode=\"bold\">&quot;<linkHtml href=\"#Donot\">Do not use VALTOCO if you:</linkHtml>&quot;</content></item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">The most common side effects of VALTOCO include:</content></td></tr><tr><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"Disc\"><item>feeling sleepy or drowsy</item></list></td><td><list listType=\"unordered\" styleCode=\"Disc\"><item>headache</item></list></td><td styleCode=\"Rrule\" colspan=\"2\"><list listType=\"unordered\" styleCode=\"Disc\"><item>nose discomfort</item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"5\">These are not all of the possible side effects of VALTOCO. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"Bold\">How should I store VALTOCO?</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"5\"><list listType=\"unordered\" styleCode=\"Disc\"><item>Store VALTOCO at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C).</item><item>Do not freeze VALTOCO.</item><item>Keep VALTOCO in its blister pack until ready to use. Protect it from light.</item><item><content styleCode=\"bold\">Keep VALTOCO and all medicines out of the reach of children.</content></item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">General information about the safe and effective use of VALTOCO.</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"5\">Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use VALTOCO for a condition for which it was not prescribed. Do not give VALTOCO to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about VALTOCO that is written for health professionals.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">What are the ingredients in VALTOCO?</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">Active ingredient:</content> diazepam</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\"><content styleCode=\"bold\">Inactive ingredients:</content> benzyl alcohol, dehydrated alcohol, n-dodecyl beta-D-maltoside, and vitamin E.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"5\">Distributed by Neurelis, Inc., San Diego, CA 92121 USA. NEURELIS and VALTOCO and the NEURELIS and VALTOCO logos are registered trademarks of Neurelis, Inc.  For more information, go to www.valtoco.com or call 1-866-696-3873.</td></tr></tbody></table>"
+  ],
+  "instructions_for_use": [
+   "INSTRUCTIONS FOR USE For 5 mg and 10 mg Doses VALTOCO ® (diazepam nasal spray) CIV You, your family members, caregivers, and others who may need to give VALTOCO should read these Instructions for Use before using it. Talk to your healthcare provider if you, your caregiver, or others who may need to give VALTOCO have any questions about the use of VALTOCO. Important: For Nasal Use Only. Do not test or prime the nasal spray device. Each device sprays one time only. Do not use past the expiration date printed on box and blister pack. Do not open blister pack until ready to use. Each blister pack contains 1 nasal spray device. 1 dose = 1 nasal spray device. To give VALTOCO nasal spray: Step 1: Open the blister pack by peeling back the corner tab with the arrow. Remove the nasal spray device from the blister pack. Step 2: Hold the nasal spray device with your thumb on the bottom of the plunger and your first and middle fingers on either side of the nozzle. Do not press the plunger yet. If you press the plunger now, you will lose the medicine. Step 3: Insert the tip of the nozzle into 1 nostril until your fingers, on either side of the nozzle, are against the bottom of the nose. Step 4: Press the bottom of the plunger firmly with your thumb to give VALTOCO. The person does not need to breathe deeply when VALTOCO is given. Remove the nasal spray device from the nose after giving VALTOCO. After giving VALTOCO nasal spray: Throw away (discard) the nasal spray device and the blister pack after use. Call for emergency help if any of the following happen: Seizure behavior in the person is different from that of other episodes. You are alarmed by how often the seizures happen, by how severe the seizure is, by how long the seizure lasts, or by the color or breathing of the person. Make a note of the time VALTOCO was given and continue to watch the person closely. Time of first VALTOCO dose:______________ Time of second VALTOCO dose (if given): ______________________ The healthcare provider may prescribe another dose of VALTOCO to be given at least 4 hours after the first dose . If a second dose is needed, repeat Steps 1 through 4 with a new blister pack of VALTOCO. For more information about VALTOCO, visit www.valtoco.com or call 1-866-696-3873. Report side effects of prescription drugs to the FDA by visiting www.fda.gov/medwatch or by calling 1-800-FDA-1088. These Instructions for Use have been approved by the U.S. Food and Drug Administration. Issued: 02/2022 © Neurelis, Inc. 2022. NEURELIS, VALTOCO, and the NEURELIS and VALTOCO logos are trademarks or registered trademarks of Neurelis, Inc. US-PRC-22-00029 02/2022 Image Step 1 Step 2 Step 3 Step 4",
+   "INSTRUCTIONS FOR USE For 15 mg and 20 mg Doses VALTOCO ® (diazepam nasal spray) CIV You, your family members, caregivers, and others who may need to give VALTOCO should read these Instructions for Use before using it. Talk to your healthcare provider if you, your caregiver, or others who may need to give VALTOCO have any questions about the use of VALTOCO. Important: For Nasal Use Only. Do not test or prime the nasal spray devices. Each device sprays one time only. Do not use past the expiration date printed on box and blister pack. Do not open blister pack until ready to use. Each blister pack contains 2 nasal spray devices. 1 dose = 2 nasal spray devices. To give VALTOCO nasal spray: Step 1: Open the blister pack by peeling back the corner tab with the arrow. Remove the first nasal spray device from the blister pack. Step 2: Hold the nasal spray device with your thumb on the bottom of the plunger and your first and middle fingers on either side of the nozzle. Do not press the plunger yet. If you press the plunger now, you will lose the medicine. Step 3: Insert the tip of the nozzle into 1 nostril until your fingers, on either side of the nozzle, are against the bottom of the nose. Step 4: Press the bottom of the plunger firmly with your thumb to give VALTOCO. The person does not need to breathe deeply when VALTOCO is given. Remove the nasal spray device from the nose after giving VALTOCO. Step 5: You have not given the full dose of VALTOCO yet. Remove the second nasal spray device from the blister pack. Repeat Steps 2 through 4, using the second nasal spray device in the other nostril to give the full dose of VALTOCO. After giving VALTOCO nasal spray: Throw away (discard) both nasal spray devices and the blister pack after use. Call for emergency help if any of the following happen: Seizure behavior in the person is different from that of other episodes. You are alarmed by how often the seizures happen, by how severe the seizure is, by how long the seizure lasts, or by the color or breathing of the person. Make a note of the time VALTOCO was given and continue to watch the person closely. Time of first VALTOCO dose (first dose equals 1 spray in each nostril):________________/________________ Time of second VALTOCO dose (if given, second dose equals 1 spray in each nostril):________________/________________ The healthcare provider may prescribe another dose of VALTOCO to be given at least 4 hours after the first dose . If a second dose is needed, repeat Steps 1 through 5 with a new blister pack of VALTOCO. For more information about VALTOCO, visit www.valtoco.com or call 1-866-696-3873. Report side effects of prescription drugs to the FDA by visiting www.fda.gov/medwatch or by calling 1-800-FDA-1088. These Instructions for Use have been approved by the U.S. Food and Drug Administration. Issued: 02/2022 © Neurelis, Inc. 2022. NEURELIS, VALTOCO, and the NEURELIS and VALTOCO logos are trademarks or registered trademarks of Neurelis, Inc. US-PRC-22-00029 02/2022 Image Step 1 Step 2 Step 3 Step 4 Step 5"
+  ],
+  "instructions_for_use_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"60%\" align=\"left\" valign=\"top\"/><col width=\"5%\" align=\"left\" valign=\"top\"/><col width=\"35%\" align=\"left\" valign=\"top\"/><tbody><tr><td><content styleCode=\"bold\">Do not</content> test or prime the nasal spray device. Each device sprays one time only. <content styleCode=\"bold\">Do not</content> use past the expiration date printed on box and blister pack. <content styleCode=\"bold\">Do not</content> open blister pack until ready to use.</td><td><paragraph><renderMultiMedia referencedObject=\"MM5\"/></paragraph></td><td><content styleCode=\"bold\">Each blister pack contains  1 nasal spray device.  1 dose = 1 nasal spray device.</content></td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"20%\" align=\"left\" valign=\"top\"/><col width=\"7%\" align=\"left\" valign=\"top\"/><col width=\"73%\" align=\"left\" valign=\"top\"/><tbody><tr><td><paragraph><renderMultiMedia referencedObject=\"MM6\"/></paragraph></td><td><content styleCode=\"bold\">Step 1: </content></td><td><content styleCode=\"bold\">Open the blister pack</content> by peeling back the corner tab with the arrow. <content styleCode=\"bold\">Remove the nasal spray device</content> from the blister pack.</td></tr><tr><td><paragraph><renderMultiMedia referencedObject=\"MM7\"/></paragraph></td><td><content styleCode=\"bold\">Step 2: </content></td><td><content styleCode=\"bold\">Hold the nasal spray device</content> with your thumb on the bottom of the plunger and your first and middle fingers on either side of the nozzle. <content styleCode=\"bold\">Do not press the plunger yet.</content> If you press the plunger now, you will lose the medicine.</td></tr><tr><td><paragraph><renderMultiMedia referencedObject=\"MM8\"/></paragraph></td><td><content styleCode=\"bold\">Step 3: </content></td><td><content styleCode=\"bold\">Insert the tip of the nozzle into 1 nostril</content> until your fingers, on either side of the nozzle, are against the bottom of the nose.</td></tr><tr><td><paragraph><renderMultiMedia referencedObject=\"MM9\"/></paragraph></td><td><content styleCode=\"bold\">Step 4: </content></td><td><content styleCode=\"bold\">Press the bottom of the plunger firmly</content> with your thumb to give VALTOCO.  The person does not need to breathe deeply when VALTOCO is given. <content styleCode=\"bold\">Remove the nasal spray device from the nose after giving VALTOCO.</content></td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"60%\" align=\"left\" valign=\"top\"/><col width=\"5%\" align=\"left\" valign=\"top\"/><col width=\"35%\" align=\"left\" valign=\"top\"/><tbody><tr><td><content styleCode=\"bold\">Do not</content> test or prime the nasal spray devices. Each device sprays one time only. <content styleCode=\"bold\">Do not</content> use past the expiration date printed on box and blister pack. <content styleCode=\"bold\">Do not</content> open blister pack until ready to use.</td><td><paragraph><renderMultiMedia referencedObject=\"MM10\"/></paragraph></td><td><content styleCode=\"bold\">Each blister pack contains  2 nasal spray devices.  1 dose = 2 nasal spray devices.</content></td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"20%\" align=\"left\" valign=\"top\"/><col width=\"7%\" align=\"left\" valign=\"top\"/><col width=\"73%\" align=\"left\" valign=\"top\"/><tbody><tr><td><paragraph><renderMultiMedia referencedObject=\"MM11\"/></paragraph></td><td><content styleCode=\"bold\">Step 1: </content></td><td><content styleCode=\"bold\">Open the blister pack</content> by peeling back the corner tab with the arrow. <content styleCode=\"bold\">Remove the first nasal spray device</content> from the blister pack.</td></tr><tr><td><paragraph><renderMultiMedia referencedObject=\"MM12\"/></paragraph></td><td><content styleCode=\"bold\">Step 2: </content></td><td><content styleCode=\"bold\">Hold the nasal spray device</content> with your thumb on the bottom of the plunger and your first and middle fingers on either side of the nozzle. <content styleCode=\"bold\">Do not press the plunger yet.</content> If you press the plunger now, you will lose the medicine.</td></tr><tr><td><paragraph><renderMultiMedia referencedObject=\"MM13\"/></paragraph></td><td><content styleCode=\"bold\">Step 3: </content></td><td><content styleCode=\"bold\">Insert the tip of the nozzle into 1 nostril</content> until your fingers, on either side of the nozzle, are against the bottom of the nose.</td></tr><tr><td><paragraph><renderMultiMedia referencedObject=\"MM14\"/></paragraph></td><td><content styleCode=\"bold\">Step 4: </content></td><td><content styleCode=\"bold\">Press the bottom of the plunger firmly</content> with your thumb to give VALTOCO.  The person does not need to breathe deeply when VALTOCO is given. <content styleCode=\"bold\">Remove the nasal spray device from the nose after giving VALTOCO.</content></td></tr><tr><td><paragraph><renderMultiMedia referencedObject=\"MM15\"/></paragraph></td><td><content styleCode=\"bold\">Step 5: </content></td><td><content styleCode=\"bold\">You have not given the full dose of VALTOCO yet.  Remove the second nasal spray device from the blister pack.  Repeat Steps 2 through 4, using the second nasal spray device in the other nostril to give the full dose of VALTOCO.</content></td></tr></tbody></table>"
+  ],
+  "set_id": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+  "id": "6642d0cb-3186-4b4c-8a67-c3f92081fbd0",
+  "effective_time": "20260603",
+  "version": "15"
+ }
+}

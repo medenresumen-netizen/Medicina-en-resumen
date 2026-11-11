@@ -1,0 +1,746 @@
+{
+ "id_es": "acido-tranexamico",
+ "generic_en": "tranexamic acid",
+ "search": "openfda.generic_name.exact:\"TRANEXAMIC ACID\"",
+ "downloaded": "2026-11-11T06:41Z",
+ "chosen": {
+  "set_id": "6e89a7d9-4da4-42aa-b7f8-c602c24eefe5",
+  "id": "9776ef50-2235-40ba-9245-de06f7b4d019",
+  "effective_time": "20250903",
+  "version": "34",
+  "brand_name": [
+   "Cyklokapron"
+  ],
+  "generic_name": [
+   "TRANEXAMIC ACID"
+  ],
+  "manufacturer_name": [
+   "Pfizer Laboratories Div Pfizer Inc"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA019281"
+  ],
+  "n_sections": 32
+ },
+ "candidates": [
+  {
+   "set_id": "40e3e10f-a787-42f2-a2c0-0ce2cb1ab916",
+   "id": "b8613d4e-453f-4f45-82c8-50803881383b",
+   "effective_time": "20261031",
+   "version": "1",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Viona Pharmaceuticals Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA221213"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "ed552a1b-07c0-4379-92f6-fc99cca5bec9",
+   "id": "51633175-a071-4fe7-bb98-e4743cf19d10",
+   "effective_time": "20261031",
+   "version": "1",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA221213"
+   ],
+   "n_sections": 5
+  },
+  {
+   "set_id": "28ccedba-99cd-49f3-a782-798df5258524",
+   "id": "b793da40-1fa0-4f9e-8d02-193b59bcab3e",
+   "effective_time": "20261021",
+   "version": "22",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Heritage Pharmaceuticals Labs Inc. d/b/a Avet Pharmaceuticals Labs Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203521"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "faa7c6bc-d7b9-48d5-9446-542a6a376db8",
+   "id": "11496f2a-c52d-4fb1-a1fd-fc471e5230ae",
+   "effective_time": "20261021",
+   "version": "3",
+   "brand_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Northstar Rx LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203521"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "a93d6ef3-e160-db0d-142f-9b91af8d8428",
+   "id": "06a2dd93-e508-6224-b535-28763ff1ba39",
+   "effective_time": "20261016",
+   "version": "13",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209860"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "246a3c6c-a7fb-45c7-9509-49a48a5bdcc6",
+   "id": "5ce6401a-e925-457c-9437-cd8f08049509",
+   "effective_time": "20261015",
+   "version": "11",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205035"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "5d570f08-eea8-71cf-e063-6294a90a5b46",
+   "id": "5d570f08-eea9-71cf-e063-6294a90a5b46",
+   "effective_time": "20261008",
+   "version": "1",
+   "brand_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207239"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "4f42a81c-37e3-4b57-8e9a-d42c55bbfc52",
+   "id": "dd23f519-47df-4b31-8417-7c791c6568e4",
+   "effective_time": "20261007",
+   "version": "4",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202436"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "31462875-4941-4d50-bf0c-9675493731f3",
+   "id": "774f8480-57d6-4085-a0b8-636d3b79c8c4",
+   "effective_time": "20261005",
+   "version": "10",
+   "brand_name": [
+    "Tranexamic acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207239"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "0277db2d-7c81-4cd0-ac19-fa12b5721428",
+   "id": "07b867c8-568e-4556-86c9-2e86050c7b1b",
+   "effective_time": "20260928",
+   "version": "2",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207239"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "80465b90-3f92-4e35-b2ba-69871bbd4a7f",
+   "id": "55179514-3cff-499c-b7b2-fa7a936c360f",
+   "effective_time": "20260928",
+   "version": "2",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218599"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "b28a18a4-391d-48ab-8fa5-6391f15553f3",
+   "id": "25bf623a-fd01-443a-8504-3a4950b916b5",
+   "effective_time": "20260928",
+   "version": "2",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207239"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "fb2fcae9-6aa0-4708-b250-b0e40beb147e",
+   "id": "5a3881b8-ac8b-a1c5-e063-6294a90a6041",
+   "effective_time": "20260829",
+   "version": "2",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Milla Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212676"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "9d97790f-048b-494d-aa22-5689643a724b",
+   "id": "5a0894a7-5614-b221-e063-6394a90a4643",
+   "effective_time": "20260827",
+   "version": "3",
+   "brand_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212360"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "ee5aeb09-40fb-40f9-b655-97c50652a05e",
+   "id": "56149e6b-32d1-4806-e063-6294a90aff3c",
+   "effective_time": "20260708",
+   "version": "14",
+   "brand_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206713"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "2c48c13a-5e7d-43ef-81a3-27d3bcda0f80",
+   "id": "5569a8fa-e383-ff40-e063-6394a90a456d",
+   "effective_time": "20260629",
+   "version": "3",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "i3 Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219702"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "4877eacd-fda7-4708-93a5-81052c1d2e14",
+   "id": "4877eacd-fda7-4708-93a5-81052c1d2e14",
+   "effective_time": "20260513",
+   "version": "1",
+   "brand_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205133"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "d5f55a98-aeb8-47e1-9154-87ba70222027",
+   "id": "c4a0942b-be2c-47ce-a7fc-e031804afb79",
+   "effective_time": "20260410",
+   "version": "13",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Heritage Pharmaceuticals Labs Inc. d/b/a Avet Pharmaceuticals Labs Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203521"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "cbc6f5b3-927e-4a94-8836-dbcd47ef97a8",
+   "id": "4c258bec-ab80-cb54-e063-6394a90a1893",
+   "effective_time": "20260303",
+   "version": "3",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203256"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "e8cdb0d6-9498-2902-e053-2995a90a9de4",
+   "id": "48364f64-73b3-8c92-e063-6294a90a8b46",
+   "effective_time": "20260112",
+   "version": "3",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022430"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "0a843fa7-1266-4666-b23f-22fd313d24a1",
+   "id": "47c8db95-c7ce-fe8c-e063-6294a90a4317",
+   "effective_time": "20260107",
+   "version": "5",
+   "brand_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "ADVAGEN PHARMA LIMITED"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218320"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "a4d95a17-9745-4780-b4dc-8683df8ca5bd",
+   "id": "62102538-0c79-4742-b5a0-efadb3c826c0",
+   "effective_time": "20251114",
+   "version": "14",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208840"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "1553f7eb-d5a8-4274-9762-5bcc5ffcf809",
+   "id": "41c0f4cf-abe1-fec5-e063-6294a90a9b91",
+   "effective_time": "20251106",
+   "version": "10",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "XGen Pharmaceuticals DJB, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA201580"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "031bf7c2-3b07-469d-bc5a-31fc6238e25f",
+   "id": "7bafece1-f0b8-4852-92ca-fe2bf261be04",
+   "effective_time": "20250929",
+   "version": "7",
+   "brand_name": [
+    "Tranexamic Acid"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Nordic Pharma, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022430"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "5b0c13fe-2c8e-4ac8-8bda-140881bd0cc4",
+   "id": "c616ecfa-42f7-49a2-898f-5aee4405c607",
+   "effective_time": "20250924",
+   "version": "1",
+   "brand_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "generic_name": [
+    "TRANEXAMIC ACID"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218320"
+   ],
+   "n_sections": 25
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Boxed Warning 08/2025 Dosage and Administration ( 2 ) 08/2025 Contraindication ( 4 ) 08/2025 Warnings and Precautions ( 5 ) 08/2025"
+  ],
+  "recent_major_changes_table": [
+   "<table styleCode=\"Noautorules\" width=\"100%\"><col width=\"91%\"/><col width=\"9%\"/><tbody><tr><td valign=\"top\"><paragraph>Boxed Warning</paragraph></td><td align=\"right\" valign=\"top\"><paragraph>08/2025</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Dosage and Administration (<linkHtml href=\"#S2\">2</linkHtml>)</paragraph></td><td align=\"right\" valign=\"top\"><paragraph>08/2025</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Contraindication (<linkHtml href=\"#S4\">4</linkHtml>)</paragraph></td><td align=\"right\" valign=\"top\"><paragraph>08/2025</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Warnings and Precautions (<linkHtml href=\"#S5\">5</linkHtml>)</paragraph></td><td align=\"right\" valign=\"top\"><paragraph>08/2025</paragraph></td></tr></tbody></table>"
+  ],
+  "boxed_warning": [
+   "WARNING: RISK OF MEDICATION ERRORS DUE TO INCORRECT ROUTE OF ADMINISTRATION CYKLOKAPRON is for intravenous use only. Serious, including fatal, adverse reactions including seizures and cardiac arrythmias have occurred when CYKLOKAPRON was inadvertently administered via the neuraxial route [see Warnings and Precautions (5.1) ]. WARNING: RISK OF MEDICATION ERRORS DUE TO INCORRECT ROUTE OF ADMINISTRATION See full prescribing information for complete boxed warning. CYKLOKAPRON is for intravenous use only. Serious, including fatal, adverse reactions including seizures and cardiac arrythmias have occurred when CYKLOKAPRON was inadvertently administered intrathecally via the neuraxial route. ( 5.1 )"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE CYKLOKAPRON ® is indicated in patients with hemophilia for short-term use (2 to 8 days) to reduce or prevent hemorrhage and reduce the need for replacement therapy during and following tooth extraction. CYKLOKAPRON is an antifibrinolytic indicated in patients with hemophilia for short-term use (2 to 8 days) to reduce or prevent hemorrhage and reduce the need for replacement therapy during and following tooth extraction. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • Before Extraction: Administer 10 mg/kg actual body weight of CYKLOKAPRON intravenously with replacement therapy as a single‑dose. ( 2.1 ) • After Extraction: Administer 10 mg/kg actual body weight of CYKLOKAPRON intravenously 3 to 4 times daily for 2 to 8 days. ( 2.1 ) • Infuse undiluted solution no more than 1 mL/minute to avoid hypotension. ( 2.3 ) • Reduce the dosage for patients with renal impairment. ( 2.2 , 8.6 ) 2.1 Recommended Dosage The recommended dose of CYKLOKAPRON is 10 mg/kg actual body weight administered as a single intravenous dose immediately before tooth extractions . Following tooth extraction, CYKLOKAPRON may be administered at a dose of 10 mg/kg actual body weight intravenously 3 to 4 times daily for 2 to 8 days . 2.2 Recommended Dosage for Patients With Varying Degrees of Renal Impairment For patients with moderate to severe impaired renal function, the following dosages are recommended: Table 1. Recommended Dosage in Patients With Varying Degrees of Renal Impairment Dose reduction is recommended for all doses, both before and after tooth extraction. Serum Creatinine (mg/dL) CYKLOKAPRON Dosage 1.36 mg/dL to 2.83 mg/dL 10 mg/kg intravenously twice daily 2.83 mg/dL to 5.66 mg/dL 10 mg/kg intravenously daily >5.66 mg/dL 10 mg/kg intravenously every 48 hours or 5 mg/kg intravenously every 24 hours 2.3 Preparation and Administration CYKLOKAPRON is for intravenous administration only. CYKLOKAPRON can be administered undiluted or as a diluted solution. • Use aseptic technique to prepare CYKLOKAPRON. • Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. CYKLOKAPRON is a clear and colorless solution. Discard the vial if particulate matter is observed. • Calculate the dose (mg) based on the patient’s actual body weight and the total volume (mL) of CYKLOKAPRON solution required. If diluting CYKLOKAPRON , follow the instructions below: • From the diluent infusion bag, withdraw a volume equal to the volume of the CYKLOKAPRON solution required for the patient’s dose. • Withdraw the required volume of CYKLOKAPRON solution from the vial and dilute with a compatible diluent (see below) to make a final concentration of 10 mg/mL or 20 mg/mL. Discard any unused portion left in the vial. o For intravenous infusion, CYKLOKAPRON Injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions, and Dextran solutions. o Heparin may be added to CYKLOKAPRON Injection. o CYKLOKAPRON Injection should NOT be mixed with blood. o The drug is a synthetic amino acid and should NOT be mixed with solutions containing penicillin. • Gently invert the infusion bag to mix the diluted solution. DO NOT SHAKE. • If not used immediately, store the diluted CYKLOKAPRON infusion solution at room temperature 20ºC to 25°C (68ºF to 77°F) for up to 4 hours. Administration Infuse undiluted solution no more than 1 mL/minute to avoid hypotension [see Adverse Reactions (6.2) ]. Administer the undiluted and diluted solutions intravenously according to Table 2. Table 2. Administration Rates for Undiluted and Diluted Solutions Undiluted solution Diluted solution Final concentration 100 mg/mL 10 mg/mL 20 mg/mL Administration rate 0.5 mL/minute (no more than 1 mL/minute) 5 mL/minute 2.5 mL/minute"
+  ],
+  "dosage_and_administration_table": [
+   "<table ID=\"_RefID0EEIAC\" styleCode=\"Noautorules\" width=\"75%\"><caption>Table 1. Recommended Dosage in Patients With Varying Degrees of Renal Impairment<footnote ID=\"_Ref207270617\">Dose reduction is recommended for all doses, both before and after tooth extraction.</footnote></caption><col width=\"41%\"/><col width=\"43%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Serum Creatinine (mg/dL)</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">CYKLOKAPRON Dosage</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>1.36 mg/dL to 2.83 mg/dL</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>10 mg/kg intravenously twice daily</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>2.83 mg/dL to 5.66 mg/dL</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>10 mg/kg intravenously daily</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>&gt;5.66 mg/dL</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>10 mg/kg intravenously every 48 hours or 5 mg/kg intravenously every 24 hours</paragraph></td></tr></tbody></table>",
+   "<table styleCode=\"Noautorules\" width=\"85%\"><caption>Table 2. Administration Rates for Undiluted and Diluted Solutions</caption><col width=\"25%\"/><col width=\"24%\"/><col width=\"24%\"/><col width=\"24%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"/><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Undiluted solution</content></paragraph></td><td align=\"center\" colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Diluted solution</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Final concentration</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>100 mg/mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>10 mg/mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>20 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>Administration rate</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>0.5 mL/minute (no more than 1 mL/minute)</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>5 mL/minute</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>2.5 mL/minute</paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection: 1,000 mg/10 mL (100 mg/mL) clear and colorless solution in single-dose ampules Injection: 1,000 mg/10 mL (100 mg/mL) clear and colorless solution in single-dose vials • Injection: 1,000 mg/10 mL (100 mg/mL) in single-dose ampules ( 3 ) • Injection: 1,000 mg/10 mL (100 mg/mL) in single-dose vials ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS CYKLOKAPRON Injection is contraindicated: • As a neuraxial (i.e., intrathecal, epidural) injection [see Warnings and Precautions (5.1) ] . • In patients with subarachnoid hemorrhage. Anecdotal experience indicates that cerebral edema and cerebral infarction may be caused by CYKLOKAPRON in such patients. • In patients with active intravascular clotting [see Warnings and Precautions (5.2) ] . • In patients with hypersensitivity to tranexamic acid or any of the ingredients [see Warnings and Precautions (5.4) ] . • As a neuraxial (i.e., intrathecal, epidural) injection. ( 4 ) • In patients with subarachnoid hemorrhage, due to risk of cerebral edema and cerebral infarction. ( 4 ) • In patients with active intravascular clotting. ( 4 ) • In patients with severe hypersensitivity reactions to tranexamic acid or any of the ingredients. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Risk of Thrombosis with Concomitant Use of Factor IX: Avoid concomitant use. ( 5.2 ) • Seizures: Inadvertent injection into neuraxial system may result in seizures. ( 5.3 ) • Hypersensitivity Reactions: In case of severe reaction, discontinue use and seek immediate medical attention. ( 5.4 ) • Visual Disturbances: Visual or ocular adverse effects may occur. Discontinue use if visual or ocular symptoms occur. ( 5.5 ) • Dizziness: Advise patients not to drive if dizziness occurs. ( 5.6 ) 5.1 Risk of Medication Errors Due to Incorrect Route of Administration CYKLOKAPRON is for intravenous use only. Serious , including fatal , adverse reactions including seizures and cardiac arrythmias have occurred when CYKLOKAPRON was inadvertently administered via the neuraxial route . Confirm the correct route of administration for CYKLOKAPRON and avoid confusion with other injectable solutions that might be administered at the same time as CYKLOKAPRON. Clearly label syringes containing CYKLOKAPRON with the intravenous route of administration. 5.2 Thromboembolic Risk CYKLOKAPRON is contraindicated in patients with active intravascular clotting. Tranexamic acid is an antifibrinolytic and may increase the risk of thromboembolic events. Venous and arterial thrombosis or thromboembolism has been reported in patients treated with CYKLOKAPRON. Avoid concomitant use of CYKLOKAPRON and medical products that are pro-thrombotic, as the risk of thrombosis may be increased. These medications include but are not limited to, Factor IX Complex concentrates, Anti-inhibitor Coagulant concentrates, and hormonal contraceptives [see Drug Interactions (7.1) , Use in Specific Populations (8.3) ] . 5.3 Seizures CYKLOKAPRON may cause seizures, including focal and generalized seizures. The most common setting for tranexamic acid-induced seizures has been during cardiovascular surgery (a setting in which CYKLOKAPRON is not FDA‑approved and which uses doses of up to 10‑fold higher than the recommended human dose and in patients inadvertently given tranexamic acid via the neuraxial route ). CYKLOKAPRON is contraindicated for neuraxial administration (i.e., epidural, intrathecal) . Consider dose reduction during surgery and dose adjustments for patients with clinical conditions such as renal dysfunction. Closely monitor the patient during surgery. Consider electroencephalogram (EEG) monitoring for patients with history of seizures or who experience myoclonic movements, twitching, or show evidence of focal seizures. Discontinue CYKLOKAPRON if seizures occur. 5.4 Hypersensitivity Reactions Cases of hypersensitivity reactions, including anaphylactic reactions, have occurred with use of intravenous tranexamic acid. Discontinue treatment with CYKLOKAPRON if serious reaction occurs, provide appropriate medical management, and do not restart treatment. CYKLOKAPRON is contraindicated in patients with a history of hypersensitivity to tranexamic acid. 5.5 Visual Disturbances Although not seen in humans, focal areas of retinal degeneration have been observed in cats and dogs following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (1.6 to 22 times the recommended usual human dose based on body surface area) from 6 days to 1 year. No retinal changes have been observed in eye examinations of patients treated with tranexamic acid for up to 8 years. Patients expected to be treated for greater than 3 months may consider ophthalmic monitoring including visual acuity and optical coherence tomography at regular intervals. Discontinue CYKLOKAPRON if changes in ophthalmological examination occurs. 5.6 Dizziness CYKLOKAPRON may cause dizziness. Concomitant use of other drugs that may also cause dizziness may worsen this effect. Advise patients to avoid driving or using machines until they know how CYKLOKAPRON affects them."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: • Risk of Medication Errors Due to Incorrect Route of Administration [see Warnings and Precautions (5.1) ] • Thromboembolic Risk [see Warnings and Precautions (5.2) ] • Seizures [see Warnings and Precautions (5.3) ] • Hypersensitivity Reactions [see Warnings and Precautions (5.4) ] • Visual Disturbances [see Warnings and Precautions (5.5) ] • Dizziness [see Warnings and Precautions (5.6) ] Most common adverse reactions are nausea, vomiting, diarrhea, allergic dermatitis, giddiness, hypotension, and thromboembolic events. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.2 Postmarketing Experience The following adverse reactions have been identified during postapproval use of tranexamic acid. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Gastrointestinal disturbances (nausea, vomiting, diarrhea) may occur and may resolve with dose-reduction. Allergic dermatitis and giddiness have been reported. Hypotension has been reported when intravenous injection is too rapid. Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery, vein obstruction and cases associated with concomitant use of combination hormonal contraceptives) have been rarely reported in patients receiving tranexamic acid for indications other than hemorrhage prevention in patients with hemophilia. Convulsion, chromatopsia, and visual impairment have also been reported. Anaphylaxis or anaphylactoid reactions have been reported that are suggestive of a causal relationship."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Prothrombotic Medical Products: Avoid concomitant use, can further increase the risk of thromboembolic adverse reactions associated with tranexamic acid. ( 5.2 , 7.1 , 8.3 ) 7.1 Prothrombotic Medical Products Avoid concomitant use of CYKLOKAPRON with medical products that are prothrombotic because concomitant use can further increase the risk of thromboembolic adverse reactions associated with tranexamic acid [see Warnings and Precautions (5.2) , Use in Specific Populations (8.3) ] ."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from published studies, case series and case reports with tranexamic acid use in pregnant women in the second and third trimester and at the time of delivery have not clarified whether there is a drug-associated risk of miscarriage or adverse maternal or fetal outcomes. There are 2 (0.02%) infant cases with structural abnormalities that resulted in death when tranexamic acid was used during conception or the first trimester of pregnancy; however, due to other confounding factors the risk of major birth defects with use of tranexamic acid during pregnancy is not clear. Tranexamic acid is known to pass the placenta and appears in cord blood at concentrations approximately equal to maternal concentration (see Data ) . Reproduction studies performed in mice, rats, and rabbits have not revealed any adverse effects on the fetus due to tranexamic acid administered during organogenesis. Doses examined were multiples of up to 3 times (mouse), 6 times (rat), and 3 times (rabbit) the maximum human dose based on body surface area in the mouse, rat, and rabbit, respectively (see Data ) . The estimated background risk for major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2–4% and 15–20%, respectively. It is not known whether tranexamic acid use in pregnant women may cause a drug-associated risk of miscarriage or adverse maternal or fetal outcomes. For decisions regarding the use of CYKLOKAPRON during pregnancy, the potential risk of CYKLOKAPRON administration on the fetus should always be considered along with the mother's clinical need for CYKLOKAPRON; an accurate risk-benefit evaluation should drive the treating physician's decision. Data Human Data Tranexamic acid passes through the placenta. The concentration in cord blood after an intravenous injection of 10 mg/kg to pregnant women is about 30 mg/L, as high as in the maternal blood. There were 13 clinical studies that described fetal and/or neonatal functional issues such as low Apgar score, neonatal sepsis, cephalohematoma and 9 clinical studies that discussed alterations to growth including low birth weight and preterm birth at 22–36 weeks of gestation in fetuses and infants exposed to tranexamic acid in-utero. Animal Data In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation Day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg. There was no evidence of adverse developmental outcomes in mice and rats at multiple of 3 and 6 times the maximum recommended human dose based on body surface area in the mouse and rat, respectively. In rabbits, tranexamic acid was administered intravenously at doses of 50, 100, or 200 mg/kg/day or orally at doses of 100, 200, or 400 mg/kg/day from GD 6 through GD 18. There was no evidence of adverse developmental outcomes at dose multiples of 2 or 3 times, respectively, the maximum recommended human dose based on body surface area. Intravenous doses of 200 mg/kg/day showed slightly retarded weight gain in pregnant rabbits. 8.2 Lactation Risk Summary Published literature reports the presence of tranexamic acid in human milk. There are no data on the effects of tranexamic acid on the breastfed child or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CYKLOKAPRON and any potential adverse effects on the breastfed child from CYKLOKAPRON or from the underlying maternal condition. 8.3 Females and Males of Reproductive Potential Contraception Concomitant use of CYKLOKAPRON, which is an antifibrinolytic, with hormonal contraceptives may increase the risk for thromboembolic adverse reactions. Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.2) , Drug Interactions (7.1) ] . 8.4 Pediatric Use There are limited data concerning the use of CYKLOKAPRON in pediatric patients with hemophilia who are undergoing tooth extraction. The limited data suggest that there are no significant pharmacokinetic differences between adults and pediatric patients. 8.5 Geriatric Use Clinical studies of CYKLOKAPRON did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.2) , Clinical Pharmacology (12.3) ] . 8.6 Renal Impairment Reduce the dosage of CYKLOKAPRON in patients with renal impairment, based on the patient's serum creatinine [see Dosage and Administration (2.2) , Clinical Pharmacology (12.3) ] ."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data from published studies, case series and case reports with tranexamic acid use in pregnant women in the second and third trimester and at the time of delivery have not clarified whether there is a drug-associated risk of miscarriage or adverse maternal or fetal outcomes. There are 2 (0.02%) infant cases with structural abnormalities that resulted in death when tranexamic acid was used during conception or the first trimester of pregnancy; however, due to other confounding factors the risk of major birth defects with use of tranexamic acid during pregnancy is not clear. Tranexamic acid is known to pass the placenta and appears in cord blood at concentrations approximately equal to maternal concentration (see Data ) . Reproduction studies performed in mice, rats, and rabbits have not revealed any adverse effects on the fetus due to tranexamic acid administered during organogenesis. Doses examined were multiples of up to 3 times (mouse), 6 times (rat), and 3 times (rabbit) the maximum human dose based on body surface area in the mouse, rat, and rabbit, respectively (see Data ) . The estimated background risk for major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2–4% and 15–20%, respectively. It is not known whether tranexamic acid use in pregnant women may cause a drug-associated risk of miscarriage or adverse maternal or fetal outcomes. For decisions regarding the use of CYKLOKAPRON during pregnancy, the potential risk of CYKLOKAPRON administration on the fetus should always be considered along with the mother's clinical need for CYKLOKAPRON; an accurate risk-benefit evaluation should drive the treating physician's decision. Data Human Data Tranexamic acid passes through the placenta. The concentration in cord blood after an intravenous injection of 10 mg/kg to pregnant women is about 30 mg/L, as high as in the maternal blood. There were 13 clinical studies that described fetal and/or neonatal functional issues such as low Apgar score, neonatal sepsis, cephalohematoma and 9 clinical studies that discussed alterations to growth including low birth weight and preterm birth at 22–36 weeks of gestation in fetuses and infants exposed to tranexamic acid in-utero. Animal Data In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation Day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg. There was no evidence of adverse developmental outcomes in mice and rats at multiple of 3 and 6 times the maximum recommended human dose based on body surface area in the mouse and rat, respectively. In rabbits, tranexamic acid was administered intravenously at doses of 50, 100, or 200 mg/kg/day or orally at doses of 100, 200, or 400 mg/kg/day from GD 6 through GD 18. There was no evidence of adverse developmental outcomes at dose multiples of 2 or 3 times, respectively, the maximum recommended human dose based on body surface area. Intravenous doses of 200 mg/kg/day showed slightly retarded weight gain in pregnant rabbits."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use There are limited data concerning the use of CYKLOKAPRON in pediatric patients with hemophilia who are undergoing tooth extraction. The limited data suggest that there are no significant pharmacokinetic differences between adults and pediatric patients."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of CYKLOKAPRON did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.2) , Clinical Pharmacology (12.3) ] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Cases of overdosage of CYKLOKAPRON have been reported. Based on these reports, symptoms of overdosage may be gastrointestinal, e.g., nausea, vomiting, diarrhea; hypotensive, e.g., orthostatic symptoms; thromboembolic, e.g., arterial, venous, embolic; neurologic, e.g., visual impairment, convulsions, headache, mental status changes; myoclonus; and rash."
+  ],
+  "description": [
+   "11 DESCRIPTION Tranexamic acid is trans-4-(aminomethyl)cyclohexanecarboxylic acid, an antifibrinolytic agent. Tranexamic acid is a white crystalline powder. The structural formula is Empirical Formula: C 8 H 15 NO 2 Molecular Weight: 157.2 Each mL of the sterile solution for intravenous injection contains 100 mg tranexamic acid and Water for Injection to 1 mL. The aqueous solution for injection has a pH of 6.5 to 8.0. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes the dissolution of hemostatic fibrin by plasmin. In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure. The antifibrinolytic effects of tranexamic acid are mediated by reversible interactions at multiple binding sites within plasminogen. Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 μmol/L) and 1 with high affinity (Kd = 1.1 μmol/L). The high affinity lysine site of plasminogen is involved in its binding to fibrin. Saturation of the high affinity binding site with tranexamic acid displaces plasminogen from the surface of fibrin. Although plasmin may be formed by conformational changes in plasminogen, binding to and dissolution of the fibrin matrix is inhibited. 12.2 Pharmacodynamics Tranexamic acid, in concentrations of 1 mg/mL and 10 mg/mL prolongs the thrombin time. An antifibrinolytic concentration of tranexamic acid remains in different tissues for about 17 hours, and in the serum, up to 7 or 8 hours. Tranexamic acid in concentrations up to 10 mg/mL blood has no influence on the platelet count, the coagulation time or various coagulation factors in whole blood or citrated blood from healthy subjects. 12.3 Pharmacokinetics Distribution The initial volume of distribution is about 9 to 12 liters. The plasma protein binding of tranexamic acid is about 3% at therapeutic plasma levels and seems to be fully accounted for by its binding to plasminogen. Tranexamic acid does not bind to serum albumin. Elimination After an intravenous dose of 1 g, the plasma concentration time curve shows a triexponential decay with a half-life of about 2 hours for the terminal elimination phase. Excretion Urinary excretion is the main route of elimination via glomerular filtration. Overall renal clearance is equal to overall plasma clearance (110 to 116 mL/min), and more than 95% of the dose is excreted in the urine as unchanged drug. Excretion of tranexamic acid is about 90% at 24 hours after intravenous administration of 10 mg/kg body weight. Specific Populations Patients with Renal Impairment The blood levels of tranexamic acid are increased in patients with renal insufficiency. Urinary excretion following a single intravenous injection of tranexamic acid declines as renal function decreases. Following a single 10 mg/kg intravenous injection of tranexamic acid, the 24-hour urinary fractions of tranexamic acid with serum creatinine concentrations 1.4 – 2.8, 2.8 – 5.7, and greater than 5.7 mg/dL were 51, 39, and 19%, respectively. The 24-hour tranexamic acid plasma concentrations for these patients demonstrated a direct relationship to the degree of renal impairment. Therefore, dose adjustment is needed in patients with renal impairment [see Dosage and Administration (2.2) , Use in Specific Populations (8.6) ] . Drug Interaction Studies No studies of interactions between CYKLOKAPRON and other drugs have been conducted."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes the dissolution of hemostatic fibrin by plasmin. In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure. The antifibrinolytic effects of tranexamic acid are mediated by reversible interactions at multiple binding sites within plasminogen. Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 μmol/L) and 1 with high affinity (Kd = 1.1 μmol/L). The high affinity lysine site of plasminogen is involved in its binding to fibrin. Saturation of the high affinity binding site with tranexamic acid displaces plasminogen from the surface of fibrin. Although plasmin may be formed by conformational changes in plasminogen, binding to and dissolution of the fibrin matrix is inhibited."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Tranexamic acid, in concentrations of 1 mg/mL and 10 mg/mL prolongs the thrombin time. An antifibrinolytic concentration of tranexamic acid remains in different tissues for about 17 hours, and in the serum, up to 7 or 8 hours. Tranexamic acid in concentrations up to 10 mg/mL blood has no influence on the platelet count, the coagulation time or various coagulation factors in whole blood or citrated blood from healthy subjects."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Distribution The initial volume of distribution is about 9 to 12 liters. The plasma protein binding of tranexamic acid is about 3% at therapeutic plasma levels and seems to be fully accounted for by its binding to plasminogen. Tranexamic acid does not bind to serum albumin. Elimination After an intravenous dose of 1 g, the plasma concentration time curve shows a triexponential decay with a half-life of about 2 hours for the terminal elimination phase. Excretion Urinary excretion is the main route of elimination via glomerular filtration. Overall renal clearance is equal to overall plasma clearance (110 to 116 mL/min), and more than 95% of the dose is excreted in the urine as unchanged drug. Excretion of tranexamic acid is about 90% at 24 hours after intravenous administration of 10 mg/kg body weight. Specific Populations Patients with Renal Impairment The blood levels of tranexamic acid are increased in patients with renal insufficiency. Urinary excretion following a single intravenous injection of tranexamic acid declines as renal function decreases. Following a single 10 mg/kg intravenous injection of tranexamic acid, the 24-hour urinary fractions of tranexamic acid with serum creatinine concentrations 1.4 – 2.8, 2.8 – 5.7, and greater than 5.7 mg/dL were 51, 39, and 19%, respectively. The 24-hour tranexamic acid plasma concentrations for these patients demonstrated a direct relationship to the degree of renal impairment. Therefore, dose adjustment is needed in patients with renal impairment [see Dosage and Administration (2.2) , Use in Specific Populations (8.6) ] . Drug Interaction Studies No studies of interactions between CYKLOKAPRON and other drugs have been conducted."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Tranexamic acid was not carcinogenic in a 2-year study in rats and mice at oral doses up to 3 and 5.3 g/kg/day, which are approximately 12 and 11 times the maximum recommended human dose based on body surface area, respectively. Tranexamic acid was not genotoxic in the reverse mutation bacterial (Ames) test, and in vitro and in vivo cytogenetic test. In a fertility and early embryonic development study, tranexamic acid was administered to male rats as 0.3% and 1% of drug in diet (average doses of 222 and 856 mg/kg/day) or to female rats at dose levels of 0.3% and 1.2% of drug in diet. Tranexamic acid had no effect on fertility or reproductive function of male or female rats at dose multiples of 4 or 5 times the maximum recommended human dose based on body surface area, respectively. 13.2 Animal Toxicology and/or Pharmacology Nonclinical studies have shown a retinal toxicity associated with tranexamic acid. Toxicity is characterized by retinal atrophy commencing with changes to the retinal pigmented epithelium and progressing to retinal detachment in cats. The toxicity appears to be dose related, and changes are partially reversible at lower doses. Effects were observed in dogs at oral doses of 800 mg/kg/day and higher (multiple of 11 times the maximum human dose based on body surface area), and in cats at 250 mg/kg/day for 14 days (multiple of 1.6 times the maximum human dose based on body surface area). Some fully reversible changes in pigmentation were observed in cats at doses of 125 mg/kg/day (multiple of 0.8 times the maximum human dose based on body surface area). Studies suggest that the underlying mechanism may be related to a transient retinal ischemia at high exposures, linked to the known sympathomimetic effect of high plasma exposures of tranexamic acid."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Tranexamic acid was not carcinogenic in a 2-year study in rats and mice at oral doses up to 3 and 5.3 g/kg/day, which are approximately 12 and 11 times the maximum recommended human dose based on body surface area, respectively. Tranexamic acid was not genotoxic in the reverse mutation bacterial (Ames) test, and in vitro and in vivo cytogenetic test. In a fertility and early embryonic development study, tranexamic acid was administered to male rats as 0.3% and 1% of drug in diet (average doses of 222 and 856 mg/kg/day) or to female rats at dose levels of 0.3% and 1.2% of drug in diet. Tranexamic acid had no effect on fertility or reproductive function of male or female rats at dose multiples of 4 or 5 times the maximum recommended human dose based on body surface area, respectively."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology Nonclinical studies have shown a retinal toxicity associated with tranexamic acid. Toxicity is characterized by retinal atrophy commencing with changes to the retinal pigmented epithelium and progressing to retinal detachment in cats. The toxicity appears to be dose related, and changes are partially reversible at lower doses. Effects were observed in dogs at oral doses of 800 mg/kg/day and higher (multiple of 11 times the maximum human dose based on body surface area), and in cats at 250 mg/kg/day for 14 days (multiple of 1.6 times the maximum human dose based on body surface area). Some fully reversible changes in pigmentation were observed in cats at doses of 125 mg/kg/day (multiple of 0.8 times the maximum human dose based on body surface area). Studies suggest that the underlying mechanism may be related to a transient retinal ischemia at high exposures, linked to the known sympathomimetic effect of high plasma exposures of tranexamic acid."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING CYKLOKAPRON Injection is a clear and colorless solution supplied in the following presentations: CYKLOKAPRON Injection 1,000 mg/10 mL (100 mg/mL) NDC 0013-1114-10 10 × 10 mL single-dose ampules NDC 0013-1114-15 1 × 10 mL single-dose ampule CYKLOKAPRON Injection 1,000 mg/10 mL (100 mg/mL) NDC 0013-1114-21 10 × 10 mL single-dose vials Store at 20ºC to 25°C (68ºF to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]."
+  ],
+  "how_supplied_table": [
+   "<table styleCode=\"Noautorules\" width=\"85%\"><col width=\"48%\"/><col width=\"48%\"/><tbody><tr><td colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>CYKLOKAPRON Injection 1,000 mg/10 mL (100 mg/mL)</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph> NDC 0013-1114-10</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>10 &#xD7; 10 mL single-dose ampules</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph> NDC 0013-1114-15</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1 &#xD7; 10 mL single-dose ampule</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>CYKLOKAPRON Injection 1,000 mg/10 mL (100 mg/mL)</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> NDC 0013-1114-21</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>10 &#xD7; 10 mL single-dose vials</paragraph></td></tr></tbody></table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Thromboembolic Risk Inform patients that CYKLOKAPRON may increase the risk of venous and arterial thrombosis or thromboembolism and to contact their healthcare provider for any signs or symptoms suggestive of thromboembolism. Advise patients using hormonal contraception that combined use with CYKLOKAPRON may increase the risk for thromboembolic adverse reactions and to use effective alternative (nonhormonal) contraception during therapy with CYKLOKAPRON [see Warnings and Precautions (5.2) , Drug Interactions (7.1) , Use in Specific Populations (8.3) ] . Seizures Inform patients that CYKLOKAPRON may cause seizures and to contact their healthcare provider for any signs or symptoms suggestive of seizures [see Warnings and Precautions (5.3) ] . Hypersensitivity Reactions Inform patients that CYKLOKAPRON may cause hypersensitivity reactions and to contact their healthcare provider for any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.4) ] . Visual Disturbances Inform patients that CYKLOKAPRON can cause visual disturbance and that they should report any eye symptoms or change in their vision to their healthcare provider and to follow-up with an ophthalmologist for a complete ophthalmologic evaluation, including dilated retinal examination of the retina [see Warnings and Precautions (5.5) ] . Risk of Driving and Operating Machinery Inform patients that CYKLOKAPRON may cause dizziness, and that the patient should be cautioned about driving, operating machinery, or performing hazardous tasks while taking CYKLOKAPRON [see Warnings and Precautions (5.6) ] ."
+  ],
+  "set_id": "6e89a7d9-4da4-42aa-b7f8-c602c24eefe5",
+  "id": "9776ef50-2235-40ba-9245-de06f7b4d019",
+  "effective_time": "20250903",
+  "version": "34"
+ }
+}

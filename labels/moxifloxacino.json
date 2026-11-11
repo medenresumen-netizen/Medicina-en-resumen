@@ -1,0 +1,706 @@
+{
+ "id_es": "moxifloxacino",
+ "generic_en": "moxifloxacin",
+ "search": "openfda.generic_name.exact:\"MOXIFLOXACIN\"",
+ "downloaded": "2026-11-11T06:39Z",
+ "chosen": {
+  "set_id": "4fb55f17-d9db-8148-e063-6394a90a8216",
+  "id": "4fb56eba-b3d2-acca-e063-6394a90aba1f",
+  "effective_time": "20260418",
+  "version": "1",
+  "brand_name": [
+   "Moxifloxacin ophthalmic solution"
+  ],
+  "generic_name": [
+   "MOXIFLOXACIN"
+  ],
+  "manufacturer_name": [
+   "Redpharm Drug"
+  ],
+  "route": [
+   "OPHTHALMIC"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA217988"
+  ],
+  "n_sections": 19
+ },
+ "candidates": [
+  {
+   "set_id": "ab0c76cc-b4dd-49d1-b5c9-7af84b2ae5fa",
+   "id": "5f1f984e-cbfb-b28d-e063-6394a90ad34d",
+   "effective_time": "20261031",
+   "version": "1",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206242"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "1c6f7150-a8f4-408f-956f-c26d37030cf4",
+   "id": "5ec35d38-d421-3682-e063-6394a90a48da",
+   "effective_time": "20261026",
+   "version": "22",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076938"
+   ],
+   "n_sections": 41
+  },
+  {
+   "set_id": "5e565825-8cca-8ddd-e063-6394a90a026a",
+   "id": "5e565831-d5d6-8be6-e063-6394a90a8e7f",
+   "effective_time": "20261021",
+   "version": "1",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206242"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "8877013d-9b49-40f7-a2c4-99bb519e104e",
+   "id": "b80e0014-3336-4e4a-9bd1-79507555fc0c",
+   "effective_time": "20260918",
+   "version": "8",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206242"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "8f7a0c4c-34f4-7362-579b-f26c3338f792",
+   "id": "2ac2915b-7cf9-0e38-d244-9a69134e0954",
+   "effective_time": "20260914",
+   "version": "10",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090080"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "656f582c-ecba-4ec8-9420-9562114d889b",
+   "id": "59428a91-3a88-2e83-e063-6294a90a3cef",
+   "effective_time": "20260817",
+   "version": "1",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207285"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "f702e112-b037-4e50-ac30-b1d27fc0e30e",
+   "id": "f439cde6-0864-444b-8377-0944c56ef388",
+   "effective_time": "20260805",
+   "version": "1",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206242"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "4fb55f17-d9db-8148-e063-6394a90a8216",
+   "id": "4fb56eba-b3d2-acca-e063-6394a90aba1f",
+   "effective_time": "20260418",
+   "version": "1",
+   "brand_name": [
+    "Moxifloxacin ophthalmic solution"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217988"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "182ecd0f-714f-42f0-9b16-fb604cf15786",
+   "id": "db1f06dd-34a6-410c-ab73-acc3c57e78dd",
+   "effective_time": "20260317",
+   "version": "2",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Macleods Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209143"
+   ],
+   "n_sections": 41
+  },
+  {
+   "set_id": "301eef74-16db-14aa-e063-6294a90ac8ff",
+   "id": "4698d4e7-2e86-6fbf-e063-6294a90a0d1e",
+   "effective_time": "20251223",
+   "version": "4",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202867"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "f9dff08a-edb2-86de-e053-6394a90a1043",
+   "id": "462c4ec2-869f-68a8-e063-6394a90a62f9",
+   "effective_time": "20251217",
+   "version": "3",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090080"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "ae77e219-8af9-4aa4-96d3-05c9726a1d3c",
+   "id": "40262fef-9713-4538-b96b-c44b257d6a25",
+   "effective_time": "20251013",
+   "version": "9",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Lupin Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202867"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "d66f080b-da56-4473-8785-920d9700f72d",
+   "id": "29272b83-77cf-4cd1-9aed-b80d0cc6edb5",
+   "effective_time": "20251013",
+   "version": "7",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Lupin Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204079"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "1e6bc886-eec9-4cd8-be78-7563817457f2",
+   "id": "40b874c7-8b88-6a93-e063-6394a90ad44f",
+   "effective_time": "20251009",
+   "version": "4",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204836"
+   ],
+   "n_sections": 39
+  },
+  {
+   "set_id": "ca19b837-8e80-408f-af7b-b0464f20c0c3",
+   "id": "22d5cd84-26c0-49b0-afbf-1e9155749cf6",
+   "effective_time": "20250130",
+   "version": "4",
+   "brand_name": [
+    "Moxifloxacin ophthalmic solution"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Lifestar Pharma LLC"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217988"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d771e69b-7d9b-13fa-e053-2995a90ac161",
+   "id": "2c3d2dfe-0fff-b986-e063-6294a90a84c9",
+   "effective_time": "20250121",
+   "version": "2",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Direct Rx"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202867"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "d9b6a460-6377-76d0-e053-2995a90a3d05",
+   "id": "2c3d95a4-32d2-ef3b-e063-6294a90ac144",
+   "effective_time": "20250121",
+   "version": "2",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Direct Rx"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202916"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "f19fa89e-9f5d-4eed-e053-2995a90ac3ce",
+   "id": "2a9aa671-d0a2-2254-e063-6294a90a9f79",
+   "effective_time": "20241231",
+   "version": "3",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Advanced Rx Pharmacy of Tennessee, LLC"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090080"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "1cc031d7-0766-41c0-b5b3-35119c850e23",
+   "id": "5e65bcf7-98de-4ec2-adf9-cbb8ec0bbe68",
+   "effective_time": "20241004",
+   "version": "101",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090080"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "143075b4-24d4-08a1-e063-6394a90a8a6e",
+   "id": "14307586-424f-091a-e063-6394a90aee1f",
+   "effective_time": "20240321",
+   "version": "1",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Advanced Rx Pharmacy of Tennessee, LLC"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202867"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "c38e051f-5765-4066-9953-2d0832481b1e",
+   "id": "c38e051f-5765-4066-9953-2d0832481b1e",
+   "effective_time": "20240101",
+   "version": "1",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206242"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "d20ba997-30de-445c-8766-924112bd834a",
+   "id": "27864513-a113-4ec1-9e78-41bc762172bc",
+   "effective_time": "20231108",
+   "version": "104",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076938"
+   ],
+   "n_sections": 41
+  },
+  {
+   "set_id": "4dee7a26-25e2-4ce9-8fd2-e8c3ac6ef5ff",
+   "id": "820f6616-7ce5-4adf-8515-21efd5b02997",
+   "effective_time": "20230419",
+   "version": "5",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202867"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "cdc0b0eb-5f56-45c7-b9fd-364752a95ff1",
+   "id": "c11c970c-ffa6-4661-b515-708bae4eddd6",
+   "effective_time": "20221228",
+   "version": "2",
+   "brand_name": [
+    "MOXIFLOXACIN"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "OPHTHALMIC"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206242"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "71b02da1-3175-1db8-192a-c0a8a6cd98a5",
+   "id": "b7966736-4865-d3ad-d218-886c8a286492",
+   "effective_time": "20201229",
+   "version": "16",
+   "brand_name": [
+    "Moxifloxacin"
+   ],
+   "generic_name": [
+    "MOXIFLOXACIN"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076938"
+   ],
+   "n_sections": 41
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Moxifloxacin ophthalmic solution is indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species* Micrococcus luteus* Staphylococcus aureus Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus warneri* Streptococcus pneumoniae Streptococcus viridans group Acinetobacter lwoffii* Haemophilus influenza Haemophilus parainfluenzae* Chlamydia trachomatis *Efficacy for this organism was studied in fewer than 10 infections. Moxifloxacin ophthalmic solution is a topical fluoroquinolone anti-infective indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species*, Micrococcus luteus*, Staphylococcus aureus, Staphylococcus epidermidis , Staphylococcus haemolyticus, Staphylococcus hominis, Staphylococcus warneri*, Streptococcus pneumoniae, Streptococcus viridans group, Acinetobacter lwoffii*, Haemophilus influenzae, Haemophilus parainfluenzae*, Chlamydia trachomatis *Efficacy for this organism was studied in fewer than 10 infections. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Instill one drop in the affected eye 3 times a day for 7 days. Moxifloxacin ophthalmic solution is for topical ophthalmic use. Instill one drop in the affected eye 3 times a day for 7 days. ( 2 )"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Moxifloxacin ophthalmic solution, USP containing moxifloxacin 0.5%. Ophthalmic solution containing moxifloxacin 0.5%. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Moxifloxacin ophthalmic solution is contraindicated in patients with a history of hypersensitivity to moxifloxacin, to other quinolones, or to any of the components in this medication. . Moxifloxacin ophthalmic solution is contraindicated in patients with a history of hypersensitivity to moxifloxacin, to other quinolones, or to any of the components in this medication. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Hypersensitivity Reactions : Hypersensitivity and anaphylaxis have been reported with systemic use of moxifloxacin. ( 5.1 ) Prolonged Use : May result in overgrowth of non-susceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. ( 5.2 ) Avoid Contact Lens Wear : Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis. ( 5.3 ) 5.1 Hypersensitivity Reactions In patients receiving systemically administered quinolones, including moxifloxacin, serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported, some following the first dose. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria, and itching. If an allergic reaction to moxifloxacin occurs, discontinue use of the drug. Serious acute hypersensitivity reactions may require immediate emergency treatment. Oxygen and airway management should be administered as clinically indicated. 5.2 Growth of Resistant Organisms With Prolonged Use As with other anti-infectives, prolonged use may result in overgrowth of non-susceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and, where appropriate, fluorescein staining. 5.3 Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs or symptoms of bacterial conjunctivitis."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice. The most frequently reported ocular adverse events were conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, and tearing. These events occurred in approximately 1%-6% of patients. Nonocular adverse events reported at a rate of 1%-4% were fever, increased cough, infection, otitis media, pharyngitis, rash, and rhinitis. The most frequently reported ocular adverse events were conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, and tearing. These events occurred in approximately 1% to 6% of patients. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Lifestar Pharma LLC at 1-888-995-4337 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Drug-drug interaction studies have not been conducted with moxifloxacin ophthalmic solution. In vitro studies indicate that moxifloxacin does not inhibit CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2, indicating that moxifloxacin is unlikely to alter the pharmacokinetics of drugs metabolized by these cytochrome P450 isozymes."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary There are no adequate and well-controlled studies with moxifloxacin ophthalmic solution in pregnant women to inform any drug-associated risks. Oral administration of moxifloxacin to pregnant rats and monkeys and intravenously to pregnant rabbits during the period of organogenesis did not produce adverse maternal or fetal effects at clinically relevant doses. Oral administration of moxifloxacin to pregnant rats during late gestation through lactation did not produce adverse maternal, fetal or neonatal effects at clinically relevant doses (see Data). Data Animal Data Embryo-fetal studies were conducted in pregnant rats administered with 20, 100, or 500 mg/kg/day moxifloxacin by oral gavage on Gestation Days 6 to 17, to target the period of organogenesis. Decreased fetal body weight and delayed skeletal development were observed at 500 mg/kg/day [277 times the human area under the curve (AUC) at the recommended human ophthalmic dose]. The No-Observed-Adverse-Effect-Level (NOAEL) for developmental toxicity was 100 mg/kg/day (30 times the human AUC at the recommended human ophthalmic dose). Embryo-fetal studies were conducted in pregnant rabbits administered with 2, 6.5, or 20 mg/kg/day moxifloxacin by intravenous administration on Gestation Days 6 to 20, to target the period of organogenesis. Abortions, increased incidence of fetal malformations, delayed fetal skeletal ossification, and reduced placental and fetal body weights were observed at 20 mg/kg/day (1086 times the human AUC at the recommended human ophthalmic dose), a dose that produced maternal body weight loss and death. The NOAEL for developmental toxicity was 6.5 mg/kg/day (246 times the human AUC at the recommended human ophthalmic dose). Pregnant cynomolgus monkeys were administered moxifloxacin at doses of 10, 30, or 100 mg/kg/day by intragastric intubation between Gestation Days 20 and 50, targeting the period of organogenesis. At the maternal toxic doses of ≥ 30 mg/kg/day, increased abortion, vomiting, and diarrhea were observed. Smaller fetuses/reduced fetal body weights were observed at 100 mg/kg/day (2864 times the human AUC at the recommended human ophthalmic dose). The NOAEL for fetal toxicity was 10 mg/kg/day (174 times the human AUC at the recommended human ophthalmic dose). In a pre- and postnatal study, rats were administered moxifloxacin by oral gavage at doses of 20, 100, and 500 mg/kg/day from Gestation Day 6 until the end of lactation. Maternal death occurred during gestation at 500 mg/kg/day. Slight increases in the duration of pregnancy, reduced pup birth weight, and decreased prenatal and neonatal survival were observed at 500 mg/kg/day (estimated 277 times the human AUC at the recommended human ophthalmic dose). The NOAEL for pre- and postnatal development was 100 mg/kg/day (estimated 30 times the human AUC at the recommended human ophthalmic dose). 8.2 Lactation Risk Summary There is no data regarding the presence of moxifloxacin ophthalmic solution in human milk, the effects on the breastfed infants, or the effects on milk production/excretion to inform risk of moxifloxacin ophthalmic solution to an infant during lactation. A study in lactating rats has shown transfer of moxifloxacin into milk following oral administration. Systemic levels of moxifloxacin following topical ocular administration are low [see Clinical Pharmacology ( 12.3 )] , and it is not known whether measurable levels of moxifloxacin would be present in maternal milk following topical ocular administration. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for moxifloxacin ophthalmic solution and any potential adverse effects on the breastfed child from moxifloxacin ophthalmic solution. 8.4 Pediatric Use The safety and effectiveness of moxifloxacin ophthalmic solution have been established in all ages. Use of moxifloxacin ophthalmic solution is supported by evidence from adequate and well controlled studies of moxifloxacin ophthalmic solution in adults, children, and neonates [see Clinical Studies ( 14 )]. There is no evidence that the ophthalmic administration of moxifloxacin ophthalmic solution has any effect on weight bearing joints, even though oral administration of some quinolones has been shown to cause arthropathy in immature animals. 8.5 Geriatric Use No overall differences in safety and effectiveness have been observed between elderly and younger patients."
+  ],
+  "description": [
+   "11 DESCRIPTION Moxifloxacin ophthalmic solution, USP 0.5% is a clear, slightly yellow to greenish yellow, sterile solution for topical ophthalmic use. Moxifloxacin hydrochloride is an 8-methoxy fluoroquinolone anti-infective, with a diazabicyclononyl ring at the C7 position. The chemical name for moxifloxacin hydrochloride is 1-Cyclopropyl-6-fluoro-1,4-dihydro-8-methoxy-7-[(4aS,7aS)-octahydro-6H-pyrrolol[3,4-b]pyridin-6-yl]-4-oxo-3-quinolinecarboxylic acid, monohydrochloride. The molecular formula for moxifloxacin hydrochloride is C 21 H 24 FN 3 O 4 •HCl and its molecular weight is 437.9 g/mol. The chemical structure is presented below: Moxifloxacin hydrochloride is a slightly yellow to yellow powder or crystals. Each mL of moxifloxacin ophthalmic solution contains 5.45 mg moxifloxacin hydrochloride, equivalent to 5 mg moxifloxacin base. Moxifloxacin ophthalmic solution contains Active: Moxifloxacin 0.5% (5 mg/mL); Inactives: Boric acid, sodium chloride and water for injection. May also contain hydrochloric acid/sodium hydroxide to adjust pH to approximately 6.4 to 7.4. Moxifloxacin ophthalmic solution is an isotonic solution with an osmolality of approximately 290 mOsm/kg. structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs [see Microbiology ( 12.4 )]. 12.3 Pharmacokinetics Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of moxifloxacin ophthalmic solution 3 times a day. The mean steady-state C max (2.7 ng/mL) and AUC 0-∞ (41.9 ng●hr/mL) values were 1600 and 1100 times lower than the mean C max and AUC reported after therapeutic 400 mg doses of moxifloxacin. The plasma half-life of moxifloxacin was estimated to be 13 hours. 12.4 Microbiology The antibacterial action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV. DNA gyrase is an essential enzyme that is involved in the replication, transcription and repair of bacterial DNA. Topoisomerase IV is an enzyme known to play a key role in the partitioning of the chromosomal DNA during bacterial cell division. The mechanism of action for quinolones, including moxifloxacin, is different from that of macrolides, aminoglycosides, or tetracyclines. Therefore, moxifloxacin may be active against pathogens that are resistant to these antibiotics and these antibiotics may be active against pathogens that are resistant to moxifloxacin. There is no cross-resistance between moxifloxacin and the aforementioned classes of antibiotics. Cross-resistance has been observed between systemic moxifloxacin and some other quinolones. In vitro resistance to moxifloxacin develops via multiple-step mutations. Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10 -9 to less than 1 x 10 -11 for gram-positive bacteria. Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the Indications and Usage section: Aerobic Gram-Positive Microorganisms Corynebacterium species* Micrococcus luteus* Staphylococcus aureus Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus warneri* Streptococcus pneumoniae Streptococcus viridans group Aerobic Gram-Negative Microorganisms Acinetobacter lwoffii* Haemophilus influenza Haemophilus parainfluenzae* Other Microorganisms Chlamydia trachomatis *Efficacy for this organism was studied in fewer than 10 infections. The following in vitro data are also available, but their clinical significance in ophthalmic infections is unknown . The safety and effectiveness of moxifloxacin ophthalmic solution in treating ophthalmological infections due to these microorganisms have not been established in adequate and well-controlled trials. The following organisms are considered susceptible when evaluated using systemic breakpoints. However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established. The list of organisms is provided as guidance only in assessing the potential treatment of conjunctival infections. Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 microgram/mL or less (systemic susceptible breakpoint) against most (greater than or equal to 90%) strains of the following ocular pathogens. Aerobic Gram-Positive Microorganisms Listeria monocytogenes Staphylococcus saprophyticus Streptococcus agalactiae Streptococcus mitis Streptococcus pyogenes Streptococcus Group C, G, and F Aerobic Gram-Negative Microorganisms Acinetobacter baumannii Acinetobacter calcoaceticus Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Escherichia coli Klebsiella oxytoca Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Pseudomonas stutzeri Anaerobic Microorganisms Clostridium perfringens Fusobacterium species Prevotella species Propionibacterium acnes Other Microorganisms Chlamydia pneumoniae Legionella pneumophila Mycobacterium avium Mycobacterium marinum Mycoplasma pneumoniae"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Long-term studies in animals to determine the carcinogenic potential of moxifloxacin have not been performed. However, in an accelerated study with initiators and promoters, moxifloxacin was not carcinogenic in rats following up to 38 weeks of oral dosing at 500 mg/kg/day (3224 times the highest recommended total daily human ophthalmic dose for a 60 kg person, based on body surface area). Mutagenesis Moxifloxacin was not mutagenic in four bacterial strains used in the Ames Salmonella reversion assay. As with other quinolones, the positive response observed with moxifloxacin in strain TA 102 using the same assay may be due to the inhibition of DNA gyrase. Moxifloxacin was not mutagenic in the CHO/HGPRT mammalian cell gene mutation assay. An equivocal result was obtained in the same assay when V79 cells were used. Moxifloxacin was clastogenic in the V79 chromosome aberration assay, but it did not induce unscheduled DNA synthesis in cultured rat hepatocytes. There was no evidence of genotoxicity in vivo in a micronucleus test or a dominant lethal test in mice. Impairment of Fertility Moxifloxacin had no effect on fertility in male and female rats at oral doses as high as 500 mg/kg/day, approximately 3224 times the highest recommended total daily human ophthalmic dose, based on body surface area. At 500 mg/kg/day orally, there were slight effects on sperm morphology (head-tail separation) in male rats and on the estrous cycle in female rats."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES In two randomized, double-masked, multicenter, controlled clinical trials in which patients were dosed 3 times a day for 4 days, moxifloxacin ophthalmic solution produced clinical cures on Day 5-6 in 66% to 69% of patients treated for bacterial conjunctivitis. Microbiological success rates for the eradication of baseline pathogens ranged from 84% to 94%. In a randomized, double-masked, multicenter, parallel-group clinical trial of pediatric patients with bacterial conjunctivitis between birth and 31 days of age, patients were dosed with moxifloxacin ophthalmic solution or another anti-infective agent. Clinical outcomes for the trial demonstrated a clinical cure rate of 80% at Day 9 and a microbiological eradication success rate of 92% at Day 9. Please note that microbiologic eradication does not always correlate with clinical outcome in anti-infective trials."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Moxifloxacin ophthalmic solution, USP is supplied as a clear, slightly yellow to greenish yellow, sterile ophthalmic solution in a dispensing system consisting of a natural low density polyethylene bottle and dispensing plug and tan high density polyethylene closure. Tamper evidence is provided with a band around the neck area of the package. 3 mL in a 5 mL bottle NDC 70756-638-25 Storage: Store at 2°C to 25°C (36°F to 77°F)."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Avoid Contamination of the Product Advise patients not to touch the dropper tip to any surface to avoid contaminating the contents. Avoid Contact Lens Wear Advise patients not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis [see Warnings and Precautions ( 5.3 )] . Hypersensitivity Reactions Systemically administered quinolones including moxifloxacin have been associated with hypersensitivity reactions, even following a single dose. Instruct patients to discontinue use immediately and contact their physician at the first sign of a rash or allergic reaction [see Warnings and Precautions ( 5.1 )] . Manufactured for: Lifestar Pharma LLC 1200 MacArthur Blvd. Mahwah, NJ 07430 USA Made in India Revised: July 2023, V-03"
+  ],
+  "set_id": "4fb55f17-d9db-8148-e063-6394a90a8216",
+  "id": "4fb56eba-b3d2-acca-e063-6394a90aba1f",
+  "effective_time": "20260418",
+  "version": "1"
+ }
+}

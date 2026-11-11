@@ -1,0 +1,749 @@
+{
+ "id_es": "ipratropio",
+ "generic_en": "ipratropium bromide",
+ "search": "openfda.generic_name.exact:\"IPRATROPIUM BROMIDE\"",
+ "downloaded": "2026-11-11T06:45Z",
+ "chosen": {
+  "set_id": "170e98ef-5560-4068-be7d-e649068eb884",
+  "id": "73904f10-4e08-4277-adf6-b605468eb05e",
+  "effective_time": "20251105",
+  "version": "21",
+  "brand_name": [
+   "Atrovent HFA"
+  ],
+  "generic_name": [
+   "IPRATROPIUM BROMIDE"
+  ],
+  "manufacturer_name": [
+   "Boehringer Ingelheim Pharmaceuticals, Inc."
+  ],
+  "route": [
+   "RESPIRATORY (INHALATION)"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA021527"
+  ],
+  "n_sections": 31
+ },
+ "candidates": [
+  {
+   "set_id": "ac641027-929e-694d-80cd-bf770dc51aa6",
+   "id": "6359b73c-ecef-b751-a56c-a56f44c5b828",
+   "effective_time": "20260911",
+   "version": "11",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076156"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "ec4c8c83-0335-544c-271e-4f27c06105ac",
+   "id": "043f1b19-c4cd-2936-a91d-8ad564701e1e",
+   "effective_time": "20260911",
+   "version": "10",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076155"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "6b730dd7-4d93-403a-bfd2-fa0efa298b75",
+   "id": "6b730dd7-4d93-403a-bfd2-fa0efa298b75",
+   "effective_time": "20260724",
+   "version": "1",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075693"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "3249aea8-a395-f09f-e063-6294a90a2d8b",
+   "id": "56c00859-cb3c-8f7f-e063-6394a90aaf67",
+   "effective_time": "20260716",
+   "version": "2",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075562"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "7e8fdd92-1e55-47e2-aa85-e48cfebbb8d7",
+   "id": "568fa03b-f12a-a131-e063-6294a90a66b8",
+   "effective_time": "20260714",
+   "version": "1",
+   "brand_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217886"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "51350fab-a919-4d97-9d0c-d9dc7286244c",
+   "id": "ac469647-e581-49f4-953c-1e52ca1ff413",
+   "effective_time": "20260602",
+   "version": "5",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075693"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "52c63e41-dbbc-d9d7-e063-6294a90a30c9",
+   "id": "52c628c7-fe79-b9e4-e063-6394a90ae63a",
+   "effective_time": "20260527",
+   "version": "1",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075693"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "db8095db-d1fd-4099-9fb1-d1ad4e284976",
+   "id": "514fdd10-c27a-698c-e063-6394a90aa757",
+   "effective_time": "20260508",
+   "version": "7",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Nephron Pharmaceuticals Corporation"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075562"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "6493c00f-2306-2cb6-9624-4ea678f66576",
+   "id": "411659ee-987d-f755-47a7-eeba7c38a2c6",
+   "effective_time": "20260227",
+   "version": "5",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "NORTHSTAR RX LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076156"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "e592b6b5-038a-dbe8-457e-76e88a0f194a",
+   "id": "1ada81c7-04e0-f9ec-8995-d0aa5c19b678",
+   "effective_time": "20260227",
+   "version": "5",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "NORTHSTAR RX LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076155"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "13a45df5-a8e3-41d6-91f4-773255b5a04b",
+   "id": "411f30ae-7a2d-4797-bd16-f80a5418b7b1",
+   "effective_time": "20260108",
+   "version": "6",
+   "brand_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Lupin Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217912"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "ee0ac556-8a23-4d5c-a5da-881c1fc6a339",
+   "id": "9a5c6534-8f64-4e47-bd67-71433f331d0a",
+   "effective_time": "20260108",
+   "version": "6",
+   "brand_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Lupin Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217886"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "bb5f7711-595f-4f7c-9e89-66d029ccbccb",
+   "id": "45c7c86f-7829-b9bb-e063-6294a90a680a",
+   "effective_time": "20251212",
+   "version": "3",
+   "brand_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Ltd"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219221"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "22479633-624a-4251-ad3c-1dcba5d503fb",
+   "id": "459b984d-b299-c7c0-e063-6294a90a3efd",
+   "effective_time": "20251210",
+   "version": "17",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Ritedose Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075693"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "1e3d4faa-cf6e-460b-b1e0-fcc8094505fa",
+   "id": "44fdbe83-0583-3b33-e063-6394a90a66db",
+   "effective_time": "20251202",
+   "version": "3",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075562"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "170e98ef-5560-4068-be7d-e649068eb884",
+   "id": "73904f10-4e08-4277-adf6-b605468eb05e",
+   "effective_time": "20251105",
+   "version": "21",
+   "brand_name": [
+    "Atrovent HFA"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Boehringer Ingelheim Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021527"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "b1a5e41a-9100-41d5-a7d0-2e763ad5efb6",
+   "id": "bc46ff7c-14fd-4c47-a6e0-a87dda078099",
+   "effective_time": "20250806",
+   "version": "8",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Oceanside Pharmaceuticals"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076103"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "4874e61a-5abe-4d1d-a30f-65b3e092db26",
+   "id": "2cda021e-79e2-59d2-e063-6294a90af818",
+   "effective_time": "20250129",
+   "version": "1",
+   "brand_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Ltd"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219222"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "411ccc2c-ec30-450d-8704-b63095fd343b",
+   "id": "f8b56135-aaa3-4dc0-8f86-3f23e299ba7e",
+   "effective_time": "20250122",
+   "version": "5",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076155"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "2b9b619a-5e2a-73ef-e063-6394a90a97fe",
+   "id": "2b9b4fba-8f83-9fe1-e063-6294a90a9747",
+   "effective_time": "20250113",
+   "version": "1",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075693"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "7159cf05-da58-4eb9-9e6d-a7f24eec5f46",
+   "id": "48b0ebf7-0563-4c63-8708-87c732ef1562",
+   "effective_time": "20250108",
+   "version": "10",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075693"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "43ef9085-64e4-429a-a614-926d9a3652b7",
+   "id": "62a2d09a-885e-4b77-be25-e68d409e5db6",
+   "effective_time": "20241108",
+   "version": "101",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076598"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "8927f392-4c88-4ac1-a934-c444ecf6b2c8",
+   "id": "1a02e20d-3db7-69da-e063-6294a90aff4b",
+   "effective_time": "20240603",
+   "version": "4",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "RESPIRATORY (INHALATION)"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075693"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "3bda47b0-0326-49de-83f5-03b9ec6461f1",
+   "id": "671db709-62da-467f-bcee-d67bf6f975a1",
+   "effective_time": "20231230",
+   "version": "8",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215105"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "61820346-29d9-4864-b8f4-4a198b8ac594",
+   "id": "1c1d7d62-9ebf-49eb-9eb2-471f9ce73637",
+   "effective_time": "20231230",
+   "version": "10",
+   "brand_name": [
+    "Ipratropium Bromide"
+   ],
+   "generic_name": [
+    "IPRATROPIUM BROMIDE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215104"
+   ],
+   "n_sections": 17
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE ATROVENT HFA Inhalation Aerosol is indicated as a bronchodilator for maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema. ATROVENT HFA is an anticholinergic indicated for the maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION The usual starting dosage of ATROVENT HFA is two inhalations four times a day. Patients may take additional inhalations as required; however, the total number of inhalations should not exceed 12 in 24 hours. ATROVENT HFA is a solution aerosol that does not require shaking. However, as with any other metered-dose inhaler, some coordination is required between actuating the canister and inhaling the medication. Patients should \"prime\" or actuate ATROVENT HFA before using for the first time by releasing 2 test sprays into the air away from the face. In cases where the inhaler has not been used for more than 3 days, prime the inhaler again by releasing 2 test sprays into the air away from the face. Patients should avoid spraying ATROVENT HFA into their eyes. Each inhaler provides sufficient medication for 200 actuations. The inhaler should be discarded after the labeled number of actuations has been used. The amount of medication in each actuation cannot be assured after this point, even though the canister is not completely empty. Patients should be instructed on the proper use of their inhaler [ see Patient Counseling Information (17) ]. For oral inhalation only Two inhalations four times a day, not to exceed 12 inhalations in 24 hours ( 2 )"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS ATROVENT HFA is an inhalation aerosol supplied in a pressurized stainless steel canister as a metered-dose inhaler with a white mouthpiece that has a clear, colorless sleeve and a green protective cap. Each pressurized metered-dose aerosol unit for oral inhalation contains a 12.9 g solution of ipratropium bromide (monohydrate) that provides sufficient medication for 200 actuations. After priming, each actuation of the inhaler delivers 21 mcg of ipratropium bromide (monohydrate) from the valve and delivers 17 mcg of ipratropium bromide (monohydrate) from the mouthpiece. Inhalation Aerosol: Each actuation of ATROVENT HFA Inhalation Aerosol delivers 17 mcg of ipratropium bromide (monohydrate) from the mouthpiece ( 3 ) Supplied in a 12.9 g canister containing 200 actuations ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS ATROVENT HFA is contraindicated in the following conditions [ see Warnings and Precautions (5.2) ]. Hypersensitivity to ipratropium bromide or other ATROVENT HFA components Hypersensitivity to atropine or any of its derivatives Hypersensitivity to ipratropium bromide or other ATROVENT HFA components ( 4 ) Hypersensitivity to atropine or any of its derivatives ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Not indicated for the initial treatment of acute episodes of bronchospasm where rescue therapy is required for rapid response ( 5.1 ) Hypersensitivity reactions including anaphylaxis: Discontinue ATROVENT HFA at once and consider alternative treatments ( 5.2 ) Paradoxical bronchospasm: Discontinue ATROVENT HFA and consider other treatments if paradoxical bronchospasm occurs ( 5.3 ) Ocular effects: Use with caution in patients with narrow-angle glaucoma and instruct patients to consult a physician immediately if signs or symptoms of narrow-angle glaucoma develop ( 5.4 ) Urinary retention: Use with caution in patients with prostatic hyperplasia or bladder-neck obstruction and instruct patients to consult a physician immediately if signs or symptoms of urinary retention develop ( 5.5 ) 5.1 Use for Maintenance Treatment Only ATROVENT HFA is a bronchodilator for the maintenance treatment of bronchospasm associated with COPD and is not indicated for the initial treatment of acute episodes of bronchospasm where rescue therapy is required for rapid response. 5.2 Hypersensitivity Reactions, Including Anaphylaxis Hypersensitivity reactions including urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema may occur after the administration of ATROVENT HFA. In clinical trials and postmarketing experience with ipratropium-containing products, hypersensitivity reactions such as skin rash, pruritus, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported [ see Adverse Reactions (6.1 , 6.2) ]. If such a reaction occurs, therapy with ATROVENT HFA should be stopped at once and alternative treatment should be considered [ see Contraindications (4) ] . 5.3 Paradoxical Bronchospasm ATROVENT HFA can produce paradoxical bronchospasm that can be life threatening. If this occurs, treatment with ATROVENT HFA should be stopped and other treatments considered. 5.4 Ocular Effects ATROVENT HFA is an anticholinergic and its use may increase intraocular pressure. This may result in precipitation or worsening of narrow-angle glaucoma. Therefore, ATROVENT HFA should be used with caution in patients with narrow-angle glaucoma [ see Drug Interactions (7.1) ]. Patients should avoid spraying ATROVENT HFA into their eyes. If a patient sprays ATROVENT HFA into their eyes, they may cause eye pain or discomfort, temporary blurring of vision, mydriasis, visual halos or colored images in association with red eyes from conjunctival and corneal congestion. Advise patients to consult their physician immediately if any of these symptoms develop while using ATROVENT HFA Inhalation Aerosol. 5.5 Urinary Retention ATROVENT HFA is an anticholinergic and may cause urinary retention. Therefore, caution is advised when administering ATROVENT HFA Inhalation Aerosol to patients with prostatic hyperplasia, or bladder-neck obstruction [ see Drug Interactions (7.1) ]."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions are described, or described in greater detail, in other sections: Hypersensitivity Reactions, Including Anaphylaxis [ see Contraindications (4) and Warnings and Precautions (5.2) ] Paradoxical Bronchospasm [ see Warnings and Precautions (5.3) ] Ocular Effects [ see Warnings and Precautions (5.4) ] Urinary Retention [ see Warnings and Precautions (5.5) ] Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in patients. Most common adverse reactions (>5% incidence in the 12-week placebo-controlled trials) were bronchitis, COPD exacerbation, dyspnea, and headache ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience The adverse reaction information concerning ATROVENT HFA is derived from two 12-week, double-blind, parallel-group studies and one 1-year open-label, parallel group study. These studies compared ATROVENT HFA Inhalation Aerosol, ATROVENT CFC Inhalation Aerosol, and placebo (in one study only) in 1,010 COPD patients. The following table lists the incidence of adverse reactions that occurred at a rate of greater than or equal to 3% in any ipratropium bromide group and greater than placebo in the 12-week study. The frequency of corresponding reactions in the 1-year open label study is included for comparison. TABLE 1 Adverse Reactions (% Patients) in ATROVENT HFA Clinical Trials Placebo-controlled 12-week Study 244.1405 and Active-controlled 12-week Study 244.1408 Active-controlled 1-year Study 244.2453 ATROVENT HFA (N=243) % ATROVENT CFC (N=183) % Placebo (N=128) % ATROVENT HFA (N=305) % ATROVENT CFC (N=151) % BODY AS A WHOLE - GENERAL DISORDERS Back pain 2 3 2 7 3 Headache 6 9 8 7 5 Influenza-like symptoms 4 2 2 8 5 CENTRAL & PERIPHERAL NERVOUS SYSTEM DISORDERS Dizziness 3 3 2 3 1 GASTROINTESTINAL SYSTEM DISORDERS Dyspepsia 1 3 1 5 3 Mouth dry 4 2 2 2 3 Nausea 4 1 2 4 4 RESPIRATORY SYSTEM DISORDERS Bronchitis 10 11 6 23 19 COPD exacerbation 8 14 13 23 23 Dyspnea 8 8 4 7 4 Sinusitis 1 4 3 11 14 URINARY SYSTEM DISORDERS Urinary tract infection 2 3 1 10 8 Cough, rhinitis, and upper respiratory infection occurred in greater than or equal to 3% of patients in either ipratropium treatment group but not greater than placebo in the 12-week study. In the one open-label controlled study in 456 COPD patients, the overall incidence of adverse events was also similar between ATROVENT HFA and ATROVENT CFC formulations. Overall, in the above mentioned studies, 9.3% of the patients taking 42 mcg ATROVENT HFA and 8.7% of the patients taking 42 mcg ATROVENT CFC reported at least one adverse event that was considered by the investigator to be related to the study drug. The most common drug-related adverse events were dry mouth (1.6% of ATROVENT HFA and 0.9% of ATROVENT CFC patients), and taste perversion (bitter taste) (0.9% of ATROVENT HFA and 0.3% of ATROVENT CFC patients). As an anticholinergic drug, cases of precipitation or worsening of narrow-angle glaucoma, glaucoma, halo vision, conjunctival hyperemia, corneal edema, mydriasis, acute eye pain, dry throat, hypotension, palpitations, urinary retention, tachycardia, constipation, bronchospasm, including paradoxical bronchospasm have been reported with the use of ATROVENT. Additional adverse reactions identified for ATROVENT seen in clinical trials include throat irritation, stomatitis, mouth edema, and vision blurred. Allergic-type reactions such as skin rash, pruritus, angioedema including that of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported [ see Warnings and Precautions (5.2) ]. 6.2 Postmarketing Experience In a 5-year, placebo-controlled trial, hospitalizations for supraventricular tachycardia and/or atrial fibrillation occurred with an incidence rate of 0.5% in COPD patients receiving ATROVENT CFC. In addition to the adverse reactions reported in the controlled clinical trials, adverse reactions have been identified during post-approval use of ATROVENT. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Allergic-type reactions such as skin rash, angioedema including that of tongue, lips and face, urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported, with positive rechallenge in some cases. Additionally, urinary retention, mydriasis, gastrointestinal distress (diarrhea, nausea, vomiting), cough and bronchospasm, including paradoxical bronchospasm, hypersensitivity reactions, intraocular pressure increased, accommodation disorder, heart rate increased, pharyngeal edema, and gastrointestinal motility disorders have been reported during the postmarketing period with use of ATROVENT."
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"100%\"><caption>TABLE 1 Adverse Reactions (% Patients) in ATROVENT HFA Clinical Trials</caption><col width=\"40%\" align=\"left\" valign=\"middle\"/><col width=\"12%\" align=\"center\" valign=\"middle\"/><col width=\"12%\" align=\"center\" valign=\"middle\"/><col width=\"12%\" align=\"center\" valign=\"middle\"/><col width=\"12%\" align=\"center\" valign=\"middle\"/><col width=\"12%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"Botrule\"><th/><th colspan=\"3\" align=\"left\">Placebo-controlled 12-week Study 244.1405 and Active-controlled 12-week Study 244.1408</th><th valign=\"bottom\" colspan=\"2\" align=\"left\">Active-controlled 1-year Study 244.2453</th></tr><tr><th/><th>ATROVENT HFA (N=243) %</th><th>ATROVENT CFC (N=183) %</th><th>Placebo (N=128) %</th><th>ATROVENT HFA (N=305) %</th><th>ATROVENT CFC (N=151) %</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td colspan=\"6\"><content styleCode=\"bold\">BODY AS A WHOLE - GENERAL DISORDERS</content></td></tr><tr styleCode=\"Botrule\"><td> Back pain</td><td>2</td><td>3</td><td>2</td><td>7</td><td>3</td></tr><tr styleCode=\"Botrule\"><td> Headache</td><td>6</td><td>9</td><td>8</td><td>7</td><td>5</td></tr><tr styleCode=\"Botrule\"><td> Influenza-like symptoms</td><td>4</td><td>2</td><td>2</td><td>8</td><td>5</td></tr><tr styleCode=\"Botrule\"><td colspan=\"6\"><content styleCode=\"bold\">CENTRAL &amp; PERIPHERAL NERVOUS SYSTEM DISORDERS</content></td></tr><tr styleCode=\"Botrule\"><td> Dizziness</td><td>3</td><td>3</td><td>2</td><td>3</td><td>1</td></tr><tr styleCode=\"Botrule\"><td colspan=\"6\"><content styleCode=\"bold\">GASTROINTESTINAL SYSTEM DISORDERS</content></td></tr><tr styleCode=\"Botrule\"><td> Dyspepsia</td><td>1</td><td>3</td><td>1</td><td>5</td><td>3</td></tr><tr styleCode=\"Botrule\"><td> Mouth dry</td><td>4</td><td>2</td><td>2</td><td>2</td><td>3</td></tr><tr styleCode=\"Botrule\"><td> Nausea</td><td>4</td><td>1</td><td>2</td><td>4</td><td>4</td></tr><tr styleCode=\"Botrule\"><td colspan=\"6\"><content styleCode=\"bold\">RESPIRATORY SYSTEM DISORDERS</content></td></tr><tr styleCode=\"Botrule\"><td> Bronchitis</td><td>10</td><td>11</td><td>6</td><td>23</td><td>19</td></tr><tr styleCode=\"Botrule\"><td> COPD exacerbation</td><td>8</td><td>14</td><td>13</td><td>23</td><td>23</td></tr><tr styleCode=\"Botrule\"><td> Dyspnea</td><td>8</td><td>8</td><td>4</td><td>7</td><td>4</td></tr><tr styleCode=\"Botrule\"><td> Sinusitis</td><td>1</td><td>4</td><td>3</td><td>11</td><td>14</td></tr><tr styleCode=\"Botrule\"><td colspan=\"6\"><content styleCode=\"bold\">URINARY SYSTEM DISORDERS</content></td></tr><tr styleCode=\"Botrule\"><td> Urinary tract infection</td><td>2</td><td>3</td><td>1</td><td>10</td><td>8</td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS ATROVENT HFA has been used concomitantly with other drugs, including sympathomimetic bronchodilators, methylxanthines, oral and inhaled steroids commonly used in the treatment of COPD. With the exception of albuterol, there are no formal studies fully evaluating the interaction effects of ATROVENT HFA and these drugs with respect to safety and effectiveness. Anticholinergics: May interact additively with concomitantly used anticholinergic medications. Avoid administration of ATROVENT HFA with other anticholinergic-containing drugs ( 7.1 ) 7.1 Anticholinergic Agents There is potential for an additive interaction with concomitantly used anticholinergic medications. Therefore, avoid coadministration of ATROVENT HFA with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [ see Warnings and Precautions (5.4 , 5.5) ]."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Ipratropium is negligibly absorbed systemically following oral inhalation; therefore, maternal use is not expected to result in fetal exposure to the drug [ see Clinical Pharmacology (12.3) ]. There is limited experience with ipratropium bromide use in pregnant women. Published literature, including cohort studies, case control studies and case series, over several decades have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. Based on animal reproduction studies, no evidence of structural alterations was observed when ipratropium bromide was administered to pregnant mice, rats and rabbits during organogenesis at doses up to approximately 200, 40,000, and 10,000 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (see Data ) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Animal Data In animal reproduction studies, oral and inhalation administration of ipratropium bromide to pregnant mice, rats and rabbits during the period of organogenesis did not show evidence of fetal structural alterations. The ipratropium bromide dose in oral studies in mice, rats, and rabbits was up to approximately 200, 40,000, and 10,000 times, respectively, the MRHDID in adults (on a mg/m 2 basis at maternal doses of 10, 1,000, and 125 mg/kg/day, respectively). The ipratropium bromide dose in inhalation studies in rats and rabbits was up to approximately 60 and 140 times, respectively, the MRHDID in adults (on a mg/m 2 basis at maternal doses of 1.5 and 1.8 mg/kg/day, respectively). Embryotoxicity was observed as increased resorption in rats at oral doses approximately 3,600 times the MRHDID in adults (on a mg/m 2 basis at maternal doses of 90 mg/kg/day and above). This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration. 8.2 Lactation Risk Summary There are no data on the presence of ipratropium in either human or animal milk, the effects on the breastfed infant, or the effects on milk production. Although lipid-insoluble quaternary cations pass into breast milk, ipratropium concentrations in plasma after inhaled therapeutic doses are low, therefore, ipratropium levels in human breast milk are expected to be low [ see Clinical Pharmacology (12.3) ]. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ATROVENT HFA and any potential adverse effects on the breastfed child from ATROVENT HFA or from the underlying maternal condition. 8.4 Pediatric Use Safety and effectiveness in the pediatric population have not been established. 8.5 Geriatric Use In the pivotal 12-week study, both ATROVENT HFA and ATROVENT CFC formulations were equally effective in patients over 65 years of age and under 65 years of age. Of the total number of subjects in clinical studies of ATROVENT HFA, 57% were ≥65 years of age. No overall differences in safety or effectiveness were observed between these subjects and younger subjects."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Ipratropium is negligibly absorbed systemically following oral inhalation; therefore, maternal use is not expected to result in fetal exposure to the drug [ see Clinical Pharmacology (12.3) ]. There is limited experience with ipratropium bromide use in pregnant women. Published literature, including cohort studies, case control studies and case series, over several decades have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. Based on animal reproduction studies, no evidence of structural alterations was observed when ipratropium bromide was administered to pregnant mice, rats and rabbits during organogenesis at doses up to approximately 200, 40,000, and 10,000 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (see Data ) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Animal Data In animal reproduction studies, oral and inhalation administration of ipratropium bromide to pregnant mice, rats and rabbits during the period of organogenesis did not show evidence of fetal structural alterations. The ipratropium bromide dose in oral studies in mice, rats, and rabbits was up to approximately 200, 40,000, and 10,000 times, respectively, the MRHDID in adults (on a mg/m 2 basis at maternal doses of 10, 1,000, and 125 mg/kg/day, respectively). The ipratropium bromide dose in inhalation studies in rats and rabbits was up to approximately 60 and 140 times, respectively, the MRHDID in adults (on a mg/m 2 basis at maternal doses of 1.5 and 1.8 mg/kg/day, respectively). Embryotoxicity was observed as increased resorption in rats at oral doses approximately 3,600 times the MRHDID in adults (on a mg/m 2 basis at maternal doses of 90 mg/kg/day and above). This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in the pediatric population have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use In the pivotal 12-week study, both ATROVENT HFA and ATROVENT CFC formulations were equally effective in patients over 65 years of age and under 65 years of age. Of the total number of subjects in clinical studies of ATROVENT HFA, 57% were ≥65 years of age. No overall differences in safety or effectiveness were observed between these subjects and younger subjects."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Acute overdose by inhalation is unlikely since ipratropium bromide is not well absorbed systemically after inhalation or oral administration."
+  ],
+  "description": [
+   "11 DESCRIPTION The active ingredient in ATROVENT HFA is ipratropium bromide (monohydrate). It is an anticholinergic bronchodilator chemically described as 8-azoniabicyclo[3.2.1]octane, 3-(3-hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1-methylethyl)-,bromide monohydrate, (3-endo, 8-syn)-: a synthetic quaternary ammonium compound, chemically related to atropine. The structural formula for ipratropium bromide is: C 20 H 30 BrNO 3 ∙H 2 O ipratropium bromide Mol. Wt. 430.4 Ipratropium bromide is a white to off-white crystalline substance, freely soluble in water and methanol, sparingly soluble in ethanol, and insoluble in lipophilic solvents such as ether, chloroform, and fluorocarbons. ATROVENT HFA is a pressurized metered-dose aerosol unit for oral inhalation that contains a solution of ipratropium bromide. The 200 inhalation unit has a net weight of 12.9 grams. After priming, each actuation of the inhaler delivers 21 mcg of ipratropium bromide (monohydrate) from the valve in 56 mg of solution and delivers 17 mcg of ipratropium bromide (monohydrate) from the mouthpiece. The actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between the actuation of the device and inspiration through the delivery system. The excipients are anhydrous citric acid, dehydrated alcohol, HFA-134a (1,1,1,2-tetrafluoroethane) as propellant, and sterile water for irrigation. This product does not contain chlorofluorocarbons (CFCs) as propellants. ATROVENT HFA should be primed before using for the first time by releasing 2 test sprays into the air away from the face. In cases where the inhaler has not been used for more than 3 days, prime the inhaler again by releasing 2 test sprays into the air away from the face. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Ipratropium bromide is an anticholinergic (parasympatholytic) agent which, based on animal studies, appears to inhibit vagally-mediated reflexes by antagonizing the action of acetylcholine, the transmitter agent released at the neuromuscular junctions in the lung. Anticholinergics prevent the increases in intracellular concentration of Ca++ which is caused by interaction of acetylcholine with the muscarinic receptors on bronchial smooth muscle. 12.2 Pharmacodynamics Cardiovascular effects At recommended dosages, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure. Ocular effects In studies without a positive control, ipratropium bromide did not alter pupil size, accommodation, or visual acuity. Mucociliary clearance and respiratory secretions Controlled clinical studies have demonstrated that ipratropium bromide does not alter either mucociliary clearance or the volume or viscosity of respiratory secretions. 12.3 Pharmacokinetics Following administration by oral inhalation from a metered-dose inhaler, the majority of the delivered dose is deposited in the gastrointestinal tract and, to a lesser extent, in the lung, the intended site of action. Ipratropium bromide is a quaternary amine and hence is not readily absorbed into the systemic circulation either from the surface of the lung or from the gastrointestinal tract as confirmed by blood level and renal excretion studies. The half-life of elimination is about 2 hours after inhalation or intravenous administration. Ipratropium bromide is minimally bound (0% to 9% in vitro ) to plasma albumin and α 1 -acid glycoprotein. It is partially metabolized to inactive ester hydrolysis products. Following intravenous administration, approximately one-half of the dose is excreted unchanged in the urine. A pharmacokinetic study with 29 chronic obstructive pulmonary disease (COPD) patients (48-79 years of age) demonstrated that mean peak plasma ipratropium concentrations of 59±20 pg/mL were obtained following a single administration of 4 inhalations of ATROVENT HFA (84 mcg). Plasma ipratropium concentrations declined to 24±15 pg/mL by six hours. When these patients were administered 4 inhalations QID (16 inhalations/day=336 mcg) for one week, the mean peak plasma ipratropium concentration increased to 82±39 pg/mL with a trough (6 hour) concentration of 28±12 pg/mL at steady state. Specific Populations Geriatric Patients In the pharmacokinetic study with 29 COPD patients, a subset of 14 patients were >65 years of age. Mean peak plasma ipratropium concentrations of 56±24 pg/mL were obtained following a single administration of 4 inhalations (21 mcg/puff) of ATROVENT HFA (84 mcg). When these 14 patients were administered 4 inhalations four times a day (16 inhalations/day) for one week, the mean peak plasma ipratropium concentration only increased to 84±50 pg/mL indicating that the pharmacokinetic behavior of ipratropium bromide in the geriatric population is consistent with younger patients. Renally Impaired Patients The pharmacokinetics of ATROVENT HFA have not been studied in patients with renal insufficiency. Hepatically Impaired Patients The pharmacokinetics of ATROVENT HFA have not been studied in patients with hepatic insufficiency. Drug-Drug Interaction No specific pharmacokinetic studies were conducted to evaluate potential drug-drug interactions with other medications."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Ipratropium bromide is an anticholinergic (parasympatholytic) agent which, based on animal studies, appears to inhibit vagally-mediated reflexes by antagonizing the action of acetylcholine, the transmitter agent released at the neuromuscular junctions in the lung. Anticholinergics prevent the increases in intracellular concentration of Ca++ which is caused by interaction of acetylcholine with the muscarinic receptors on bronchial smooth muscle."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Cardiovascular effects At recommended dosages, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure. Ocular effects In studies without a positive control, ipratropium bromide did not alter pupil size, accommodation, or visual acuity. Mucociliary clearance and respiratory secretions Controlled clinical studies have demonstrated that ipratropium bromide does not alter either mucociliary clearance or the volume or viscosity of respiratory secretions."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Following administration by oral inhalation from a metered-dose inhaler, the majority of the delivered dose is deposited in the gastrointestinal tract and, to a lesser extent, in the lung, the intended site of action. Ipratropium bromide is a quaternary amine and hence is not readily absorbed into the systemic circulation either from the surface of the lung or from the gastrointestinal tract as confirmed by blood level and renal excretion studies. The half-life of elimination is about 2 hours after inhalation or intravenous administration. Ipratropium bromide is minimally bound (0% to 9% in vitro ) to plasma albumin and α 1 -acid glycoprotein. It is partially metabolized to inactive ester hydrolysis products. Following intravenous administration, approximately one-half of the dose is excreted unchanged in the urine. A pharmacokinetic study with 29 chronic obstructive pulmonary disease (COPD) patients (48-79 years of age) demonstrated that mean peak plasma ipratropium concentrations of 59±20 pg/mL were obtained following a single administration of 4 inhalations of ATROVENT HFA (84 mcg). Plasma ipratropium concentrations declined to 24±15 pg/mL by six hours. When these patients were administered 4 inhalations QID (16 inhalations/day=336 mcg) for one week, the mean peak plasma ipratropium concentration increased to 82±39 pg/mL with a trough (6 hour) concentration of 28±12 pg/mL at steady state. Specific Populations Geriatric Patients In the pharmacokinetic study with 29 COPD patients, a subset of 14 patients were >65 years of age. Mean peak plasma ipratropium concentrations of 56±24 pg/mL were obtained following a single administration of 4 inhalations (21 mcg/puff) of ATROVENT HFA (84 mcg). When these 14 patients were administered 4 inhalations four times a day (16 inhalations/day) for one week, the mean peak plasma ipratropium concentration only increased to 84±50 pg/mL indicating that the pharmacokinetic behavior of ipratropium bromide in the geriatric population is consistent with younger patients. Renally Impaired Patients The pharmacokinetics of ATROVENT HFA have not been studied in patients with renal insufficiency. Hepatically Impaired Patients The pharmacokinetics of ATROVENT HFA have not been studied in patients with hepatic insufficiency. Drug-Drug Interaction No specific pharmacokinetic studies were conducted to evaluate potential drug-drug interactions with other medications."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Two-year oral carcinogenicity studies in rats and mice have revealed no carcinogenic activity at doses up to 6 mg/kg (approximately 240 and 120 times the maximum recommended human daily inhalation dose (MRHDID) in adults on a mg/m 2 basis, respectively). Results of various mutagenicity/clastogenicity studies (Ames test, mouse dominant lethal test, mouse micronucleus test and chromosome aberrations of bone marrow in Chinese hamsters) were negative. Fertility of male or female rats at oral doses up to 50 mg/kg (approximately 2,000 times the MRHDID in adults on a mg/m 2 basis) was unaffected by ipratropium bromide administration. At an oral dose of 500 mg/kg (approximately 20,000 times the MRHDID in adults on a mg/m 2 basis), ipratropium bromide produced a decrease in the conception rate."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Two-year oral carcinogenicity studies in rats and mice have revealed no carcinogenic activity at doses up to 6 mg/kg (approximately 240 and 120 times the maximum recommended human daily inhalation dose (MRHDID) in adults on a mg/m 2 basis, respectively). Results of various mutagenicity/clastogenicity studies (Ames test, mouse dominant lethal test, mouse micronucleus test and chromosome aberrations of bone marrow in Chinese hamsters) were negative. Fertility of male or female rats at oral doses up to 50 mg/kg (approximately 2,000 times the MRHDID in adults on a mg/m 2 basis) was unaffected by ipratropium bromide administration. At an oral dose of 500 mg/kg (approximately 20,000 times the MRHDID in adults on a mg/m 2 basis), ipratropium bromide produced a decrease in the conception rate."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES Conclusions regarding the efficacy of ATROVENT HFA were derived from two randomized, double-blind, controlled clinical studies. These studies enrolled males and females ages 40 years and older, with a history of COPD, a smoking history of >10 pack-years, an FEV 1 <65% and an FEV 1 /FVC <70%. One of the studies was a 12-week randomized, double-blind active, and placebo-controlled study in which 505 of the 507 randomized COPD patients were evaluated for the safety and efficacy of 42 mcg (n=124) and 84 mcg (n=126) ATROVENT HFA in comparison to 42 mcg (n=127) ATROVENT CFC and their respective placebos (HFA n=62, CFC n=66). Data for both placebo HFA and placebo CFC were combined in the evaluation. Serial FEV 1 (shown in Figure 1, below, as means adjusted for center and baseline effects on test day 1 and test day 85 (primary endpoint)) demonstrated that 1 dose (2 inhalations/21 mcg each) of ATROVENT HFA produced significantly greater improvement in pulmonary function than placebo. During the six hours immediately post-dose on day 1, the average hourly improvement in adjusted mean FEV 1 was 0.148 liters for ATROVENT HFA (42 mcg) and 0.013 liters for placebo. The mean peak improvement in FEV 1 , relative to baseline, was 0.295 liters, compared to 0.138 liters for placebo. During the six hours immediately post-dose on day 85, the average hourly improvement in adjusted mean FEV 1 was 0.141 liters for ATROVENT HFA (42 mcg) and 0.014 liters for placebo. The mean peak improvement in FEV 1 , relative to baseline, was 0.295 liters, compared to 0.140 liters for placebo. ATROVENT HFA (42 mcg) was shown to be clinically comparable to ATROVENT CFC (42 mcg). Figure 1 Day 1 and Day 85 (Primary Endpoint) Results In this study, both ATROVENT HFA and ATROVENT CFC formulations were equally effective in patients over 65 years of age and under 65 years of age. The median time to improvement in pulmonary function (FEV 1 increase of 15% or more) was within approximately 15 minutes, reached a peak in 1 to 2 hours, and persisted for 2 to 4 hours in the majority of the patients. Improvements in Forced Vital Capacity (FVC) were also demonstrated. The other study was a 12-week, randomized, double-blind, active-controlled clinical study in 174 adults with COPD, in which ATROVENT HFA 42 mcg (n=118) was compared to ATROVENT CFC 42 mcg (n=56). Safety and efficacy of HFA and CFC formulations were shown to be comparable. The bronchodilatory efficacy and comparability of ATROVENT HFA vs ATROVENT CFC were also studied in a one-year open-label safety and efficacy study in 456 COPD patients. The safety and efficacy of HFA and CFC formulations were shown to be comparable. Figure 1"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING ATROVENT HFA is supplied in a pressurized stainless steel canister as a metered-dose inhaler with a white mouthpiece that has a clear, colorless sleeve and a green protective cap (NDC 0597-0087-17). The mouthpiece has an actuation indicator visible through a small window. The indicator typically moves during every 5 to 7 actuations. It displays the approximate number of actuations remaining in increments of 20, starting at \"200\" and decreasing until it reaches \"0\". The ATROVENT HFA canister is to be used only with the accompanying ATROVENT HFA mouthpiece. This mouthpiece should not be used with other aerosol medications. Similarly, the canister should not be used with other mouthpieces. After priming, each actuation of ATROVENT HFA delivers 21 mcg of ipratropium bromide (monohydrate) from the valve and 17 mcg from the mouthpiece. Each canister has a net weight of 12.9 grams and provides sufficient medication for 200 actuations. The inhaler should be discarded after the labeled number of actuations has been used when the indicator displays \"0\". The amount of medication in each actuation cannot be assured after this point, even though the canister is not completely empty. Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. For optimal results, the canister should be at room temperature before use. Contents Under Pressure: Do not puncture. Do not use or store near heat or open flame. Exposure to temperatures above 120°F may cause bursting. Never throw the inhaler into a fire or incinerator. Keep out of reach of children. Avoid spraying in eyes ."
+  ],
+  "storage_and_handling": [
+   "Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. For optimal results, the canister should be at room temperature before use. Contents Under Pressure: Do not puncture. Do not use or store near heat or open flame. Exposure to temperatures above 120°F may cause bursting. Never throw the inhaler into a fire or incinerator. Keep out of reach of children. Avoid spraying in eyes ."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Instructions for Use). Appropriate and safe use of ATROVENT HFA includes providing the patient with the information listed below and an understanding of the way it should be administered. Advise patients that ATROVENT HFA is a bronchodilator for the maintenance treatment of bronchospasm associated with COPD and is not indicated for the initial treatment of acute episodes of bronchospasm where rescue therapy is required for rapid response. Hypersensitivity Reactions Inform patients that hypersensitivity reactions, including urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema, may occur after the administration of ATROVENT HFA. Advise patients to immediately discontinue ATROVENT HFA and consult a physician [ see Warnings and Precautions (5.2) ] . Paradoxical Bronchospasm Inform patients that ATROVENT HFA can produce paradoxical bronchospasm that can be life-threatening. If paradoxical bronchospasm occurs, patients should discontinue using ATROVENT HFA. Ocular Effects Caution patients to avoid spraying the aerosol into their eyes and be advised that this may result in precipitation or worsening of narrow-angle glaucoma, mydriasis, increased intraocular pressure, acute eye pain or discomfort, temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion. Patients should also be advised that should any combination of these symptoms develop, they should consult their physician immediately. Since dizziness, accommodation disorder, mydriasis, and blurred vision may occur with use of ATROVENT HFA, patients should be cautioned about engaging in activities requiring balance and visual acuity such as driving a car or operating appliances or machinery. Urinary Retention Inform patients that ATROVENT HFA may cause urinary retention and should be advised to consult their physicians if they experience difficulty with urination. Frequency of Use The action of ATROVENT HFA should last 2 to 4 hours. Advise patients not to increase the dose or frequency of ATROVENT HFA without patients consulting their physician. Advise patients to seek immediate medical attention if treatment with ATROVENT HFA becomes less effective for symptomatic relief, their symptoms become worse, and/or patients need to use the product more frequently than usual. Concomitant Drug Use Advise patients on the use of ATROVENT HFA in relation to other inhaled drugs [ see Drug Interactions (7.1) ]. Use Only as Prescribed Remind patients that ATROVENT HFA should be used consistently as prescribed throughout the course of therapy. Preparation for Use and Priming Instruct patients that priming ATROVENT HFA is essential to ensure appropriate content of the medication in each actuation. Patients do not have to shake the ATROVENT HFA canister before use ."
+  ],
+  "instructions_for_use": [
+   "INSTRUCTIONS FOR USE ATROVENT ® HFA (ipratropium bromide HFA) Inhalation Aerosol, for oral inhalation use Read this Instructions for Use before using your ATROVENT HFA and each time you get a refill. There may be new information. This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment. Use ATROVENT HFA exactly as your healthcare provider tells you to. Do not change your dose or how often you use ATROVENT HFA without talking with your healthcare provider. Tell your doctor about all the medicines you take. ATROVENT HFA may affect the way some other medicines work and some other medicines may affect the way ATROVENT HFA works. Important information about using ATROVENT HFA You do not have to shake ATROVENT HFA before using it. ATROVENT HFA should be \"primed\" 2 times before you use the first dose of a new ATROVENT HFA inhaler or when the inhaler has not been used for more than 3 days. To prime, push the canister against the mouthpiece (see Figure 1 ), allowing the medicine to spray into the air. Do not spray the medicine into your eyes while priming ATROVENT HFA . Inhaler Description ATROVENT HFA Inhalation Aerosol (Figure 1) consists of a metal canister containing the medicine and a mouthpiece that releases the medicine from the canister. The mouthpiece includes a clear colorless sleeve, a white plastic portion and a green protective dust cap. The inhaler comes with a dose indicator you can see through a small window on the plastic mouthpiece (see Figure 1 ). A new inhaler first shows \"200\" in the dose indicator window. The dose indicator will show the approximate number of actuations (sprays) of medicine remaining in the inhaler. As you use the inhaler, the dose indicator will typically rotate during every 5 to 7 actuations (sprays) towards the next decreasing number (see Figure 2 ). Figure 1 Figure 2 Instructions for Use: 1. Insert the metal canister into the clear end of the mouthpiece (see Figure 1 ). Make sure the canister is fully and firmly inserted into the mouthpiece. The ATROVENT HFA canister is to be used only with the ATROVENT HFA mouthpiece. Do not use the ATROVENT HFA mouthpiece with other inhaled medicines. 2. Remove the green protective dust cap. If the cap is not on the mouthpiece, make sure there is nothing in the mouthpiece before use. For best results, the canister should be at room temperature before use. 3. Breathe out (exhale) deeply through your mouth. Hold the inhaler upright (see Figure 3 ). Put the mouthpiece in your mouth and close your lips. Keep your eyes closed so that no medicine will be sprayed into your eyes. If sprayed into the eyes, ATROVENT HFA can cause blurry vision and other vision abnormalities, eye pain or discomfort, dilated pupils, or narrow-angle glaucoma or worsening of this condition. If any combination of these symptoms develops, you should consult your physician immediately. Figure 3 4. Breathe in (inhale) slowly through your mouth and at the same time spray the ATROVENT HFA into your mouth. To spray ATROVENT HFA firmly press the canister against the mouthpiece 1 time (see Figure 4 ). Keep breathing in deeply. Figure 4 5. Hold your breath for ten seconds and then take the mouthpiece out of your mouth and breathe out slowly (see Figure 5 ). Figure 5 6. Wait at least 15 seconds and repeat steps 3 to 5 again. 7. Replace the green protective dust cap after use. 8. Keep the mouthpiece clean. At least once a week, wash the mouthpiece, shake it to remove excess water and let it air dry all the way (see Mouthpiece Cleaning Instructions ) . Mouthpiece Cleaning Instructions: Step A. Remove and set aside the canister and dust cap from the mouthpiece (see Figure 1 ). Step B. Wash the mouthpiece through the top and bottom with warm running water for at least 30 seconds (see Figure 6 ). Do not use anything other than water to wash the mouthpiece. Figure 6 Step C. Dry the mouthpiece by shaking off the excess water and allow it to air dry all the way. Step D. When the mouthpiece is dry, replace the canister. Make sure the canister is fully and firmly inserted into the mouthpiece. Step E. Replace the green protective dust cap. If little or no medicine comes out of the mouthpiece, wash the mouthpiece as described in Steps A to E under the \"Mouthpiece Cleaning Instructions\" . 9. When to get a new ATROVENT HFA inhaler. There are approximately 40 actuations (sprays) left when the dose indicator displays \"40,\" where the background changes from green to red (see Figure 7a ). This is when you need to refill your prescription or ask your doctor if you need another prescription for ATROVENT HFA inhalation aerosol. The background color will be all red when the indicator approaches 20. The indicator will stop moving at \"0\". Discard the inhaler once the dose indicator displays \"0\" (see Figure 7b ). Even though the canister may not be empty, you cannot be sure of the amount of medicine in each actuation (spray) once the dose indicator displays \"0\". Figure 7a Figure 7b This product does not contain any chlorofluorocarbon (CFC) propellants. The contents of ATROVENT HFA are under pressure. Do not puncture the canister. Do not use or store near heat or open flame. Exposure to temperatures above 120°F may cause bursting. Never throw the container into a fire or incinerator. Keep ATROVENT HFA and all medicines out of the reach of children. Store ATROVENT HFA at room temperature 68°F to 77°F (20°C to 25°C) . Short-term exposure to higher or lower temperatures [from 59°F (15°C) to 86°F (30°C)] is acceptable. For more information about ATROVENT HFA including current prescribing information and Instructions for Use, go to www.atrovent.com , scan the code, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257. This Instructions for Use has been approved by the U.S. Food and Drug Administration. Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Licensed from: Boehringer Ingelheim International GmbH ATROVENT ® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH Copyright © 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED COL9554BA022025 Revised: December 2024 Figure 1 Figure 2 Figure 3 Figure 4 Figure 5 Figure 6 Figure 7a Figure 7b Image"
+  ],
+  "instructions_for_use_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig1\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM3\"/></td></tr><tr><td>Figure 1</td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig2\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM4\"/></td></tr><tr><td>Figure 2</td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig3\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM5\"/></td></tr><tr><td>Figure 3</td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig4\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM6\"/></td></tr><tr><td>Figure 4</td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig5\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM7\"/></td></tr><tr><td>Figure 5</td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig6\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM8\"/></td></tr><tr><td>Figure 6</td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig7a\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM9\"/></td></tr><tr><td>Figure 7a</td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig7b\"><col width=\"100%\" align=\"center\" valign=\"middle\"/><tbody><tr><td><renderMultiMedia referencedObject=\"MM10\"/></td></tr><tr><td>Figure 7b</td></tr></tbody></table>"
+  ],
+  "set_id": "170e98ef-5560-4068-be7d-e649068eb884",
+  "id": "73904f10-4e08-4277-adf6-b605468eb05e",
+  "effective_time": "20251105",
+  "version": "21"
+ }
+}

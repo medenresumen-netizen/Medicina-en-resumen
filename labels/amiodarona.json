@@ -1,0 +1,745 @@
+{
+ "id_es": "amiodarona",
+ "generic_en": "amiodarone",
+ "search": "openfda.generic_name:\"amiodarone\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "e9108958-b8d7-4fba-87c3-9a32990de551",
+  "id": "86598704-4a32-4696-b2c2-2861e28db76a",
+  "effective_time": "20240416",
+  "version": "25",
+  "brand_name": [
+   "Nexterone"
+  ],
+  "generic_name": [
+   "AMIODARONE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Baxter Healthcare Corporation"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA022325"
+  ],
+  "n_sections": 31
+ },
+ "candidates": [
+  {
+   "set_id": "0c9ee15a-5741-4aaa-8d80-c7bd2e45822e",
+   "id": "cdc307ff-47ad-4887-a376-a9ef85feddd3",
+   "effective_time": "20261026",
+   "version": "2",
+   "brand_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077234"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "4c149392-a4f0-4e2d-a13f-2b94810005de",
+   "id": "584f8c98-a7ba-67ac-e063-6294a90a56d6",
+   "effective_time": "20260805",
+   "version": "8",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213446"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "57f7f2ea-4ca9-4ada-e063-6294a90a492b",
+   "id": "57f7f2ec-3e5b-4ccf-e063-6294a90a5cf1",
+   "effective_time": "20260801",
+   "version": "1",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213446"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "51a88e8e-da02-4b97-9e7e-442fbffd908d",
+   "id": "56bad5b6-8066-966c-e063-6294a90a3061",
+   "effective_time": "20260716",
+   "version": "12",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204742"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "f49d011f-5ca6-4f75-ba16-2099fe42f5aa",
+   "id": "544f49d5-053a-73e8-e063-6394a90ada25",
+   "effective_time": "20260615",
+   "version": "2",
+   "brand_name": [
+    "amiodarone hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Safecor Health LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079029"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "f3e631c5-1204-419c-8dbe-fa9b37a77f97",
+   "id": "2404aeca-2635-45e6-a839-578734efb312",
+   "effective_time": "20260604",
+   "version": "6",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075424"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "f4532f12-3b7a-42ab-9a6c-36fd2a3f192c",
+   "id": "b7d415a2-bf21-4d6c-8f01-e1e22a539e42",
+   "effective_time": "20260522",
+   "version": "103",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078578"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "b8bf4aa2-abea-403d-a6d9-395caf5f87f0",
+   "id": "b8bf4aa2-abea-403d-a6d9-395caf5f87f0",
+   "effective_time": "20260512",
+   "version": "1",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078578"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "95cef33b-c0e6-b17c-7cbb-f5c066872705",
+   "id": "e0bc8f4a-dc9b-7804-4479-ebe732449569",
+   "effective_time": "20260423",
+   "version": "2",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Labratories Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075389"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "0caedb97-56fd-4ec0-bfb2-c7683b8f5f1b",
+   "id": "b0c44872-a74d-4b1f-bd2b-71009f866985",
+   "effective_time": "20260420",
+   "version": "8",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204742"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "337c5695-e3f8-41c6-a088-a492d5c60215",
+   "id": "4f08b135-1138-0c7e-e063-6294a90a51f4",
+   "effective_time": "20260409",
+   "version": "6",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078578"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "7bdc2236-3a1a-4210-a9fb-38f860227aa7",
+   "id": "7a34d62f-6b9b-44d2-aefa-8af7e388b13d",
+   "effective_time": "20260409",
+   "version": "9",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075424"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "352ed423-fc16-47bb-8e25-98e1c20f9991",
+   "id": "64f4746d-7518-4865-a7e4-8c3f17ace734",
+   "effective_time": "20260318",
+   "version": "7",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075424"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "7ccd3733-c3af-4a11-8500-0f99194c1472",
+   "id": "4cc4c3cb-aced-a125-e063-6394a90aee93",
+   "effective_time": "20260311",
+   "version": "19",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075424",
+    "ANDA076362"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "7ae393d1-7469-432a-9f21-f5ebab1207d1",
+   "id": "84ad18a0-1887-4b62-8ac1-94ace3433366",
+   "effective_time": "20260212",
+   "version": "10",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204742"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "e9151c1b-b70c-477b-868a-fffdc5c51830",
+   "id": "48c17e3b-f248-1cef-e063-6294a90a467b",
+   "effective_time": "20260119",
+   "version": "11",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077234"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "0a28ae25-7cc4-4ac0-a2ba-7820fb93e25c",
+   "id": "487d000e-9dec-3e6f-e063-6294a90ae8b0",
+   "effective_time": "20260116",
+   "version": "6",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Zhejiang Poly Pharm. Co., Ltd."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218253"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "924c9359-ebc4-62a7-e053-2a95a90a4327",
+   "id": "47e23673-1380-50b5-e063-6394a90a9314",
+   "effective_time": "20260108",
+   "version": "5",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075389"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "8377eb89-0d62-48c5-90e7-e96d545a4642",
+   "id": "5b27ec4d-eebc-445d-a4ab-fced073afaa6",
+   "effective_time": "20251230",
+   "version": "104",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213446"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "28cd0224-3569-4308-bd40-480bc4230503",
+   "id": "95e3bff0-e303-4661-85e9-1d8ea93c5671",
+   "effective_time": "20251222",
+   "version": "1",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078578"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "364ab45e-b525-f310-e063-6394a90a4421",
+   "id": "462a9d14-baa5-8d4b-e063-6394a90a0d58",
+   "effective_time": "20251217",
+   "version": "3",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ProPharma Distribution"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076217"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "5520f11d-968d-4f4f-bf57-d14369c0d746",
+   "id": "458bf18b-977a-303b-e063-6294a90a1902",
+   "effective_time": "20251209",
+   "version": "3",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077069"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "d911b4cf-eec4-43f8-aa64-cc60cfc901b9",
+   "id": "458014a5-2f16-9815-e063-6294a90ad169",
+   "effective_time": "20251209",
+   "version": "5",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078578"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "d912a75a-ddac-4e7b-b5c4-321d4252ec05",
+   "id": "437dba0c-f63e-5d43-e063-6394a90a9602",
+   "effective_time": "20251113",
+   "version": "7",
+   "brand_name": [
+    "Amiodarone Hydrochloride"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204742"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "dcadce9c-d0a0-4235-8ff8-dd93c09e03b3",
+   "id": "b3dbe38d-29a3-41a9-a51c-0cc3bf8eb9e0",
+   "effective_time": "20251105",
+   "version": "101",
+   "brand_name": [
+    "Pacerone"
+   ],
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075135"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE NEXTERONE is indicated for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation (VF) and hemodynamically unstable ventricular tachycardia (VT) in patients refractory to other therapy. NEXTERONE is an antiarrhythmic agent indicated for treatment and prophylaxis of ventricular fibrillation (VF) and hemodynamically unstable ventricular tachycardia (VT) in patients refractory to other therapy. (1)"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • The recommended starting dosing regimen is: (2) o Initial Load: 150 mg in 100 mL infused over 10 minutes o Followed by: 1 mg/min for 6 hours o Followed by: 0.5 mg/min thereafter • For breakthrough episodes of VF or hemodynamically unstable VT, repeat the Initial Load (2) 2.1 General Considerations Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit, solution should be clear. Visually inspect the container. If the administration port protector is damaged, detached or not present, discard the container as the solution path sterility may be compromised. Check for minute leaks prior to use by squeezing the bag firmly. If leaks are detected, discard solution as sterility may be impaired. Protect from light until ready to use. NEXTERONE Premixed Injection is available in GALAXY containers as a single-use, ready-to-use, iso-osmotic solution in dextrose for intravenous administration. No further dilution is required. Discard any unused portion after use. Administer NEXTERONE, whenever possible, through a central venous catheter dedicated to that purpose. Use an in-line filter during administration. 2.2 Recommended Dosage NEXTERONE response can vary. Monitor patient response and adjust dose accordingly. In controlled clinical trials, mean daily doses above 2100 mg were associated with an increased risk of hypotension. Table 1: NEXTERONE Dosage Recommendations Loading Infusion First Rapid 150 mg over the FIRST 10 minutes (15 mg/min). Directly infuse NEXTERONE Premixed Injection (150 mg/100 mL; 1.5 mg/mL) at a rate of 10 mL/min. Followed by Slow 360 mg over the NEXT 6 hours (1 mg/min). Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.556 mL/min. 540 mg over the REMAINING 18 hours (0.5 mg/min ) Decrease the rate to 0.278 mL/min. Maintenance Infusion After the first 24 hours, continue the maintenance infusion 720 mg per 24 hour period (0.5 mg/min) Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.278 mL/min). Breakthrough VF or Hemodynamically Unstable VT 150 mg supplemental infusion over 10 minutes (15 mg/min). Directly infuse NEXTERONE Premixed Injection (150 mg/100mL; 1.5 mg/mL) at a rate of 10 mL/min. Admixture Incompatibility Amiodarone in D 5 W Injection forms precipitates with the drugs shown in Table 2 . If co-administration of the following drugs is necessary, use separate intravenous administration lines. Table 2: Y-SITE INJECTION INCOMPATIBILITY D5W = Dextrose 5% in Sterile Water, NS = Normal Saline Drug Vehicle Amiodarone Concentration Aminophylline D5W; NS 4 mg/mL Amoxicillin Sodium-Clavulanic Acid unknown 12.5 mg/mL Ampicillin Sodium-Sulbactam Sodium NS 6 mg/mL Argatroban D 5 W 1.8 mg/mL Bivalirudin D 5 W 4 mg/mL Cefamandole Nafate D 5 W 4 mg/mL Cefazolin Sodium D 5 W 4 mg/mL Ceftazidime D 5 W 6 mg/mL Digoxin D 5 W 6 mg/mL Furosemide (10 mg/mL) D 5 W 6 mg/mL Mezlocillin Sodium D 5 W 4 mg/mL Heparin Sodium D 5 W -- Imipenem-Cilastin Sodium D 5 W 6 mg/mL Magnesium Sulfate (500 mg/mL) D 5 W 6 mg/mL Micafungin NS 4 mg/mL Piperacillin Sodium –Tazobactam Sodium D 5 W 6 mg/mL Potassium Phosphates D 5 W 6 mg/mL Sodium Bicarbonate D 5 W 3 mg/mL Sodium Nitroprusside D 5 W 1.5, 6 and 15 mg/mL Sodium Phosphates D 5 W 6 mg/mL 2.3 Transition From Intravenous Amiodarone to Oral Amiodarone Table 3 provides suggested doses of oral amiodarone to be initiated after varying durations of NEXTERONE infusion. Table 3: RECOMMENDATIONS FOR ORAL DOSAGE AFTER INTRAVENOUS INFUSION Duration of Amiodarone Infusion Assuming a 720 mg/day infusion (0.5 mg/min). Initial Daily Dose of Oral Amiodarone Less than 1 week 800 to 1600 mg 1 to 3 weeks 600 to 800 mg More than 3 weeks Intravenous amiodarone is not intended for maintenance treatment. 400 mg"
+  ],
+  "dosage_and_administration_table": [
+   "<table styleCode=\"Noautorules\" width=\"100%\"><caption>Table 1: NEXTERONE Dosage Recommendations</caption><col width=\"30%\"/><col width=\"20%\"/><col width=\"50%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Loading Infusion</content></paragraph></td><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">First</content> Rapid</content></paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">150 mg over the FIRST 10 minutes (15 mg/min). </content>Directly infuse NEXTERONE Premixed Injection (150 mg/100 mL; 1.5 mg/mL) at a rate of 10 mL/min. </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"/><td styleCode=\"Lrule Toprule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"italics\">Followed by</content></content> <content styleCode=\"bold\">Slow</content></paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\"> 360 mg over the NEXT 6 hours (1 mg/min).  </content>Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.556 mL/min. <content styleCode=\"bold\">540 mg over the REMAINING 18 hours (0.5 mg/min</content>) Decrease the rate to 0.278 mL/min. </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\"> Maintenance Infusion</content></paragraph></td><td styleCode=\"Lrule Toprule Botrule \" valign=\"top\"/><td styleCode=\"Rrule Toprule Botrule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">After the first 24 hours, continue the maintenance infusion 720 mg per 24 hour period (0.5 mg/min) </content>Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.278 mL/min). </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Breakthrough VF or  Hemodynamically Unstable VT  </content></paragraph></td><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"/><td styleCode=\"Rrule Botrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">150 mg supplemental infusion over 10 minutes (15 mg/min). </content>Directly infuse NEXTERONE Premixed Injection (150 mg/100mL; 1.5 mg/mL) at a rate of 10 mL/min. </paragraph></td></tr></tbody></table>",
+   "<table ID=\"_Ref190268936\" styleCode=\"Noautorules\" width=\"100%\"><caption>Table 2: Y-SITE INJECTION INCOMPATIBILITY</caption><col width=\"51%\"/><col width=\"22%\"/><col width=\"23%\"/><tfoot><tr><td align=\"left\" colspan=\"3\" valign=\"top\">D5W = Dextrose 5% in Sterile Water, NS = Normal Saline</td></tr></tfoot><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> Drug</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> Vehicle</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Amiodarone Concentration</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Aminophylline</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D5W; NS</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Amoxicillin Sodium-Clavulanic Acid</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>unknown</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>12.5 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Ampicillin Sodium-Sulbactam Sodium</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NS</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Argatroban</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.8 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Bivalirudin</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Cefamandole Nafate</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Cefazolin Sodium</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Ceftazidime</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Digoxin</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Furosemide  (10 mg/mL)</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Mezlocillin Sodium</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Heparin Sodium</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>--</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Imipenem-Cilastin Sodium</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Magnesium Sulfate (500 mg/mL)</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Micafungin</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>NS</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>4 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Piperacillin Sodium &#x2013;Tazobactam Sodium</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Potassium Phosphates</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Sodium Bicarbonate</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>3 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Sodium Nitroprusside</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>1.5, 6 and 15 mg/mL</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Sodium Phosphates</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>D<sub>5</sub>W</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>6 mg/mL</paragraph></td></tr></tbody></table>",
+   "<table styleCode=\"Noautorules\" width=\"100%\"><caption>Table 3: RECOMMENDATIONS FOR ORAL DOSAGE AFTER INTRAVENOUS INFUSION</caption><col width=\"50%\"/><col width=\"50%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Duration of Amiodarone Infusion</content><footnote ID=\"_Ref82612732\">Assuming a 720 mg/day infusion (0.5 mg/min).</footnote></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Initial Daily Dose of Oral Amiodarone</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Less than 1 week</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>800 to 1600 mg</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>1 to 3 weeks</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>600 to 800 mg</paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>More than 3 weeks<footnote ID=\"_Ref82612798\">Intravenous amiodarone is not intended for maintenance treatment.</footnote></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>400 mg</paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection, 1.5 mg/mL (150 mg/100 mL) Premixed in Dextrose Injection, 1.8 mg/mL (360 mg/200 mL) Premixed in Dextrose Injection, 1.5 mg/mL (150 mg/100 mL) Premixed in Dextrose (3) Injection, 1.8 mg/mL (360 mg/200 mL) Premixed in Dextrose (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS NEXTERONE is contraindicated in patients with: • Known hypersensitivity to any of the components of NEXTERONE Premixed Injection, including iodine [ see Warnings and Precautions (5.8) ]. • Cardiogenic shock. • Marked sinus bradycardia. • Second- or third-degree atrioventricular (AV) block unless a functioning pacemaker is available. NEXTERONE is contraindicated in patients with (4) : • Known hypersensitivity to any of the components of NEXTERONE, including iodine • Cardiogenic shock • Marked sinus bradycardia • Second- or third-degree atrio-ventricular (AV) block unless a pacemaker is available."
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Hypotension: Slow the infusion; as needed, add vasopressor drugs, positive inotropic agents, and volume expansion. (5.2) • Bradycardia and AV block: Slow the infusion or discontinue. ( 5.3 ) 5.1 Persistence of Adverse Effects Because of the long half-life of amiodarone (9 to 36 days) and its metabolite desethylamiodarone (9 to 30 days), adverse reactions or interactions, as well as observed adverse effects, can persist following amiodarone withdrawal. 5.2 Hypotension Hypotension, the most common adverse reaction seen with intravenous amiodarone seen most often in the first several hours of treatment and is likely related to the rate of infusion. In some cases, hypotension may be refractory and result in a fatal outcome. Hypotension necessitating alterations in intravenous amiodarone therapy was reported in 3% of patients, with permanent discontinuation required in less than 2% of patients. Treat hypotension initially by slowing the infusion; additional standard therapy may be needed, including the following: vasopressor drugs, positive inotropic agents, and volume expansion . Monitor the initial rate of infusion closely and do not exceed the recommended rate [ see Dosage and Administration (2) ]. 5.3 Bradycardia and Atrioventricular Block NEXTERONE causes bradycardia and AV block which may require slowing the infusion rate or discontinuing NEXTERONE. In some patients, inserting a pacemaker is required. Have a temporary pacemaker available when treating a patient predisposed to bradycardia or AV block. 5.4 Hepatic Injury Acute hepatocellular necrosis leading to hepatic coma, acute renal failure, and death has been associated with the administration of intravenous amiodarone. Intravenous infusions at much higher concentrations and rates of infusion than those recommended appear to increase this risk [ see Dosage and Administration (2) ]. Carefully monitor patients receiving NEXTERONE for evidence of progressive hepatic injury. Consider reducing the rate of administration or withdrawing NEXTERONE if hepatic injury occurs. 5.5 Proarrhythmia NEXTERONE may cause a worsening of existing arrhythmias or precipitate a new arrhythmia, sometimes leading to fatal outcomes [ see Adverse Reactions (6.2) ]. Proarrhythmia, primarily torsade de pointes (TdP), has been associated with prolongation, by intravenous amiodarone. Although QTc prolongation occurred frequently in patients receiving intravenous amiodarone, TdP or new-onset VF occurred infrequently (less than 2%). Monitor patients for QTc prolongation during infusion with NEXTERONE. Reserve the combination of amiodarone with other antiarrhythmic therapies that prolong the QTc to patients with life-threatening ventricular arrhythmias who are incompletely responsive to a single agent. Correct hypokalemia, hypomagnesemia or hypocalcemia whenever possible before initiating treatment with NEXTERONE, as these disorders can exaggerate the degree of QTc prolongation and increase the potential for TdP. Give special attention to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or in patients receiving concomitant diuretics and laxatives. 5.6 Pulmonary Injury Early-onset Pulmonary Toxicity There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with intravenous amiodarone. Findings have included pulmonary infiltrates and masses on X-ray, pulmonary fibrosis, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia. Two percent (2%) of patients were reported to have adult respiratory distress syndrome (ARDS) during clinical studies involving 48 hours of therapy. Some cases have progressed to respiratory failure or death. Monitor for new respiratory symptoms and evaluate appropriately. Obtain a baseline chest X-ray and pulmonary function tests in patients who are expected to be receiving amiodarone chronically. 5.7 Loss of Vision Cases of optic neuropathy and optic neuritis, usually resulting in visual impairment, have been reported in patients treated with oral amiodarone or intravenous amiodarone. In some cases, visual impairment has progressed to permanent blindness. Optic neuropathy and neuritis may occur at any time following initiation of therapy. Perform an ophthalmic examination if symptoms of visual impairment appear, such as changes in visual acuity and decreases in peripheral vision. Re-evaluate the necessity of amiodarone therapy if optic neuropathy or neuritis is suspected. 5.8 Thyroid Abnormalities Nexterone inhibits peripheral conversion of throxine (T4) to triiodothyronine (T3) and may cause increased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients. Monitor thyroid function prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction. Hyperthyroidism may induce arrhythmia breakthrough. If any new signs of arrhythmia appear, the possibility of hyperthyroidism should be considered. Antithyroid drugs, β-adrenergic blockers, temporary corticosteroid therapy may be necessary to treat the symptoms of hyperthyroidism. The action of antithyroid drugs may be delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland. Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism. Nexterone-induced hyperthyroidism may be followed by a transient period of hypothyroidism. In some clinically hypothyroid amiodarone-treated patients, free thyroxine index values may be normal. Manage hypothyroidism by reducing the dose of or discontinuing amiodarone and thyroid hormone supplementation. 5.9 Neonatal Injury Amiodarone can cause fetal harm when administered to a pregnant woman. Fetal exposure may increase the potential for adverse experiences including cardiac, thyroid, neurodevelopmental, neurological and growth effects in neonate. Inform the patient of the potential hazard to the fetus if NEXTERONE is administered during pregnancy or if the patient becomes pregnant while taking NEXTERONE [ see Pregnancy (8.1) ]. 5.10 Hypersensitivity Reactions Anaphylactic/anaphylactoid reactions have been reported with intravenous amiodarone including shock (sometimes fatal), cardiac arrest, and the following manifestations: hypotension, tachycardia, hypoxia, cyanosis, rash, Stevens-Johnson syndrome, flushing, hyperhidrosis and cold sweat. 5.11 Phlebitis Infusion site phlebitis has occurred in patients receiving intravenous amiodarone. Intravenous amiodarone concentrations greater than 3 mg/mL have been associated with a high incidence of peripheral vein phlebitis."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions are described elsewhere in labeling: • Hypotension [ see Warnings and Precautions (5.2) ] • Hepatic injury [ see Warnings and Precautions (5.4) ] • Proarrhythmia [ see Warnings and Precautions (5.5) ] • Pulmonary injury [ see Warnings and Precautions (5.6) ] • Thyroid injury [ see Warnings and Precautions (5.8) ] • Hypersensitivity [ see Warnings and Precautions (5.10) ] • The most common adverse reactions (1-2%) leading to discontinuation of intravenous amiodarone therapy are hypotension, asystole/cardiac arrest/pulseless electrical activity, VT, and cardiogenic shock. (6) • Other important adverse reactions are torsade de pointes, congestive heart failure, and liver function test abnormalities. (6) To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare at 1-866-888-2472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a total of 1836 patients in controlled and uncontrolled clinical trials, 14% of patients received intravenous amiodarone for at least one week, 5% received it for at least 2 weeks, 2% received it for at least 3 weeks, and 1% received it for more than 3 weeks. The mean duration of therapy in these studies was 5.6 days; median exposure was 3.7 days. The most important adverse reactions were hypotension, asystole/cardiac arrest/pulseless electrical activity (PEA), cardiogenic shock, congestive heart failure, bradycardia, liver function test abnormalities, VT, and AV block. Overall, treatment was discontinued for about 9% of the patients because of adverse reactions. The most common adverse reactions leading to discontinuation of intravenous amiodarone therapy were hypotension (1.6%), asystole/cardiac arrest/PEA (1.2%), VT (1.1%), and cardiogenic shock (1%). Other adverse reactions reported in less than 2% of patients receiving intravenous amiodarone in controlled and uncontrolled studies included the following: abnormal kidney function, diarrhea, shock, sinus bradycardia, Stevens-Johnson syndrome, VF, and vomiting. 6.2 Post-Marketing Experience The following adverse reactions have been reported in the post-marketing experience during or in close temporal relationship to intravenous amiodarone administration. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Blood and Lymphatic System Disorders: pancytopenia, neutropenia, hemolytic anemia, aplastic anemia, thrombocytopenia, and granulocytosis. Cardiac Disorders: sinus node dysfunction (sinus arrest, sinoatrial block), intraventricular conduction disorders including bundle branch block and infra-HIS block, bradycardia (sometimes fatal), ventricular extrasystoles, and antegrade conduction via an accessory pathway. Endocrine Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH). Eye Disorders: visual field defect and blurred vision. Gastrointestinal Disorders: pancreatitis. General Disorders and Administration Site Conditions: infusion site reactions, including thombosis, phlebitis, thrombophlebitis, cellulitis, pain, induration, edema, inflammation, urticaria, pruritus, erythema, pigment changes, hypoesthesia, skin sloughing, extravasation possibly leading to venous/infusion site necrosis, and granuloma. Hepatobiliary Disorders: cholestasis, cirrhosis, jaundice, alkaline phosphatase and blood lactate dehydrogenase increase. Musculoskeletal and Connective Tissue Disorders: myopathy, muscle weakness, rhabdomyolysis, muscle spasms, and back pain. Neoplasms benign, malignant and unspecified (incl cysts and polyps) Disorders: thyroid nodules/thyroid cancer. Nervous System Disorders: intracranial pressure increased, pseudotumor cerebri, tremor, dizziness and hypoesthesia. Psychiatric Disorders: confusional state, hallucination, disorientation, and delirium. Renal and Urinary Disorders: acute renal failure (sometimes fatal), renal impairment, renal insufficiency, and blood creatinine increased. Reproductive Disorders and Breast Disorders: Epididymitis Respiratory, Thoracic and Mediastinal Disorders: interstitial pneumonitis, bronchiolitis obliterans organizing pneumonia (possibly fatal), pulmonary alveolar hemorrhage, pulmonary phospholipidoisis, pleural effusion, bronchospasm, dyspnea, cough, hemoptysis, wheezing, and hypoxia. Skin and Subcutaneous Tissue Disorders: toxic epidermal necrolysis (sometimes fatal), Stevens-Johnson syndrome, exfoliative dermatitis, erythema multiforme, skin cancer, pruritus, angioedema, and urticaria. Vascular Disorders: vasculitis and flushing."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Drug interactions with amiodarone are described in Table 5 below. Table 5: Amiodarone Drug Interactions Concomitant Drug Class/Name Examples Clinical Comment QT Prolonging Drugs class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents Increased risk of Torsade de Pointes. Avoid concomitant use. Negative Chronotropes digoxin, beta blockers, verapamil, diltiazem, clonidine, ivabradine Potentiates the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest and AV block. Monitor heart rate. CYP450 Inhibitors Grapefruit juice, certain fluoroquinolone and macrolide antibiotics, azole antifungals, cimetidine Increased exposure of amiodarone. Avoid concomitant use. CYP450 Inducers St. John’s Wort Reduced amiodarone serum levels Cyclosporine Increased plasma levels of cyclosporine have been reported resulting in elevated creatinine, despite reduction of cyclosporine dose. Monitor cyclosporine drug levels and renal function with concomitant use. Cholestyramine Reduced amiodarone serum levels Antiarrhythmics quinidine, procainamide, flecainide Reserve concomitant use for patients who are unresponsive to a single agent. Antiarrhythmic metabolism inhibited by amiodarone. Initiate antiarrhythmic at a lower than usual dose and monitor patient carefully. Reduce dose levels of previously administered antiarrhythmic by 30 to 50% for several days after transitioning to oral amiodarone. Evaluate continued need for antiarrhythmic. Digoxin Increased digoxin concentration. Reduce digoxin by half or discontinue. If continued, monitor for evidence of toxicity. HMG-CoA Reductase Inhibitors simvastatin, lovastatin, atorvastatin Increased plasma concentration of HMG-CoA reductase inhibitor. Limit the dose of lovastatin to 40 mg. Limit the coadministered dose of simvastatin to 20 mg. Lower starting dose of other CYP3A4 substrates may be required. Warfarin Potentiates anticoagulant response and can result in serious or fatal bleeding. Coadministration increases INR by 100% after 3 to 4 days. Reduce warfarin dose by one-third to one-half and monitor INR. Phenytoin Increased steady state levels of phenytoin. Monitor phenytoin levels. Hepatitis C direct acting antiviral Sofosbuvir Cases of symptomatic bradyarrhythmia requiring pacemaker insertion have been reported in patients on oral maintenance amiodarone who initiated therapy with Sofosbuvir. • Amiodarone is a substrate for CYP3A and CYP2C8, so inhibitors and inducers affect amiodarone exposure ( 7 ) • Amiodarone inhibits p-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A, increasing exposure to other drugs ( 7 )"
+  ],
+  "drug_interactions_table": [
+   "<table ID=\"_Ref190331614\" styleCode=\"Noautorules\" width=\"100%\"><caption>Table 5: Amiodarone Drug Interactions</caption><col width=\"30%\"/><col width=\"32%\"/><col width=\"38%\"/><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"underline\">Concomitant Drug  Class/Name</content></content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"underline\">Examples</content></content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\"><content styleCode=\"underline\">Clinical Comment</content></content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>QT Prolonging Drugs</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Increased risk of Torsade de Pointes. Avoid concomitant use.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Negative Chronotropes</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>digoxin, beta blockers, verapamil, diltiazem, clonidine, ivabradine </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Potentiates the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest and AV block. Monitor heart rate.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>CYP450 Inhibitors</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Grapefruit juice, certain fluoroquinolone and macrolide antibiotics, azole antifungals, cimetidine</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Increased exposure of amiodarone. Avoid concomitant use.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>CYP450 Inducers</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>St. John&#x2019;s Wort</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Reduced amiodarone serum levels</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Cyclosporine</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Increased plasma levels of cyclosporine have been reported resulting in elevated creatinine, despite reduction of cyclosporine dose. Monitor cyclosporine drug levels and renal function with concomitant use.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Cholestyramine</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Reduced amiodarone serum levels</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Antiarrhythmics</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>quinidine, procainamide, flecainide</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Reserve concomitant use for patients who are unresponsive to a single agent. Antiarrhythmic metabolism inhibited by amiodarone. Initiate antiarrhythmic at a lower than usual dose and monitor patient carefully. Reduce dose levels of previously administered antiarrhythmic by 30 to 50% for several days after transitioning to oral amiodarone. Evaluate continued need for antiarrhythmic.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Digoxin</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Increased digoxin concentration. Reduce digoxin by half or discontinue. If continued, monitor for evidence of toxicity.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>HMG-CoA Reductase Inhibitors</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>simvastatin, lovastatin, atorvastatin</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Increased plasma concentration of HMG-CoA reductase inhibitor.  Limit the dose of lovastatin to 40 mg. Limit the coadministered dose of simvastatin to 20 mg. Lower starting dose of other CYP3A4 substrates may be required.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Warfarin</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Potentiates anticoagulant response and can result in serious or fatal bleeding. Coadministration increases INR by 100% after 3 to 4 days. Reduce warfarin dose by one-third to one-half and monitor INR.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Phenytoin</paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Increased steady state levels of phenytoin. Monitor phenytoin levels.</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Hepatitis C direct acting antiviral</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Sofosbuvir</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Cases of symptomatic bradyarrhythmia requiring pacemaker insertion have been reported in patients on oral maintenance amiodarone who initiated therapy with Sofosbuvir. </paragraph></td></tr></tbody></table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS • Pregnancy: Use NEXTERONE during pregnancy only if the potential benefit to the mother justifies the risk to the fetus (8.1) . • Nursing mothers: Advise mothers to discontinue breast feeding (8.2) . 8.1 Pregnancy Risk Summary Available data from postmarketing reports and published case series indicate that amiodarone use in pregnant women may increase the risk for fetal adverse effects including neonatal hypo- and hyperthyroidism, neonatal bradycardia, neurodevelopmental abnormalities, preterm birth and fetal growth restriction. Amiodarone and its metabolite, desethylamiodarone (DEA), cross the placenta. Untreated underlying arrhythmias, including ventricular arrhythmias, during pregnancy pose a risk to the mother and fetus (see Clinical Considerations). In animal studies, administration of amiodarone to rabbits, rats, and mice during organogenesis resulted in embryo-fetal toxicity at doses less than the maximum recommended human maintenance dose (see Data) . Advise pregnant women of the potential risk to a fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%‑20%, respectively. Clinical Considerations Disease-associated maternal and or embryo/fetal Risk The incidence of ventricular tachycardia is increased and may be more symptomatic during pregnancy. Ventricular arrhythmias most often occur in pregnant women with underlying cardiomyopathy, congenital heart disease, valvular heart disease, or mitral valve prolapse. Most tachycardia episodes are initiated by ectopic beats and the occurrence of arrhythmia episodes may therefore, increase during pregnancy due to the increased propensity to ectopic activity. Breakthrough arrhythmias may also occur during pregnancy, as therapeutic treatment levels may be difficult to maintain due to the increased volume of distribution and increased drug metabolism inherent in the pregnant state. Fetal/Neonatal adverse reactions Amiodarone and its metabolite have been shown to cross the placenta. Adverse fetal effects associated with maternal amiodarone use during pregnancy may include neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles, neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure, neonatal hyperthyroxinemia, neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia, jerk nystagmus with synchronous head titubation, fetal growth restriction, and premature birth. Monitor the newborn for signs and symptoms of thyroid disorder and cardiac arrhythmias. Labor and Delivery Risk of arrhythmias may increase during labor and delivery. Data Animal Data In pregnant rats and rabbits during the period of organogenesis, an amiodarone HCl dose of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose*) had no adverse effects on the fetus. In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose*) caused abortions in greater than 90% of the animals. In the rat, doses of 50 mg/kg/day or more were associated with slight displacement of the testes and an increased incidence of incomplete ossification of some skull and digital bones; at 100 mg/kg/day or more, fetal body weights were reduced; at 200 mg/kg/day, there was an increased incidence of fetal resorption (approximately 0.8, 1.6 and 3.2 times the maximum recommended human maintenance dose*). Adverse effects on fetal growth and survival also were noted in one of two strains of mice at a dose of 5 mg/kg/day (approximately 0.04 times the maximum recommended human maintenance dose*). *600 mg in a 60 kg patient (doses compared on a body surface area basis) 8.2 Lactation Risk Summary Amiodarone and one of its major metabolites, DEA, are present in breastmilk at between 3.5% and 45% of the maternal weight-adjusted dosage of amiodarone. There are cases of hypothyroidism and bradycardia in breastfed infants, although it is unclear if these effects are due to amiodarone exposure in breastmilk. Breastfeeding is not recommended during treatment with NEXTERONE [ see Warnings and Precautions (5.6, 5.7) ]. 8.3 Females and Males of Reproductive Potential Infertility Based on animal fertility studies, NEXTERONE may reduce female and male fertility. It is not known if this effect is reversible. [ see Nonclinical Toxicology (13.1) ]. 8.4 Pediatric Use The safety and effectiveness of amiodarone in pediatric patients have not been established. In a pediatric trial of 61 patients, aged 30 days to 15 years, hypotension (36%), bradycardia (20%), and AV block (15%) were common dose-related adverse reactions and were severe or life-threatening in some cases. Injection site reactions were seen in 5 (25%) of the 20 patients receiving intravenous amiodarone through a peripheral vein irrespective of dose regimen. 8.5 Geriatric Use Clinical studies of amiodarone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Carefully consider dose selection in an elderly patient. In general, start at the low end of the dosing range in the elderly to reflect the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease or other drug therapy."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data from postmarketing reports and published case series indicate that amiodarone use in pregnant women may increase the risk for fetal adverse effects including neonatal hypo- and hyperthyroidism, neonatal bradycardia, neurodevelopmental abnormalities, preterm birth and fetal growth restriction. Amiodarone and its metabolite, desethylamiodarone (DEA), cross the placenta. Untreated underlying arrhythmias, including ventricular arrhythmias, during pregnancy pose a risk to the mother and fetus (see Clinical Considerations). In animal studies, administration of amiodarone to rabbits, rats, and mice during organogenesis resulted in embryo-fetal toxicity at doses less than the maximum recommended human maintenance dose (see Data) . Advise pregnant women of the potential risk to a fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%‑20%, respectively. Clinical Considerations Disease-associated maternal and or embryo/fetal Risk The incidence of ventricular tachycardia is increased and may be more symptomatic during pregnancy. Ventricular arrhythmias most often occur in pregnant women with underlying cardiomyopathy, congenital heart disease, valvular heart disease, or mitral valve prolapse. Most tachycardia episodes are initiated by ectopic beats and the occurrence of arrhythmia episodes may therefore, increase during pregnancy due to the increased propensity to ectopic activity. Breakthrough arrhythmias may also occur during pregnancy, as therapeutic treatment levels may be difficult to maintain due to the increased volume of distribution and increased drug metabolism inherent in the pregnant state. Fetal/Neonatal adverse reactions Amiodarone and its metabolite have been shown to cross the placenta. Adverse fetal effects associated with maternal amiodarone use during pregnancy may include neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles, neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure, neonatal hyperthyroxinemia, neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia, jerk nystagmus with synchronous head titubation, fetal growth restriction, and premature birth. Monitor the newborn for signs and symptoms of thyroid disorder and cardiac arrhythmias. Labor and Delivery Risk of arrhythmias may increase during labor and delivery. Data Animal Data In pregnant rats and rabbits during the period of organogenesis, an amiodarone HCl dose of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose*) had no adverse effects on the fetus. In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose*) caused abortions in greater than 90% of the animals. In the rat, doses of 50 mg/kg/day or more were associated with slight displacement of the testes and an increased incidence of incomplete ossification of some skull and digital bones; at 100 mg/kg/day or more, fetal body weights were reduced; at 200 mg/kg/day, there was an increased incidence of fetal resorption (approximately 0.8, 1.6 and 3.2 times the maximum recommended human maintenance dose*). Adverse effects on fetal growth and survival also were noted in one of two strains of mice at a dose of 5 mg/kg/day (approximately 0.04 times the maximum recommended human maintenance dose*). *600 mg in a 60 kg patient (doses compared on a body surface area basis)"
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of amiodarone in pediatric patients have not been established. In a pediatric trial of 61 patients, aged 30 days to 15 years, hypotension (36%), bradycardia (20%), and AV block (15%) were common dose-related adverse reactions and were severe or life-threatening in some cases. Injection site reactions were seen in 5 (25%) of the 20 patients receiving intravenous amiodarone through a peripheral vein irrespective of dose regimen."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of amiodarone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Carefully consider dose selection in an elderly patient. In general, start at the low end of the dosing range in the elderly to reflect the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease or other drug therapy."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE There have been cases, some fatal, of amiodarone overdose. Effects of an inadvertent overdose of intravenous amiodarone include hypotension, cardiogenic shock, bradycardia, AV block, and hepatotoxicity. Treat hypotension and cardiogenic shock by slowing the infusion rate or with standard therapy: vasopressor drugs, positive inotropic agents, and volume expansion. Bradycardia and AV block may require temporary pacing. Monitor hepatic enzyme concentrations closely. Neither amiodarone nor DEA is dialyzable."
+  ],
+  "description": [
+   "11 DESCRIPTION NEXTERONE contains amiodarone HCl (C 25 H 29 I 2 NO 3 •HCl), a class III antiarrhythmic drug. Amiodarone HCl is (2-butyl-3-benzo-furanyl)[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl]methanone hydrochloride. Amiodarone HCl has the following structural formula: Amiodarone HCl is a white to slightly yellow crystalline powder and is very slightly soluble in water. It has a molecular weight of 681.78 and contains 37.3% iodine by weight. NEXTERONE Premixed Injection is a sterile clear, colorless to slightly yellow solution visually free from particulates. NEXTERONE Premixed Injection is available as a ready-to-use, nonpyrogenic, iso-osmotic solution for intravenous administration in 100-mL GALAXY containers with 150 mg of amiodarone HCl, USP (1.5 mg/mL) in dextrose, and 200-mL GALAXY containers with 360 mg of amiodarone HCl, USP (1.8 mg/mL) in dextrose. NEXTERONE Premixed Injection (150 mg/100 mL, 1.5 mg/mL): Each mL contains 1.5 mg of amiodarone HCl, USP, 15 mg Betadex Sulfobutyl Ether Sodium, NF, 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate and 42.1 mg dextrose anhydrous in water for injection. Sodium hydroxide or hydrochloric acid may have been added to adjust pH. NEXTERONE Premixed Injection (360 mg/200 mL, 1.8 mg/mL): Each mL contains 1.8 mg of amiodarone HCl, USP, 18 mg Betadex Sulfobutyl Ether Sodium, NF, 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate and 41.4 mg dextrose anhydrous in water for injection. Sodium hydroxide or hydrochloric acid may have been added to adjust pH. NEXTERONE does not contain polysorbate 80 or benzyl alcohol. The GALAXY container is fabricated from a specially designed multilayered plastic. Solutions are in contact with the polyethylene layer of the container and can leach out certain chemical components of the plastic in very small amounts within the expiration period. The suitability and safety of the plastic have been confirmed in tests in animals according to the USP biological tests for plastic containers, as well as by tissue culture toxicity studies. Amiodarone HCl Structural Formula"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action. One of its main effects, with prolonged administration, is to lengthen the cardiac action potential, a class III effect. The negative chronotropic effect of amiodarone in nodal tissues is similar to the effect of class IV drugs. In addition to blocking sodium channels, amiodarone blocks myocardial potassium channels, which contributes to slowing of conduction and prolongation of refractoriness. The antisympathetic action and the block of calcium and potassium channels are responsible for the negative dromotropic effects on the sinus node and for the slowing of conduction and prolongation of refractoriness in the atrioventricular (AV) node. Its vasodilatory action can decrease cardiac workload and consequently myocardial oxygen consumption. Intravenous amiodarone administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN) but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infra-nodal conduction (His-ventricular, HV). A comparison of the electrophysiologic effects of intravenous amiodarone and oral amiodarone is shown in the table below. Table 5: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAMETERS Formulation SCL QRS QTc AH HV ERP RA ERP RV ERP AVN Intravenous ↔ ↔ ↔ ↑ ↔ ↔ ↔ ↑ Oral ↑ ↔ ↑ ↑ ↔ ↑ ↑ ↑ ↔No change At higher doses (>10 mg/kg) of intravenous amiodarone, prolongation of the ERP RV and modest prolongation of the QRS have been seen. These differences between oral and IV administration suggest that the initial acute effects of intravenous amiodarone may be predominately focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity). 12.2 Pharmacodynamics Intravenous amiodarone has been reported to produce negative inotropic and vasodilatory effects in animals and humans. In clinical studies of patients with refractory VF or hemodynamically unstable VT, treatment-emergent, drug-related hypotension occurred in 288 of 1836 patients (16%) treated with intravenous amiodarone. No correlations were seen between the baseline ejection fraction and the occurrence of clinically significant hypotension during infusion of intravenous amiodarone. No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself. DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain. The development of maximal ventricular class III effects after oral amiodarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation. On the other hand, after intravenous amiodarone administration, there is evidence of activity well before significant concentrations of DEA are attained [ see Clinical Trials (14) ]. There is no established relationship between drug concentration and therapeutic response for short-term intravenous use. 12.3 Pharmacokinetics Absorption: Amiodarone exhibits complex disposition characteristics after intravenous administration. Peak serum concentrations after single 5 mg/kg 15-minute intravenous infusions in healthy subjects range between 5 and 41 mg/L. Peak concentrations after 10-minute infusions of 150 mg intravenous amiodarone in patients with ventricular fibrillation (VF) or hemodynamically unstable ventricular tachycardia (VT) range between 7 and 26 mg/L. Because of rapid distribution, serum concentrations decline to 10% of peak values within 30 to 45 minutes after the end of the infusion. In clinical trials, after 48 hours of continued infusions (125, 500 or 1000 mg/day) plus supplemental (150 mg) infusions (for recurrent arrhythmias), amiodarone mean serum concentrations between 0.7 to 1.4 mg/L were observed (n=260). Distribution: From in vitro studies, the protein binding of amiodarone is >96%. Amiodarone and DEA cross the placenta and both appear in breast milk. Neither amiodarone nor DEA is dialyzable. Elimination: Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine. In studies in healthy subjects following single intravenous administration (5 mg/kg of amiodarone over 15 min), the plasma concentration vs. time profile could be characterized by linear sum of four exponential terms with terminal elimination half-lives (t½) of 9 - 36 days for amiodarone and 9 - 30 days for DEA. The clearance of amiodarone and DEA ranged between 63 - 231 mL/h/kg and 140 - 400 ml/h/kg, respectively. In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/h/kg. Metabolism: N-desethylamiodarone (DEA) is the major active metabolite of amiodarone in humans. DEA serum concentrations above 0.05 mg/L are not usually seen until after several days of continuous infusion but with prolonged therapy reach approximately the same concentration as amiodarone. Amiodarone is metabolized to DEA by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P4503A (CYP3A) and CYP2C8. The CYP3A isoenzyme is present in both the liver and intestines. Specific Populations: Age: The pharmacokinetics of amiodarone and DEA are affected by age. Normal subjects over 65 years of age show lower clearances (about 100 mL/h/kg) than younger subjects (about 150 mL/h/kg) and an increase in t½ from about 20 to 47 days. Sex: Pharmacokinetics of amiodarone and DEA are similar in males and females. Renal Impairment: Renal disease does not influence the pharmacokinetics of amiodarone or DEA. Hepatic Impairment: After a single dose of intravenous amiodarone to cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged. Cardiac Disease: In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal elimination t½ of DEA is prolonged. Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction. Drug Interactions: Effect of other drugs on amiodarone : Cimetidine inhibits CYP3A and can increase serum amiodarone levels. Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and C max by 84%, resulting in increased plasma levels of amiodarone. Cholestyramine reduces enterohepatic circulation of amiodarone thereby increasing its elimination. This results in reduced amiodarone serum levels and half-life. Effect of amiodarone on other drugs : Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days. Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively. Loratadine , a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone. Metabolism of lidocaine can be inhibited by amiodarone. Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine (CYP3A substrate) given for local anesthesia. Seizure, associated with increased lidocaine concentrations, has been reported with concomitant administration of intravenous amiodarone. Amiodarone can inhibit the metabolism of macrolide/ketolide antibiotics (except for azithromycin) and systemic azole antifungal drugs. Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day. Dextromethorphan is a substrate for both CYP2D6 and CYP3A. Amiodarone inhibits CYP2D6.Chronic (> 2 weeks) oral amiodarone administration impairs metabolism of dextromethorphan can lead to increased serum concentrations. Cyclophosphamide is a prodrug , metabolized by CYP450 including CYP3A to an active metabolite. The metabolism of cyclophosphamide may be inhibited by amiodarone."
+  ],
+  "clinical_pharmacology_table": [
+   "<table width=\"100%\"><caption>Table 5: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAMETERS</caption><col width=\"20%\"/><col width=\"10%\"/><col width=\"9%\"/><col width=\"9%\"/><col width=\"9%\"/><col width=\"9%\"/><col width=\"11%\"/><col width=\"11%\"/><col width=\"12%\"/><tbody><tr><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Formulation</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>SCL</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>QRS</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>QTc</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>AH</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>HV</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>ERP RA</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>ERP RV</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph>ERP AVN</paragraph></td></tr><tr><td styleCode=\"Lrule \" valign=\"top\"><paragraph>Intravenous</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" styleCode=\"Rrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>Oral</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td></tr><tr><td styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph> &#x2194;No change</paragraph></td><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/></tr></tbody></table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action. One of its main effects, with prolonged administration, is to lengthen the cardiac action potential, a class III effect. The negative chronotropic effect of amiodarone in nodal tissues is similar to the effect of class IV drugs. In addition to blocking sodium channels, amiodarone blocks myocardial potassium channels, which contributes to slowing of conduction and prolongation of refractoriness. The antisympathetic action and the block of calcium and potassium channels are responsible for the negative dromotropic effects on the sinus node and for the slowing of conduction and prolongation of refractoriness in the atrioventricular (AV) node. Its vasodilatory action can decrease cardiac workload and consequently myocardial oxygen consumption. Intravenous amiodarone administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN) but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infra-nodal conduction (His-ventricular, HV). A comparison of the electrophysiologic effects of intravenous amiodarone and oral amiodarone is shown in the table below. Table 5: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAMETERS Formulation SCL QRS QTc AH HV ERP RA ERP RV ERP AVN Intravenous ↔ ↔ ↔ ↑ ↔ ↔ ↔ ↑ Oral ↑ ↔ ↑ ↑ ↔ ↑ ↑ ↑ ↔No change At higher doses (>10 mg/kg) of intravenous amiodarone, prolongation of the ERP RV and modest prolongation of the QRS have been seen. These differences between oral and IV administration suggest that the initial acute effects of intravenous amiodarone may be predominately focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity)."
+  ],
+  "mechanism_of_action_table": [
+   "<table width=\"100%\"><caption>Table 5: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAMETERS</caption><col width=\"20%\"/><col width=\"10%\"/><col width=\"9%\"/><col width=\"9%\"/><col width=\"9%\"/><col width=\"9%\"/><col width=\"11%\"/><col width=\"11%\"/><col width=\"12%\"/><tbody><tr><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph>Formulation</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>SCL</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>QRS</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>QTc</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>AH</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>HV</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>ERP RA</paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph>ERP RV</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph>ERP AVN</paragraph></td></tr><tr><td styleCode=\"Lrule \" valign=\"top\"><paragraph>Intravenous</paragraph></td><td align=\"center\" styleCode=\"Toprule \" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" styleCode=\"Rrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>Oral</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2194;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&#x2191;</paragraph></td></tr><tr><td styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph> &#x2194;No change</paragraph></td><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/><td styleCode=\"Botrule Toprule \" valign=\"top\"/></tr></tbody></table>"
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Intravenous amiodarone has been reported to produce negative inotropic and vasodilatory effects in animals and humans. In clinical studies of patients with refractory VF or hemodynamically unstable VT, treatment-emergent, drug-related hypotension occurred in 288 of 1836 patients (16%) treated with intravenous amiodarone. No correlations were seen between the baseline ejection fraction and the occurrence of clinically significant hypotension during infusion of intravenous amiodarone. No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself. DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain. The development of maximal ventricular class III effects after oral amiodarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation. On the other hand, after intravenous amiodarone administration, there is evidence of activity well before significant concentrations of DEA are attained [ see Clinical Trials (14) ]. There is no established relationship between drug concentration and therapeutic response for short-term intravenous use."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption: Amiodarone exhibits complex disposition characteristics after intravenous administration. Peak serum concentrations after single 5 mg/kg 15-minute intravenous infusions in healthy subjects range between 5 and 41 mg/L. Peak concentrations after 10-minute infusions of 150 mg intravenous amiodarone in patients with ventricular fibrillation (VF) or hemodynamically unstable ventricular tachycardia (VT) range between 7 and 26 mg/L. Because of rapid distribution, serum concentrations decline to 10% of peak values within 30 to 45 minutes after the end of the infusion. In clinical trials, after 48 hours of continued infusions (125, 500 or 1000 mg/day) plus supplemental (150 mg) infusions (for recurrent arrhythmias), amiodarone mean serum concentrations between 0.7 to 1.4 mg/L were observed (n=260). Distribution: From in vitro studies, the protein binding of amiodarone is >96%. Amiodarone and DEA cross the placenta and both appear in breast milk. Neither amiodarone nor DEA is dialyzable. Elimination: Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine. In studies in healthy subjects following single intravenous administration (5 mg/kg of amiodarone over 15 min), the plasma concentration vs. time profile could be characterized by linear sum of four exponential terms with terminal elimination half-lives (t½) of 9 - 36 days for amiodarone and 9 - 30 days for DEA. The clearance of amiodarone and DEA ranged between 63 - 231 mL/h/kg and 140 - 400 ml/h/kg, respectively. In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/h/kg. Metabolism: N-desethylamiodarone (DEA) is the major active metabolite of amiodarone in humans. DEA serum concentrations above 0.05 mg/L are not usually seen until after several days of continuous infusion but with prolonged therapy reach approximately the same concentration as amiodarone. Amiodarone is metabolized to DEA by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P4503A (CYP3A) and CYP2C8. The CYP3A isoenzyme is present in both the liver and intestines. Specific Populations: Age: The pharmacokinetics of amiodarone and DEA are affected by age. Normal subjects over 65 years of age show lower clearances (about 100 mL/h/kg) than younger subjects (about 150 mL/h/kg) and an increase in t½ from about 20 to 47 days. Sex: Pharmacokinetics of amiodarone and DEA are similar in males and females. Renal Impairment: Renal disease does not influence the pharmacokinetics of amiodarone or DEA. Hepatic Impairment: After a single dose of intravenous amiodarone to cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged. Cardiac Disease: In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal elimination t½ of DEA is prolonged. Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction. Drug Interactions: Effect of other drugs on amiodarone : Cimetidine inhibits CYP3A and can increase serum amiodarone levels. Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and C max by 84%, resulting in increased plasma levels of amiodarone. Cholestyramine reduces enterohepatic circulation of amiodarone thereby increasing its elimination. This results in reduced amiodarone serum levels and half-life. Effect of amiodarone on other drugs : Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days. Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively. Loratadine , a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone. Metabolism of lidocaine can be inhibited by amiodarone. Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine (CYP3A substrate) given for local anesthesia. Seizure, associated with increased lidocaine concentrations, has been reported with concomitant administration of intravenous amiodarone. Amiodarone can inhibit the metabolism of macrolide/ketolide antibiotics (except for azithromycin) and systemic azole antifungal drugs. Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day. Dextromethorphan is a substrate for both CYP2D6 and CYP3A. Amiodarone inhibits CYP2D6.Chronic (> 2 weeks) oral amiodarone administration impairs metabolism of dextromethorphan can lead to increased serum concentrations. Cyclophosphamide is a prodrug , metabolized by CYP450 including CYP3A to an active metabolite. The metabolism of cyclophosphamide may be inhibited by amiodarone."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No carcinogenicity studies were conducted with intravenous administration of amiodarone. However, oral amiodarone caused a statistically significant, dose-related increase in the incidence of thyroid tumors (follicular adenoma and carcinoma) in rats. The incidence of thyroid tumors in rats was greater than the incidence in controls even at the lowest dose level tested, i.e., 5 mg/kg/day (much less, on a body surface area basis, than the maximum recommended human maintenance dose of 600 mg/day). Mutagenicity studies conducted with amiodarone HCl (Ames, micronucleus, and lysogenic induction tests) were negative. No fertility studies were conducted with intravenous administration of amiodarone. However, in a study in which amiodarone HCl was orally administered to male and female rats, beginning 9 weeks prior to mating, reduced fertility was observed at a dose level of 90 mg/kg/day (approximately 1.4 times the maximum recommended human maintenance dose of 600 mg/day)."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No carcinogenicity studies were conducted with intravenous administration of amiodarone. However, oral amiodarone caused a statistically significant, dose-related increase in the incidence of thyroid tumors (follicular adenoma and carcinoma) in rats. The incidence of thyroid tumors in rats was greater than the incidence in controls even at the lowest dose level tested, i.e., 5 mg/kg/day (much less, on a body surface area basis, than the maximum recommended human maintenance dose of 600 mg/day). Mutagenicity studies conducted with amiodarone HCl (Ames, micronucleus, and lysogenic induction tests) were negative. No fertility studies were conducted with intravenous administration of amiodarone. However, in a study in which amiodarone HCl was orally administered to male and female rats, beginning 9 weeks prior to mating, reduced fertility was observed at a dose level of 90 mg/kg/day (approximately 1.4 times the maximum recommended human maintenance dose of 600 mg/day)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES Apart from studies in patients with VT or VF, described below, there are two other studies of amiodarone showing an antiarrhythmic effect before significant levels of DEA could have accumulated. A placebo-controlled study of intravenous amiodarone (300 mg over 2 hours followed by 1200 mg/day) in post-coronary artery bypass graft patients with supraventricular and 2- to 3-consecutive-beat ventricular arrhythmias showed a reduction in arrhythmias from 12 hours on. A baseline-controlled study using a similar IV regimen in patients with recurrent, refractory VT/VF also showed rapid onset of antiarrhythmic activity; amiodarone therapy reduced episodes of VT by 85% compared to baseline. The acute effectiveness of intravenous amiodarone in suppressing recurrent VF or hemodynamically unstable VT is supported by two randomized, parallel, dose-response studies of approximately 300 patients each. In these studies, patients with at least two episodes of VF or hemodynamically unstable VT in the preceding 24 hours were randomly assigned to receive doses of approximately 125 or 1000 mg over the first 24 hours, an 8-fold difference. In one study, a middle dose of approximately 500 mg was evaluated. The dose regimen consisted of an initial rapid loading infusion, followed by a slower 6-hour loading infusion, and then an 18-hour maintenance infusion. The maintenance infusion was continued up to hour 48. Additional 10-minute infusions of 150 mg intravenous amiodarone were given for \"breakthrough\" VT/VF more frequently to the 125 mg dose group, thereby considerably reducing the planned 8-fold differences in total dose to 1.8- and 2.6-fold, respectively, in the two studies. The prospectively defined primary efficacy end point was the rate of VT/VF episodes per hour. For both studies, the median rate was 0.02 episodes per hour in patients receiving the high dose and 0.07 episodes per hour in patients receiving the low dose, or approximately 0.5 versus 1.7 episodes per day (p=0.07, 2-sided, in both studies). In one study, the time to first episode of VT/VF was significantly prolonged (approximately 10 hours in patients receiving the low dose and 14 hours in patients receiving the high dose). In both studies, significantly fewer supplemental infusions were given to patients in the high-dose group. At the end of double-blind therapy or after 48 hours, all patients were given open access to whatever treatment (including intravenous amiodarone) was deemed necessary. Mortality was not affected in these studies."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING NEXTERONE (amiodarone HCl) Premixed Injection is supplied as a ready-to-use, sterile, nonpyrogenic, iso-osmotic solution in 100 mL and 200 mL single-dose GALAXY containers packaged in individual cartons as follows: 150 mg/100 mL NDC 43066 – 150 – 10 2G3451 360 mg/200 mL NDC 43066 – 360 – 20 2G3450 Do not add supplementary medication to NEXTERONE Premixed Injection. Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F). See USP Controlled Room Temperature. Protect from light and excessive heat. Protect from freezing. Use carton to protect contents from light until used."
+  ],
+  "how_supplied_table": [
+   "<table styleCode=\"Noautorules\" width=\"100%\"><col width=\"28%\"/><col width=\"36%\"/><col width=\"36%\"/><tbody><tr><td align=\"center\" valign=\"top\"><paragraph>150 mg/100 mL</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>NDC 43066 &#x2013; 150 &#x2013; 10</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>2G3451</paragraph></td></tr><tr><td align=\"center\" valign=\"top\"><paragraph>360 mg/200 mL</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>NDC 43066 &#x2013; 360 &#x2013; 20</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>2G3450</paragraph></td></tr></tbody></table>"
+  ],
+  "set_id": "e9108958-b8d7-4fba-87c3-9a32990de551",
+  "id": "86598704-4a32-4696-b2c2-2861e28db76a",
+  "effective_time": "20240416",
+  "version": "25"
+ }
+}

@@ -1,0 +1,755 @@
+{
+ "id_es": "mesalazina",
+ "generic_en": "mesalamine",
+ "search": "openfda.generic_name.exact:\"MESALAMINE\"",
+ "downloaded": "2026-11-11T06:45Z",
+ "chosen": {
+  "set_id": "3098a080-be86-4265-9818-7fc4beab77b7",
+  "id": "9d96c4cc-60fa-4030-ba4c-f4042a327fc5",
+  "effective_time": "20261026",
+  "version": "50",
+  "brand_name": [
+   "Lialda"
+  ],
+  "generic_name": [
+   "MESALAMINE"
+  ],
+  "manufacturer_name": [
+   "Takeda Pharmaceuticals America, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA022000"
+  ],
+  "n_sections": 34
+ },
+ "candidates": [
+  {
+   "set_id": "54cfed92-5e28-4a4d-a70f-2a60b5b54c12",
+   "id": "f0d28b87-9b66-4465-9d77-625d7d5cfd1d",
+   "effective_time": "20261103",
+   "version": "8",
+   "brand_name": [
+    "MESALAMINE"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "KLM Laboratories Private Limited"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220016"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "d6c0fc76-644e-4301-9672-f432061e3d37",
+   "id": "1d31ff9b-5295-4466-87a3-0bb4692ee0e8",
+   "effective_time": "20261102",
+   "version": "6",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214477"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "533bfaf5-0add-4b49-a4f2-ddea2b83f65d",
+   "id": "50c5a3f6-2342-4cc3-8be9-d7ec199e08b8",
+   "effective_time": "20261027",
+   "version": "16",
+   "brand_name": [
+    "mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091640"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "3098a080-be86-4265-9818-7fc4beab77b7",
+   "id": "9d96c4cc-60fa-4030-ba4c-f4042a327fc5",
+   "effective_time": "20261026",
+   "version": "50",
+   "brand_name": [
+    "Lialda"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022000"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "4e3b6325-a5bf-4c47-931c-142c0e4d7c3a",
+   "id": "40b30d85-e11b-40a8-b15c-34a9f2efdea8",
+   "effective_time": "20261023",
+   "version": "11",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022000"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "e39d9a3d-5d3a-4bb6-aab1-fdbb2a598606",
+   "id": "d98da9dd-6bcf-469c-bf7c-080565f146ce",
+   "effective_time": "20261023",
+   "version": "43",
+   "brand_name": [
+    "Pentasa"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020049"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "7951139c-b271-45a4-b523-34b23800917b",
+   "id": "1ef1bb0d-b2e4-4c59-aefa-86344e0b1e28",
+   "effective_time": "20261022",
+   "version": "36",
+   "brand_name": [
+    "APRISO"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Salix Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022301"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "cd8493f7-91fd-4c2d-b3d7-c1301825586b",
+   "id": "eec692f7-504b-4f61-a5c6-e925db3a58b2",
+   "effective_time": "20261022",
+   "version": "6",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208954"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "43f69db3-81ac-4da4-a61f-fbba6299d9c2",
+   "id": "640f37f5-0246-46d4-8c1c-23cbcf33bc0b",
+   "effective_time": "20261019",
+   "version": "15",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Ascend Laboratories, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214242"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "89d91601-152b-4398-bebe-af1c023e9935",
+   "id": "1b5b916a-214b-4fb9-bca1-407b8107071f",
+   "effective_time": "20261014",
+   "version": "32",
+   "brand_name": [
+    "Canasa"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Allergan, Inc."
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021252"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "e3b84397-a5a5-40cf-8145-0584103d465f",
+   "id": "8a38eac4-cd92-469f-a963-f92f34eeb950",
+   "effective_time": "20260922",
+   "version": "2",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Teva Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213191"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "6fd0a906-e1b5-4238-a79b-a195510ddc84",
+   "id": "6f8ffa78-4015-4d3f-bc46-ee714b6d823d",
+   "effective_time": "20260921",
+   "version": "12",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Teva Pharmaceuticals USA, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207873"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "ad8c7930-92e2-4372-a874-da22b9ae333e",
+   "id": "c0632252-76dc-47f7-af52-1ec304de3696",
+   "effective_time": "20260917",
+   "version": "10",
+   "brand_name": [
+    "mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203286"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "c1ed6fcc-7fd4-4b8a-9ddb-e772ea930e9e",
+   "id": "5bb0e32f-b783-8772-e063-6294a90a410d",
+   "effective_time": "20260917",
+   "version": "6",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207873"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "00f77203-3615-47e8-ae25-6e1cf8a2a00a",
+   "id": "4923f79f-af2b-425a-9ec0-b5e56ed0fdb7",
+   "effective_time": "20260916",
+   "version": "12",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215067"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "e505ab99-1943-4216-a178-4d5dbe64e3b2",
+   "id": "8c9b1d5d-7391-4bf0-b0d5-079c5c45526f",
+   "effective_time": "20260803",
+   "version": "18",
+   "brand_name": [
+    "Rowasa"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Viatris Specialty LLC"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019618"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "14ac4435-903b-41f5-a3c4-8c73de3e4cef",
+   "id": "e7f5f41b-7561-46f4-b971-302257bc0178",
+   "effective_time": "20260727",
+   "version": "8",
+   "brand_name": [
+    "mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091640"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "47b5d1ee-b439-4ccb-9b01-c0875ccd748a",
+   "id": "52d8e30f-56bb-4822-8c6b-448ca3cd1923",
+   "effective_time": "20260630",
+   "version": "3",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Sandoz Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219997"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "875d573f-99a1-426a-8321-4d511690d503",
+   "id": "5352a04b-3756-6513-e063-6294a90a7c0b",
+   "effective_time": "20260603",
+   "version": "1",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Nuvaila Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211858"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "485ed763-976e-4410-a401-7ff762a931b3",
+   "id": "9411a710-a60c-4f4b-a28c-1f72d80eaf35",
+   "effective_time": "20260520",
+   "version": "3",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215269"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "4c4ffb68-3ca4-35cd-e063-6294a90ab929",
+   "id": "4c4ffb68-3c5f-35cd-e063-6294a90ab929",
+   "effective_time": "20260305",
+   "version": "1",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217533"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "73317da3-cba0-4106-9e88-79b0e2f642af",
+   "id": "380df1f0-2282-4c49-bd7c-40b244f875d4",
+   "effective_time": "20260224",
+   "version": "9",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Actavis Pharma, Inc."
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205654"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "22f3ee49-ac57-84f5-e063-6394a90aae91",
+   "id": "485f7bde-a4c9-b05b-e063-6394a90a34cf",
+   "effective_time": "20260114",
+   "version": "2",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213191"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "9703f92d-1d15-4376-8b2b-51502c266012",
+   "id": "462a53ff-353f-3cdf-e063-6394a90af853",
+   "effective_time": "20251217",
+   "version": "3",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217337"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "c26ae6cb-041b-4cfc-90ca-c4e1cb23458c",
+   "id": "92e26463-9c71-456e-b800-351162846b68",
+   "effective_time": "20251210",
+   "version": "2",
+   "brand_name": [
+    "Mesalamine"
+   ],
+   "generic_name": [
+    "MESALAMINE"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219028"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE LIALDA ® is indicated for the: induction and maintenance of remission in adult patients with mildly to moderately active ulcerative colitis. treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg. LIALDA is an aminosalicylate indicated for the: induction and maintenance of remission in adult patients with mildly to moderately active ulcerative colitis. ( 1 ) treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Administration Instructions Evaluate renal function prior to initiation of LIALDA and periodically while on therapy. ( 2 , 5.1 ) Swallow LIALDA tablets whole; do not split or crush. ( 2 ) Administer LIALDA tablets with food. ( 2 ) Drink an adequate amount of fluids. ( 2 , 5.8 ) Recommended Dosage in Adults For induction of remission : 2.4 g to 4.8 g (two to four 1.2-g tablets) once daily. ( 2 ) For maintenance of remission : 2.4 g (two 1.2-g tablets) once daily. ( 2 ) Recommended Dosage in Pediatric Patients The recommended dosage for treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg who can swallow tablets whole is shown below: ( 2 ) Weight of Pediatric Patient Once Daily LIALDA Dosage Week 0 to Week 8 After Week 8 24 kg to 35 kg 2.4 g (two 1.2-g tablets) 1.2 g (one 1.2-g tablet) Greater than 35 kg to 50 kg 3.6 g (three 1.2-g tablets) 2.4 g (two 1.2-g tablets) Greater than 50 kg 4.8 g (four 1.2-g tablets) 2.4 g (two 1.2-g tablets) Administration Instructions Evaluate renal function prior to initiation of LIALDA and periodically while on therapy. Swallow LIALDA tablets whole; do not split or crush. Administer LIALDA tablets with food [see Clinical Pharmacology (12.3) ] . Drink an adequate amount of fluids [see Warnings and Precautions (5.8) ] . Adults The recommended dosage for the induction of remission in adult patients with mildly to moderately active ulcerative colitis is 2.4 g to 4.8 g (two to four 1.2-g tablets) taken once daily. The recommended dosage for the maintenance of remission is 2.4 g (two 1.2-g tablets) taken once daily. Pediatric Patients The recommended dosage for treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg who can swallow whole tablets is shown in Table 1: Table 1: Recommended Dosage of LIALDA for the Treatment of Mildly to Moderately Active Ulcerative Colitis in Pediatric Patients Weighing at least 24 kg Weight of Pediatric Patient Once Daily LIALDA Dosage Week 0 to Week 8 After Week 8 24 kg to 35 kg 2.4 g (two 1.2-g tablets) 1.2 g (one 1.2-g tablet) Greater than 35 kg to 50 kg 3.6 g (three 1.2-g tablets) 2.4 g (two 1.2-g tablets) Greater than 50 kg 4.8 g (four 1.2-g tablets) 2.4 g (two 1.2-g tablets)"
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"100%\"> <colgroup> <col width=\"40%\" align=\"left\" valign=\"middle\"/> <col width=\"30%\" align=\"center\" valign=\"middle\"/> <col width=\"30%\" align=\"center\" valign=\"middle\"/> </colgroup> <thead> <tr> <th styleCode=\"Lrule Rrule\" rowspan=\"2\" align=\"left\">Weight of Pediatric Patient</th> <th styleCode=\"Botrule Rrule\" colspan=\"2\" align=\"center\">Once Daily LIALDA Dosage</th> </tr> <tr> <th styleCode=\"Rrule\" align=\"center\">Week 0 to Week 8</th> <th styleCode=\"Rrule\" align=\"center\">After Week 8</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"left\">24 kg to 35 kg</td> <td styleCode=\"Rrule\" align=\"center\">2.4 g (two 1.2-g tablets)</td> <td styleCode=\"Rrule\" align=\"center\">1.2 g (one 1.2-g tablet)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Greater than 35 kg to 50 kg</td> <td styleCode=\"Rrule\" align=\"center\">3.6 g (three 1.2-g tablets)</td> <td styleCode=\"Rrule\" align=\"center\">2.4 g (two 1.2-g tablets)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\" align=\"left\">Greater than 50 kg</td> <td styleCode=\"Rrule\" align=\"center\">4.8 g (four 1.2-g tablets)</td> <td styleCode=\"Rrule\" align=\"center\">2.4 g (two 1.2-g tablets)</td> </tr> </tbody> </table>",
+   "<table ID=\"table1\" width=\"90%\"> <caption>Table 1: Recommended Dosage of LIALDA for the Treatment of Mildly to Moderately Active Ulcerative Colitis in Pediatric Patients Weighing at least 24 kg</caption> <colgroup> <col width=\"34%\" align=\"left\" valign=\"middle\"/> <col width=\"33%\" align=\"center\" valign=\"middle\"/> <col width=\"33%\" align=\"center\" valign=\"middle\"/> </colgroup> <thead> <tr> <th styleCode=\"Lrule Rrule\" rowspan=\"2\" align=\"left\" valign=\"middle\">Weight of Pediatric Patient</th> <th styleCode=\"Botrule Rrule\" colspan=\"2\" align=\"center\">Once Daily LIALDA Dosage</th> </tr> <tr> <th styleCode=\"Rrule\" align=\"center\">Week 0 to Week 8</th> <th styleCode=\"Rrule\" align=\"center\">After Week 8</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"left\">24 kg to 35 kg</td> <td styleCode=\"Rrule\" align=\"center\">2.4 g (two 1.2-g tablets)</td> <td styleCode=\"Rrule\" align=\"center\">1.2 g (one 1.2-g tablet)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Greater than 35 kg to 50 kg</td> <td styleCode=\"Rrule\" align=\"center\">3.6 g (three 1.2-g tablets)</td> <td styleCode=\"Rrule\" align=\"center\">2.4 g (two 1.2-g tablets)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\" align=\"left\">Greater than 50 kg</td> <td styleCode=\"Rrule\" align=\"center\">4.8 g (four 1.2-g tablets)</td> <td styleCode=\"Rrule\" align=\"center\">2.4 g (two 1.2-g tablets)</td> </tr> </tbody> </table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS The red-brown ellipsoidal delayed-release tablet containing 1.2 g mesalamine is debossed on one side and imprinted with S476. Delayed-Release Tablets: 1.2 g ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS LIALDA is contraindicated in patients with known or suspected hypersensitivity to salicylates, aminosalicylates, or to any of the ingredients of LIALDA [see Warnings and Precautions (5.3) , Adverse Reactions (6.2) , Description (11) ] . Known or suspected hypersensitivity to salicylates or aminosalicylates or to any of the ingredients of LIALDA. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Renal Impairment : Assess renal function at the beginning of treatment and periodically during treatment. Evaluate the risks and benefits of LIALDA in patients with known renal impairment or taking nephrotoxic drugs. Discontinue LIALDA if renal function deteriorates while on therapy. ( 5.1 , 7.1 , 8.6 ) Mesalamine-Induced Acute Intolerance Syndrome : Symptoms may be difficult to distinguish from an ulcerative colitis exacerbation. Monitor for worsening symptoms while on treatment. Discontinue treatment if acute intolerance syndrome is suspected. ( 5.2 ) Hypersensitivity Reactions, including myocarditis and pericarditis : Evaluate patients immediately and discontinue LIALDA if a hypersensitivity reaction is suspected. ( 5.3 ) Hepatic Failure : Evaluate the risks and benefits of using LIALDA in patients with known liver impairment. ( 5.4 ) Severe Cutaneous Adverse Reactions : Discontinue at the first signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation. ( 5.5 ) Upper Gastrointestinal Tract Obstruction : Avoid in patients with pyloric stenosis or other organic or functional obstruction. ( 5.6 ) Photosensitivity : Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors. ( 5.7 ) Nephrolithiasis : Cases of nephrolithiasis have been reported with the use of mesalamine. Mesalamine-containing stones are undetectable by standard radiography or computed tomography (CT). Ensure adequate hydration during treatment. ( 5.8 ) Interference With Laboratory Tests : Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection. ( 5.9 ) 5.1 Renal Impairment Renal impairment, including minimal change disease, acute and chronic interstitial nephritis, and, rarely, renal failure, has been reported in patients given products such as LIALDA that contain mesalamine or are converted to mesalamine. In animal studies, the kidney was the principal organ of mesalamine toxicity [see Adverse Reactions (6.2) , Nonclinical Toxicology (13.2) ] . Evaluate renal function prior to initiation of LIALDA therapy and periodically while on therapy. Evaluate the risks and benefits of using LIALDA in patients with known renal impairment, history of renal disease, or taking concomitant nephrotoxic drugs. Discontinue LIALDA if renal function deteriorates while on therapy [see Drug Interactions (7.1) , Use in Specific Populations (8.6) ]. 5.2 Mesalamine-Induced Acute Intolerance Syndrome Mesalamine has been associated with an acute intolerance syndrome that may be difficult to distinguish from an exacerbation of ulcerative colitis. Although the exact frequency of occurrence has not been determined, it has occurred in 3% of patients in controlled clinical trials of mesalamine or sulfasalazine. Symptoms include cramping, acute abdominal pain, and bloody diarrhea, and sometimes fever, headache, and rash. Monitor patients closely for worsening of these symptoms while on treatment. If acute intolerance syndrome is suspected, promptly discontinue treatment with LIALDA. 5.3 Hypersensitivity Reactions Hypersensitivity reactions have been reported in patients taking sulfasalazine. Some of these patients may have a similar reaction to LIALDA tablets or to other compounds that contain or are converted to mesalamine. As with sulfasalazine, mesalamine-induced hypersensitivity reactions may present as internal organ involvement, including myocarditis, pericarditis, nephritis, hepatitis, pneumonitis, and hematologic abnormalities. Evaluate patients immediately if signs or symptoms of a hypersensitivity reaction are present. Discontinue LIALDA if an alternative etiology for the signs or symptoms cannot be established. 5.4 Hepatic Failure There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine. Evaluate the risks and benefits of using LIALDA in patients with known liver impairment. 5.5 Severe Cutaneous Adverse Reactions Severe cutaneous adverse reactions, such as Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of mesalamine [see Adverse Reactions (6.2) ] . Discontinue LIALDA at the first appearance of signs or symptoms of severe cutaneous adverse reactions or other signs of hypersensitivity and consider further evaluation. 5.6 Upper Gastrointestinal Tract Obstruction Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of LIALDA, which would delay mesalamine release in the colon. Avoid LIALDA in patients at risk of upper gastrointestinal tract obstruction. 5.7 Photosensitivity Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions. Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors. 5.8 Nephrolithiasis Cases of nephrolithiasis have been reported with the use of mesalamine, including stones with a 100% mesalamine content. Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT). Ensure adequate hydration during treatment with LIALDA. 5.9 Interference with Laboratory Tests Use of LIALDA may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and the main metabolite of mesalamine, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA). Consider an alternative, selective assay for normetanephrine."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: Renal impairment, including renal failure [see Warnings and Precautions (5.1) ] Mesalamine-induced acute intolerance syndrome [see Warnings and Precautions (5.2) ] Hypersensitivity reactions [see Warnings and Precautions (5.3) ] Hepatic failure [see Warnings and Precautions (5.4) ] Severe cutaneous adverse reactions [see Warnings and Precautions (5.5) ] Upper gastrointestinal tract obstruction [see Warnings and Precautions (5.6) ] Photosensitivity [see Warnings and Precautions (5.7) ] Nephrolithiasis [see Warnings and Precautions (5.8) ] Most common adverse reactions in: adults (≥2%) are headache, flatulence, liver function test abnormal, abdominal pain, and diarrhea. ( 6.1 ) pediatric patients (≥5%) are abdominal pain, upper respiratory tract infection, vomiting, anemia, headache, and viral infection. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Takeda Pharmaceuticals at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Adults Induction The most common adverse reactions occurring in at least 1% of LIALDA- or placebo-treated adult patients with mildly to moderately active ulcerative colitis in two eight-week, randomized, double-blind, placebo-controlled trials (Study 1 and Study 2) [see Clinical Studies (14.1) ] are listed in Table 2. Table 2: Adverse Reactions Reported in at least 1% of patients in at least one LIALDA group and greater than placebo in Two Eight-Week, Placebo-Controlled Trials of Induction Therapy (Study 1 and Study 2) in Adults with Mildly to Moderately Active Ulcerative Colitis Adverse Reaction LIALDA 2.4 g once daily LIALDA 4.8 g once daily Placebo (n=177) (n=179) (n=179) Headache 6% 3% <1% Flatulence 4% 3% 3% Liver Function Test Abnormal <1% 2% 1% Alopecia 0 1% 0 Pruritus <1% 1% 1% Pancreatitis occurred in less than 1% of patients during induction in clinical trials and resulted in discontinuation of therapy with LIALDA in patients experiencing this event. Maintenance of Remission A LIALDA dosage of 2.4 g/day, administered as either 1.2 g twice daily or 2.4 g once daily, was evaluated for safety in three maintenance trials in patients with mildly to moderately active ulcerative colitis: a 6-month double-blind, active-controlled study (Study 3) [see Clinical Studies (14.1) ] and two 12- to 14-month open-label studies. The most common adverse reactions with LIALDA in these maintenance trials are listed in Table 3. Table 3: Adverse Reactions Reported in at least 1% of patients in Three Trials of Maintenance of Remission in Adults with Ulcerative Colitis LIALDA 2.4 g/day Administered either as 1.2 g twice daily or 2.4 g once daily (n=1082) Adverse Reaction % Headache 3% Liver function test abnormal 2% Abdominal pain 2% Diarrhea 2% Abdominal distension 1% Abdominal pain upper 1% Dyspepsia 1% Back pain 1% Rash 1% Arthralgia 1% Fatigue 1% Hypertension 1% The following adverse reactions, presented by body system, were reported in less than 1% of LIALDA-treated patients with ulcerative colitis in either induction or maintenance trials: Cardiac Disorder : tachycardia Ear and Labyrinth Disorders : ear pain Gastrointestinal Disorders : abdominal distention, colitis, diarrhea, flatulence, nausea, pancreatitis, rectal polyp, vomiting General Disorders and Administrative Site Disorders : asthenia, face edema, fatigue, pyrexia Investigations : decreased platelet count Musculoskeletal and Connective Tissue Disorders : arthralgia, back pain Nervous System Disorders : dizziness, somnolence, tremor Respiratory, Thoracic and Mediastinal Disorders : pharyngolaryngeal pain Skin and Subcutaneous Tissue Disorders : acne, prurigo, rash, alopecia, pruritus, urticaria Vascular Disorders : hypertension, hypotension Pediatrics LIALDA was evaluated in 105 pediatric patients 5 through 17 years of age with mildly to moderately active ulcerative colitis [see Clinical Studies (14.2) ] . The adverse reaction profile was similar to that of adults. The most common adverse reactions reported in at least 5% of pediatric patients treated with LIALDA were: abdominal pain, upper respiratory tract infection, vomiting, anemia, headache, and viral infection. 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of LIALDA or other mesalamine-containing products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Body as a Whole : lupus-like syndrome, drug fever Cardiac Disorders : pericarditis, pericardial effusion, myocarditis [see Warnings and Precautions (5.3) ] Gastrointestinal : cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer Hepatic : jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failure, hepatotoxicity, Kawasaki-like syndrome including changes in liver enzymes Hematologic : agranulocytosis, aplastic anemia Immune System Disorders : anaphylactic reaction, angioedema, vasculitis Musculoskeletal and Connective Tissue Disorders : myalgia, lupus-like syndrome Neurological/Psychiatric : peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis, intracranial hypertension Renal Disorders : renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1 , 5.8) ] Urine discoloration occurring ex-vivo caused by contact of mesalamine, including inactive metabolite, with surfaces or water treated with hypochlorite-containing bleach Respiratory, Thoracic and Mediastinal Disorders : interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), pleurisy/pleuritis Skin : psoriasis, pyoderma gangrenosum, erythema nodosum, photosensitivity, SJS/TEN, DRESS, and AGEP [see Warnings and Precautions (5.5) ] Urogenital : reversible oligospermia"
+  ],
+  "adverse_reactions_table": [
+   "<table ID=\"table2\" width=\"90%\"> <caption>Table 2: Adverse Reactions<footnote ID=\"L0a95f2a1-12e4-4e10-84ff-dce93fbe5d18\">Reported in at least 1% of patients in at least one LIALDA group and greater than placebo</footnote> in Two Eight-Week, Placebo-Controlled Trials of Induction Therapy (Study 1 and Study 2) in Adults with Mildly to Moderately Active Ulcerative Colitis</caption> <colgroup> <col width=\"25%\" align=\"left\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> </colgroup> <thead> <tr> <th styleCode=\"Lrule Rrule\" rowspan=\"2\" align=\"center\" valign=\"middle\">Adverse Reaction</th> <th styleCode=\"Rrule\" align=\"center\" valign=\"top\">LIALDA  2.4 g once daily</th> <th styleCode=\"Rrule\" align=\"center\" valign=\"top\">LIALDA  4.8 g once daily</th> <th styleCode=\"Rrule\" align=\"center\" valign=\"top\">Placebo</th> </tr> <tr> <th styleCode=\"Rrule\" align=\"center\">(n=177)</th> <th styleCode=\"Rrule\" align=\"center\">(n=179)</th> <th styleCode=\"Rrule\" align=\"center\">(n=179)</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Headache</td> <td styleCode=\"Rrule\" align=\"center\">6%</td> <td styleCode=\"Rrule\" align=\"center\">3%</td> <td styleCode=\"Rrule\" align=\"center\">&lt;1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Flatulence</td> <td styleCode=\"Rrule\" align=\"center\">4%</td> <td styleCode=\"Rrule\" align=\"center\">3%</td> <td styleCode=\"Rrule\" align=\"center\">3%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Liver Function Test Abnormal</td> <td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">&lt;1%</td> <td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">2%</td> <td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Alopecia</td> <td styleCode=\"Rrule\" align=\"center\">0</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> <td styleCode=\"Rrule\" align=\"center\">0</td> </tr> <tr> <td styleCode=\"Lrule Rrule\" align=\"left\">Pruritus</td> <td styleCode=\"Rrule\" align=\"center\">&lt;1%</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> </tbody> </table>",
+   "<table ID=\"table3\" width=\"50%\"> <caption>Table 3: Adverse Reactions<footnote ID=\"L9a6c6d46-969d-4298-b3cb-23e63487b81a\">Reported in at least 1% of patients</footnote> in Three Trials of Maintenance of Remission in Adults with Ulcerative Colitis</caption> <colgroup> <col width=\"50%\" align=\"left\" valign=\"middle\"/> <col width=\"50%\" align=\"center\" valign=\"middle\"/> </colgroup> <thead> <tr> <th styleCode=\"Lrule Rrule\" align=\"left\"/> <th styleCode=\"Rrule\" align=\"center\" valign=\"top\">LIALDA  2.4 g/day<footnote ID=\"Lf905eae5-1219-434b-8d4b-f0ea20316b39\">Administered either as 1.2 g twice daily or 2.4 g once daily</footnote> </th> </tr> <tr styleCode=\"Botrule\"> <th styleCode=\"Lrule Rrule\" align=\"left\"/> <th styleCode=\"Rrule\" align=\"center\" valign=\"bottom\">(n=1082)</th> </tr> <tr> <th styleCode=\"Lrule Rrule\" align=\"left\">Adverse Reaction</th> <th styleCode=\"Rrule\" align=\"center\">%</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Headache</td> <td styleCode=\"Rrule\" align=\"center\">3%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Liver function test abnormal</td> <td styleCode=\"Rrule\" align=\"center\">2%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Abdominal pain</td> <td styleCode=\"Rrule\" align=\"center\">2%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Diarrhea</td> <td styleCode=\"Rrule\" align=\"center\">2%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Abdominal distension</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Abdominal pain upper</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Dyspepsia</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Back pain</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Rash</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Arthralgia</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">Fatigue</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> <tr> <td styleCode=\"Lrule Rrule\" align=\"left\">Hypertension</td> <td styleCode=\"Rrule\" align=\"center\">1%</td> </tr> </tbody> </table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Nephrotoxic Agents including NSAIDs : Increased risk of nephrotoxicity; monitor for changes in renal function and mesalamine-related adverse reactions. ( 7.1 ) Azathioprine or 6-Mercaptopurine : Increased risk of blood dyscrasias; monitor complete blood cell counts and platelet counts. ( 7.2 ) 7.1 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs The concurrent use of mesalamine with known nephrotoxic agents, including non-steroidal anti-inflammatory drugs (NSAIDs), may increase the risk of nephrotoxicity. Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine-related adverse reactions [see Warnings and Precautions (5.1) ] . 7.2 Azathioprine and 6-Mercaptopurine The concurrent use of mesalamine with azathioprine or 6-mercaptopurine and/or any other drugs known to cause myelotoxicity may increase the risk for blood disorders, bone marrow failure, and associated complications. If concomitant use of LIALDA and azathioprine or 6-mercaptopurine cannot be avoided, monitor blood tests, including complete blood cell counts and platelet counts. 7.3 Interference with Urinary Normetanephrine Measurements Use of LIALDA may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection [see Warnings and Precautions (5.9) ] . Consider an alternative, selective assay for normetanephrine."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Geriatric Patients : Increased risk of blood dyscrasias; monitor complete blood cell counts and platelet counts. ( 8.5 ) 8.1 Pregnancy Risk Summary Published data from meta-analyses, cohort studies, and case series on the use of mesalamine during pregnancy have not reliably informed an association with mesalamine and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data ). There are adverse effects on maternal and fetal outcomes associated with ulcerative colitis in pregnancy (see Clinical Considerations ) . In animal reproduction studies, there were no adverse developmental outcomes with administration of oral mesalamine during organogenesis to pregnant rats and rabbits at doses 1.8 and 2.9 times, respectively, the maximum recommended human dose (see Data ) . The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Disease-associated maternal and embryo/fetal risk Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with ulcerative colitis. Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth. Data Human Data Published data from meta-analyses, cohort studies, and case series on the use of mesalamine during early pregnancy (first trimester) and throughout pregnancy have not reliably informed an association of mesalamine and major birth defects, miscarriage, or adverse maternal or fetal outcomes. There is no clear evidence that mesalamine exposure in early pregnancy is associated with an increased risk of major congenital malformations, including cardiac malformations. Published epidemiologic studies have important methodological limitations which hinder interpretation of the data, including inability to control for confounders, such as underlying maternal disease, maternal use of concomitant medications, and missing information on the dose and duration of use for mesalamine products. Animal Data Reproduction studies with mesalamine during organogenesis have been performed in rats at doses up to 1000 mg/kg/day (1.8 times the maximum recommended human dose based on a body surface area comparison) and rabbits at doses up to 800 mg/kg/day (2.9 times the maximum recommended human dose based on a body surface area comparison) and have revealed no evidence of harm to the fetus due to mesalamine. 8.2 Lactation Risk Summary Data from published literature report the presence of mesalamine and its metabolite, N-acetyl-5-aminosalicylic acid in human milk in small amounts with relative infant doses (RID) of 0.1% or less for mesalamine (see Data ) . There are case reports of diarrhea in breastfed infants exposed to mesalamine (see Clinical Considerations ) . There is no information on the effects of the drug on milk production. The lack of clinical data during lactation precludes a clear determination of the risk of LIALDA to an infant during lactation; therefore, the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for LIALDA and any potential adverse effects on the breastfed child from LIALDA or from the underlying maternal condition. Clinical Considerations Advise the caregiver to monitor the breastfed infant for diarrhea. Data In published lactation studies, maternal mesalamine doses from various oral and rectal formulations and products ranged from 500 mg to 4.8 g daily. The average concentration of mesalamine in milk ranged from non-detectable to 0.5 mg/L. The average concentration of N-acetyl-5-aminosalicylic acid in milk ranged from 0.2 to 9.3 mg/L. Based on these concentrations, estimated infant daily dosages for an exclusively breastfed infant are 0 to 0.075 mg/kg/day (RID 0% to 0.1%) of mesalamine and 0.03 to 1.4 mg/kg/day of N-acetyl-5-aminosalicylic acid. 8.4 Pediatric Use The safety and effectiveness of LIALDA have been established for the treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg. Use of LIALDA in this population is supported by evidence from adequate and well-controlled trials in adults, a multicenter, randomized, double-blind, parallel group trial in 105 pediatric patients 5 to 17 years of age, and additional pharmacokinetic analyses. The safety profile in pediatric patients was similar to that observed in adults [see Adverse Reactions (6.1) , Clinical Pharmacology (12.3) , Clinical Studies (14.2) ] . The safety and effectiveness of LIALDA have not been established in patients weighing less than 24 kg. 8.5 Geriatric Use Clinical trials of LIALDA did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients. Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia, and pancytopenia) in patients who were 65 years or older who were taking mesalamine-containing products such as LIALDA compared to younger patients. Monitor complete blood cell counts and platelet counts in elderly patients during treatment with LIALDA. Systemic exposures are increased in elderly subjects [see Clinical Pharmacology (12.3) ]. In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing LIALDA. Consider starting at the low end of the dosing range for induction in elderly patients [see Dosage and Administration (2) , Use in Specific Populations (8.6) ] . 8.6 Renal Impairment Mesalamine is known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function. Evaluate renal function in all patients prior to initiation and periodically while on LIALDA therapy. Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions. Discontinue LIALDA if renal function deteriorates while on therapy [see Warnings and Precautions (5.1) , Adverse Reactions (6.2) , Drug Interactions (7.1) ] ."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Published data from meta-analyses, cohort studies, and case series on the use of mesalamine during pregnancy have not reliably informed an association with mesalamine and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data ). There are adverse effects on maternal and fetal outcomes associated with ulcerative colitis in pregnancy (see Clinical Considerations ) . In animal reproduction studies, there were no adverse developmental outcomes with administration of oral mesalamine during organogenesis to pregnant rats and rabbits at doses 1.8 and 2.9 times, respectively, the maximum recommended human dose (see Data ) . The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Disease-associated maternal and embryo/fetal risk Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with ulcerative colitis. Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth. Data Human Data Published data from meta-analyses, cohort studies, and case series on the use of mesalamine during early pregnancy (first trimester) and throughout pregnancy have not reliably informed an association of mesalamine and major birth defects, miscarriage, or adverse maternal or fetal outcomes. There is no clear evidence that mesalamine exposure in early pregnancy is associated with an increased risk of major congenital malformations, including cardiac malformations. Published epidemiologic studies have important methodological limitations which hinder interpretation of the data, including inability to control for confounders, such as underlying maternal disease, maternal use of concomitant medications, and missing information on the dose and duration of use for mesalamine products. Animal Data Reproduction studies with mesalamine during organogenesis have been performed in rats at doses up to 1000 mg/kg/day (1.8 times the maximum recommended human dose based on a body surface area comparison) and rabbits at doses up to 800 mg/kg/day (2.9 times the maximum recommended human dose based on a body surface area comparison) and have revealed no evidence of harm to the fetus due to mesalamine."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of LIALDA have been established for the treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg. Use of LIALDA in this population is supported by evidence from adequate and well-controlled trials in adults, a multicenter, randomized, double-blind, parallel group trial in 105 pediatric patients 5 to 17 years of age, and additional pharmacokinetic analyses. The safety profile in pediatric patients was similar to that observed in adults [see Adverse Reactions (6.1) , Clinical Pharmacology (12.3) , Clinical Studies (14.2) ] . The safety and effectiveness of LIALDA have not been established in patients weighing less than 24 kg."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical trials of LIALDA did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients. Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia, and pancytopenia) in patients who were 65 years or older who were taking mesalamine-containing products such as LIALDA compared to younger patients. Monitor complete blood cell counts and platelet counts in elderly patients during treatment with LIALDA. Systemic exposures are increased in elderly subjects [see Clinical Pharmacology (12.3) ]. In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing LIALDA. Consider starting at the low end of the dosing range for induction in elderly patients [see Dosage and Administration (2) , Use in Specific Populations (8.6) ] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE LIALDA is an aminosalicylate, and symptoms of salicylate toxicity may include nausea, vomiting, abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures). Severe intoxication with salicylates may lead to electrolyte and blood pH imbalance, and potentially end organ (e.g., renal and liver) damage. There is no specific known antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage and may include gastrointestinal tract decontamination to prevent further absorption. Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function. LIALDA is a pH-dependent, delayed-release product and this factor should be considered when treating a suspected overdose."
+  ],
+  "description": [
+   "11 DESCRIPTION Each LIALDA delayed-release tablet for oral administration contains 1.2 g 5-aminosalicylic acid (5-ASA; mesalamine), an anti-inflammatory agent. Mesalamine also has the chemical name 5-amino-2-hydroxybenzoic acid and its structural formula is: Molecular formula: C 7 H 7 NO 3 Molecular weight: 153.14 The tablet is coated with a pH-dependent polymer film, which breaks down at or above pH 6.8, normally in the terminal ileum where mesalamine then begins to be released from the tablet core. The tablet core contains mesalamine with hydrophilic and lipophilic excipients and provides for extended release of mesalamine. The inactive ingredients of LIALDA are sodium carboxymethylcellulose, carnauba wax, stearic acid, silica (colloidal hydrated), sodium starch glycolate (type A), talc, magnesium stearate, methacrylic acid copolymer types A and B, triethylcitrate, titanium dioxide, red ferric oxide, and polyethylene glycol 6000. Chemical structure"
+  ],
+  "description_table": [
+   "<table width=\"100%\"> <tbody> <tr> <td styleCode=\"Botrule Lrule Rrule Toprule\" align=\"center\"> <paragraph> <renderMultiMedia referencedObject=\"Lf434ca42-af9f-4733-a805-b862989e50b7\"/> </paragraph> </td> </tr> <tr> <td styleCode=\"Botrule Lrule Rrule Toprule\" align=\"center\"> Molecular formula: C<sub>7</sub>H<sub>7</sub>NO<sub>3</sub> </td> </tr> <tr> <td styleCode=\"Botrule Lrule Rrule Toprule\" align=\"center\"> Molecular weight: 153.14</td> </tr> </tbody> </table>"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon. 12.3 Pharmacokinetics Absorption The total absorption of mesalamine from LIALDA 2.4 g or 4.8 g given once daily for 14 days to healthy subjects was found to be approximately 21% to 22% of the administered dose. Gamma-scintigraphy studies have shown that a single dose of LIALDA 1.2 g (one tablet) passed intact through the upper gastrointestinal tract of fasted healthy subjects. Scintigraphic images showed a trail of radio-labeled tracer in the colon, suggesting that mesalamine had distributed through this region of the gastrointestinal tract. In a single-dose study, LIALDA 1.2 g, 2.4 g, and 4.8 g were administered in the fasted state to healthy subjects. Plasma concentrations of mesalamine were detectable after 2 hours and reached a maximum by 9-12 hours on average for the doses studied. The pharmacokinetic parameters are highly variable among subjects (Table 4). Mesalamine systemic exposure in terms of area under the plasma concentration-time curve (AUC) was slightly more than dose proportional between 1.2 g and 4.8 g LIALDA. Maximum plasma concentrations (C max ) of mesalamine increased approximately dose proportionately between 1.2 g and 2.4 g and sub-proportionately between 2.4 g and 4.8 g of LIALDA, with the dose normalized value at 4.8 g representing, on average, 74% of that at 2.4 g based on geometric means. Table 4: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA Under Fasting Conditions Parameter Arithmetic mean of parameter values are presented except for T max and T lag . of Mesalamine LIALDA 1.2 g (N=47) LIALDA 2.4 g (N=48) LIALDA 4.8 g (N=48) AUC 0-t (ng∙h/mL) 9039 N=43, (5054) 20538 (12980) 41434 (26640) AUC 0-∞ (ng∙h/mL) 9578 N=27, (5214) 21084 (13185) 44775 N=36, (30302) C max (ng/mL) 857 (638) 1595 (1484) 2154 (1140) T max Median (min, max), (h) 9.0 N=46, (4.0-32.1) 12.0 (4.0-34.1) 12.0 (4.0-34.0) T lag (h) 2.0 (0-8.0) 2.0 (1.0-4.0) 2.0 (1.0-4.0) T 1/2 (h) (Terminal Phase) 8.56 (6.38) 7.05 N=33 (5.54) 7.25 (8.32) Food Effects Administration of a single dose of LIALDA 4.8 g with a high-fat meal resulted in further delay in absorption, and plasma concentrations of mesalamine were detectable 4 hours following dosing. However, a high-fat meal increased systemic exposure of mesalamine (mean C max : increased 91%; mean AUC: increased 16%) compared to results in the fasted state. LIALDA was administered with food in the controlled clinical trials [see Dosage and Administration (2) ] . In a single- and multiple-dose pharmacokinetic study of LIALDA, 2.4 g or 4.8 g was administered once daily with standard meals to 28 healthy subjects per dose group. Plasma concentrations of mesalamine were detectable after 4 hours and were maximal by 8 hours after the single dose. Steady state was achieved generally by 2 days after dosing. Mean AUC at steady state was only modestly greater (1.1- to 1.4-fold) than predictable from single dose pharmacokinetics. Distribution Mesalamine is approximately 43% bound to plasma proteins at the concentration of 2.5 mcg/mL. Elimination Metabolism The only major metabolite of mesalamine (5-aminosalicylic acid) is N-acetyl-5-aminosalicylic acid. Its formation is brought about by N-acetyltransferase (NAT) activity in the liver and intestinal mucosa cells, principally by NAT-1. Excretion Excretion of mesalamine is mainly via the renal route following metabolism to N-acetyl-5-aminosalicylic acid (acetylation); however, there is also limited excretion of the parent drug in urine. Of the approximately 21% to 22% of the dose absorbed, less than 8% of the dose was excreted unchanged in the urine after 24 hours, compared with greater than 13% for N-acetyl-5-aminosalicylic acid. The mean renal clearance (CL R ) in adults ranged from 1.8 L/h to 2.9 L/h following single dose administration and ranged from 5.5 L/h to 6.4 L/h after a multiple dosing for 14 days. The apparent terminal half-lives for mesalamine and its major metabolite after administration of LIALDA 2.4 g and 4.8 g were, on average, 7 to 9 hours and 8 to 12 hours, respectively. Systemic exposures in adult subjects were inversely correlated with renal function as assessed by estimated creatinine clearance [see Use in Specific Populations (8.6) ]. Specific Populations Geriatric Patients In a single-dose pharmacokinetic study of LIALDA, 4.8 g was administered in the fasted state to 71 healthy male and female subjects (28 young (18-35 years); 28 elderly (65-75 years); 15 elderly (>75 years)). Increased age resulted in increased systemic exposure (approximately 2-fold in C max ) to mesalamine and its metabolite N-acetyl-5-aminosalicylic acid. Increased age resulted in a slower apparent elimination of mesalamine, though there was high between-subject variability. Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA 4.8 g under Fasting Conditions to Young and Elderly Subjects Parameter of 5-ASA Young Subjects (18 to 35 years) (N=28) Elderly Subjects (65 to 75 years) (N=28) Elderly Subjects (75 years and older) (N=15) Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid AUC 0-t (ng∙h/mL) 51570 (23870) 73001 (42608) 65820 (25283) AUC 0-∞ (ng∙h/mL) 58057 N=15, (22429) 89612 N=16, (40596) 63067 N=13, (22531) C max (ng/mL) 2243 (1410) 4999 (4381) 4832 (4383) t max Median (min-max) (h) 22.0 (5.98–48.0) 12.5 (4.00–36.0) 16.0 (4.00–26.0) t lag (h) 2 (1–6) 2 (1–4) 2 (2–4) t ½ (h), terminal phase 5.68 (2.83) 9.68 (7.47) 8.67 (5.84) Renal clearance (L/h) 2.05 (1.33) 2.04 (1.16) 2.13 (1.20) Pediatric Patients In pediatric patients 5 years to 17 years of age diagnosed with ulcerative colitis, systemic exposure of mesalamine, as measured by mean AUC ss and C max,ss , increased in a dose-proportional manner between 30 and 60 mg/kg/day of LIALDA and increased in a sub-proportional between 60 and 100 mg/kg/day doses. Pharmacokinetic parameters had moderate to high inter-subject variability with CV% ranging from 36% to 52% in pediatric patients. The overall systemic exposure of mesalamine following oral administration of 4.8 g once daily for 7 days in a limited number of pediatric patients 5 years to 17 years of age (AUC range of 30,556 to 50,388 ng∙hr/mL, n=3) was in similar range to that was observed in the healthy adults (AUC of 41,434 ± 26,640 ng∙hr/mL, n=48) after single dose administration. The mean renal clearance (CL R ) of mesalamine in pediatric patients (range from approximately 5.0 to 6.5 L/h) seems to be similar to that observed with healthy adult subjects after multiple dose administration. Drug Interaction Studies The potential effect of LIALDA (4.8 g given once daily) on the pharmacokinetics of four commonly used antibiotics were evaluated in healthy subjects. The four antibiotics studied and their dosing regimens were as follows: amoxicillin (single 500-mg dose), ciprofloxacin XR (single 500-mg dose), metronidazole (750 mg twice daily for 3.5 days), and sulfamethoxazole/trimethoprim (800 mg/160 mg twice daily for 3.5 days). The change in C max and AUC of amoxicillin, ciprofloxacin, and metronidazole when they were co-administered with LIALDA were all 3% or less. There was an increase of 12% in C max and an increase of 15% in AUC of sulfamethoxazole when sulfamethoxazole/trimethoprim was coadministered with LIALDA. Coadministration of LIALDA did not result in clinically significant changes in the pharmacokinetics of any of the four antibiotics."
+  ],
+  "clinical_pharmacology_table": [
+   "<table width=\"80%\" ID=\"table4\"> <caption>Table 4: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA Under Fasting Conditions</caption> <col width=\"25%\" align=\"left\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <thead> <tr> <th styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\">Parameter<footnote ID=\"foot4a\">Arithmetic mean of parameter values are presented except for T<sub>max</sub> and T<sub>lag</sub>.</footnote> of Mesalamine</th> <th styleCode=\"Rrule\" valign=\"middle\">LIALDA 1.2 g (N=47)</th> <th styleCode=\"Rrule\" valign=\"middle\">LIALDA 2.4 g (N=48)</th> <th styleCode=\"Rrule\" valign=\"middle\">LIALDA 4.8 g (N=48)</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-t</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">9039<footnote ID=\"foot4b\">N=43,</footnote> (5054)</td> <td styleCode=\"Rrule\">20538 (12980)</td> <td styleCode=\"Rrule\">41434 (26640)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-&#x221E;</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">9578<footnote ID=\"foot4c\">N=27,</footnote> (5214)</td> <td styleCode=\"Rrule\">21084 (13185)</td> <td styleCode=\"Rrule\">44775<footnote ID=\"foot4d\">N=36,</footnote> (30302)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">C<sub>max</sub> (ng/mL)</td> <td styleCode=\"Rrule\">857 (638)</td> <td styleCode=\"Rrule\">1595 (1484)</td> <td styleCode=\"Rrule\">2154 (1140)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">T<sub>max</sub> <footnote ID=\"foot4e\">Median (min, max),</footnote> (h)</td> <td styleCode=\"Rrule\">9.0<footnote ID=\"foot4f\">N=46,</footnote> (4.0-32.1)</td> <td styleCode=\"Rrule\">12.0 (4.0-34.1)</td> <td styleCode=\"Rrule\">12.0 (4.0-34.0)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">T<sub>lag</sub> <footnoteRef IDREF=\"foot4e\"/> (h)</td> <td styleCode=\"Rrule\">2.0<footnoteRef IDREF=\"foot4f\"/> (0-8.0)</td> <td styleCode=\"Rrule\">2.0 (1.0-4.0)</td> <td styleCode=\"Rrule\">2.0 (1.0-4.0)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\">T<sub>1/2</sub> (h) (Terminal Phase)</td> <td styleCode=\"Rrule\">8.56<footnoteRef IDREF=\"foot4c\"/> (6.38)</td> <td styleCode=\"Rrule\">7.05<footnote ID=\"foot4g\">N=33</footnote> (5.54)</td> <td styleCode=\"Rrule\">7.25<footnoteRef IDREF=\"foot4d\"/> (8.32)</td> </tr> </tbody> </table>",
+   "<table width=\"80%\" ID=\"table5\"> <caption>Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA 4.8 g under Fasting Conditions to Young and Elderly Subjects</caption> <col width=\"25%\" align=\"left\" valign=\"top\"/> <col width=\"25%\" align=\"center\" valign=\"top\"/> <col width=\"25%\" align=\"center\" valign=\"top\"/> <col width=\"25%\" align=\"center\" valign=\"top\"/> <thead> <tr> <th styleCode=\"Lrule Rrule\" valign=\"bottom\">Parameter of 5-ASA</th> <th styleCode=\"Rrule\">Young Subjects  (18 to 35 years)  (N=28)</th> <th styleCode=\"Rrule\">Elderly Subjects  (65 to 75 years)  (N=28)</th> <th styleCode=\"Rrule\">Elderly Subjects  (75 years and older)  (N=15)</th> </tr> </thead> <tfoot> <tr> <td align=\"left\" valign=\"top\" colspan=\"4\">Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid</td> </tr> </tfoot> <tbody> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-t</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">51570 (23870)</td> <td styleCode=\"Rrule\">73001 (42608)</td> <td styleCode=\"Rrule\">65820 (25283)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-&#x221E;</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">58057<footnote ID=\"foot5a\">N=15,</footnote> (22429)</td> <td styleCode=\"Rrule\">89612<footnote ID=\"foot5b\">N=16,</footnote> (40596)</td> <td styleCode=\"Rrule\">63067<footnote ID=\"foot5c\">N=13,</footnote> (22531)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">C<sub>max</sub> (ng/mL)</td> <td styleCode=\"Rrule\">2243 (1410)</td> <td styleCode=\"Rrule\">4999 (4381)</td> <td styleCode=\"Rrule\">4832 (4383)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">t<sub>max</sub> <footnote ID=\"foot5d\">Median (min-max)</footnote> (h)</td> <td styleCode=\"Rrule\">22.0 (5.98&#x2013;48.0)</td> <td styleCode=\"Rrule\">12.5 (4.00&#x2013;36.0)</td> <td styleCode=\"Rrule\">16.0 (4.00&#x2013;26.0)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">t<sub>lag</sub> <footnoteRef IDREF=\"foot5d\"/> (h)</td> <td styleCode=\"Rrule\">2 (1&#x2013;6)</td> <td styleCode=\"Rrule\">2 (1&#x2013;4)</td> <td styleCode=\"Rrule\">2 (2&#x2013;4)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">t<sub>&#xBD;</sub> (h), terminal phase</td> <td styleCode=\"Rrule\">5.68<footnoteRef IDREF=\"foot5a\"/> (2.83)</td> <td styleCode=\"Rrule\">9.68<footnoteRef IDREF=\"foot5b\"/> (7.47)</td> <td styleCode=\"Rrule\">8.67<footnoteRef IDREF=\"foot5c\"/> (5.84)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\">Renal clearance (L/h)</td> <td styleCode=\"Rrule\">2.05 (1.33)</td> <td styleCode=\"Rrule\">2.04 (1.16)</td> <td styleCode=\"Rrule\">2.13 (1.20)</td> </tr> </tbody> </table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption The total absorption of mesalamine from LIALDA 2.4 g or 4.8 g given once daily for 14 days to healthy subjects was found to be approximately 21% to 22% of the administered dose. Gamma-scintigraphy studies have shown that a single dose of LIALDA 1.2 g (one tablet) passed intact through the upper gastrointestinal tract of fasted healthy subjects. Scintigraphic images showed a trail of radio-labeled tracer in the colon, suggesting that mesalamine had distributed through this region of the gastrointestinal tract. In a single-dose study, LIALDA 1.2 g, 2.4 g, and 4.8 g were administered in the fasted state to healthy subjects. Plasma concentrations of mesalamine were detectable after 2 hours and reached a maximum by 9-12 hours on average for the doses studied. The pharmacokinetic parameters are highly variable among subjects (Table 4). Mesalamine systemic exposure in terms of area under the plasma concentration-time curve (AUC) was slightly more than dose proportional between 1.2 g and 4.8 g LIALDA. Maximum plasma concentrations (C max ) of mesalamine increased approximately dose proportionately between 1.2 g and 2.4 g and sub-proportionately between 2.4 g and 4.8 g of LIALDA, with the dose normalized value at 4.8 g representing, on average, 74% of that at 2.4 g based on geometric means. Table 4: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA Under Fasting Conditions Parameter Arithmetic mean of parameter values are presented except for T max and T lag . of Mesalamine LIALDA 1.2 g (N=47) LIALDA 2.4 g (N=48) LIALDA 4.8 g (N=48) AUC 0-t (ng∙h/mL) 9039 N=43, (5054) 20538 (12980) 41434 (26640) AUC 0-∞ (ng∙h/mL) 9578 N=27, (5214) 21084 (13185) 44775 N=36, (30302) C max (ng/mL) 857 (638) 1595 (1484) 2154 (1140) T max Median (min, max), (h) 9.0 N=46, (4.0-32.1) 12.0 (4.0-34.1) 12.0 (4.0-34.0) T lag (h) 2.0 (0-8.0) 2.0 (1.0-4.0) 2.0 (1.0-4.0) T 1/2 (h) (Terminal Phase) 8.56 (6.38) 7.05 N=33 (5.54) 7.25 (8.32) Food Effects Administration of a single dose of LIALDA 4.8 g with a high-fat meal resulted in further delay in absorption, and plasma concentrations of mesalamine were detectable 4 hours following dosing. However, a high-fat meal increased systemic exposure of mesalamine (mean C max : increased 91%; mean AUC: increased 16%) compared to results in the fasted state. LIALDA was administered with food in the controlled clinical trials [see Dosage and Administration (2) ] . In a single- and multiple-dose pharmacokinetic study of LIALDA, 2.4 g or 4.8 g was administered once daily with standard meals to 28 healthy subjects per dose group. Plasma concentrations of mesalamine were detectable after 4 hours and were maximal by 8 hours after the single dose. Steady state was achieved generally by 2 days after dosing. Mean AUC at steady state was only modestly greater (1.1- to 1.4-fold) than predictable from single dose pharmacokinetics. Distribution Mesalamine is approximately 43% bound to plasma proteins at the concentration of 2.5 mcg/mL. Elimination Metabolism The only major metabolite of mesalamine (5-aminosalicylic acid) is N-acetyl-5-aminosalicylic acid. Its formation is brought about by N-acetyltransferase (NAT) activity in the liver and intestinal mucosa cells, principally by NAT-1. Excretion Excretion of mesalamine is mainly via the renal route following metabolism to N-acetyl-5-aminosalicylic acid (acetylation); however, there is also limited excretion of the parent drug in urine. Of the approximately 21% to 22% of the dose absorbed, less than 8% of the dose was excreted unchanged in the urine after 24 hours, compared with greater than 13% for N-acetyl-5-aminosalicylic acid. The mean renal clearance (CL R ) in adults ranged from 1.8 L/h to 2.9 L/h following single dose administration and ranged from 5.5 L/h to 6.4 L/h after a multiple dosing for 14 days. The apparent terminal half-lives for mesalamine and its major metabolite after administration of LIALDA 2.4 g and 4.8 g were, on average, 7 to 9 hours and 8 to 12 hours, respectively. Systemic exposures in adult subjects were inversely correlated with renal function as assessed by estimated creatinine clearance [see Use in Specific Populations (8.6) ]. Specific Populations Geriatric Patients In a single-dose pharmacokinetic study of LIALDA, 4.8 g was administered in the fasted state to 71 healthy male and female subjects (28 young (18-35 years); 28 elderly (65-75 years); 15 elderly (>75 years)). Increased age resulted in increased systemic exposure (approximately 2-fold in C max ) to mesalamine and its metabolite N-acetyl-5-aminosalicylic acid. Increased age resulted in a slower apparent elimination of mesalamine, though there was high between-subject variability. Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA 4.8 g under Fasting Conditions to Young and Elderly Subjects Parameter of 5-ASA Young Subjects (18 to 35 years) (N=28) Elderly Subjects (65 to 75 years) (N=28) Elderly Subjects (75 years and older) (N=15) Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid AUC 0-t (ng∙h/mL) 51570 (23870) 73001 (42608) 65820 (25283) AUC 0-∞ (ng∙h/mL) 58057 N=15, (22429) 89612 N=16, (40596) 63067 N=13, (22531) C max (ng/mL) 2243 (1410) 4999 (4381) 4832 (4383) t max Median (min-max) (h) 22.0 (5.98–48.0) 12.5 (4.00–36.0) 16.0 (4.00–26.0) t lag (h) 2 (1–6) 2 (1–4) 2 (2–4) t ½ (h), terminal phase 5.68 (2.83) 9.68 (7.47) 8.67 (5.84) Renal clearance (L/h) 2.05 (1.33) 2.04 (1.16) 2.13 (1.20) Pediatric Patients In pediatric patients 5 years to 17 years of age diagnosed with ulcerative colitis, systemic exposure of mesalamine, as measured by mean AUC ss and C max,ss , increased in a dose-proportional manner between 30 and 60 mg/kg/day of LIALDA and increased in a sub-proportional between 60 and 100 mg/kg/day doses. Pharmacokinetic parameters had moderate to high inter-subject variability with CV% ranging from 36% to 52% in pediatric patients. The overall systemic exposure of mesalamine following oral administration of 4.8 g once daily for 7 days in a limited number of pediatric patients 5 years to 17 years of age (AUC range of 30,556 to 50,388 ng∙hr/mL, n=3) was in similar range to that was observed in the healthy adults (AUC of 41,434 ± 26,640 ng∙hr/mL, n=48) after single dose administration. The mean renal clearance (CL R ) of mesalamine in pediatric patients (range from approximately 5.0 to 6.5 L/h) seems to be similar to that observed with healthy adult subjects after multiple dose administration. Drug Interaction Studies The potential effect of LIALDA (4.8 g given once daily) on the pharmacokinetics of four commonly used antibiotics were evaluated in healthy subjects. The four antibiotics studied and their dosing regimens were as follows: amoxicillin (single 500-mg dose), ciprofloxacin XR (single 500-mg dose), metronidazole (750 mg twice daily for 3.5 days), and sulfamethoxazole/trimethoprim (800 mg/160 mg twice daily for 3.5 days). The change in C max and AUC of amoxicillin, ciprofloxacin, and metronidazole when they were co-administered with LIALDA were all 3% or less. There was an increase of 12% in C max and an increase of 15% in AUC of sulfamethoxazole when sulfamethoxazole/trimethoprim was coadministered with LIALDA. Coadministration of LIALDA did not result in clinically significant changes in the pharmacokinetics of any of the four antibiotics."
+  ],
+  "pharmacokinetics_table": [
+   "<table width=\"80%\" ID=\"table4\"> <caption>Table 4: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA Under Fasting Conditions</caption> <col width=\"25%\" align=\"left\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <col width=\"25%\" align=\"center\" valign=\"bottom\"/> <thead> <tr> <th styleCode=\"Lrule Rrule\" align=\"center\" valign=\"middle\">Parameter<footnote ID=\"foot4a\">Arithmetic mean of parameter values are presented except for T<sub>max</sub> and T<sub>lag</sub>.</footnote> of Mesalamine</th> <th styleCode=\"Rrule\" valign=\"middle\">LIALDA 1.2 g (N=47)</th> <th styleCode=\"Rrule\" valign=\"middle\">LIALDA 2.4 g (N=48)</th> <th styleCode=\"Rrule\" valign=\"middle\">LIALDA 4.8 g (N=48)</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-t</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">9039<footnote ID=\"foot4b\">N=43,</footnote> (5054)</td> <td styleCode=\"Rrule\">20538 (12980)</td> <td styleCode=\"Rrule\">41434 (26640)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-&#x221E;</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">9578<footnote ID=\"foot4c\">N=27,</footnote> (5214)</td> <td styleCode=\"Rrule\">21084 (13185)</td> <td styleCode=\"Rrule\">44775<footnote ID=\"foot4d\">N=36,</footnote> (30302)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">C<sub>max</sub> (ng/mL)</td> <td styleCode=\"Rrule\">857 (638)</td> <td styleCode=\"Rrule\">1595 (1484)</td> <td styleCode=\"Rrule\">2154 (1140)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">T<sub>max</sub> <footnote ID=\"foot4e\">Median (min, max),</footnote> (h)</td> <td styleCode=\"Rrule\">9.0<footnote ID=\"foot4f\">N=46,</footnote> (4.0-32.1)</td> <td styleCode=\"Rrule\">12.0 (4.0-34.1)</td> <td styleCode=\"Rrule\">12.0 (4.0-34.0)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">T<sub>lag</sub> <footnoteRef IDREF=\"foot4e\"/> (h)</td> <td styleCode=\"Rrule\">2.0<footnoteRef IDREF=\"foot4f\"/> (0-8.0)</td> <td styleCode=\"Rrule\">2.0 (1.0-4.0)</td> <td styleCode=\"Rrule\">2.0 (1.0-4.0)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\">T<sub>1/2</sub> (h) (Terminal Phase)</td> <td styleCode=\"Rrule\">8.56<footnoteRef IDREF=\"foot4c\"/> (6.38)</td> <td styleCode=\"Rrule\">7.05<footnote ID=\"foot4g\">N=33</footnote> (5.54)</td> <td styleCode=\"Rrule\">7.25<footnoteRef IDREF=\"foot4d\"/> (8.32)</td> </tr> </tbody> </table>",
+   "<table width=\"80%\" ID=\"table5\"> <caption>Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Dose Administration of LIALDA 4.8 g under Fasting Conditions to Young and Elderly Subjects</caption> <col width=\"25%\" align=\"left\" valign=\"top\"/> <col width=\"25%\" align=\"center\" valign=\"top\"/> <col width=\"25%\" align=\"center\" valign=\"top\"/> <col width=\"25%\" align=\"center\" valign=\"top\"/> <thead> <tr> <th styleCode=\"Lrule Rrule\" valign=\"bottom\">Parameter of 5-ASA</th> <th styleCode=\"Rrule\">Young Subjects  (18 to 35 years)  (N=28)</th> <th styleCode=\"Rrule\">Elderly Subjects  (65 to 75 years)  (N=28)</th> <th styleCode=\"Rrule\">Elderly Subjects  (75 years and older)  (N=15)</th> </tr> </thead> <tfoot> <tr> <td align=\"left\" valign=\"top\" colspan=\"4\">Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid</td> </tr> </tfoot> <tbody> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-t</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">51570 (23870)</td> <td styleCode=\"Rrule\">73001 (42608)</td> <td styleCode=\"Rrule\">65820 (25283)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">AUC<sub>0-&#x221E;</sub> (ng&#x2219;h/mL)</td> <td styleCode=\"Rrule\">58057<footnote ID=\"foot5a\">N=15,</footnote> (22429)</td> <td styleCode=\"Rrule\">89612<footnote ID=\"foot5b\">N=16,</footnote> (40596)</td> <td styleCode=\"Rrule\">63067<footnote ID=\"foot5c\">N=13,</footnote> (22531)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">C<sub>max</sub> (ng/mL)</td> <td styleCode=\"Rrule\">2243 (1410)</td> <td styleCode=\"Rrule\">4999 (4381)</td> <td styleCode=\"Rrule\">4832 (4383)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">t<sub>max</sub> <footnote ID=\"foot5d\">Median (min-max)</footnote> (h)</td> <td styleCode=\"Rrule\">22.0 (5.98&#x2013;48.0)</td> <td styleCode=\"Rrule\">12.5 (4.00&#x2013;36.0)</td> <td styleCode=\"Rrule\">16.0 (4.00&#x2013;26.0)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">t<sub>lag</sub> <footnoteRef IDREF=\"foot5d\"/> (h)</td> <td styleCode=\"Rrule\">2 (1&#x2013;6)</td> <td styleCode=\"Rrule\">2 (1&#x2013;4)</td> <td styleCode=\"Rrule\">2 (2&#x2013;4)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\">t<sub>&#xBD;</sub> (h), terminal phase</td> <td styleCode=\"Rrule\">5.68<footnoteRef IDREF=\"foot5a\"/> (2.83)</td> <td styleCode=\"Rrule\">9.68<footnoteRef IDREF=\"foot5b\"/> (7.47)</td> <td styleCode=\"Rrule\">8.67<footnoteRef IDREF=\"foot5c\"/> (5.84)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\">Renal clearance (L/h)</td> <td styleCode=\"Rrule\">2.05 (1.33)</td> <td styleCode=\"Rrule\">2.04 (1.16)</td> <td styleCode=\"Rrule\">2.13 (1.20)</td> </tr> </tbody> </table>"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis In a 104-week dietary carcinogenicity study in CD-1 mice, mesalamine at doses up to 2500 mg/kg/day was not tumorigenic. This dose is 2.2 times the maximum recommended human dose (based on a body surface area comparison) of LIALDA. Furthermore, in a 104-week dietary carcinogenicity study in Wistar rats, mesalamine up to a dose of 800 mg/kg/day was not tumorigenic. This dose is 1.4 times the recommended human dose (based on a body surface area comparison) of LIALDA. Mutagenesis No evidence of mutagenicity was observed in an in vitro Ames test or an in vivo mouse micronucleus test. Impairment of Fertility No effects on fertility or reproductive performance were observed in male or female rats at oral doses of mesalamine up to 400 mg/kg/day (0.7 times the maximum recommended human dose based on a body surface area comparison). 13.2 Animal Toxicology and/or Pharmacology In animal studies with mesalamine, a 13-week oral toxicity study in mice and 13-week and 52-week oral toxicity studies in rats and cynomolgus monkeys have shown the kidney to be the major target organ of mesalamine toxicity. Oral daily doses of 2400 mg/kg in mice and 1150 mg/kg in rats produced renal lesions including granular and hyaline casts, tubular degeneration, tubular dilation, renal infarct, papillary necrosis, tubular necrosis, and interstitial nephritis. In cynomolgus monkeys, oral daily doses of 250 mg/kg or higher produced nephrosis, papillary edema, and interstitial fibrosis."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis In a 104-week dietary carcinogenicity study in CD-1 mice, mesalamine at doses up to 2500 mg/kg/day was not tumorigenic. This dose is 2.2 times the maximum recommended human dose (based on a body surface area comparison) of LIALDA. Furthermore, in a 104-week dietary carcinogenicity study in Wistar rats, mesalamine up to a dose of 800 mg/kg/day was not tumorigenic. This dose is 1.4 times the recommended human dose (based on a body surface area comparison) of LIALDA. Mutagenesis No evidence of mutagenicity was observed in an in vitro Ames test or an in vivo mouse micronucleus test. Impairment of Fertility No effects on fertility or reproductive performance were observed in male or female rats at oral doses of mesalamine up to 400 mg/kg/day (0.7 times the maximum recommended human dose based on a body surface area comparison)."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology In animal studies with mesalamine, a 13-week oral toxicity study in mice and 13-week and 52-week oral toxicity studies in rats and cynomolgus monkeys have shown the kidney to be the major target organ of mesalamine toxicity. Oral daily doses of 2400 mg/kg in mice and 1150 mg/kg in rats produced renal lesions including granular and hyaline casts, tubular degeneration, tubular dilation, renal infarct, papillary necrosis, tubular necrosis, and interstitial nephritis. In cynomolgus monkeys, oral daily doses of 250 mg/kg or higher produced nephrosis, papillary edema, and interstitial fibrosis."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES 14.1 Adults with Mildly to Moderately Active Ulcerative Colitis Induction of Remission Two similarly designed, randomized, double-blind, placebo-controlled trials (Study 1, NCT00503243 and Study 2, NCT00548574 ) were conducted in 517 adult patients with mildly to moderately active ulcerative colitis. The study population was primarily Caucasian (80%), had a mean age of 42 years (6% age 65 years or older), and was approximately 50% male. Both studies used LIALDA dosages of 2.4 g and 4.8 g administered once daily for 8 weeks, except in Study 1 the 2.4 g dosage was administered as two divided doses (i.e., 1.2 g twice daily). The primary efficacy endpoint in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the LIALDA treatment groups versus placebo. Remission was defined as an Ulcerative Colitis Disease Activity Index (UC-DAI) of ≤1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline. In both studies, the LIALDA dosages of 2.4 g and 4.8 g once daily demonstrated superiority over placebo in the primary efficacy endpoint (Table 6). Both LIALDA dosages also provided consistent benefit in secondary efficacy parameters, including clinical improvement, clinical remission, and sigmoidoscopic improvement. Both LIALDA dosages had similar efficacy profiles. Table 6: Proportion of Adult Patients with Mildly to Moderately Active Ulcerative Colitis in Remission at Week 8 in Two Double-Blind Placebo-Controlled Induction Trials Dose Study 1 (n=262) n/N (%) Study 2 (n=255) n/N (%) LIALDA 2.4 g/day 30/88 (34) 34/84 (41) LIALDA 4.8 g/day 26/89 (29) 35/85 (41) Placebo 11/85 (13) 19/86 (22) Maintenance of Remission A multicenter, randomized, double-blind, active comparator study (Study 3, NCT00151892 ) was conducted in a total of 826 adult patients in remission from ulcerative colitis. Patients were randomized in a 1:1 ratio to receive either LIALDA 2.4 g administered once daily or another mesalamine delayed-release product administered as 0.8 g twice daily. The study population had a mean age of 45 years (8% age 65 years or older), were 52% male, and were primarily Caucasian (64%). Maintenance of remission was assessed using a modified UC-DAI. For this trial, maintenance of remission was based on maintaining endoscopic remission defined as a modified UC-DAI endoscopy subscore of ≤1. An endoscopy subscore of 0 represented normal mucosal appearance with intact vascular pattern and no friability or granulation. For this trial the endoscopy score definition of 1 (mild disease) was modified such that it could include erythema, decreased vascular pattern, and minimal granularity; however, it could not include friability. The proportion of patients who maintained remission at Month 6 in this study using LIALDA 2.4 g once daily (84%) was similar to the comparator (82%). 14.2 Pediatric Patients with Mildly to Moderately Active Ulcerative Colitis Weighing at Least 24 kg A multicenter, randomized, double-blind, parallel-group study (NCT02093663) was conducted in pediatric patients aged 5 through 17 years with mildly to moderately active ulcerative colitis to determine the safety and effectiveness of LIALDA. The study consisted of two treatment phases, an initial 8-week phase and a 26-week phase. The overall population consisted of 105 patients, of whom 27 patients participated in both the 8-week and 26-week phases. Each phase included two dosage arms and patients were randomized at the beginning of each phase in a 1:1 ratio, stratified by body weight group. Patients received a low or a high weight-based dosage of LIALDA in four weight groups. Because of the small number of patients in the lowest body weight group (0 in the 8-week phase and 3 in the 26-week phase), the safety and effectiveness of LIALDA in patients weighing less than 24 kg have not been established. Patients were eligible for the initial 8-week phase if they had mildly to moderately active ulcerative colitis as defined by the UC-DAI score of at least 4 with an endoscopic subscore of 2 or 3. In the 53 patients enrolled in the initial phase, the mean age and weight of patients was 14 years and 53 kg, the mean (SD) baseline UC-DAI score was 5.8 (1.8), 93% were white, and 59% were male. The primary endpoint was defined by the partial UC-DAI less than or equal to 1 (with rectal bleeding equal to 0, stool frequency less than or equal to 1, and Physician's Global Assessment [PGA] equal to 0). Of the 26 patients in the recommended LIALDA dosage arm, 65% achieved the primary endpoint after 8 weeks of treatment. During the initial 8-week phase, fewer patients who received the recommended LIALDA dosage were discontinued from the study due to ulcerative colitis (0/26, 0%) compared to patients who received a lower than recommended LIALDA dosage (8/27, 30%). Patients who met the primary endpoint at 8 weeks were eligible to continue treatment in the 26-week phase. Patients were also eligible to enter the 26-week phase without having participated in the 8-week phase if they had a UC-DAI score of less than or equal to 2 with an endoscopic subscore of 0 or 1 (modified to exclude friability). There were 87 patients enrolled in the 26-week phase. The mean age and weight of patients were 14 years and 54 kg; 97% were white and 55% were female. Of the 42 patients in the recommended LIALDA dosage arm, 55% achieved the primary endpoint, which was defined the same as in the 8-week phase. In the 26-week phase, the arm with a higher than recommended LIALDA dosage was not more effective and is not recommended [see Dosage and Administration (2) ] . Other Endpoints Clinical remission, defined by a Mayo stool frequency subscore equal to 0 or 1, Mayo rectal bleeding subscore equal to 0, and a Mayo endoscopic subscore equal to 0 or 1 (modified to exclude friability) or 0 on the UC-DAI, was determined for patients with available endoscopic assessment after completion of the 26-week phase. Patients without endoscopic data at week 26 were assumed not to have achieved clinical remission. Of the 42 patients in the recommended LIALDA dosage arm, 36% achieved clinical remission. Clinical remission could not be assessed in the initial 8-week phase because there were too few patients who underwent endoscopy."
+  ],
+  "clinical_studies_table": [
+   "<table ID=\"table6\" width=\"60%\"> <caption>Table 6: Proportion of Adult Patients with Mildly to Moderately Active Ulcerative Colitis in Remission at Week 8 in Two Double-Blind Placebo-Controlled Induction Trials</caption> <colgroup> <col width=\"34%\" align=\"left\" valign=\"top\"/> <col width=\"33%\" align=\"center\" valign=\"top\"/> <col width=\"33%\" align=\"center\" valign=\"top\"/> </colgroup> <thead> <tr styleCode=\"First Last\"> <th styleCode=\"Lrule Rrule\" align=\"center\">Dose</th> <th styleCode=\"Rrule\" align=\"center\">Study 1 (n=262) n/N (%)</th> <th styleCode=\"Rrule\" align=\"center\">Study 2 (n=255) n/N (%)</th> </tr> </thead> <tbody> <tr styleCode=\"Botrule First\"> <td styleCode=\"Lrule Rrule\" align=\"left\">LIALDA 2.4 g/day</td> <td styleCode=\"Rrule\" align=\"center\">30/88 (34)</td> <td styleCode=\"Rrule\" align=\"center\">34/84 (41)</td> </tr> <tr styleCode=\"Botrule\"> <td styleCode=\"Lrule Rrule\" align=\"left\">LIALDA 4.8 g/day</td> <td styleCode=\"Rrule\" align=\"center\">26/89 (29)</td> <td styleCode=\"Rrule\" align=\"center\">35/85 (41)</td> </tr> <tr> <td styleCode=\"Lrule Rrule\" align=\"left\">Placebo</td> <td styleCode=\"Rrule\" align=\"center\">11/85 (13)</td> <td styleCode=\"Rrule\" align=\"center\">19/86 (22)</td> </tr> </tbody> </table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING LIALDA is available as red-brown, ellipsoidal, film-coated, delayed-release tablets containing 1.2 g mesalamine, and debossed on one side imprinted with S476. NDC 54092-476-12 HDPE Bottle with a child-resistant closure of 120 delayed-release tablets. Store at room temperature 15°C to 25°C (59°F to 77°F); excursions permitted to 30°C (86°F). See USP Controlled Room Temperature."
+  ],
+  "storage_and_handling": [
+   "Store at room temperature 15°C to 25°C (59°F to 77°F); excursions permitted to 30°C (86°F). See USP Controlled Room Temperature."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Renal Impairment Inform patients that LIALDA may decrease their renal function, especially if they have known renal impairment or are taking nephrotoxic drugs, and periodic monitoring of renal function will be performed while they are on therapy. Advise patients to complete all blood tests ordered by their healthcare provider [see Warnings and Precautions (5.1) ] . Mesalamine-Induced Acute Intolerance Syndrome and Other Hypersensitivity Reactions Instruct patients to stop taking LIALDA and report to their healthcare provider if they experience new or worsening symptoms of acute intolerance syndrome (cramping, abdominal pain, bloody diarrhea, fever, headache, and rash) or other symptoms suggestive of mesalamine-induced hypersensitivity [see Warnings and Precautions (5.2 , 5.3) ] . Hepatic Failure Advise patients with known liver disease to contact their healthcare provider if they experience signs or symptoms of worsening liver function [see Warnings and Precautions (5.4) ] . Severe Cutaneous Adverse Reactions Inform patients of the signs and symptoms of severe cutaneous adverse reactions. Instruct patients to stop taking LIALDA and report to their healthcare provider at first appearance of a severe cutaneous adverse reaction or other sign of hypersensitivity [see Warnings and Precautions (5.5) ] . Upper Gastrointestinal Tract Obstruction Advise patients to contact their healthcare provider if they experience signs and symptoms of upper gastrointestinal tract obstruction [see Warnings and Precautions (5.6) ] . Photosensitivity Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.7) ] . Nephrolithiasis Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.8) ] . Blood Disorders Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy. Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions (7.2) , Use in Specific Populations (8.5) ] . Administration Instruct patients: Swallow LIALDA tablets whole; do not split or crush. Take LIALDA tablets with food [see Clinical Pharmacology (12.3) ] . Urine may become discolored reddish-brown while taking LIALDA when it comes in contact with surfaces or water treated with hypochlorite-containing bleach. If discolored urine is observed, advise patients to observe their urine flow. Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet). Drink an adequate amount of fluids [see Warnings and Precautions (5.8) ] ."
+  ],
+  "set_id": "3098a080-be86-4265-9818-7fc4beab77b7",
+  "id": "9d96c4cc-60fa-4030-ba4c-f4042a327fc5",
+  "effective_time": "20261026",
+  "version": "50"
+ }
+}

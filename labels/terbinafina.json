@@ -1,0 +1,244 @@
+{
+ "id_es": "terbinafina",
+ "generic_en": "terbinafine",
+ "search": "openfda.generic_name.exact:\"TERBINAFINE\"",
+ "downloaded": "2026-11-11T06:40Z",
+ "chosen": {
+  "set_id": "4dc1d7f7-e4ae-c54b-e063-6394a90aa420",
+  "id": "4dc1d7f7-e4af-c54b-e063-6394a90aa420",
+  "effective_time": "20260324",
+  "version": "1",
+  "brand_name": [
+   "Toenail Fungus Treatment"
+  ],
+  "generic_name": [
+   "TERBINAFINE"
+  ],
+  "manufacturer_name": [
+   "Shenzhen Wankelai E-commerce Co., Ltd."
+  ],
+  "route": [
+   "TOPICAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "M005"
+  ],
+  "n_sections": 15
+ },
+ "candidates": [
+  {
+   "set_id": "cacf5fe4-8c24-47ed-9a2b-b70aa5d45ef2",
+   "id": "5b24a338-a25d-eedb-e063-6394a90a4440",
+   "effective_time": "20260910",
+   "version": "5",
+   "brand_name": [
+    "Terbinafine"
+   ],
+   "generic_name": [
+    "TERBINAFINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077533"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "4dc1d7f7-e4ae-c54b-e063-6394a90aa420",
+   "id": "4dc1d7f7-e4af-c54b-e063-6394a90aa420",
+   "effective_time": "20260324",
+   "version": "1",
+   "brand_name": [
+    "Toenail Fungus Treatment"
+   ],
+   "generic_name": [
+    "TERBINAFINE"
+   ],
+   "manufacturer_name": [
+    "Shenzhen Wankelai E-commerce Co., Ltd."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M005"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "18b16aad-1877-4b07-b532-f0ef4843af91",
+   "id": "e3db8f4b-ea51-41b6-859e-ad91677aaf73",
+   "effective_time": "20250919",
+   "version": "6",
+   "brand_name": [
+    "Terbinafine"
+   ],
+   "generic_name": [
+    "TERBINAFINE"
+   ],
+   "manufacturer_name": [
+    "Cipla USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077533"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "c7cf55e2-f637-e2d9-e053-2995a90a6270",
+   "id": "2c28596f-8fc8-42e5-e063-6294a90a0ad6",
+   "effective_time": "20250120",
+   "version": "2",
+   "brand_name": [
+    "TERBINAFINE"
+   ],
+   "generic_name": [
+    "TERBINAFINE"
+   ],
+   "manufacturer_name": [
+    "direct rx"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078297"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "8ea693ec-e2f2-4661-b144-17651018e9fb",
+   "id": "2659c503-319a-b899-e063-6294a90aa6a6",
+   "effective_time": "20241107",
+   "version": "4",
+   "brand_name": [
+    "TERBINAFINE"
+   ],
+   "generic_name": [
+    "TERBINAFINE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078199"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "6dc279cc-9861-4fa8-8083-ca3b3c57b513",
+   "id": "dc86cdd6-0a8a-4e5c-b3c4-8b05388af862",
+   "effective_time": "20201029",
+   "version": "6",
+   "brand_name": [
+    "Terbinafine"
+   ],
+   "generic_name": [
+    "TERBINAFINE"
+   ],
+   "manufacturer_name": [
+    "Exelan Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077533"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "3925dc10-ad66-46a8-bfa5-1a4314be3521",
+   "id": "86d7ee5e-ebfd-45ea-a520-b6f65814c3e2",
+   "effective_time": "20200101",
+   "version": "4",
+   "brand_name": [
+    "Terbinafine"
+   ],
+   "generic_name": [
+    "TERBINAFINE"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077533"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Terbinafine 1%"
+  ],
+  "purpose": [
+   "Antifungal"
+  ],
+  "indications_and_usage": [
+   "For the effective treatment of nail fungus, discoloration, thickening, splitting, crumbling and brittleness."
+  ],
+  "warnings": [
+   "For external use only."
+  ],
+  "do_not_use": [
+   "If on children under 2 years of age unless directed by a doctor."
+  ],
+  "when_using": [
+   "·Avoid contact with eyes."
+  ],
+  "stop_use": [
+   "Irritation occurs or if there is no improvement within 4 weeks."
+  ],
+  "keep_out_of_reach_of_children": [
+   "If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+   "Apply the product twice a day, in the morning and at night. Soak nails in warm water to soften, then gently file affected nails. Clean the affected area with soap and water and dry thoroughly. Directly to affected nail Allow a few minutes to dry after each. Use daily for 4-6 weeks, depending on the condition of the area needing repair."
+  ],
+  "inactive_ingredient": [
+   "ALCOHOL,DIMETHICONE,CETOSTEARYL ALCOHOL,TEA TREE OIL,PROPYLENE GLYCOL,TOCOPHEROL,SAFFLOWER OIL,WATER"
+  ],
+  "set_id": "4dc1d7f7-e4ae-c54b-e063-6394a90aa420",
+  "id": "4dc1d7f7-e4af-c54b-e063-6394a90aa420",
+  "effective_time": "20260324",
+  "version": "1"
+ }
+}

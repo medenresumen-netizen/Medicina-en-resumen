@@ -1,0 +1,216 @@
+{
+ "id_es": "nitazoxanida",
+ "generic_en": "nitazoxanide",
+ "search": "openfda.generic_name.exact:\"NITAZOXANIDE\"",
+ "downloaded": "2026-11-11T06:40Z",
+ "chosen": {
+  "set_id": "295011e1-f919-4e5a-b9e7-4c784f623a86",
+  "id": "4729e7ee-3333-ee2b-e063-6394a90aa85c",
+  "effective_time": "20251230",
+  "version": "1",
+  "brand_name": [
+   "Nitazoxanide"
+  ],
+  "generic_name": [
+   "NITAZOXANIDE"
+  ],
+  "manufacturer_name": [
+   "Camber Pharmaceuticals, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA218701"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "40a7cc30-76cd-49fe-965a-7823c4140d0f",
+   "id": "8877f30a-f082-45f8-91f3-7de02b69f50a",
+   "effective_time": "20260618",
+   "version": "3",
+   "brand_name": [
+    "Nitazoxanide"
+   ],
+   "generic_name": [
+    "NITAZOXANIDE"
+   ],
+   "manufacturer_name": [
+    "e5 Pharma, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214844"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "295011e1-f919-4e5a-b9e7-4c784f623a86",
+   "id": "4729e7ee-3333-ee2b-e063-6394a90aa85c",
+   "effective_time": "20251230",
+   "version": "1",
+   "brand_name": [
+    "Nitazoxanide"
+   ],
+   "generic_name": [
+    "NITAZOXANIDE"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218701"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "c0dc0656-3c46-43f9-adea-5285c522cef8",
+   "id": "9ee8087a-d001-42a9-ae98-6e4cbf93caa1",
+   "effective_time": "20251009",
+   "version": "9",
+   "brand_name": [
+    "Nitazoxanide"
+   ],
+   "generic_name": [
+    "NITAZOXANIDE"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213820"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "cd3652fa-a183-4fb6-9a21-73fbeba6fc4b",
+   "id": "cd3652fa-a183-4fb6-9a21-73fbeba6fc4b",
+   "effective_time": "20250305",
+   "version": "1",
+   "brand_name": [
+    "Nitazoxanide"
+   ],
+   "generic_name": [
+    "NITAZOXANIDE"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214844"
+   ],
+   "n_sections": 29
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Diarrhea caused by Giardia lamblia or Cryptosporidium parvum: Nitazoxanide tablets (patients 12 years and older) are indicated for the treatment of diarrhea caused by Giardia lamblia or Cryptosporidium parvum . Limitations of Use Nitazoxanide tablets have not been shown to be effective for the treatment of diarrhea caused by Cryptosporidium parvum in HIV-infected or immunodeficient patients [see Clinical Studies (14.2) ] . Nitazoxanide tablets are antiprotozoal indicated for the treatment of diarrhea caused by Giardia lamblia or Cryptosporidium parvum (1 ). Limitations of Use: Nitazoxanide tablets have not been shown to be effective for the treatment of diarrhea caused by C. parvum in HIV-infected or immunodeficient patients (1)."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • Nitazoxanide tablets should not be administered to pediatric patient 11 years of age or younger ( 2.1 ). • Dosage for treatment of diarrhea caused by G.lamblia or C. parvum ( 2.1 ): Age Dosage Duration 12 years and older One 500 mg nitazoxanide tablet every 12 hours with food 3 days 2.1 Recommended Dosage and Important Administration Instructions Important Administration Instructions for Pediatric Patients 11 years of Age or Younger: Nitazoxanide tablets should not be administered to pediatric patients 11 years of age or younger because a single tablet contains a greater amount of nitazoxanide than the recommended dosing in this pediatric age group. Table 1. Recommended Dosage Age Dosage Duration 12 years and older One 500 mg nitazoxanide tablet taken orally every 12 hours with food 3 days"
+  ],
+  "dosage_and_administration_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"20%\"/><col width=\"58%\"/><col width=\"21%\"/><tbody><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\"><content styleCode=\"bold\">Age</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Dosage</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Duration</content> </td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\">12 years and older  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">One 500 mg nitazoxanide tablet every 12 hours with food  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">3 days  </td></tr></tbody></table>",
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"21%\"/><col width=\"67%\"/><col width=\"11%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\"><content styleCode=\"bold\">Age</content> </td><td styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Dosage</content> </td><td styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Duration</content> </td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\">12 years and older  </td><td styleCode=\"Rrule\" valign=\"top\">One 500 mg nitazoxanide tablet taken orally every 12 hours with food  </td><td styleCode=\"Rrule\" valign=\"top\">3 days  </td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Nitazoxanide tablets: 500 mg ( 3 ). 3.1 Nitazoxanide Tablets (500 mg) Green colored, round biconvex film-coated tablets debossed with “V1” on one side and “1” on the other side. Each tablet contains 500 mg of nitazoxanide."
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Hypersensitivity ( 4.1 ) 4.1 Hypersensitivity Nitazoxanide tablets are contraindicated in patients with a prior hypersensitivity to nitazoxanide or any other ingredient in the formulations."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The most common adverse reactions in ≥2% of patients were abdominal pain, headache, chromaturia, and nausea ( 6.1 ). To report SUSPECTED ADVERSE REACTIONS, contact Annora Pharma Private Limited at 1-866-495-1995 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The safety of nitazoxanide was evaluated in 2177 HIV-uninfected subjects 12 months of age and older who received nitazoxanide tablets or Alina for oral suspension at the recommended dose for at least three days. In pooled controlled clinical trials involving 536 HIV-uninfected subjects treated with nitazoxanide tablets or Alina for oral suspension, the most common adverse reactions were abdominal pain, headache, chromaturia and nausea (≥2%). Safety data were analyzed separately for 280 HIV-uninfected subjects ≥12 years of age receiving nitazoxanide at the recommended dose for at least three days in 5 placebo-controlled clinical trials and for 256 HIV-uninfected subjects 1 through 11 years of age in 7 controlled clinical trials. There were no differences between the adverse reactions reported for nitazoxanide-treated subjects based upon age. 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of nitazoxanide. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following is a list of adverse reactions spontaneously reported with nitazoxanide tablets which were not included in clinical trial listings: Gastrointestinal disorders: diarrhea, gastroesophageal reflux disease Nervous System disorders: dizziness Respiratory, thoracic and mediastinal disorders: dyspnea Skin and subcutaneous tissue disorders: rash, urticaria"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Competition for binding sites may occur when administered concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices. Monitor for adverse reactions ( 7 ). 7.1 Highly Protein Bound Drugs with Narrow Therapeutic Indices Tizoxanide (the active metabolite of nitazoxanide) is highly bound to plasma protein (>99.9%). Therefore, monitor for adverse reactions when administering nitazoxanide concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices, as competition for binding sites may occur (e.g., warfarin)."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary There are no data with nitazoxanide in pregnant women to inform a drug-associated risk. No teratogenicity or fetotoxicity was observed in animal reproduction studies with administration of nitazoxanide to pregnant rats and rabbits during organogenesis at exposures 30 and 2 times, respectively, the exposure at the maximum recommended human dose of 500 mg twice daily based on body surface area (BSA). In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Animal Data Nitazoxanide was administered orally to pregnant rats at doses of 0, 200, 800 or 3200 mg/kg/day on gestation days 6 to 15. Nitazoxanide produced no evidence of systemic maternal toxicity when administered once daily via oral gavage to pregnant female rats at levels up to 3200 mg/kg/day during the period of organogenesis. In rabbits, nitazoxanide was administered at doses of 0, 25, 50, or 100 mg/kg/day on gestation days 7 to 20. Oral treatment of pregnant rabbits with nitazoxanide during organogenesis resulted in minimal maternal toxicity and no external fetal anomalies. 8.2 Lactation Risk Summary No information regarding the presence of nitazoxanide in human milk, the effects on the breastfed infant, or the effects on milk production is available. The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitazoxanide and any potential adverse effects on the breastfed infant from nitazoxanide or from the underlying maternal condition. 8.4 Pediatric Use The safety and efficacy of nitazoxanide tablets for the treatment of diarrhea caused by G. lamblia or C. parvum in pediatric patients 12 to 17 years of age has been established based on three (3) randomized controlled studies with 47 pediatric subjects treated with nitazoxanide tablets 500 mg. A single nitazoxanide tablet contains a greater amount of nitazoxanide than is recommended for use in pediatric patients 11 years or younger. [see Dosage and Administration ( 2.1 )] . 8.5 Geriatric Use Clinical studies of nitazoxanide tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing nitazoxanide tablets. 8.6 Renal and Hepatic Impairment The pharmacokinetics of nitazoxanide in patients with compromised renal or hepatic function has not been studied. 8.7 HIV-Infected or Immunodeficient Patients Nitazoxanide tablets have not been studied for the treatment of diarrhea caused by G. lamblia in HIV-infected or immunodeficient patients. Nitazoxanide tablets have not been shown to be superior to placebo for the treatment of diarrhea caused by C. parvum in HIV-infected or immunodeficient patients [see Clinical Studies ( 14 )] ."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no data with nitazoxanide in pregnant women to inform a drug-associated risk. No teratogenicity or fetotoxicity was observed in animal reproduction studies with administration of nitazoxanide to pregnant rats and rabbits during organogenesis at exposures 30 and 2 times, respectively, the exposure at the maximum recommended human dose of 500 mg twice daily based on body surface area (BSA). In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Animal Data Nitazoxanide was administered orally to pregnant rats at doses of 0, 200, 800 or 3200 mg/kg/day on gestation days 6 to 15. Nitazoxanide produced no evidence of systemic maternal toxicity when administered once daily via oral gavage to pregnant female rats at levels up to 3200 mg/kg/day during the period of organogenesis. In rabbits, nitazoxanide was administered at doses of 0, 25, 50, or 100 mg/kg/day on gestation days 7 to 20. Oral treatment of pregnant rabbits with nitazoxanide during organogenesis resulted in minimal maternal toxicity and no external fetal anomalies."
+  ],
+  "labor_and_delivery": [
+   "8.2 Lactation Risk Summary No information regarding the presence of nitazoxanide in human milk, the effects on the breastfed infant, or the effects on milk production is available. The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitazoxanide and any potential adverse effects on the breastfed infant from nitazoxanide or from the underlying maternal condition."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and efficacy of nitazoxanide tablets for the treatment of diarrhea caused by G. lamblia or C. parvum in pediatric patients 12 to 17 years of age has been established based on three (3) randomized controlled studies with 47 pediatric subjects treated with nitazoxanide tablets 500 mg. A single nitazoxanide tablet contains a greater amount of nitazoxanide than is recommended for use in pediatric patients 11 years or younger. [see Dosage and Administration ( 2.1 )] ."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of nitazoxanide tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing nitazoxanide tablets."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Limited information on nitazoxanide overdosage is available. In the event of overdose, gastric lavage may be appropriate soon after oral administration. Patients should be observed and given symptomatic and supportive treatment. There is no specific antidote for overdose with nitazoxanide. Because tizoxanide is highly protein bound (>99.9%), dialysis is unlikely to significantly reduce plasma concentrations of the drug."
+  ],
+  "description": [
+   "11 DESCRIPTION Nitazoxanide tablets contain the active ingredient, nitazoxanide, a synthetic antiprotozoal for oral administration. Nitazoxanide is off-white to yellow powder. It is practically insoluble in ethanol, water and soluble in N, N-dimethylacetamide. Chemically, nitazoxanide is 2-((5-Nitrothiazol-2-yl) carbamoyl) phenyl acetate. The molecular formula is C 12 H 9 N 3 O 5 S and the molecular weight is 307.28. The structural formula is: Nitazoxanide tablets contain 500 mg of nitazoxanide and the following inactive ingredients: corn starch, D&C yellow #10 aluminum lake, FD&C blue #2, FD&C yellow #6, hypromellose, lecithin (soya), magnesium stearate, polyvinyl alcohol, pregelatinized starch, sodium starch glycolate, talc, titanium dioxide and xanthan gum. nitazoxanidetabletsstructure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Nitazoxanide is an antiprotozoal [see Microbiology ( 12.4 )]. 12.3 Pharmacokinetics Absorption Single Dosing: Following oral administration of nitazoxanide tablets, the parent drug, nitazoxanide, is not detected in plasma. The pharmacokinetic parameters of the metabolites, tizoxanide and tizoxanide glucuronide are shown in Tables 2 and 3 below. Table 2. Mean (± SD) plasma pharmacokinetic parameters of tizoxanide and tizoxanide glucuronide following administration of a single dose of one 500 mg nitazoxanide tablet with food to subjects ≥12 years of age Tizoxanide Tizoxanide Glucuronide Age C max (mcg/mL) *T max (hr) AUC τ (mcg•hr/mL) C max (mcg/mL) *T max (hr) AUC τ (mcg•hr/mL) 12 to 7 years 9.1 (6.1) 4.0 (1 to 4) 39.5 (24.2) 7.3 (1.9) 4.0 (2 to 8) 46.5 (18.2) ≥18 years 10.6 (2.0) 3.0 (2 to 4) 41.9 (6.0) 10.5 (1.4) 4.5 (4 to 6) 63.0 (12.3) * T max is given as a Mean (Range) Multiple dosing: Following oral administration of a single nitazoxanide tablet every 12 hours for 7 consecutive days, there was no significant accumulation of nitazoxanide metabolites tizoxanide or tizoxanide glucuronide detected in plasma. Bioavailability: Alina for oral suspension is not bioequivalent to nitazoxanide tablets. The relative bioavailability of the suspension compared to the tablet was 70%. When nitazoxanide tablets are administered with food, the AUC τ of tizoxanide and tizoxanide glucuronide in plasma is increased almost two-fold and the C max is increased by almost 50%. Nitazoxanide tablets were administered with food in clinical trials and hence they are recommended to be administered with food [see Dosage and Administration ( 2.1 )] . Distribution In plasma, more than 99% of tizoxanide is bound to proteins. Elimination Metabolism Following oral administration in humans, nitazoxanide is rapidly hydrolyzed to an active metabolite, tizoxanide (desacetyl-nitazoxanide). Tizoxanide then undergoes conjugation, primarily by glucuronidation. Excretion Tizoxanide is excreted in the urine, bile and feces, and tizoxanide glucuronide is excreted in urine and bile. Approximately two-thirds of the oral dose of nitazoxanide is excreted in the feces and one-third in the urine. Specific Populations Pediatric Patients The pharmacokinetics of tizoxanide and tizoxanide glucuronide following administration of nitazoxanide tablets in pediatric patients 12 to 17 years of age are provided above in Table 2. Mean (±SD) plasma pharmacokinetic parameters of tizoxanide and tizoxanide glcuronide following administration of a single dose of one 500 mg nitazoxanide tablet with food to subject ≥12 years of age. Drug Interaction Studies In vitro studies demonstrated that tizoxanide has no significant inhibitory effect on cytochrome P450 enzymes. 12.4 Microbiology Mechanism of Action The antiprotozoal activity of nitazoxanide is believed to be due to interference with the pyruvate:ferredoxin oxidoreductase (PFOR) enzyme-dependent electron transfer reaction which is essential to anaerobic energy metabolism. Studies have shown that the PFOR enzyme from G. lamblia directly reduces nitazoxanide by transfer of electrons in the absence of ferredoxin. The DNA-derived PFOR protein sequence of C. parvum appears to be similar to that of G. lamblia . Interference with the PFOR enzyme-dependent electron transfer reaction may not be the only pathway by which nitazoxanide exhibits antiprotozoal activity. Resistance A potential for development of resistance by C. parvum or G. lamblia to nitazoxanide has not been examined. Antimicrobial Activity Nitazoxanide and its metabolite, tizoxanide, are active in vitro in inhibiting the growth of (i) sporozoites and oocysts of C. parvum and (ii) trophozoites of G. lamblia. Susceptibility Test Methods For protozoa such as C. parvum and G. lamblia , standardized tests for use in clinical microbiology laboratories are not available."
+  ],
+  "clinical_pharmacology_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"14.82%\"/><col width=\"17.54%\"/><col width=\"12.84%\"/><col width=\"15.12%\"/><col width=\"11.72%\"/><col width=\"12.84%\"/><col width=\"15.12%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\"/><td colspan=\"3\" align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Tizoxanide</content> </td><td colspan=\"3\" align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Tizoxanide Glucuronide</content> </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"middle\">Age  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">C <sub>max</sub>(mcg/mL)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">*T <sub>max</sub>  (hr)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">AUC <sub>&#x3C4;</sub>  (mcg&#x2022;hr/mL)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">C <sub>max</sub>  (mcg/mL)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">*T <sub>max</sub>  (hr)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">AUC <sub>&#x3C4;</sub>  (mcg&#x2022;hr/mL)  </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"middle\">12 to 7 years  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">9.1 (6.1)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">4.0 (1 to 4)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">39.5 (24.2)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">7.3 (1.9)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">4.0 (2 to 8)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">46.5 (18.2)  </td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"middle\">&#x2265;18 years  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">10.6 (2.0)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">3.0 (2 to 4)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">41.9 (6.0)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">10.5 (1.4)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">4.5 (4 to 6)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">63.0 (12.3)  </td></tr></tbody></table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Nitazoxanide is an antiprotozoal [see Microbiology ( 12.4 )]."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Single Dosing: Following oral administration of nitazoxanide tablets, the parent drug, nitazoxanide, is not detected in plasma. The pharmacokinetic parameters of the metabolites, tizoxanide and tizoxanide glucuronide are shown in Tables 2 and 3 below. Table 2. Mean (± SD) plasma pharmacokinetic parameters of tizoxanide and tizoxanide glucuronide following administration of a single dose of one 500 mg nitazoxanide tablet with food to subjects ≥12 years of age Tizoxanide Tizoxanide Glucuronide Age C max (mcg/mL) *T max (hr) AUC τ (mcg•hr/mL) C max (mcg/mL) *T max (hr) AUC τ (mcg•hr/mL) 12 to 7 years 9.1 (6.1) 4.0 (1 to 4) 39.5 (24.2) 7.3 (1.9) 4.0 (2 to 8) 46.5 (18.2) ≥18 years 10.6 (2.0) 3.0 (2 to 4) 41.9 (6.0) 10.5 (1.4) 4.5 (4 to 6) 63.0 (12.3) * T max is given as a Mean (Range) Multiple dosing: Following oral administration of a single nitazoxanide tablet every 12 hours for 7 consecutive days, there was no significant accumulation of nitazoxanide metabolites tizoxanide or tizoxanide glucuronide detected in plasma. Bioavailability: Alina for oral suspension is not bioequivalent to nitazoxanide tablets. The relative bioavailability of the suspension compared to the tablet was 70%. When nitazoxanide tablets are administered with food, the AUC τ of tizoxanide and tizoxanide glucuronide in plasma is increased almost two-fold and the C max is increased by almost 50%. Nitazoxanide tablets were administered with food in clinical trials and hence they are recommended to be administered with food [see Dosage and Administration ( 2.1 )] . Distribution In plasma, more than 99% of tizoxanide is bound to proteins. Elimination Metabolism Following oral administration in humans, nitazoxanide is rapidly hydrolyzed to an active metabolite, tizoxanide (desacetyl-nitazoxanide). Tizoxanide then undergoes conjugation, primarily by glucuronidation. Excretion Tizoxanide is excreted in the urine, bile and feces, and tizoxanide glucuronide is excreted in urine and bile. Approximately two-thirds of the oral dose of nitazoxanide is excreted in the feces and one-third in the urine. Specific Populations Pediatric Patients The pharmacokinetics of tizoxanide and tizoxanide glucuronide following administration of nitazoxanide tablets in pediatric patients 12 to 17 years of age are provided above in Table 2. Mean (±SD) plasma pharmacokinetic parameters of tizoxanide and tizoxanide glcuronide following administration of a single dose of one 500 mg nitazoxanide tablet with food to subject ≥12 years of age. Drug Interaction Studies In vitro studies demonstrated that tizoxanide has no significant inhibitory effect on cytochrome P450 enzymes."
+  ],
+  "pharmacokinetics_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"14.82%\"/><col width=\"17.54%\"/><col width=\"12.84%\"/><col width=\"15.12%\"/><col width=\"11.72%\"/><col width=\"12.84%\"/><col width=\"15.12%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\"/><td colspan=\"3\" align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Tizoxanide</content> </td><td colspan=\"3\" align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Tizoxanide Glucuronide</content> </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"middle\">Age  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">C <sub>max</sub>(mcg/mL)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">*T <sub>max</sub>  (hr)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">AUC <sub>&#x3C4;</sub>  (mcg&#x2022;hr/mL)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">C <sub>max</sub>  (mcg/mL)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">*T <sub>max</sub>  (hr)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">AUC <sub>&#x3C4;</sub>  (mcg&#x2022;hr/mL)  </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"middle\">12 to 7 years  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">9.1 (6.1)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">4.0 (1 to 4)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">39.5 (24.2)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">7.3 (1.9)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">4.0 (2 to 8)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">46.5 (18.2)  </td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"middle\">&#x2265;18 years  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">10.6 (2.0)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">3.0 (2 to 4)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">41.9 (6.0)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">10.5 (1.4)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">4.5 (4 to 6)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">63.0 (12.3)  </td></tr></tbody></table>"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Long-term carcinogenicity studies have not been conducted. Mutagenesis Nitazoxanide was not genotoxic in the Chinese hamster ovary (CHO) cell chromosomal aberration assay or the mouse micronucleus assay. Nitazoxanide was genotoxic in one tester strain (TA 100) in the Ames bacterial mutation assay. Impairment of Fertility Nitazoxanide did not adversely affect male or female fertility in the rat at 2400 mg/kg/day (approximately 20 times the clinical adult dose adjusted for body surface area)."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Long-term carcinogenicity studies have not been conducted. Mutagenesis Nitazoxanide was not genotoxic in the Chinese hamster ovary (CHO) cell chromosomal aberration assay or the mouse micronucleus assay. Nitazoxanide was genotoxic in one tester strain (TA 100) in the Ames bacterial mutation assay. Impairment of Fertility Nitazoxanide did not adversely affect male or female fertility in the rat at 2400 mg/kg/day (approximately 20 times the clinical adult dose adjusted for body surface area)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES 14.1 Diarrhea Caused by G. lamblia Diarrhea caused by G. lamblia in adults and adolescents 12 years of age or older: In a double-blind, controlled trial (Study 1) conducted in Peru and Egypt in adults and adolescents with diarrhea and with one or more enteric symptoms (e.g., abdominal pain, nausea, vomiting, fever, abdominal distention, loss of appetite, flatulence) caused by G. lamblia , a three-day course of treatment with nitazoxanide tablets administered 500 mg twice daily was compared with a placebo tablet for 3 days. A second double-blind, controlled trial (Study 2) conducted in Egypt in adults and adolescents with diarrhea and with or without enteric symptoms (e.g., abdominal colic, abdominal tenderness, abdominal cramps, abdominal distention, fever, bloody stool) caused by G. lamblia compared nitazoxanide tablets administered 500 mg twice daily for 3 days to a placebo tablet. For both of these studies, clinical response was evaluated 4 to 7 days following the end of treatment. A clinical response of ‘well’ was defined as ‘no symptoms, no watery stools and no more than 2 soft stools with no hematochezia within the past 24 hours’ or ‘no symptoms and no unformed stools within the past 48 hours.’ The following clinical response rates were obtained: Table 4. Adult and Adolescent Patients with Diarrhea Caused by G. lamblia Clinical Response Rates* 4 to 7 Days Post-therapy % (Number of Successes/Total) Nitazoxanide Tablets Placebo Tablets Study 1 85% (46/54) ¶ § 44% (12/27) Study 2 100% (8/8) 30% (3/10) * Includes all patients randomized with G. lamblia as the sole pathogen. Patients failing to complete the studies were treated as failures. ¶ Clinical response rates statistically significantly higher when compared to placebo. § The 95% confidence interval of the difference in response rates for the tablet and suspension is (-14%, 17%). Some patients with ‘well’ clinical responses had G. lamblia cysts in their stool samples 4 to 7 days following the end of treatment. The relevance of stool examination results in these patients is unknown. Patients should be managed based upon clinical response to treatment. 14.2 Diarrhea Caused by C. parvum Diarrhea caused by C. parvum in adults and adolescents 12 years of age or older: In a double-blind, controlled trial conducted in Egypt in adults and adolescents with diarrhea and with or without enteric symptoms (e.g., abdominal pain/cramps, nausea, vomiting) caused by C. parvum , a three-day course of treatment with nitazoxanide tablets administered 500 mg twice daily was compared with a placebo tablet for 3 days. Clinical response was evaluated 4 to 7 days following the end of treatment. A clinical response of ‘well’ was defined as ‘no symptoms, no watery stools and no more than 2 soft stools within the past 24 hours’ or ‘no symptoms and no unformed stools within the past 48 hours.’ The following clinical response rates were obtained: Table 6. Clinical Response Rates in Adult and Adolescent Patients 4 to 7 Days Post-therapy % (Number of Successes/Total) Nitazoxanide Tablets Placebo Tablets Intent-to-treat analysis * 96% (27/28) ¶ § 41% (11/27) * Includes all patients randomized with C. parvum as the sole pathogen. Patients failing to complete the study were treated as failures. ¶ Clinical response rates statistically significantly higher when compared to placebo. § The 95% confidence interval of the difference in response rates for the tablet and suspension is (-10%, 28%). In a second double-blind, placebo-controlled trial of nitazoxanide tablets conducted in Egypt in adults and adolescents with diarrhea and with or without enteric symptoms (e.g., abdominal colic, abdominal cramps, epigastric pain) caused by C. parvum as the sole pathogen, clinical and parasitological response rates showed a similar trend to the first study. Clinical response rates, evaluated 2 to 6 days following the end of treatment, were 71% (15/21) in the nitazoxanide group and 42.9% (9/21) in the placebo group. Some patients with ‘well’ clinical responses had C. parvum oocysts in their stool samples 4 to 7 days following the end of treatment. The relevance of stool examination results in these patients is unknown. Patients should be managed based upon clinical response to treatment."
+  ],
+  "clinical_studies_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"18.7%\"/><col width=\"41.84%\"/><col width=\"39.46%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\"/><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Nitazoxanide Tablets</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\"><content styleCode=\"bold\">Placebo Tablets</content> </td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\">Study 1  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">85% (46/54) <sup>&#xB6; &#xA7;</sup> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">44% (12/27)  </td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"top\">Study 2  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">100% (8/8)  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"top\">30% (3/10)  </td></tr></tbody></table>",
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><col width=\"36.16%\"/><col width=\"36.2%\"/><col width=\"27.64%\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">  </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\"><content styleCode=\"bold\">Nitazoxanide Tablets</content> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\"><content styleCode=\"bold\">Placebo Tablets</content> </td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\" valign=\"middle\">Intent-to-treat analysis <sup>*</sup> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">96% (27/28) <sup>&#xB6; &#xA7;</sup> </td><td align=\"center\" styleCode=\"Rrule\" valign=\"middle\">41% (11/27)  </td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 Nitazoxanide Tablets (500 mg) Nitazoxanide tablets 500 mg are green colored, round biconvex film-coated tablets debossed with “V1” on one side and “1” on the other side. Each tablet contains 500 mg of nitazoxanide. The tablets are packaged in HDPE bottles of 6, 12 and 30 tablets. Bottles of 12 tablets NDC 31722-100-31 Bottles of 30 tablets NDC 31722-100-30 Bottles of 6 tablets NDC 31722-100-32 Store the tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F). [See USP Controlled Room Temperature]"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise patients and parents/caregivers of pediatric patients taking nitazoxanide tablets of the following information: Dosage and Administration: Nitazoxanide tablets should be taken with food. Drug-drug Interactions: Avoid concurrent warfarin use. Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: Annora Pharma Pvt. Ltd. Sangareddy - 502313, Telangana, India. Revised: 05/2025 camberlogo"
+  ],
+  "set_id": "295011e1-f919-4e5a-b9e7-4c784f623a86",
+  "id": "4729e7ee-3333-ee2b-e063-6394a90aa85c",
+  "effective_time": "20251230",
+  "version": "1"
+ }
+}

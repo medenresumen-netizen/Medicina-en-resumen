@@ -1,0 +1,731 @@
+{
+ "id_es": "cloruro-de-potasio",
+ "generic_en": "potassium chloride",
+ "search": "openfda.generic_name.exact:\"POTASSIUM CHLORIDE\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "1ff53330-065c-4213-9c0c-ac498621d09d",
+  "id": "39e77e07-bdc8-28e9-e063-6394a90a120c",
+  "effective_time": "20250714",
+  "version": "6",
+  "brand_name": [
+   "KLOR-CON"
+  ],
+  "generic_name": [
+   "POTASSIUM CHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Upsher-Smith Laboratories, LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA019123"
+  ],
+  "n_sections": 27
+ },
+ "candidates": [
+  {
+   "set_id": "47a87fb6-5e61-41c9-b759-10f7c74a67ce",
+   "id": "5f153f41-a35b-ff09-e063-6394a90a7399",
+   "effective_time": "20261030",
+   "version": "10",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076368"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "030b8852-258d-435d-8bf4-8d7d591c1c8a",
+   "id": "2c3a89da-f31d-434d-a3c5-fc2fdf05c181",
+   "effective_time": "20261026",
+   "version": "2",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076368"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "018fc687-1fba-202e-e063-6294a90a5c9a",
+   "id": "5dd16c04-8a18-faad-e063-6294a90adab3",
+   "effective_time": "20261014",
+   "version": "8",
+   "brand_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208864"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "302b3fa7-ea87-4bf1-aae0-6a2d7459de86",
+   "id": "5d4ebc82-4844-2dc9-e063-6294a90a3439",
+   "effective_time": "20261008",
+   "version": "5",
+   "brand_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Granules Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213392"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "727be945-df2a-4fbf-ade4-f242e2647976",
+   "id": "5d4eb7da-0961-8928-e063-6394a90ae26a",
+   "effective_time": "20261008",
+   "version": "6",
+   "brand_name": [
+    "Potassium Chloride for Oral Solution"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Granules Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213467"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "113c031c-6de3-4497-a57d-9740b1ce08ac",
+   "id": "5d3f0b0d-be17-96b8-e063-6394a90a1fb2",
+   "effective_time": "20261007",
+   "version": "6",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Granules India Ltd"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214686"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "5dad0879-0f97-4c7d-98fa-baaed51cd2d8",
+   "id": "0f19da2c-a9ab-44fe-a38b-acb56c1c1883",
+   "effective_time": "20261001",
+   "version": "2",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "IPG Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208019"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "483f338e-a164-4c1f-a34e-fef3312cb7ec",
+   "id": "5c17860b-20f1-2b92-e063-6294a90af2a4",
+   "effective_time": "20260922",
+   "version": "6",
+   "brand_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE ORAL",
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Saptalis Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211648"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "598f61d7-a665-5d02-e063-6394a90a8905",
+   "id": "598f6131-7589-5ac2-e063-6394a90a561d",
+   "effective_time": "20260821",
+   "version": "1",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210921"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "3f19ed0e-6c73-482c-94d6-d3205318fd6f",
+   "id": "a0271018-3c49-4765-89ad-fa88505acef2",
+   "effective_time": "20260817",
+   "version": "5",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210921"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "16c775e4-0dd8-4e9f-b2bf-dd2b639374cf",
+   "id": "57e8faa4-cfe7-68eb-e063-6294a90ac534",
+   "effective_time": "20260731",
+   "version": "13",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210921"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "7ec22e8e-6643-44fe-804d-ca0b0b266663",
+   "id": "57ebf428-1697-998c-e063-6294a90a7918",
+   "effective_time": "20260731",
+   "version": "6",
+   "brand_name": [
+    "Potassium Chloride Extended-Release"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076368"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "02707146-331f-4511-a187-0152fc8bca85",
+   "id": "57726ba4-17f1-4613-8ab9-e64f3f155e8e",
+   "effective_time": "20260724",
+   "version": "8",
+   "brand_name": [
+    "Potassium Chloride Extended-Release"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Upsher-Smith Laboratories, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209688"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "6c080e51-4eb7-4e96-b29f-eb1cce381304",
+   "id": "5eddc3a3-f016-4844-b45d-30adec4665d1",
+   "effective_time": "20260714",
+   "version": "2",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202128"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "104ccc91-2aaf-4bb7-bb64-77c29413f60e",
+   "id": "56434227-f302-056c-e063-6294a90a7a0a",
+   "effective_time": "20260710",
+   "version": "4",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ATLANTIC BIOLOGICALS CORP."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210041"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "30527e49-6648-44f3-97b2-9c51783ac003",
+   "id": "9f4620c9-bb6f-46c3-abec-5bd77ea4e41a",
+   "effective_time": "20260701",
+   "version": "3",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209314"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "559a0a8c-a8fe-40a5-b196-21f9308780ab",
+   "id": "6367e84e-17df-4c2a-ba38-ce75e4fe1c96",
+   "effective_time": "20260701",
+   "version": "23",
+   "brand_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080205"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "590dd25c-c4cb-489a-a09b-eccbf1d37c1f",
+   "id": "db3a588c-7554-4b71-939b-277a6f037f25",
+   "effective_time": "20260701",
+   "version": "12",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210041"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "549c9d28-bf8b-2dc2-e063-6294a90abe7b",
+   "id": "549c9d2f-69a6-4019-e063-6294a90a4c43",
+   "effective_time": "20260619",
+   "version": "1",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209314"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "548953ac-31c5-a181-e063-6294a90a3b77",
+   "id": "54895aad-54c8-5082-e063-6394a90aefd3",
+   "effective_time": "20260612",
+   "version": "1",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218979"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5261dfe5-d62b-d618-e063-6294a90a96e7",
+   "id": "5261e028-be5e-719d-e063-6294a90a925f",
+   "effective_time": "20260522",
+   "version": "1",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074726"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "2d67fc67-c99f-4df2-a1e7-4d369cce12c2",
+   "id": "a311b9a5-cdbc-4ac7-ac4c-d53c7e7073c6",
+   "effective_time": "20260223",
+   "version": "5",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214686"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "33ad1eb2-1f05-461c-b01d-82dee4231556",
+   "id": "0e0defca-901d-4b4b-ac96-ac72fcfe4303",
+   "effective_time": "20260211",
+   "version": "8",
+   "brand_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210766"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "5c2e888c-2f1e-4d5a-a456-20774ca83302",
+   "id": "5c2e888c-2f1e-4d5a-a456-20774ca83302",
+   "effective_time": "20260204",
+   "version": "1",
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076368"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "7d74652b-3513-4ebb-8b47-10b3603d04a7",
+   "id": "7d74652b-3513-4ebb-8b47-10b3603d04a7",
+   "effective_time": "20260204",
+   "version": "1",
+   "brand_name": [
+    "Potassium Chloride Extended-Release"
+   ],
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076368"
+   ],
+   "n_sections": 24
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Klor-Con is indicated for the treatment and prophylaxis of hypokalemia with or without metabolic alkalosis, in patients for whom dietary management with potassium-rich foods or diuretic dose reduction is insufficient. KLOR-CON is a potassium salt, indicated for the treatment and prophylaxis of hypokalemia with or without metabolic alkalosis in patients for whom dietary management with potassium-rich foods or diuretic dose reduction is insufficient. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Monitor serum potassium and adjust dosages accordingly. ( 2.1 ) If serum potassium is less than 2.5 mEq/L, use intravenous potassium instead of oral supplementation. ( 2.1 ) Take with meals and with a glass of water or other liquid. Swallow tablets whole without crushing, chewing or sucking. ( 2.1 ) Treatment of hypokalemia: Doses range from 40 to 100 mEq/day in divided doses. Limit doses to 40 mEq per dose. ( 2.2 ) Prevention of hypokalemia: Typical dose is 20 mEq per day. ( 2.2 ) 2.1 Administration and Monitoring If serum potassium concentration is less than 2.5 mEq/L, use intravenous potassium instead of oral supplementation. Monitoring Monitor serum potassium and adjust dosages accordingly. Monitor serum potassium periodically during maintenance therapy to ensure potassium remains in desired range. The treatment of potassium depletion, particularly in the presence of cardiac disease, renal disease, or acidosis, requires careful attention to acid-base balance, volume status, electrolytes, including magnesium, sodium, chloride, phosphate, and calcium, electrocardiograms, and the clinical status of the patient. Correct volume status, acid-base balance, and electrolyte deficits as appropriate. Administration Take Klor-Con with meals and with a glass of water or other liquid. Do not take Klor-Con on an empty stomach because of its potential for gastric irritation [see Warnings and Precautions (5.1) ] . Swallow tablets whole without crushing, chewing or sucking. 2.2 Dosing Dosage must be adjusted to the individual needs of each patient. Dosages greater than 40 mEq per day should be divided such that no more than 40 mEq is given in a single dose. Treatment of Hypokalemia: Typical dose range is 40 to 100 mEq per day. Maintenance or Prophylaxis: Typical dose range is 20 mEq per day."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Klor-Con extended-release tablets are supplied as: 600 mg (8 mEq) are film-coated, round light blue tablets debossed with \"KC 8\". 750 mg (10 mEq) are film-coated, round yellow tablets debossed with \"KC 10\". Tablets: 600 mg (8 mEq) and 750 mg (10 mEq) ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Potassium chloride is contraindicated in patients on triamterene and amiloride. Concomitant use with triamterene and amiloride ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Gastrointestinal Irritation: Take with meals. ( 5.1 ) 5.1 Gastrointestinal Adverse Reactions Solid oral dosage forms of potassium chloride can produce ulcerative and/or stenotic lesions of the gastrointestinal tract, particularly if the drug maintains contact with the gastrointestinal mucosa for prolonged periods. Consider the use of liquid potassium in patients with dysphagia, swallowing disorders, or severe gastrointestinal motility disorders. If severe vomiting, abdominal pain, distention, or gastrointestinal bleeding occurs, discontinue Klor-Con extended-release tablets and consider possibility of ulceration, obstruction or perforation. Klor-Con extended-release tablets should not be taken on an empty stomach because of its potential for gastric irritation [see Dosage and Administration (2.1) ] ."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions have been identified with use of oral potassium salts. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. There have been reports hyperkalemia and of upper and lower gastrointestinal condition including obstruction, bleeding, ulceration, perforation. Skin rash has been reported rarely. The most common adverse reactions are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Upsher-Smith Laboratories, LLC at 1-855-899-9180 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Triamterene and amiloride: Concomitant use is contraindicated ( 7.1 ) Renin-angiotensin-aldosterone inhibitors: Monitor for hyperkalemia ( 7.2 ) Nonsteroidal anti-inflammatory drugs: Monitor for hyperkalemia ( 7.3 ) 7.1 Triamterene or amiloride Use with triamterene or amiloride can produce severe hyperkalemia. Concomitant use is contraindicated [see Contraindications (4) ] . 7.2 Renin-angiotensin-aldosterone Inhibitors Drugs that inhibit the renin-angiotensin-aldosterone system (RAAS) including angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), spironolactone, eplerenone, or aliskiren produce potassium retention by inhibiting aldosterone production. Closely monitor potassium in patients on concomitant RAAS inhibitors. 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs) NSAIDs may produce potassium retention by reducing renal synthesis of prostaglandin E and impairing the renin-angiotensin system. Closely monitor potassium in patients on concomitant NSAIDs."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Cirrhosis: Initiate therapy at the low end of the dosing range ( 8.6 ) Renal Impairment: Initiate therapy at the low end of the dosing range ( 8.7 ) 8.1 Pregnancy Risk Summary There are no human data related to use of Klor-Con during pregnancy, and animal reproduction studies have not been conducted. Potassium supplementation that does not lead to hyperkalemia is not expected to cause fetal harm. The background risk for major birth defects and miscarriage in the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. 8.2 Lactation Risk Summary The normal potassium ion content of human milk is about 13 mEq per liter. Since oral potassium becomes part of the body potassium pool, so long as body potassium is not excessive, the contribution of potassium chloride supplementation should have little or no effect on the level in human milk. 8.4 Pediatric Use Safety and effectiveness in the pediatric population have not been established. 8.5 Geriatric Use Clinical studies of Klor-Con extended-release did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function. 8.6 Cirrhotics Based on published literature, the baseline corrected serum concentrations of potassium measured over 3 hours after administration in cirrhotic subjects who received an oral potassium load rose to approximately twice that of normal subjects who received the same load. Patients with cirrhosis should usually be started at the low end of the dosing range, and the serum potassium level should be monitored frequently [see Clinical Pharmacology (12.3) ] . 8.7 Renal Impairment Patients with renal impairment have reduced urinary excretion of potassium and are at substantially increased risk of hyperkalemia. Patients with impaired renal function, particularly if the patient is on RAAS inhibitors or NSAIDs, should usually be started at the low end of the dosing range because of the potential for development of hyperkalemia [see Drug Interactions (7.2 , 7.3) ] . The serum potassium level should be monitored frequently. Renal function should be assessed periodically."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no human data related to use of Klor-Con during pregnancy, and animal reproduction studies have not been conducted. Potassium supplementation that does not lead to hyperkalemia is not expected to cause fetal harm. The background risk for major birth defects and miscarriage in the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in the pediatric population have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of Klor-Con extended-release did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE 10.1 Symptoms The administration of oral potassium salts to persons with normal excretory mechanisms for potassium rarely causes serious hyperkalemia. However, if excretory mechanisms are impaired, potentially fatal hyperkalemia can result [see Contraindications and Warnings ] . It is important to recognize that hyperkalemia is usually asymptomatic and may be manifested only by an increased serum potassium concentration (6.5 mEq/L to 8.0 mEq/L) and characteristic electrocardiographic changes (peaking of T-waves, loss of P-wave, depression of S-T segment and prolongation of the QT interval). Late manifestations include muscle paralysis and cardiovascular collapse from cardiac arrest (9 to 12 mEq/L). 10.2 Treatment Treatment measures for hyperkalemia include the following: Elimination of foods and medications containing potassium and of any agents with potassium-sparing properties. Intravenous administration of 300 mL/hr to 500 mL/hr of 10% dextrose solution containing 10 to 20 units of crystalline insulin per 1,000 mL. Correction of acidosis, if present, with intravenous sodium bicarbonate. Use of exchange resins, hemodialysis or peritoneal dialysis. In treating hyperkalemia, it should be recalled that in patients who have been stabilized on digitalis, too rapid a lowering of the serum potassium concentration can produce digitalis toxicity. The extended-release feature means that absorption and toxic effects may be delayed for hours. Consider standard measures to remove any unabsorbed drug."
+  ],
+  "description": [
+   "11 DESCRIPTION Klor-Con ® extended-release tablets are a solid oral dosage form of potassium chloride. Each contains 600 mg or 750 mg of potassium chloride equivalent to 8 mEq or 10 mEq of potassium in a wax matrix tablet. Klor-Con ® extended-release tablets are an electrolyte replenisher. The chemical name is potassium chloride, and the structural formula is KCl. Potassium chloride, USP is a white, granular powder or colorless crystals. It is odorless and has a saline taste. Its solutions are neutral to litmus. It is freely soluble in water and insoluble in alcohol. Inactive Ingredients: Hydrogenated vegetable oil, magnesium stearate, polyethylene glycol, polyvinyl alcohol, silicon dioxide, talc and titanium dioxide. Yellow tablets also contain D&C Yellow No. 10 Aluminum Lake and FD&C Yellow No. 6 Aluminum Lake. Blue tablets also contain FD&C Blue No. 1 Aluminum Lake and FD&C Blue No. 2 Aluminum Lake."
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The potassium ion is the principal intracellular cation of most body tissues. Potassium ions participate in a number of essential physiological processes including the maintenance of intracellular tonicity, the transmission of nerve impulses, the contraction of cardiac, skeletal and smooth muscle and the maintenance of normal renal function. The intracellular concentration of potassium is approximately 150 mEq to 160 mEq per liter. The normal adult plasma concentration is 3.5 mEq to 5 mEq per liter. An active ion transport system maintains this gradient across the plasma membrane. Potassium is a normal dietary constituent and under steady state conditions the amount of potassium absorbed from the gastrointestinal tract is equal to the amount excreted in the urine. The usual dietary intake of potassium is 50 to 100 mEq per day. 12.3 Pharmacokinetics The potassium chloride in Klor-Con extended-release is completely absorbed before it leaves the small intestine. The wax matrix is not absorbed and is excreted in the feces; in some instances the empty matrices may be noticeable in the stool. When the bioavailability of the potassium ion from the Klor-Con extended-release is compared to that of a true solution the extent of absorption is similar. The extended-release properties of Klor-Con extended-release are demonstrated by the finding that a significant increase in time is required for renal excretion of the first 50% of the Klor-Con extended-release dose as compared to the solution. Increased urinary potassium excretion is first observed 1 hour after administration of Klor-Con extended-release, reaches a peak at approximately 4 hours, and extends up to 8 hours. Mean daily steady-state plasma levels of potassium following daily administration of Klor-Con extended-release tablets cannot be distinguished from those following administration of potassium chloride solution or from control plasma levels of potassium ion. Specific Populations Cirrhotics Based on published literature, the baseline corrected serum concentrations of potassium measured over 3 hours after administration in cirrhotic subjects who received an oral potassium load rose to approximately twice that of normal subjects who received the same load."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action The potassium ion is the principal intracellular cation of most body tissues. Potassium ions participate in a number of essential physiological processes including the maintenance of intracellular tonicity, the transmission of nerve impulses, the contraction of cardiac, skeletal and smooth muscle and the maintenance of normal renal function. The intracellular concentration of potassium is approximately 150 mEq to 160 mEq per liter. The normal adult plasma concentration is 3.5 mEq to 5 mEq per liter. An active ion transport system maintains this gradient across the plasma membrane. Potassium is a normal dietary constituent and under steady state conditions the amount of potassium absorbed from the gastrointestinal tract is equal to the amount excreted in the urine. The usual dietary intake of potassium is 50 to 100 mEq per day."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics The potassium chloride in Klor-Con extended-release is completely absorbed before it leaves the small intestine. The wax matrix is not absorbed and is excreted in the feces; in some instances the empty matrices may be noticeable in the stool. When the bioavailability of the potassium ion from the Klor-Con extended-release is compared to that of a true solution the extent of absorption is similar. The extended-release properties of Klor-Con extended-release are demonstrated by the finding that a significant increase in time is required for renal excretion of the first 50% of the Klor-Con extended-release dose as compared to the solution. Increased urinary potassium excretion is first observed 1 hour after administration of Klor-Con extended-release, reaches a peak at approximately 4 hours, and extends up to 8 hours. Mean daily steady-state plasma levels of potassium following daily administration of Klor-Con extended-release tablets cannot be distinguished from those following administration of potassium chloride solution or from control plasma levels of potassium ion. Specific Populations Cirrhotics Based on published literature, the baseline corrected serum concentrations of potassium measured over 3 hours after administration in cirrhotic subjects who received an oral potassium load rose to approximately twice that of normal subjects who received the same load."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis and Impairment of Fertility Carcinogenicity, mutagenicity and fertility studies in animals have not been performed. Potassium is a normal dietary constituent."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis and Impairment of Fertility Carcinogenicity, mutagenicity and fertility studies in animals have not been performed. Potassium is a normal dietary constituent."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Klor-Con (potassium chloride, USP) contains 600 mg or 750 mg of potassium chloride (equivalent to 8 mEq or 10 mEq of potassium respectively). Klor-Con is provided as extended- release tablets. Table 1: How Supplied Dose Shape Color Debossment NDC#: 0245-xxxx-xx Bottle of 100 Tablets Bottle of 500 Tablets Carton of 100 Unit-Dose Tablets 600 mg (8 mEq) round light blue \"KC 8\" 5315-11 5315-15 5315-01 750 mg (10 mEq) round yellow \"KC 10\" 5316-11 5316-15 5316-01 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature]. Dispense in a tight container with a child-resistant closure."
+  ],
+  "how_supplied_table": [
+   "<table width=\"90%\"><caption>Table 1: How Supplied</caption><col width=\"21%\" align=\"center\" valign=\"middle\"/><col width=\"13%\" align=\"center\" valign=\"middle\"/><col width=\"13%\" align=\"center\" valign=\"middle\"/><col width=\"14%\" align=\"center\" valign=\"middle\"/><col width=\"13%\" align=\"center\" valign=\"middle\"/><col width=\"13%\" align=\"center\" valign=\"middle\"/><col width=\"13%\" align=\"center\" valign=\"middle\"/><thead><tr><th rowspan=\"2\" styleCode=\"Lrule Rrule\">Dose</th><th rowspan=\"2\" styleCode=\"Rrule\">Shape</th><th rowspan=\"2\" styleCode=\"Rrule\">Color</th><th rowspan=\"2\" styleCode=\"Rrule\">Debossment</th><th colspan=\"3\" styleCode=\"Botrule Rrule\">NDC#: 0245-xxxx-xx</th></tr><tr><th styleCode=\"Rrule\">Bottle of 100 Tablets</th><th styleCode=\"Rrule\">Bottle of 500 Tablets</th><th styleCode=\"Rrule\">Carton of 100 Unit-Dose Tablets</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">600 mg (8 mEq)</td><td styleCode=\"Rrule\">round</td><td styleCode=\"Rrule\">light blue</td><td styleCode=\"Rrule\">&quot;KC 8&quot;</td><td styleCode=\"Rrule\">5315-11</td><td styleCode=\"Rrule\">5315-15</td><td styleCode=\"Rrule\">5315-01</td></tr><tr><td styleCode=\"Lrule Rrule\">750 mg (10 mEq)</td><td styleCode=\"Rrule\">round</td><td styleCode=\"Rrule\">yellow</td><td styleCode=\"Rrule\">&quot;KC 10&quot;</td><td styleCode=\"Rrule\">5316-11</td><td styleCode=\"Rrule\">5316-15</td><td styleCode=\"Rrule\">5316-01</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature]. Dispense in a tight container with a child-resistant closure."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Inform patients to take each dose with meals and with a full glass of water or other liquid, and to not crush, chew, or suck the tablets. Inform patients that the wax matrix is not absorbed and is excreted in the feces; in some instances the empty matrices may be noticeable in the stool. Advise patients seek medical attention if tarry stools or other evidence of gastrointestinal bleeding is noticed."
+  ],
+  "set_id": "1ff53330-065c-4213-9c0c-ac498621d09d",
+  "id": "39e77e07-bdc8-28e9-e063-6394a90a120c",
+  "effective_time": "20250714",
+  "version": "6"
+ }
+}

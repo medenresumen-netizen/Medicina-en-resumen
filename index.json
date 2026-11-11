@@ -1,0 +1,5398 @@
+{
+ "updated": "2026-11-11T06:48Z",
+ "n": 337,
+ "missing": [
+  "ceftazidima-avibactam",
+  "norfloxacino",
+  "meropenem-vaborbactam",
+  "imipenem-relebactam",
+  "sulbactam-durlobactam",
+  "cefepima-enmetazobactam",
+  "insulina-nph",
+  "acido-obeticolico"
+ ],
+ "labels": [
+  {
+   "id_es": "abaloparatida",
+   "generic_en": "abaloparatide",
+   "brand": [
+    "Tymlos"
+   ],
+   "manufacturer": [
+    "Radius Health, Inc."
+   ],
+   "effective_time": "20260811",
+   "set_id": "712143d9-e21e-4013-bb3b-3426a21060a8",
+   "application": [
+    "NDA208743"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "abatacept",
+   "generic_en": "abatacept",
+   "brand": [
+    "ORENCIA"
+   ],
+   "manufacturer": [
+    "E.R. Squibb & Sons, L.L.C."
+   ],
+   "effective_time": "20251113",
+   "set_id": "0836c6ac-ee37-5640-2fed-a3185a0b16eb",
+   "application": [
+    "BLA125118"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "acarbosa",
+   "generic_en": "acarbose",
+   "brand": [
+    "Acarbose"
+   ],
+   "manufacturer": [
+    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260618",
+   "set_id": "29939129-7d09-4c22-bf3e-491a8a97f4c4",
+   "application": [
+    "ANDA202271"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "acetazolamida",
+   "generic_en": "acetazolamide",
+   "brand": [
+    "Acetazolamide"
+   ],
+   "manufacturer": [
+    "Westminster Pharmaceuticals, LLC"
+   ],
+   "effective_time": "20260217",
+   "set_id": "417b1df2-63bc-473c-9e02-5f93dd45554d",
+   "application": [
+    "ANDA090779"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "acetilcisteina",
+   "generic_en": "acetylcysteine",
+   "brand": [
+    "ACETADOTE"
+   ],
+   "manufacturer": [
+    "Cumberland Pharmaceuticals Inc."
+   ],
+   "effective_time": "20250430",
+   "set_id": "472f158a-5ab9-4308-8e49-1116e6ea3d39",
+   "application": [
+    "NDA021539"
+   ],
+   "n_candidates": 20
+  },
+  {
+   "id_es": "aciclovir",
+   "generic_en": "acyclovir",
+   "brand": [
+    "Zovirax"
+   ],
+   "manufacturer": [
+    "Bausch Health US, LLC"
+   ],
+   "effective_time": "20210201",
+   "set_id": "125dbe4e-94ba-45bd-a714-f9c4b8e8b5c2",
+   "application": [
+    "NDA021478"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "acido-bempedoico",
+   "generic_en": "bempedoic acid",
+   "brand": [
+    "Nexletol"
+   ],
+   "manufacturer": [
+    "Esperion Therapeutics, Inc."
+   ],
+   "effective_time": "20260625",
+   "set_id": "88d06d89-a3da-40b4-b273-8f4f7d56c4c9",
+   "application": [
+    "NDA211616"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "acido-folico",
+   "generic_en": "folic acid",
+   "brand": [
+    "QUIOFIC"
+   ],
+   "manufacturer": [
+    "Solubiomix, LLC"
+   ],
+   "effective_time": "20261005",
+   "set_id": "b868b314-591d-458b-be82-2bcd0b73cce1",
+   "application": [
+    "NDA216395"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "acido-tranexamico",
+   "generic_en": "tranexamic acid",
+   "brand": [
+    "Cyklokapron"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20250903",
+   "set_id": "6e89a7d9-4da4-42aa-b7f8-c602c24eefe5",
+   "application": [
+    "NDA019281"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "acido-zoledronico",
+   "generic_en": "zoledronic acid",
+   "brand": [
+    "Reclast"
+   ],
+   "manufacturer": [
+    "Sandoz Inc"
+   ],
+   "effective_time": "20260203",
+   "set_id": "5a9b3737-9ce6-4a89-b76e-6aab79eba9cf",
+   "application": [
+    "NDA021817"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "adalimumab",
+   "generic_en": "adalimumab",
+   "brand": [
+    "Adalimumab-aacf"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20260108",
+   "set_id": "2488b0bc-7b8f-4cc8-91ea-48e7ea5e8915",
+   "application": [
+    "BLA761255"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "adenosina",
+   "generic_en": "adenosine",
+   "brand": [
+    "Reorganic Feminine wash"
+   ],
+   "manufacturer": [
+    "LAON COMMERCE co ltd"
+   ],
+   "effective_time": "20230704",
+   "set_id": "ffb36cf5-dbef-7638-e053-6394a90a5a95",
+   "application": [],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "albendazol",
+   "generic_en": "albendazole",
+   "brand": [
+    "ALBENZA"
+   ],
+   "manufacturer": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "effective_time": "20190923",
+   "set_id": "1977a867-0ee1-44c0-8da3-fe59c48699f5",
+   "application": [
+    "NDA020666"
+   ],
+   "n_candidates": 10
+  },
+  {
+   "id_es": "albumina",
+   "generic_en": "albumin human",
+   "brand": [
+    "ALBUMINEX"
+   ],
+   "manufacturer": [
+    "BPL"
+   ],
+   "effective_time": "20241231",
+   "set_id": "167f48d0-8ae5-4f7e-b050-9673dad78acc",
+   "application": [
+    "BLA125644"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "alendronato",
+   "generic_en": "alendronate",
+   "brand": [
+    "Binosto"
+   ],
+   "manufacturer": [
+    "Radius Health, Inc."
+   ],
+   "effective_time": "20260206",
+   "set_id": "09765234-01bc-40f7-b9bb-c167056f3909",
+   "application": [
+    "NDA202344"
+   ],
+   "n_candidates": 23
+  },
+  {
+   "id_es": "alirocumab",
+   "generic_en": "alirocumab",
+   "brand": [
+    "Praluent"
+   ],
+   "manufacturer": [
+    "Regeneron Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260716",
+   "set_id": "7bcfbac2-e8ac-4569-8edc-bcde3b1fd172",
+   "application": [
+    "BLA125559"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "alopurinol",
+   "generic_en": "allopurinol",
+   "brand": [
+    "Aloprim"
+   ],
+   "manufacturer": [
+    "Mylan Institutional LLC"
+   ],
+   "effective_time": "20220218",
+   "set_id": "10cc918f-aa44-415b-932d-2404695ac449",
+   "application": [
+    "NDA020298"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "alteplasa",
+   "generic_en": "alteplase",
+   "brand": [
+    "Activase"
+   ],
+   "manufacturer": [
+    "Genentech, Inc."
+   ],
+   "effective_time": "20260120",
+   "set_id": "c669f77c-fa48-478b-a14b-80b20a0139c2",
+   "application": [
+    "BLA103172"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "amikacina",
+   "generic_en": "amikacin",
+   "brand": [
+    "ARIKAYCE"
+   ],
+   "manufacturer": [
+    "Insmed Incorporated"
+   ],
+   "effective_time": "20260804",
+   "set_id": "499ab990-2b21-474f-aaba-d86388965f40",
+   "application": [
+    "NDA207356"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "amiodarona",
+   "generic_en": "amiodarone",
+   "brand": [
+    "Nexterone"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20240416",
+   "set_id": "e9108958-b8d7-4fba-87c3-9a32990de551",
+   "application": [
+    "NDA022325"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "amitriptilina",
+   "generic_en": "amitriptyline",
+   "brand": [
+    "Amitriptyline Hydrochloride"
+   ],
+   "manufacturer": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "effective_time": "20230915",
+   "set_id": "4e0f3b15-3621-48a1-9f2b-b0a373920360",
+   "application": [
+    "ANDA089399"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "amlodipino",
+   "generic_en": "amlodipine",
+   "brand": [
+    "Sdamlo"
+   ],
+   "manufacturer": [
+    "Pangea Pharmaceuticals, LLC"
+   ],
+   "effective_time": "20260928",
+   "set_id": "886a7f97-60a4-4206-a6c7-5206069ed487",
+   "application": [
+    "NDA219531"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "amoxicilina-clavulanato",
+   "generic_en": "amoxicillin and clavulanate potassium",
+   "brand": [
+    "Augmentin"
+   ],
+   "manufacturer": [
+    "Allegis Holdings, LLC"
+   ],
+   "effective_time": "20261026",
+   "set_id": "04a31a42-d79e-bbb4-e063-6394a90a63ee",
+   "application": [
+    "NDA050575"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "amoxicilina",
+   "generic_en": "amoxicillin",
+   "brand": [
+    "Amoxicillin"
+   ],
+   "manufacturer": [
+    "REMEDYREPACK INC."
+   ],
+   "effective_time": "20260915",
+   "set_id": "575f97d5-ea44-481f-977d-7a28300b2a5f",
+   "application": [
+    "NDA050760"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ampicilina-sulbactam",
+   "generic_en": "ampicillin sodium and sulbactam sodium",
+   "brand": [
+    "UNASYN"
+   ],
+   "manufacturer": [
+    "Roerig"
+   ],
+   "effective_time": "20260710",
+   "set_id": "155c7ec0-5862-404f-b1d0-f278f8a8bbda",
+   "application": [
+    "NDA050608"
+   ],
+   "n_candidates": 15
+  },
+  {
+   "id_es": "ampicilina",
+   "generic_en": "ampicillin",
+   "brand": [
+    "Ampicillin sodium"
+   ],
+   "manufacturer": [
+    "Civica, Inc."
+   ],
+   "effective_time": "20250630",
+   "set_id": "2fd0f9fa-5b86-42f7-9a9f-767123638d39",
+   "application": [
+    "ANDA201025"
+   ],
+   "n_candidates": 17
+  },
+  {
+   "id_es": "anakinra",
+   "generic_en": "anakinra",
+   "brand": [
+    "Kineret"
+   ],
+   "manufacturer": [
+    "Swedish Orphan Biovitrum AB (publ)"
+   ],
+   "effective_time": "20260403",
+   "set_id": "d9d74915-6606-4570-9c52-c4001d3177de",
+   "application": [
+    "BLA103950"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "andexanet",
+   "generic_en": "andexanet alfa",
+   "brand": [
+    "ANDEXXA"
+   ],
+   "manufacturer": [
+    "AstraZeneca Pharmaceuticals LP"
+   ],
+   "effective_time": "20250523",
+   "set_id": "2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c",
+   "application": [
+    "BLA125586"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "anfotericina-b",
+   "generic_en": "amphotericin b",
+   "brand": [
+    "Amphotericin B"
+   ],
+   "manufacturer": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "effective_time": "20260420",
+   "set_id": "02aadef1-390b-4270-b56d-33452eb89dde",
+   "application": [
+    "ANDA212514"
+   ],
+   "n_candidates": 5
+  },
+  {
+   "id_es": "anidulafungina",
+   "generic_en": "anidulafungin",
+   "brand": [
+    "ERAXIS"
+   ],
+   "manufacturer": [
+    "Roerig"
+   ],
+   "effective_time": "20250819",
+   "set_id": "a88d9010-55fb-4a02-baff-042cd27688ea",
+   "application": [
+    "NDA021632"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "anifrolumab",
+   "generic_en": "anifrolumab",
+   "brand": [
+    "SAPHNELO"
+   ],
+   "manufacturer": [
+    "AstraZeneca Pharmaceuticals LP"
+   ],
+   "effective_time": "20260925",
+   "set_id": "d6203302-2128-41a7-b0b4-0e6c0704d4dc",
+   "application": [
+    "BLA761123"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "apixaban",
+   "generic_en": "apixaban",
+   "brand": [
+    "ELIQUIS"
+   ],
+   "manufacturer": [
+    "REMEDYREPACK INC."
+   ],
+   "effective_time": "20260911",
+   "set_id": "7be1f4c1-bb2f-4ded-ae9a-515d2a22f93e",
+   "application": [
+    "NDA202155"
+   ],
+   "n_candidates": 10
+  },
+  {
+   "id_es": "aspirina",
+   "generic_en": "aspirin",
+   "brand": [
+    "CARDIASPIRIN PROTECT"
+   ],
+   "manufacturer": [
+    "OPMX LLC"
+   ],
+   "effective_time": "20261104",
+   "set_id": "03774690-662b-1c30-e063-6294a90a3488",
+   "application": [
+    "M013"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "atenolol",
+   "generic_en": "atenolol",
+   "brand": [
+    "TENORMIN"
+   ],
+   "manufacturer": [
+    "Upsher-Smith Laboratories, LLC"
+   ],
+   "effective_time": "20250918",
+   "set_id": "6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a",
+   "application": [
+    "NDA018240"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "atorvastatina",
+   "generic_en": "atorvastatin",
+   "brand": [
+    "Amlodipine and Atorvastatin"
+   ],
+   "manufacturer": [
+    "Prasco Laboratories"
+   ],
+   "effective_time": "20260521",
+   "set_id": "14124e56-77ba-426d-8f5a-dbe42eda1a20",
+   "application": [
+    "NDA021540"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "atropina",
+   "generic_en": "atropine",
+   "brand": [
+    "ATROPEN Auto-Injector"
+   ],
+   "manufacturer": [
+    "Meridian Medical Technologies LLC"
+   ],
+   "effective_time": "20220915",
+   "set_id": "e2d4307d-da8f-49f5-aac0-02355dd9ffb7",
+   "application": [
+    "NDA017106"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "avacopan",
+   "generic_en": "avacopan",
+   "brand": [
+    "TAVNEOS"
+   ],
+   "manufacturer": [
+    "ChemoCentryx, Inc."
+   ],
+   "effective_time": "20260602",
+   "set_id": "c93cbc0b-29a3-46a5-9c85-41815ea5cf4a",
+   "application": [
+    "NDA214487"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "azatioprina",
+   "generic_en": "azathioprine",
+   "brand": [
+    "IMURAN"
+   ],
+   "manufacturer": [
+    "Legacy Pharma USA Inc."
+   ],
+   "effective_time": "20260319",
+   "set_id": "4d62b6e4-a9d4-4818-e063-6394a90aa208",
+   "application": [
+    "NDA016324"
+   ],
+   "n_candidates": 21
+  },
+  {
+   "id_es": "azitromicina",
+   "generic_en": "azithromycin",
+   "brand": [
+    "Azithromycin"
+   ],
+   "manufacturer": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "effective_time": "20240717",
+   "set_id": "549cdd0a-da79-23b8-e054-00144ff8d46c",
+   "application": [
+    "ANDA065246"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "aztreonam-avibactam",
+   "generic_en": "aztreonam and avibactam",
+   "brand": [
+    "EMBLAVEO"
+   ],
+   "manufacturer": [
+    "AbbVie Inc."
+   ],
+   "effective_time": "20260624",
+   "set_id": "be1a6c99-d4b3-46d7-9e99-6e5f9fab556a",
+   "application": [
+    "NDA217906"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "aztreonam",
+   "generic_en": "aztreonam",
+   "brand": [
+    "Cayston"
+   ],
+   "manufacturer": [
+    "Gilead Sciences, Inc."
+   ],
+   "effective_time": "20251201",
+   "set_id": "67300ca3-8c53-4ce4-8e86-2c03be1f9b8a",
+   "application": [
+    "NDA050814"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "baloxavir",
+   "generic_en": "baloxavir marboxil",
+   "brand": [
+    "Xofluza"
+   ],
+   "manufacturer": [
+    "Genentech, Inc."
+   ],
+   "effective_time": "20251215",
+   "set_id": "e49e1a61-1b7c-4be5-ac84-af6240b511e7",
+   "application": [
+    "NDA214410"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "baricitinib",
+   "generic_en": "baricitinib",
+   "brand": [
+    "Olumiant"
+   ],
+   "manufacturer": [
+    "Eli Lilly and Company"
+   ],
+   "effective_time": "20261009",
+   "set_id": "866e9f35-9035-4581-a4b1-75a621ab55cf",
+   "application": [
+    "NDA207924"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "belimumab",
+   "generic_en": "belimumab",
+   "brand": [
+    "BENLYSTA"
+   ],
+   "manufacturer": [
+    "GlaxoSmithKline LLC"
+   ],
+   "effective_time": "20260821",
+   "set_id": "2fa3c528-1777-4628-8a55-a69dae2381a3",
+   "application": [
+    "BLA761043"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "benralizumab",
+   "generic_en": "benralizumab",
+   "brand": [
+    "FASENRA"
+   ],
+   "manufacturer": [
+    "AstraZeneca Pharmaceuticals LP"
+   ],
+   "effective_time": "20260513",
+   "set_id": "da6aca1a-19ed-44a4-abb7-696c7d58b784",
+   "application": [
+    "BLA761070"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "bicarbonato-de-sodio",
+   "generic_en": "sodium bicarbonate",
+   "brand": [
+    "sodium bicarbonate"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20260814",
+   "set_id": "b50c858a-00c8-4cb2-ad73-8797f19e656d",
+   "application": [
+    "NDA218524"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "bimekizumab",
+   "generic_en": "bimekizumab",
+   "brand": [
+    "Bimzelx"
+   ],
+   "manufacturer": [
+    "UCB, Inc."
+   ],
+   "effective_time": "20261105",
+   "set_id": "26b88358-871f-4c80-9d80-b2fb16477f81",
+   "application": [
+    "BLA761151"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "bisoprolol",
+   "generic_en": "bisoprolol",
+   "brand": [
+    "bisoprolol fumarate and hydrochlorothiazide"
+   ],
+   "manufacturer": [
+    "Teva Pharmaceuticals USA, Inc."
+   ],
+   "effective_time": "20260811",
+   "set_id": "27d52b23-e3e2-4339-b00e-cd0fec43ffbb",
+   "application": [
+    "NDA020186"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "budesonida-formoterol",
+   "generic_en": "budesonide and formoterol fumarate dihydrate",
+   "brand": [
+    "SYMBICORT"
+   ],
+   "manufacturer": [
+    "A-S Medication Solutions"
+   ],
+   "effective_time": "20241022",
+   "set_id": "6b78d08a-e098-4188-8f7f-94fbd5f396ef",
+   "application": [
+    "NDA021929"
+   ],
+   "n_candidates": 11
+  },
+  {
+   "id_es": "budesonida",
+   "generic_en": "budesonide",
+   "brand": [
+    "Uceris"
+   ],
+   "manufacturer": [
+    "Salix Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20200423",
+   "set_id": "230e4596-2a9b-4d55-b0a0-0cabbcff5289",
+   "application": [
+    "NDA205613"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "bumetanida",
+   "generic_en": "bumetanide",
+   "brand": [
+    "Enbumyst"
+   ],
+   "manufacturer": [
+    "Corstasis USA LLC"
+   ],
+   "effective_time": "20260827",
+   "set_id": "d6f752c5-d2bd-4f77-9611-ca2110066d1f",
+   "application": [
+    "NDA219500"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "buprenorfina",
+   "generic_en": "buprenorphine",
+   "brand": [
+    "BRIXADI"
+   ],
+   "manufacturer": [
+    "Braeburn Inc."
+   ],
+   "effective_time": "20251231",
+   "set_id": "5d8a8fd0-8619-422a-a664-d1d2e8970f48",
+   "application": [
+    "NDA210136"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "calcitriol",
+   "generic_en": "calcitriol",
+   "brand": [
+    "Vectical"
+   ],
+   "manufacturer": [
+    "Galderma Laboratories, L.P."
+   ],
+   "effective_time": "20261105",
+   "set_id": "a1567da9-af74-4afd-9ac5-8b53ec5d7cbf",
+   "application": [
+    "NDA022087"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "canagliflozina",
+   "generic_en": "canagliflozin",
+   "brand": [
+    "INVOKANA"
+   ],
+   "manufacturer": [
+    "Janssen Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260611",
+   "set_id": "b9057d3b-b104-4f09-8a61-c61ef9d4a3f3",
+   "application": [
+    "NDA204042"
+   ],
+   "n_candidates": 5
+  },
+  {
+   "id_es": "canakinumab",
+   "generic_en": "canakinumab",
+   "brand": [
+    "Ilaris"
+   ],
+   "manufacturer": [
+    "Novartis Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260608",
+   "set_id": "7d271f3b-e4f9-4d80-8dcf-28d49123f80e",
+   "application": [
+    "BLA125319"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "candesartan",
+   "generic_en": "candesartan",
+   "brand": [
+    "Candesartan"
+   ],
+   "manufacturer": [
+    "Bryant Ranch Prepack"
+   ],
+   "effective_time": "20260205",
+   "set_id": "7eb297cb-ef1b-44e0-a49d-03727100579e",
+   "application": [
+    "ANDA203813"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "captopril",
+   "generic_en": "captopril",
+   "brand": [
+    "captopril"
+   ],
+   "manufacturer": [
+    "AMICI PHARMA, INC."
+   ],
+   "effective_time": "20260914",
+   "set_id": "1395ba5b-2fc9-41ff-9c43-e0740d781dee",
+   "application": [
+    "ANDA074677"
+   ],
+   "n_candidates": 15
+  },
+  {
+   "id_es": "carboximaltosa-ferrica",
+   "generic_en": "ferric carboxymaltose",
+   "brand": [
+    "Injectafer"
+   ],
+   "manufacturer": [
+    "American Regent, Inc."
+   ],
+   "effective_time": "20260819",
+   "set_id": "517b4a19-45b3-4286-9f6a-ced4e10447de",
+   "application": [
+    "NDA203565"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "carvedilol",
+   "generic_en": "carvedilol",
+   "brand": [
+    "Coreg"
+   ],
+   "manufacturer": [
+    "Waylis Therapeutics LLC"
+   ],
+   "effective_time": "20260731",
+   "set_id": "07c619c6-4a0c-445e-94fa-664a54f68a39",
+   "application": [
+    "NDA020297"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "caspofungina",
+   "generic_en": "caspofungin",
+   "brand": [
+    "Caspofungin Acetate"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20260108",
+   "set_id": "e76d8d83-3691-451c-a32c-d91448c54d16",
+   "application": [
+    "NDA206110"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "cefalexina",
+   "generic_en": "cephalexin",
+   "brand": [
+    "Cephalexin"
+   ],
+   "manufacturer": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "effective_time": "20240610",
+   "set_id": "6ac71dc8-7f86-60c5-e053-2a91aa0a2a7e",
+   "application": [
+    "ANDA065229"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "cefazolina",
+   "generic_en": "cefazolin",
+   "brand": [
+    "Cefazolin"
+   ],
+   "manufacturer": [
+    "WG Critical Care, LLC"
+   ],
+   "effective_time": "20260227",
+   "set_id": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+   "application": [
+    "NDA211413"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "cefepima",
+   "generic_en": "cefepime",
+   "brand": [
+    "Cefepime"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20260625",
+   "set_id": "be5f8ca6-7232-423a-a2d5-cccb7abe7921",
+   "application": [
+    "NDA050817"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "cefiderocol",
+   "generic_en": "cefiderocol",
+   "brand": [
+    "Fetroja"
+   ],
+   "manufacturer": [
+    "Shionogi Inc."
+   ],
+   "effective_time": "20260224",
+   "set_id": "75c0c785-38e0-4049-a6fb-b77581f5b35c",
+   "application": [
+    "NDA209445"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "cefotaxima",
+   "generic_en": "cefotaxime",
+   "brand": [
+    "CLAFORAN"
+   ],
+   "manufacturer": [
+    "SteriMax Inc."
+   ],
+   "effective_time": "20260814",
+   "set_id": "434fb630-c8d6-4583-b3ee-8e4ba6552c3d",
+   "application": [
+    "NDA050547"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "ceftazidima",
+   "generic_en": "ceftazidime",
+   "brand": [
+    "TAZICEF"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20240704",
+   "set_id": "1ab5ae3e-e303-4499-4c89-472d7cc1e46c",
+   "application": [
+    "ANDA062662"
+   ],
+   "n_candidates": 6
+  },
+  {
+   "id_es": "ceftolozano-tazobactam",
+   "generic_en": "ceftolozane and tazobactam",
+   "brand": [
+    "ZERBAXA"
+   ],
+   "manufacturer": [
+    "Merck Sharp & Dohme LLC"
+   ],
+   "effective_time": "20260512",
+   "set_id": "70ac1d90-eff3-4f0b-9f46-5846c571b32f",
+   "application": [
+    "NDA206829"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "ceftriaxona",
+   "generic_en": "ceftriaxone",
+   "brand": [
+    "CEFTRIAXONE AND DEXTROSE"
+   ],
+   "manufacturer": [
+    "B. Braun Medical Inc."
+   ],
+   "effective_time": "20220113",
+   "set_id": "67153914-16bc-490d-82d7-638061618467",
+   "application": [
+    "NDA050796"
+   ],
+   "n_candidates": 10
+  },
+  {
+   "id_es": "cefuroxima",
+   "generic_en": "cefuroxime",
+   "brand": [
+    "Cefuroxime"
+   ],
+   "manufacturer": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "effective_time": "20220216",
+   "set_id": "79f5cf6f-a5e2-49a2-9704-fa1bd21338c3",
+   "application": [
+    "ANDA065046"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "celecoxib",
+   "generic_en": "celecoxib",
+   "brand": [
+    "CELEBREX"
+   ],
+   "manufacturer": [
+    "Viatris Specialty LLC"
+   ],
+   "effective_time": "20241122",
+   "set_id": "2d6675e4-5859-4be2-8037-a20ce9f707aa",
+   "application": [
+    "NDA020998"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "certolizumab",
+   "generic_en": "certolizumab pegol",
+   "brand": [
+    "Cimzia"
+   ],
+   "manufacturer": [
+    "UCB, Inc."
+   ],
+   "effective_time": "20261029",
+   "set_id": "b4c2c9dc-a0bb-4d64-a667-a67ebe88392d",
+   "application": [
+    "BLA125160"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "cianocobalamina",
+   "generic_en": "cyanocobalamin",
+   "brand": [
+    "Nascobal"
+   ],
+   "manufacturer": [
+    "Par Health USA, LLC"
+   ],
+   "effective_time": "20240301",
+   "set_id": "697e0e52-c01b-4b53-9994-f79c46eb6b4f",
+   "application": [
+    "NDA021642"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ciclobenzaprina",
+   "generic_en": "cyclobenzaprine",
+   "brand": [
+    "Cyclobenzaprine Hydrochloride"
+   ],
+   "manufacturer": [
+    "American Health Packaging"
+   ],
+   "effective_time": "20261029",
+   "set_id": "269bc278-963d-4830-816a-39bb4bf8c936",
+   "application": [
+    "ANDA090478"
+   ],
+   "n_candidates": 10
+  },
+  {
+   "id_es": "ciclofosfamida",
+   "generic_en": "cyclophosphamide",
+   "brand": [
+    "Frindovyx"
+   ],
+   "manufacturer": [
+    "AVYXA Pharma, LLC"
+   ],
+   "effective_time": "20260826",
+   "set_id": "5ad8ea65-4c98-487a-9c8d-df778765ec5e",
+   "application": [
+    "NDA210852"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ciclosilicato-de-sodio-y-zirconio",
+   "generic_en": "sodium zirconium cyclosilicate",
+   "brand": [
+    "LOKELMA"
+   ],
+   "manufacturer": [
+    "AstraZeneca Pharmaceuticals LP"
+   ],
+   "effective_time": "20261103",
+   "set_id": "90bf8e28-748d-4e4b-a19f-9cf483370eff",
+   "application": [
+    "NDA207078"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "ciclosporina",
+   "generic_en": "cyclosporine",
+   "brand": [
+    "Neoral"
+   ],
+   "manufacturer": [
+    "Novartis Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260810",
+   "set_id": "94461af3-11f1-4670-95d4-2965b9538ae3",
+   "application": [
+    "NDA050715"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "cinacalcet",
+   "generic_en": "cinacalcet",
+   "brand": [
+    "Cinacalcet Hydrochloride"
+   ],
+   "manufacturer": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "effective_time": "20210824",
+   "set_id": "28262843-b0a8-4ca7-8b92-41b7f0e896b4",
+   "application": [
+    "ANDA204364"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ciprofloxacino",
+   "generic_en": "ciprofloxacin",
+   "brand": [
+    "Cipro"
+   ],
+   "manufacturer": [
+    "Bayer HealthCare Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260302",
+   "set_id": "888dc7f9-ad9c-4c00-8d50-8ddfd9bd27c0",
+   "application": [
+    "NDA019537"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "claritromicina",
+   "generic_en": "clarithromycin",
+   "brand": [
+    "Clarithromycin"
+   ],
+   "manufacturer": [
+    "Sportpharm LLC"
+   ],
+   "effective_time": "20260916",
+   "set_id": "d836ae7e-fdbf-4dcb-a90d-ede1dcbc3e67",
+   "application": [
+    "ANDA065489"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "clindamicina",
+   "generic_en": "clindamycin",
+   "brand": [
+    "Clindagel"
+   ],
+   "manufacturer": [
+    "Bausch Health US, LLC"
+   ],
+   "effective_time": "20200101",
+   "set_id": "f7b4e985-719a-4547-b624-94612d520991",
+   "application": [
+    "NDA050782"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "clonidina",
+   "generic_en": "clonidine",
+   "brand": [
+    "Nexiclon XR"
+   ],
+   "manufacturer": [
+    "Rosemont Pharmaceuticals LLC"
+   ],
+   "effective_time": "20260415",
+   "set_id": "dad35a6f-d57e-f302-e053-2995a90a9efb",
+   "application": [
+    "NDA022500"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "clopidogrel",
+   "generic_en": "clopidogrel",
+   "brand": [
+    "Plavix"
+   ],
+   "manufacturer": [
+    "Sanofi-Aventis U.S. LLC"
+   ],
+   "effective_time": "20250530",
+   "set_id": "de8b0b67-eb25-4684-83b5-7ad785314227",
+   "application": [
+    "NDA020839"
+   ],
+   "n_candidates": 15
+  },
+  {
+   "id_es": "clortalidona",
+   "generic_en": "chlorthalidone",
+   "brand": [
+    "Thalitone"
+   ],
+   "manufacturer": [
+    "Casper Pharma LLC"
+   ],
+   "effective_time": "20260625",
+   "set_id": "bc5a0299-115b-4e60-bb3f-c75a95c51c15",
+   "application": [
+    "NDA019574"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "cloruro-de-potasio",
+   "generic_en": "potassium chloride",
+   "brand": [
+    "KLOR-CON"
+   ],
+   "manufacturer": [
+    "Upsher-Smith Laboratories, LLC"
+   ],
+   "effective_time": "20250714",
+   "set_id": "1ff53330-065c-4213-9c0c-ac498621d09d",
+   "application": [
+    "NDA019123"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "colchicina",
+   "generic_en": "colchicine",
+   "brand": [
+    "Colcrys"
+   ],
+   "manufacturer": [
+    "Proficient Rx LP"
+   ],
+   "effective_time": "20221001",
+   "set_id": "d6adc880-5499-4691-93f3-27c87902d5fc",
+   "application": [
+    "NDA022352"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "colistina",
+   "generic_en": "colistimethate",
+   "brand": [
+    "Coly-Mycin M"
+   ],
+   "manufacturer": [
+    "Par Health USA, LLC"
+   ],
+   "effective_time": "20260608",
+   "set_id": "6d6e13e2-dc33-4b7b-84d0-66146a57c552",
+   "application": [
+    "NDA050108"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "complejo-protrombinico",
+   "generic_en": "prothrombin complex concentrate, human",
+   "brand": [
+    "Balfaxar"
+   ],
+   "manufacturer": [
+    "Octapharma USA Inc"
+   ],
+   "effective_time": "20230721",
+   "set_id": "68fa4f90-8b01-6498-4140-e0be5247c3fe",
+   "application": [
+    "BLA125776"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "dabigatran",
+   "generic_en": "dabigatran etexilate",
+   "brand": [
+    "Pradaxa"
+   ],
+   "manufacturer": [
+    "Boehringer Ingelheim Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20250627",
+   "set_id": "9ac0a64a-8666-45f7-9d4f-40fd894f7e6d",
+   "application": [
+    "NDA214358"
+   ],
+   "n_candidates": 22
+  },
+  {
+   "id_es": "dapagliflozina",
+   "generic_en": "dapagliflozin",
+   "brand": [
+    "FARXIGA"
+   ],
+   "manufacturer": [
+    "AstraZeneca Pharmaceuticals LP"
+   ],
+   "effective_time": "20260603",
+   "set_id": "72ad22ae-efe6-4cd6-a302-98aaee423d69",
+   "application": [
+    "NDA202293"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "daptomicina",
+   "generic_en": "daptomycin",
+   "brand": [
+    "DAPZURA RT"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Corporation"
+   ],
+   "effective_time": "20220125",
+   "set_id": "cb1283e1-35b8-425c-b338-d9ac0c7161f8",
+   "application": [
+    "NDA213645"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "darbepoetina",
+   "generic_en": "darbepoetin alfa",
+   "brand": [
+    "ARANESP"
+   ],
+   "manufacturer": [
+    "Amgen, Inc"
+   ],
+   "effective_time": "20260707",
+   "set_id": "0fd36cb9-c4f6-4167-93c9-8530865db3f9",
+   "application": [
+    "BLA103951"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "denosumab",
+   "generic_en": "denosumab",
+   "brand": [
+    "Prolia"
+   ],
+   "manufacturer": [
+    "Amgen, Inc"
+   ],
+   "effective_time": "20260626",
+   "set_id": "49e5afe9-a0c7-40c4-af9f-f287a80c5c88",
+   "application": [
+    "BLA125320"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "derisomaltosa-ferrica",
+   "generic_en": "ferric derisomaltose",
+   "brand": [
+    "Monoferric"
+   ],
+   "manufacturer": [
+    "Pharmacosmos Therapeutics Inc."
+   ],
+   "effective_time": "20261029",
+   "set_id": "55859d2d-0456-4fa9-b41f-f535accc97db",
+   "application": [
+    "NDA208171"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "desmopresina",
+   "generic_en": "desmopressin",
+   "brand": [
+    "Stimate"
+   ],
+   "manufacturer": [
+    "Ferring Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260722",
+   "set_id": "f5ada39c-20ed-4500-9dce-1e4ab642a358",
+   "application": [
+    "NDA020355"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "dexametasona",
+   "generic_en": "dexamethasone",
+   "brand": [
+    "Hemady"
+   ],
+   "manufacturer": [
+    "Edenbridge Pharmaceuticals LLC."
+   ],
+   "effective_time": "20260109",
+   "set_id": "6b9cf32c-6d60-4853-bbfd-2304ffc2c129",
+   "application": [
+    "NDA211379"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "dexmedetomidina",
+   "generic_en": "dexmedetomidine",
+   "brand": [
+    "Dexmedetomidine"
+   ],
+   "manufacturer": [
+    "WG Critical Care, LLC"
+   ],
+   "effective_time": "20260602",
+   "set_id": "0d2710f2-ee47-4114-ab5c-8dca74cdcb8d",
+   "application": [
+    "NDA206628"
+   ],
+   "n_candidates": 12
+  },
+  {
+   "id_es": "diazepam",
+   "generic_en": "diazepam",
+   "brand": [
+    "Valtoco"
+   ],
+   "manufacturer": [
+    "Neurelis, Inc"
+   ],
+   "effective_time": "20260603",
+   "set_id": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+   "application": [
+    "NDA211635"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "diclofenaco",
+   "generic_en": "diclofenac",
+   "brand": [
+    "Diclofenac Sodium"
+   ],
+   "manufacturer": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260402",
+   "set_id": "937e9ba5-cdad-4e72-a77a-bad699e1b236",
+   "application": [
+    "ANDA206116"
+   ],
+   "n_candidates": 15
+  },
+  {
+   "id_es": "dicloxacilina",
+   "generic_en": "dicloxacillin",
+   "brand": [
+    "DICLOXACILLIN SODIUM"
+   ],
+   "manufacturer": [
+    "Redpharm Drug"
+   ],
+   "effective_time": "20260813",
+   "set_id": "58e6ee7a-8237-ec66-e063-6394a90a5cae",
+   "application": [
+    "ANDA216845"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "digoxina",
+   "generic_en": "digoxin",
+   "brand": [
+    "LANOXIN"
+   ],
+   "manufacturer": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "effective_time": "20190508",
+   "set_id": "f6c7ca21-1c76-4838-8fb9-e1bec6001d8b",
+   "application": [
+    "NDA020405"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "diltiazem",
+   "generic_en": "diltiazem",
+   "brand": [
+    "Diltiazem Hydrochloride"
+   ],
+   "manufacturer": [
+    "Oceanside Pharmaceuticals"
+   ],
+   "effective_time": "20250401",
+   "set_id": "73b3607a-99d0-44d8-92ef-0074684c9d7d",
+   "application": [
+    "NDA021392"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "dobutamina",
+   "generic_en": "dobutamine",
+   "brand": [
+    "DOBUTAMINE"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20241209",
+   "set_id": "dc537761-d5f4-488d-24ab-b2bcd2b17b7a",
+   "application": [
+    "ANDA074086"
+   ],
+   "n_candidates": 5
+  },
+  {
+   "id_es": "dopamina",
+   "generic_en": "dopamine",
+   "brand": [
+    "Dopamine 1515"
+   ],
+   "manufacturer": [
+    "Professional Complementary Health Formulas"
+   ],
+   "effective_time": "20260108",
+   "set_id": "2a69474e-1ba5-43a1-b78e-66159db36e11",
+   "application": [],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "doxazosina",
+   "generic_en": "doxazosin",
+   "brand": [
+    "Cardura"
+   ],
+   "manufacturer": [
+    "ROERIG"
+   ],
+   "effective_time": "20220120",
+   "set_id": "eefc47bc-c10f-49bb-8ef7-5999f798ab39",
+   "application": [
+    "NDA019668"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "doxiciclina",
+   "generic_en": "doxycycline",
+   "brand": [
+    "ORACEA"
+   ],
+   "manufacturer": [
+    "Galderma Laboratories, L.P."
+   ],
+   "effective_time": "20250416",
+   "set_id": "aa15c93a-ff4c-447a-8a21-96da506d8997",
+   "application": [
+    "NDA050805"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "dronedarona",
+   "generic_en": "dronedarone",
+   "brand": [
+    "Multaq"
+   ],
+   "manufacturer": [
+    "Cardinal Health 107, LLC"
+   ],
+   "effective_time": "20260127",
+   "set_id": "3bd4006a-8bad-4909-ac6d-b6d84390155c",
+   "application": [
+    "NDA022425"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "dulaglutida",
+   "generic_en": "dulaglutide",
+   "brand": [
+    "Trulicity"
+   ],
+   "manufacturer": [
+    "Eli Lilly and Company"
+   ],
+   "effective_time": "20260616",
+   "set_id": "463050bd-2b1c-40f5-b3c3-0a04bb433309",
+   "application": [
+    "BLA125469"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "duloxetina",
+   "generic_en": "duloxetine",
+   "brand": [
+    "DRIZALMA SPRINKLE"
+   ],
+   "manufacturer": [
+    "SUN PHARMACEUTICAL INDUSTRIES, INC."
+   ],
+   "effective_time": "20240514",
+   "set_id": "b41423b8-dfec-4d79-ba3c-e43a87803d85",
+   "application": [
+    "NDA212516"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "dupilumab",
+   "generic_en": "dupilumab",
+   "brand": [
+    "Dupixent"
+   ],
+   "manufacturer": [
+    "Sanofi-Aventis U.S. LLC"
+   ],
+   "effective_time": "20260422",
+   "set_id": "595f437d-2729-40bb-9c62-c8ece1f82780",
+   "application": [
+    "BLA761055"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "edoxaban",
+   "generic_en": "edoxaban",
+   "brand": [
+    "SAVAYSA"
+   ],
+   "manufacturer": [
+    "Daiichi Sankyo Inc."
+   ],
+   "effective_time": "20250710",
+   "set_id": "e77d3400-56ad-11e3-949a-0800200c9a66",
+   "application": [
+    "NDA206316"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "elafibranor",
+   "generic_en": "elafibranor",
+   "brand": [
+    "IQIRVO"
+   ],
+   "manufacturer": [
+    "Ipsen Biopharmaceuticals, Inc."
+   ],
+   "effective_time": "20260811",
+   "set_id": "d78aa14f-6ec1-4b1d-a4ae-e48658137a25",
+   "application": [
+    "NDA218860"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "empagliflozina",
+   "generic_en": "empagliflozin",
+   "brand": [
+    "Jardiance"
+   ],
+   "manufacturer": [
+    "Redpharm Drug"
+   ],
+   "effective_time": "20260826",
+   "set_id": "59ed43d9-b4e0-72a2-e063-6394a90a327d",
+   "application": [
+    "NDA204629"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "enalapril",
+   "generic_en": "enalapril",
+   "brand": [
+    "Enalapril Maleate"
+   ],
+   "manufacturer": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "effective_time": "20190329",
+   "set_id": "e81a8aca-0e7c-4a02-b596-09e4ac22c70e",
+   "application": [
+    "ANDA212894"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "enoxaparina",
+   "generic_en": "enoxaparin",
+   "brand": [
+    "Enoxaparin sodium"
+   ],
+   "manufacturer": [
+    "Sanofi-Aventis U.S. LLC"
+   ],
+   "effective_time": "20260917",
+   "set_id": "20635579-c92d-4f6c-a332-1096d51002f2",
+   "application": [
+    "NDA020164"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "epinefrina-racemica",
+   "generic_en": "racepinephrine",
+   "brand": [
+    "S2"
+   ],
+   "manufacturer": [
+    "Nephron Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260126",
+   "set_id": "dd1b35c7-b23b-4b95-8162-df3d263fe32e",
+   "application": [
+    "M012"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "epinefrina",
+   "generic_en": "epinephrine",
+   "brand": [
+    "neffy"
+   ],
+   "manufacturer": [
+    "Sportpharm LLC"
+   ],
+   "effective_time": "20260424",
+   "set_id": "2052f9db-7d76-443b-b702-b6b499f9a4b8",
+   "application": [
+    "NDA214697"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "eplerenona",
+   "generic_en": "eplerenone",
+   "brand": [
+    "Inspra"
+   ],
+   "manufacturer": [
+    "Viatris Specialty LLC"
+   ],
+   "effective_time": "20250623",
+   "set_id": "1a52bedc-8e2c-4116-a296-a87770676b4a",
+   "application": [
+    "NDA021437"
+   ],
+   "n_candidates": 12
+  },
+  {
+   "id_es": "epoetina",
+   "generic_en": "epoetin alfa",
+   "brand": [
+    "EPOGEN"
+   ],
+   "manufacturer": [
+    "Amgen, Inc"
+   ],
+   "effective_time": "20260623",
+   "set_id": "1f2d0b28-9cc5-4523-80b8-637fdaf3f7a5",
+   "application": [
+    "BLA103234"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "eravaciclina",
+   "generic_en": "eravacycline",
+   "brand": [
+    "Xerava"
+   ],
+   "manufacturer": [
+    "Tetraphase Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20261104",
+   "set_id": "a4b188d4-f467-470c-ad7b-25ffbdd8862a",
+   "application": [
+    "NDA211109"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "ertapenem",
+   "generic_en": "ertapenem",
+   "brand": [
+    "ERTAPENEM SODIUM"
+   ],
+   "manufacturer": [
+    "NorthStar RxLLC"
+   ],
+   "effective_time": "20251224",
+   "set_id": "2398d418-6efc-b4d2-3265-936001df9b8b",
+   "application": [
+    "ANDA212040"
+   ],
+   "n_candidates": 6
+  },
+  {
+   "id_es": "ertugliflozina",
+   "generic_en": "ertugliflozin",
+   "brand": [
+    "STEGLATRO"
+   ],
+   "manufacturer": [
+    "Merck Sharp & Dohme LLC"
+   ],
+   "effective_time": "20260603",
+   "set_id": "e6f3e718-bb99-48f1-ab94-b9f0af05fed6",
+   "application": [
+    "NDA209803"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "escitalopram",
+   "generic_en": "escitalopram",
+   "brand": [
+    "Lexapro"
+   ],
+   "manufacturer": [
+    "Allergan, Inc."
+   ],
+   "effective_time": "20231001",
+   "set_id": "13bb8267-1cab-43e5-acae-55a4d957630a",
+   "application": [
+    "NDA021323"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "esmolol",
+   "generic_en": "esmolol",
+   "brand": [
+    "BREVIBLOC"
+   ],
+   "manufacturer": [
+    "Baxter Healthcare Company"
+   ],
+   "effective_time": "20250314",
+   "set_id": "9c593cdb-cdfe-4492-8862-9b05116aa25e",
+   "application": [
+    "NDA019386"
+   ],
+   "n_candidates": 24
+  },
+  {
+   "id_es": "esomeprazol",
+   "generic_en": "esomeprazole",
+   "brand": [
+    "RIOPAN"
+   ],
+   "manufacturer": [
+    "OPMX LLC"
+   ],
+   "effective_time": "20261002",
+   "set_id": "4c37280d-25b6-ad2f-e063-6394a90a0b9d",
+   "application": [
+    "ANDA212507"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "espironolactona",
+   "generic_en": "spironolactone",
+   "brand": [
+    "Aldactone"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20251128",
+   "set_id": "0fed2822-3a03-4b64-9857-c682fcd462bc",
+   "application": [
+    "NDA012151"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "etambutol",
+   "generic_en": "ethambutol",
+   "brand": [
+    "Ethambutol Hydrochloride"
+   ],
+   "manufacturer": [
+    "STI Pharma LLC"
+   ],
+   "effective_time": "20260505",
+   "set_id": "3f6428d6-3745-4337-ad78-ebfff9f49135",
+   "application": [
+    "NDA016320"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "etanercept",
+   "generic_en": "etanercept",
+   "brand": [
+    "ENBREL"
+   ],
+   "manufacturer": [
+    "Immunex Corporation"
+   ],
+   "effective_time": "20260511",
+   "set_id": "a002b40c-097d-47a5-957f-7a7b1807af7f",
+   "application": [
+    "BLA103795"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "etomidato",
+   "generic_en": "etomidate",
+   "brand": [
+    "Amidate"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20260520",
+   "set_id": "b7ed5bf8-ba75-44dc-8f81-96b4ad5766be",
+   "application": [
+    "NDA018227"
+   ],
+   "n_candidates": 14
+  },
+  {
+   "id_es": "evolocumab",
+   "generic_en": "evolocumab",
+   "brand": [
+    "REPATHA"
+   ],
+   "manufacturer": [
+    "Amgen USA Inc."
+   ],
+   "effective_time": "20261012",
+   "set_id": "cd61e902-166d-4aa6-9f3c-a18c1008d07e",
+   "application": [
+    "BLA125522"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "ezetimiba",
+   "generic_en": "ezetimibe",
+   "brand": [
+    "Zetia"
+   ],
+   "manufacturer": [
+    "Organon LLC"
+   ],
+   "effective_time": "20251125",
+   "set_id": "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb",
+   "application": [
+    "NDA021445"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "famotidina",
+   "generic_en": "famotidine",
+   "brand": [
+    "Maximum Strength PEPCID AC Icy Cool Mint"
+   ],
+   "manufacturer": [
+    "Kenvue Brands LLC"
+   ],
+   "effective_time": "20241111",
+   "set_id": "0f343092-4fc7-1fff-e063-6294a90aba6e",
+   "application": [
+    "NDA020325"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "febuxostat",
+   "generic_en": "febuxostat",
+   "brand": [
+    "ULORIC"
+   ],
+   "manufacturer": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "effective_time": "20251224",
+   "set_id": "54de10ef-fe5f-4930-b91d-6bbb04c664bd",
+   "application": [
+    "NDA021856"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fenitoina",
+   "generic_en": "phenytoin",
+   "brand": [
+    "Dilantin-125"
+   ],
+   "manufacturer": [
+    "Viatris Specialty LLC"
+   ],
+   "effective_time": "20230202",
+   "set_id": "f339f9e4-b289-4efe-82b9-46c57d1dc277",
+   "application": [
+    "NDA008762"
+   ],
+   "n_candidates": 15
+  },
+  {
+   "id_es": "fenobarbital",
+   "generic_en": "phenobarbital",
+   "brand": [
+    "Phenobarbital"
+   ],
+   "manufacturer": [
+    "REMEDYREPACK INC."
+   ],
+   "effective_time": "20260902",
+   "set_id": "4e2910f2-173d-4b5c-aad3-44f4ab40d8cb",
+   "application": [],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fentanilo",
+   "generic_en": "fentanyl citrate",
+   "brand": [
+    "Fentanyl Citrate"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20260824",
+   "set_id": "bfa8018a-4cbc-434b-e09e-782872b0340a",
+   "application": [
+    "NDA019115"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "finerenona",
+   "generic_en": "finerenone",
+   "brand": [
+    "Kerendia"
+   ],
+   "manufacturer": [
+    "Bayer HealthCare Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260921",
+   "set_id": "fc726765-5d5a-4d6e-b037-b847bda9fb7c",
+   "application": [
+    "NDA215341"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "flecainida",
+   "generic_en": "flecainide",
+   "brand": [
+    "Flecainide Acetate"
+   ],
+   "manufacturer": [
+    "Epic Pharma, LLC"
+   ],
+   "effective_time": "20260529",
+   "set_id": "74c1eb2a-a37f-4f33-86bf-51e0d1d0c2bc",
+   "application": [
+    "ANDA215599"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fluconazol",
+   "generic_en": "fluconazole",
+   "brand": [
+    "Diflucan"
+   ],
+   "manufacturer": [
+    "Roerig"
+   ],
+   "effective_time": "20260402",
+   "set_id": "f694c617-3383-416c-91b6-b94fda371204",
+   "application": [
+    "NDA020090"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fludrocortisona",
+   "generic_en": "fludrocortisone",
+   "brand": [
+    "FLUDROCORTISONE ACETATE"
+   ],
+   "manufacturer": [
+    "AvPAK"
+   ],
+   "effective_time": "20260108",
+   "set_id": "2cd3965d-cab9-a97c-db61-7d03ced154f3",
+   "application": [
+    "ANDA040431"
+   ],
+   "n_candidates": 16
+  },
+  {
+   "id_es": "flumazenil",
+   "generic_en": "flumazenil",
+   "brand": [
+    "Flumazenil"
+   ],
+   "manufacturer": [
+    "ProPharma Distribution"
+   ],
+   "effective_time": "20251218",
+   "set_id": "3eefb01b-3d6a-a3eb-e063-6394a90a4829",
+   "application": [
+    "ANDA078527"
+   ],
+   "n_candidates": 18
+  },
+  {
+   "id_es": "fluticasona-salmeterol",
+   "generic_en": "fluticasone propionate and salmeterol",
+   "brand": [
+    "Fluticasone Propionate and Salmeterol DISKUS"
+   ],
+   "manufacturer": [
+    "Proficient Rx LP"
+   ],
+   "effective_time": "20200101",
+   "set_id": "6915bd5d-b792-4b1b-8221-7eeb0a8638ba",
+   "application": [
+    "NDA021077"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "fluticasona-vilanterol",
+   "generic_en": "fluticasone furoate and vilanterol",
+   "brand": [
+    "Fluticasone Furoate and Vilanterol"
+   ],
+   "manufacturer": [
+    "Prasco Laboratories"
+   ],
+   "effective_time": "20241121",
+   "set_id": "3a761487-c300-451a-8537-3196c00c11b5",
+   "application": [
+    "NDA204275"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "fondaparinux",
+   "generic_en": "fondaparinux",
+   "brand": [
+    "Fondaparinux Sodium"
+   ],
+   "manufacturer": [
+    "Mylan Institutional LLC"
+   ],
+   "effective_time": "20241215",
+   "set_id": "4b65f642-87f7-4da5-a9c9-02cd1f8d9d16",
+   "application": [
+    "NDA021345"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "fosfenitoina",
+   "generic_en": "fosphenytoin",
+   "brand": [
+    "CEREBYX"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20250828",
+   "set_id": "d4c36fad-0ba2-4cd4-9c5e-dcf843f38a5a",
+   "application": [
+    "NDA020450"
+   ],
+   "n_candidates": 10
+  },
+  {
+   "id_es": "fosfomicina",
+   "generic_en": "fosfomycin tromethamine",
+   "brand": [
+    "Fosfomycin Tromethamine"
+   ],
+   "manufacturer": [
+    "Precision Dose, Inc."
+   ],
+   "effective_time": "20251223",
+   "set_id": "f44b79d0-a789-46cb-ab70-7eb33a7debaf",
+   "application": [
+    "ANDA217187"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "furosemida",
+   "generic_en": "furosemide",
+   "brand": [
+    "Lasix"
+   ],
+   "manufacturer": [
+    "Validus Pharmaceuticals LLC"
+   ],
+   "effective_time": "20250930",
+   "set_id": "2c9b4d8f-0770-482d-a9e6-9c616a440b1a",
+   "application": [
+    "NDA016273"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "gabapentina",
+   "generic_en": "gabapentin",
+   "brand": [
+    "GABARONE"
+   ],
+   "manufacturer": [
+    "INA Pharmaceutics Inc."
+   ],
+   "effective_time": "20260107",
+   "set_id": "0f350a4b-f294-4b98-b69f-3cc789e930ba",
+   "application": [
+    "ANDA211313"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ganciclovir",
+   "generic_en": "ganciclovir",
+   "brand": [
+    "ZIRGAN"
+   ],
+   "manufacturer": [
+    "Bausch & Lomb Incorporated"
+   ],
+   "effective_time": "20260518",
+   "set_id": "ea25e7ac-7a93-4ec8-975b-2cec197e1c27",
+   "application": [
+    "NDA022211"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "gentamicina",
+   "generic_en": "gentamicin",
+   "brand": [
+    "Gentamicin"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20231220",
+   "set_id": "8bdeef7f-ad8e-46e0-a872-e945eae51d68",
+   "application": [
+    "ANDA062366"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "glibenclamida",
+   "generic_en": "glyburide",
+   "brand": [
+    "Glyburide"
+   ],
+   "manufacturer": [
+    "TEVA Pharmaceuticals USA Inc"
+   ],
+   "effective_time": "20210701",
+   "set_id": "50d16f1d-c814-4411-8749-62561321ecce",
+   "application": [
+    "NDA017532"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "glimepirida",
+   "generic_en": "glimepiride",
+   "brand": [
+    "Glimepiride 3 mg"
+   ],
+   "manufacturer": [
+    "Lifsa Drugs LLC"
+   ],
+   "effective_time": "20240820",
+   "set_id": "51157849-7990-4a8b-ae50-eda1baf93cfa",
+   "application": [
+    "ANDA091220"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "glipizida",
+   "generic_en": "glipizide",
+   "brand": [
+    "Glipizide"
+   ],
+   "manufacturer": [
+    "REMEDYREPACK INC."
+   ],
+   "effective_time": "20260827",
+   "set_id": "667dd68a-d3e7-4b50-bd0a-d17783a090d5",
+   "application": [
+    "ANDA206928"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "glucagon",
+   "generic_en": "glucagon",
+   "brand": [
+    "Baqsimi"
+   ],
+   "manufacturer": [
+    "Sportpharm LLC"
+   ],
+   "effective_time": "20260619",
+   "set_id": "32ba41fa-4158-40af-8cb2-03693c248994",
+   "application": [
+    "NDA210134"
+   ],
+   "n_candidates": 15
+  },
+  {
+   "id_es": "gluconato-de-calcio",
+   "generic_en": "calcium gluconate",
+   "brand": [
+    "Calcium Gluconate in Sodium Chloride"
+   ],
+   "manufacturer": [
+    "WG Critical Care, LLC"
+   ],
+   "effective_time": "20260731",
+   "set_id": "0deed071-d89d-420e-b4b4-797dce0ad8f0",
+   "application": [
+    "NDA210906"
+   ],
+   "n_candidates": 24
+  },
+  {
+   "id_es": "golimumab",
+   "generic_en": "golimumab",
+   "brand": [
+    "Simponi"
+   ],
+   "manufacturer": [
+    "Janssen Biotech, Inc."
+   ],
+   "effective_time": "20261102",
+   "set_id": "f86cb4a7-c358-4136-ae57-b32bda9bba00",
+   "application": [
+    "BLA125289"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "guselkumab",
+   "generic_en": "guselkumab",
+   "brand": [
+    "TREMFYA"
+   ],
+   "manufacturer": [
+    "Janssen Biotech, Inc."
+   ],
+   "effective_time": "20261020",
+   "set_id": "1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56",
+   "application": [
+    "BLA761061"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "haloperidol",
+   "generic_en": "haloperidol",
+   "brand": [
+    "Haloperidol Lactate"
+   ],
+   "manufacturer": [
+    "Henry Schein, Inc."
+   ],
+   "effective_time": "20260302",
+   "set_id": "65df5d2d-79aa-41d4-866a-566e520320f7",
+   "application": [
+    "ANDA078347"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "heparina",
+   "generic_en": "heparin sodium",
+   "brand": [
+    "Heparin Sodium and Dextrose"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20260525",
+   "set_id": "eede8a0c-5ae6-4166-84b3-12081405f08e",
+   "application": [
+    "NDA019339"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "hidralazina",
+   "generic_en": "hydralazine",
+   "brand": [
+    "isosorbide dinitrate and hydralazine hydrochloride"
+   ],
+   "manufacturer": [
+    "Wilshire Pharmaceuticals"
+   ],
+   "effective_time": "20220414",
+   "set_id": "620a0680-aad0-4923-84be-7393c0cbdcbd",
+   "application": [
+    "NDA020727"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "hidroclorotiazida",
+   "generic_en": "hydrochlorothiazide",
+   "brand": [
+    "INZIRQO"
+   ],
+   "manufacturer": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20251216",
+   "set_id": "41aaea48-6c1b-42c8-a96f-5923d49dc934",
+   "application": [
+    "NDA219141"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "hidrocortisona",
+   "generic_en": "hydrocortisone sodium succinate",
+   "brand": [
+    "Solu-Cortef"
+   ],
+   "manufacturer": [
+    "Pharmacia & Upjohn Company LLC"
+   ],
+   "effective_time": "20260929",
+   "set_id": "65eefd58-b166-4d71-ade6-45c8fdf86922",
+   "application": [
+    "NDA009866"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "hidroxicloroquina",
+   "generic_en": "hydroxychloroquine",
+   "brand": [
+    "Hydroxychloroquine"
+   ],
+   "manufacturer": [
+    "Chartwell RX, LLC"
+   ],
+   "effective_time": "20251210",
+   "set_id": "7e09aeca-0cec-4a88-9dde-a2098a08b877",
+   "application": [
+    "ANDA210543"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "hidroxocobalamina",
+   "generic_en": "hydroxocobalamin",
+   "brand": [
+    "Cyanokit"
+   ],
+   "manufacturer": [
+    "BTG INTERNATIONAL INC."
+   ],
+   "effective_time": "20230427",
+   "set_id": "d56fcc8d-bd64-46ab-b0c0-2124bd745a6b",
+   "application": [
+    "NDA022041"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "hierro-sacarosa",
+   "generic_en": "iron sucrose",
+   "brand": [
+    "Venofer"
+   ],
+   "manufacturer": [
+    "American Regent, Inc."
+   ],
+   "effective_time": "20260301",
+   "set_id": "626dc9e5-c6b4-4f9c-9bf4-774fd3ae619a",
+   "application": [
+    "NDA021135"
+   ],
+   "n_candidates": 6
+  },
+  {
+   "id_es": "ibandronato",
+   "generic_en": "ibandronate",
+   "brand": [
+    "Ibandronate Sodium"
+   ],
+   "manufacturer": [
+    "Apotex Corp."
+   ],
+   "effective_time": "20260115",
+   "set_id": "9fad4982-95af-d711-f50a-867311835143",
+   "application": [
+    "ANDA204222"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "ibuprofeno",
+   "generic_en": "ibuprofen",
+   "brand": [
+    "Childrens Motrin"
+   ],
+   "manufacturer": [
+    "Kenvue Brands LLC"
+   ],
+   "effective_time": "20241108",
+   "set_id": "152189e5-391c-42d3-a03b-c8364e2de6bf",
+   "application": [
+    "NDA020516"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "icosapento",
+   "generic_en": "icosapent ethyl",
+   "brand": [
+    "Vascepa"
+   ],
+   "manufacturer": [
+    "Amarin Pharma Inc."
+   ],
+   "effective_time": "20260323",
+   "set_id": "9c1a2828-1583-4414-ab22-a60480e8e508",
+   "application": [
+    "NDA202057"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "idarucizumab",
+   "generic_en": "idarucizumab",
+   "brand": [
+    "Praxbind"
+   ],
+   "manufacturer": [
+    "Boehringer Ingelheim Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20240123",
+   "set_id": "c7400f8a-dcf4-a6df-6d07-983081b1bf34",
+   "application": [
+    "BLA761025"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "imipenem-cilastatina",
+   "generic_en": "imipenem and cilastatin",
+   "brand": [
+    "Imipenem and Cilastatin"
+   ],
+   "manufacturer": [
+    "WG Critical Care, LLC"
+   ],
+   "effective_time": "20250116",
+   "set_id": "46f54df9-5afe-430c-aa19-0d84c2044b0b",
+   "application": [
+    "ANDA207594"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "inclisiran",
+   "generic_en": "inclisiran",
+   "brand": [
+    "LEQVIO"
+   ],
+   "manufacturer": [
+    "Novartis Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260819",
+   "set_id": "6fc0afca-4513-4c35-b594-6544aee29a44",
+   "application": [
+    "NDA214012"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "indapamida",
+   "generic_en": "indapamide",
+   "brand": [
+    "Indapamide"
+   ],
+   "manufacturer": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260513",
+   "set_id": "59cd3331-7afe-432a-8b50-39533fd5f392",
+   "application": [
+    "ANDA074722"
+   ],
+   "n_candidates": 13
+  },
+  {
+   "id_es": "infliximab",
+   "generic_en": "infliximab",
+   "brand": [
+    "Renflexis"
+   ],
+   "manufacturer": [
+    "Organon LLC"
+   ],
+   "effective_time": "20260828",
+   "set_id": "dbf738c4-3fac-4422-a9d8-51d9c83a8789",
+   "application": [
+    "BLA761054"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "inmunoglobulina-iv",
+   "generic_en": "immune globulin intravenous (human)",
+   "brand": [
+    "GAMMAGARD S/D"
+   ],
+   "manufacturer": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "effective_time": "20251125",
+   "set_id": "bf8df9fd-bfdd-47c2-84d2-d91e50947bf6",
+   "application": [
+    "BLA103133"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "insulina-aspart",
+   "generic_en": "insulin aspart",
+   "brand": [
+    "Fiasp"
+   ],
+   "manufacturer": [
+    "Novo Nordisk"
+   ],
+   "effective_time": "20230621",
+   "set_id": "834e7efc-393f-4c55-9125-628562a8a5cf",
+   "application": [
+    "BLA208751"
+   ],
+   "n_candidates": 14
+  },
+  {
+   "id_es": "insulina-degludec",
+   "generic_en": "insulin degludec",
+   "brand": [
+    "Tresiba"
+   ],
+   "manufacturer": [
+    "A-S Medication Solutions"
+   ],
+   "effective_time": "20231212",
+   "set_id": "84197351-cb71-4282-8217-13103404a2b4",
+   "application": [
+    "BLA203314"
+   ],
+   "n_candidates": 6
+  },
+  {
+   "id_es": "insulina-detemir",
+   "generic_en": "insulin detemir",
+   "brand": [
+    "Levemir"
+   ],
+   "manufacturer": [
+    "A-S Medication Solutions"
+   ],
+   "effective_time": "20241009",
+   "set_id": "82192527-99aa-4b53-8ce9-9173668d309c",
+   "application": [
+    "BLA021536"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "insulina-glargina",
+   "generic_en": "insulin glargine",
+   "brand": [
+    "Lantus Solostar"
+   ],
+   "manufacturer": [
+    "sanofi-aventis U.S. LLC"
+   ],
+   "effective_time": "20250602",
+   "set_id": "d5e07a0c-7e14-4756-9152-9fea485d654a",
+   "application": [
+    "BLA021081"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "insulina-glulisina",
+   "generic_en": "insulin glulisine",
+   "brand": [
+    "Apidra"
+   ],
+   "manufacturer": [
+    "sanofi-aventis U.S. LLC"
+   ],
+   "effective_time": "20251125",
+   "set_id": "e7af6a7a-8046-4fb4-9979-4ec4230b23aa",
+   "application": [
+    "BLA021629"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "insulina-lispro",
+   "generic_en": "insulin lispro",
+   "brand": [
+    "Humalog"
+   ],
+   "manufacturer": [
+    "Eli Lilly and Company"
+   ],
+   "effective_time": "20260616",
+   "set_id": "c8ecbd7a-0e22-4fc7-a503-faa58c1b6f3f",
+   "application": [
+    "BLA020563"
+   ],
+   "n_candidates": 11
+  },
+  {
+   "id_es": "insulina-regular",
+   "generic_en": "insulin human",
+   "brand": [
+    "AFREZZA"
+   ],
+   "manufacturer": [
+    "Mannkind Corporation"
+   ],
+   "effective_time": "20260530",
+   "set_id": "29f4637b-e204-425b-b89c-7238008d8c10",
+   "application": [
+    "BLA022472"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "ipratropio",
+   "generic_en": "ipratropium bromide",
+   "brand": [
+    "Atrovent HFA"
+   ],
+   "manufacturer": [
+    "Boehringer Ingelheim Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20251105",
+   "set_id": "170e98ef-5560-4068-be7d-e649068eb884",
+   "application": [
+    "NDA021527"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "irbesartan",
+   "generic_en": "irbesartan",
+   "brand": [
+    "Avapro"
+   ],
+   "manufacturer": [
+    "Sanofi-Aventis U.S. LLC"
+   ],
+   "effective_time": "20260824",
+   "set_id": "7885b2a8-be4e-48ab-8113-4e6ab791eb98",
+   "application": [
+    "NDA020757"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "isoniazida",
+   "generic_en": "isoniazid",
+   "brand": [
+    "Isoniazid"
+   ],
+   "manufacturer": [
+    "Coupler LLC"
+   ],
+   "effective_time": "20250702",
+   "set_id": "38f4c4af-81da-9b0c-e063-6294a90a8b9d",
+   "application": [
+    "ANDA080937"
+   ],
+   "n_candidates": 23
+  },
+  {
+   "id_es": "isosorbida-dinitrato",
+   "generic_en": "isosorbide dinitrate",
+   "brand": [
+    "Isosorbide Dinitrate"
+   ],
+   "manufacturer": [
+    "Oceanside Pharmaceuticals"
+   ],
+   "effective_time": "20200302",
+   "set_id": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+   "application": [
+    "NDA012093"
+   ],
+   "n_candidates": 21
+  },
+  {
+   "id_es": "isosorbida-mononitrato",
+   "generic_en": "isosorbide mononitrate",
+   "brand": [
+    "isosorbide mononitrate"
+   ],
+   "manufacturer": [
+    "Proficient Rx LP"
+   ],
+   "effective_time": "20191101",
+   "set_id": "f871dfa7-219f-4704-8e4d-215caeb7408d",
+   "application": [
+    "NDA020215"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "itraconazol",
+   "generic_en": "itraconazole",
+   "brand": [
+    "Tolsura"
+   ],
+   "manufacturer": [
+    "Mayne Pharma Commercial LLC"
+   ],
+   "effective_time": "20250423",
+   "set_id": "306352d1-9d5a-49ad-b72d-893b99546861",
+   "application": [
+    "NDA208901"
+   ],
+   "n_candidates": 15
+  },
+  {
+   "id_es": "ivabradina",
+   "generic_en": "ivabradine",
+   "brand": [
+    "Corlanor"
+   ],
+   "manufacturer": [
+    "Amgen Inc"
+   ],
+   "effective_time": "20251110",
+   "set_id": "92018a65-38f6-45f7-91d4-a34921b81d0d",
+   "application": [
+    "NDA206143"
+   ],
+   "n_candidates": 12
+  },
+  {
+   "id_es": "ivermectina",
+   "generic_en": "ivermectin",
+   "brand": [
+    "STROMECTOL"
+   ],
+   "manufacturer": [
+    "Merck Sharp & Dohme LLC"
+   ],
+   "effective_time": "20240920",
+   "set_id": "681888c9-af79-4b7d-ae80-c3f4f6f1effd",
+   "application": [
+    "NDA050742"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ixekizumab",
+   "generic_en": "ixekizumab",
+   "brand": [
+    "TALTZ"
+   ],
+   "manufacturer": [
+    "Eli Lilly and Company"
+   ],
+   "effective_time": "20260122",
+   "set_id": "ac96658a-d7dc-4c7c-8928-2adcdf4318b2",
+   "application": [
+    "BLA125521"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "ketamina",
+   "generic_en": "ketamine",
+   "brand": [
+    "Ketalar"
+   ],
+   "manufacturer": [
+    "Par Health USA, LLC"
+   ],
+   "effective_time": "20260327",
+   "set_id": "14e8f864-8b8a-4e7e-8439-e510d3107063",
+   "application": [
+    "NDA016812"
+   ],
+   "n_candidates": 13
+  },
+  {
+   "id_es": "ketorolaco",
+   "generic_en": "ketorolac",
+   "brand": [
+    "Omidria"
+   ],
+   "manufacturer": [
+    "Omeros Corporation"
+   ],
+   "effective_time": "20260408",
+   "set_id": "21470688-4e81-4ea5-ac38-f72e10552e7e",
+   "application": [
+    "NDA205388"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "labetalol",
+   "generic_en": "labetalol",
+   "brand": [
+    "Labetalol Hydrochloride"
+   ],
+   "manufacturer": [
+    "Marlex Pharmaceuticals Inc"
+   ],
+   "effective_time": "20241007",
+   "set_id": "28c91727-e5a8-48b3-a4df-d7bec8feda40",
+   "application": [
+    "ANDA075215"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "lacosamida",
+   "generic_en": "lacosamide",
+   "brand": [
+    "Vimpat"
+   ],
+   "manufacturer": [
+    "UCB, Inc."
+   ],
+   "effective_time": "20260512",
+   "set_id": "9e79b42c-38a3-4b2c-a196-a5a1948250e2",
+   "application": [
+    "NDA022254"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "lactulosa",
+   "generic_en": "lactulose",
+   "brand": [
+    "LACTULOSE Crystalline"
+   ],
+   "manufacturer": [
+    "Cumberland Assured Products Inc."
+   ],
+   "effective_time": "20250901",
+   "set_id": "59e75426-42ae-4904-941f-009181101a8a",
+   "application": [
+    "ANDA074712"
+   ],
+   "n_candidates": 24
+  },
+  {
+   "id_es": "leflunomida",
+   "generic_en": "leflunomide",
+   "brand": [
+    "Arava"
+   ],
+   "manufacturer": [
+    "sanofi-aventis U.S. LLC"
+   ],
+   "effective_time": "20250604",
+   "set_id": "320f63f2-fac3-4aee-aff8-85724e00ef52",
+   "application": [
+    "NDA020905"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "levetiracetam",
+   "generic_en": "levetiracetam",
+   "brand": [
+    "Keppra"
+   ],
+   "manufacturer": [
+    "UCB, Inc."
+   ],
+   "effective_time": "20260128",
+   "set_id": "3ca9df05-a506-4ec8-a4fe-320f1219ab21",
+   "application": [
+    "NDA021505"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "levofloxacino",
+   "generic_en": "levofloxacin",
+   "brand": [
+    "Levofloxacin"
+   ],
+   "manufacturer": [
+    "Sagent Pharmaceuticals"
+   ],
+   "effective_time": "20260721",
+   "set_id": "699fbdb8-a6fd-476a-9b80-08197d869534",
+   "application": [
+    "ANDA090343"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "levotiroxina",
+   "generic_en": "levothyroxine",
+   "brand": [
+    "levothyroxine sodium"
+   ],
+   "manufacturer": [
+    "Preferred Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260521",
+   "set_id": "3519c765-2077-4f23-8644-a6242ddbf743",
+   "application": [
+    "NDA021116"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "lidocaina",
+   "generic_en": "lidocaine",
+   "brand": [
+    "BONDLIDO"
+   ],
+   "manufacturer": [
+    "MEDRx USA, Inc."
+   ],
+   "effective_time": "20251006",
+   "set_id": "17e69028-d2c2-4080-8090-cb0cab570196",
+   "application": [
+    "NDA215029"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "linagliptina",
+   "generic_en": "linagliptin",
+   "brand": [
+    "Tradjenta"
+   ],
+   "manufacturer": [
+    "Cardinal Health 107, LLC"
+   ],
+   "effective_time": "20250827",
+   "set_id": "dfe327e8-f6ab-41e5-bdef-d520118cd83a",
+   "application": [
+    "NDA201280"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "linezolid",
+   "generic_en": "linezolid",
+   "brand": [
+    "Zyvox"
+   ],
+   "manufacturer": [
+    "Hp Halden Pharma AS"
+   ],
+   "effective_time": "20240528",
+   "set_id": "b0c75e79-bf29-4f1d-a45d-ae28398a52d9",
+   "application": [
+    "NDA021131"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "liraglutida",
+   "generic_en": "liraglutide",
+   "brand": [
+    "Saxenda"
+   ],
+   "manufacturer": [
+    "Novo Nordisk Pharmaceutical Industries, LP"
+   ],
+   "effective_time": "20260225",
+   "set_id": "3946d389-0926-4f77-a708-0acb8153b143",
+   "application": [
+    "NDA206321"
+   ],
+   "n_candidates": 22
+  },
+  {
+   "id_es": "lisinopril",
+   "generic_en": "lisinopril",
+   "brand": [
+    "Zestril"
+   ],
+   "manufacturer": [
+    "Upsher-Smith Laboratories, LLC"
+   ],
+   "effective_time": "20250102",
+   "set_id": "838c2d78-d2d8-4981-9ec9-e50ef9e1a5d8",
+   "application": [
+    "NDA019777"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "loperamida",
+   "generic_en": "loperamide",
+   "brand": [
+    "anti-diarrheal"
+   ],
+   "manufacturer": [
+    "Amazon.com Services LLC"
+   ],
+   "effective_time": "20260420",
+   "set_id": "04a35525-ae8e-b41e-e063-6294a90ab10e",
+   "application": [
+    "NDA021855"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "lorazepam",
+   "generic_en": "lorazepam",
+   "brand": [
+    "LOREEV XR"
+   ],
+   "manufacturer": [
+    "Almatica Pharma LLC"
+   ],
+   "effective_time": "20251008",
+   "set_id": "227734c1-bf01-9607-73ea-5a1f38a89bd9",
+   "application": [
+    "NDA214826"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "losartan",
+   "generic_en": "losartan",
+   "brand": [
+    "Losartan Potassium"
+   ],
+   "manufacturer": [
+    "Granules Pharmaceuticals Inc."
+   ],
+   "effective_time": "20261008",
+   "set_id": "ca012edc-923d-4ada-a261-db82b71b3c4f",
+   "application": [
+    "ANDA215959"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "manitol",
+   "generic_en": "mannitol",
+   "brand": [
+    "Aridol Bronchial Challenge Test Kit"
+   ],
+   "manufacturer": [
+    "Methapharm, Inc."
+   ],
+   "effective_time": "20260423",
+   "set_id": "5387a4fb-b894-4cba-88a3-a947217d34da",
+   "application": [
+    "NDA022368"
+   ],
+   "n_candidates": 9
+  },
+  {
+   "id_es": "mepolizumab",
+   "generic_en": "mepolizumab",
+   "brand": [
+    "Nucala"
+   ],
+   "manufacturer": [
+    "GlaxoSmithKline LLC"
+   ],
+   "effective_time": "20250806",
+   "set_id": "fefb887c-e4ac-431e-8893-e9d1a5a63fea",
+   "application": [
+    "BLA125526"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "meropenem",
+   "generic_en": "meropenem",
+   "brand": [
+    "Meropenem"
+   ],
+   "manufacturer": [
+    "WG Critical Care, LLC"
+   ],
+   "effective_time": "20260831",
+   "set_id": "240325ba-47a8-4ad1-bcab-6772069ee790",
+   "application": [
+    "NDA215212"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "mesalazina",
+   "generic_en": "mesalamine",
+   "brand": [
+    "Lialda"
+   ],
+   "manufacturer": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "effective_time": "20261026",
+   "set_id": "3098a080-be86-4265-9818-7fc4beab77b7",
+   "application": [
+    "NDA022000"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metformina",
+   "generic_en": "metformin",
+   "brand": [
+    "Metformin Hydrochloride"
+   ],
+   "manufacturer": [
+    "Mylan Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260915",
+   "set_id": "7e41818c-60e9-4bcf-9586-7bb8d33d5e89",
+   "application": [
+    "ANDA200690"
+   ],
+   "n_candidates": 5
+  },
+  {
+   "id_es": "metildopa",
+   "generic_en": "methyldopa",
+   "brand": [
+    "Methyldopa"
+   ],
+   "manufacturer": [
+    "Chartwell RX, LLC"
+   ],
+   "effective_time": "20250326",
+   "set_id": "e1114a58-9ab5-486e-85ed-360365b06396",
+   "application": [
+    "NDA018934"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "metilprednisolona",
+   "generic_en": "methylprednisolone",
+   "brand": [
+    "Medrol"
+   ],
+   "manufacturer": [
+    "Pharmacia & Upjohn Company LLC"
+   ],
+   "effective_time": "20251114",
+   "set_id": "39d5270b-d957-4821-93d6-501b7b9f02d4",
+   "application": [
+    "NDA011153"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metimazol",
+   "generic_en": "methimazole",
+   "brand": [
+    "Methimazole"
+   ],
+   "manufacturer": [
+    "AiPing Pharmaceutical, Inc."
+   ],
+   "effective_time": "20260820",
+   "set_id": "06bb4bcc-5e47-48b6-a76c-648f846704e8",
+   "application": [
+    "ANDA040547"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metoclopramida",
+   "generic_en": "metoclopramide",
+   "brand": [
+    "Metoclopramide"
+   ],
+   "manufacturer": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260518",
+   "set_id": "797aad80-0597-42f8-99d5-39de180c3b5a",
+   "application": [
+    "NDA017854"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metoprolol-tartrato",
+   "generic_en": "metoprolol tartrate",
+   "brand": [
+    "Lopressor"
+   ],
+   "manufacturer": [
+    "Validus Pharmaceuticals LLC"
+   ],
+   "effective_time": "20230914",
+   "set_id": "0283bc9d-6998-493a-824a-d4c85f704111",
+   "application": [
+    "NDA017963"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metoprolol",
+   "generic_en": "metoprolol succinate",
+   "brand": [
+    "TOPROL XL"
+   ],
+   "manufacturer": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "effective_time": "20180220",
+   "set_id": "a07891a5-152e-4a38-8179-e05a90458a7d",
+   "application": [
+    "NDA019962"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metotrexato",
+   "generic_en": "methotrexate",
+   "brand": [
+    "JYLAMVO"
+   ],
+   "manufacturer": [
+    "SHORLA ONCOLOGY INC."
+   ],
+   "effective_time": "20261105",
+   "set_id": "96e931f5-51ae-4bdf-a441-bb0dd26d4c0e",
+   "application": [
+    "NDA212479"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "metronidazol",
+   "generic_en": "metronidazole",
+   "brand": [
+    "Nuvessa"
+   ],
+   "manufacturer": [
+    "Exeltis USA, Inc."
+   ],
+   "effective_time": "20231110",
+   "set_id": "3b6ff39d-f84b-43b3-9b07-c0521c6d7968",
+   "application": [
+    "NDA205223"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "micafungina",
+   "generic_en": "micafungin",
+   "brand": [
+    "Micafungin"
+   ],
+   "manufacturer": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "effective_time": "20250120",
+   "set_id": "29f17423-5787-47d0-a83b-bbdc0198fbfa",
+   "application": [
+    "ANDA215241"
+   ],
+   "n_candidates": 6
+  },
+  {
+   "id_es": "micofenolato",
+   "generic_en": "mycophenolate mofetil",
+   "brand": [
+    "CellCept"
+   ],
+   "manufacturer": [
+    "Genentech, Inc."
+   ],
+   "effective_time": "20260805",
+   "set_id": "37241e87-4af4-4dc3-a1aa-ea6f20d8dc40",
+   "application": [
+    "NDA050722"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "midazolam",
+   "generic_en": "midazolam",
+   "brand": [
+    "Nayzilam"
+   ],
+   "manufacturer": [
+    "UCB, Inc."
+   ],
+   "effective_time": "20261016",
+   "set_id": "2b29422e-54d5-4a49-8522-e9cf752368c3",
+   "application": [
+    "NDA211321"
+   ],
+   "n_candidates": 12
+  },
+  {
+   "id_es": "milnacipran",
+   "generic_en": "milnacipran",
+   "brand": [
+    "Milnacipran Hydrochloride"
+   ],
+   "manufacturer": [
+    "Glenmark Pharmaceuticals Inc., USA"
+   ],
+   "effective_time": "20260319",
+   "set_id": "b66b1850-0d2a-41d6-b0ad-c676166394c7",
+   "application": [
+    "NDA022256"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "milrinona",
+   "generic_en": "milrinone",
+   "brand": [
+    "Milrinone Lactate"
+   ],
+   "manufacturer": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "effective_time": "20250508",
+   "set_id": "88f78780-399f-4780-be19-205739db1682",
+   "application": [
+    "ANDA077966"
+   ],
+   "n_candidates": 19
+  },
+  {
+   "id_es": "minociclina",
+   "generic_en": "minocycline",
+   "brand": [
+    "AMZEEQ"
+   ],
+   "manufacturer": [
+    "Journey Medical Corporation"
+   ],
+   "effective_time": "20231001",
+   "set_id": "cc251492-977b-4eb1-a088-a90831324bad",
+   "application": [
+    "NDA212379"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "mirtazapina",
+   "generic_en": "mirtazapine",
+   "brand": [
+    "REMERONSOLTAB"
+   ],
+   "manufacturer": [
+    "Organon LLC"
+   ],
+   "effective_time": "20250806",
+   "set_id": "98ad1917-a094-44f5-a28f-a64a8cfcd887",
+   "application": [
+    "NDA021208"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "montelukast",
+   "generic_en": "montelukast",
+   "brand": [
+    "MONTELUKAST SODIUM"
+   ],
+   "manufacturer": [
+    "Ajanta Pharma USA Inc."
+   ],
+   "effective_time": "20250829",
+   "set_id": "67070e4e-f755-46b3-b900-fcc1993a0546",
+   "application": [
+    "ANDA203438"
+   ],
+   "n_candidates": 19
+  },
+  {
+   "id_es": "morfina",
+   "generic_en": "morphine sulfate",
+   "brand": [
+    "MS Contin"
+   ],
+   "manufacturer": [
+    "Rhodes Pharmaceuticals LLC"
+   ],
+   "effective_time": "20260814",
+   "set_id": "c354b3bf-86c0-4bb8-8b1f-be2164942698",
+   "application": [
+    "NDA019516"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "moxifloxacino",
+   "generic_en": "moxifloxacin",
+   "brand": [
+    "Moxifloxacin ophthalmic solution"
+   ],
+   "manufacturer": [
+    "Redpharm Drug"
+   ],
+   "effective_time": "20260418",
+   "set_id": "4fb55f17-d9db-8148-e063-6394a90a8216",
+   "application": [
+    "ANDA217988"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "naloxona",
+   "generic_en": "naloxone",
+   "brand": [
+    "Naloxone Hydrochloride"
+   ],
+   "manufacturer": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "effective_time": "20240419",
+   "set_id": "8779a073-dc6e-410a-9959-fd370f0079f9",
+   "application": [
+    "ANDA217992"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "naproxeno",
+   "generic_en": "naproxen",
+   "brand": [
+    "Naproxen"
+   ],
+   "manufacturer": [
+    "Acella Pharmaceuticals, LLC"
+   ],
+   "effective_time": "20260105",
+   "set_id": "7e6f03fb-4b36-4418-9684-f45637abbb78",
+   "application": [
+    "NDA018965"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nebivolol",
+   "generic_en": "nebivolol",
+   "brand": [
+    "NEBIVOLOL"
+   ],
+   "manufacturer": [
+    "Major Pharmaceuticals"
+   ],
+   "effective_time": "20260609",
+   "set_id": "3e9e1048-b5ea-4d6a-9363-3ee0d059e088",
+   "application": [
+    "ANDA212682"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nifedipino",
+   "generic_en": "nifedipine",
+   "brand": [
+    "Procardia XL"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20260921",
+   "set_id": "8ebcb33c-f43b-4b36-9f94-9774b2a59e06",
+   "application": [
+    "NDA019684"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nirmatrelvir-ritonavir",
+   "generic_en": "nirmatrelvir and ritonavir",
+   "brand": [
+    "Paxlovid"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20260219",
+   "set_id": "8a99d6d6-fd9e-45bb-b1bf-48c7f761232a",
+   "application": [
+    "NDA217188"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "nistatina",
+   "generic_en": "nystatin",
+   "brand": [
+    "Nystatin"
+   ],
+   "manufacturer": [
+    "Chartwell RX, LLC"
+   ],
+   "effective_time": "20260305",
+   "set_id": "9954118e-abe6-4388-98c9-4473d39b2e28",
+   "application": [
+    "NDA050299"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nitazoxanida",
+   "generic_en": "nitazoxanide",
+   "brand": [
+    "Nitazoxanide"
+   ],
+   "manufacturer": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20251230",
+   "set_id": "295011e1-f919-4e5a-b9e7-4c784f623a86",
+   "application": [
+    "ANDA218701"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "nitrofurantoina",
+   "generic_en": "nitrofurantoin",
+   "brand": [
+    "Nitrofurantoin"
+   ],
+   "manufacturer": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "effective_time": "20251111",
+   "set_id": "89095f4d-e142-465e-b378-da24f6eeaf2b",
+   "application": [
+    "NDA009175"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nitroglicerina",
+   "generic_en": "nitroglycerin",
+   "brand": [
+    "NITRO-DUR"
+   ],
+   "manufacturer": [
+    "Ingenus Pharmaceuticals, LLC"
+   ],
+   "effective_time": "20230530",
+   "set_id": "5e15296c-5acd-4bcc-80a8-b49cb1ef3eb0",
+   "application": [
+    "NDA020145"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "nitroprusiato",
+   "generic_en": "sodium nitroprusside",
+   "brand": [
+    "NIPRIDE RTU"
+   ],
+   "manufacturer": [
+    "EXELA PHARMA SCIENCES, LLC"
+   ],
+   "effective_time": "20180720",
+   "set_id": "5acf0836-93ff-4064-b888-3f560e8a558d",
+   "application": [
+    "NDA209387"
+   ],
+   "n_candidates": 16
+  },
+  {
+   "id_es": "norepinefrina",
+   "generic_en": "norepinephrine",
+   "brand": [
+    "Norepinephrine 1530"
+   ],
+   "manufacturer": [
+    "Professional Complementary Health Formulas"
+   ],
+   "effective_time": "20260108",
+   "set_id": "9eb4ebe0-fb2f-4147-b117-0fa19bbd2c1e",
+   "application": [],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "octreotida",
+   "generic_en": "octreotide",
+   "brand": [
+    "Mycapssa"
+   ],
+   "manufacturer": [
+    "Chiesi USA, Inc."
+   ],
+   "effective_time": "20250724",
+   "set_id": "58d80bc6-bdfb-4908-93e7-aace447c8d1a",
+   "application": [
+    "NDA208232"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "omalizumab",
+   "generic_en": "omalizumab",
+   "brand": [
+    "XOLAIR"
+   ],
+   "manufacturer": [
+    "Genentech, Inc."
+   ],
+   "effective_time": "20260813",
+   "set_id": "7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+   "application": [
+    "BLA103976"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "omeprazol",
+   "generic_en": "omeprazole",
+   "brand": [
+    "berkley and jensen omeprazole"
+   ],
+   "manufacturer": [
+    "BJWC"
+   ],
+   "effective_time": "20260910",
+   "set_id": "1729c60d-3475-45cd-b192-f88438403d1a",
+   "application": [
+    "NDA209400"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ondansetron",
+   "generic_en": "ondansetron",
+   "brand": [
+    "Ondansetron ODT"
+   ],
+   "manufacturer": [
+    "Advanced Rx of Tennessee, LLC"
+   ],
+   "effective_time": "20241231",
+   "set_id": "af836a30-5e51-5c97-e053-2995a90a15b9",
+   "application": [
+    "ANDA090469"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "oseltamivir",
+   "generic_en": "oseltamivir",
+   "brand": [
+    "Oseltamivir Phosphate"
+   ],
+   "manufacturer": [
+    "AvKARE"
+   ],
+   "effective_time": "20260115",
+   "set_id": "c61bb5af-558f-4b32-b34d-8fdae480443c",
+   "application": [
+    "ANDA209093"
+   ],
+   "n_candidates": 5
+  },
+  {
+   "id_es": "oxicodona",
+   "generic_en": "oxycodone",
+   "brand": [
+    "XTAMPZA ER"
+   ],
+   "manufacturer": [
+    "Collegium Pharmaceutical, Inc."
+   ],
+   "effective_time": "20251230",
+   "set_id": "b0a5ded2-8ee2-49ca-a86c-2b28ae40f60c",
+   "application": [
+    "NDA208090"
+   ],
+   "n_candidates": 10
+  },
+  {
+   "id_es": "pantoprazol",
+   "generic_en": "pantoprazole",
+   "brand": [
+    "PANTOPRAZOLE SODIUM"
+   ],
+   "manufacturer": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "effective_time": "20241002",
+   "set_id": "a9f32edf-e0b9-4e96-e053-2a95a90afbc8",
+   "application": [
+    "ANDA202882"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "paracetamol",
+   "generic_en": "acetaminophen",
+   "brand": [
+    "Vitapirena"
+   ],
+   "manufacturer": [
+    "Pharmadel LLC"
+   ],
+   "effective_time": "20251222",
+   "set_id": "0547bc1f-d000-f5a6-e063-6294a90ac73d",
+   "application": [
+    "M013"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "patiromero",
+   "generic_en": "patiromer",
+   "brand": [
+    "VELTASSA"
+   ],
+   "manufacturer": [
+    "Vifor Pharma, Inc."
+   ],
+   "effective_time": "20250131",
+   "set_id": "bf002984-d6c9-46df-aecb-a07733f763c1",
+   "application": [
+    "NDA205739"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "penicilina-g-benzatinica",
+   "generic_en": "penicillin g benzathine",
+   "brand": [
+    "BICILLIN L-A"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20260721",
+   "set_id": "012d46f1-d0a0-4676-a879-cd320297ab16",
+   "application": [
+    "NDA050141"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "penicilina-g-sodica",
+   "generic_en": "penicillin g potassium",
+   "brand": [
+    "Pfizerpen"
+   ],
+   "manufacturer": [
+    "Roerig"
+   ],
+   "effective_time": "20241212",
+   "set_id": "2f7ea103-56cc-492f-b862-af45f9aed980",
+   "application": [
+    "ANDA060657"
+   ],
+   "n_candidates": 11
+  },
+  {
+   "id_es": "pioglitazona",
+   "generic_en": "pioglitazone",
+   "brand": [
+    "Actos"
+   ],
+   "manufacturer": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "effective_time": "20250328",
+   "set_id": "d2ddc491-88a9-4063-9150-443b4fa4330c",
+   "application": [
+    "NDA021073"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "piperacilina-tazobactam",
+   "generic_en": "piperacillin and tazobactam",
+   "brand": [
+    "Piperacillin and Tazobactam"
+   ],
+   "manufacturer": [
+    "Avenacy, LLC"
+   ],
+   "effective_time": "20250901",
+   "set_id": "668a2730-e95a-4639-a506-ae95a6502ca1",
+   "application": [
+    "ANDA090498"
+   ],
+   "n_candidates": 24
+  },
+  {
+   "id_es": "pirazinamida",
+   "generic_en": "pyrazinamide",
+   "brand": [
+    "Pyrazinamide"
+   ],
+   "manufacturer": [
+    "American Health Packaging"
+   ],
+   "effective_time": "20251113",
+   "set_id": "e2dbbdf9-ddfd-4d6d-ad42-6e658969f11e",
+   "application": [
+    "ANDA080157"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "plazomicina",
+   "generic_en": "plazomicin",
+   "brand": [
+    "Zemdri (plazomicin)"
+   ],
+   "manufacturer": [
+    "Cipla USA Inc."
+   ],
+   "effective_time": "20241220",
+   "set_id": "eccf9fd9-53ac-4252-a106-5567b3a82a70",
+   "application": [
+    "NDA210303"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "poliestireno-sulfonato",
+   "generic_en": "sodium polystyrene sulfonate",
+   "brand": [
+    "Kionex"
+   ],
+   "manufacturer": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20250919",
+   "set_id": "676c3d81-d575-43f6-8748-e04b7c0cafeb",
+   "application": [
+    "ANDA040028"
+   ],
+   "n_candidates": 16
+  },
+  {
+   "id_es": "polietilenglicol",
+   "generic_en": "polyethylene glycol 3350",
+   "brand": [
+    "MiraLAX"
+   ],
+   "manufacturer": [
+    "Bayer HealthCare LLC."
+   ],
+   "effective_time": "20260504",
+   "set_id": "d69ce3d4-7ca4-4fe3-b49e-6655e48d6963",
+   "application": [
+    "NDA022015"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "posaconazol",
+   "generic_en": "posaconazole",
+   "brand": [
+    "NOXAFIL"
+   ],
+   "manufacturer": [
+    "Merck Sharp & Dohme LLC"
+   ],
+   "effective_time": "20260213",
+   "set_id": "b073b082-7b57-4423-8c06-4fd4263d6f84",
+   "application": [
+    "NDA022003"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "pralidoxima",
+   "generic_en": "pralidoxime",
+   "brand": [
+    "ATNAA atropine and pralidoxime chloride Auto-Injector"
+   ],
+   "manufacturer": [
+    "Meridian Medical Technologies, LLC"
+   ],
+   "effective_time": "20220718",
+   "set_id": "596c7a8f-27cd-4de2-9491-476f43570b8b",
+   "application": [
+    "NDA021175"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "prasugrel",
+   "generic_en": "prasugrel",
+   "brand": [
+    "Prasugrel"
+   ],
+   "manufacturer": [
+    "American Health Packaging"
+   ],
+   "effective_time": "20250302",
+   "set_id": "35aa7f3e-bbd8-4eae-b61f-29d1abca2224",
+   "application": [
+    "ANDA205888"
+   ],
+   "n_candidates": 10
+  },
+  {
+   "id_es": "prazosina",
+   "generic_en": "prazosin",
+   "brand": [
+    "Prazosin"
+   ],
+   "manufacturer": [
+    "Lannett Company, Inc."
+   ],
+   "effective_time": "20230915",
+   "set_id": "94021822-60cb-4da6-b809-f565e1d6452d",
+   "application": [
+    "ANDA214083"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "prednisona",
+   "generic_en": "prednisone",
+   "brand": [
+    "Prednisone delayed release"
+   ],
+   "manufacturer": [
+    "Dr. Reddys Laboratories Inc."
+   ],
+   "effective_time": "20260923",
+   "set_id": "01bdc479-1f1f-af94-837c-12e7e861321a",
+   "application": [
+    "ANDA219477"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "pregabalina",
+   "generic_en": "pregabalin",
+   "brand": [
+    "Pregabalin Extended Release"
+   ],
+   "manufacturer": [
+    "ScieGen Pharmaceuticals, INC."
+   ],
+   "effective_time": "20220919",
+   "set_id": "1544a657-353c-47f8-96ac-a63fa78373f0",
+   "application": [
+    "ANDA215675"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "propafenona",
+   "generic_en": "propafenone",
+   "brand": [
+    "Propafenone Hydrochloride"
+   ],
+   "manufacturer": [
+    "Vitruvias Therapeutics"
+   ],
+   "effective_time": "20241226",
+   "set_id": "bc1d2548-15a3-4986-92b1-c3ddfb35343a",
+   "application": [
+    "ANDA210339"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "propiltiouracilo",
+   "generic_en": "propylthiouracil",
+   "brand": [
+    "Propylthiouracil"
+   ],
+   "manufacturer": [
+    "American Health Packaging"
+   ],
+   "effective_time": "20260827",
+   "set_id": "d819e532-09ac-434a-84a6-636c4204c7aa",
+   "application": [
+    "NDA006188"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "propofol",
+   "generic_en": "propofol",
+   "brand": [
+    "Diprivan"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20250910",
+   "set_id": "fee3bd4a-ade3-41fa-839a-48e9af69bcf4",
+   "application": [
+    "NDA019627"
+   ],
+   "n_candidates": 20
+  },
+  {
+   "id_es": "propranolol",
+   "generic_en": "propranolol",
+   "brand": [
+    "PROPRANOLOL"
+   ],
+   "manufacturer": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "effective_time": "20260622",
+   "set_id": "54dd0fad-64ee-788f-e063-6394a90ac88e",
+   "application": [
+    "ANDA075826"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "protamina",
+   "generic_en": "protamine sulfate",
+   "brand": [
+    "Protamine Sulfate"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20250429",
+   "set_id": "c76876da-b9a8-45d0-9278-7df3288d3a06",
+   "application": [
+    "ANDA089454"
+   ],
+   "n_candidates": 5
+  },
+  {
+   "id_es": "quetiapina",
+   "generic_en": "quetiapine",
+   "brand": [
+    "SEROQUEL"
+   ],
+   "manufacturer": [
+    "H2-Pharma, LLC"
+   ],
+   "effective_time": "20260410",
+   "set_id": "8ae62aaf-f8c5-417f-baac-0098369ca322",
+   "application": [
+    "NDA020639"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ramipril",
+   "generic_en": "ramipril",
+   "brand": [
+    "Ramipril"
+   ],
+   "manufacturer": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260915",
+   "set_id": "6187971a-2756-4791-8801-211bec0a6718",
+   "application": [
+    "ANDA078832"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "remdesivir",
+   "generic_en": "remdesivir",
+   "brand": [
+    "Veklury"
+   ],
+   "manufacturer": [
+    "Gilead Sciences, Inc."
+   ],
+   "effective_time": "20260729",
+   "set_id": "c0978fa8-53ff-4ca2-82a7-567fd3e958ca",
+   "application": [
+    "NDA214787"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "resmetirom",
+   "generic_en": "resmetirom",
+   "brand": [
+    "REZDIFFRA"
+   ],
+   "manufacturer": [
+    "Madrigal Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260729",
+   "set_id": "e67ea09f-a840-439c-86c8-f98585f978b2",
+   "application": [
+    "NDA217785"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "rifampicina",
+   "generic_en": "rifampin",
+   "brand": [
+    "Rifampin"
+   ],
+   "manufacturer": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "effective_time": "20220829",
+   "set_id": "a1f9f1e2-dfc0-4d31-a13b-b656d897b791",
+   "application": [
+    "ANDA091181"
+   ],
+   "n_candidates": 13
+  },
+  {
+   "id_es": "rifaximina",
+   "generic_en": "rifaximin",
+   "brand": [
+    "XIFAXAN"
+   ],
+   "manufacturer": [
+    "Cardinal Health 107, LLC"
+   ],
+   "effective_time": "20250827",
+   "set_id": "7afafa63-3236-4212-9589-045db6b01c0b",
+   "application": [
+    "NDA021361"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "risankizumab",
+   "generic_en": "risankizumab",
+   "brand": [
+    "Skyrizi"
+   ],
+   "manufacturer": [
+    "AbbVie Inc."
+   ],
+   "effective_time": "20261023",
+   "set_id": "7148c8eb-b39e-e20a-6494-a6df82392858",
+   "application": [
+    "BLA761105"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "risedronato",
+   "generic_en": "risedronate",
+   "brand": [
+    "Risedronate Sodium"
+   ],
+   "manufacturer": [
+    "Mylan Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260212",
+   "set_id": "f715718a-407d-4e2a-9834-74a8f1361d03",
+   "application": [
+    "NDA020835"
+   ],
+   "n_candidates": 12
+  },
+  {
+   "id_es": "rituximab",
+   "generic_en": "rituximab",
+   "brand": [
+    "Rituxan"
+   ],
+   "manufacturer": [
+    "Genentech, Inc."
+   ],
+   "effective_time": "20250106",
+   "set_id": "b172773b-3905-4a1c-ad95-bab4b6126563",
+   "application": [
+    "BLA103705"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "rivaroxaban",
+   "generic_en": "rivaroxaban",
+   "brand": [
+    "Xarelto"
+   ],
+   "manufacturer": [
+    "Janssen Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20260910",
+   "set_id": "10db92f9-2300-4a80-836b-673e1ae91610",
+   "application": [
+    "NDA215859"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "rocuronio",
+   "generic_en": "rocuronium",
+   "brand": [
+    "Rocuronium"
+   ],
+   "manufacturer": [
+    "Bryant Ranch Prepack"
+   ],
+   "effective_time": "20260303",
+   "set_id": "6045ed5a-5d2c-4f17-aaba-458fbf87e85c",
+   "application": [
+    "ANDA210437"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "romosozumab",
+   "generic_en": "romosozumab",
+   "brand": [
+    "Evenity"
+   ],
+   "manufacturer": [
+    "Amgen, Inc"
+   ],
+   "effective_time": "20260716",
+   "set_id": "471baba2-7154-4488-9891-0db2f46791e7",
+   "application": [
+    "BLA761062"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "rosuvastatina",
+   "generic_en": "rosuvastatin",
+   "brand": [
+    "Crestor"
+   ],
+   "manufacturer": [
+    "AstraZeneca Pharmaceuticals LP"
+   ],
+   "effective_time": "20260923",
+   "set_id": "325a5d0e-9a72-4015-9fcd-1655fb504cee",
+   "application": [
+    "NDA021366"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "sacubitrilo-valsartan",
+   "generic_en": "sacubitril and valsartan",
+   "brand": [
+    "ENTRESTO"
+   ],
+   "manufacturer": [
+    "Novartis Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260706",
+   "set_id": "000dc81d-ab91-450c-8eae-8eb74e72296f",
+   "application": [
+    "NDA207620"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "salbutamol",
+   "generic_en": "albuterol",
+   "brand": [
+    "Albuterol"
+   ],
+   "manufacturer": [
+    "Mylan Pharmaceuticals Inc."
+   ],
+   "effective_time": "20260315",
+   "set_id": "9e6e982b-7dfe-45b8-aa76-754e8d2a8ef6",
+   "application": [
+    "ANDA214531"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "sarilumab",
+   "generic_en": "sarilumab",
+   "brand": [
+    "KEVZARA"
+   ],
+   "manufacturer": [
+    "Sanofi-Aventis U.S. LLC"
+   ],
+   "effective_time": "20260227",
+   "set_id": "827bc01c-d379-4266-a18c-c7f904b76af3",
+   "application": [
+    "BLA761037"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "saxagliptina",
+   "generic_en": "saxagliptin",
+   "brand": [
+    "SAXAGLIPTIN"
+   ],
+   "manufacturer": [
+    "Glenmark Pharmaceuticals Inc., USA"
+   ],
+   "effective_time": "20260127",
+   "set_id": "e286ffd4-c598-47fb-af06-2e15f7e6f99f",
+   "application": [
+    "ANDA205994"
+   ],
+   "n_candidates": 3
+  },
+  {
+   "id_es": "secukinumab",
+   "generic_en": "secukinumab",
+   "brand": [
+    "COSENTYX"
+   ],
+   "manufacturer": [
+    "Novartis Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20261015",
+   "set_id": "77c4b13e-7df3-42d4-81db-3d0cddb7f67a",
+   "application": [
+    "BLA125504"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "seladelpar",
+   "generic_en": "seladelpar",
+   "brand": [
+    "Livdelzi"
+   ],
+   "manufacturer": [
+    "Gilead Sciences, Inc"
+   ],
+   "effective_time": "20260203",
+   "set_id": "89f79d98-135c-40b2-a585-6996c04e599c",
+   "application": [
+    "NDA217899"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "semaglutida",
+   "generic_en": "semaglutide",
+   "brand": [
+    "Ozempic"
+   ],
+   "manufacturer": [
+    "A-S Medication Solutions"
+   ],
+   "effective_time": "20260730",
+   "set_id": "42bdd912-2393-44c4-b7e0-47672ca28991",
+   "application": [
+    "NDA209637"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "sertralina",
+   "generic_en": "sertraline",
+   "brand": [
+    "Sertraline HCl"
+   ],
+   "manufacturer": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "effective_time": "20260114",
+   "set_id": "a5c49e6e-b8e0-4a75-99e6-b88e323ce653",
+   "application": [
+    "ANDA219655"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "sevelamero",
+   "generic_en": "sevelamer carbonate",
+   "brand": [
+    "Renvela"
+   ],
+   "manufacturer": [
+    "Genzyme Corporation"
+   ],
+   "effective_time": "20251125",
+   "set_id": "e6328460-a57b-450b-a48c-6dcd4b476360",
+   "application": [
+    "NDA022318"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "sitagliptina",
+   "generic_en": "sitagliptin",
+   "brand": [
+    "JANUVIA"
+   ],
+   "manufacturer": [
+    "Cardinal Health 107, LLC"
+   ],
+   "effective_time": "20251105",
+   "set_id": "39253ddd-0245-43b1-ad28-d5923983afb4",
+   "application": [
+    "NDA021995"
+   ],
+   "n_candidates": 16
+  },
+  {
+   "id_es": "sotalol",
+   "generic_en": "sotalol",
+   "brand": [
+    "SOTYLIZE"
+   ],
+   "manufacturer": [
+    "Azurity Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20240124",
+   "set_id": "1f33f900-0777-4a92-a7f7-00cf3d57d95c",
+   "application": [
+    "NDA205108"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "succinilcolina",
+   "generic_en": "succinylcholine",
+   "brand": [
+    "Succinylcholine"
+   ],
+   "manufacturer": [
+    "Dr.Reddy's Laboratories Inc.,"
+   ],
+   "effective_time": "20240225",
+   "set_id": "f55dd1c0-c259-219a-5bca-f139e9515d07",
+   "application": [
+    "ANDA210698"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "sucralfato",
+   "generic_en": "sucralfate",
+   "brand": [
+    "Carafate"
+   ],
+   "manufacturer": [
+    "Allergan, Inc."
+   ],
+   "effective_time": "20240521",
+   "set_id": "c87c6b50-6977-4fa7-ae98-40c0753f7aee",
+   "application": [
+    "NDA018333"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "sugammadex",
+   "generic_en": "sugammadex",
+   "brand": [
+    "BRIDION"
+   ],
+   "manufacturer": [
+    "ProPharma Distribution"
+   ],
+   "effective_time": "20251218",
+   "set_id": "37276948-ff0f-e0ab-e063-6394a90a0973",
+   "application": [
+    "NDA022225"
+   ],
+   "n_candidates": 23
+  },
+  {
+   "id_es": "sulfasalazina",
+   "generic_en": "sulfasalazine",
+   "brand": [
+    "Azulfidine EN-tabs"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20261027",
+   "set_id": "b9ef541a-93c8-4428-ba45-398aa0b327d1",
+   "application": [
+    "NDA007073"
+   ],
+   "n_candidates": 14
+  },
+  {
+   "id_es": "sulfato-de-magnesio",
+   "generic_en": "magnesium sulfate",
+   "brand": [
+    "Magnesium Sulfate"
+   ],
+   "manufacturer": [
+    "Henry Schein, Inc."
+   ],
+   "effective_time": "20261102",
+   "set_id": "5176ed24-015e-43fe-9eb4-85098debf5f1",
+   "application": [
+    "NDA019316"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "sulfato-ferroso",
+   "generic_en": "ferrous sulfate",
+   "brand": [
+    "FERRUM SULPHURICUM"
+   ],
+   "manufacturer": [
+    "Boiron"
+   ],
+   "effective_time": "20250721",
+   "set_id": "3a749d62-0e20-0c15-e063-6394a90ac1a8",
+   "application": [],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "tacrolimus",
+   "generic_en": "tacrolimus",
+   "brand": [
+    "Prograf"
+   ],
+   "manufacturer": [
+    "Astellas Pharma US, Inc."
+   ],
+   "effective_time": "20230825",
+   "set_id": "7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
+   "application": [
+    "NDA050708"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tapentadol",
+   "generic_en": "tapentadol",
+   "brand": [
+    "Nucynta"
+   ],
+   "manufacturer": [
+    "Collegium Pharmaceutical, Inc."
+   ],
+   "effective_time": "20251230",
+   "set_id": "80938c30-9fe3-4c7d-9d9c-5476638cfb2d",
+   "application": [
+    "NDA022304"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "telmisartan",
+   "generic_en": "telmisartan",
+   "brand": [
+    "telmisartan"
+   ],
+   "manufacturer": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "effective_time": "20231108",
+   "set_id": "e61c209a-4fc3-4f5c-b526-6412f0b8897c",
+   "application": [
+    "ANDA203325"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tenecteplasa",
+   "generic_en": "tenecteplase",
+   "brand": [
+    "TNKase"
+   ],
+   "manufacturer": [
+    "Genentech, Inc."
+   ],
+   "effective_time": "20251215",
+   "set_id": "e647640d-c395-4b4b-a0be-1162f9c21d84",
+   "application": [
+    "BLA103909"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "tenofovir-emtricitabina",
+   "generic_en": "emtricitabine and tenofovir disoproxil fumarate",
+   "brand": [
+    "Truvada"
+   ],
+   "manufacturer": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "effective_time": "20240716",
+   "set_id": "46e06df0-654d-43cc-e054-00144ff8d46c",
+   "application": [
+    "NDA021752"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "terbinafina",
+   "generic_en": "terbinafine",
+   "brand": [
+    "Toenail Fungus Treatment"
+   ],
+   "manufacturer": [
+    "Shenzhen Wankelai E-commerce Co., Ltd."
+   ],
+   "effective_time": "20260324",
+   "set_id": "4dc1d7f7-e4ae-c54b-e063-6394a90aa420",
+   "application": [
+    "M005"
+   ],
+   "n_candidates": 7
+  },
+  {
+   "id_es": "teriparatida",
+   "generic_en": "teriparatide",
+   "brand": [
+    "Bonsity"
+   ],
+   "manufacturer": [
+    "Alvogen Inc."
+   ],
+   "effective_time": "20260831",
+   "set_id": "2d0c89a2-3849-adf6-007d-aeca21cf417c",
+   "application": [
+    "NDA211939"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "terlipresina",
+   "generic_en": "terlipressin",
+   "brand": [
+    "Terlivaz"
+   ],
+   "manufacturer": [
+    "Keenova Hospital Products Inc."
+   ],
+   "effective_time": "20261023",
+   "set_id": "3a35b86c-f451-4fac-8499-43019e4da354",
+   "application": [
+    "NDA022231"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "testosterona",
+   "generic_en": "testosterone cypionate",
+   "brand": [
+    "AZMIRO"
+   ],
+   "manufacturer": [
+    "Azurity Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20250725",
+   "set_id": "235b5625-570d-3fba-e063-6394a90aa2d1",
+   "application": [
+    "NDA216318"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tezepelumab",
+   "generic_en": "tezepelumab",
+   "brand": [
+    "TEZSPIRE"
+   ],
+   "manufacturer": [
+    "Amgen Inc"
+   ],
+   "effective_time": "20251017",
+   "set_id": "60f0aa03-ad25-4d48-80ce-7fcfa76f325f",
+   "application": [
+    "BLA761224"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "tiamina",
+   "generic_en": "thiamine",
+   "brand": [
+    "Multiple Vitamins (Pediatric) Pharmacy Bulk Package"
+   ],
+   "manufacturer": [
+    "Apotex Corp"
+   ],
+   "effective_time": "20260702",
+   "set_id": "d9b6eb9a-4218-5c94-6e35-7cbbf0fba494",
+   "application": [
+    "ANDA210456"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ticagrelor",
+   "generic_en": "ticagrelor",
+   "brand": [
+    "BRILINTA"
+   ],
+   "manufacturer": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "effective_time": "20240408",
+   "set_id": "1547e2b6-8858-178e-e063-6394a90abb23",
+   "application": [
+    "NDA022433"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tigeciclina",
+   "generic_en": "tigecycline",
+   "brand": [
+    "Tygacil"
+   ],
+   "manufacturer": [
+    "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc."
+   ],
+   "effective_time": "20251118",
+   "set_id": "2ccdb48e-c14a-4eeb-348c-4920ccfd7465",
+   "application": [
+    "NDA021821"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "tinidazol",
+   "generic_en": "tinidazole",
+   "brand": [
+    "Tindamax"
+   ],
+   "manufacturer": [
+    "Mission Pharmacal Company"
+   ],
+   "effective_time": "20211227",
+   "set_id": "a0d01539-8413-4703-94cc-d221918630a1",
+   "application": [
+    "NDA021618"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "tiotropio",
+   "generic_en": "tiotropium bromide",
+   "brand": [
+    "Spiriva HandiHaler"
+   ],
+   "manufacturer": [
+    "Boehringer Ingelheim Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20251110",
+   "set_id": "820839ef-e53d-47e8-a3b9-d911ff92e6a9",
+   "application": [
+    "NDA021395"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "tirzepatida",
+   "generic_en": "tirzepatide",
+   "brand": [
+    "Zepbound"
+   ],
+   "manufacturer": [
+    "Eli Lilly and Company"
+   ],
+   "effective_time": "20260828",
+   "set_id": "487cd7e7-434c-4925-99fa-aa80b1cc776b",
+   "application": [
+    "NDA217806"
+   ],
+   "n_candidates": 8
+  },
+  {
+   "id_es": "tmp-smx",
+   "generic_en": "sulfamethoxazole and trimethoprim",
+   "brand": [
+    "SULFATRIM"
+   ],
+   "manufacturer": [
+    "A-S Medication Solutions"
+   ],
+   "effective_time": "20260105",
+   "set_id": "80f7f00b-add4-4d6b-9e9c-bea29768c239",
+   "application": [
+    "NDA018615"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tobramicina",
+   "generic_en": "tobramycin",
+   "brand": [
+    "BETHKIS"
+   ],
+   "manufacturer": [
+    "Chiesi USA, Inc."
+   ],
+   "effective_time": "20230224",
+   "set_id": "1cd3d47b-025f-4705-9daf-cf07725ec223",
+   "application": [
+    "NDA201820"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tocilizumab",
+   "generic_en": "tocilizumab",
+   "brand": [
+    "AVTOZMA"
+   ],
+   "manufacturer": [
+    "CELLTRION USA, Inc."
+   ],
+   "effective_time": "20261020",
+   "set_id": "581c288f-8015-40ef-a4c3-683c96db193d",
+   "application": [
+    "BLA761420"
+   ],
+   "n_candidates": 4
+  },
+  {
+   "id_es": "tofacitinib",
+   "generic_en": "tofacitinib",
+   "brand": [
+    "XELJANZ"
+   ],
+   "manufacturer": [
+    "U.S. Pharmaceuticals"
+   ],
+   "effective_time": "20261006",
+   "set_id": "68e3d6b2-7838-4d2d-a417-09d919b43e13",
+   "application": [
+    "NDA203214"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tolvaptan",
+   "generic_en": "tolvaptan",
+   "brand": [
+    "Jynarque"
+   ],
+   "manufacturer": [
+    "Otsuka America Pharmaceutical, Inc."
+   ],
+   "effective_time": "20260930",
+   "set_id": "3febc0a1-9e5a-4ce0-843d-210f21d862c4",
+   "application": [
+    "NDA204441"
+   ],
+   "n_candidates": 12
+  },
+  {
+   "id_es": "torasemida",
+   "generic_en": "torsemide",
+   "brand": [
+    "SOAANZ"
+   ],
+   "manufacturer": [
+    "Sarfez Pharmaceuticals Inc"
+   ],
+   "effective_time": "20260109",
+   "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
+   "application": [
+    "NDA213218"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tramadol",
+   "generic_en": "tramadol",
+   "brand": [
+    "ConZip"
+   ],
+   "manufacturer": [
+    "Vertical Pharmaceuticals, LLC"
+   ],
+   "effective_time": "20251229",
+   "set_id": "a65b4d05-3a1c-4aa1-848a-d20ac9aaf62f",
+   "application": [
+    "NDA022370"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "trazodona",
+   "generic_en": "trazodone",
+   "brand": [
+    "RALDESY TM"
+   ],
+   "manufacturer": [
+    "Validus Pharmaceuticals LLC"
+   ],
+   "effective_time": "20260901",
+   "set_id": "34708cc1-b0b2-4fd0-b9f3-7f008b457fc9",
+   "application": [
+    "NDA218637"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "umeclidinio",
+   "generic_en": "umeclidinium",
+   "brand": [
+    "Umeclidinium Ellipta"
+   ],
+   "manufacturer": [
+    "Prasco Laboratories"
+   ],
+   "effective_time": "20251106",
+   "set_id": "763388a5-cc89-4c25-8562-521df679b7e8",
+   "application": [
+    "NDA205382"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "upadacitinib",
+   "generic_en": "upadacitinib",
+   "brand": [
+    "Rinvoq"
+   ],
+   "manufacturer": [
+    "AbbVie Inc."
+   ],
+   "effective_time": "20260630",
+   "set_id": "2966aec7-2ef0-923c-d8ff-fe1a957bf095",
+   "application": [
+    "NDA211675"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "ursodiol",
+   "generic_en": "ursodiol",
+   "brand": [
+    "Urso 250"
+   ],
+   "manufacturer": [
+    "Allergan, Inc."
+   ],
+   "effective_time": "20230112",
+   "set_id": "e8fc4fc2-fe5c-4cba-b6e0-5ceaf2157a61",
+   "application": [
+    "NDA020675"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "ustekinumab",
+   "generic_en": "ustekinumab",
+   "brand": [
+    "Stelara"
+   ],
+   "manufacturer": [
+    "Janssen Biotech, Inc."
+   ],
+   "effective_time": "20260908",
+   "set_id": "c77a9664-e3bb-4023-b400-127aa53bca2b",
+   "application": [
+    "BLA761044"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "valaciclovir",
+   "generic_en": "valacyclovir",
+   "brand": [
+    "Valacyclovir Hydrochloride"
+   ],
+   "manufacturer": [
+    "Northwind Health Company, LLC"
+   ],
+   "effective_time": "20260624",
+   "set_id": "1b53c6bb-0e8c-f49a-e063-6294a90a0f5a",
+   "application": [
+    "ANDA078518"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "valganciclovir",
+   "generic_en": "valganciclovir",
+   "brand": [
+    "Valcyte"
+   ],
+   "manufacturer": [
+    "H2-Pharma, LLC"
+   ],
+   "effective_time": "20251208",
+   "set_id": "4c517a39-2ded-4c5a-8d56-276853414b31",
+   "application": [
+    "NDA021304"
+   ],
+   "n_candidates": 14
+  },
+  {
+   "id_es": "valproato",
+   "generic_en": "valproate sodium",
+   "brand": [
+    "Valproate Sodium"
+   ],
+   "manufacturer": [
+    "Sagent Pharmaceuticals"
+   ],
+   "effective_time": "20260312",
+   "set_id": "8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad",
+   "application": [
+    "ANDA076295"
+   ],
+   "n_candidates": 5
+  },
+  {
+   "id_es": "valsartan",
+   "generic_en": "valsartan",
+   "brand": [
+    "Diovan"
+   ],
+   "manufacturer": [
+    "Novartis Pharmaceuticals Corporation"
+   ],
+   "effective_time": "20260811",
+   "set_id": "5ddba454-f3e6-43c2-a7a6-58365d297213",
+   "application": [
+    "NDA021283"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "vancomicina",
+   "generic_en": "vancomycin",
+   "brand": [
+    "TYZAVAN"
+   ],
+   "manufacturer": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "effective_time": "20260819",
+   "set_id": "72e9c5e2-07cc-4a8b-ba64-b2e7619ea560",
+   "application": [
+    "NDA211962"
+   ],
+   "n_candidates": 2
+  },
+  {
+   "id_es": "vasopresina",
+   "generic_en": "vasopressin",
+   "brand": [
+    "Vasostrict"
+   ],
+   "manufacturer": [
+    "Par Health USA, LLC"
+   ],
+   "effective_time": "20260421",
+   "set_id": "b1147beb-743e-4c62-8927-91192447f8b8",
+   "application": [
+    "NDA204485"
+   ],
+   "n_candidates": 24
+  },
+  {
+   "id_es": "vedolizumab",
+   "generic_en": "vedolizumab",
+   "brand": [
+    "ENTYVIO"
+   ],
+   "manufacturer": [
+    "Takeda Pharmaceuticals America, Inc."
+   ],
+   "effective_time": "20260429",
+   "set_id": "6e94621c-1a95-4af9-98d1-52b9e6f1949c",
+   "application": [
+    "BLA761133"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "verapamilo",
+   "generic_en": "verapamil",
+   "brand": [
+    "Verapamil Hydrochloride"
+   ],
+   "manufacturer": [
+    "Wilshire Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20241127",
+   "set_id": "5f665d08-e1e4-422a-88c2-d8834abf9e1a",
+   "application": [
+    "NDA020943"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "vitamina-k",
+   "generic_en": "phytonadione",
+   "brand": [
+    "Vitamin K1"
+   ],
+   "manufacturer": [
+    "Hospira, Inc."
+   ],
+   "effective_time": "20260809",
+   "set_id": "e8808230-2c44-44c6-8cab-8f29b6b34051",
+   "application": [
+    "ANDA087954"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "voriconazol",
+   "generic_en": "voriconazole",
+   "brand": [
+    "VFEND"
+   ],
+   "manufacturer": [
+    "Roerig"
+   ],
+   "effective_time": "20260226",
+   "set_id": "ce3ef5cf-3087-4d92-9d94-9eb8287228db",
+   "application": [
+    "NDA021630"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "warfarina",
+   "generic_en": "warfarin",
+   "brand": [
+    "Warfarin Sodium"
+   ],
+   "manufacturer": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "effective_time": "20261102",
+   "set_id": "4f276251-49b7-438f-9c47-f1cdfc47e519",
+   "application": [
+    "ANDA090935"
+   ],
+   "n_candidates": 25
+  }
+ ]
+}

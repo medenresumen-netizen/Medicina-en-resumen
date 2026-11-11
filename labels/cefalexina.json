@@ -1,0 +1,737 @@
+{
+ "id_es": "cefalexina",
+ "generic_en": "cephalexin",
+ "search": "openfda.generic_name.exact:\"CEPHALEXIN\"",
+ "downloaded": "2026-11-11T06:39Z",
+ "chosen": {
+  "set_id": "6ac71dc8-7f86-60c5-e053-2a91aa0a2a7e",
+  "id": "1a8b85ac-ef99-e207-e063-6394a90a80f1",
+  "effective_time": "20240610",
+  "version": "4",
+  "brand_name": [
+   "Cephalexin"
+  ],
+  "generic_name": [
+   "CEPHALEXIN"
+  ],
+  "manufacturer_name": [
+   "NuCare Pharmaceuticals,Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA065229"
+  ],
+  "n_sections": 29
+ },
+ "candidates": [
+  {
+   "set_id": "2506895d-f3e0-4be9-95cb-7a6fd44de46d",
+   "id": "5f9d95bf-7a6e-901b-e063-6394a90a8bf1",
+   "effective_time": "20261106",
+   "version": "13",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065253"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "681c235f-6dee-1401-e053-2991aa0addc0",
+   "id": "5eea4e3f-6f15-e56d-e063-6394a90ac093",
+   "effective_time": "20261028",
+   "version": "11",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "73920373-b45d-45d6-b183-d962467dde36",
+   "id": "e419a2a5-304f-4af6-a6c8-c45352028574",
+   "effective_time": "20261019",
+   "version": "21",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "7cbdfa7f-2ea0-48e1-b506-59f58e5685a6",
+   "id": "da5bc2eb-8076-4dee-bca3-47d33121fbb2",
+   "effective_time": "20261019",
+   "version": "21",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "36882c6d-7b6f-41e3-8c54-e3b0073b8c07",
+   "id": "4703ecf1-655c-4ef8-ac07-10ec63c94797",
+   "effective_time": "20261016",
+   "version": "4",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Ascend Laboratories, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218947"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "8499aa5a-49b1-4555-bd27-6177d92b261d",
+   "id": "5de51f5b-d259-fef4-e063-6394a90a8e56",
+   "effective_time": "20261015",
+   "version": "8",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065229"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "4ecf9314-76e2-c270-e063-6294a90ad8db",
+   "id": "5db8f4a6-ffb2-657e-e063-6394a90a21eb",
+   "effective_time": "20261008",
+   "version": "5",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "8e28f049-6110-4473-830f-c494191a7197",
+   "id": "4907dcbb-9c71-4982-9062-84175179b585",
+   "effective_time": "20260915",
+   "version": "19",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065253"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "1716ea1e-40a9-4a23-870b-3c7e3d070095",
+   "id": "5b75a687-9985-e0fe-e063-6394a90ac713",
+   "effective_time": "20260914",
+   "version": "33",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "6c543819-ab98-1dcd-e053-2991aa0a109d",
+   "id": "5b767d80-7e0e-1a46-e063-6294a90a9a52",
+   "effective_time": "20260914",
+   "version": "7",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "5858b90a-a80d-40b4-9275-b89e9121ea42",
+   "id": "0f364531-c5d4-47f1-9b50-cf7dccafa4e9",
+   "effective_time": "20260902",
+   "version": "1",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Teva Pharmaceuticals USA, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062703"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "1d3e6d33-5dc2-498e-8efa-e3c4fca15dff",
+   "id": "dd33d596-c8e5-4438-ab5e-b6deaa3fe809",
+   "effective_time": "20260824",
+   "version": "10",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Lupin Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065229"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "864d2046-b2c8-415c-814b-512bc4901c76",
+   "id": "864d2046-b2c8-415c-814b-512bc4901c76",
+   "effective_time": "20260812",
+   "version": "1",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "3dc725a0-6e4b-45c6-9569-34ef65455845",
+   "id": "587954fd-f3f5-d1f0-e063-6294a90ab1cf",
+   "effective_time": "20260807",
+   "version": "33",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "19307ff0-71de-477b-965d-ea243e5ede3a",
+   "id": "6b743493-0457-465d-9718-3adc7ff97ffc",
+   "effective_time": "20260801",
+   "version": "28",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Teva Pharmaceuticals USA, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062702"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "03f6f6ae-66bc-6819-8ba9-7c9c3fbef90d",
+   "id": "57c64610-7957-082e-e063-6294a90ae472",
+   "effective_time": "20260729",
+   "version": "14",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062713"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "88426cb3-1c0c-439b-9f1a-aa169040c29f",
+   "id": "88426cb3-1c0c-439b-9f1a-aa169040c29f",
+   "effective_time": "20260723",
+   "version": "1",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065253"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "655f38e8-1c4d-4cbc-9f52-bb881f065b2d",
+   "id": "1a37b4f8-8f1f-4aed-9409-6c22716c5b68",
+   "effective_time": "20260721",
+   "version": "2",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213568"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "0384c418-b4d4-4c06-9ed9-13e864b1980b",
+   "id": "6851a735-1997-43c2-97f9-c29d2594291c",
+   "effective_time": "20260716",
+   "version": "101",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "11cfefee-d75e-430c-8817-02dc57de0e88",
+   "id": "d5e84cd0-fef6-4e22-b7a4-debc6b5a1f61",
+   "effective_time": "20260714",
+   "version": "105",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "43ca66ae-2ada-412d-bc5d-f53602f535a5",
+   "id": "df96648c-7aaa-483c-9889-82c473555a74",
+   "effective_time": "20260714",
+   "version": "105",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "5b9b212a-3a3e-4637-b23c-6d66d8cf1171",
+   "id": "5b039ee0-679e-4c16-91f8-3ca8a27eb570",
+   "effective_time": "20260714",
+   "version": "103",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "7508351d-69fe-457c-b450-9a2343be2587",
+   "id": "02d13997-666b-4e81-af99-24bbe43356b3",
+   "effective_time": "20260714",
+   "version": "5",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "759c3856-8d3a-4036-926c-8508b573c736",
+   "id": "1ba27c7e-cb99-4a8a-ab61-b4a1ba123c16",
+   "effective_time": "20260714",
+   "version": "8",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "980b9dd9-cb61-4c4f-81ac-85ee5a7c2497",
+   "id": "049eca18-81ea-4a7a-a1cb-0f8b3567b002",
+   "effective_time": "20260714",
+   "version": "106",
+   "brand_name": [
+    "Cephalexin"
+   ],
+   "generic_name": [
+    "CEPHALEXIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090836"
+   ],
+   "n_sections": 27
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Cephalexin capsules USP is a cephalosporin antibacterial drug indicated for the treatment of the following infections caused by susceptible isolates of designated bacteria: Respiratory tract infection ( 1.1 ) Otitis media ( 1.2 ) Skin and skin structure infections ( 1.3 ) Bone infections ( 1.4 ) Genitourinary tract infections ( 1.5 ) To reduce the development of drug-resistant bacteria and maintain the effectiveness of cephalexin capsules USP and other antibacterial drugs, cephalexin capsules USP should be used only to treat infections that are proven or strongly suspected to be caused by bacteria. ( 1.6 ) 1.1 Respiratory Tract Infections Cephalexin capsules USP are indicated for the treatment of respiratory tract infections caused by susceptible isolates of Streptococcus pneumoniae and Streptococcus pyogenes . 1.2 Otitis Media Cephalexin capsules USP are indicated for the treatment of otitis media caused by susceptible isolates of Streptococcus pneumoniae , Haemophilus influenzae , Staphylococcus aureus , Streptococcus pyogenes , and Moraxella catarrhalis . 1.3 Skin and Skin Structure Infections Cephalexin capsules USP are indicated for the treatment of skin and skin structure infections caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus and Streptococcus pyogenes . 1.4 Bone Infections Cephalexin capsules USP are indicated for the treatment of bone infections caused by susceptible isolates of Staphylococcus aureus and Proteus mirabilis . 1.5 Genitourinary Tract Infections Cephalexin capsules USP are indicated for the treatment of genitourinary tract infections, including acute prostatitis, caused by susceptible isolates of Escherichia coli , Proteus mirabilis , and Klebsiella pneumoniae . 1.6 Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of cephalexin capsules USP and other antibacterial drugs, cephalexin capsules USP should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information is available, this information should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Adults and patients at least 15 years of age The usual dose is 250 mg every 6 hours, but a dose of 500 mg every 12 hours may be administered ( 2.1 ) Pediatric patients (over 1 year of age) Otitis media: 75 to 100 mg/kg in equally divided doses every 6 hours ( 2.2 ) All other indications: 25 to 50 mg/kg given in equally divided doses ( 2.2 ) In severe infections: 50 to 100 mg/kg may be administered in equally divided doses ( 2.2 ) Duration of therapy ranges from 7 to 14 days depending on the infection type and severity. ( 2 ) Dosage adjustment is required in patients with severe and end stage renal disease (ESRD) defined as creatinine clearance below 30 mL/min. ( 2.3 ) 2.1 Adults and Pediatric Patients At Least 15 years of Age The usual dose of oral cephalexin capsules USP is 250 mg every 6 hours, but a dose of 500 mg every 12 hours may be administered. Treatment is administered for 7 to 14 days. For more severe infections larger doses of oral cephalexin capsules USP may be needed, up to 4 grams daily in two to four equally divided doses. 2.2 Pediatric Patients (Over 1 year of Age) The recommended total daily dose of oral cephalexin capsules USP for pediatric patients is 25 to 50 mg/kg given in equally divided doses for 7 to 14 days. In the treatment of β-hemolytic streptococcal infections, duration of at least 10 days is recommended. In severe infections, a total daily dose of 50 to 100 mg/kg may be administered in equally divided doses. For the treatment of otitis media, the recommended daily dose is 75 to 100 mg/kg given in equally divided doses. 2.3 Dosage Adjustments in Adult and Pediatric Patients At Least 15 years of Age with Renal Impairment Administer the following dosing regimens for cephalexin capsules USP to patients with impaired renal function [see WARNINGS AND PRECAUTIONS ( 5.4 ) and USE IN SPECIFIC POPULATIONS ( 8.6 )]. Table1. Recommended Dose Regimen for Patients with Renal Impairment Renal function Dose regimen recommendation Creatinine clearance ≥ 60 mL/min No dose adjustment Creatinine clearance 30 to 59 mL/min No dose adjustment; maximum daily dose should not exceed 1 g Creatinine clearance 15 to 29 mL/min 250 mg, every 8 hours or every 12 hours Creatinine clearance 5 to 14 mL/min not yet on dialysis There is insufficient information to make dose adjustment recommendations in patients on hemodialysis 250 mg, every 24 hours Creatinine clearance 1 to 4 mL/min not yet on dialysis 250 mg, every 48 hours or every 60 hours"
+  ],
+  "dosage_and_administration_table": [
+   "<table ID=\"ID222\" width=\"100%\"><col width=\"39%\"/><col width=\"61%\"/><tbody><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Adults and  patients at least  15 years of age  </td><td align=\"justify\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">The usual dose is 250 mg every 6 hours, but a dose of 500 mg every 12 hours may be administered ( <linkHtml href=\"#ID103\">2.1</linkHtml>) </td></tr><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Pediatric patients  (over 1 year of age)  </td><td align=\"justify\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Otitis media: 75 to 100 mg/kg in equally divided doses every 6 hours ( <linkHtml href=\"#ID105\">2.2</linkHtml>) All other indications: 25 to 50 mg/kg given in equally divided doses ( <linkHtml href=\"#ID105\">2.2</linkHtml>) In severe infections: 50 to 100 mg/kg may be administered in equally divided doses ( <linkHtml href=\"#ID105\">2.2</linkHtml>) </td></tr></tbody></table>",
+   "<table ID=\"ID109\" width=\"100%\"><caption>Table1. Recommended Dose Regimen for Patients with Renal Impairment</caption><col width=\"50%\"/><col width=\"50%\"/><tbody><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\"><content styleCode=\"bold\">Renal </content><content styleCode=\"bold\">function</content><content styleCode=\"bold\"> </content></td><td align=\"center\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\"><content styleCode=\"bold\">Dose </content><content styleCode=\"bold\">regimen </content><content styleCode=\"bold\">recommendation</content><content styleCode=\"bold\"> </content></td></tr><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Creatinine clearance &#x2265; 60 mL/min  </td><td align=\"center\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">No dose adjustment  </td></tr><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Creatinine clearance 30 to 59 mL/min  </td><td align=\"center\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">No dose adjustment; maximum daily dose should not exceed 1 g  </td></tr><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Creatinine clearance 15 to 29 mL/min  </td><td align=\"center\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">250 mg, every 8 hours or every 12 hours  </td></tr><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Creatinine clearance 5 to 14 mL/min not yet on dialysis <footnote ID=\"ID109_1\">There is insufficient information to make dose adjustment recommendations in patients on hemodialysis</footnote> </td><td align=\"center\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">250 mg, every 24 hours  </td></tr><tr><td align=\"left\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">Creatinine clearance 1 to 4 mL/min not yet on dialysis <footnoteRef IDREF=\"ID109_1\"/> </td><td align=\"center\" styleCode=\" Lrule Rrule Botrule Toprule\" valign=\"top\">250 mg, every 48 hours or every 60 hours  </td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Capsules: 250 mg and 500 mg ( 3 ) 250 mg Capsules A white to yellowish-white granular powder filled into size \"2\" capsules (white and dark green) that are imprinted with \"250\" on dark green cap, and \"LUPIN\" on the white body in edible black ink. 500 mg Capsules A white to yellowish-white granular powder filled into size \"0\" capsules (light green and dark green) that are imprinted with \"500\" on the dark green cap, and \"LUPIN\" on the light green body in edible black ink."
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Patients with known hypersensitivity to cephalexin or other members of the cephalosporin class of antibacterial drugs. ( 4 ) Cephalexin capsules are contraindicated in patients with known hypersensitivity to cephalexin or other members of the cephalosporin class of antibacterial drugs."
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Serious hypersensitivity (anaphylactic) reactions : Prior to use, inquire regarding history of hypersensitivity to beta-lactam antibacterial drugs. Discontinue the drug if signs or symptoms of an allergic reaction occur and institute supportive measures. ( 5.1 ) Clostridium difficile -associated diarrhea (CDAD) : Evaluate if diarrhea occurs. ( 5.2 ) Direct Coomb's Test Seroconversion : If anemia develops during or after cephalexin therapy, evaluate for drug-induced hemolytic anemia.( 5.3 ) Seizure Potential : Use lower dose in patients with renal impairment. ( 5.4 ) 5.1 Hypersensitivity Reactions Allergic reactions in the form of rash, urticaria, angioedema, anaphylaxis, erythema multiforme, Stevens-Johnson syndrome, or toxic epidermal necrolysis have been reported with the use of cephalexin. Before therapy with cephalexin capsules is instituted, inquire whether the patient has a history of hypersensitivity reactions to cephalexin, cephalosporins, penicillins, or other drugs. Cross-hypersensitivity among beta-lactam antibacterial drugs may occur in up to 10% of patients with a history of penicillin allergy. If an allergic reaction to cephalexin occurs, discontinue the drug and institute appropriate treatment. 5.2 Clostridium difficile-Associated Diarrhea Clostridium difficile -associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cephalexin, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B, which contribute to the development of CDAD. Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. 5.3 Direct Coombs’ Test Seroconversion Positive direct Coombs' tests have been reported during treatment with the cephalosporin antibacterial drugs including cephalexin. Acute intravascular hemolysis induced by cephalexin therapy has been reported. If anemia develops during or after cephalexin therapy, perform a diagnostic work-up for drug-induced hemolytic anemia, discontinue cephalexin and institute appropriate therapy. 5.4 Seizure Potential Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced. If seizures occur, discontinue cephalexin. Anticonvulsant therapy can be given if clinically indicated. 5.5 Prolonged Prothrombin Time Cephalosporins may be associated with prolonged prothrombin time. Those at risk include patients with renal or hepatic impairment, or poor nutritional state, as well as patients receiving a protracted course of antibacterial therapy, and patients receiving anticoagulant therapy. Monitor prothrombin time in patients at risk and manage as indicated. 5.6 Development of Drug-Resistant Bacteria Prescribing cephalexin capsules in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. Prolonged use of cephalexin may result in the overgrowth of nonsusceptible organisms. Careful observation of the patient is essential. If superinfection occurs during therapy, appropriate measures should be taken."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The most common adverse reactions associated with cephalexin include diarrhea, nausea, vomiting, dyspepsia and abdominal pain. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Lupin Pharmaceuticals, Inc. at 1-800-399-2561 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. The following serious events are described in greater detail in the Warning and Precautions section: Hypersensitivity reactions [see WARNING AND PRECAUTIONS ( 5.1 )] Clostridium difficile -associated diarrhea [see WARNINGS AND PRECAUTIONS ( 5.2 )] Direct Coombs' Test Seroconversion [see WARNINGS AND PRECAUTIONS ( 5.3 )] Seizure Potential [see WARNINGS AND PRECAUTIONS ( 5.4 )] Effect on Prothrombin Activity [see WARNINGS AND PRECAUTIONS ( 5.5 )] Development of Drug-Resistant Bacteria [see WARNINGS AND PRECAUTIONS ( 5.6 )] 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials, the most frequent adverse reaction was diarrhea. Nausea and vomiting, dyspepsia, gastritis, and abdominal pain have also occurred. As with penicillins and other cephalosporins, transient hepatitis and cholestatic jaundice have been reported. Other reactions have included hypersensitivity reactions, genital and anal pruritus, genital candidiasis, vaginitis and vaginal discharge, dizziness, fatigue, headache, agitation, confusion, hallucinations, arthralgia, arthritis, and joint disorder. Reversible interstitial nephritis has been reported. Eosinophilia, neutropenia, thrombocytopenia, hemolytic anemia, and slight elevations in aspartate transaminase (AST) and alanine transaminase (ALT) have been reported. In addition to the adverse reactions listed above that have been observed in patients treated with cephalexin, the following adverse reactions and other altered laboratory tests have been reported for cephalosporin class antibacterial drugs: Other Adverse Reactions Fever, colitis, aplastic anemia, hemorrhage, renal dysfunction, and toxic nephropathy. Altered Laboratory Tests Prolonged prothrombin time, increased blood urea nitrogen (BUN), increased creatinine, elevated alkaline phosphatase, elevated bilirubin, elevated lactate dehydrogenase (LDH), pancytopenia, leukopenia, and agranulocytosis."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Metformin: increased metformin concentrations. Monitor for hypoglycemia. ( 7.1 ) Probenecid- The renal excretion of cephalexin is inhibited by probenecid. Co-administration of probenecid with cephalexin is not recommended. ( 7.2 ) Administration of cephalexin may result in a false-positive reaction for glucose in the urine. ( 7.3 ) 7.1 Metformin Administration of cephalexin with metformin results in increased plasma metformin concentrations and decreased renal clearance of metformin. Careful patient monitoring and dose adjustment of metformin is recommended in patients concomitantly taking cephalexin and metformin [see CLINICAL PHARMACOLOGY ( 12.3 ]. 7.2 Probenecid The renal excretion of cephalexin is inhibited by probenecid. Co-administration of probenecid with cephalexin capsules is not recommended. 7.3 Interaction with Laboratory or Diagnostic Testing A false-positive reaction may occur when testing for the presence of glucose in the urine using Benedict's solution or Fehling's solution."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Pregnancy Category B There are no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Reproduction studies have been performed on mice and rats using oral doses of cephalexin monohydrate 0.6 and 1.5 times the maximum daily human dose (66 mg/kg/day) based upon body surface area basis, and have revealed no evidence of impaired fertility or harm to the fetus. 8.3 Nursing Mothers Cephalexin is excreted in human milk. Caution should be exercised when cephalexin capsules are administered to a nursing woman. 8.4 Pediatric Use The safety and effectiveness of cephalexin capsules in pediatric patients was established in clinical trials for the dosages described in the dosage and administration section [see DOSAGE AND ADMINISTRATION ( 2.2 )] 8.5 Geriatric Use Of the 701 subjects in 3 published clinical studies of cephalexin, 433 (62%) were 65 and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients. This drug is substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection [see WARNINGS AND PRECAUTIONS ( 5.4 )]. 8.6 Renal Impairment Cephalexin capsules should be administered with caution in the presence of impaired renal function (creatinine clearance < 30 mL/min, with or without dialysis). Under such conditions, careful clinical observation and laboratory studies renal function monitoring should be conducted because safe dosage may be lower than that usually recommended [see DOSAGE AND ADMINISTRATION ( 2.3 )]."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Category B There are no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Reproduction studies have been performed on mice and rats using oral doses of cephalexin monohydrate 0.6 and 1.5 times the maximum daily human dose (66 mg/kg/day) based upon body surface area basis, and have revealed no evidence of impaired fertility or harm to the fetus."
+  ],
+  "nursing_mothers": [
+   "8.3 Nursing Mothers Cephalexin is excreted in human milk. Caution should be exercised when cephalexin capsules are administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of cephalexin capsules in pediatric patients was established in clinical trials for the dosages described in the dosage and administration section [see DOSAGE AND ADMINISTRATION ( 2.2 )]"
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Of the 701 subjects in 3 published clinical studies of cephalexin, 433 (62%) were 65 and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients. This drug is substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection [see WARNINGS AND PRECAUTIONS ( 5.4 )]."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Symptoms of oral overdose may include nausea, vomiting, epigastric distress, diarrhea, and hematuria. In the event of an overdose, institute general supportive measures. Forced diuresis, peritoneal dialysis, hemodialysis, or charcoal hemoperfusion have not been established as beneficial for an overdose of cephalexin."
+  ],
+  "description": [
+   "11 DESCRIPTION Cephalexin capsules USP is a semisynthetic cephalosporin antibacterial drug intended for oral administration. It is 7- (D-a-Amino-a-phenylacetamido)-3-methyl-3-cephem-4-carboxylic acid monohydrate. Cephalexin has the molecular formula C 16 H 17 N 3 O 4 S•H 2 O and the molecular weight is 365.41. Cephalexin has the following structural formula: Each capsule contains cephalexin USP equivalent to 250 mg, or 500 mg of anhydrous cephalexin. The capsules also contain the following inactive ingredients D&C Yellow 10, FD&C Blue 1, FD&C Green 3, FD&C Yellow 6, ferric oxide black, gelatin, magnesium stearate, microcrystalline cellulose, potassium hydroxide, propylene glycol, shellac and titanium dioxide. image-01"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mehanism of Action Cephalexin is a cephalosporin antibacterial drug [see Microbiology ( 12.4 )]. 12.3 Pharmacokinetics Absorption Cephalexin is acid stable and may be given without regard to meals. Following doses of 250 mg, 500 mg, and 1 g, average peak serum levels of approximately 9, 18, and 32 mcg/mL, respectively, were obtained at 1 hour. Serum levels were detectable 6 hours after administration (at a level of detection of 0.2 mcg/mL). Distribution Cephalexin is approximately 10% to 15% bound to plasma proteins. Excretion Cephalexin is excreted in the urine by glomerular filtration and tubular secretion. Studies showed that over 90% of the drug was excreted unchanged in the urine within 8 hours. During this period, peak urine concentrations following the 250 mg, 500 mg, and 1 g doses were approximately 1000, 2200, and 5000 mcg/mL respectively. Drug Interactions In healthy subjects given single 500 mg doses of cephalexin and metformin, plasma metformin mean C max and AUC increased by an average of 34% and 24%, respectively, and metformin mean renal clearance decreased by 14%. No information is available about the interaction of cephalexin and metformin following multiple doses of either drug. 12.4 Microbiology Mechanism of Action Cephalexin is a bactericidal agent that acts by the inhibition of bacterial cell-wall synthesis. Resistance Methicillin-resistant staphylococci and most isolates of enterococci are resistant to cephalexin. Cephalexin is not active against most isolates of Enterobacter spp ., Morganella morganii , and Proteus vulgaris . Cephalexin has no activity against Pseudomonas spp., or Acinetobacter calcoaceticus . Penicillin-resistant Streptococcus pneumoniae is usually cross-resistant to beta-lactam antibacterial drugs. Antimicrobial Activity Cephalexin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections [see INDICATIONS AND USAGE ( 1 )]. Gram-Positive Bacteria: Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus pneumoniae (penicillin-susceptible isolates) Streptococcus pyogenes Gram-Negative Bacteria: Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis Susceptibility Tests Methods When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens. These reports should aid the physician in selecting an antibacterial drug product for treatment. In cases of uncomplicated urinary tract infection only, susceptibility of E. coli , K. pneumoniae , and P. mirabilis to cephalexin may be inferred by testing cefazolin 2 . Dilution Techniques Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs). These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds. The MICs should be determined using a standardized test methods (broth or agar) 1,2 . Diffusion Techniques Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds. The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds. The zone size should be determined using a standardized test method 2,3 . A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection. A report of Intermediate (I) indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated. This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used. This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation. A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected. Quality Control Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test 1,2,3, ."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mehanism of Action Cephalexin is a cephalosporin antibacterial drug [see Microbiology ( 12.4 )]."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Cephalexin is acid stable and may be given without regard to meals. Following doses of 250 mg, 500 mg, and 1 g, average peak serum levels of approximately 9, 18, and 32 mcg/mL, respectively, were obtained at 1 hour. Serum levels were detectable 6 hours after administration (at a level of detection of 0.2 mcg/mL). Distribution Cephalexin is approximately 10% to 15% bound to plasma proteins. Excretion Cephalexin is excreted in the urine by glomerular filtration and tubular secretion. Studies showed that over 90% of the drug was excreted unchanged in the urine within 8 hours. During this period, peak urine concentrations following the 250 mg, 500 mg, and 1 g doses were approximately 1000, 2200, and 5000 mcg/mL respectively. Drug Interactions In healthy subjects given single 500 mg doses of cephalexin and metformin, plasma metformin mean C max and AUC increased by an average of 34% and 24%, respectively, and metformin mean renal clearance decreased by 14%. No information is available about the interaction of cephalexin and metformin following multiple doses of either drug."
+  ],
+  "microbiology": [
+   "12.4 Microbiology Mechanism of Action Cephalexin is a bactericidal agent that acts by the inhibition of bacterial cell-wall synthesis. Resistance Methicillin-resistant staphylococci and most isolates of enterococci are resistant to cephalexin. Cephalexin is not active against most isolates of Enterobacter spp ., Morganella morganii , and Proteus vulgaris . Cephalexin has no activity against Pseudomonas spp., or Acinetobacter calcoaceticus . Penicillin-resistant Streptococcus pneumoniae is usually cross-resistant to beta-lactam antibacterial drugs. Antimicrobial Activity Cephalexin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections [see INDICATIONS AND USAGE ( 1 )]. Gram-Positive Bacteria: Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus pneumoniae (penicillin-susceptible isolates) Streptococcus pyogenes Gram-Negative Bacteria: Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis Susceptibility Tests Methods When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens. These reports should aid the physician in selecting an antibacterial drug product for treatment. In cases of uncomplicated urinary tract infection only, susceptibility of E. coli , K. pneumoniae , and P. mirabilis to cephalexin may be inferred by testing cefazolin 2 . Dilution Techniques Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs). These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds. The MICs should be determined using a standardized test methods (broth or agar) 1,2 . Diffusion Techniques Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds. The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds. The zone size should be determined using a standardized test method 2,3 . A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection. A report of Intermediate (I) indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated. This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used. This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation. A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected. Quality Control Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test 1,2,3, ."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Lifetime studies in animals have not been performed to evaluate the carcinogenic potential of cephalexin. Tests to determine the mutagenic potential of cephalexin have not been performed. In male and female rats, fertility and reproductive performance were not affected by cephalexin oral doses up to 1.5 times the highest recommended human dose based upon body surface area."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Lifetime studies in animals have not been performed to evaluate the carcinogenic potential of cephalexin. Tests to determine the mutagenic potential of cephalexin have not been performed. In male and female rats, fertility and reproductive performance were not affected by cephalexin oral doses up to 1.5 times the highest recommended human dose based upon body surface area."
+  ],
+  "references": [
+   "15 REFERENCES Clinical and Laboratory Standards Institute (CLSI). Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Tenth Edition. CLSI document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015. Clinical and Laboratory Standards Institute (CLSI). Performance Standards for Antimicrobials Susceptibility Tests; Twenty-Fifth Informational Supplement. CLSI document M100-S25, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015. Clinical and Laboratory Standards Institute (CLSI). Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard - Twelfth Edition. CLSI document M02-A12, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 500 mg Capsules NDC 68071-4406-4 BOTTLES OF 14 NDC 68071-4406-7 BOTTLES OF 40 Cephalexin capsules USP should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Dispense in a tight, light-resistant container."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise patients that allergic reactions, including serious allergic reactions, could occur and that serious reactions require immediate treatment. Ask the patient about any previous hypersensitivity reactions to cephalexin capsules, other beta-lactams (including cephalosporins) or other allergens ( 5.1 ) Advise patients that diarrhea is a common problem caused by antibacterial drugs and usually resolves when the drug is discontinued. Sometimes, frequent watery or bloody diarrhea may occur and may be a sign of a more serious intestinal infection. If severe watery or bloody diarrhea develops, advise patients to contact their healthcare provider. Counsel patients that antibacterial drugs including cephalexin capsules, should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When cephalexin capsules are prescribed to treat a bacterial infection, tell patients that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by cephalexin capsules or other antibacterial drugs in the future. Manufactured for: Lupin Pharmaceuticals, Inc. Baltimore, Maryland 21202 United States Manufactured by: Lupin Limited Mandideep (M.P.) - 462046 India Revised: February 2016"
+  ],
+  "set_id": "6ac71dc8-7f86-60c5-e053-2a91aa0a2a7e",
+  "id": "1a8b85ac-ef99-e207-e063-6394a90a80f1",
+  "effective_time": "20240610",
+  "version": "4"
+ }
+}

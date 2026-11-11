@@ -1,0 +1,631 @@
+{
+ "id_es": "isosorbida-dinitrato",
+ "generic_en": "isosorbide dinitrate",
+ "search": "openfda.generic_name.exact:\"ISOSORBIDE DINITRATE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+  "id": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+  "effective_time": "20200302",
+  "version": "1",
+  "brand_name": [
+   "Isosorbide Dinitrate"
+  ],
+  "generic_name": [
+   "ISOSORBIDE DINITRATE"
+  ],
+  "manufacturer_name": [
+   "Oceanside Pharmaceuticals"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA012093"
+  ],
+  "n_sections": 24
+ },
+ "candidates": [
+  {
+   "set_id": "6df6a2fa-c56c-4eb6-a485-c16585420eb0",
+   "id": "90d3efd1-9d17-4bee-967d-30d2d7ba597c",
+   "effective_time": "20260731",
+   "version": "18",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087946",
+    "ANDA086923",
+    "ANDA086925",
+    "ANDA087537"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "3d6164d7-3083-41c5-a6a6-7e144fe29f7d",
+   "id": "8c6493ba-15d0-4340-9547-56ed5b6b6d64",
+   "effective_time": "20260722",
+   "version": "14",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211290"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "5f585259-59ed-4648-b562-164f3746c821",
+   "id": "cba216c7-9a4b-4107-b619-88c5ebd2df2d",
+   "effective_time": "20260519",
+   "version": "11",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088088"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "6c4997e7-9ce6-46a6-a9c1-4bd3d76155eb",
+   "id": "43289136-625e-4671-b4c8-bb523c11b132",
+   "effective_time": "20260313",
+   "version": "7",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088088"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "0e5842f2-74f6-1f02-01bc-07578bd3b393",
+   "id": "4a7f77ca-73e0-4162-e063-6294a90a1418",
+   "effective_time": "20260210",
+   "version": "8",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA086923",
+    "ANDA086925",
+    "ANDA087537"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "7f860fbd-f130-4652-e053-2991aa0a402e",
+   "id": "47e94658-ec5c-4e31-e063-6294a90a80ce",
+   "effective_time": "20260108",
+   "version": "7",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088088"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "829ed058-333f-453c-9f0e-9202e03acf97",
+   "id": "47e09758-8143-8d5f-e063-6394a90a3759",
+   "effective_time": "20260108",
+   "version": "3",
+   "brand_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215723"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "b166eb5b-bad8-4663-9c05-1c43539dab2c",
+   "id": "47a16566-2f2d-7df8-e063-6394a90a9012",
+   "effective_time": "20260105",
+   "version": "3",
+   "brand_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Ltd"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215723"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "f0b9b320-0bf8-4342-b654-135ccb6755c2",
+   "id": "9be99742-a98b-46d3-9447-81b45679fff9",
+   "effective_time": "20251205",
+   "version": "31",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088088"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "5c94ecc0-fcaa-4af3-82c2-ff124f2df3e1",
+   "id": "4133d711-2ce0-0891-e063-6294a90aeaab",
+   "effective_time": "20251015",
+   "version": "10",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA086925",
+    "ANDA087537"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "246c749d-aa28-44ce-8d42-984660afff2a",
+   "id": "be0de7ff-f8d9-472f-a35c-252a2cf16954",
+   "effective_time": "20250821",
+   "version": "5",
+   "brand_name": [
+    "Isosorbide dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Northstar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213057"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "73a1e6c0-71d0-4ba1-bbca-c067479e487d",
+   "id": "d39aa53f-52e2-45c6-93de-150f47e14bbf",
+   "effective_time": "20241008",
+   "version": "102",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211290"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "f1d52e9a-8de1-61db-e053-2a95a90aae50",
+   "id": "224fb831-928b-b275-e063-6394a90ab649",
+   "effective_time": "20240917",
+   "version": "4",
+   "brand_name": [
+    "Isosorbide dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213057"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "16818b32-ee5e-4e07-b848-31e892c4b98a",
+   "id": "60a0c153-add8-44d9-a2f1-4c333d0eb42d",
+   "effective_time": "20240808",
+   "version": "4",
+   "brand_name": [
+    "Isosorbide dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals (USA) Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213057"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "1cf9b6dd-9d4e-4ea1-95ae-e9e46a3d1b20",
+   "id": "cdaba447-a74a-4410-99e9-9c2d5fc76f21",
+   "effective_time": "20240801",
+   "version": "3",
+   "brand_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215723"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "33d14f59-3ae8-4414-b826-06274cf0f3d9",
+   "id": "33d14f59-3ae8-4414-b826-06274cf0f3d9",
+   "effective_time": "20240701",
+   "version": "1",
+   "brand_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215723"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "71fdd147-a987-40b6-9f07-82d56525ceb8",
+   "id": "9c848a4f-2720-4c80-a0be-e49200cb10f9",
+   "effective_time": "20240201",
+   "version": "19",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Sandoz Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA086223",
+    "ANDA086221",
+    "ANDA089367"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5b0db8af-bcf9-458f-b752-420130cba428",
+   "id": "3b64c3fa-5b13-4c53-96e1-221685297680",
+   "effective_time": "20231107",
+   "version": "3",
+   "brand_name": [
+    "Isosorbide dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213057"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "74a7f767-fa2f-4640-be24-34a8a9128217",
+   "id": "e52655b8-2c52-4534-9f86-bb70ebff3321",
+   "effective_time": "20230522",
+   "version": "1",
+   "brand_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215723"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+   "id": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+   "effective_time": "20200302",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide Dinitrate"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "Oceanside Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA012093"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "9498fa14-1614-4a8e-b872-41c11745b01e",
+   "id": "9498fa14-1614-4a8e-b872-41c11745b01e",
+   "effective_time": "20181130",
+   "version": "1",
+   "brand_name": [
+    "Isosorbide"
+   ],
+   "generic_name": [
+    "ISOSORBIDE DINITRATE"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA086067",
+    "ANDA086066",
+    "ANDA088088"
+   ],
+   "n_sections": 24
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Isosorbide dinitrate (ISDN) is 1,4:3,6-dianhydro-D-glucitol 2,5-dinitrate, an organic nitrate whose structural formula is and whose molecular weight is 236.14. The organic nitrates are vasodilators, active on both arteries and veins. Isosorbide dinitrate is a white, crystalline, odorless compound which is stable in air and in solution, has a melting point of 70°C and has an optical rotation of +134° (c=1.0, alcohol, 20°C). Isosorbide dinitrate is freely soluble in organic solvents such as acetone, alcohol, and ether, but is only sparingly soluble in water. Each Isosorbide Dinitrate tablet contains 5 mg or 40 mg of isosorbide dinitrate. The inactive ingredients in 5 mg tablet are magnesium stearate, lactose monohydrate, microcrystalline cellulose and FD&C red 40. The inactive ingredients in 40 mg tablet are magnesium stearate, microcrystalline cellulose, FD&C yellow 6, D&C yellow 10, and FD&C blue. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY The principal pharmacological action of isosorbide dinitrate is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter. Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload). Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload). Dilatation of the coronary arteries also occurs. The relative importance of preload reduction, afterload reduction, and coronary dilatation remains undefined. Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration. This strategy is inappropriate for organic nitrates. Several well-controlled clinical trials have used exercise testing to assess the anti-anginal efficacy of continuously delivered nitrates. In the large majority of these trials, active agents were no more effective than placebo after 24 hours (or less) of continuous therapy. Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed. Only after nitrates have been absent from the body for several hours has their anti-anginal efficacy been restored. Pharmacokinetics Absorption of isosorbide dinitrate after oral dosing is nearly complete, but bioavailability is highly variable (10% to 90%), with extensive first-pass metabolism in the liver. Serum levels reach their maxima about an hour after ingestion. The average bioavailability of ISDN is about 25%; most studies have observed progressive increases in bioavailability during chronic therapy. Once absorbed, the volume of distribution of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so ISDN's half-life in serum is about an hour. Since the clearance exceeds hepatic blood flow, considerable extra hepatic metabolism must also occur. Clearance is affected primarily by denitration to the 2-mononitrate (15% to 25%) and the 5-mononitrate (75% to 85%). Both metabolites have biological activity, especially the 5-mononitrate. With an overall half-life of about 5 hours, the 5-mononitrate is cleared from the serum by denitration to isosorbide, glucuronidation to the 5-mononitrate glucuronide, and denitration/hydration to sorbitol. The 2-mononitrate has been less well studied, but it appears to participate in the same metabolic pathways, with a half-life of about 2 hours. The daily dose-free interval sufficient to avoid tolerance to organic nitrates has not been well defined. Studies of nitroglycerin (an organic nitrate with a very short half-life) have shown that daily dose-free intervals of 10 to 12 hours are usually sufficient to minimize tolerance. Daily dose-free intervals that have succeeded in avoiding tolerance during trials of moderate doses (e.g., 30 mg) of immediate-release ISDN have generally been somewhat longer (at least 14 hours), but this is consistent with the longer half-lives of ISDN and its active metabolites. Few well-controlled clinical trials of organic nitrates have been designed to detect rebound or withdrawal effects. In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of the daily dose-free interval than the parallel group receiving placebo. The incidence, magnitude, and clinical significance of similar phenomena in patients receiving ISDN have not been studied. Clinical Trials In clinical trials, immediate-release oral isosorbide dinitrate has been administered in a variety of regimens, with total daily doses ranging from 30 mg to 480 mg. Controlled trials of single oral doses of isosorbide dinitrate have demonstrated effective reductions in exercise-related angina for up to 8 hours. Anti-anginal activity is present about 1 hour after dosing. Most controlled trials of multiple-dose oral ISDN taken every 12 hours (or more frequently) for several weeks have shown statistically significant anti-anginal efficacy for only 2 hours after dosing. Once-daily regimens, and regimens with one daily dose-free interval of at least 14 hours (e.g., a regimen providing doses at 8 am, 2 pm, and 6 pm), have shown efficacy after the first dose of each day that was similar to that shown in the single-dose studies cited above. The effects of the second and later doses have been smaller and shorter-lasting than the effect of the first. From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from isosorbide dinitrate is about 12 hours. No dosing regimen for isosorbide dinitrate, however, has ever actually been shown to achieve this duration of effect. One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 8 am, 1 pm, and 6 pm for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24-hour period."
+  ],
+  "clinical_studies": [
+   "Clinical Trials In clinical trials, immediate-release oral isosorbide dinitrate has been administered in a variety of regimens, with total daily doses ranging from 30 mg to 480 mg. Controlled trials of single oral doses of isosorbide dinitrate have demonstrated effective reductions in exercise-related angina for up to 8 hours. Anti-anginal activity is present about 1 hour after dosing. Most controlled trials of multiple-dose oral ISDN taken every 12 hours (or more frequently) for several weeks have shown statistically significant anti-anginal efficacy for only 2 hours after dosing. Once-daily regimens, and regimens with one daily dose-free interval of at least 14 hours (e.g., a regimen providing doses at 8 am, 2 pm, and 6 pm), have shown efficacy after the first dose of each day that was similar to that shown in the single-dose studies cited above. The effects of the second and later doses have been smaller and shorter-lasting than the effect of the first. From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from isosorbide dinitrate is about 12 hours. No dosing regimen for isosorbide dinitrate, however, has ever actually been shown to achieve this duration of effect. One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 8 am, 1 pm, and 6 pm for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24-hour period."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Isosorbide Dinitrate tablets are indicated for the prevention of angina pectoris due to coronary artery disease. The onset of action of immediate-release oral isosorbide dinitrate is not sufficiently rapid for this product to be useful in aborting an acute anginal episode."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Isosorbide Dinitrate is contraindicated in patients who are allergic to isosorbide dinitrate or any of its ingredients. Do not use Isosorbide Dinitrate in patients who are taking certain drugs for erectile dysfunction (phosphodiesterase inhibitors), such as sildenafil, tadalafil, or vardenafil. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia. Do not use Isosorbide Dinitrate in patients who are taking the soluble guanylate cyclase stimulator riociguat. Concomitant use can cause hypotension."
+  ],
+  "warnings": [
+   "WARNINGS Amplification of the vasodilatory effects of Isosorbide Dinitrate by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. The benefits of immediate-release oral isosorbide dinitrate in patients with acute myocardial infarction or congestive heart failure have not been established. If one elects to use isosorbide dinitrate in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia. Because the effects of oral isosorbide dinitrate are so difficult to terminate rapidly, this formulation is not recommended in these settings."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide dinitrate. This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by isosorbide dinitrate may be accompanied by paradoxical bradycardia and increased angina pectoris. Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. As tolerance to isosorbide dinitrate develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted. Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day. During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance. The importance of these observations to the routine, clinical use of immediate-release oral isosorbide dinitrate is not known. In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence. Information for Patients Patients should be told that the anti-anginal efficacy of isosorbide dinitrate is strongly related to its dosing regimen, so the prescribed schedule of dosing should be followed carefully. In particular, daily headaches sometimes accompany treatment with isosorbide dinitrate. In patients who get these headaches, the headaches are a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide dinitrate, since loss of headache may be associated with simultaneous loss of anti-anginal efficacy. Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide dinitrate-induced headaches with no deleterious effect on isosorbide dinitrate's anti-anginal efficacy. Treatment with isosorbide dinitrate may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol. Drug Interactions The vasodilating effects of isosorbide dinitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Concomitant use of Isosorbide Dinitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS ). Concomitant use of Isosorbide Dinitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS ). Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate. In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day. Pregnancy At oral doses 35 and 150 times the maximum recommended human daily dose, isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits. There are no adequate, well-controlled studies in pregnant women. Isosorbide dinitrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Nursing Mothers It is not known whether isosorbide dinitrate is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when isosorbide dinitrate is administered to a nursing woman. Pediatric Use Safety and effectiveness in pediatric patients have not been established. Geriatric Use Clinical studies of Isosorbide Dinitrate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "general_precautions": [
+   "General Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide dinitrate. This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by isosorbide dinitrate may be accompanied by paradoxical bradycardia and increased angina pectoris. Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. As tolerance to isosorbide dinitrate develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted. Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day. During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance. The importance of these observations to the routine, clinical use of immediate-release oral isosorbide dinitrate is not known. In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence."
+  ],
+  "information_for_patients": [
+   "Information for Patients Patients should be told that the anti-anginal efficacy of isosorbide dinitrate is strongly related to its dosing regimen, so the prescribed schedule of dosing should be followed carefully. In particular, daily headaches sometimes accompany treatment with isosorbide dinitrate. In patients who get these headaches, the headaches are a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide dinitrate, since loss of headache may be associated with simultaneous loss of anti-anginal efficacy. Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide dinitrate-induced headaches with no deleterious effect on isosorbide dinitrate's anti-anginal efficacy. Treatment with isosorbide dinitrate may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol."
+  ],
+  "drug_interactions": [
+   "Drug Interactions The vasodilating effects of isosorbide dinitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Concomitant use of Isosorbide Dinitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS ). Concomitant use of Isosorbide Dinitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS )."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate. In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day."
+  ],
+  "pregnancy": [
+   "Pregnancy At oral doses 35 and 150 times the maximum recommended human daily dose, isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits. There are no adequate, well-controlled studies in pregnant women. Isosorbide dinitrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether isosorbide dinitrate is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when isosorbide dinitrate is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of Isosorbide Dinitrate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Adverse reactions to isosorbide dinitrate are generally dose-related, and almost all of these reactions are the result of isosorbide dinitrate's activity as a vasodilator. Headache, which may be severe, is the most commonly reported side effect. Headache may be recurrent with each daily dose, especially at higher doses. Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur. Hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy. Syncope, crescendo angina, and rebound hypertension have been reported but are uncommon. Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients. Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE ). Data are not available to allow estimation of the frequency of adverse reactions during treatment with Isosorbide Dinitrate tablets. To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Hemodynamic Effects The ill effects of isosorbide dinitrate overdose are generally the results of isosorbide dinitrate's capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension. These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death. Laboratory determinations of serum levels of isosorbide dinitrate and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of isosorbide dinitrate overdose. There are no data suggesting what dose of isosorbide dinitrate is likely to be life-threatening in humans. In rats, the median acute lethal dose (LD 50 ) was found to be 1100 mg/kg. No data are available to suggest physiological maneuvers (e.g., maneuvers to change the pH of the urine) that might accelerate elimination of isosorbide dinitrate and its active metabolites. Similarly, it is not known which, if any, of these substances can usefully be removed from the body by hemodialysis. No specific antagonist to the vasodilator effects of isosorbide dinitrate is known, and no intervention has been subject to controlled studies as a therapy for isosorbide dinitrate overdose. Because the hypotension associated with isosorbide dinitrate overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume. Passive elevation of the patient's legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary. The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good. In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard. Treatment of isosorbide dinitrate overdose in these patients may be subtle and difficult, and invasive monitoring may be required. Methemoglobinemia Nitrate ions liberated during metabolism of isosorbide dinitrate can oxidize hemoglobin into methemoglobin. Even in patients totally without cytochrome b 5 reductase activity, however, and even assuming that the nitrate moieties of isosorbide dinitrate are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of isosorbide dinitrate should be required before any of these patients manifests clinically significant (≥10%) methemoglobinemia. In patients with normal reductase function, significant production of methemoglobin should require even larger doses of isosorbide dinitrate. In one study in which 36 patients received 2 to 4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr (equivalent, in total administered dose of nitrate ions, to 4.8 to 6.9 mg of bioavailable isosorbide dinitrate per hour), the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo. Notwithstanding these observations, there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates. None of the affected patients had been thought to be unusually susceptible. Methemoglobin levels are available from most clinical laboratories. The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO 2 . Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air. When methemoglobinemia is diagnosed, the treatment of choice is methylene blue, 1 to 2 mg/kg intravenously."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION As noted under CLINICAL PHARMACOLOGY , multiple-dose studies with ISDN and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. Every dosing regimen for Isosorbide Dinitrate tablets must provide a daily dose-free interval to minimize the development of this tolerance. With immediate-release ISDN, it appears that one daily dose-free interval must be at least 14 hours long. As also noted under CLINICAL PHARMACOLOGY , the effects of the second and later doses have been smaller and shorter-lasting than the effects of the first. Large controlled studies with other nitrates suggest that no dosing regimen with Isosorbide Dinitrate tablets should be expected to provide more than about 12 hours of continuous anti-anginal efficacy per day. As with all titratable drugs, it is important to administer the minimum dose which produces the desired clinical effect. The usual starting dose of Isosorbide Dinitrate is 5 mg to 20 mg two or three times daily. For maintenance therapy, 10 mg to 40 mg two or three times daily is recommended. Some patients may require higher doses. A daily dose-free interval of at least 14 hours is advisable to minimize tolerance. The optimal interval will vary with the individual patient, dose and regimen."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Isosorbide Dinitrate tablets are available as follows: 5 mg, round, pink tablets imprinted \"BPI 152\" on one side and deeply scored on reverse side: NDC 68682-193-01, bottles of 100. 40 mg, round, light green tablets imprinted \"BPI 192\" on one side and deeply scored on reverse side: NDC 68682-192-01, bottles of 100. Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature]. Protect from light. Keep bottles tightly closed. Dispense in a light-resistant, tight container. Keep out of reach of children Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada © 2020 Bausch Health Companies Inc. or its affiliates 9704300 20002849 Rev. 03/2020"
+  ],
+  "set_id": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+  "id": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+  "effective_time": "20200302",
+  "version": "1"
+ }
+}

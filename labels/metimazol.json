@@ -1,0 +1,721 @@
+{
+ "id_es": "metimazol",
+ "generic_en": "methimazole",
+ "search": "openfda.generic_name.exact:\"METHIMAZOLE\"",
+ "downloaded": "2026-11-11T06:43Z",
+ "chosen": {
+  "set_id": "06bb4bcc-5e47-48b6-a76c-648f846704e8",
+  "id": "a40bb643-790d-462c-a3bf-ba4943a24075",
+  "effective_time": "20260820",
+  "version": "2",
+  "brand_name": [
+   "Methimazole"
+  ],
+  "generic_name": [
+   "METHIMAZOLE"
+  ],
+  "manufacturer_name": [
+   "AiPing Pharmaceutical, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA040547"
+  ],
+  "n_sections": 24
+ },
+ "candidates": [
+  {
+   "set_id": "f69edfa9-0efb-4fe8-aeab-50f7baeebb6a",
+   "id": "5b0f22cc-34dc-605d-e063-6294a90ae719",
+   "effective_time": "20260909",
+   "version": "1",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "2c6a9c70-4ed6-4f05-bc3d-e8e7aca57c2b",
+   "id": "5a8130eb-14e5-83b0-e063-6294a90a6bc5",
+   "effective_time": "20260902",
+   "version": "14",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040734"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "06bb4bcc-5e47-48b6-a76c-648f846704e8",
+   "id": "a40bb643-790d-462c-a3bf-ba4943a24075",
+   "effective_time": "20260820",
+   "version": "2",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "AiPing Pharmaceutical, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040547"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "b53f84ac-4263-478c-883d-aca7ab44fef5",
+   "id": "5605c866-0ad9-3e8a-e063-6394a90ab1b9",
+   "effective_time": "20260707",
+   "version": "16",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040734"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "244d76f1-98e6-4305-8768-b104f6a4be07",
+   "id": "dd549f3b-3a40-4d11-8278-bf6f1f368920",
+   "effective_time": "20260623",
+   "version": "5",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040734"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "c1e6f1ee-238c-466e-b223-3c3f63dac9ed",
+   "id": "229005d8-87e5-44fd-a1c9-2c690c5cfff0",
+   "effective_time": "20260623",
+   "version": "5",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040734"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "545381b6-e9e9-de1e-e063-6294a90a9a97",
+   "id": "5453cbc0-5baf-f126-e063-6394a90a7477",
+   "effective_time": "20260615",
+   "version": "1",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040547"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "5b25e346-11b6-44ed-89f9-ab927232ac19",
+   "id": "4cb57dfc-1ebf-8510-e063-6294a90a31fc",
+   "effective_time": "20260310",
+   "version": "4",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040411"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "253088bf-00f2-489b-984a-682ef9d89e90",
+   "id": "253088bf-00f2-489b-984a-682ef9d89e90",
+   "effective_time": "20260128",
+   "version": "1",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202068"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "490f04db-cb51-bde7-e063-6394a90a5546",
+   "id": "490f045d-bcd2-3eb2-e063-6294a90a6d59",
+   "effective_time": "20260123",
+   "version": "1",
+   "brand_name": [
+    "methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218830"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "490f168f-c703-5497-e063-6294a90ade87",
+   "id": "490f163b-b151-d74b-e063-6394a90ad438",
+   "effective_time": "20260123",
+   "version": "1",
+   "brand_name": [
+    "methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218830"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "3f65518b-33da-48d8-9af2-2a750400b401",
+   "id": "f53c7b45-95cd-4976-9cdc-7cd5af309b10",
+   "effective_time": "20251203",
+   "version": "100",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "afa2cecc-3fef-4372-8d1e-6bbb06d41b23",
+   "id": "e86f8c56-657d-40ba-825b-fb50e32fe52c",
+   "effective_time": "20251203",
+   "version": "100",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "1f6970fb-a549-47b0-b812-48109521d713",
+   "id": "beff0a7e-3008-4ca1-ae01-3c3cf1a29785",
+   "effective_time": "20251106",
+   "version": "100",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "d05f7950-84cd-413f-9256-4c0977818d25",
+   "id": "bed689c9-83b6-4803-87fd-2e8eb8dff61b",
+   "effective_time": "20251106",
+   "version": "100",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "4116774b-6c2b-2c74-e063-6394a90a4955",
+   "id": "41168239-a16a-40e0-e063-6294a90a5c58",
+   "effective_time": "20251013",
+   "version": "1",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218149"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "6f08df05-cc29-45ef-8f6e-12272bfbb0d7",
+   "id": "ea518c56-49d7-4770-8ded-21e443e71c3c",
+   "effective_time": "20250925",
+   "version": "3",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Macleods Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209827"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "05a8fed7-f805-4c59-8840-630174b6d130",
+   "id": "ce881707-0cf8-49b8-af99-367197e27bfa",
+   "effective_time": "20250910",
+   "version": "1",
+   "brand_name": [
+    "methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Viona Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218830"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "e921f23b-a9bf-4313-9cfa-f0b29c06f72a",
+   "id": "e921f23b-a9bf-4313-9cfa-f0b29c06f72a",
+   "effective_time": "20250701",
+   "version": "1",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040734"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "c063f4c0-d5fe-4b28-b14d-78f73cd7f2c3",
+   "id": "c063f4c0-d5fe-4b28-b14d-78f73cd7f2c3",
+   "effective_time": "20250602",
+   "version": "1",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202068"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "f74a8e69-79a1-4061-b42f-447e0780c04f",
+   "id": "350884ec-5351-1828-e063-6294a90a2c10",
+   "effective_time": "20250513",
+   "version": "101",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202068"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "94d2e57b-685f-4cfd-a5a5-129e869c794c",
+   "id": "338daeea-483f-25a4-e063-6294a90a5c11",
+   "effective_time": "20250424",
+   "version": "107",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "a86f51a6-1ab8-48c2-a4fc-2439e9986d45",
+   "id": "338e2964-f790-6bab-e063-6294a90a2b86",
+   "effective_time": "20250424",
+   "version": "104",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "289ec852-176e-41aa-9f9a-b1f9b4196771",
+   "id": "2ac7fbad-6a1b-4326-9339-b2b3139ce554",
+   "effective_time": "20250306",
+   "version": "4",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202068"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "ca252851-32f2-4eb9-b9f5-82029f0e8c20",
+   "id": "2a7f78ea-933e-5fc0-e063-6394a90a0865",
+   "effective_time": "20241230",
+   "version": "5",
+   "brand_name": [
+    "Methimazole"
+   ],
+   "generic_name": [
+    "METHIMAZOLE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040350"
+   ],
+   "n_sections": 23
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Methimazole, USP (1-methylimidazole-2-thiol) is a white, crystalline substance that is freely soluble in water. It differs chemically from the drugs of the thiouracil series primarily because it has a 5- instead of a 6-membered ring. Methimazole tablet, USP contains 5 or 10 mg methimazole, an orally administered antithyroid drug. Each tablet also contains lactose monohydrate, magnesium stearate, potato starch and talc. The molecular weight is 114.17, and the molecular formula is C 4 H 6 N 2 S. The structural formula is as follows: Methimazole-Structural Formula"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Methimazole inhibits the synthesis of thyroid hormones and thus is effective in the treatment of hyperthyroidism. The drug does not inactivate existing thyroxine and triiodothyronine that are stored in the thyroid or circulating in the blood nor does it interfere with the effectiveness of thyroid hormones given by mouth or by injection. Methimazole is readily absorbed in the gastrointestinal tract, metabolized in the liver, and excreted in the urine."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Methimazole tablets are indicated: In patients with Graves’ disease with hyperthyroidism or toxic multinodular goiter for whom surgery or radioactive iodine therapy is not an appropriate treatment option. To ameliorate symptoms of hyperthyroidism in preparation for thyroidectomy or radioactive iodine therapy."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Methimazole tablets are contraindicated in the presence of hypersensitivity to the drug or any of the other product components."
+  ],
+  "warnings": [
+   "WARNINGS First Trimester Use of Methimazole and Congenital Malformations Methimazole crosses the placental membranes and can cause fetal harm, when administered in the first trimester of pregnancy. Rare instances of congenital defects, including aplasia cutis, craniofacial malformations (facial dysmorphism; choanal atresia), gastrointestinal malformations (esophageal atresia with or without tracheoesophageal fistula), omphalocele and abnormalities of the omphalomesenteric duct have occurred in infants born to mothers who received methimazole tablets in the first trimester of pregnancy. If methimazole tablets are used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be warned of the potential hazard to the fetus. Because of the risk for congenital malformations associated with use of methimazole tablets in the first trimester of pregnancy, it may be appropriate to use other agents in pregnant women requiring treatment for hyperthyroidism. If methimazole tablets are used, the lowest possible dose to control the maternal disease should be given. Agranulocytosis Agranulocytosis is potentially a life-threatening adverse reaction of methimazole therapy. Patients should be instructed to immediately report to their physicians any symptoms suggestive of agranulocytosis, such as fever or sore throat. Leukopenia, thrombocytopenia, and aplastic anemia (pancytopenia) may also occur. The drug should be discontinued in the presence of agranulocytosis or aplastic anemia (pancytopenia), and the patient’s bone marrow indices should be monitored. Liver Toxicity Although there have been reports of hepatotoxicity (including acute liver failure) associated with methimazole, the risk of hepatotoxicity appears to be less with methimazole than with propylthiouracil, especially in the pediatric population. Symptoms suggestive of hepatic dysfunction (anorexia, pruritus, right upper quadrant pain, etc.) should prompt evaluation of liver function (bilirubin, alkaline phosphatase) and hepatocellular integrity (ALT, AST). Drug treatment should be discontinued promptly in the event of clinically significant evidence of liver abnormality including hepatic transaminase values exceeding 3 times the upper limit of normal. Hypothyroidism Methimazole can cause hypothyroidism necessitating routine monitoring of TSH and free T4 levels with adjustments in dosing to maintain a euthyroid state. Because the drug readily crosses placental membranes, methimazole can cause fetal goiter and cretinism when administered to a pregnant woman. For this reason, it is important that a sufficient, but not excessive, dose be given during pregnancy [see PRECAUTIONS, Pregnancy ] . Vasculitis Cases of vasculitis resulting in severe complications have been reported in patients receiving methimazole therapy. These cases of vasculitis include: leukocytoclastic cutaneous vasculitis, acute kidney injury and glomerulonephritis, alveolar/pulmonary hemorrhage, CNS vasculitis, and neuropathy. Most cases were associated with anti-neutrophilic cytoplasmic antibodies (ANCA)-positive vasculitis. In some cases, vasculitis resolved/improved with drug discontinuation; however, more severe cases required treatment with additional measures including corticosteroids, immunosuppressant therapy, and plasmapheresis. If vasculitis is suspected, discontinue therapy and initiate appropriate intervention."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Patients who receive methimazole should be under close surveillance and should be cautioned to report immediately any evidence of illness, particularly sore throat, skin eruptions, fever, headache, or general malaise. In such cases, white-blood-cell and differential counts should be obtained to determine whether agranulocytosis has developed. Particular care should be exercised with patients who are receiving additional drugs known to cause agranulocytosis. Information for Patients Patients should be advised that if they become pregnant or intend to become pregnant while taking an antithyroid drug, they should contact their physician immediately about their therapy. Inform patients that cases of vasculitis resulting in severe complications have occurred with methimazole tablets. Inform patients to promptly report symptoms that may be associated with vasculitis including new rash, hematuria or decreased urine output, dyspnea or hemoptysis [see WARNINGS and ADVERSE REACTIONS ] . Laboratory Tests Because methimazole may cause hypoprothrombinemia and bleeding, prothrombin time should be monitored during therapy with the drug, especially before surgical procedures. Thyroid function tests should be monitored periodically during therapy. Once clinical evidence of hyperthyroidism has resolved, the finding of a rising serum TSH indicates that a lower maintenance dose of methimazole tablets should be employed. Drug Interactions Anticoagulants (oral): Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. ß-adrenergic blocking agents: Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides: Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline: Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed. Carcinogenesis, Mutagenesis, Impairment of Fertility In a 2 year study, rats were given methimazole at doses of 0.5, 3, and 18 mg/kg/day. These doses were 0.3, 2, and 12 times the 15 mg/day maximum human maintenance dose (when calculated on the basis of surface area). Thyroid hyperplasia, adenoma, and carcinoma developed in rats at the two higher doses. The clinical significance of these findings is unclear. Pregnancy [See WARNINGS .] If methimazole tablets are used during the first trimester of pregnancy or if the patient becomes pregnant while taking this drug, the patient should be warned of the potential hazard to the fetus. In pregnant women with untreated or inadequately treated Graves’ disease, there is an increased risk of adverse events of maternal heart failure, spontaneous abortion, preterm birth, stillbirth and fetal or neonatal hyperthyroidism. Because methimazole crosses placental membranes and can induce goiter and cretinism in the developing fetus, hyperthyroidism should be closely monitored in pregnant women and treatment adjusted such that a sufficient, but not excessive, dose be given during pregnancy. In many pregnant women, the thyroid dysfunction diminishes as the pregnancy proceeds; consequently, a reduction of dosage may be possible. In some instances, anti-thyroid therapy can be discontinued several weeks or months before delivery. Due to the rare occurrence of congenital malformations associated with methimazole use, it may be appropriate to use an alternative anti-thyroid medication in pregnant women requiring treatment for hyperthyroidism, particularly in the first trimester of pregnancy during organogenesis. Given the potential maternal adverse effects of propylthiouracil (e.g., hepatotoxicity), it may be preferable to switch from propylthiouracil to methimazole for the second and third trimesters. Nursing Mothers Methimazole is present in breast milk. However, several studies found no effect on clinical status in nursing infants of mothers taking methimazole. A long-term study of 139 thyrotoxic lactating mothers and their infants failed to demonstrate toxicity in infants who are nursed by mothers receiving treatment with methimazole. Monitor thyroid function at frequent (weekly or biweekly) intervals. Pediatric Use Because of postmarketing reports of severe liver injury in pediatric patients treated with propylthiouracil, methimazole is the preferred choice when an antithyroid drug is required for a pediatric patient [see DOSAGE AND ADMINISTRATION ] ."
+  ],
+  "general_precautions": [
+   "General Patients who receive methimazole should be under close surveillance and should be cautioned to report immediately any evidence of illness, particularly sore throat, skin eruptions, fever, headache, or general malaise. In such cases, white-blood-cell and differential counts should be obtained to determine whether agranulocytosis has developed. Particular care should be exercised with patients who are receiving additional drugs known to cause agranulocytosis."
+  ],
+  "information_for_patients": [
+   "Information for Patients Patients should be advised that if they become pregnant or intend to become pregnant while taking an antithyroid drug, they should contact their physician immediately about their therapy. Inform patients that cases of vasculitis resulting in severe complications have occurred with methimazole tablets. Inform patients to promptly report symptoms that may be associated with vasculitis including new rash, hematuria or decreased urine output, dyspnea or hemoptysis [see WARNINGS and ADVERSE REACTIONS ] ."
+  ],
+  "laboratory_tests": [
+   "Laboratory Tests Because methimazole may cause hypoprothrombinemia and bleeding, prothrombin time should be monitored during therapy with the drug, especially before surgical procedures. Thyroid function tests should be monitored periodically during therapy. Once clinical evidence of hyperthyroidism has resolved, the finding of a rising serum TSH indicates that a lower maintenance dose of methimazole tablets should be employed."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Anticoagulants (oral): Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. ß-adrenergic blocking agents: Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides: Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline: Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility In a 2 year study, rats were given methimazole at doses of 0.5, 3, and 18 mg/kg/day. These doses were 0.3, 2, and 12 times the 15 mg/day maximum human maintenance dose (when calculated on the basis of surface area). Thyroid hyperplasia, adenoma, and carcinoma developed in rats at the two higher doses. The clinical significance of these findings is unclear."
+  ],
+  "pregnancy": [
+   "Pregnancy [See WARNINGS .] If methimazole tablets are used during the first trimester of pregnancy or if the patient becomes pregnant while taking this drug, the patient should be warned of the potential hazard to the fetus. In pregnant women with untreated or inadequately treated Graves’ disease, there is an increased risk of adverse events of maternal heart failure, spontaneous abortion, preterm birth, stillbirth and fetal or neonatal hyperthyroidism. Because methimazole crosses placental membranes and can induce goiter and cretinism in the developing fetus, hyperthyroidism should be closely monitored in pregnant women and treatment adjusted such that a sufficient, but not excessive, dose be given during pregnancy. In many pregnant women, the thyroid dysfunction diminishes as the pregnancy proceeds; consequently, a reduction of dosage may be possible. In some instances, anti-thyroid therapy can be discontinued several weeks or months before delivery. Due to the rare occurrence of congenital malformations associated with methimazole use, it may be appropriate to use an alternative anti-thyroid medication in pregnant women requiring treatment for hyperthyroidism, particularly in the first trimester of pregnancy during organogenesis. Given the potential maternal adverse effects of propylthiouracil (e.g., hepatotoxicity), it may be preferable to switch from propylthiouracil to methimazole for the second and third trimesters."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Methimazole is present in breast milk. However, several studies found no effect on clinical status in nursing infants of mothers taking methimazole. A long-term study of 139 thyrotoxic lactating mothers and their infants failed to demonstrate toxicity in infants who are nursed by mothers receiving treatment with methimazole. Monitor thyroid function at frequent (weekly or biweekly) intervals."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Because of postmarketing reports of severe liver injury in pediatric patients treated with propylthiouracil, methimazole is the preferred choice when an antithyroid drug is required for a pediatric patient [see DOSAGE AND ADMINISTRATION ] ."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. There have been postmarketing case reports of acute pancreatitis. There are reports of a vasculitis, often associated with the presence of anti-neutrophilic cytoplasmic antibodies (ANCA), resulting in severe complications [see WARNINGS ] . Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. To report SUSPECTED ADVERSE REACTIONS, contact AiPing Pharmaceutical, Inc. at 1-844-374-0016 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Signs and Symptoms Symptoms may include nausea, vomiting, epigastric distress, headache, fever, joint pain, pruritus, and edema. Aplastic anemia (pancytopenia) or agranulocytosis may be manifested in hours to days. Less frequent events are hepatitis, nephrotic syndrome, exfoliative dermatitis, neuropathies, and CNS stimulation or depression. No information is available on the median lethal dose of the drug or the concentration of methimazole in biologic fluids associated with toxicity and/or death. Treatment To obtain up-to-date information about the treatment of overdose, a good resource is your certified Regional Poison Control Center. In managing overdosage, consider the possibility of multiple drug overdoses, interaction among drugs, and unusual drug kinetics in the patient. In the event of an overdose, appropriate supportive treatment should be initiated as dictated by the patient’s medical status."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Methimazole tablets are administered orally. The total daily dosage is usually given in 3 divided doses at approximately 8-hour intervals. Adult - The initial daily dosage is 15 mg for mild hyperthyroidism, 30 to 40 mg for moderately severe hyperthyroidism, and 60 mg for severe hyperthyroidism, divided into 3 doses at 8-hour intervals. The maintenance dosage is 5 to 15 mg daily. Pediatric - Initially, the daily dosage is 0.4 mg/kg of body weight divided into 3 doses and given at 8-hour intervals. The maintenance dosage is approximately ½ of the initial dose."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Methimazole Tablets USP, 5 mg are supplied as white, round, flat-faced, beveled-edged tablets with “VM” on one side and scored on the other. They are available in: Bottles of 100, NDC 11788-011-01 Bottles of 500, NDC 11788-011-05 Methimazole Tablets USP, 10 mg are supplied as white, round, flat-faced, beveled-edged tablets with “XM” on one side and scored on the other. They are available in: Bottles of 100, NDC 11788-012-01 Bottles of 500, NDC 11788-012-05 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Dispense in a tight, light-resistant container. Manufactured for: AiPing Pharmaceutical, Inc. Hauppauge, NY 11788 LB1636 Revised: 07/2026"
+  ],
+  "storage_and_handling": [
+   "Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Dispense in a tight, light-resistant container."
+  ],
+  "set_id": "06bb4bcc-5e47-48b6-a76c-648f846704e8",
+  "id": "a40bb643-790d-462c-a3bf-ba4943a24075",
+  "effective_time": "20260820",
+  "version": "2"
+ }
+}

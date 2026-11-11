@@ -1,0 +1,159 @@
+{
+ "id_es": "sulfato-ferroso",
+ "generic_en": "ferrous sulfate",
+ "search": "openfda.generic_name.exact:\"FERROUS SULFATE\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "3a749d62-0e20-0c15-e063-6394a90ac1a8",
+  "id": "3a749d62-0e21-0c15-e063-6394a90ac1a8",
+  "effective_time": "20250721",
+  "version": "1",
+  "brand_name": [
+   "FERRUM SULPHURICUM"
+  ],
+  "generic_name": [
+   "FERROUS SULFATE"
+  ],
+  "manufacturer_name": [
+   "Boiron"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [],
+  "n_sections": 15
+ },
+ "candidates": [
+  {
+   "set_id": "3a749d62-0e20-0c15-e063-6394a90ac1a8",
+   "id": "3a749d62-0e21-0c15-e063-6394a90ac1a8",
+   "effective_time": "20250721",
+   "version": "1",
+   "brand_name": [
+    "FERRUM SULPHURICUM"
+   ],
+   "generic_name": [
+    "FERROUS SULFATE"
+   ],
+   "manufacturer_name": [
+    "Boiron"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 15
+  },
+  {
+   "set_id": "5514d582-19b5-4f1e-b794-f790afb8211c",
+   "id": "2a327df7-e75d-8130-e063-6294a90a6e83",
+   "effective_time": "20241226",
+   "version": "3",
+   "brand_name": [
+    "Ferrous Sulfate"
+   ],
+   "generic_name": [
+    "FERROUS SULFATE"
+   ],
+   "manufacturer_name": [
+    "Richmond Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 16
+  },
+  {
+   "set_id": "58dd4f30-980b-44bc-9f8e-8d4626854b91",
+   "id": "2a327c66-d561-6a9b-e063-6294a90a5d0a",
+   "effective_time": "20241226",
+   "version": "4",
+   "brand_name": [
+    "FERROUS SULFATE"
+   ],
+   "generic_name": [
+    "FERROUS SULFATE"
+   ],
+   "manufacturer_name": [
+    "Richmond Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 14
+  },
+  {
+   "set_id": "7a4087d8-d054-bbdc-e053-2991aa0ae8cf",
+   "id": "0a0cbae3-25d2-6d47-e063-6294a90a0431",
+   "effective_time": "20231113",
+   "version": "3",
+   "brand_name": [
+    "Ferrum sulphuricum"
+   ],
+   "generic_name": [
+    "FERROUS SULFATE"
+   ],
+   "manufacturer_name": [
+    "Boiron"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 15
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "FERRUM SULPHURICUM 200CK HPUS Active ingredient**: See product name on front panel (contains 0.443 mg of the active ingredient per pellet)."
+  ],
+  "purpose": [
+   ""
+  ],
+  "indications_and_usage": [
+   "Uses: See symptoms on front panel. Relieves hot flashes with headaches *"
+  ],
+  "warnings": [
+   ""
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if symptoms persist for more than 3 days or worsen."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+   "Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor."
+  ],
+  "inactive_ingredient": [
+   "lactose, sucrose"
+  ],
+  "questions": [
+   "BoironUSA.com Info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron, Inc. Newtown Square, PA 19073"
+  ],
+  "set_id": "3a749d62-0e20-0c15-e063-6394a90ac1a8",
+  "id": "3a749d62-0e21-0c15-e063-6394a90ac1a8",
+  "effective_time": "20250721",
+  "version": "1"
+ }
+}

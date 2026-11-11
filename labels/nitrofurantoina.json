@@ -1,0 +1,730 @@
+{
+ "id_es": "nitrofurantoina",
+ "generic_en": "nitrofurantoin",
+ "search": "openfda.generic_name.exact:\"NITROFURANTOIN\"",
+ "downloaded": "2026-11-11T06:39Z",
+ "chosen": {
+  "set_id": "89095f4d-e142-465e-b378-da24f6eeaf2b",
+  "id": "b6694787-d7b8-4bcb-8dff-5ff30a83443a",
+  "effective_time": "20251111",
+  "version": "5",
+  "brand_name": [
+   "Nitrofurantoin"
+  ],
+  "generic_name": [
+   "NITROFURANTOIN"
+  ],
+  "manufacturer_name": [
+   "Rising Pharma Holdings, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA009175"
+  ],
+  "n_sections": 27
+ },
+ "candidates": [
+  {
+   "set_id": "37606c6f-0d85-4314-94ae-f7732c7bc8d5",
+   "id": "5f4cf25a-331c-e8b8-e063-6394a90a0146",
+   "effective_time": "20261102",
+   "version": "10",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "d88348a0-6ab4-4490-9325-1f14a541b0a5",
+   "id": "5f4d3fb1-fa7b-2ea1-e063-6394a90a9f40",
+   "effective_time": "20261102",
+   "version": "9",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "f40af3e1-e54c-3a35-e053-2a95a90a6cb2",
+   "id": "5c194601-e752-5395-e063-6394a90abc4b",
+   "effective_time": "20260922",
+   "version": "5",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "87505f8f-2056-4e55-adf5-5b7309081d7c",
+   "id": "5a6e614b-9ae9-9719-e063-6394a90a91c8",
+   "effective_time": "20260901",
+   "version": "3",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211935"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "6c82b95d-2c32-4e54-a8a9-a4bb4df70cb5",
+   "id": "596c5a11-5d18-f6eb-e063-6394a90a58eb",
+   "effective_time": "20260819",
+   "version": "11",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "729f6bbb-ab64-4b65-979a-4ad7605c5947",
+   "id": "86ac0486-a85c-419b-8a46-ec0ef2f82d8f",
+   "effective_time": "20260804",
+   "version": "7",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "09944470-807d-ad37-e063-6394a90a7bfe",
+   "id": "54ed8007-1a0d-541c-e063-6394a90a1919",
+   "effective_time": "20260623",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "dd99ba40-edff-47c3-9ee4-7e5b7774e5b5",
+   "id": "40efa147-f323-4d77-9a88-227434ff84c3",
+   "effective_time": "20260122",
+   "version": "3",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208909"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "89095f4d-e142-465e-b378-da24f6eeaf2b",
+   "id": "b6694787-d7b8-4bcb-8dff-5ff30a83443a",
+   "effective_time": "20251111",
+   "version": "5",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA009175"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "1c5db054-58af-4932-8fad-c3883b13f987",
+   "id": "6818d7fb-4946-42bc-ade4-e9055846194b",
+   "effective_time": "20251022",
+   "version": "100",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "0819be0b-03e9-426e-a4b9-624c32958f94",
+   "id": "0819be0b-03e9-426e-a4b9-624c32958f94",
+   "effective_time": "20250901",
+   "version": "1",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211935"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "4e06b31e-cc49-4526-beb6-e77021823aa9",
+   "id": "3c3bf8e0-5135-f295-e063-6294a90a7f67",
+   "effective_time": "20250813",
+   "version": "1",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219495"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "d96098d0-3c2b-4e53-a3f0-3ebba81c4133",
+   "id": "35155f61-5d28-d364-e063-6294a90aa4c6",
+   "effective_time": "20250514",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217073"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "f4c2c01d-bef7-3e5d-e053-2995a90ae0d8",
+   "id": "2c6228e2-dbad-01e7-e063-6394a90acbbc",
+   "effective_time": "20250123",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "d4385368-46d6-8397-e053-2a95a90a8d68",
+   "id": "2be91ea1-1f2f-d635-e063-6294a90a4dd1",
+   "effective_time": "20250117",
+   "version": "4",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Directrx"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077066"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "68c718a7-2e8f-288c-37d2-053372ee61b9",
+   "id": "3cd77dd5-7b86-a52f-fa61-69afc7b4c6b6",
+   "effective_time": "20241114",
+   "version": "2",
+   "brand_name": [
+    "NITROFURANTOIN"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Biocon Pharma Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218346"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "11dcea9c-0c62-4153-976b-bd1f8ef1f6d9",
+   "id": "96cbbaac-bd28-443c-bc4c-967fa09a2f99",
+   "effective_time": "20241030",
+   "version": "16",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA201679"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "3b377aff-2d4b-43ea-84c9-8e72c1421b7b",
+   "id": "7e94d701-0d57-4a04-bc74-d07febb8ad7b",
+   "effective_time": "20241008",
+   "version": "3",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216385"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "56e07ad3-7224-4aaf-9a68-0d48d4abfec8",
+   "id": "373aced9-859b-4b9c-b3bc-8257a9014ae4",
+   "effective_time": "20240828",
+   "version": "101",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "11e700aa-66f9-4939-8a6b-a23240ae1a0b",
+   "id": "dfecf83b-2b30-4505-9044-bec3dce43a39",
+   "effective_time": "20240516",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212607"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "04af8b73-7e15-7da8-e063-6294a90af284",
+   "id": "14c9efac-c0b1-7afe-e063-6294a90a39e4",
+   "effective_time": "20240329",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216385"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "bebbe5d6-f6ec-4191-bad3-b6e933da0688",
+   "id": "fc71d17e-601d-48b1-aee8-ae1cf1fcdd5a",
+   "effective_time": "20240315",
+   "version": "111",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e9d10eaa-cf9c-469e-82ef-5af7285f2c86",
+   "id": "30c5502b-09bd-4fd7-bec8-aba74d302e09",
+   "effective_time": "20240315",
+   "version": "2",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212607"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "80129dba-5939-4292-bfd0-8d53ba165941",
+   "id": "87af7ed1-6ae7-4eaf-ab35-d46d07549450",
+   "effective_time": "20240226",
+   "version": "10",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA201679"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "75dab97e-59b4-447c-a8c9-b4d5a970098f",
+   "id": "b4e52306-bf3a-4cca-ad23-21a806b68be5",
+   "effective_time": "20240104",
+   "version": "101",
+   "brand_name": [
+    "Nitrofurantoin"
+   ],
+   "generic_name": [
+    "NITROFURANTOIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208516"
+   ],
+   "n_sections": 28
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Dosage and Administration ( 2 ) 1/2024"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS & USAGE Nitrofurantoin oral suspension is indicated in adults and pediatric patients 1 month of age and older for the treatment of urinary tract infections due to susceptible strains of Escherichia coli, Enterococcus species , Staphylococcus aureus, Klebsiella species and Enterobacter species. Limitations of Use Nitrofurantoin oral suspension is not indicated for the treatment of pyelonephritis or perinephric abscesses [see Warnings and Precautions (5.7) ]. Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of nitrofurantoin oral suspension and other antibacterial drugs, nitrofurantoin oral suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Nitrofurantoin is a nitrofuran antibacterial indicated in adults and pediatric patients 1 month of age and older for the treatment of urinary tract infections caused by susceptible bacteria. (1) Limitations of Use Nitrofurantoin is not indicated for the treatment of pyelonephritis or perinephric abscesses. (1) Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of nitrofurantoin oral suspension and other antibacterial drugs, nitrofurantoin oral suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE & ADMINISTRATION Adult Patients: 50 mg to 100 mg four times a day - the lower dosage level is recommended for uncomplicated urinary tract infections. (2.2) Pediatric Patients: 5 mg/kg to 7 mg/kg of body weight per 24 hours, given in four divided doses (contraindicated under one month of age). (2.3) 2.1 Recommended Dosage and Administration in Adult Patients The recommended dosage is 50 mg to 100 mg of nitrofurantoin oral suspension four times a day. For long-term suppressive therapy in adults, a reduction of dosage to 50 mg to 100 mg at bedtime may be adequate. The benefits of long-term suppressive therapy should be balanced against the increased potential for systemic toxicity and for the development of antibacterial resistance [see Warnings and Precautions ( 5.2 , 5.4 , 5.6 )]. Administer nitrofurantoin oral suspension with food to improve drug absorption [see Clinical Pharmacology ( 12.3 )] and, in some patients, tolerance. 2.2 Recommended Dosage and Administration in Pediatric Patients (1 month of age and older) The recommended dosage of nitrofurantoin oral suspension is 5 mg/kg to 7 mg/kg of body weight per 24 hours, given in four divided doses in pediatric patients aged 1 month and older. Administer nitrofurantoin oral suspension with food to improve drug absorption [see Clinical Pharmacology ( 12.3 )] and, in some patients, tolerance. Table 1 lists individual dosage volumes for two different strengths of nitrofurantoin oral suspension (25 mg/5 mL and 50 mg/5 mL) based on body weight for pediatric patients. Table 1: Nitrofurantoin Oral Suspension Pediatric Dosing Table for Pediatric Patients 1 month of Age and Older To measure the correct pediatric doses, it is important to administer nitrofurantoin oral suspension with an appropriate size oral dosing syringe with graduations that align with the volume prescribed in Table 1 above. Continue therapy for one week or for at least 3 days after sterility of the urine is obtained. Continued infection indicates the need for reevaluation. For long-term suppressive therapy in pediatric patients, doses as low as 1 mg/kg per 24 hours, given in a single dose or in two divided doses, may be adequate [see Warnings and Precautions ( 5.2 , 5.4 , 5.6 )]. nitrofurantoin-table1"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS & STRENGTHS Nitrofurantoin oral suspension is available as an opaque, yellow liquid oral suspension containing 25 mg/5 mL and 50 mg/5 mL of nitrofurantoin. Oral Suspension: 25 mg/5 mL and 50 mg/5 mL. (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Nitrofurantoin oral suspension is contraindicated in: • patients with known hypersensitivity to nitrofurantoin [see Warnings and Precautions ( 5.1 )]. • patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with nitrofurantoin [see Warnings and Precautions ( 5.3 )]. • patients who have anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) due to an increased risk of toxicity resulting from impaired excretion of the drug [see Warnings and Precautions ( 5.4 )]. • pregnant patients at term (38 weeks to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent and in pediatric patients younger than 1 month of age because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability) [see Warnings and Precautions ( 5.5 ) and Use in Specific Populations ( 8.1 and 8.4 )]. • Known hypersensitivity to nitrofurantoin. ( 4 ) • History of cholestatic jaundice/hepatic dysfunction associated with nitrofurantoin. ( 4 ) • Patients who have anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine). ( 4 ) • Pregnant patients at term (38 weeks to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent. ( 4 ) • Pediatric Patients under one month of age. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Hypersensitivity Reactions: Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving nitrofurantoin oral suspension. If signs and symptoms of a hypersensitivity reaction occurs, immediately discontinue nitrofurantoin oral suspension. ( 5.1 ) • Pulmonary Reactions: Discontinue if sign and symptoms of pulmonary reactions occur and take appropriate measures. ( 5.2 ) • Hepatotoxicity: Discontinue if signs/symptoms of hepatitis occur. Monitor liver function tests. ( 5.3 ) • Neuropathy: Peripheral neuropathy has occurred. ( 5.4 ) • Hemolytic Anemia: Discontinue if sign and symptoms of hemolysis occur. ( 5.5 ) • Clostridioides difficile -associated diarrhea: Evaluate patients if diarrhea occurs. ( 5.6 ) 5.1 Hypersensitivity Reactions Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving nitrofurantoin oral suspension [see Adverse Reactions ( 6 )] . If signs and symptoms of a hypersensitivity reaction occurs, immediately discontinue nitrofurantoin oral suspension and initiate appropriate medications and/or supportive care. Nitrofurantoin oral suspension is contraindicated in patients with known hypersensitivity to nitrofurantoin. 5.2 Pulmonary Reactions Acute, subacute, or chronic pulmonary reactions have been reported in patients treated with nitrofurantoin. If these reactions occur, discontinue nitrofurantoin and take appropriate measures. Reports have cited pulmonary reactions as a contributing cause of death. Chronic pulmonary reactions (diffuse interstitial pneumonitis or pulmonary fibrosis, or both) can develop insidiously. These reactions occur generally in patients receiving therapy for six months or longer. Close monitoring of the pulmonary condition of patients receiving long-term therapy is warranted and requires that the benefits of therapy be weighed against potential risks [see Adverse Reactions (6 )]. 5.3 Hepatotoxicity Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, has occurred. Fatalities have been reported. The onset of chronic active hepatitis may be insidious. Monitor patients periodically for changes in biochemical tests that would indicate liver injury. If hepatitis occurs, discontinue nitrofurantoin oral suspension immediately, and take appropriate measures. 5.4 Neuropathy Peripheral neuropathy, which may become severe or irreversible, has occurred. Fatalities have been reported. Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating disease may enhance the occurrence of peripheral neuropathy. Monitor patients receiving long-term therapy periodically for changes in renal function. Optic neuritis has been reported with nitrofurantoin formulations [see Adverse Reactions (6) ]. 5.5 Hemolytic Anemia Cases of hemolytic anemia of the primaquine-sensitivity type have been induced by nitrofurantoin. Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency in the red blood cells of the affected patients. This deficiency is found in 10 percent of Blacks and a small percentage of ethnic groups of Mediterranean and Near-Eastern origin. If hemolysis occurs, discontinue nitrofurantoin oral suspension immediately; hemolysis ceases when the drug is withdrawn. 5.6 Clostridioides difficile -associated Diarrhea Clostridioides difficile -associated Diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin oral suspension, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile. C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antibacterial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and institute surgical evaluation as clinically indicated. 5.7 Persistence or Reappearance of Bacteriuria Nitrofurantoin lacks the broader tissue distribution of other therapeutic agents approved for urinary tract infections. Consequently, many patients who are treated with nitrofurantoin are predisposed to persistence or reappearance of bacteriuria. If persistence or reappearance of bacteriuria occurs with symptoms of urinary tract infection, after treatment with nitrofurantoin, other therapeutic agents with broader tissue distribution should be selected. In considering the use of nitrofurantoin, lower eradication rates should be balanced against the increased potential for systemic toxicity and for the development of antibacterial resistance when agents with broader tissue distribution are utilized."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are discussed in more detail in other sections of the labeling: • Hypersensitivity Reactions [see Warnings and Precautions (5.1) ] • Pulmonary Reactions [see Warnings and Precautions (5.2) ] • Hepatotoxicity [see Warnings and Precautions (5.3) ] • Neuropathy [see Warnings and Precautions (5.4) ] • Hemolytic anemia [see Warnings and Precautions (5.5) ] • Clostridioides difficile -associated Diarrhea [see Warnings and Precautions (5.6) ] • Persistence or Reappearance of Bacteriuria [see Warnings and Precautions (5.7) ] The following adverse reactions associated with the use of nitrofurantoin formulations, including, nitrofurantoin oral suspension were identified in clinical studies or post-marketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Respiratory : chronic, subacute, or acute pulmonary hypersensitivity reactions have occurred. Chronic pulmonary reactions have occurred generally in patients who have received continuous treatment for six months or longer. Malaise, dyspnea on exertion, cough, and altered pulmonary function are common manifestations which can occur insidiously. Radiologic and histologic findings of diffuse interstitial pneumonitis or fibrosis, or both, are also common manifestations of the chronic pulmonary reaction. Fever is prominent. The severity of chronic pulmonary reactions and their degrees of resolution appear to be related to the duration of therapy after the first clinical signs appear. Pulmonary function may be impaired permanently, even after cessation of therapy. The risk is greater when chronic pulmonary reactions are not recognized early. In subacute pulmonary reactions, fever and eosinophilia occur less often than in the acute form. Upon cessation of therapy, recovery may require several months. If the symptoms are not recognized as being drug-related and nitrofurantoin therapy is not stopped, the symptoms may become more severe. Acute pulmonary reactions are commonly manifested by fever, chills, cough, chest pain, dyspnea, pulmonary infiltration with consolidation of pleural effusion on x-ray, and eosinophilia. Acute reactions usually occur within the first week of treatment and are reversible with cessation of therapy. Resolution often is dramatic. Changes in EKG (e.g., non-specific ST/T wave changes, bundle branch block) have been reported in association with pulmonary reactions. Cyanosis has been reported. Hepatic : Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, have occurred. Neurologic : Peripheral neuropathy, which may become severe or irreversible, has occurred. Fatalities have been reported. Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating diseases may increase the possibility of peripheral neuropathy. Asthenia, vertigo, nystagmus, dizziness, headache, and drowsiness also have been reported with the use of nitrofurantoin. Benign intracranial hypertension (pseudotumor cerebri), confusion, depression, optic neuritis, and psychotic reactions have been reported. Bulging fontanels, as a sign of benign intracranial hypertension in infants, have been reported rarely. Dermatologic : Exfoliative dermatitis and erythema multiforme (including Stevens-Johnson syndrome) have been reported. Alopecia also has been reported. Allergic : A lupus-like syndrome associated with pulmonary reactions to nitrofurantoin has been reported. Also, angioedema; maculopapular, erythematous, or eczematous eruptions; pruritus; urticaria; anaphylaxis; arthralgia; myalgia; drug fever; and vasculitis (sometimes associated with pulmonary reactions) have been reported. Hypersensitivity reactions present the most frequent spontaneously-reported adverse reactions in worldwide post marketing experience with nitrofurantoin formulations, including nitrofurantoin oral suspension. Gastrointestinal : Nausea, emesis, and anorexia occur most often. Abdominal pain and diarrhea are less common gastrointestinal reactions. These dose-related reactions can be minimized by reduction of dosage. Sialadenitis and pancreatitis have been reported. There have been sporadic reports of pseudomembranous colitis with the use of nitrofurantoin. The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment. Hematologic : Cyanosis secondary to methemoglobinemia has been reported. Miscellaneous : As with other antibacterial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur. There are sporadic reports of Clostridioides difficile superinfections, or pseudomembranous colitis, with the use of nitrofurantoin, including nitrofurantoin oral suspension. Laboratory Adverse Reactions The following laboratory adverse reactions have been reported with the use of nitrofurantoin formulations, including nitrofurantoin oral suspension; increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus, eosinophilia, glucose-6-phosphate dehydrogenase deficiency anemia, agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia. In most cases, these hematologic abnormalities resolved following cessation of therapy. Aplastic anemia has been reported. The most common adverse reactions occurring in patients are nausea, vomiting, anorexia, vertigo, nystagmus, dizziness, headache, angioedema, rash, urticaria, pulmonary hypersensitivity reactions, hepatic reactions, peripheral neuropathy, increased aspartate aminotransferase, increased alanine aminotransferase, decreased hemoglobin, increased serum phosphorus, and eosinophilia ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844–874–7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Antacids: Decreased absorption of nitrofurantoin. (7.1) Uricosuric drugs: Inhibit renal tubular secretion of nitrofurantoin. (7.2) 7.1 Antacids Antacids containing magnesium trisilicate, when administered concomitantly with nitrofurantoin, reduce both the rate and extent of absorption. The mechanism for this interaction probably is adsorption of nitrofurantoin onto the surface of magnesium trisilicate. If coadministration of nitrofurantoin with antacids containing magnesium trisilicate cannot be avoided, monitor for lack of efficacy [see Clinical Pharmacology (12.3) ]. 7.2 Uricosuric Drugs Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin. The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial. Therefore, monitor for nitrofurantoin adverse reactions when co-administering nitrofurantoin oral suspension with uricosuric drugs. 7.3 Drug Interference with Laboratory Tests The presence of nitrofurantoin can cause a false-positive reaction for glucose in the urine when using Benedict's or Fehling's copper reduction reaction to determine the amount of reducing substances like glucose in the urine. Use glucose tests based on enzymatic glucose oxidase reactions to detect glucose in the urine."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS • Lactation: Breastfeeding is not recommended in infants under one month of age or with glucose-6-phosphate dehydrogenase (G6PD) deficiency. ( 8.2 ) • Pediatric Use: Nitrofurantoin oral suspension is contraindicated in pediatric patients under one month of age. ( 8.4 ) 8.1 Pregnancy Risk Summary Nitrofurantoin is contraindicated in pregnant women at term (38 weeks to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent because of the possibility of hemolytic anemia in the infant (see Clinical Considerations ). Published epidemiological studies, including cohort studies and case control studies, have reported inconsistent findings related to nitrofurantoin use during the first trimester and risk of major birth defects. These studies cannot definitively establish the presence or absence of risk due to several methodological limitations. The limited number of epidemiological studies available have not identified drug-associated risks of major birth defects, miscarriage or other adverse maternal or fetal outcomes. In animal reproduction studies, no fetotoxicity was observed when nitrofurantoin was administered orally to pregnant rats and rabbits, during organogenesis, at up to 6 times the recommended human dose (see Data ). The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Nitrofurantoin is not recommended in pregnant women at term (38 weeks to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability) [see Contraindications (4) and Warnings and Precautions (5.4) ]. Data Animal Data Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no harm to the fetus due to nitrofurantoin. In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed. However, at 25 times the human dose, fetal malformations were not observed. Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis. The relationship of this finding to potential human carcinogenesis is presently unknown. 8.2 Lactation Risk Summary Nitrofurantoin is present in human breast milk following oral administration. There are insufficient data on the effect of nitrofurantoin on milk production. Infants less than one month of age or who have glucose-6-phosphate dehydrogenase (G6PD) deficiency are at risk for hemolytic anemia from nitrofurantoin exposure. Therefore, breastfeeding is not recommended in these infants. In a breastfed infant over the age of one month and with normal G6PD, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitrofurantoin and any potential adverse effects on the breastfed infant from nitrofurantoin or from the underlying maternal condition. Monitor these infants for vomiting, diarrhea, and rash. 8.3 Females and Males of Reproductive Potential Infertility Male Based on findings from a fertility study conducted in 36 healthy male volunteers and an animal fertility study, nitrofurantoin may reversibly decrease spermatogenesis [see Nonclinical Toxicology (13.1) ]. Nitrofurantoin doses of 10 mg/kg/day or greater in healthy human males may produce a slight to moderate spermatogenic arrest with a decrease in sperm count. The effect on fertility is unknown. 8.4 Pediatric Use Nitrofurantoin oral suspension is contraindicated in pediatric patients younger than 1 month of age because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability). [see Contraindications (4) and Warnings and Precautions (5.4) ]. The safety and effectiveness of nitrofurantoin in pediatric patients aged 1 month of age and older for the treatment of urinary tract infections have been established."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Nitrofurantoin is contraindicated in pregnant women at term (38 weeks to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent because of the possibility of hemolytic anemia in the infant (see Clinical Considerations ). Published epidemiological studies, including cohort studies and case control studies, have reported inconsistent findings related to nitrofurantoin use during the first trimester and risk of major birth defects. These studies cannot definitively establish the presence or absence of risk due to several methodological limitations. The limited number of epidemiological studies available have not identified drug-associated risks of major birth defects, miscarriage or other adverse maternal or fetal outcomes. In animal reproduction studies, no fetotoxicity was observed when nitrofurantoin was administered orally to pregnant rats and rabbits, during organogenesis, at up to 6 times the recommended human dose (see Data ). The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Nitrofurantoin is not recommended in pregnant women at term (38 weeks to 42 weeks gestation), during labor and delivery, or when the onset of labor is imminent because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability) [see Contraindications (4) and Warnings and Precautions (5.4) ]. Data Animal Data Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no harm to the fetus due to nitrofurantoin. In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed. However, at 25 times the human dose, fetal malformations were not observed. Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis. The relationship of this finding to potential human carcinogenesis is presently unknown."
+  ],
+  "nursing_mothers": [
+   "8.3 Females and Males of Reproductive Potential Infertility Male Based on findings from a fertility study conducted in 36 healthy male volunteers and an animal fertility study, nitrofurantoin may reversibly decrease spermatogenesis [see Nonclinical Toxicology (13.1) ]. Nitrofurantoin doses of 10 mg/kg/day or greater in healthy human males may produce a slight to moderate spermatogenic arrest with a decrease in sperm count. The effect on fertility is unknown."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Nitrofurantoin oral suspension is contraindicated in pediatric patients younger than 1 month of age because of the possibility of hemolytic anemia due to immature erythrocyte enzyme systems (glutathione instability). [see Contraindications (4) and Warnings and Precautions (5.4) ]. The safety and effectiveness of nitrofurantoin in pediatric patients aged 1 month of age and older for the treatment of urinary tract infections have been established."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Incidents of acute overdosage of nitrofurantoin have resulted in symptoms such as vomiting. Induction of emesis is recommended. There is no specific antidote, but a high fluid intake should be maintained to promote urinary excretion of the drug. Nitrofurantoin is dialyzable."
+  ],
+  "description": [
+   "11 DESCRIPTION Nitrofurantoin oral suspension contains nitrofurantoin, a synthetic nitrofuran antibacterial agent specific for urinary tract infections. The chemical name is 1-[[(5-nitro-2-furanyl)methylene]amino]-2,4-imidazolidinedione monohydrate. The molecular formula is C 8 H 6 N 4 O 5 ꞏH 2 O and the molecular weight is 256.17. The structural formula is: Nitrofurantoin is a stable, yellow, crystalline compound. Nitrofurantoin oral suspension is available as an opaque, yellow liquid suspension for oral administration containing 25 mg/5 mL and 50 mg/5 mL of nitrofurantoin. Nitrofurantoin oral suspension also contains the following inactive ingredients: carboxymethylcellulose sodium, citric acid, flavors, glycerin, magnesium aluminum silicate, methylparaben, propylparaben, purified water, sodium citrate, and sorbitol. nitrofurantoin-structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Nitrofurantoin is an antibacterial drug [ see Microbiology (12.4) ]. 12.2 Pharmacodynamics Pharmacodynamic effects of nitrofurantoin are unknown. 12.3 Pharmacokinetics Absorption Orally administered nitrofurantoin is readily absorbed. Blood concentrations at therapeutic dosage are usually low. Effect of Food The presence of food or agents delaying gastric emptying can increase the bioavailability of nitrofurantoin. Distribution Nitrofurantoin is highly soluble in urine. Nitrofurantoin lacks the broader tissue distribution of other therapeutic agents approved for urinary tract infections. Elimination Excretion Nitrofurantoin is rapidly excreted in urine, to which it may impart a brown color. Following a dose regimen of 100 mg four times a day for 7 days, average urinary drug recoveries (0 hour to 24 hours) on Day 1 and Day 7 were 42.7% and 43.6%. Nitrofurantoin is dialyzable. Specific Populations The pharmacokinetics of nitrofurantoin oral suspension are unknown for the geriatric patients, pediatric patients, patients with hepatic impairment, or pregnant women. Differences between male and female patients, and racial or ethnic groups are unknown. Patients with Renal Impairment The reported urinary recoveries of nitrofurantoin after a single 100 mg oral dose and 100 mg four times a day in patients with varying renal function showed approximate linear relationship between the amount of nitrofurantoin recovered and creatinine clearance. Drug Interaction Studies Antacids such as magnesium trisilicate In a cross-over study, the in vivo absorption characteristics of nitrofurantoin and nitrofurantoin-magnesium trisilicate combination were evaluated in 6 healthy males. The administration of 5 g magnesium trisilicate with 100 mg nitrofurantoin reduced the rate and extent of nitrofurantoin excretion reflecting decrease in both rate and extent of its absorption [see Drug Interaction (7.1) ]. Propantheline In a crossover study, the in vivo absorption characteristics of nitrofurantoin and propantheline (an anticholinergic agent) combination were evaluated in six subjects. Administration of 30 mg of propantheline 45 min prior to nitrofurantoin 100 mg administration resulted in a statistically significant increase in nitrofurantoin excretion, however, the clinical significance of this effect is unknown. 12.4 Microbiology Mechanism of Action Nitrofurantoin is reduced by a wide range of enzymes including bacterial flavoproteins to reactive intermediates which are damaging to macromolecules such as DNA and proteins. Resistance Nitrofurantoin is not active against most strains of Proteus species or Serratia species. It has no activity against Pseudomonas species. Although cross-resistance with other antibacterials may occur, cross resistance with sulfonamides has not been observed. Interaction with Other Antibacterials Antagonism has been demonstrated in vitro between nitrofurantoin and quinolones. Antibacterial Activity Nitrofurantoin has been shown to be active against most of the following bacteria both in vitro and in clinical infections: Aerobic bacteria Gram-positive bacteria Staphylococcus aureus Enterococcus species Gram-negative bacteria Escherichia coli Enterobacter species Klebsiella species The following in vitro data are available, but their clinical significance is unknown. Nitrofurantoin exhibits in vitro activity against the following bacteria; however, the safety and efficacy of nitrofurantoin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials. Aerobic bacteria Gram-positive bacteria Coagulase-negative staphylococci (including Staphylococcus epidermidis and Staphylococcus saprophyticus ) Streptococcus agalactiae Viridans group streptococci Gram-negative bacteria Citrobacter koseri Citrobacter freundii Klebsiella oxytoca Susceptibility Testing For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC ."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Nitrofurantoin is an antibacterial drug [ see Microbiology (12.4) ]."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Pharmacodynamic effects of nitrofurantoin are unknown."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Orally administered nitrofurantoin is readily absorbed. Blood concentrations at therapeutic dosage are usually low. Effect of Food The presence of food or agents delaying gastric emptying can increase the bioavailability of nitrofurantoin. Distribution Nitrofurantoin is highly soluble in urine. Nitrofurantoin lacks the broader tissue distribution of other therapeutic agents approved for urinary tract infections. Elimination Excretion Nitrofurantoin is rapidly excreted in urine, to which it may impart a brown color. Following a dose regimen of 100 mg four times a day for 7 days, average urinary drug recoveries (0 hour to 24 hours) on Day 1 and Day 7 were 42.7% and 43.6%. Nitrofurantoin is dialyzable. Specific Populations The pharmacokinetics of nitrofurantoin oral suspension are unknown for the geriatric patients, pediatric patients, patients with hepatic impairment, or pregnant women. Differences between male and female patients, and racial or ethnic groups are unknown. Patients with Renal Impairment The reported urinary recoveries of nitrofurantoin after a single 100 mg oral dose and 100 mg four times a day in patients with varying renal function showed approximate linear relationship between the amount of nitrofurantoin recovered and creatinine clearance. Drug Interaction Studies Antacids such as magnesium trisilicate In a cross-over study, the in vivo absorption characteristics of nitrofurantoin and nitrofurantoin-magnesium trisilicate combination were evaluated in 6 healthy males. The administration of 5 g magnesium trisilicate with 100 mg nitrofurantoin reduced the rate and extent of nitrofurantoin excretion reflecting decrease in both rate and extent of its absorption [see Drug Interaction (7.1) ]. Propantheline In a crossover study, the in vivo absorption characteristics of nitrofurantoin and propantheline (an anticholinergic agent) combination were evaluated in six subjects. Administration of 30 mg of propantheline 45 min prior to nitrofurantoin 100 mg administration resulted in a statistically significant increase in nitrofurantoin excretion, however, the clinical significance of this effect is unknown."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility Carcinogenesis Nitrofurantoin was not carcinogenic when fed to female Holtzman rats for 44.5 weeks or to female Sprague-Dawley rats for 75 weeks. Two chronic rodent bioassays utilizing male and female Sprague-Dawley rats and two chronic bioassays in Swiss mice and in BDF 1 mice revealed no evidence of carcinogenicity. Nitrofurantoin presented evidence of carcinogenic activity in female B6C3F 1 mice as shown by increased incidences of tubular adenomas, benign mixed tumors, and granulosa cell tumors of the ovary. In male F344/N rats, there were increased incidences of uncommon kidney tubular cell neoplasms, osteosarcomas of the bone, and neoplasms of the subcutaneous tissue. The significance of carcinogenicity findings relative to the therapeutic use of nitrofurantoin in humans is unknown. Mutagenesis Nitrofurantoin has been shown to induce point mutations in certain strains of Salmonella typhimurium and forward mutations in L5178Y mouse lymphoma cells. Nitrofurantoin induced increased numbers of sister chromatid exchanges and chromosomal aberrations in Chinese hamster ovary cells but not in human cells in culture. Results of the sex-linked recessive lethal assay in Drosophila were negative after administration of nitrofurantoin by feeding or by injection. Nitrofurantoin did not induce heritable mutation in the rodent models examined. The significance of mutagenicity findings relative to the therapeutic use of nitrofurantoin in humans is unknown. Impairment of Fertility The administration of high doses of nitrofurantoin to rats causes temporary spermatogenic arrest; this is reversible on discontinuing the drug."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility Carcinogenesis Nitrofurantoin was not carcinogenic when fed to female Holtzman rats for 44.5 weeks or to female Sprague-Dawley rats for 75 weeks. Two chronic rodent bioassays utilizing male and female Sprague-Dawley rats and two chronic bioassays in Swiss mice and in BDF 1 mice revealed no evidence of carcinogenicity. Nitrofurantoin presented evidence of carcinogenic activity in female B6C3F 1 mice as shown by increased incidences of tubular adenomas, benign mixed tumors, and granulosa cell tumors of the ovary. In male F344/N rats, there were increased incidences of uncommon kidney tubular cell neoplasms, osteosarcomas of the bone, and neoplasms of the subcutaneous tissue. The significance of carcinogenicity findings relative to the therapeutic use of nitrofurantoin in humans is unknown. Mutagenesis Nitrofurantoin has been shown to induce point mutations in certain strains of Salmonella typhimurium and forward mutations in L5178Y mouse lymphoma cells. Nitrofurantoin induced increased numbers of sister chromatid exchanges and chromosomal aberrations in Chinese hamster ovary cells but not in human cells in culture. Results of the sex-linked recessive lethal assay in Drosophila were negative after administration of nitrofurantoin by feeding or by injection. Nitrofurantoin did not induce heritable mutation in the rodent models examined. The significance of mutagenicity findings relative to the therapeutic use of nitrofurantoin in humans is unknown. Impairment of Fertility The administration of high doses of nitrofurantoin to rats causes temporary spermatogenic arrest; this is reversible on discontinuing the drug."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied Nitrofurantoin oral suspension (25 mg/5 mL) is available in: NDC 16571-740-24 PET amber bottle of 230 mL Nitrofurantoin oral suspension (50 mg/5 mL) is available in: NDC 16571-888-06 PET amber bottle of 60 mL Storage and Handling Avoid exposure to strong light which may darken the drug. It is stable when stored between 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature]. Protect from freezing. Shake vigorously. Dispense in tight, light-resistant, plastic (PET) or glass container. Use within 30 days."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Administration Instructions Instruct the patients to: • complete the full course of therapy; however, advise the patients or their caregiver to contact their physician if any unusual symptoms occur during therapy. • take daily doses of nitrofurantoin oral suspension with food, as food will further enhance tolerance and improve the absorption of the drug. • shake nitrofurantoin oral suspension vigorously before use each time. • use an oral dosing syringe to correctly measure the prescribed amount of nitrofurantoin oral suspension. Inform patients or caregivers that an appropriate size oral dosing syringe with graduations that align with the volume prescribed may be obtained from their pharmacy. Serious Allergic Reactions Advise patients that allergic reactions, including serious allergic reactions, could occur with nitrofurantoin oral suspension and that serious reactions require immediate treatment. Advise patients to discontinue nitrofurantoin oral suspension at the first sign of allergic reactions [see Warnings and Precautions (5.1) ]. Diarrhea Advise patients that diarrhea is a common problem caused by antibacterial drugs, including nitrofurantoin oral suspension which usually ends when the antibacterial drug is discontinued. Sometimes frequent watery and bloody diarrhea (with or without stomach cramps and fever) may occur even as late as two or more months after having taken the last dose of the antibacterial drug. If this occurs, advise patients to contact their physician as soon as possible [see Warnings and Precautions (5.6) ]. Drug Interactions with Antacids Advise patients not to use antacid preparations containing magnesium trisilicate while taking nitrofurantoin oral suspension [see Drug Interactions (7.1) ]. Lactation Advise women not to breastfeed infants who are less than one month of age or who have G6PD deficiency during treatment with nitrofurantoin oral suspension [see Use in Specific Populations (8.2) ]. Antibacterial Resistance Patients should be counseled that antibacterial drugs including nitrofurantoin should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When nitrofurantoin oral suspension is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of the therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by nitrofurantoin or other antibacterial drugs in the future. Change in Urine Color Inform patients that nitrofurantoin oral suspension may impart a brown color to their urine [see Clinical Pharmacology (12.3) ]. Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: AP/DRUGS/04/2016 Revised: 02/2024 PIA88806-01"
+  ],
+  "set_id": "89095f4d-e142-465e-b378-da24f6eeaf2b",
+  "id": "b6694787-d7b8-4bcb-8dff-5ff30a83443a",
+  "effective_time": "20251111",
+  "version": "5"
+ }
+}

@@ -1,0 +1,709 @@
+{
+ "id_es": "ibuprofeno",
+ "generic_en": "ibuprofen",
+ "search": "openfda.generic_name.exact:\"IBUPROFEN\"",
+ "downloaded": "2026-11-11T06:46Z",
+ "chosen": {
+  "set_id": "152189e5-391c-42d3-a03b-c8364e2de6bf",
+  "id": "22ecca9c-274b-73c3-e063-6394a90a2a66",
+  "effective_time": "20241108",
+  "version": "9",
+  "brand_name": [
+   "Childrens Motrin"
+  ],
+  "generic_name": [
+   "IBUPROFEN"
+  ],
+  "manufacturer_name": [
+   "Kenvue Brands LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "NDA020516"
+  ],
+  "n_sections": 20
+ },
+ "candidates": [
+  {
+   "set_id": "0fa4cd66-66ad-4ec9-b38c-6b5840df39df",
+   "id": "5e73d333-83b4-5b54-e063-6294a90a6ef5",
+   "effective_time": "20261022",
+   "version": "23",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202413"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "138edf0b-d7da-44b6-b010-d311a37087fe",
+   "id": "17ff31b8-0f57-42af-ba0c-af8a52f02819",
+   "effective_time": "20261009",
+   "version": "1",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Medcore LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202413"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "152b0c90-b0c3-4b1b-9e93-4b4c6b3118bd",
+   "id": "fae43ef1-fca4-4d0a-8f09-4bd7148a2b20",
+   "effective_time": "20261009",
+   "version": "1",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202413"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "0daf1be9-ea38-461e-e063-6394a90a7954",
+   "id": "5d5bbcd8-11aa-a465-e063-6394a90afb47",
+   "effective_time": "20261008",
+   "version": "3",
+   "brand_name": [
+    "Ibuwin Forte"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "OPMX LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA079174"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1991c503-ef6e-42dc-ada4-f909962dd789",
+   "id": "da217e33-5b1c-404a-8bd6-3193e24c5ee4",
+   "effective_time": "20261006",
+   "version": "8",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213794"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "1662a495-4f6a-4515-a405-557681e1a496",
+   "id": "60c49378-684f-4a8d-b51d-e58014a7ecf9",
+   "effective_time": "20260928",
+   "version": "5",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "PLD Acquisitions LLC DBA Avma Pharma Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076460"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "06173bcd-1e17-4bf8-95e6-d03593585446",
+   "id": "7e6a037c-c9ee-4481-b68c-2b4c51b267e6",
+   "effective_time": "20260916",
+   "version": "14",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "H E B"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075010"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0ca02f8b-4413-4e7c-a67b-8c67c53e1343",
+   "id": "5b11f41c-97b6-e924-e063-6394a90a3527",
+   "effective_time": "20260909",
+   "version": "5",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Lidl US LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA079174"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "04e1b176-b74a-413e-a8e1-dd3764b9aa8b",
+   "id": "a71e880d-f061-4854-9588-9b8a94abb63d",
+   "effective_time": "20260901",
+   "version": "3",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Gobrands, Inc. (Goodnow)"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA078682"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0865fe8a-df81-4ae4-8bed-29a022ba164f",
+   "id": "85b84c5f-1ebe-4179-bb70-698b8cad3407",
+   "effective_time": "20260817",
+   "version": "2",
+   "brand_name": [
+    "CHILDRENS IBUPROFEN"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA074937"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "159b68b7-54e5-4f83-b632-f49e7b4b14a5",
+   "id": "ec037f02-0428-4c2a-b8df-2b094f232a33",
+   "effective_time": "20260805",
+   "version": "2",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "P & L Development, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA079129"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "14515409-736f-4119-b6a0-cb19ee2e948e",
+   "id": "57c17222-de16-8407-e063-6394a90a5aee",
+   "effective_time": "20260729",
+   "version": "4",
+   "brand_name": [
+    "IBUPROFEN"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Harris Teeter"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA202312"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "17577b3b-e755-45d1-8b53-775d058578b2",
+   "id": "0f7ab00a-cc41-400d-abfd-0febb84ed8bb",
+   "effective_time": "20260729",
+   "version": "11",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078558"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "0cb73c19-a7cb-4ad9-9aa5-c24afb80d6d8",
+   "id": "570ebcac-82b1-04d2-e063-6294a90a9313",
+   "effective_time": "20260720",
+   "version": "19",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091625"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "0387bfaa-daca-48ec-b718-0216a848c16a",
+   "id": "0387bfaa-daca-48ec-b718-0216a848c16a",
+   "effective_time": "20260710",
+   "version": "1",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078558"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "0a98cce4-f5c0-12a8-e063-6294a90a4e7e",
+   "id": "5608d59a-b161-d1c8-e063-6394a90a8868",
+   "effective_time": "20260707",
+   "version": "6",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213794"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "03138a6f-653a-f359-e063-6394a90ac5d6",
+   "id": "54eef6fc-7454-43e3-e063-6294a90a55d7",
+   "effective_time": "20260623",
+   "version": "4",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "DOLGENCORP INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA078682"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0ca0b6cf-7d1f-4673-b9b9-48f78d80c00a",
+   "id": "54ef6b12-faed-d804-e063-6394a90abb63",
+   "effective_time": "20260623",
+   "version": "4",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "BJWC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA078682"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "027ded51-aa01-6619-3938-c8162a421cf3",
+   "id": "bdfc7556-6210-4b0a-9177-a6e42f258699",
+   "effective_time": "20260618",
+   "version": "15",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "L.N.K. International, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075139"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "01f8fe3a-8810-4b38-8860-d95e05d37709",
+   "id": "f1932057-8d9f-4b59-9c49-d7d4c7251352",
+   "effective_time": "20260615",
+   "version": "16",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "ARMY AND AIR FORCE EXCHANGE SERVICE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075139"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "121b13c8-0b1a-4c48-9d57-3b53a9228d34",
+   "id": "fd1c1135-5d4d-49c9-a23c-2ae92d096ebb",
+   "effective_time": "20260522",
+   "version": "19",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206568"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "06bc4445-5c80-4dd3-b1bb-d9244f45f570",
+   "id": "f86177bc-a5c2-47fe-9ee3-59478a2ec32c",
+   "effective_time": "20260520",
+   "version": "15",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Salado Sales, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075010"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "085dcc1a-e4b0-4d08-9476-72275382d1a1",
+   "id": "b958b70c-3da0-4d02-96fa-5523f0be80a1",
+   "effective_time": "20260515",
+   "version": "9",
+   "brand_name": [
+    "good neighbor pharmacy ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Amerisource Bergen"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA072096"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "13fd4401-1821-4f2b-a44e-96aa2fa75b5c",
+   "id": "72ece265-2379-46ed-8f63-4d24bae4932a",
+   "effective_time": "20260513",
+   "version": "4",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213794"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "05ce8e8e-0b25-061e-e063-6394a90a2e92",
+   "id": "513ee88d-6840-14ef-e063-6394a90ac8ac",
+   "effective_time": "20260507",
+   "version": "2",
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213794"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each 5 mL) Ibuprofen 100 mg (NSAID) nonsteroidal anti-inflammatory drug"
+  ],
+  "purpose": [
+   "Purpose Pain reliever/fever reducer"
+  ],
+  "indications_and_usage": [
+   "Uses temporarily: relieves minor aches and pains due to the common cold, flu, sore throat, headache and toothache reduces fever"
+  ],
+  "warnings": [
+   "Warnings Allergy alert Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: hives facial swelling asthma (wheezing) shock skin reddening rash blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if your child: has had stomach ulcers or bleeding problems takes a blood thinning (anticoagulant) or steroid drug takes other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) takes more or for a longer time than directed Heart attack and stroke warning NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed. Sore throat warning Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult doctor promptly. Do not use more than 2 days or administer to children under 3 years of age unless directed by doctor. Do not use if the child has ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer right before or after heart surgery Ask a doctor before use if stomach bleeding warning applies to your child child has a history of stomach problems, such as heartburn child has problems or serious side effects from taking pain relievers or fever reducers child has not been drinking fluids child has lost a lot of fluid due to vomiting or diarrhea child has high blood pressure, heart disease, liver cirrhosis, kidney disease, or had a stroke child has asthma child is taking a diuretic Ask a doctor or pharmacist before use if the child is under a doctor's care for any serious condition taking any other drug When using this product take with food or milk if stomach upset occurs Stop use and ask a doctor if child experiences any of the following signs of stomach bleeding: feels faint vomits blood has bloody or black stools has stomach pain that does not get better child has symptoms of heart problems or stroke: chest pain trouble breathing weakness in one part or side of body slurred speech leg swelling the child does not get any relief within first day (24 hours) of treatment fever or pain gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "do_not_use": [
+   "Do not use if the child has ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer right before or after heart surgery"
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if stomach bleeding warning applies to your child child has a history of stomach problems, such as heartburn child has problems or serious side effects from taking pain relievers or fever reducers child has not been drinking fluids child has lost a lot of fluid due to vomiting or diarrhea child has high blood pressure, heart disease, liver cirrhosis, kidney disease, or had a stroke child has asthma child is taking a diuretic"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if the child is under a doctor's care for any serious condition taking any other drug"
+  ],
+  "when_using": [
+   "When using this product take with food or milk if stomach upset occurs"
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if child experiences any of the following signs of stomach bleeding: feels faint vomits blood has bloody or black stools has stomach pain that does not get better child has symptoms of heart problems or stroke: chest pain trouble breathing weakness in one part or side of body slurred speech leg swelling the child does not get any relief within first day (24 hours) of treatment fever or pain gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear"
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "dosage_and_administration": [
+   "Directions this product does not contain directions or complete warnings for adult use do not give more than directed shake well before using mL = milliliter find right dose on chart. If possible, use weight to dose; otherwise use age. use only enclosed dosing cup. Do not use any other dosing device. if needed, repeat dose every 6-8 hours do not use more than 4 times a day replace original bottle cap to maintain child resistance Dosing Chart Weight (lb) Age (yr) Dose (mL) or as directed by a doctor under 24 under 2 years ask a doctor 24-35 lbs 2-3 years 5 mL 36-47 lbs 4-5 years 7.5 mL 48-59 lbs 6-8 years 10 mL 60-71 lbs 9-10 years 12.5 mL 72-95 lbs 11 years 15 mL"
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"65%\"><caption>Dosing Chart</caption><col width=\"30%\" align=\"center\" valign=\"top\"/><col width=\"32%\" align=\"center\" valign=\"top\"/><col width=\"38%\" align=\"center\" valign=\"top\"/><thead><tr><th styleCode=\"Rrule Lrule\">Weight (lb)</th><th styleCode=\"Rrule\">Age (yr)</th><th styleCode=\"Rrule\">Dose (mL) <footnote ID=\"K655\">or as directed by a doctor</footnote></th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\">under 24</td><td styleCode=\"Rrule\">under 2 years</td><td styleCode=\"Rrule\">ask a doctor</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\">24-35 lbs</td><td styleCode=\"Rrule\">2-3 years</td><td styleCode=\"Rrule\">5 mL</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\">36-47 lbs</td><td styleCode=\"Rrule\">4-5 years</td><td styleCode=\"Rrule\">7.5 mL</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\">48-59 lbs</td><td styleCode=\"Rrule\">6-8 years</td><td styleCode=\"Rrule\">10 mL</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Lrule\">60-71 lbs</td><td styleCode=\"Rrule\">9-10 years</td><td styleCode=\"Rrule\">12.5 mL</td></tr><tr><td styleCode=\"Rrule Lrule\">72-95 lbs</td><td styleCode=\"Rrule\">11 years</td><td styleCode=\"Rrule\">15 mL</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Other information each 5 mL contains: sodium 2 mg store between 20-25°C (68-77°F) do not use if carton is opened or if carton tape or bottle wrap imprinted \"SAFETY SEAL®\" is broken or missing"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients acesulfame potassium, anhydrous citric acid, FD&C red no. 40, flavors, glycerin, polysorbate 80, pregelatinized starch, purified water, sodium benzoate, sucrose, xanthan gum"
+  ],
+  "questions": [
+   "Questions or comments? Call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+  ],
+  "set_id": "152189e5-391c-42d3-a03b-c8364e2de6bf",
+  "id": "22ecca9c-274b-73c3-e063-6394a90a2a66",
+  "effective_time": "20241108",
+  "version": "9"
+ }
+}

@@ -1,0 +1,715 @@
+{
+ "id_es": "aspirina",
+ "generic_en": "aspirin",
+ "search": "openfda.generic_name.exact:\"ASPIRIN\"",
+ "downloaded": "2026-11-11T06:41Z",
+ "chosen": {
+  "set_id": "03774690-662b-1c30-e063-6294a90a3488",
+  "id": "5f7813f7-58fd-b705-e063-6294a90a73ab",
+  "effective_time": "20261104",
+  "version": "6",
+  "brand_name": [
+   "CARDIASPIRIN PROTECT"
+  ],
+  "generic_name": [
+   "ASPIRIN"
+  ],
+  "manufacturer_name": [
+   "OPMX LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "M013"
+  ],
+  "n_sections": 22
+ },
+ "candidates": [
+  {
+   "set_id": "03774690-662b-1c30-e063-6294a90a3488",
+   "id": "5f7813f7-58fd-b705-e063-6294a90a73ab",
+   "effective_time": "20261104",
+   "version": "6",
+   "brand_name": [
+    "CARDIASPIRIN PROTECT"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "OPMX LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "24d4f46a-c7a5-4e94-804f-1e307d8e8cfc",
+   "id": "735efe43-391d-4081-9eb6-b109eb320a94",
+   "effective_time": "20261028",
+   "version": "4",
+   "brand_name": [
+    "Gencare-Aspirin Low Dose Pain reliever (NSAID)"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Pioneer Life Sciences, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "2d375ec9-a528-4048-a15b-652fa20e74a7",
+   "id": "a78e6c3d-5267-4552-af63-96cc2b72e9a1",
+   "effective_time": "20261028",
+   "version": "4",
+   "brand_name": [
+    "Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Chain Drug Marketing Association, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "14cb1d2d-95b8-447e-8d79-e6ec82c0e431",
+   "id": "5ed6100d-08b0-8c45-e063-6394a90addb0",
+   "effective_time": "20261027",
+   "version": "5",
+   "brand_name": [
+    "ASPIRIN"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Marc Glassman, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "338aea3b-a38f-424f-9006-3ede3825bf90",
+   "id": "c9b72b4e-a19a-4efd-94df-78218730d212",
+   "effective_time": "20261009",
+   "version": "8",
+   "brand_name": [
+    "aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Meijer Distribution Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "1d6552e8-4f89-411f-a352-8f7835851fc0",
+   "id": "5d293d19-d016-c7d7-e063-6394a90a651e",
+   "effective_time": "20261006",
+   "version": "2",
+   "brand_name": [
+    "Aspirin 81mg"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Gendose Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "16595d62-8507-103c-e063-6394a90a491a",
+   "id": "5bbeafb9-9892-3ce9-e063-6394a90a8c8b",
+   "effective_time": "20260918",
+   "version": "3",
+   "brand_name": [
+    "Low Dose Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "SAM'S WEST INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "1b443037-7c01-4f9d-922d-93612aede8f7",
+   "id": "f598a96e-ee89-44a6-b68a-af3d6ccd15c6",
+   "effective_time": "20260918",
+   "version": "4",
+   "brand_name": [
+    "Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Meijer Distribution, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "188de17c-36aa-41ae-9d84-d1b8c4ea6957",
+   "id": "90b5f6ab-f120-421d-9624-cc990316a9c8",
+   "effective_time": "20260917",
+   "version": "22",
+   "brand_name": [
+    "Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "2777beea-06d7-4ff5-ae4a-ad7a117dfb62",
+   "id": "38f5cff9-33ed-4cd5-a99f-b84a07ab9982",
+   "effective_time": "20260902",
+   "version": "13",
+   "brand_name": [
+    "Aspirin Regular Strength"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 110, LLC. DBA Leader"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "277723db-3578-4842-92eb-2de325f87649",
+   "id": "277723db-3578-4842-92eb-2de325f87649",
+   "effective_time": "20260728",
+   "version": "1",
+   "brand_name": [
+    "Aspirin 81mg Enteric Coated"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "2c5e80e8-a979-45fb-9297-8ff294280c25",
+   "id": "cf251423-413d-4b84-a7e6-587fb0269f3d",
+   "effective_time": "20260713",
+   "version": "4",
+   "brand_name": [
+    "Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Amerisource Bergen"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "00d9ab0d-ff25-784f-e063-6294a90a8497",
+   "id": "55f373b7-0c70-b19c-e063-6294a90a82d2",
+   "effective_time": "20260706",
+   "version": "6",
+   "brand_name": [
+    "Rapidol Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Pharmadel LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "227cefca-acc4-41d0-e063-6394a90a35b9",
+   "id": "55f653d0-d7f6-cae2-e063-6294a90acfa9",
+   "effective_time": "20260706",
+   "version": "5",
+   "brand_name": [
+    "Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Trifecta Pharmaceuticals USA LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "055d8420-c189-4a9e-acdc-21627935c8eb",
+   "id": "735cdb9a-650e-4ce5-b168-2db27144c316",
+   "effective_time": "20260625",
+   "version": "5",
+   "brand_name": [
+    "Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Chain Drug Marketing Association, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0b27c0fd-7ea8-4588-9169-5ad4e8df77ef",
+   "id": "f0381bfa-fd3f-4242-9baf-0b84dfaa4660",
+   "effective_time": "20260625",
+   "version": "19",
+   "brand_name": [
+    "Aspirin Regular Strength"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "2f6ec676-3832-420e-be91-fce83f6586c8",
+   "id": "62d04705-d057-45a8-b5c3-18c9c82caa65",
+   "effective_time": "20260619",
+   "version": "19",
+   "brand_name": [
+    "Aspirin Low Dose"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "L.N.K. International, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "3716a7d4-a555-4e54-aa0a-7b8f3e32addb",
+   "id": "35f29749-aeab-454f-a67c-b9f468fc5b32",
+   "effective_time": "20260619",
+   "version": "4",
+   "brand_name": [
+    "Aspirin Low Dose"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Meijer Distribution, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "10b9a1fc-70d1-44ea-a6de-5c1943e8fbaa",
+   "id": "50fc4202-32ea-7849-e063-6394a90a5a73",
+   "effective_time": "20260515",
+   "version": "1",
+   "brand_name": [
+    "Aspirin Enteric Coated, Regular Strength"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Gendose Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "119de26f-cce5-401c-81fa-775ebebf6c6f",
+   "id": "50fc4268-730d-ff50-e063-6394a90a4ac0",
+   "effective_time": "20260515",
+   "version": "1",
+   "brand_name": [
+    "Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Gendose Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "1754a9f2-e7e5-4efb-a728-6ba2a7155d11",
+   "id": "82e84a61-2e54-4154-9cc5-2185569fe742",
+   "effective_time": "20260512",
+   "version": "18",
+   "brand_name": [
+    "Aspirin Low Dose"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Valu Merchandisers Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "093e0458-9975-456f-8950-8273c8890b3c",
+   "id": "ea158083-c7a0-4b01-aa1d-d0e41bdc5e70",
+   "effective_time": "20260511",
+   "version": "20",
+   "brand_name": [
+    "Low Dose Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Wal-Mart Stores Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0f2aa75e-534f-478b-811e-fb492b7af9bb",
+   "id": "50323b09-00b6-813c-e063-6394a90a11b1",
+   "effective_time": "20260424",
+   "version": "2",
+   "brand_name": [
+    "Medique at Home Aspirin"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "23b29044-6389-42ea-839a-5351557a6ce3",
+   "id": "511b813a-06f5-4331-919d-de5b35820aa1",
+   "effective_time": "20260423",
+   "version": "6",
+   "brand_name": [
+    "Aspirin 81 mg Low Dose"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "CVS WOONSOCKET PRESCRIPTION CENTER, INCORPORATED"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "07edcb31-d31d-4607-98c3-dcb1e062cc70",
+   "id": "0be86198-787e-4198-8ff8-3e4107e421c4",
+   "effective_time": "20260422",
+   "version": "16",
+   "brand_name": [
+    "Aspirin Low Dose"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "United Natural Foods, Inc. dba UNFI"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each tablet) Aspirin 81 mg (NSAID) nonsteroidal anti-inflammatory drug Purpose Active ingredient (in each tablet) Purpose Aspirin 81mg (NSAID)* Pain reliever *nonsteroidal ant-inflammatory drug"
+  ],
+  "active_ingredient_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td> <content styleCode=\"italics\"> <content styleCode=\"bold\">Active ingredient (in each tablet)</content> </content> </td> <td> <content styleCode=\"bold\"> <content styleCode=\"italics\">Purpose</content> </content> </td> </tr> <tr> <td>Aspirin 81mg (NSAID)*</td> <td>Pain reliever</td> </tr> </tbody> </table>"
+  ],
+  "purpose": [
+   "Purpose Active ingredient (in each tablet) Purpose Aspirin 81mg (NSAID)* Pain reliever *nonsteroidal ant-inflammatory drug"
+  ],
+  "purpose_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td> <content styleCode=\"italics\"> <content styleCode=\"bold\">Active ingredient (in each tablet)</content> </content> </td> <td> <content styleCode=\"bold\"> <content styleCode=\"italics\">Purpose</content> </content> </td> </tr> <tr> <td>Aspirin 81mg (NSAID)*</td> <td>Pain reliever</td> </tr> </tbody> </table>"
+  ],
+  "indications_and_usage": [
+   "Uses ftemporarily relief of minor aches and pains or as recommended by your doctor. Because of its delayed release action, this product will not provide fast relief of headache or symptoms needing immediate relief."
+  ],
+  "warnings": [
+   "Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction which may include: hives shock facial swelling asthma (wheezing) Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you are allergic to aspirin or any other pain reliever/fever reducer Ask a doctor or pharmacist before use if you have asthma stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis or kidney disease you are taking a diuretic Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis under a doctor's care for any serious condition taking any other drug Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint, have bloody or black stools, vomit blood, have stomach pain that does not get better. an allergic reaction occurs. Seek medical help right away. ringing in the ears or a loss of hearing occurs pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be sing of a serious condition. If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any sings or symptoms."
+  ],
+  "do_not_use": [
+   "Do not use if you are allergic to aspirin or any other pain reliever/fever reducer"
+  ],
+  "ask_doctor": [
+   "Ask a doctor or pharmacist before use if you have asthma stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis or kidney disease you are taking a diuretic"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis under a doctor's care for any serious condition taking any other drug"
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint, have bloody or black stools, vomit blood, have stomach pain that does not get better. an allergic reaction occurs. Seek medical help right away. ringing in the ears or a loss of hearing occurs pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be sing of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any sings or symptoms."
+  ],
+  "dosage_and_administration": [
+   "Directions drink a full glass of water with each dose adults and children 12 years and over: take 4 to 8 tablets every 4 hours while symptoms lasts. do not take more than 48 tablets in 24 hours unless directed by a doctor children under 12 years: ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td>adults and children 12 years and over:</td> <td> <list listType=\"unordered\"> <item>take 4 to 8 tablets every 4 hours while symptoms lasts.</item> <item>do not take more than 48 tablets in 24 hours unless directed by a doctor</item> </list> </td> </tr> <tr> <td> <paragraph>children under 12 years:</paragraph> </td> <td> <list listType=\"unordered\"> <item>ask a doctor</item> </list> </td> </tr> </tbody> </table>"
+  ],
+  "other_safety_information": [
+   "Other information store at room temperature 15-30 °C (59-86 °F) TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients Anhydrous Lactose, Carnuba Wax, Colloidal Sillicon Dioxide, Crosscarmellose Sodium,FD&C Yellow #10 al lake, FD&C Yellow#6 al Lake, Iron Oxide Ochre, Methacrylic acid copolymer, Microcrystalline cellulose, Polysorbate 80, simethiocone, sodium hydroxide, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate"
+  ],
+  "questions": [
+   "Questions or comments? call toll free Call (619) 600-5632 Monday through Friday 9AM – 5PM EST"
+  ],
+  "set_id": "03774690-662b-1c30-e063-6294a90a3488",
+  "id": "5f7813f7-58fd-b705-e063-6294a90a73ab",
+  "effective_time": "20261104",
+  "version": "6"
+ }
+}

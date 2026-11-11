@@ -1,0 +1,750 @@
+{
+ "id_es": "desmopresina",
+ "generic_en": "desmopressin",
+ "search": "openfda.generic_name:\"desmopressin\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "f5ada39c-20ed-4500-9dce-1e4ab642a358",
+  "id": "6beb1a83-b970-4d4a-965c-2972718e5916",
+  "effective_time": "20260722",
+  "version": "3",
+  "brand_name": [
+   "Stimate"
+  ],
+  "generic_name": [
+   "DESMOPRESSIN ACETATE"
+  ],
+  "manufacturer_name": [
+   "Ferring Pharmaceuticals Inc."
+  ],
+  "route": [
+   "NASAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020355"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "1b966e11-966e-41bc-ab20-76d29196ca20",
+   "id": "14250fca-0a42-4eae-b736-aa6268c5be29",
+   "effective_time": "20261028",
+   "version": "1",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "The J. Molner Company LLC"
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210223"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "539d7da2-72b8-45f9-836c-4e3351dd488e",
+   "id": "5ddbda32-85a3-b487-e063-6394a90a86bb",
+   "effective_time": "20261015",
+   "version": "4",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216904"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "cdec2cc2-4fd9-474e-884f-d0599e40948f",
+   "id": "5ddbb5eb-dfda-1689-e063-6294a90a2fa8",
+   "effective_time": "20261015",
+   "version": "4",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216922"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "1ac423b8-27a6-4cef-4a82-c50bf81b4f49",
+   "id": "30550e89-9eed-13de-c2dc-8faea284ffed",
+   "effective_time": "20260910",
+   "version": "13",
+   "brand_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076703"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "72aeef35-c102-b628-0219-9822651887eb",
+   "id": "ef4f619b-8da2-493b-8a88-72a57fcfc8d0",
+   "effective_time": "20260910",
+   "version": "10",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077414"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "52680415-52a0-61c2-e063-6294a90ae27e",
+   "id": "5a144051-0656-4da5-e063-6294a90a18cf",
+   "effective_time": "20260827",
+   "version": "2",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "The J. Molner Company LLC"
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210223"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "f5ada39c-20ed-4500-9dce-1e4ab642a358",
+   "id": "6beb1a83-b970-4d4a-965c-2972718e5916",
+   "effective_time": "20260722",
+   "version": "3",
+   "brand_name": [
+    "Stimate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Ferring Pharmaceuticals Inc."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020355"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "d87168b9-f103-4ba5-b0b3-0656d1c81da2",
+   "id": "ff825351-c532-421f-9aad-569ca5efbd59",
+   "effective_time": "20260622",
+   "version": "1",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Armas Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219981"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "673cd9ab-b714-49ee-9ce7-c99be605c30e",
+   "id": "401c541b-325d-4b90-a5da-175448dad1eb",
+   "effective_time": "20260619",
+   "version": "1",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Armas Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219981"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "f140926e-3201-4b8e-8207-14c560ddb55e",
+   "id": "50265f49-069b-8985-e063-6394a90af552",
+   "effective_time": "20260423",
+   "version": "1",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213095"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "84dbb392-4535-4cbc-af60-75abb494f26e",
+   "id": "84dbb392-4535-4cbc-af60-75abb494f26e",
+   "effective_time": "20260316",
+   "version": "1",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Caplin Steriles Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219981"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "4c0e1356-d14f-cfb4-e063-6294a90acd27",
+   "id": "4c0e1356-d150-cfb4-e063-6294a90acd27",
+   "effective_time": "20260302",
+   "version": "1",
+   "brand_name": [
+    "DESMODA"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE ORAL SOLUTION"
+   ],
+   "manufacturer_name": [
+    "Eton Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA219873"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "2a2a6eba-c5bf-4ee4-bb18-c992ae59dce5",
+   "id": "4cd11e26-c85f-447c-8a97-56215fdf7b1f",
+   "effective_time": "20260123",
+   "version": "2",
+   "brand_name": [
+    "Desmopressin acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074888"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "f306e2d4-781f-ff8f-e053-2a95a90ad15b",
+   "id": "490efdbc-280a-2644-e063-6294a90a583d",
+   "effective_time": "20260101",
+   "version": "2",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210371"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "0d447b48-3f4b-430e-9e68-d8b9401c002e",
+   "id": "437dc780-8fd1-6205-e063-6394a90a19db",
+   "effective_time": "20251113",
+   "version": "5",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077414"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "dc9b0dad-d265-4dff-8191-d936280d85a2",
+   "id": "e6368593-40cc-4323-ac50-2aaa12b7a35d",
+   "effective_time": "20251107",
+   "version": "102",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077414"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "29df0492-f7ef-47bb-aa67-4ef9e5c2846f",
+   "id": "13ec577b-9bd8-4429-ad53-f8bf5a118995",
+   "effective_time": "20251024",
+   "version": "13",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Nordic Pharma, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018938"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "10b29aa2-274e-4c29-bccd-424bd3761758",
+   "id": "7d143a4a-5ead-436e-a5a8-430a2bfdda32",
+   "effective_time": "20251023",
+   "version": "7",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Nordic Pharma, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018938"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "c2e21331-4d54-4fa7-8f0d-31fe23a981aa",
+   "id": "027b022c-e368-4d24-90da-05f96b2481a3",
+   "effective_time": "20251015",
+   "version": "2",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Avenacy, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210223"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "131fd4d8-48ca-4c1f-8165-848dc0a4d511",
+   "id": "6b4ae0d6-bbed-4dab-a40e-7103eeb90abe",
+   "effective_time": "20250723",
+   "version": "6",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Nordic Pharma, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018938"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "8034989a-45f5-436b-8b1f-42108ee2a21a",
+   "id": "97c5146c-9da2-408d-859c-c35abbd82893",
+   "effective_time": "20250619",
+   "version": "5",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Oceanside Pharmaceuticals"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074830"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "b01c22dc-eecd-11b2-e053-2a95a90a529a",
+   "id": "2e790f05-a105-6fda-e063-6294a90a146c",
+   "effective_time": "20250219",
+   "version": "6",
+   "brand_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "UBI Pharma Inc."
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210223"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "52133714-37d1-458d-9839-f0bd206711ea",
+   "id": "c694f562-d5ea-468f-bccf-917437c5d606",
+   "effective_time": "20250131",
+   "version": "101",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019955"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "c01048e8-d28f-4085-9c37-3d5d48395a77",
+   "id": "8f843a4f-10ba-4f8c-a86e-f599dbb7f322",
+   "effective_time": "20241206",
+   "version": "8",
+   "brand_name": [
+    "Desmopressin Acetate"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "Nordic Pharma, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019955"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "b2fad59d-6176-4e09-9fbb-5cdd7f8f1568",
+   "id": "23150cfe-5244-9015-e063-6394a90aa7a4",
+   "effective_time": "20240927",
+   "version": "8",
+   "brand_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "generic_name": [
+    "DESMOPRESSIN ACETATE"
+   ],
+   "manufacturer_name": [
+    "UBI Pharma Inc."
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210218"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE STIMATE is a vasopressin analog used for: Hemophilia A - for patients with factor VIII coagulant activity levels greater than 5% to maintain hemostasis during surgical procedures and postoperatively or reduce bleeding with episodes of spontaneous or traumatic injuries such as hemarthroses, intramuscular hematomas, or mucosal bleeding. ( 1.1 ) von Willebrand’s disease (Type I) - for patients with mild to moderate disease with factor VIII levels greater than 5% to maintain hemostasis during surgical procedures or traumatic injuries such as hemarthroses, intramuscular hematomas, or mucosal bleeding. ( 1.2 ) Limitations of Use STIMATE is not indicated for: von Willebrand’s disease (severe Type I) - not indicated for the treatment of patients with severe Type I von Willebrand’s disease and when there is evidence of an abnormal molecular form of factor VIII antigen. ( 1.2 ) 1.1 Hemophilia A STIMATE is indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5% without factor VIII antibodies to: Maintain hemostasis during surgical procedures and postoperatively Reduce bleeding with episodes of spontaneous or traumatic injuries such as hemarthroses, intramuscular hematomas, or mucosal bleeding. 1.2 von Willebrand’s Disease (Type I) STIMATE is indicated for patients with mild to moderate von Willebrand’s disease (Type I) with factor VIII levels greater than 5% to: Maintain hemostasis during surgical procedures and postoperatively Reduce bleeding with episodes of spontaneous or traumatic injuries such as hemarthroses, intramuscular hematomas, mucosal bleeding, or menorrhagia. Limitations of Use Desmopressin acetate is not indicated for the treatment of severe von Willebrand’s disease (Type I) and when there is evidence of an abnormal molecular form of factor VIII antigen [see Warnings and Precautions ( 5. 5 )]."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Instruct patients to prime pump prior to use. ( 2 ) Patients weighing at least 50 kg: 300 mcg (one spray in each nostril). ( 2.2 ) Patients weighing less than 50 kg: 150 mcg administered as a single spray ( 2.2 ) Should not be used in infants younger than 11 months. ( 2.2 ) Not indicated for patients who require less than a 150 mcg dose. ( 2.2 ) 2.1 Pretreatment Testing and On-Treatment Monitoring Hemophilia A Laboratory tests for assessing patient status include levels of Factor VIII coagulant, Factor VIII antigen and Factor VIII ristocetin cofactor (von Willebrand factor) as well as activated partial thromboplastin time. Factor VIII coagulant activity should be determined before giving STIMATE for hemostasis. If Factor VIII coagulant activity is present at less than 5% of normal, STIMATE should not be relied on. von Willebrand's Disease Laboratory tests for assessing patient status include levels of Factor VIII coagulant activity, VWF:RCo and VWF:Ag. Fluid Restriction Instruct patients about appropriate fluid restriction during STIMATE treatment. Fluid restriction should be observed, and fluid intake should be limited to a minimum, from 1 hour before desmopressin administration, until at least 24 hours after administration [see Warnings and Precautions ( 5.1 )]. 2.2 Recommended Dosage The recommended dosage for patients weighing at least 50 kg is 300 mcg intranasal spray (one spray in each nostril). The recommended dosage for patients weighing less than 50 kg is 150 mcg administered as a single intranasal spray. The use of STIMATE is not indicated for patients who require less than a 150 mcg dose or doses that are not multiples of 150 mcg because the spray pump can only deliver doses of 150 mcg [see Indications and Usage ( 1 )] . If other doses are required, DDAVP Injection may be used [see Warnings and Precautions ( 2.3 )] . If STIMATE is used preoperatively, it should be administered 2 hours prior to the scheduled procedure. The necessity for repeat administration of STIMATE or use of any blood products for hemostasis should be determined by laboratory response as well as the clinical condition of the patient. The tendency toward tachyphylaxis (lessening of response) with repeated administration given more frequently than once every 48 hours should be considered in treating each patient. Must prime the spray pump prior to the first use. Instruct patients to: Prime STIMATE before initial use by releasing 6 sprays or until a fine mist appears. When STIMATE has not been used within 3 days, re-prime the pump by pressing down on the pump twice, or until you see a fine mist. Discard STIMATE 6 months after it is opened, after 25 sprays, or by the expiration date, whichever is sooner. Pediatric Patients STIMATE should not be used in infants younger than 11 months in the treatment of hemophilia A or von Willebrand’s disease. Use in infants and children will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication [see Warnings and Precautions ( 5.1 )] . 2.3 Switching Between Desmopressin Acetate Formulations Desmopressin acetate, for hemostatic use or therapeutic control of bleeding in patients with hemophilia A and mild to moderate von Willebrand’s disease (Type I), is also available as a solution for injection (DDAVP Injection). For surgical procedures, parenteral administration of desmopressin is primarily recommended. In situations where the intranasal route may be compromised, parenteral administration of desmopressin should be considered [see Warnings and Precautions ( 5.3 )] . When switching from the parenteral form of desmopressin to STIMATE, administer a test dose of intranasal to establish that the patient shows an appropriate change in the coagulation profile [see Dosage and Administration ( 2.2 )] ."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS STIMATE pump delivers 150 mcg (0.1 mL) of desmopressin acetate per spray. STIMATE is available as a 2.5 mL bottle with spray pump delivering 25 sprays. Nasal Spray: 150 mcg per 0.1 mL spray, available in a 2.5 mL bottle with spray pump delivering 25 sprays ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS STIMATE is contraindicated in patients with: Known hypersensitivity to desmopressin acetate or to any of the components of STIMATE. Severe allergic reactions and anaphylaxis have been reported [see Warnings and Precautions ( 5.4 )]. Hyponatremia or a history of hyponatremia [see Warnings and Precautions ( 5.1 )] . Type IIB von Willebrand's disease [see Warnings and Precautions ( 5.5 ) Known or suspected syndrome of inappropriate antidiuretic hormone (SIADH) secretion [see Warnings and Precautions ( 5.1 )] . Known hypersensitivity to desmopressin acetate or to any of the components of STIMATE ( 4 , 5.4 ) Hyponatremia or a history of hyponatremia ( 4 , 5.1 ) Type IIB von Willebrand's disease ( 4 , 5.5 ) Known or suspected syndrome of inappropriate antidiuretic hormone (SIADH) secretion. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Hyponatremia : Excessive fluid intake when urine output is limited by the antidiuretic effect of desmopressin may lead to water intoxication with hyponatremia. ( 5.1 ) Hypotension and Hypertension : May cause hypotension with compensatory increase in heart rate or hypertension. Monitor blood pressure during STIMATE administration, especially in patients with heart disease. ( 5.2 ) Altered Absorption in Patients with Nasal Mucosa Abnormalities: changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption. ( 5.3 ) Hypersensitivity Reactions : Severe reactions have occurred. Monitor for reactions during administration and interrupt if reaction occurs. ( 5.4 ) Increased Risk of Thrombosis in Patients with von Willebrand’s Disease Type IIB : Use of STIMATE in patients with Type IIB von Willebrand’s disease may cause thrombosis due to platelet aggregation. ( 5.5 ) 5.1 Hyponatremia Serious and fatal hyponatremia may occur with STIMATE use. STIMATE is contraindicated in patients with hyponatremia (or a history of it) and known or suspected syndrome of inappropriate antidiuretic hormone (SIADH) secretion [see Contraindications ( 4 )] . Excessive fluid intake when urine output is limited by the antidiuretic effect of desmopressin may lead to water intoxication with hyponatremia. Cases of hyponatremia have been reported from post-marketing experience in patients treated with desmopressin acetate. Unless properly diagnosed and treated, hyponatremia can be fatal. Observe patients receiving STIMATE for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, malaise, fatigue, lethargy, disorientation, depressed reflexes, loss appetite, irritability, muscle weakness, muscle spasms or cramps, and abnormal mental status such as hallucinations, decreased consciousness, and confusion. Severe symptoms due to an extreme decrease in serum sodium and plasma osmolality may include one or a combination of the following: seizure, coma, and/or respiratory arrest. Advise patients to restrict fluids in order to decrease the risk of water intoxication with hyponatremia. Careful fluid intake restriction is particularly important in pediatric and geriatric patients because these patients are at greater risk of developing hyponatremia [see Use in Specific Populations ( 8.4 , 8.5 )]. More frequent monitoring of serum sodium levels is recommended in the following patients: those with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure, renal disorders, habitual or psychogenic polydipsia or those taking concomitant drugs that may cause hyponatremia or are known to induce SIADH . 5. 2 Hypotension and Hypertension STIMATE may cause changes in blood pressure. Changes have included elevation or reduction in blood pressure which may also cause a compensatory increase in heart rate. Monitor blood pressure and pulse more frequently if used in patients with coronary artery insufficiency and/or hypertensive cardiovascular disease. 5. 3 Altered Absorption in Patients with Nasal Mucosa Abnormalities Since STIMATE is used intranasally, changes in the nasal mucosa such as scarring, edema, or other disease may cause erratic, unreliable absorption in which case STIMATE should be discontinued until the nasal problems resolve. Avoid use of STIMATE in such patients and consider use of other formulations of desmopressin acetate given by other routes of administration [see Dosage and Administration ( 2.4 )] . 5.4 Hypersensitivity Reactions STIMATE is contraindicated in patients with known hypersensitivity to desmopressin acetate or to any of the components of STIMATE [see Contraindications ( 4 )] . Severe allergic reactions, including fatal anaphylaxis, have been reported with desmopressin. It is not known whether antibodies to desmopressin acetate are produced after repeated administration. 5.5 Increased Risk of Thrombosis in Patients with von Willebrand’s Disease Type IIB STIMATE is contraindicated in patients with Type IIB von Willebrand's disease [see Contraindications ( 4 )] . Use of STIMATE in patients with Type IIB von Willebrand’s disease may result in platelet aggregation, thrombocytopenia, and possibly thrombosis."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious reactions are described below and elsewhere in the labeling: Hyponatremia [see Warnings and Precautions ( 5.1 )]. Hypotension and Hypertension [see Warnings and Precautions ( 5.2 )] . Altered Absorption in Patients with Changes in Nasal Mucosa [see Warnings and Precautions ( 5.3 )] . Hypersensitivity Reactions [see Warnings and Precautions ( 5.4 )] . Increased Risk of Thrombosis in Patients with von Willebrand’s Disease Type IIB [see Warnings and Precautions ( 5.5 )] . The following adverse reactions have been identified during post-approval use of desmopressin acetate intranasal formulations. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Cardiac disorders : Tachycardia, palpitations Eye disorders : Eye redness, eye itchiness, light sensitivity Gastrointestinal disorders : Nausea*, abdominal cramps/pain*, dyspepsia General disorders and administration site conditions : Peripheral edema*, fatigue*, chills, chest pain Immune system disorders : Hypersensitivity reactions Investigations : Weight increased* Metabolism and nutrition disorders : Hyponatremia Nervous system disorders : Headache, somnolence, dizziness, insomnia, hyponatremic convulsions Psychiatric disorders : Confusional state* Respiratory, thoracic and mediastinal disorders : Nasal congestion, rhinitis, epistaxis, sore throat, cough, upper respiratory infections Skin and subcutaneous disorders : Pruritus Vascular disorders : Hypertension, hypotension, flushing *Reported in association with hyponatremia Adverse reactions that have been identified in patients administered STIMATE are headache, eye redness, tachycardia, flushing, nasal congestion, rhinitis, epistaxis, nausea and abdominal pain. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Ferring Pharmaceuticals Inc. at 1-888-FERRING (1-888-337-7464) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Other Drugs that may Increase Risk of Hyponatremia: Monitor serum sodium more frequently. ( 7.1 ) Other Vasoconstrictors: May require a reduction of the STIMATE dosage. ( 7.2 ) 7.1 Other Drugs that may Increase Risk of Hyponatremia The concomitant administration of STIMATE with other drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine, and carbamazepine) requires more frequent serum sodium monitoring [see Warnings and Precautions ( 5.1 ) and Adverse Reactions ( 6 )] . 7.2 Other Vasoconstrictors Desmopressin acetate can elevate blood pressure. Use of large doses of STIMATE with other vasoconstrictors may require a reduction of the STIMATE dosage [ see Warnings and Precautions ( 5.2 ) ] ."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pediatric Use: Use requires careful fluid intake restriction to prevent hyponatremia with water intoxication ( 5.1 , 8.4 ) Geriatric Use: Carefully monitor renal function; restrict fluid intake to prevent hyponatremia with water intoxication ( 5.1 , 8.5 ) 8.1 Pregnancy Risk Summary Available data on the use of desmopressin during pregnancy over decades of use have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks associated with untreated hemophilia A and von Willebrand’s disease during pregnancy (see Clinical Considerations). In vitro studies with human placenta demonstrate poor placental transfer of desmopressin. No adverse developmental outcomes were observed in animal reproduction studies with administration of desmopressin during organogenesis to pregnant rats and rabbits at doses approximately <1 and 38 times, respectively, the maximum recommended human dose based on body surface area (mg/m 2 ) (see Data). The background risk of major birth defects and miscarriage for the indicated population are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease Associated Maternal and Embryo-fetal Risk Pregnant women with Hemophilia A or von Willebrand’s disease may be at an increased risk for bleeding diatheses and hemorrhagic events at delivery. A newborn born to a mother with Hemophilia A or von Willebrand disease may also be at risk for bleeding diatheses. Data Animal Data Desmopressin acetate at up to 50 ng/kg/day was given by subcutaneous injection to pregnant rats, from gestation day 1 to 20 during the period of early embryonic development and organogenesis without teratogenic effects. Desmopressin acetate at up to 10 mcg/kg/day was given to pregnant rabbits by subcutaneous injection from gestation day 6 to 18 during fetal organogenesis without teratogenic effects. These doses of desmopressin acetate represent approximately <1 times (rat) and 38 times (rabbit) the maximum recommended human dose based on body surface area (mg/m 2 ). 8.2 Lactation Risk Summary Breastfeeding is not expected to result in clinically relevant exposure of the infant to desmopressin following maternal intranasal administration. Desmopressin is transferred into human breastmilk at negligible amounts (see Data). There is no information on the effects of desmopressin on the breastfed infant or on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for STIMATE and any potential adverse effects on the breastfed infant from STIMATE or from the underlying maternal condition. Data A trial was conducted in six healthy lactating women, at greater than 4 months postpartum, to evaluate intranasal administration of 300 mcg single dose of desmopressin acetate. Samples of maternal plasma and breastmilk were obtained at 0, 30, 60, 120, 240, 360 and 480 min after the drug administration. At 8 hours after dose intake, the levels in the milk ranged between 4.16 and 101 pg/ml, and the plasma levels ranged between 40 and 242 pg/ml. The total amount of desmopressin present in the milk over the 8 hours ranged between 491 pg and 16 ng, which corresponds to 0.0001 - 0.005% of the administered dose to the breastfeeding mother. 8.4 Pediatric Use The safety and effectiveness of STIMATE has been established in children between 11 months and 12 years with hemophilia A or von Willebrand’s disease. Use in infants and pediatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication. Fluid restriction should be discussed with the patient and/or guardian [see Warnings and Precautions ( 5.1 )]. The safety and effectiveness of STIMATE have not been established in pediatric patients younger than 11 months old. 8.5 Geriatric Use Clinical studies of STIMATE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. In general, dose selection for an elderly patient should be cautious, usually starting at a low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or drug therapy. Because elderly patients are more likely to have renal impairment, care should be taken in dose selection, and monitoring renal function is recommended . Use of STIMATE in geriatric patients requires careful fluid intake restriction to prevent possible water intoxication with hyponatremia [see Warnings and Precautions ( 5.1 )]."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data on the use of desmopressin during pregnancy over decades of use have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks associated with untreated hemophilia A and von Willebrand’s disease during pregnancy (see Clinical Considerations). In vitro studies with human placenta demonstrate poor placental transfer of desmopressin. No adverse developmental outcomes were observed in animal reproduction studies with administration of desmopressin during organogenesis to pregnant rats and rabbits at doses approximately <1 and 38 times, respectively, the maximum recommended human dose based on body surface area (mg/m 2 ) (see Data). The background risk of major birth defects and miscarriage for the indicated population are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease Associated Maternal and Embryo-fetal Risk Pregnant women with Hemophilia A or von Willebrand’s disease may be at an increased risk for bleeding diatheses and hemorrhagic events at delivery. A newborn born to a mother with Hemophilia A or von Willebrand disease may also be at risk for bleeding diatheses. Data Animal Data Desmopressin acetate at up to 50 ng/kg/day was given by subcutaneous injection to pregnant rats, from gestation day 1 to 20 during the period of early embryonic development and organogenesis without teratogenic effects. Desmopressin acetate at up to 10 mcg/kg/day was given to pregnant rabbits by subcutaneous injection from gestation day 6 to 18 during fetal organogenesis without teratogenic effects. These doses of desmopressin acetate represent approximately <1 times (rat) and 38 times (rabbit) the maximum recommended human dose based on body surface area (mg/m 2 )."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of STIMATE has been established in children between 11 months and 12 years with hemophilia A or von Willebrand’s disease. Use in infants and pediatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication. Fluid restriction should be discussed with the patient and/or guardian [see Warnings and Precautions ( 5.1 )]. The safety and effectiveness of STIMATE have not been established in pediatric patients younger than 11 months old."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of STIMATE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. In general, dose selection for an elderly patient should be cautious, usually starting at a low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or drug therapy. Because elderly patients are more likely to have renal impairment, care should be taken in dose selection, and monitoring renal function is recommended . Use of STIMATE in geriatric patients requires careful fluid intake restriction to prevent possible water intoxication with hyponatremia [see Warnings and Precautions ( 5.1 )]."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Signs of desmopressin acetate overdosage may include confusion, drowsiness, continuing headache, problems with passing urine, and rapid weight gain due to fluid retention [see Warnings and Precautions ( 5.1 )]. In case of overdosage, reduce the dosage, decrease the frequency of administration, or discontinue STIMATE. There is no known specific antidote for desmopressin acetate. Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION STIMATE (desmopressin acetate) is a synthetic analogue of the natural pituitary hormone 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation. It is chemically defined as follows: Molecular weight: 1183.34 Empirical formula: C 46 H 64 N 14 O 12 S 2 •C 2 H 4 O 2 •3H 2 O 1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate. STIMATE is an aqueous solution for intranasal use. Each mL contains: Benzalkonium chloride solution 0.1 mg, Citric acid monohydrate 1.7 mg, Desmopressin acetate 1.5 mg, Disodium phosphate dihydrate 3 mg, Purified water to 1 mL, Sodium chloride 7.5 mg. A black text on a white background AI-generated content may be incorrect."
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand’s disease Type I. 12.2 Pharmacodynamics The response to STIMATE is dose-related, with maximal plasma levels of 150 to 250 percent of initial concentrations achieved for both Factor VIII and von Willebrand factor. The increase reaches a maximum at about 1.5 hours. The percentage increase of Factor VIII and von Willebrand factor levels in patients with mild hemophilia A and von Willebrand's disease was not notably different from that observed in normal healthy individuals when treated with 300 mcg of STIMATE. In patients with von Willebrand's disease, levels of Factor VIII coagulant activity and von Willebrand factor antigen remained greater than 30 U/dL for 8 hours after a 300 mcg dose of STIMATE. After 300 mcg of STIMATE, the percentage increase of Factor VIII and von Willebrand factor levels in patients with mild hemophilia A and von Willebrand's disease was less than observed after 0.3 mcg/kg of intravenous desmopressin acetate. 12.3 Pharmacokinetics Absorption Plasma concentrations of desmopressin acetate following administration of STIMATE were maximal approximately 40 to 45 minutes after dosing. The absolute bioavailability of STIMATE administered by the intranasal route as a 1.5 mg/mL solution is between 3.3 and 4.1 percent. Elimination The half-life of desmopressin acetate following administration of STIMATE is between 3.3 and 3.5 hours, over the range of intranasal doses, 150 to 450 mcg. Specific Populations Renal Impairment: A pharmacokinetic study was conducted in subjects with normal renal function and subjects with mild, moderate, and severe renal impairment (n=24, 6 subjects each group) following administration of a single 2 mcg dose of desmopressin acetate intravenous injection. The geometric mean terminal half-life was 2.8 hours in subjects with normal renal function, and 4, 6.6, and 8.7 hours in subjects with mild, moderate, and severe renal impairment, respectively. In subjects with mild, moderate and severe renal impairment, mean desmopressin area under the plasma drug concentration time curve (AUC) was 1.5-, 2.4- and 3.6-fold higher, respectively, compared to that of subjects with normal renal function."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand’s disease Type I."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics The response to STIMATE is dose-related, with maximal plasma levels of 150 to 250 percent of initial concentrations achieved for both Factor VIII and von Willebrand factor. The increase reaches a maximum at about 1.5 hours. The percentage increase of Factor VIII and von Willebrand factor levels in patients with mild hemophilia A and von Willebrand's disease was not notably different from that observed in normal healthy individuals when treated with 300 mcg of STIMATE. In patients with von Willebrand's disease, levels of Factor VIII coagulant activity and von Willebrand factor antigen remained greater than 30 U/dL for 8 hours after a 300 mcg dose of STIMATE. After 300 mcg of STIMATE, the percentage increase of Factor VIII and von Willebrand factor levels in patients with mild hemophilia A and von Willebrand's disease was less than observed after 0.3 mcg/kg of intravenous desmopressin acetate."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Plasma concentrations of desmopressin acetate following administration of STIMATE were maximal approximately 40 to 45 minutes after dosing. The absolute bioavailability of STIMATE administered by the intranasal route as a 1.5 mg/mL solution is between 3.3 and 4.1 percent. Elimination The half-life of desmopressin acetate following administration of STIMATE is between 3.3 and 3.5 hours, over the range of intranasal doses, 150 to 450 mcg. Specific Populations Renal Impairment: A pharmacokinetic study was conducted in subjects with normal renal function and subjects with mild, moderate, and severe renal impairment (n=24, 6 subjects each group) following administration of a single 2 mcg dose of desmopressin acetate intravenous injection. The geometric mean terminal half-life was 2.8 hours in subjects with normal renal function, and 4, 6.6, and 8.7 hours in subjects with mild, moderate, and severe renal impairment, respectively. In subjects with mild, moderate and severe renal impairment, mean desmopressin area under the plasma drug concentration time curve (AUC) was 1.5-, 2.4- and 3.6-fold higher, respectively, compared to that of subjects with normal renal function."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Studies with desmopressin acetate have not been performed to evaluate carcinogenic potential or effects on fertility. Desmopressin acetate was negative in vitro in Ames and mouse lymphoma cell mutation tests."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Studies with desmopressin acetate have not been performed to evaluate carcinogenic potential or effects on fertility. Desmopressin acetate was negative in vitro in Ames and mouse lymphoma cell mutation tests."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied STIMATE is available as a 2.5 mL bottle containing an aqueous solution with the spray pump delivering 25 sprays of 150 mcg (0.1 mL) (NDC 55566-3000-0). 16.2 Storage and Handling Store at Controlled Room Temperature 20ºC to 25ºC (68ºF to 77ºF) [ see USP Controlled Room Temperature]. Discard STIMATE six months after being opened. Store bottle in upright position.",
+   "16.1 How Supplied STIMATE is available as a 2.5 mL bottle containing an aqueous solution with the spray pump delivering 25 sprays of 150 mcg (0.1 mL) (NDC 55566-3000-0)."
+  ],
+  "storage_and_handling": [
+   "16.2 Storage and Handling Store at Controlled Room Temperature 20ºC to 25ºC (68ºF to 77ºF) [ see USP Controlled Room Temperature]. Discard STIMATE six months after being opened. Store bottle in upright position."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Patient Information). Hyponatremia and Fluid Restriction Inform patients that STIMATE may cause severe hyponatremia, which may be life-threatening, if it is not promptly diagnosed and treated [see Warnings and Precautions ( 5.1 )] . Inform patients about the signs and symptoms associated with hyponatremia, to undergo recommended serum sodium measurements, and to inform their health care provider about new medications . [see Warnings and Precautions ( 5.1 )] Advise patients to contact a healthcare provider if symptoms of hyponatremia occur. [see Warnings and Precautions ( 5.1 )] Discuss with patients the need to adjust fluid intake and monitor urine output. [see Warnings and Precautions ( 5.1 )] Administration For pediatric patients, inform caregivers that administration should be supervised to ensure the patient receives the prescribed dose. Inform patients that the pump must be primed prior to first use and again if not used for greater than 3 days. Inform patients that the desmopressin nasal spray bottle delivers 25 sprays following the initial 6 priming pumps. Inform patients to discard STIMATE 6 months after it is opened, after 25 sprays, or by the expiration date, whichever is sooner. Changes in Blood Pressure Inform patients that STIMATE may cause increases or decreases in blood pressure, sometimes accompanied by a faster heart rate. Advise patients to report symptoms such as dizziness, fainting, pounding heartbeat, or chest pain to their healthcare provider. Instruct patients with heart disease or high blood pressure to have their blood pressure and pulse checked more often while using STIMATE. [see Warnings and Precautions ( 5.2 )]. Nasal Conditions Affecting Absorption Advise patients that nasal conditions such as swelling, congestion, scarring, or injury may affect how well STIMATE is absorbed and how well it works. Inform patients to notify their healthcare provider if they have nasal congestion, infection, or other nasal problems. The healthcare provider may recommend stopping STIMATE until the nasal condition resolves or using another form of desmopressin. [see Warnings and Precautions ( 5.3 )]. Allergic Reactions Inform patients that serious allergic reactions, including anaphylaxis, have occurred with desmopressin use. Advise patients to stop using STIMATE and get medical help right away if they experience rash, itching, swelling of the face or throat, difficulty breathing, or fainting which may be symptoms of an allergic reaction. [see Warnings and Precautions ( 5.4 )]. Risk of Blood Clots in Patients with von Willebrand’s Disease Type IIB Inform patients that STIMATE should not be used if they have Type IIB von Willebrand’s disease. Using it in these patients may cause the platelets to clump together and increase the risk of blood clots. Advise patients with von Willebrand’s disease to inform their healthcare provider of their specific disease type before starting treatment. [see Warnings and Precautions ( 5.5 )]. Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054 USA xxxxxxxxxx"
+  ],
+  "spl_patient_package_insert": [
+   "PATIENT INFORMATION STIMATE ® (stim-ate) (desmopressin acetate) nasal spray What is STIMATE? STIMATE is a prescription medicine used to treat people with: Certain types of Hemophilia A to: control bleeding during and after surgery reduce bleeding episodes caused by spontaneous or traumatic injuries in the joints, muscles, and in mucous membranes such as the nose, mouth, throat, stomach, intestines, and rectum. von Willebrand’s Disease (Type 1) to: control bleeding during and after surgery reduce bleeding episodes caused by spontaneous or traumatic injuries in the joints, muscles, and in mucous membranes such as the nose, mouth, throat, stomach, intestines, and rectum, and to reduce heavy menstrual bleeding. Desmopressin acetate is not used for the treatment of severe von Willebrand’s disease (Type 1) and when there is an abnormal factor VIII protein. It is not known if STIMATE is safe and effective in children younger than 11 months old. STIMATE should not be used in children younger than 11 months old in the treatment of hemophilia A or von Willebrand’s disease. Do not use STIMATE if you: are allergic to desmopressin acetate or any of the ingredients in STIMATE (see “What are the possible side effects of STIMATE?”). See the end of this Patient Information for a complete list of ingredients in STIMATE. have or have had low levels of sodium in your blood (hyponatremia) have type IIB von Willibrand’s disease have or may have a condition called syndrome of inappropriate antidiuretic hormone (SIADH) secretion Ask your healthcare provider if you are not sure you have any of these conditions. Before using STIMATE, tell your healthcare provider about all your medical conditions including if you: have or have had nasal sores, nasal surgery, nasal injury, or have problems such as a stuffy nose or trouble breathing through your nose. have a condition that causes fluid or water imbalance problems such as cystic fibrosis, heart failure or kidney problems. have a condition that causes you to be very thirsty have heart, blood circulation, or blood pressure problems are pregnant or plan to become pregnant. It is not known if STIMATE will harm your unborn baby. are breastfeeding or plan to breastfeed. It is not known if STIMATE passes into your breast milk. You and your healthcare provider should decide if you will use STIMATE. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. STIMATE and other medicines may affect each other causing side effects. STIMATE may affect the way other medicines work, and other medicines may affect how STIMATE works. How should I use STIMATE? STIMATE is for use in the nose only. See the Instructions for Use that comes with STIMATE for information about the right way to use STIMATE. Use STIMATE exactly as your healthcare provider tells you to use it. An adult should watch a child use STIMATE to make sure the child receives the prescribed dose. If you use STIMATE before a surgery, you should use STIMATE 2 hours before the scheduled surgery. The STIMATE bottle must be primed before the first use and again if not used for more than 3 days. The STIMATE bottle delivers 25 sprays after the first 6 priming pumps. Your healthcare provider may change your dose of STIMATE if needed. If you take too much STIMATE, call your healthcare provider or Poison Help line at 1-800-222-1222 right away. What are the possible side effects of STIMATE? STIMATE may cause serious side effects including: low salt (sodium) levels in the blood (hyponatremia). STIMATE may cause low sodium levels in the blood that can be serious, which may be life-threatening, and can lead to death. People using STIMATE are at risk for low sodium levels in the blood, water intoxication, and fluid overload. Children and the elderly are at higher risk for developing hyponatremia. Your healthcare provide will check your sodium levels during treatment with STIMATE as needed. Follow your healthcare provider’s instructions on limiting the amount of fluid you can drink when using STIMATE. You should limit fluid intake1 hour before using STIMATE and until at least 24 hours after using STIMATE. Limit your fluid intake and monitor how much you urinate during treatment with STIMATE. Tell your healthcare provider right away if you develop any of the following symptoms of hyponatremia during treatment with STIMATE: headache disorientation seeing or hearing things that are not real (hallucinations) nausea decreased reflexes decreased consciousness vomiting loss of appetite confusion weight gain feeling irritable restlessness muscle weakness, spasms, or cramps feeling weak tiredness In more severe cases, symptoms include: seizures coma stopping breathing (respiratory arrest) changes in blood pressure. STIMATE may cause low blood pressure (hypotension) or high blood pressure (hypotension). Changes in your blood pressure may also cause an increase in your heart rate. Your healthcare provider may monitor your blood pressure and heart rate during treatment with STIMATE. nasal scarring or swelling. This may affect how well STIMATE works for you. Your healthcare provider may temporarily or permanently stop treatment with STIMATE until the problems goes away if you develop nasal scarring, swelling or nasal conditions. allergic reactions. STIMATE may cause serious allergic reactions including redness of the skin, rash, hives, itching, and stomach-area (abdominal) pain. Stop using STIMATE and get emergency medical help right away if you develop any symptoms of a severe allergic reaction, including: itching on large areas of the skin redness or swelling of the lips, tongue, face, or hands trouble swallowing shortness of breath wheezing tightness of the chest pale and cold skin fast heartbeat dizziness due to low blood pressure The most common side effects of STIMATE include : headache flushing nosebleed eye redness stuffy nose nausea fast heart rate runny nose stomach pain Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of STIMATE. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store STIMATE? Store STIMATE bottle at room temperature between 68°F to 77°F (20°C to 25°C). Store STIMATE bottle standing up straight. Throw away STIMATE 6 months after first opening, after 25 sprays, or by the expiration date, whichever is sooner. If any medicine is left in your STIMATE after 25 sprays, do not use it. Keep STIMATE and all medicines out of the reach of children. General information about the safe and effective use of STIMATE. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use STIMATE for a condition for which it was not prescribed. Do not give STIMATE to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about STIMATE that is written for health professionals. What are the ingredients in STIMATE? Active ingredient: desmopressin acetate Inactive ingredients: benzalkonium chloride solution, citric acid monohydrate, disodium phosphate dihydrate, sodium chloride, purified water. Manufactured for: Ferring Pharmaceuticals Inc., Parsippany, NJ 07054 USA For more information contact Ferring Pharmaceuticals Inc. at 1-888-337-7464. This Patient Information has been approved by the Food and Drug Administration. Revised: 07/2026"
+  ],
+  "spl_patient_package_insert_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\"><col width=\"539.5pt\"/><col/><col/><tbody><tr><td colspan=\"3\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">PATIENT INFORMATION</content></paragraph><paragraph><content styleCode=\"bold\">STIMATE<sup>&#xAE;</sup> (stim-ate)</content></paragraph><paragraph><content styleCode=\"bold\">(desmopressin acetate)</content></paragraph><paragraph><content styleCode=\"bold\">nasal spray</content></paragraph></td></tr><tr><td colspan=\"3\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">What is STIMATE? </content></paragraph><paragraph>STIMATE is a prescription medicine used to treat people with:</paragraph><list listType=\"unordered\" styleCode=\"Disc\"><item>Certain types of Hemophilia A to: <list listType=\"unordered\" styleCode=\"Circle\"><item>control bleeding during and after surgery</item><item>reduce bleeding episodes caused by spontaneous or traumatic injuries in the joints, muscles, and in mucous membranes such as the nose, mouth, throat, stomach, intestines, and rectum. </item></list></item><item>von Willebrand&#x2019;s Disease (Type 1) to: <list listType=\"unordered\" styleCode=\"Circle\"><item>control bleeding during and after surgery</item><item>reduce bleeding episodes caused by spontaneous or traumatic injuries in the joints, muscles, and in mucous membranes such as the nose, mouth, throat, stomach, intestines, and rectum, and to reduce heavy menstrual bleeding.</item></list></item></list><paragraph>Desmopressin acetate is not used for the treatment of severe von Willebrand&#x2019;s disease (Type 1) and when there is an abnormal factor VIII protein. </paragraph><paragraph>It is not known if STIMATE is safe and effective in children younger than 11 months old.</paragraph><paragraph>STIMATE should not be used in children younger than 11 months old in the treatment of hemophilia A or von Willebrand&#x2019;s disease. </paragraph></td></tr><tr><td colspan=\"3\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Do not use STIMATE if you:</content></paragraph><list listType=\"unordered\" styleCode=\"Disc\"><item>are allergic to desmopressin acetate or any of the ingredients in STIMATE (see &#x201C;What are the possible side effects of STIMATE?&#x201D;). See the end of this Patient Information for a complete list of ingredients in STIMATE.</item><item>have or have had low levels of sodium in your blood (hyponatremia)</item><item>have type IIB von Willibrand&#x2019;s disease</item><item>have or may have a condition called syndrome of inappropriate antidiuretic hormone (SIADH) secretion</item></list><paragraph><content styleCode=\"bold\">Ask your healthcare provider if you are not sure you have any of these conditions. </content></paragraph></td></tr><tr><td colspan=\"3\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">Before using STIMATE, tell your healthcare provider about all your medical conditions including if you:</content></paragraph><list listType=\"unordered\" styleCode=\"Disc\"><item>have or have had nasal sores, nasal surgery, nasal injury, or have problems such as a stuffy nose or trouble breathing through your nose.</item><item>have a condition that causes fluid or water imbalance problems such as cystic fibrosis, heart failure or kidney problems.</item><item>have a condition that causes you to be very thirsty</item><item>have heart, blood circulation, or blood pressure problems</item><item>are pregnant or plan to become pregnant. It is not known if STIMATE will harm your unborn baby.</item><item>are breastfeeding or plan to breastfeed. It is not known if STIMATE passes into your breast milk. You and your healthcare provider should decide if you will use STIMATE.</item></list><paragraph><content styleCode=\"bold\">Tell your healthcare provider about all the medicines you take,</content> including prescription and over-the-counter medicines, vitamins, and herbal supplements. STIMATE and other medicines may affect each other causing side effects. STIMATE may affect the way other medicines work, and other medicines may affect how STIMATE works. </paragraph></td></tr><tr><td colspan=\"3\" styleCode=\" Botrule Toprule Lrule Rrule\"><paragraph><content styleCode=\"bold\">How should I use STIMATE?</content></paragraph><paragraph><content styleCode=\"bold\">STIMATE is for use in the nose only. See the Instructions for Use that comes with STIMATE for information about the right way to use STIMATE.</content></paragraph><list listType=\"unordered\" styleCode=\"Disc\"><item>Use STIMATE exactly as your healthcare provider tells you to use it. </item><item>An adult should watch a child use STIMATE to make sure the child receives the prescribed dose.</item><item>If you use STIMATE before a surgery, you should use STIMATE 2 hours before the scheduled surgery.</item><item>The STIMATE bottle must be primed before the first use and again if not used for more than 3 days.</item><item>The STIMATE bottle delivers 25 sprays after the first 6 priming pumps.</item><item>Your healthcare provider may change your dose of STIMATE if needed.</item><item>If you take too much STIMATE, call your healthcare provider or Poison Help line at 1-800-222-1222 right away.</item></list></td></tr><tr><td colspan=\"3\" styleCode=\" Lrule Rrule\"><content styleCode=\"bold\">What are the possible side effects of STIMATE?</content><paragraph><content styleCode=\"bold\">STIMATE may cause serious side effects including:</content></paragraph><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">low salt (sodium) levels in the blood (hyponatremia). </content>STIMATE may cause low sodium levels in the blood that can be serious, which may be life-threatening, and can lead to death. People using STIMATE are at risk for low sodium levels in the blood, water intoxication, and fluid overload. Children and the elderly are at higher risk for developing hyponatremia. Your healthcare provide will check your sodium levels during treatment with STIMATE as needed.</item></list><paragraph><content styleCode=\"bold\">Follow </content><content styleCode=\"bold\">your healthcare provider&#x2019;s instructions on limiting the amount of fluid you can drink when using STIMATE. </content></paragraph><list listType=\"unordered\" styleCode=\"Circle\"><item>You should limit fluid intake1 hour before using STIMATE and until at least 24 hours after using STIMATE.</item><item>Limit your fluid intake and monitor how much you urinate during treatment with STIMATE.</item><item>Tell your healthcare provider right away if you develop any of the following symptoms of hyponatremia during treatment with STIMATE:</item></list></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>headache</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>disorientation</item></list></td><td styleCode=\" Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>seeing or hearing things that are not real (hallucinations)</item></list></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>nausea</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>decreased reflexes</item></list></td><td styleCode=\" Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>decreased consciousness</item></list></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>vomiting</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>loss of appetite</item></list></td><td styleCode=\" Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>confusion</item></list></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>weight gain</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>feeling irritable</item></list></td><td styleCode=\" Rrule\"> </td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>restlessness</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>muscle weakness, spasms, or cramps</item></list></td><td styleCode=\" Rrule\"> </td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>feeling weak</item></list></td><td> </td><td styleCode=\" Rrule\"> </td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>tiredness</item></list></td><td> </td><td styleCode=\" Rrule\"> </td></tr><tr><td colspan=\"3\" styleCode=\" Lrule Rrule\"> <paragraph>In more severe cases, symptoms include:</paragraph></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>seizures</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>coma</item></list></td><td styleCode=\" Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>stopping breathing (respiratory arrest)</item></list></td></tr><tr><td colspan=\"3\" styleCode=\" Lrule Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item><content styleCode=\"bold\">changes in blood pressure. </content>STIMATE may cause low blood pressure (hypotension) or high blood pressure (hypotension). Changes in your blood pressure may also cause an increase in your heart rate. Your healthcare provider may monitor your blood pressure and heart rate during treatment with STIMATE.</item><item><content styleCode=\"bold\">nasal scarring or swelling. </content>This may affect how well STIMATE works for you. Your healthcare provider may temporarily or permanently stop treatment with STIMATE until the problems goes away if you develop nasal scarring, swelling or nasal conditions.</item><item><content styleCode=\"bold\">allergic reactions. </content>STIMATE may cause serious allergic reactions including redness of the skin, rash, hives, itching, and stomach-area (abdominal) pain. Stop using STIMATE and get emergency medical help right away if you develop any symptoms of a severe allergic reaction, including:</item></list></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Circle\"><item>itching on large areas of the skin</item></list></td><td><list listType=\"unordered\" styleCode=\"Circle\"><item>redness or swelling of the lips, tongue, face, or hands</item></list></td><td styleCode=\" Rrule\"> </td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Circle\"><item>trouble swallowing</item></list></td><td><list listType=\"unordered\" styleCode=\"Circle\"><item>shortness of breath</item></list></td><td styleCode=\" Rrule\"> </td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Circle\"><item>wheezing</item></list></td><td><list listType=\"unordered\" styleCode=\"Circle\"><item>tightness of the chest</item></list></td><td styleCode=\" Rrule\"> </td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Circle\"><item>pale and cold skin</item></list></td><td><list listType=\"unordered\" styleCode=\"Circle\"><item>fast heartbeat</item></list></td><td styleCode=\" Rrule\"> </td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Circle\"><item>dizziness due to low blood pressure</item></list></td><td> </td><td styleCode=\" Rrule\"> </td></tr><tr><td colspan=\"3\" styleCode=\" Lrule Rrule\"> <content styleCode=\"bold\">The most common side effects of STIMATE include</content>:</td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>headache</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>flushing</item></list></td><td styleCode=\" Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>nosebleed</item></list></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>eye redness</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>stuffy nose</item></list></td><td styleCode=\" Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>nausea</item></list></td></tr><tr><td styleCode=\" Lrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>fast heart rate</item></list></td><td><list listType=\"unordered\" styleCode=\"Disk\"><item>runny nose</item></list></td><td styleCode=\" Rrule\"><list listType=\"unordered\" styleCode=\"Disk\"><item>stomach pain</item></list></td></tr><tr><td colspan=\"3\" styleCode=\" Lrule Rrule\"> Tell your healthcare provider if you have any side effect that bothers you or that does not go away. <paragraph>These are not all the possible side effects of STIMATE. </paragraph> Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</td></tr><tr><td colspan=\"3\" styleCode=\" Toprule Lrule\"> <content styleCode=\"bold\">How should I store STIMATE?</content><list listType=\"unordered\" styleCode=\"Disc\"><item>Store STIMATE bottle at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C). </item><item>Store STIMATE bottle standing up straight.</item><item>Throw away STIMATE 6 months after first opening, after 25 sprays, or by the expiration date, whichever is sooner. If any medicine is left in your STIMATE after 25 sprays, do not use it. </item></list><content styleCode=\"bold\">Keep STIMATE and all medicines out of the reach of children. </content></td></tr><tr><td colspan=\"3\" styleCode=\" Toprule Lrule\"><content styleCode=\"bold\">General information about the safe and effective use of STIMATE.</content>  Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use STIMATE for a condition for which it was not prescribed. Do not give STIMATE to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about STIMATE that is written for health professionals. </td></tr><tr><td colspan=\"3\" styleCode=\" Botrule Toprule Lrule\"><content styleCode=\"bold\">What are the ingredients in STIMATE?</content><paragraph><content styleCode=\"bold\">Active ingredient: </content>desmopressin acetate</paragraph><paragraph><content styleCode=\"bold\">Inactive ingredients:</content> benzalkonium chloride solution, citric acid monohydrate, disodium phosphate dihydrate, sodium chloride, purified water.</paragraph><paragraph>Manufactured for: Ferring Pharmaceuticals Inc., Parsippany, NJ 07054 USA</paragraph> For more information contact Ferring Pharmaceuticals Inc. at 1-888-337-7464.</td></tr></tbody></table>"
+  ],
+  "instructions_for_use": [
+   "INSTRUCTIONS FOR USE STIMATE ® (stim-ate) (desmopressin acetate) nasal spray Read this Instructions for Use before using STIMATE and each time you get a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or treatment. Before you use the STIMATE, make sure your healthcare provider shows you the right way to use it. The parts of your STIMATE bottle (see Figure A ) : Figure A Important Information You Need to Know Before using STIMATE: For use in the nose only. Do not spray in the eyes. Use STIMATE exactly as your healthcare provider tells you. Do not use more STIMATE or take it more often than your healthcare provider tells you to. You should limit fluid intake 1 hour before using STIMATE and until at least 24 hours after using STIMATE. If you use STIMATE before a surgery, you should use STIMATE 2 hours before the scheduled surgery. An adult should watch a child use STIMATE to make sure the child receives the prescribed dose. Your STIMATE bottle must be primed before the first use and again if not used for more than 3 days (see Priming your STIMATE bottle ). After your STIMATE bottle is primed, it will spray 150 micrograms (mcg) of medicine each time it is used. Priming your STIMATE bottle: Step 1. Remove the protective cap (see Figure B ). Figure B Step 2. Hold the bottle upright with 2 fingers on the shoulders of the STIMATE bottle and put your thumb on the bottom of the bottle. Hold the spray tip away from your face and eye. Press down on the shoulders at the top of your STIMATE bottle 6 times, or until you see a fine mist (see Figure C ). Figure C When you see the fine mist of medicine, the STIMATE bottle is ready for use. Using your STIMATE: Step 1. Remove the protective cap. Step 2. Put the spray nozzle tip of your STIMATE into 1 nostril and press the shoulders down to spray STIMATE. (see Figure D ). If your dose is 1 spray (150 mcg), skip to Step 3 below. If your dose is 2 sprays (300 mcg), repeat Step 2 in the other nostril. Your STIMATE bottle delivers 25 sprays after the first 6 priming pumps. If any medicine is left in your STIMATE bottle after 25 sprays, do not use it. You may not get the correct dose. (see Throwing away (disposing of) the STIMATE bottle ). Figure D Step 3. Put the protective cap back on the spray nozzle tip when you finish using your STIMATE. How should I store STIMATE bottle? Store STIMATE bottle at room temperature between 68ºF to 77ºF (20ºC to 25ºC). Store STIMATE bottle standing up straight. Keep the STIMATE bottle and all medicines out of the reach of children. Keep track of the number of sprays that you use. Throwing away (disposing of) the STIMATE bottle: Throw away the STIMATE bottle 6 months after first opening, after 25 sprays, or by the expiration date, whichever is sooner. Throw away your STIMATE bottle after 25 sprays. Do not use it even if medicine remains in the bottle after 25 sprays. Do not try to remove any medicine from your STIMATE bottle and place it in another bottle. This Instructions for Use has been approved by the U.S. Food and Drug Administration. Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054 USA Approved: 07/2026 Image Figure B Figure C Figure D"
+  ],
+  "set_id": "f5ada39c-20ed-4500-9dce-1e4ab642a358",
+  "id": "6beb1a83-b970-4d4a-965c-2972718e5916",
+  "effective_time": "20260722",
+  "version": "3"
+ }
+}

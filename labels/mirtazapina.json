@@ -1,0 +1,769 @@
+{
+ "id_es": "mirtazapina",
+ "generic_en": "mirtazapine",
+ "search": "openfda.generic_name.exact:\"MIRTAZAPINE\"",
+ "downloaded": "2026-11-11T06:46Z",
+ "chosen": {
+  "set_id": "98ad1917-a094-44f5-a28f-a64a8cfcd887",
+  "id": "8b121c7c-9bcd-4504-b789-3f551a0fe514",
+  "effective_time": "20250806",
+  "version": "8",
+  "brand_name": [
+   "REMERONSOLTAB",
+   "REMERON"
+  ],
+  "generic_name": [
+   "MIRTAZAPINE"
+  ],
+  "manufacturer_name": [
+   "Organon LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA021208",
+   "NDA020415"
+  ],
+  "n_sections": 38
+ },
+ "candidates": [
+  {
+   "set_id": "58e9b4c6-531f-49c4-a640-6953e70892fe",
+   "id": "94083321-2be9-436b-a957-75fff85e0510",
+   "effective_time": "20261021",
+   "version": "16",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "979eec8b-1bf4-466b-812e-85a111ce1cb5",
+   "id": "8a127a1b-d1f5-4db4-9430-d3feadd79c4e",
+   "effective_time": "20261021",
+   "version": "2",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "a4c012f0-50b6-42fb-9f06-a14632f23f2e",
+   "id": "55286366-b316-4360-a922-56937532ed48",
+   "effective_time": "20261021",
+   "version": "20",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "df06ea51-a962-49d0-a449-137e2220ce7e",
+   "id": "c5a27091-db5a-465b-a645-6b6e9131414c",
+   "effective_time": "20261009",
+   "version": "8",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077666"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "f54718d1-3ef7-4472-9e97-90e5fd30db4d",
+   "id": "5d2dcca6-fb84-1424-e063-6294a90a0cdd",
+   "effective_time": "20261006",
+   "version": "13",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "b4b9b66e-87a1-4dbb-9eaf-71221bcb2265",
+   "id": "5cc6b1fd-00cb-a45c-e063-6394a90a489f",
+   "effective_time": "20261001",
+   "version": "3",
+   "brand_name": [
+    "mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219721"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "b6b31703-e77d-4d1a-b1ac-da972117e356",
+   "id": "5cc67a1a-2e3d-3916-e063-6294a90a1eca",
+   "effective_time": "20261001",
+   "version": "3",
+   "brand_name": [
+    "mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "XLCare Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219721"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "63f140c2-2a18-4dea-96fe-2658dda28a0c",
+   "id": "65d56a7a-38e7-4132-96d0-d568757472e4",
+   "effective_time": "20260916",
+   "version": "1",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219919"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "67e753ad-9919-416b-9e8f-aab0fa808066",
+   "id": "85874a9e-c3aa-4d72-9883-cf102d0190d4",
+   "effective_time": "20260914",
+   "version": "23",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "9675333e-3064-c8cb-a4b4-6c74d9a82f17",
+   "id": "cf56cd8c-e0aa-ae8b-38fe-396561abe6bf",
+   "effective_time": "20260914",
+   "version": "21",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077666"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "5127517f-b8d0-4af1-8a2f-5225719600bc",
+   "id": "97477703-6487-45d6-aa02-328fd09a2ad7",
+   "effective_time": "20260910",
+   "version": "7",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077376"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "412abf0e-1f96-4d4d-bb56-a23d4699b14c",
+   "id": "5aaaba60-e120-45b6-e063-6294a90a4614",
+   "effective_time": "20260904",
+   "version": "3",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076122"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "d6fbe837-988a-7c75-e053-2995a90a599a",
+   "id": "5a1fc25e-c8c9-6d40-e063-6394a90ad8c1",
+   "effective_time": "20260828",
+   "version": "2",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "e38c96d4-ea33-3f1a-e053-2a95a90a0903",
+   "id": "59f80972-68c4-4493-e063-6294a90aa716",
+   "effective_time": "20260826",
+   "version": "2",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "598e441a-aa1a-6fb3-e063-6394a90a14aa",
+   "id": "598e438e-229b-f693-e063-6294a90a83bf",
+   "effective_time": "20260821",
+   "version": "1",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "58bea4d8-084f-4c30-e063-6394a90a35cb",
+   "id": "58bea4e4-2542-4c56-e063-6394a90a6cf6",
+   "effective_time": "20260811",
+   "version": "1",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "10ea9d83-19c3-4f3b-a1cc-cfc48b42507f",
+   "id": "57c265aa-acef-47d8-e063-6394a90a2384",
+   "effective_time": "20260729",
+   "version": "11",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "89ae6a33-933f-47aa-a2de-2a71cd3f7d44",
+   "id": "c1a88cb8-893f-4012-9477-6d69ed10d500",
+   "effective_time": "20260729",
+   "version": "15",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076122"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "222dfdde-6979-4b18-a7eb-ff1ad0a437c1",
+   "id": "b5e85384-c00b-4e41-b95f-e3046c6b036d",
+   "effective_time": "20260724",
+   "version": "1",
+   "brand_name": [
+    "mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219721"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "577c3ceb-316b-4c93-9b0c-0a4b1b4773e9",
+   "id": "be6b1790-d801-497c-bf83-87fa6238fe0f",
+   "effective_time": "20260720",
+   "version": "102",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076541"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "9135e7db-cba4-4150-a69c-fdf2a347a785",
+   "id": "56a60f61-338f-d9bd-e063-6294a90a8f14",
+   "effective_time": "20260715",
+   "version": "19",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "2a0689ae-5650-42d1-ac9d-56dd2b467727",
+   "id": "e9c6f885-4ebd-430d-b492-df117a343f2f",
+   "effective_time": "20260714",
+   "version": "3",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "ac3716fd-6971-4a70-ae7b-9f5117f3d880",
+   "id": "64dcc844-9254-447f-9e5b-a05cca224217",
+   "effective_time": "20260714",
+   "version": "7",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "c22c4325-4f1a-4d12-8039-d3b1263fa3ad",
+   "id": "2090f40c-c357-4520-a4cf-3c5200ac7b2a",
+   "effective_time": "20260714",
+   "version": "10",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076921"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "7a5545a0-4dbb-48ac-b0d2-477a8dd4b87e",
+   "id": "7a5545a0-4dbb-48ac-b0d2-477a8dd4b87e",
+   "effective_time": "20260710",
+   "version": "1",
+   "brand_name": [
+    "Mirtazapine"
+   ],
+   "generic_name": [
+    "MIRTAZAPINE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076122"
+   ],
+   "n_sections": 35
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Contraindications ( 4 ) 11/2021 Warnings and Precautions ( 5.6 ) 11/2021"
+  ],
+  "recent_major_changes_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"75%\" align=\"left\" valign=\"top\"/><col width=\"25%\" align=\"right\" valign=\"top\"/><tbody><tr><td>Contraindications (<linkHtml href=\"#S4\">4</linkHtml>)</td><td>11/2021</td></tr><tr><td>Warnings and Precautions (<linkHtml href=\"#S5.6\">5.6</linkHtml>)</td><td>11/2021</td></tr></tbody></table>"
+  ],
+  "boxed_warning": [
+   "WARNING: SUICIDAL THOUGHTS AND BEHAVIORS Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric and young adult patients in short-term studies. Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors [see Warnings and Precautions (5.1) ] . REMERON/REMERONSolTab is not approved for use in pediatric patients [see Use in Specific Populations (8.4) ]. WARNING: SUICIDAL THOUGHTS AND BEHAVIORS See full prescribing information for complete boxed warning. Increased risk of suicidal thoughts and behavior in pediatric and young adult patients taking antidepressants. Closely monitor all antidepressant-treated patients for clinical worsening and emergence of suicidal thoughts and behaviors. REMERON/REMERONSolTab is not approved for use in pediatric patients. ( 5.1 , 8.4 )"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE REMERON/REMERONSolTab are indicated for the treatment of major depressive disorder (MDD) in adults [see Clinical Studies (14) ] . REMERON/REMERONSolTab is indicated for the treatment of major depressive disorder (MDD) in adults. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Starting dose: 15-mg once daily; may increase up to maximum recommended dose of 45 mg once daily. ( 2.1 ) Administer orally once daily, preferably in the evening prior to sleep. ( 2.1 ) Administer REMERONSolTab immediately after removal from blister pack. ( 2.2 ) Reduce dose gradually when discontinuing REMERON/REMERONSolTab. ( 2.6 , 5.14 ) 2.1 Recommended Dosage The recommended starting dose of REMERON/REMERONSolTab is 15 mg once daily, administered orally, preferably in the evening prior to sleep. If patients do not have an adequate response to the initial 15 mg dose, increase the dose up to a maximum of 45 mg per day. Dose changes should not be made in intervals of less than 1 to 2 weeks to allow sufficient time for evaluation of response to a given dose [see Clinical Pharmacology (12.3) ] . 2.2 Administration of REMERONSolTab The tablet should remain in the blister pack until the patient is ready to take it. The patient or caregiver should use dry hands to open the blister. As soon as the blister is opened, the tablet should be removed and placed on the patient's tongue. Use REMERONSolTab immediately after removal from its blister; once removed, it cannot be stored. The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing. Do not attempt to split the tablet. The tablet will disintegrate in saliva so that it can be swallowed. 2.3 Screen for Bipolar Disorder Prior to Starting REMERON/REMERONSolTab Prior to initiating treatment with REMERON/REMERONSolTab or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.9) ]. 2.4 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of REMERON/REMERONSolTab. In addition, at least 14 days must elapse after stopping REMERON/REMERONSolTab before starting an MAOI antidepressant [see Contraindications (4) and Warnings and Precautions (5.3) ] . 2.5 Dosage Modifications Due to Drug Interactions Strong CYP3A Inducers An increase in dosage of REMERON/REMERONSolTab may be needed with concomitant strong CYP3A inducer (e.g., carbamazepine, phenytoin, rifampin) use. Conversely, a decrease in dosage of REMERON/REMERONSolTab may be needed if the CYP3A inducer is discontinued [see Drug Interactions (7) ]. Strong CYP3A Inhibitors A decrease in dosage of REMERON/REMERONSolTab may be needed with concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole, clarithromycin). Conversely, an increase in dosage of REMERON/REMERONSolTab may be needed if the CYP3A4 inhibitor is discontinued [see Drug Interactions (7) ]. Cimetidine A decrease in dosage of REMERON/REMERONSolTab may be needed with concomitant use of cimetidine. Conversely, an increase in dosage of REMERON/REMERONSolTab may be needed if cimetidine is discontinued [see Drug Interactions (7) ]. 2.6 Discontinuation of REMERON/REMERONSolTab Treatment Adverse reactions may occur upon discontinuation or dose reduction of REMERON/REMERONSolTab [see Warnings and Precautions (5.14) ] . Gradually reduce the dosage of REMERON/REMERONSolTab rather than stopping abruptly whenever possible."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS REMERON is supplied as: 15 mg tablets: Oval, scored, yellow, with \"MSD\" debossed on one side and \" T 3 Z \" on the other side, on both sides of the score line 30 mg tablets: Oval, scored, red-brown, with \"MSD\" debossed on one side and \" T 5 Z \" on the other side, on both sides of the score line REMERONSolTab is supplied as: 15 mg orally disintegrating tablets: Round, white, with \" T 1 Z \" debossed on one side 30 mg orally disintegrating tablets: Round, white, with \" T 2 Z \" debossed on one side 45 mg orally disintegrating tablets: Round, white, with \" T 4 Z \" debossed on one side Tablets : 15 mg scored and 30 mg scored. ( 3 ) Orally disintegrating tablets : 15 mg, 30 mg, and 45 mg. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS REMERON/REMERONSolTab is contraindicated in patients: Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions (5.3) , Drug Interactions (7) ] . With a known hypersensitivity to mirtazapine or to any of the excipients in REMERON/REMERONSolTab . Severe skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have been reported following the use of REMERON/REMERONSolTab [see Warnings and Precautions (5.6) , Adverse Reactions (6.2) ]. Concomitant use of monoamine oxidase inhibitors (MAOIs) or use within 14 days of stopping MAOIs. ( 2.4 , 4 , 7 ) Known hypersensitivity to mirtazapine or any of the excipients in REMERON/REMERONSolTab. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Agranulocytosis : If sore throat, fever, stomatitis or signs of infection occur, along with a low white blood cell count, treatment with REMERON/REMERONSolTab should be discontinued and the patient should be closely monitored. ( 5.2 ) Serotonin Syndrome : Increased risk when co-administered with other serotonergic drugs (e.g., SSRI, SNRI, triptans), but also when taken alone. If it occurs, discontinue REMERON/REMERONSolTab and initiate supportive treatment. ( 2.4 , 4 , 5.3 , 7 ) Angle-Closure Glaucoma : Angle closure glaucoma has occurred in patients with untreated anatomically narrow angles treated with antidepressants. ( 5.4 ) QT Prolongation : Use REMERON/REMERONSolTab with caution in patients with risk factors for QT prolongation. ( 5.5 , 7 ) Drug Reaction with Eosinophilia and System Symptoms (DRESS) : Discontinue REMERON/REMERONSolTab if DRESS is suspected. ( 5.6 ) Increased Appetite/Weight Gain : REMERON/REMERONSolTab has been associated with increased appetite and weight gain. ( 5.7 ) Somnolence : May impair judgment, thinking and/or motor skills. Use with caution when engaging in activities requiring alertness, such as driving or operating machinery. ( 5.8 , 7 ) Activation of Mania/Hypomania : Screen patients for bipolar disorder prior to initiating treatment. ( 2.3 , 5.9 ) Seizures : Use with caution in patients with a seizure disorder. ( 5.10 ) Elevated Cholesterol/Triglycerides : Has been reported with REMERON use. ( 5.11 ) Hyponatremia : May occur as a result of treatment with serotonergic antidepressants, including REMERON/REMERONSolTab. ( 5.12 ) Transaminase Elevations : Clinically significant elevations have occurred. Use with caution in patients with impaired hepatic function. ( 5.13 ) 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients. There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied. There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD. The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1. Table 1: Risk Differences of the Number of Patients with Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients Age Range Drug-Placebo Difference in Number of Patients with Suicidal Thoughts or Behaviors per 1000 Patients Treated Increases Compared to Placebo <18 years old 14 additional patients 18–24 years old 5 additional patients Decreases Compared to Placebo 25–64 years old 1 fewer patient ≥65 years old 6 fewer patients It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months. However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors. Monitor all antidepressant-treated patients for any indication of clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes. Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider. Consider changing the therapeutic regimen, including possibly discontinuing REMERON/REMERONSolTab, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors. 5.2 Agranulocytosis In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON developed agranulocytosis [absolute neutrophil count (ANC) <500/mm 3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm 3 without any associated symptoms). For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively. All 3 patients recovered after REMERON was stopped. If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low white blood cell (WBC) count, treatment with REMERON/REMERONSolTab should be discontinued and the patient should be closely monitored. 5.3 Serotonin Syndrome Serotonergic antidepressants, including REMERON/REMERONSolTab, can precipitate serotonin syndrome, a potentially life-threatening condition. The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4) , Drug Interactions (7) ] . Serotonin syndrome can also occur when these drugs are used alone. Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea). The concomitant use of REMERON/REMERONSolTab with MAOIs is contraindicated. In addition, do not initiate REMERON/REMERONSolTab in a patient being treated with MAOIs such as linezolid or intravenous methylene blue. No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection). If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking REMERON/REMERONSolTab, discontinue REMERON/REMERONSolTab before initiating treatment with the MAOI [see Contraindications (4) , Drug Interactions (7) ] . Monitor all patients taking REMERON/REMERONSolTab for the emergence of serotonin syndrome. Discontinue treatment with REMERON/REMERONSolTab and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment. If concomitant use of REMERON/REMERONSolTab with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms. 5.4 Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs, including REMERON/REMERONSolTab, may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy. 5.5 QT Prolongation and Torsades de Pointes The effect of REMERON (mirtazapine) on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis. This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval. However, the degree of QT prolongation observed with both 45 mg and 75 mg (1.67 times the maximum recommended daily dose) doses of mirtazapine was not at a level generally considered to be clinically meaningful. During postmarketing use of mirtazapine, cases of QT prolongation, Torsades de Pointes, ventricular tachycardia, and sudden death, have been reported [see Adverse Reactions (6.1 , 6.2) ] . The majority of reports occurred in association with overdose or in patients with other risk factors for QT prolongation, including concomitant use of QTc-prolonging medicines [see Drug Interactions (7) and Overdosage (10) ] . Exercise caution when REMERON/REMERONSolTab is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other drugs thought to prolong the QTc interval. 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with postmarketing use of mirtazapine. DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis. DRESS is sometimes fatal. Discontinue REMERON/REMERONSolTab immediately if DRESS is suspected and institute appropriate treatment [see Contraindications (4) , Adverse Reactions (6.2) ] . 5.7 Increased Appetite and Weight Gain In U.S. controlled clinical studies, appetite increase was reported in 17% of patients treated with REMERON, compared to 2% for placebo. In these same trials, weight gain of ≥7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo. In a pool of premarketing U.S. clinical studies, including many patients for long-term, open-label treatment, 8% of patients receiving REMERON discontinued for weight gain. In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of REMERON-treated pediatric patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients. The safety and effectiveness of REMERON/REMERONSolTab in pediatric patients with MDD have not been established [see Use in Specific Populations (8.4) ] . 5.8 Somnolence In U.S. controlled studies, somnolence was reported in 54% of patients treated with REMERON, compared to 18% for placebo. In these studies, somnolence resulted in discontinuation for 10.4% of REMERON-treated patients, compared to 2.2% for placebo. It is unclear whether tolerance develops to the somnolent effects of REMERON/REMERONSolTab. Because of the potentially significant effects of REMERON/REMERONSolTab on impairment of performance, caution patients about engaging in activities that require alertness, including operating hazardous machinery and motor vehicles, until they are reasonably certain that REMERON/REMERONSolTab does not affect them adversely. The concomitant use of benzodiazepines and alcohol with REMERON/REMERONSolTab should be avoided [see Drug Interactions (7) ] . 5.9 Activation of Mania or Hypomania In patients with bipolar disorder, treating a depressive episode with REMERON/REMERONSolTab or another antidepressant may precipitate a mixed/manic episode. In controlled clinical trials, patients with bipolar disorder were generally excluded; however, symptoms of mania or hypomania were reported in 0.2% of patients treated with REMERON. Prior to initiating treatment with REMERON/REMERONSolTab, screen patients for any personal or family history of bipolar disorder, mania, or hypomania. 5.10 Seizures REMERON/REMERONSolTab has not been systematically evaluated in patients with seizure disorders. In premarketing clinical trials, 1 seizure was reported among the 2796 U.S. and non-U.S. patients treated with REMERON. REMERON/REMERONSolTab should be prescribed with caution in patients with a seizure disorder. 5.11 Elevated Cholesterol and Triglycerides In U.S. controlled studies, nonfasting cholesterol increases to ≥20% above the upper limits of normal were observed in 15% of patients treated with REMERON, compared to 7% for placebo. In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were observed in 6% of patients treated with REMERON, compared to 3% for placebo. 5.12 Hyponatremia Hyponatremia may occur as a result of treatment with serotonergic antidepressants, including REMERON/REMERONSolTab. Cases with serum sodium lower than 110 mmol/L have been reported. Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls. Signs and symptoms associated with more severe or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death. In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH). In patients with symptomatic hyponatremia, discontinue REMERON/REMERONSolTab and institute appropriate medical intervention. Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia [see Use in Specific Populations (8.5) ] . 5.13 Transaminase Elevations Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients treated with REMERON in a pool of short-term, U.S. controlled trials, compared to 0.3% (1/328) of placebo patients. While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued REMERON treatment. REMERON/REMERONSolTab should be used with caution in patients with impaired hepatic function [see Use in Specific Populations (8.6) , Clinical Pharmacology (12.3) ] . 5.14 Discontinuation Syndrome There have been reports of adverse reactions upon the discontinuation of REMERON/REMERONSolTab (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance. A gradual reduction in the dosage, rather than an abrupt cessation, is recommended [see Dosage and Administration (2.6) ]. 5.15 Use in Patients with Concomitant Illness REMERON/REMERONSolTab has not been systematically evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or other significant heart disease. REMERON was associated with significant orthostatic hypotension in early clinical pharmacology trials with normal volunteers. Orthostatic hypotension was infrequently observed in clinical trials with depressed patients [see Adverse Reactions (6.1) ] . REMERON/REMERONSolTab should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication). 5.16 Risks in Patients with Phenylketonuria Phenylalanine can be harmful to patients with phenylketonuria (PKU). REMERONSolTab contains phenylalanine, a component of aspartame. REMERONSolTab contains the following amount of phenylalanine: 2.6 mg in 15 mg orally disintegrating tablet, 5.2 mg in 30 mg orally disintegrating tablet, and 7.8 mg in 45 mg orally disintegrating tablet. Before prescribing REMERONSolTab to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including REMERONSolTab."
+  ],
+  "warnings_and_cautions_table": [
+   "<table width=\"75%\" ID=\"table1\"><caption>Table 1: Risk Differences of the Number of Patients with Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients</caption><col width=\"25%\" align=\"left\" valign=\"bottom\"/><col width=\"75%\" align=\"center\" valign=\"bottom\"/><thead><tr><th styleCode=\"Lrule Rrule\" align=\"center\" valign=\"top\">Age Range</th><th styleCode=\"Rrule\" valign=\"top\">Drug-Placebo Difference in Number of Patients with Suicidal Thoughts or Behaviors per 1000 Patients Treated</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"/><td styleCode=\"Rrule\"><content styleCode=\"bold\">Increases Compared to Placebo</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">&lt;18 years old</td><td styleCode=\"Rrule\">14 additional patients</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">18&#x2013;24 years old</td><td styleCode=\"Rrule\">5 additional patients</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"/><td styleCode=\"Rrule\"><content styleCode=\"bold\">Decreases Compared to Placebo</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">25&#x2013;64 years old</td><td styleCode=\"Rrule\">1 fewer patient</td></tr><tr><td styleCode=\"Lrule Rrule\">&#x2265;65 years old</td><td styleCode=\"Rrule\">6 fewer patients </td></tr></tbody></table>"
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions are described in more detail in other sections of the prescribing information: Hypersensitivity [see Contraindications (4) ] Suicidal Thoughts and Behaviors [see Warnings and Precautions (5.1) ] Agranulocytosis [see Warnings and Precautions (5.2) ] Serotonin Syndrome [see Contraindications (4) , Warnings and Precautions (5.3) , Drug Interactions (7) ] Angle-Closure Glaucoma [see Warnings and Precautions (5.4) ] QT Prolongation and Torsades de Pointes [see Warnings and Precautions (5.5) ] Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.6) ] Increased Appetite and Weight Gain [see Warnings and Precautions (5.7) ] Somnolence [see Warnings and Precautions (5.8) ] Activation of Mania or Hypomania [see Warnings and Precautions (5.9) ] Seizures [see Warnings and Precautions (5.10) ] Elevated Cholesterol and Triglycerides [see Warnings and Precautions (5.11) ] Hyponatremia [see Warnings and Precautions (5.12) ] Transaminase Elevations [see Warnings and Precautions (5.13) ] Discontinuation Syndrome [see Warnings and Precautions (5.14) ] Use in Patients with Concomitant Illness [see Warnings and Precautions (5.15) ] Most common adverse reactions (≥5% or greater and twice placebo) were somnolence, increased appetite, weight gain, and dizziness. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Organon USA LLC, a subsidiary of Organon & Co., at 1-844-674-3200 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The data described below are from clinical trials in which REMERON/REMERONSolTab was administered to 2796 patients in phase 2 and 3 clinical studies. The trials consisted of double-blind controlled and open-label studies, inpatient and outpatient studies, fixed dose, and titration studies. Adverse Reactions Leading to Discontinuation of Treatment Approximately 16% of the 453 patients who received REMERON in U.S. 6-week placebo-controlled clinical trials discontinued treatment due to an adverse reaction, compared to 7% of the 361 placebo-treated patients in those studies. The most common reactions leading to discontinuation (≥1% and at a rate at least twice that of placebo) are included in Table 2. Table 2: Adverse Reactions (≥1% and at least twice placebo) Leading to Discontinuation of REMERON in 6-Week Clinical Trials in Patients with MDD REMERON (n=453) Placebo (n=361) Somnolence 10.4% 2.2% Nausea 1.5% 0% Common Adverse Reactions The most common adverse reactions (≥5% and twice placebo) associated with the use of REMERON are listed in Table 3. Table 3: Adverse Reactions (≥5% and twice placebo) in 6-Week U.S. Clinical Trials of REMERON in Patients with MDD REMERON (n=453) Placebo (n=361) Somnolence 54% 18% Increased Appetite 17% 2% Weight Gain 12% 2% Dizziness 7% 3% Table 4 enumerates adverse reactions that occurred in ≥1% of REMERON-treated patients, and were more frequent than the placebo-treated patients, who participated in 6-week, U.S. placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day. This table shows the percentage of patients in each group who had at least 1 episode of an adverse reaction at some time during their treatment. Table 4: Adverse Reactions (≥1% and greater than placebo) in 6-Week U.S. Clinical Studies of Remeron in Patients with MDD REMERON (n=453) Placebo (n=361) Body as a Whole Asthenia 8% 5% Flu Syndrome 5% 3% Back Pain 2% 1% Digestive System Dry Mouth 25% 15% Increased Appetite 17% 2% Constipation 13% 7% Metabolic and Nutritional Disorders Weight Gain 12% 2% Peripheral Edema 2% 1% Edema 1% 0% Musculoskeletal System Myalgia 2% 1% Nervous System Somnolence 54% 18% Dizziness 7% 3% Abnormal Dreams 4% 1% Thinking Abnormal 3% 1% Tremor 2% 1% Confusion 2% 0% Respiratory System Dyspnea 1% 0% Urogenital System Urinary Frequency 2% 1% ECG Changes The electrocardiograms for 338 patients who received REMERON and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed. REMERON was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo. The clinical significance of these changes is unknown. Other Adverse Reactions Observed During the Premarketing Evaluation of REMERON The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general or excessively specific so as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo. Adverse reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare adverse reactions are those occurring in fewer than 1/1000 patients. Body as a Whole: frequent: malaise, abdominal pain, abdominal syndrome acute; infrequent : chills, fever, face edema, ulcer, photosensitivity reaction, neck rigidity, neck pain, abdomen enlarged; rare : cellulitis, chest pain substernal. Cardiovascular System : frequent : hypertension, vasodilatation; infrequent : angina pectoris, myocardial infarction, bradycardia, ventricular extrasystoles, syncope, migraine, hypotension; rare : atrial arrhythmia, bigeminy, vascular headache, pulmonary embolus, cerebral ischemia, cardiomegaly, phlebitis, left heart failure. Digestive System : frequent : vomiting, anorexia; infrequent : eructation, glossitis, cholecystitis, nausea and vomiting, gum hemorrhage, stomatitis, colitis, liver function tests abnormal; rare : tongue discoloration, ulcerative stomatitis, salivary gland enlargement, increased salivation, intestinal obstruction, pancreatitis, aphthous stomatitis, cirrhosis of liver, gastritis, gastroenteritis, oral moniliasis, tongue edema. Endocrine System: rare : goiter, hypothyroidism. Hemic and Lymphatic System : rare : lymphadenopathy, leukopenia, petechia, anemia, thrombocytopenia, lymphocytosis, pancytopenia. Metabolic and Nutritional Disorders : frequent : thirst; infrequent : dehydration, weight loss; rare : gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus, hyponatremia. Musculoskeletal System : frequent : myasthenia, arthralgia; infrequent : arthritis, tenosynovitis; rare : pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis. Nervous System : frequent : hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent : ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare : aphasia, nystagmus, akathisia (psychomotor restlessness), stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome, serotonin syndrome. Respiratory System : frequent : cough increased, sinusitis; infrequent : epistaxis, bronchitis, asthma, pneumonia; rare : asphyxia, laryngitis, pneumothorax, hiccup. Skin and Appendages : frequent : pruritus, rash; infrequent : acne, exfoliative dermatitis, dry skin, herpes simplex, alopecia; rare : urticaria, herpes zoster, skin hypertrophy, seborrhea, skin ulcer. Special Senses : infrequent : eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, angle-closure glaucoma, hyperacusis, ear pain; rare : blepharitis, partial transitory deafness, otitis media, taste loss, parosmia. Urogenital System : frequent : urinary tract infection; infrequent : kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare : polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency. 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of REMERON. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Cardiac disorders : ventricular arrhythmia (Torsades de Pointes) Endocrine disorders: hyperprolactinemia (and related symptoms, e.g., galactorrhea and gynecomastia) Musculoskeletal and connective tissue disorders: increased creatine kinase blood levels and rhabdomyolysis Psychiatric disorders: somnambulism (ambulation and other complex behaviors out of bed) Reproductive system and breast disorders: priapism Skin and subcutaneous tissue disorders : severe skin reactions, including DRESS, Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis"
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"90%\" ID=\"table2\"><caption>Table 2: Adverse Reactions (&#x2265;1% and at least twice placebo) Leading to Discontinuation of REMERON in 6-Week Clinical Trials in Patients with MDD</caption><col width=\"34%\" align=\"left\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><thead><tr><th styleCode=\"Lrule Rrule\"/><th styleCode=\"Rrule\" valign=\"middle\">REMERON (n=453)</th><th styleCode=\"Rrule\" valign=\"middle\">Placebo (n=361)</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Somnolence</td><td styleCode=\"Rrule\">10.4%</td><td styleCode=\"Rrule\">2.2%</td></tr><tr><td styleCode=\"Lrule Rrule\">Nausea</td><td styleCode=\"Rrule\">1.5%</td><td styleCode=\"Rrule\">0%</td></tr></tbody></table>",
+   "<table width=\"90%\" ID=\"table3\"><caption>Table 3: Adverse Reactions (&#x2265;5% and twice placebo) in 6-Week U.S. Clinical Trials of REMERON in Patients with MDD</caption><col width=\"34%\" align=\"left\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><thead><tr><th styleCode=\"Lrule Rrule\"/><th styleCode=\"Rrule\" valign=\"middle\">REMERON (n=453)</th><th styleCode=\"Rrule\" valign=\"middle\">Placebo (n=361)</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Somnolence</td><td styleCode=\"Rrule\">54%</td><td styleCode=\"Rrule\">18%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Increased Appetite</td><td styleCode=\"Rrule\">17%</td><td styleCode=\"Rrule\">2%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Weight Gain</td><td styleCode=\"Rrule\">12%</td><td styleCode=\"Rrule\">2%</td></tr><tr><td styleCode=\"Lrule Rrule\">Dizziness</td><td styleCode=\"Rrule\">7%</td><td styleCode=\"Rrule\">3%</td></tr></tbody></table>",
+   "<table width=\"90%\" ID=\"table4\"><caption>Table 4: Adverse Reactions (&#x2265;1% and greater than placebo) in 6-Week U.S. Clinical Studies of Remeron in Patients with MDD</caption><col width=\"34%\" align=\"left\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><thead><tr><th styleCode=\"Lrule Rrule\"/><th styleCode=\"Rrule\" align=\"left\">REMERON (n=453)</th><th styleCode=\"Rrule\" align=\"left\">Placebo (n=361)</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Body as a Whole</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Asthenia</td><td styleCode=\"Rrule\">8%</td><td styleCode=\"Rrule\">5%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Flu Syndrome</td><td styleCode=\"Rrule\">5%</td><td styleCode=\"Rrule\">3%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Back Pain</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">1%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Digestive System</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Dry Mouth</td><td styleCode=\"Rrule\">25%</td><td styleCode=\"Rrule\">15%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Increased Appetite</td><td styleCode=\"Rrule\">17%</td><td styleCode=\"Rrule\">2%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Constipation</td><td styleCode=\"Rrule\">13%</td><td styleCode=\"Rrule\">7%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Metabolic and Nutritional Disorders</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Weight Gain</td><td styleCode=\"Rrule\">12%</td><td styleCode=\"Rrule\">2%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Peripheral Edema</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">1%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Edema</td><td styleCode=\"Rrule\">1%</td><td styleCode=\"Rrule\">0%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Musculoskeletal System</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Myalgia</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">1%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Nervous System</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Somnolence</td><td styleCode=\"Rrule\">54%</td><td styleCode=\"Rrule\">18%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Dizziness</td><td styleCode=\"Rrule\">7%</td><td styleCode=\"Rrule\">3%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Abnormal Dreams</td><td styleCode=\"Rrule\">4%</td><td styleCode=\"Rrule\">1%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Thinking Abnormal</td><td styleCode=\"Rrule\">3%</td><td styleCode=\"Rrule\">1%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Tremor</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">1%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Confusion</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">0%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Respiratory System</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Dyspnea</td><td styleCode=\"Rrule\">1%</td><td styleCode=\"Rrule\">0%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Urogenital System</content></td></tr><tr><td styleCode=\"Lrule Rrule\"> Urinary Frequency</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">1%</td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Table 5 includes clinically important drug interactions with REMERON/REMERONSolTab [see Clinical Pharmacology (12.3) ]. Table 5: Clinically Important Drug Interactions with REMERON/REMERONSolTab Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact The concomitant use of serotonergic drugs, including REMERON/REMERONSolTab, and MAOIs increases the risk of serotonin syndrome. Intervention REMERON/REMERONSolTab is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.4) , Contraindications (4) , Warnings and Precautions (5.3) ]. Examples selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue Other Serotonergic Drugs Clinical Impact The concomitant use of serotonergic drugs with REMERON/REMERONSolTab increases the risk of serotonin syndrome. Intervention Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of REMERON/REMERONSolTab and/or concomitant serotonergic drugs [see Warnings and Precautions (5.3) ]. Examples SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, amphetamines, St. John's Wort, tramadol, tryptophan, buspirone Strong CYP3A Inducers Clinical Impact The concomitant use of strong CYP3A inducers with REMERON/REMERONSolTab decreases the plasma concentration of mirtazapine [see Clinical Pharmacology (12.3) ] . Intervention Increase the dose of REMERON/REMERONSolTab if needed with concomitant CYP3A inducer use. Conversely, a decrease in dosage of REMERON/REMERONSolTab may be needed if the CYP3A inducer is discontinued [see Dosage and Administration (2.5) ]. Examples phenytoin, carbamazepine, rifampin Strong CYP3A Inhibitors Clinical Impact The concomitant use of strong CYP3A inhibitors with REMERON/REMERONSolTab may increase the plasma concentration of mirtazapine [see Clinical Pharmacology (12.3) ] . Intervention Decrease the dose of REMERON/REMERONSolTab if needed with concomitant strong CYP3A inhibitor use. Conversely, an increase in dosage of REMERON/REMERONSolTab may be needed if the CYP3A inhibitor is discontinued [see Dosage and Administration (2.5) ]. Examples itraconazole, ritonavir, nefazodone Cimetidine Clinical Impact The concomitant use of cimetidine, a CYP1A2, CYP2D6, and CYP3A inhibitor, with REMERON/REMERONSolTab may increase the plasma concentration of mirtazapine [see Clinical Pharmacology (12.3) ]. Intervention Decrease the dose of REMERON/REMERONSolTab if needed with concomitant cimetidine use. Conversely, an increase in dosage of REMERON/REMERONSolTab may be needed if cimetidine is discontinued [see Dosage and Administration (2.5) ] . Benzodiazepines and Alcohol Clinical Impact The concomitant use of benzodiazepines or alcohol with REMERON/REMERONSolTab increases the impairment of cognitive and motor skills produced by REMERON/REMERONSolTab alone. Intervention Avoid concomitant use of benzodiazepines and alcohol with REMERON/REMERONSolTab [see Warnings and Precautions (5.8) , Clinical Pharmacology (12.3) ] . Examples diazepam, alprazolam, alcohol Drugs that Prolong QTc Interval Clinical Impact The concomitant use of other drugs which prolong the QTc interval with REMERON/REMERONSolTab, increase the risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes). Intervention Use caution when using REMERON/REMERONSolTab concomitantly with drugs that prolong the QTc interval [see Warnings and Precautions (5.5) , Clinical Pharmacology (12.3) ]. Warfarin Clinical Impact The concomitant use of warfarin with REMERON/REMERONSolTab may result in an increase in INR [see Clinical Pharmacology (12.3) ] . Intervention Monitor INR during concomitant use of warfarin with REMERON/REMERONSolTab. Strong CYP3A inducers: Dosage increase may be needed for REMERON/REMERONSolTab with concomitant use of strong CYP3A inducers. ( 2.5 , 7 ) Strong CYP3A inhibitors : Dosage decrease may be needed when REMERON/REMERONSolTab is coadministered with strong CYP3A inhibitors. ( 2.5 , 7 ) Cimetidine: Dosage decrease may be needed when REMERON/REMERONSolTab is coadministered with cimetidine. ( 2.5 , 7 ) Warfarin : Monitor INR during concomitant use. ( 7 )"
+  ],
+  "drug_interactions_table": [
+   "<table width=\"90%\" ID=\"table5\"><caption>Table 5: Clinically Important Drug Interactions with REMERON/REMERONSolTab</caption><col width=\"25%\" align=\"left\" valign=\"top\"/><col width=\"75%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Monoamine Oxidase Inhibitors (MAOIs)</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of serotonergic drugs, including REMERON/REMERONSolTab, and MAOIs increases the risk of serotonin syndrome. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">REMERON/REMERONSolTab is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue <content styleCode=\"italics\">[see <linkHtml href=\"#S2.4\">Dosage and Administration (2.4)</linkHtml>, <linkHtml href=\"#S4\">Contraindications (4)</linkHtml>, <linkHtml href=\"#S5.3\">Warnings and Precautions (5.3)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Examples</content></td><td styleCode=\"Rrule\">selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Other Serotonergic Drugs</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of serotonergic drugs with REMERON/REMERONSolTab increases the risk of serotonin syndrome.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of REMERON/REMERONSolTab and/or concomitant serotonergic drugs <content styleCode=\"italics\">[see <linkHtml href=\"#S5.3\">Warnings and Precautions (5.3)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Examples</content></td><td styleCode=\"Rrule\">SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, amphetamines, St. John&apos;s Wort, tramadol, tryptophan, buspirone</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Strong CYP3A Inducers</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of strong CYP3A inducers with REMERON/REMERONSolTab decreases the plasma concentration of mirtazapine <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content>.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Increase the dose of REMERON/REMERONSolTab if needed with concomitant CYP3A inducer use. Conversely, a decrease in dosage of REMERON/REMERONSolTab may be needed if the CYP3A inducer is discontinued <content styleCode=\"italics\">[see <linkHtml href=\"#S2.5\">Dosage and Administration (2.5)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Examples</content></td><td styleCode=\"Rrule\">phenytoin, carbamazepine, rifampin</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Strong CYP3A Inhibitors</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of strong CYP3A inhibitors with REMERON/REMERONSolTab may increase the plasma concentration of mirtazapine <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content>.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Decrease the dose of REMERON/REMERONSolTab if needed with concomitant strong CYP3A inhibitor use. Conversely, an increase in dosage of REMERON/REMERONSolTab may be needed if the CYP3A inhibitor is discontinued <content styleCode=\"italics\">[see <linkHtml href=\"#S2.5\">Dosage and Administration (2.5)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Examples</content></td><td styleCode=\"Rrule\">itraconazole, ritonavir, nefazodone</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Cimetidine</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of cimetidine, a CYP1A2, CYP2D6, and CYP3A inhibitor, with REMERON/REMERONSolTab may increase the plasma concentration of mirtazapine <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Decrease the dose of REMERON/REMERONSolTab if needed with concomitant cimetidine use. Conversely, an increase in dosage of REMERON/REMERONSolTab may be needed if cimetidine is discontinued <content styleCode=\"italics\">[see <linkHtml href=\"#S2.5\">Dosage and Administration (2.5)</linkHtml>]</content>.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Benzodiazepines and Alcohol</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of benzodiazepines or alcohol with REMERON/REMERONSolTab increases the impairment of cognitive and motor skills produced by REMERON/REMERONSolTab alone.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Avoid concomitant use of benzodiazepines and alcohol with REMERON/REMERONSolTab <content styleCode=\"italics\">[see <linkHtml href=\"#S5.8\">Warnings and Precautions (5.8)</linkHtml>, <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content>.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Examples</content></td><td styleCode=\"Rrule\">diazepam, alprazolam, alcohol</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Drugs that Prolong QTc Interval</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of other drugs which prolong the QTc interval with REMERON/REMERONSolTab, increase the risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes).</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Use caution when using REMERON/REMERONSolTab concomitantly with drugs that prolong the QTc interval <content styleCode=\"italics\">[see <linkHtml href=\"#S5.5\">Warnings and Precautions (5.5)</linkHtml>, <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Warfarin</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Clinical Impact</content></td><td styleCode=\"Rrule\">The concomitant use of warfarin with REMERON/REMERONSolTab may result in an increase in INR <content styleCode=\"italics\">[see <linkHtml href=\"#S12.3\">Clinical Pharmacology (12.3)</linkHtml>]</content>.</td></tr><tr><td styleCode=\"Lrule Rrule\"><content styleCode=\"italics\">Intervention</content></td><td styleCode=\"Rrule\">Monitor INR during concomitant use of warfarin with REMERON/REMERONSolTab.</td></tr></tbody></table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Geriatric Use : Use with caution in elderly patients. ( 5.12 , 5.15 , 8.5 ) Renal impairment: Dosage decrease may be needed in patients with moderate to severe renal impairment. ( 8.6 ) Hepatic impairment: Dosage decrease may be needed in patients with hepatic impairment. ( 8.6 ) Patients with Phenylketonuria : REMERONSolTab contains phenylalanine. ( 5.16 , 8.7 ) 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/. Risk Summary Prolonged experience with mirtazapine in pregnant women, based on published observational studies and postmarketing reports, has not reliably identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks associated with untreated depression in pregnancy (see Clinical Considerations ). In animal reproduction studies, oral administration of mirtazapine to pregnant rats and rabbits during the period of organogenesis revealed no evidence of teratogenic effects up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg, respectively, based on mg/m 2 body surface area. However, in rats, there was an increase in postimplantation loss at 20 times the MRHD based on mg/m 2 body surface area. Oral administration of mirtazapine to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths and a decrease in pup birth weights at doses 20 times the MRHD based on mg/m 2 body surface area (see Data ). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants. This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy. Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum. Data Animal Data Mirtazapine was administered orally to pregnant rats and rabbits during the period of organogenesis at doses of 2.5, 15, and 100 mg/kg/day and 2.5, 10, and 40 mg/kg/day, respectively, which are up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg based on mg/m 2 body surface area, respectively. No evidence of teratogenic effects was observed. However, in rats, there was an increase in postimplantation loss in dams treated with mirtazapine at 100 mg/kg/day which is 20 times the MRHD based on mg/m 2 body surface area. Oral administration of mirtazapine at doses of 2.5, 15, and 100 mg/kg/day to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights at 20 times the MRHD based on mg/m 2 body surface area. The cause of these deaths is not known. The no effect dose level is 3 times the MRHD based on mg/m 2 body surface area. 8.2 Lactation Risk Summary Data from published literature report the presence of mirtazapine in human milk at low levels with relative infant doses for mirtazapine ranging between 0.6 and 2.8% of the maternal weight-adjusted dose (see Data ) . No adverse effects on the breastfed infant have been reported in most cases of maternal use of mirtazapine. There are no data on the effects of mirtazapine on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for mirtazapine and any potential adverse effects on the breastfed infant from mirtazapine or from the underlying maternal condition. Data In a published pooled analysis of 8 breastfeeding mother-infant pairs, the mean (min, max) total relative infant doses for mirtazapine and its desmethyl metabolite were 1.5% (0.6%, 2.8%) and 0.4% (0.1%, 0.7%) of the maternal weight-adjusted dose (median (min, max) dose of 38 mg (30 mg, 120 mg), respectively). No adverse drug effects were reported for any of the infants. 8.4 Pediatric Use The safety and effectiveness of REMERON/REMERONSolTab have not been established in pediatric patients with MDD. Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with REMERON, and the data were insufficient to establish the safety and effectiveness of REMERON/REMERONSolTab in pediatric patients with MDD. Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning and Warnings and Precautions (5.1) ] . In an 8-week-long clinical trial in pediatric patients receiving doses between 15 to 45 mg per day, 49% of REMERON-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients. The mean increase in weight was 4 kg (2 kg SD) for REMERON-treated patients versus 1 kg (2 kg SD) for placebo-treated patients [see Warnings and Precautions (5.7) ] . 8.5 Geriatric Use Approximately 190 patients ≥65 years of age participated in clinical studies with REMERON. REMERON/REMERONSolTab is known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function. Pharmacokinetic studies revealed a decreased clearance of mirtazapine in the elderly [see Clinical Pharmacology (12.3) ] . Sedating drugs, including REMERON/REMERONSolTab, may cause confusion and over-sedation in the elderly. Elderly patients may be at greater risk of developing hyponatremia. Caution is indicated when administering REMERON/REMERONSolTab to elderly patients [see Warnings and Precautions (5.12) , (5.15) and Clinical Pharmacology (12.3) ] . In general, dose selection for an elderly patient should be conservative, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. 8.6 Renal or Hepatic Impairment The clearance of mirtazapine is reduced in patients with moderate to severe renal or hepatic impairment. Consequently, plasma mirtazapine levels may be increased in these patient groups, compared to levels observed in patients without renal or hepatic impairment. Dosage decrease may be necessary when administering REMERON/REMERONSolTab to patients with moderate to severe renal or hepatic impairment [see Warnings and Precautions (5.13) , Use in Specific Populations (8.5) , and Clinical Pharmacology (12.3) ] . 8.7 Patients with Phenylketonuria REMERONSolTab contains phenylalanine, a component of aspartame. REMERONSolTab contains the following amount of phenylalanine: 2.6 mg in 15 mg orally disintegrating tablet, 5.2 mg in 30 mg orally disintegrating tablet, and 7.8 mg in 45 mg orally disintegrating tablet [see Warnings and Precautions (5.16) ]."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/. Risk Summary Prolonged experience with mirtazapine in pregnant women, based on published observational studies and postmarketing reports, has not reliably identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks associated with untreated depression in pregnancy (see Clinical Considerations ). In animal reproduction studies, oral administration of mirtazapine to pregnant rats and rabbits during the period of organogenesis revealed no evidence of teratogenic effects up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg, respectively, based on mg/m 2 body surface area. However, in rats, there was an increase in postimplantation loss at 20 times the MRHD based on mg/m 2 body surface area. Oral administration of mirtazapine to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths and a decrease in pup birth weights at doses 20 times the MRHD based on mg/m 2 body surface area (see Data ). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants. This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy. Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum. Data Animal Data Mirtazapine was administered orally to pregnant rats and rabbits during the period of organogenesis at doses of 2.5, 15, and 100 mg/kg/day and 2.5, 10, and 40 mg/kg/day, respectively, which are up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg based on mg/m 2 body surface area, respectively. No evidence of teratogenic effects was observed. However, in rats, there was an increase in postimplantation loss in dams treated with mirtazapine at 100 mg/kg/day which is 20 times the MRHD based on mg/m 2 body surface area. Oral administration of mirtazapine at doses of 2.5, 15, and 100 mg/kg/day to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights at 20 times the MRHD based on mg/m 2 body surface area. The cause of these deaths is not known. The no effect dose level is 3 times the MRHD based on mg/m 2 body surface area."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of REMERON/REMERONSolTab have not been established in pediatric patients with MDD. Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with REMERON, and the data were insufficient to establish the safety and effectiveness of REMERON/REMERONSolTab in pediatric patients with MDD. Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning and Warnings and Precautions (5.1) ] . In an 8-week-long clinical trial in pediatric patients receiving doses between 15 to 45 mg per day, 49% of REMERON-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients. The mean increase in weight was 4 kg (2 kg SD) for REMERON-treated patients versus 1 kg (2 kg SD) for placebo-treated patients [see Warnings and Precautions (5.7) ] ."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Approximately 190 patients ≥65 years of age participated in clinical studies with REMERON. REMERON/REMERONSolTab is known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function. Pharmacokinetic studies revealed a decreased clearance of mirtazapine in the elderly [see Clinical Pharmacology (12.3) ] . Sedating drugs, including REMERON/REMERONSolTab, may cause confusion and over-sedation in the elderly. Elderly patients may be at greater risk of developing hyponatremia. Caution is indicated when administering REMERON/REMERONSolTab to elderly patients [see Warnings and Precautions (5.12) , (5.15) and Clinical Pharmacology (12.3) ] . In general, dose selection for an elderly patient should be conservative, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Human Experience In premarketing clinical studies, there were reports of REMERON overdose alone or in combination with other pharmacological agents. Signs and symptoms reported in association with overdose included disorientation, drowsiness, impaired memory, and tachycardia. Based on postmarketing reports, serious outcomes (including fatalities) may occur at dosages higher than the recommended doses, especially with mixed overdoses. In these cases, QT prolongation and Torsades de Pointes have also been reported [see Warnings and Precautions (5.5) , Adverse Reactions (6.2) , and Drug Interactions (7) ]. Overdose Management No specific antidotes for mirtazapine are known. Contact Poison Control (1-800-222-1222) for the latest recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION REMERON and REMERONSolTab contain mirtazapine. Mirtazapine has a tetracyclic chemical structure and belongs to the piperazino-azepine group of compounds. It is designated 1,2,3,4,10,14b-hexahydro-2-methylpyrazino [2,1-a] pyrido [2,3-c][2] benzazepine and has the empirical formula of C 17 H 19 N 3 . Its molecular weight is 265.35. The structural formula is the following and it is the racemic mixture: Mirtazapine is a white to creamy white crystalline powder which is practically insoluble in water. REMERON is available for oral administration as scored film-coated tablets containing 15 or 30 mg of mirtazapine Each tablet contains the following inactive ingredients: colloidal silicon dioxide anhydrous, corn starch, ferric oxide (yellow), hydroxypropyl cellulose, hypromellose, magnesium stearate, lactose monohydrate, polyethylene glycol 8000, and titanium dioxide. The 30 mg tablets also contain ferric oxide (red). REMERONSolTab is available for oral administration as an orally disintegrating tablet containing 15, 30, or 45 mg of mirtazapine. REMERONSolTab also contains the following inactive ingredients: aspartame, citric acid anhydrous fine granular, crospovidone, hypromellose, magnesium stearate, mannitol, granular mannitol 2080, microcrystalline cellulose, natural and artificial orange flavor, polymethacrylate (Eudragit E100), povidone, sodium bicarbonate, and sugar spheres (composed of starch and sucrose). Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity. 12.2 Pharmacodynamics In preclinical studies, mirtazapine acts as an antagonist at α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and as an antagonist at serotonin 5-HT 2 and 5-HT 3 receptors. Mirtazapine has no significant affinity for the 5-HT 1A and 5-HT 1B receptors. Mirtazapine also acts as an antagonist of histamine (H 1 ) receptors, peripheral α 1 -adrenergic receptors, and muscarinic receptors. Actions at these receptors may explain some of the other clinical effects of mirtazapine (e.g., its prominent somnolent effects and orthostatic hypotension may be explained by its inhibition of histamine (H 1 ) receptors and peripheral α 1 -adrenergic receptors, respectively). Cardiac Electrophysiology The effect of REMERON (mirtazapine) on QTc interval was assessed in healthy subjects. At a dose of 75 mg (1.67 times the maximum recommended dosage), REMERON does not prolong the QTc interval to a clinically meaningful extent. 12.3 Pharmacokinetics Plasma levels of mirtazapine are linearly related to dose over a dose range of 15 to 80 mg (1.78 times the maximum recommended dose). Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio=1.5). The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer. Absorption Mirtazapine has an absolute bioavailability of about 50% following oral administration. Peak plasma concentrations of mirtazapine are reached within about 2 hours post dose. Food Effect The presence of food in the stomach has a minimal effect on both the rate and extent of absorption. Distribution Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL. Elimination Mirtazapine has a half-life of about 20 to 40 hours following oral administration of REMERON or REMERONSolTab. Metabolism Mirtazapine is extensively metabolized after oral administration. Major pathways of bio-transformation are demethylation and hydroxylation followed by glucuronide conjugation. In vitro data from human liver microsomes indicate that CYP2D6 and CYP1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas CYP3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite. Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels. Excretion Mirtazapine and its metabolites are eliminated predominantly (75%) via urine with 15% in feces. Specific Populations Geriatric Patients Following oral administration of REMERON Tablets 20 mg/day for 7 days to subjects of varying ages (range 25 to 74 years old), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects. The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females [see Warnings and Precautions (5.15) , Use in Specific Populations (8.5) ] . Male and Female Patients The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males). Race There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of REMERON. Patients with Renal Impairment When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11–39 mL/min/1.73 m 2 and approximately 50% in renal impaired patients with GFR=<10 mL/min/1.73 m 2 ) [see Warnings and Precautions (5.15) , Use in Specific Populations (8.6) ] . Patients with Hepatic Impairment Following a single 15-mg oral dose of REMERON, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions (5.13 , 5.15) , Use in Specific Populations (8.6) ] . Drug Interactions Studies Warfarin Mirtazapine (30 mg daily) at steady state caused a statistically significant increase (0.2) in the International Normalized Ratio (INR) in subjects treated with warfarin [see Drug Interactions (7) ]. QTc-Prolonging Drugs The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in mirtazapine overdose [see Warnings and Precautions (5.5) , Adverse Reactions (6.1 , 6.2) , Drug Interactions (7) , and Overdosage (10) ]. Phenytoin In healthy male subjects (n=18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45% [see Drug Interactions (7) ] . Mirtazapine did not significantly affect the pharmacokinetics of phenytoin. Carbamazepine In healthy male subjects (n=24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60% [see Drug Interactions (7) ]. Cimetidine In healthy male subjects (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50% [see Drug Interactions (7) ]. Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine. Ketoconazole In healthy male Caucasian subjects (n=24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively [see Drug Interactions (7) ]. Amitriptyline In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline. Paroxetine In healthy CYP2D6 extensive metabolizer subjects (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor. Lithium No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with lithium 600 mg/day for 10 days at steady state and a single 30 mg dose of mirtazapine. The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown. Risperidone Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg twice a day) in subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug. Alcohol Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects. However, the impairment of cognitive and motor skills produced by REMERON were shown to be additive with those produced by alcohol. Diazepam Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. However, the impairment of motor skills produced by REMERON has been shown to be additive with those caused by diazepam."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics In preclinical studies, mirtazapine acts as an antagonist at α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and as an antagonist at serotonin 5-HT 2 and 5-HT 3 receptors. Mirtazapine has no significant affinity for the 5-HT 1A and 5-HT 1B receptors. Mirtazapine also acts as an antagonist of histamine (H 1 ) receptors, peripheral α 1 -adrenergic receptors, and muscarinic receptors. Actions at these receptors may explain some of the other clinical effects of mirtazapine (e.g., its prominent somnolent effects and orthostatic hypotension may be explained by its inhibition of histamine (H 1 ) receptors and peripheral α 1 -adrenergic receptors, respectively). Cardiac Electrophysiology The effect of REMERON (mirtazapine) on QTc interval was assessed in healthy subjects. At a dose of 75 mg (1.67 times the maximum recommended dosage), REMERON does not prolong the QTc interval to a clinically meaningful extent."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Plasma levels of mirtazapine are linearly related to dose over a dose range of 15 to 80 mg (1.78 times the maximum recommended dose). Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio=1.5). The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer. Absorption Mirtazapine has an absolute bioavailability of about 50% following oral administration. Peak plasma concentrations of mirtazapine are reached within about 2 hours post dose. Food Effect The presence of food in the stomach has a minimal effect on both the rate and extent of absorption. Distribution Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL. Elimination Mirtazapine has a half-life of about 20 to 40 hours following oral administration of REMERON or REMERONSolTab. Metabolism Mirtazapine is extensively metabolized after oral administration. Major pathways of bio-transformation are demethylation and hydroxylation followed by glucuronide conjugation. In vitro data from human liver microsomes indicate that CYP2D6 and CYP1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas CYP3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite. Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels. Excretion Mirtazapine and its metabolites are eliminated predominantly (75%) via urine with 15% in feces. Specific Populations Geriatric Patients Following oral administration of REMERON Tablets 20 mg/day for 7 days to subjects of varying ages (range 25 to 74 years old), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects. The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females [see Warnings and Precautions (5.15) , Use in Specific Populations (8.5) ] . Male and Female Patients The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males). Race There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of REMERON. Patients with Renal Impairment When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11–39 mL/min/1.73 m 2 and approximately 50% in renal impaired patients with GFR=<10 mL/min/1.73 m 2 ) [see Warnings and Precautions (5.15) , Use in Specific Populations (8.6) ] . Patients with Hepatic Impairment Following a single 15-mg oral dose of REMERON, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions (5.13 , 5.15) , Use in Specific Populations (8.6) ] . Drug Interactions Studies Warfarin Mirtazapine (30 mg daily) at steady state caused a statistically significant increase (0.2) in the International Normalized Ratio (INR) in subjects treated with warfarin [see Drug Interactions (7) ]. QTc-Prolonging Drugs The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in mirtazapine overdose [see Warnings and Precautions (5.5) , Adverse Reactions (6.1 , 6.2) , Drug Interactions (7) , and Overdosage (10) ]. Phenytoin In healthy male subjects (n=18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45% [see Drug Interactions (7) ] . Mirtazapine did not significantly affect the pharmacokinetics of phenytoin. Carbamazepine In healthy male subjects (n=24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60% [see Drug Interactions (7) ]. Cimetidine In healthy male subjects (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50% [see Drug Interactions (7) ]. Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine. Ketoconazole In healthy male Caucasian subjects (n=24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively [see Drug Interactions (7) ]. Amitriptyline In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline. Paroxetine In healthy CYP2D6 extensive metabolizer subjects (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor. Lithium No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with lithium 600 mg/day for 10 days at steady state and a single 30 mg dose of mirtazapine. The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown. Risperidone Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg twice a day) in subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug. Alcohol Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects. However, the impairment of cognitive and motor skills produced by REMERON were shown to be additive with those produced by alcohol. Diazepam Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. However, the impairment of motor skills produced by REMERON has been shown to be additive with those caused by diazepam."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Carcinogenicity studies were conducted with mirtazapine given in the diet at doses of 2, 20, and 200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats. The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day, based on body surface area (mg/m 2 ) in mice and rats, respectively. There was an increased incidence of hepatocellular adenoma and carcinoma in male mice at the high dose. In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose. Mutagenesis Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test, in vitro gene mutation assay in Chinese hamster V 79 cells, in vitro sister chromatid exchange assay in cultured rabbit lymphocytes, in vivo bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells. Impairment of Fertility In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD), based on body surface area (mg/m 2 )]. Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Carcinogenicity studies were conducted with mirtazapine given in the diet at doses of 2, 20, and 200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats. The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day, based on body surface area (mg/m 2 ) in mice and rats, respectively. There was an increased incidence of hepatocellular adenoma and carcinoma in male mice at the high dose. In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose. Mutagenesis Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test, in vitro gene mutation assay in Chinese hamster V 79 cells, in vitro sister chromatid exchange assay in cultured rabbit lymphocytes, in vivo bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells. Impairment of Fertility In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD), based on body surface area (mg/m 2 )]. Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES The efficacy of REMERON as a treatment for major depressive disorder was established in 4 placebo-controlled, 6-week trials in adult outpatients meeting DSM-III criteria for major depressive disorder. Patients were titrated with REMERON from a dose range of 5 mg to 35 mg/day. The mean mirtazapine dose for patients who completed these 4 studies ranged from 21 to 32 mg/day. Overall, these studies demonstrated REMERON to be superior to placebo on at least 3 of the following 4 measures: 21-Item Hamilton Depression Rating Scale (HDRS) total score; HDRS Depressed Mood Item; CGI Severity score; and Montgomery and Asberg Depression Rating Scale (MADRS). Superiority of REMERON over placebo was also found for certain factors of the HDRS, including anxiety/somatization factor and sleep disturbance factor. Examination of age and gender subsets of the population did not reveal any differential responsiveness on the basis of these subgroupings. In a longer-term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8 to 12 weeks of acute treatment on REMERON were randomized to continuation of REMERON or placebo for up to 40 weeks of observation for relapse. Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤8 and a CGI-Improvement score of 1 or 2 at 2 consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study. Relapse during the double-blind phase was determined by the individual investigators. Patients receiving continued REMERON treatment experienced significantly lower relapse rates over the subsequent 40 weeks compared to those receiving placebo. This pattern was demonstrated in both male and female patients."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING REMERON tablets are supplied as: Tablet Strength Tablet Color/Shape Tablet Markings Package Configuration NDC Code 15 mg Yellow, oval tablet Scored with \"MSD\" debossed on one side and \" T 3 Z \" on other side, on both sides of score line Bottle / 30 count 78206-160-01 30 mg Red-brown, oval tablet Scored with \"MSD\" debossed on one side and \" T 5 Z \" on other side, on both sides of score line Bottle / 30 count 78206-161-01 Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Protect from light and moisture. REMERONSolTab orally disintegrating tablets are supplied as: Tablet Strength Tablet Color/Shape Tablet Markings Package Configuration NDC Code 15 mg White, round tablet \" T 1 Z \" debossed on one side. Box of 5 × 6-unit dose blister packs/ 30 count 78206-156-01 30 mg White, round tablet \" T 2 Z \" debossed on one side. Box of 5 × 6-unit dose blister packs/30 count 78206-158-01 45 mg White, round tablet \" T 4 Z \" debossed on one side Box of 5 × 6-unit dose blister packs/30 count 78206-159-01 Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Protect from light and moisture. Use immediately upon opening individual tablet blister."
+  ],
+  "how_supplied_table": [
+   "<table width=\"90%\"><col width=\"12%\" align=\"left\" valign=\"top\"/><col width=\"14%\" align=\"center\" valign=\"top\"/><col width=\"34%\" align=\"center\" valign=\"top\"/><col width=\"25%\" align=\"center\" valign=\"top\"/><col width=\"15%\" align=\"center\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\" align=\"center\">Tablet Strength</th><th styleCode=\"Rrule\">Tablet Color/Shape</th><th styleCode=\"Rrule\">Tablet Markings</th><th styleCode=\"Rrule\">Package Configuration</th><th styleCode=\"Rrule\">NDC Code</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">15 mg</td><td styleCode=\"Rrule\">Yellow, oval tablet</td><td styleCode=\"Rrule\" align=\"left\">Scored with &quot;MSD&quot; debossed on one side and &quot;<sup>T</sup><sub>3</sub><sup>Z</sup>&quot; on other side, on both sides of score line</td><td styleCode=\"Rrule\" align=\"left\">Bottle / 30 count</td><td styleCode=\"Rrule\" align=\"left\">78206-160-01</td></tr><tr><td styleCode=\"Lrule Rrule\">30 mg</td><td styleCode=\"Rrule\">Red-brown, oval tablet</td><td styleCode=\"Rrule\" align=\"left\">Scored with &quot;MSD&quot; debossed on one side and &quot;<sup>T</sup><sub>5</sub><sup>Z</sup>&quot; on other side, on both sides of score line</td><td styleCode=\"Rrule\" align=\"left\">Bottle / 30 count</td><td styleCode=\"Rrule\" align=\"left\">78206-161-01</td></tr></tbody></table>",
+   "<table width=\"90%\"><col width=\"12%\" align=\"left\" valign=\"top\"/><col width=\"14%\" align=\"center\" valign=\"top\"/><col width=\"34%\" align=\"center\" valign=\"top\"/><col width=\"25%\" align=\"center\" valign=\"top\"/><col width=\"15%\" align=\"center\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\" align=\"center\">Tablet Strength</th><th styleCode=\"Rrule\">Tablet Color/Shape</th><th styleCode=\"Rrule\">Tablet Markings</th><th styleCode=\"Rrule\">Package Configuration</th><th styleCode=\"Rrule\">NDC Code</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">15 mg</td><td styleCode=\"Rrule\">White, round tablet</td><td styleCode=\"Rrule\">&quot;<sup>T</sup><sub>1</sub><sup>Z</sup>&quot; debossed on one side.</td><td styleCode=\"Rrule\">Box of 5 &#xD7; 6-unit dose blister packs/ 30 count</td><td styleCode=\"Rrule\">78206-156-01</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">30 mg</td><td styleCode=\"Rrule\">White, round tablet</td><td styleCode=\"Rrule\">&quot;<sup>T</sup><sub>2</sub><sup>Z</sup>&quot; debossed on one side.</td><td styleCode=\"Rrule\">Box of 5 &#xD7; 6-unit dose blister packs/30 count</td><td styleCode=\"Rrule\">78206-158-01</td></tr><tr><td styleCode=\"Lrule Rrule\">45 mg</td><td styleCode=\"Rrule\">White, round tablet</td><td styleCode=\"Rrule\">&quot;<sup>T</sup><sub>4</sub><sup>Z</sup>&quot; debossed on one side</td><td styleCode=\"Rrule\">Box of 5 &#xD7; 6-unit dose blister packs/30 count</td><td styleCode=\"Rrule\">78206-159-01</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Protect from light and moisture. REMERONSolTab orally disintegrating tablets are supplied as: Tablet Strength Tablet Color/Shape Tablet Markings Package Configuration NDC Code 15 mg White, round tablet \" T 1 Z \" debossed on one side. Box of 5 × 6-unit dose blister packs/ 30 count 78206-156-01 30 mg White, round tablet \" T 2 Z \" debossed on one side. Box of 5 × 6-unit dose blister packs/30 count 78206-158-01 45 mg White, round tablet \" T 4 Z \" debossed on one side Box of 5 × 6-unit dose blister packs/30 count 78206-159-01",
+   "Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Protect from light and moisture. Use immediately upon opening individual tablet blister."
+  ],
+  "storage_and_handling_table": [
+   "<table width=\"90%\"><col width=\"12%\" align=\"left\" valign=\"top\"/><col width=\"14%\" align=\"center\" valign=\"top\"/><col width=\"34%\" align=\"center\" valign=\"top\"/><col width=\"25%\" align=\"center\" valign=\"top\"/><col width=\"15%\" align=\"center\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\" align=\"center\">Tablet Strength</th><th styleCode=\"Rrule\">Tablet Color/Shape</th><th styleCode=\"Rrule\">Tablet Markings</th><th styleCode=\"Rrule\">Package Configuration</th><th styleCode=\"Rrule\">NDC Code</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">15 mg</td><td styleCode=\"Rrule\">White, round tablet</td><td styleCode=\"Rrule\">&quot;<sup>T</sup><sub>1</sub><sup>Z</sup>&quot; debossed on one side.</td><td styleCode=\"Rrule\">Box of 5 &#xD7; 6-unit dose blister packs/ 30 count</td><td styleCode=\"Rrule\">78206-156-01</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">30 mg</td><td styleCode=\"Rrule\">White, round tablet</td><td styleCode=\"Rrule\">&quot;<sup>T</sup><sub>2</sub><sup>Z</sup>&quot; debossed on one side.</td><td styleCode=\"Rrule\">Box of 5 &#xD7; 6-unit dose blister packs/30 count</td><td styleCode=\"Rrule\">78206-158-01</td></tr><tr><td styleCode=\"Lrule Rrule\">45 mg</td><td styleCode=\"Rrule\">White, round tablet</td><td styleCode=\"Rrule\">&quot;<sup>T</sup><sub>4</sub><sup>Z</sup>&quot; debossed on one side</td><td styleCode=\"Rrule\">Box of 5 &#xD7; 6-unit dose blister packs/30 count</td><td styleCode=\"Rrule\">78206-159-01</td></tr></tbody></table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Medication Guide). Suicidal Thoughts and Behaviors Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1) ]. Agranulocytosis Advise patients to contact their physician if they experience fever, chills, sore throat, mucous membrane ulceration, flu-like complaints, or other symptoms that might suggest infection [see Warnings and Precautions (5.2) ]. Serotonin Syndrome Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of REMERON/REMERONSolTab with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid). Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Dosage and Administration (2.4) , Contraindications (4) , Warnings and Precautions (5.3) , Drug Interactions (7) ]. QT Prolongation and Torsades de Pointes Inform patients to consult their physician immediately if they feel faint, lose consciousness, or have heart palpitations [see Warnings and Precautions (5.5) , Drug Interactions (7) , Overdosage (10) ]. Advise patients to inform physicians that they are taking REMERON/REMERONSolTab before any new drug is taken. Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Advise patients to report to their healthcare provider at the earliest onset of fever, rash, swollen lymph nodes, or other signs and symptoms suggestive of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Contraindications (4) , Warnings and Precautions (5.6) ]. Somnolence Advise patients that REMERON/REMERONSolTab may impair judgment, thinking, and particularly, motor skills, because of its prominent sedative effect. Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that REMERON/REMERONSolTab therapy does not adversely affect their ability to engage in such activities. [see Warnings and Precautions (5.8) ]. Alcohol Advise patients to avoid alcohol while taking REMERON/REMERONSolTab [see Warnings and Precautions (5.8) , Drug Interactions (7) ]. Activation of Mania/Hypomania Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.9) ] . Discontinuation Syndrome Advise patients not to abruptly discontinue REMERON/REMERONSolTab and to discuss any tapering regimen with their healthcare provider. Adverse reactions can occur when REMERON/REMERONSolTab is discontinued [see Dosage and Administration (2.6) , Warnings and Precautions (5.14) ]. Allergic Reactions Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [see Contraindications (4) , Adverse Reactions (6.2) ] . Pregnancy Advise patients to notify their physician if they become pregnant or intend to become pregnant during REMERON/REMERONSolTab therapy. Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to REMERON/REMERONSolTab during pregnancy [see Use in Specific Populations (8.1) ] . Lactation Advise patients to notify their physician if they are breastfeeding an infant [see Use in Specific Populations (8.2) ]. Angle-Closure Glaucoma Patients should be advised that taking REMERON can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma. Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy. Open-angle glaucoma is not a risk factor for angle-closure glaucoma. Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.4) .] Patients with Phenylketonuria Inform patients with phenylketonuria that REMERONSolTab contains phenylalanine [see Warnings and Precautions (5.16) ]."
+  ],
+  "spl_medguide": [
+   "MEDICATION GUIDE REMERON ® (rĕm' - ĕ – rŏn) (mirtazapine) tablets, for oral use REMERONSolTab ® (rĕm' - ĕ - rŏn - sŏl' – tăb) (mirtazapine) orally disintegrating tablets, for oral use This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 11/2021 What is the most important information I should know about REMERON and REMERONSolTab? REMERON and REMERONSolTab may cause serious side effects, including: Increased risk of suicidal thoughts or actions in some children and young adults. REMERON, REMERONSolTab, and other antidepressant medicines may increase suicidal thoughts or actions in some people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed. REMERON and REMERONSolTab are not for use in children. Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions. How can I watch for and try to prevent suicidal thoughts and actions? Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts, or feelings, or if you develop suicidal thoughts or actions. This is very important when an antidepressant medicine is started or when the dose is changed. Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings. Keep all follow-up visits with your healthcare provider as scheduled. Call your healthcare provider between visits as needed, especially if you have concerns about symptoms. Call your healthcare provider or get emergency medical help right away if you or your family member have any of the following symptoms, especially if they are new, worse, or worry you: attempts to commit suicide acting aggressive, being angry or violent new or worse depression panic attacks new or worse irritability an extreme increase in activity or talking (mania) acting on dangerous impulses thoughts about suicide or dying new or worse anxiety feeling very agitated or restless trouble sleeping other unusual changes in behavior or mood What is REMERON and REMERONSolTab? REMERON and REMERONSolTab are prescription medicines used to treat a certain type of depression called Major Depressive Disorder (MDD) in adults. It is not known if REMERON and REMERONSolTab are safe and effective for use to treat MDD in children. Who should not take REMERON and REMERONSolTab? Do not take REMERON or REMERONSolTab if you: take a Monoamine Oxidase Inhibitor (MAOI) have stopped taking an MAOI in the last 14 days are being treated with the antibiotic linezolid or intravenous methylene blue if you are allergic to mirtazapine or any of the ingredients in REMERON or REMERONSolTab. See the end of this Medication Guide for a complete list of ingredients in REMERON and REMERONSolTab. Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid or intravenous methylene blue. Do not start taking an MAOI for at least 14 days after you stop treatment with REMERON or REMERONSolTab. Before taking REMERON or REMERONSolTab, tell your healthcare provider about all your medical conditions, including if you: have a history of suicide or depression have a history or family history of bipolar disorder, mania or hypomania have a low white blood cell count have glaucoma (high pressure in the eye) have or had heart problems or stroke have an abnormal heart beat called QT prolongation or a family history of QT prolongation have seizures have high cholesterol or triglyceride levels have low sodium levels in your blood have or had kidney or liver problems have low blood pressure have phenylketonuria (PKU). REMERONSolTab contains phenylalanine which is a part of aspartame. are pregnant or plan to become pregnant. It is not known if REMERON and REMERONSolTab will harm your unborn baby. Talk to your healthcare provider if you become pregnant or think you may be pregnant during treatment with REMERON and REMERONSolTab. If you become pregnant while taking REMERON and REMERONSolTab, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants. You can register by calling 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/. The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with REMERON and REMERONSolTab at any time during pregnancy. are breastfeeding or plan to breastfeed. REMERON and REMERONSolTab may pass into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with REMERON and REMERONSolTab. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. REMERON and REMERONSolTab and other medicines may affect each other causing possible serious side effects. REMERON and REMERONSolTab may affect the way other medicines work and other medicines may affect the way REMERON and REMERONSolTab work. Especially tell your healthcare provider if you take: MAOIs medicines to treat migraine headaches known as triptans tricyclic antidepressants fentanyl lithium tramadol tryptophan buspirone amphetamines benzodiazepines St. John's Wort medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) medicines that may affect your heart rhythm (such as certain antibiotics and some antipsychotics) Ask your healthcare provider if you are not sure if you are taking any of these medicines. Your healthcare provider can tell you if it is safe to take REMERON and REMERONSolTab with your other medicines. Do not start or stop any other medicines during treatment with REMERON or REMERONSolTab without talking to your healthcare provider first. Stopping REMERON or REMERONSolTab suddenly may cause you to have serious side effects. See, \" What are the possible side effects of REMERON and REMERONSolTab? \" Know the medicines you take. Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine. How should I take REMERON or REMERONSolTab? Take REMERON and REMERONSolTab exactly as your healthcare provider tells you to. Do not change your dose or stop taking REMERON or REMERONSolTab without first talking to your healthcare provider. Your healthcare provider may need to change the dose of REMERON or REMERONSolTab until it is the right dose for you. Take REMERON or REMERONSolTab 1 time each day, preferably in the evening at bedtime. If you take too much REMERON or REMERONSolTab call your healthcare provider or poison control center at 1-800-222-1222 right away or go to the nearest hospital emergency room. How to take REMERONSolTab: Keep REMERONSolTab in the blister pack until you are ready to take it. REMERONSolTab should be used immediately after opening the blister pack. Do not save it for future use. Use dry hands to open the blister pack. As soon as the blister pack is opened, remove REMERONSolTab right away and place it on the tongue. Place REMERONSolTab on the tongue and allow it to melt (disintegrate). Do not chew, crush, or split REMERONSolTab. REMERONSolTab will disintegrate rapidly on the tongue and can be swallowed with saliva. No water is needed for taking it. What should I avoid while taking REMERON and REMERONSolTab? Do not drive, operate heavy machinery, or do other dangerous activities until you know how REMERON and REMERONSolTab affects you. REMERON and REMERONSolTab can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly. Avoid drinking alcohol during treatment with REMERON and REMERONSolTab. Avoid taking medicines used to treat anxiety, insomnia, and seizures, called benzodiazepines, during treatment with REMERON and REMERONSolTab. Ask your healthcare provider if you are not sure if you take one of these medicines. What are the possible side effects of REMERON and REMERONSolTab? REMERON and REMERONSolTab may cause serious side effects, including: See, \" What is the most important information I should know about REMERON and REMERONSolTab? \" Low white blood cell count. Tell your healthcare provider right away if you develop any signs or symptoms of a low white blood cell count, including: fever sore throat flu-like symptoms chills mouth or nose sores infections Serotonin syndrome. A potentially life-threatening problem called serotonin syndrome can happen when you take REMERON or REMERONSolTab with certain other medicines. See, \" Who should not take REMERON and REMERONSolTab? \" Stop taking REMERON or REMERONSolTab and call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: agitation confusion fast heart beat dizziness flushing tremors, stiff muscles, or muscle twitching seizures seeing or hearing things that are not real (hallucinations) coma blood pressure changes sweating high body temperature (hyperthermia) loss of coordination nausea, vomiting, diarrhea Eye problems (angle-closure glaucoma). REMERON and REMERONSolTab may cause a certain type of eye problem called angle-closure glaucoma. Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye. Only some people are at risk for these problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. Heart rhythm problems. Severe skin reaction. REMERON and REMERONSolTab may cause a severe skin reaction that may include rash, fever, swollen glands, and other organ involvement such as liver, kidney, lung and heart. The reaction may sometimes be fatal. Tell your healthcare provider right away if you experience any of these signs. Increased appetite and weight gain. Sleepiness. See, \" What should I avoid while taking REMERON and REMERONSolTab? \" Mania or hypomania (manic episodes) in people who have a history of bipolar disorder . Symptoms may include: greatly increased energy racing thoughts unusually grand ideas talking more or faster than usual severe trouble sleeping reckless behavior excessive happiness or irritability Seizures (convulsions). Increased fat levels (cholesterol and triglycerides) in your blood. Low sodium levels in your blood (hyponatremia). Low sodium levels in your blood may be serious and may cause death. Elderly people may be at greater risk for this. Signs and Symptoms of low sodium levels in your blood may include: headache memory changes weakness and unsteadiness on your feet which can lead to falls difficulty concentrating confusion In severe or more sudden cases, signs and symptoms include: hallucinations (seeing or hearing things that are not real) seizures respiratory arrest fainting coma death Changes in liver function tests. Discontinuation syndrome. Suddenly stopping REMERON and REMERONSolTab may cause you to have serious side effects. Your healthcare provider may want to decrease your dose slowly. Symptoms may include: dizziness irritability and agitation anxiety sweating seizures ringing in your ears (tinnitus) nausea and vomiting problems sleeping tiredness confusion electric shock sensation (paresthesia) shaking (tremor) headache abnormal dreams changes in your mood hypomania The most common side effects of REMERON and REMERONSolTab include: sleepiness increased appetite weight gain dizziness These are not all the possible side effects of REMERON and REMERONSolTab. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store REMERON and REMERONSolTab? Store REMERON and REMERONSolTab at room temperature between 68°F to 77°F (20°C to 25°C). Keep REMERON and REMERONSolTab away from light and moisture. Keep REMERON, REMERONSolTab, and all medicines out of the reach of children. General information about the safe and effective use of REMERON and REMERONSolTab. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use REMERON and REMERONSolTab for a condition for which it was not prescribed. Do not give REMERON and REMERONSolTab to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about REMERON and REMERONSolTab that is written for healthcare professionals. What are the ingredients in REMERON and REMERONSolTab? Active ingredient: mirtazapine Inactive ingredients: REMERON Tablets : Colloidal silicon dioxide anhydrous, corn starch, ferric oxide (yellow), hydroxypropyl cellulose, hypromellose, polyethylene glycol 8000, lactose monohydrate, magnesium stearate, and titanium dioxide. The 30 mg tablets also contain ferric oxide (red). REMERONSolTab: Aspartame, citric acid anhydrous fine granular, crospovidone, hypromellose, magnesium stearate, mannitol, granular mannitol 2080, microcrystalline cellulose, natural and artificial orange flavor, polymethacrylate (Eudragit E100), povidone, sodium bicarbonate, sugar spheres (made of starch and sucrose). Distributed by: Organon USA LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA For patent information: www.organon.com/our-solutions/patent/ © 2021 Organon group of companies. All rights reserved. For more information about REMERON/REMERONSolTab call 1-844-674-3200. usmg-og8246-t-tod-2111r001"
+  ],
+  "spl_medguide_table": [
+   "<table width=\"100%\"><col width=\"3%\" align=\"left\" valign=\"top\"/><col width=\"28%\" align=\"left\" valign=\"top\"/><col width=\"17%\" align=\"left\" valign=\"top\"/><col width=\"18%\" align=\"left\" valign=\"top\"/><col width=\"13%\" align=\"left\" valign=\"top\"/><col width=\"21%\" align=\"left\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\" colspan=\"6\" align=\"center\">MEDICATION GUIDE REMERON<sup>&#xAE;</sup> (r&#x115;m&apos; - &#x115; &#x2013; r&#x14F;n) (mirtazapine) tablets, for oral use REMERONSolTab<sup>&#xAE;</sup> (r&#x115;m&apos; - &#x115; - r&#x14F;n - s&#x14F;l&apos; &#x2013; t&#x103;b) (mirtazapine) orally disintegrating tablets, for oral use</th></tr></thead><tfoot><tr><td align=\"left\" colspan=\"5\" valign=\"top\">This Medication Guide has been approved by the U.S. Food and Drug Administration</td><td align=\"right\" valign=\"top\">Revised: 11/2021</td></tr></tfoot><tbody><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\" ID=\"important\">What is the most important information I should know about REMERON and REMERONSolTab?</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">REMERON and REMERONSolTab may cause serious side effects, including:</content><list listType=\"unordered\" styleCode=\"disc\"><item><content styleCode=\"bold\">Increased risk of suicidal thoughts or actions in some children and young adults.</content> REMERON, REMERONSolTab, and other antidepressant medicines may increase suicidal thoughts or actions in some people 24 years of age and younger, <content styleCode=\"bold\">especially within the first few months of treatment or when the dose is changed. REMERON and REMERONSolTab are not for use in children.</content><list listType=\"unordered\" styleCode=\"circle\"><item><content styleCode=\"bold\">Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.</content></item></list> <content styleCode=\"bold\">How can I watch for and try to prevent suicidal thoughts and actions?</content><list listType=\"unordered\" styleCode=\"circle\"><item>Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts, or feelings, or if you develop suicidal thoughts or actions. This is very important when an antidepressant medicine is started or when the dose is changed. </item><item>Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.</item><item>Keep all follow-up visits with your healthcare provider as scheduled. Call your healthcare provider between visits as needed, especially if you have concerns about symptoms. </item></list> <content styleCode=\"bold\">Call your healthcare provider or get emergency medical help right away if you or your family member have any of the following symptoms, especially if they are new, worse, or worry you:</content></item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"disc\"><item>attempts to commit suicide</item><item>acting aggressive, being angry or violent</item><item>new or worse depression</item><item>panic attacks</item><item>new or worse irritability</item><item>an extreme increase in activity or talking (mania)</item></list></td><td/><td colspan=\"3\" styleCode=\"Rrule\"><list listType=\"unordered\" styleCode=\"disc\"><item>acting on dangerous impulses</item><item>thoughts about suicide or dying</item><item>new or worse anxiety</item><item>feeling very agitated or restless</item><item>trouble sleeping</item><item>other unusual changes in behavior or mood</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">What is REMERON and REMERONSolTab?</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">REMERON and REMERONSolTab are prescription medicines used to treat a certain type of depression called Major Depressive Disorder (MDD) in adults.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\">It is not known if REMERON and REMERONSolTab are safe and effective for use to treat MDD in children. </td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\" ID=\"notake\">Who should not take REMERON and REMERONSolTab?</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Do not take REMERON or REMERONSolTab if you:</content><list listType=\"unordered\" styleCode=\"disc\"><item>take a Monoamine Oxidase Inhibitor (MAOI)</item><item>have stopped taking an MAOI in the last 14 days</item><item>are being treated with the antibiotic linezolid or intravenous methylene blue </item><item>if you are allergic to mirtazapine or any of the ingredients in REMERON or REMERONSolTab. See the end of this Medication Guide for a complete list of ingredients in REMERON and REMERONSolTab.</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid or intravenous methylene blue.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Do not start taking an MAOI for at least 14 days after you stop treatment with REMERON or REMERONSolTab.</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Before taking REMERON or REMERONSolTab, tell your healthcare provider about all your medical conditions, including if you:</content><list listType=\"unordered\" styleCode=\"disc\"><item>have a history of suicide or depression</item><item>have a history or family history of bipolar disorder, mania or hypomania</item><item>have a low white blood cell count</item><item>have glaucoma (high pressure in the eye)</item><item>have or had heart problems or stroke</item><item>have an abnormal heart beat called QT prolongation or a family history of QT prolongation</item><item>have seizures</item><item>have high cholesterol or triglyceride levels</item><item>have low sodium levels in your blood</item><item>have or had kidney or liver problems</item><item>have low blood pressure</item><item>have phenylketonuria (PKU). REMERONSolTab contains phenylalanine which is a part of aspartame.</item><item>are pregnant or plan to become pregnant. It is not known if REMERON and REMERONSolTab will harm your unborn baby.<list listType=\"unordered\" styleCode=\"circle\"><item>Talk to your healthcare provider if you become pregnant or think you may be pregnant during treatment with REMERON and REMERONSolTab. </item><item>If you become pregnant while taking REMERON and REMERONSolTab, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants. You can register by calling 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/. The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with REMERON and REMERONSolTab at any time during pregnancy. </item></list></item><item>are breastfeeding or plan to breastfeed. REMERON and REMERONSolTab may pass into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with REMERON and REMERONSolTab.</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Tell your healthcare provider about all the medicines you take,</content> including prescription and over-the-counter medicines, vitamins, and herbal supplements.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">REMERON and REMERONSolTab and other medicines may affect each other causing possible serious side effects.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">REMERON and REMERONSolTab may affect the way other medicines work and other medicines may affect the way REMERON and REMERONSolTab work.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Especially tell your healthcare provider if you take:</content><list listType=\"unordered\" styleCode=\"disc\"><item>MAOIs</item><item>medicines to treat migraine headaches known as triptans </item><item>tricyclic antidepressants</item><item>fentanyl</item><item>lithium</item><item>tramadol</item><item>tryptophan</item><item>buspirone</item><item>amphetamines</item><item>benzodiazepines</item><item>St. John&apos;s Wort</item><item>medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)</item><item>medicines that may affect your heart rhythm (such as certain antibiotics and some antipsychotics)</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">Ask your healthcare provider if you are not sure if you are taking any of these medicines. Your healthcare provider can tell you if it is safe to take REMERON and REMERONSolTab with your other medicines.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">Do not start or stop any other medicines during treatment with REMERON or REMERONSolTab without talking to your healthcare provider first. Stopping REMERON or REMERONSolTab suddenly may cause you to have serious side effects. See, <content styleCode=\"bold\">&quot;<linkHtml href=\"#sides\">What are the possible side effects of REMERON and REMERONSolTab?</linkHtml>&quot;</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\">Know the medicines you take. Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">How should I take REMERON or REMERONSolTab?</content><list listType=\"unordered\" styleCode=\"disc\"><item>Take REMERON and REMERONSolTab exactly as your healthcare provider tells you to. Do not change your dose or stop taking REMERON or REMERONSolTab without first talking to your healthcare provider.</item><item>Your healthcare provider may need to change the dose of REMERON or REMERONSolTab until it is the right dose for you.</item><item>Take REMERON or REMERONSolTab 1 time each day, preferably in the evening at bedtime.</item><item>If you take too much REMERON or REMERONSolTab call your healthcare provider or poison control center at 1-800-222-1222 right away or go to the nearest hospital emergency room.</item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">How to take REMERONSolTab:</content><list listType=\"unordered\" styleCode=\"circle\"><item>Keep REMERONSolTab in the blister pack until you are ready to take it. REMERONSolTab should be used immediately after opening the blister pack. Do not save it for future use. </item><item>Use dry hands to open the blister pack.</item><item>As soon as the blister pack is opened, remove REMERONSolTab right away and place it on the tongue.</item><item>Place REMERONSolTab on the tongue and allow it to melt (disintegrate). <content styleCode=\"bold\">Do not chew, crush, or split</content> REMERONSolTab.</item><item>REMERONSolTab will disintegrate rapidly on the tongue and can be swallowed with saliva. No water is needed for taking it. </item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\" ID=\"avoid\">What should I avoid while taking REMERON and REMERONSolTab?</content><list listType=\"unordered\" styleCode=\"disc\"><item>Do not drive, operate heavy machinery, or do other dangerous activities until you know how REMERON and REMERONSolTab affects you. REMERON and REMERONSolTab can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.</item><item>Avoid drinking alcohol during treatment with REMERON and REMERONSolTab.</item><item>Avoid taking medicines used to treat anxiety, insomnia, and seizures, called benzodiazepines, during treatment with REMERON and REMERONSolTab. Ask your healthcare provider if you are not sure if you take one of these medicines.</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\" ID=\"sides\">What are the possible side effects of REMERON and REMERONSolTab?</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">REMERON and REMERONSolTab may cause serious side effects, including:</content><list listType=\"unordered\" styleCode=\"disc\"><item>See, <content styleCode=\"bold\">&quot;<linkHtml href=\"#important\">What is the most important information I should know about REMERON and REMERONSolTab?</linkHtml>&quot;</content></item><item><content styleCode=\"bold\">Low white blood cell count.</content> Tell your healthcare provider right away if you develop any signs or symptoms of a low white blood cell count, including:</item></list></td></tr><tr><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"circle\"><item>fever</item><item>sore throat </item><item>flu-like symptoms</item></list></td><td colspan=\"4\" styleCode=\"Rrule\"><list listType=\"unordered\" styleCode=\"circle\"><item>chills</item><item>mouth or nose sores</item><item>infections</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><list listType=\"unordered\" styleCode=\"disc\"><item><content styleCode=\"bold\">Serotonin syndrome.</content> A potentially life-threatening problem called serotonin syndrome can happen when you take REMERON or REMERONSolTab with certain other medicines. See, <content styleCode=\"bold\">&quot;<linkHtml href=\"#notake\">Who should not take REMERON and REMERONSolTab?</linkHtml>&quot;</content> Stop taking REMERON or REMERONSolTab and call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: </item></list></td></tr><tr><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"circle\"><item>agitation</item><item>confusion</item><item>fast heart beat </item><item>dizziness</item><item>flushing</item><item>tremors, stiff muscles, or muscle twitching</item><item>seizures</item></list></td><td/><td colspan=\"3\" styleCode=\"Rrule\"><list listType=\"unordered\" styleCode=\"circle\"><item>seeing or hearing things that are not real (hallucinations)</item><item>coma</item><item>blood pressure changes </item><item>sweating </item><item>high body temperature (hyperthermia)</item><item>loss of coordination</item><item>nausea, vomiting, diarrhea </item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><list listType=\"unordered\" styleCode=\"disc\"><item><content styleCode=\"bold\">Eye problems (angle-closure glaucoma).</content> REMERON and REMERONSolTab may cause a certain type of eye problem called angle-closure glaucoma. Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye. Only some people are at risk for these problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.</item><item><content styleCode=\"bold\">Heart rhythm problems.</content></item><item><content styleCode=\"bold\">Severe skin reaction.</content> REMERON and REMERONSolTab may cause a severe skin reaction that may include rash, fever, swollen glands, and other organ involvement such as liver, kidney, lung and heart. The reaction may sometimes be fatal. Tell your healthcare provider right away if you experience any of these signs.</item><item><content styleCode=\"bold\">Increased appetite and weight gain.</content></item><item><content styleCode=\"bold\">Sleepiness.</content> See, <content styleCode=\"bold\">&quot;<linkHtml href=\"#avoid\">What should I avoid while taking REMERON and REMERONSolTab?</linkHtml>&quot;</content></item><item><content styleCode=\"bold\">Mania or hypomania (manic episodes)</content> in people who have a history of bipolar disorder<content styleCode=\"bold\">.</content> Symptoms may include:</item></list></td></tr><tr><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"circle\"><item>greatly increased energy </item><item>racing thoughts </item><item>unusually grand ideas </item><item>talking more or faster than usual </item></list></td><td/><td colspan=\"3\" styleCode=\"Rrule\"><list listType=\"unordered\" styleCode=\"circle\"><item>severe trouble sleeping </item><item>reckless behavior </item><item>excessive happiness or irritability </item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><list listType=\"unordered\" styleCode=\"disc\"><item><content styleCode=\"bold\">Seizures (convulsions).</content></item><item><content styleCode=\"bold\">Increased fat levels (cholesterol and triglycerides) in your blood.</content></item><item><content styleCode=\"bold\">Low sodium levels in your blood (hyponatremia).</content> Low sodium levels in your blood may be serious and may cause death. Elderly people may be at greater risk for this. Signs and Symptoms of low sodium levels in your blood may include: </item></list></td></tr><tr><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"circle\"><item>headache </item><item>memory changes </item><item>weakness and unsteadiness on your feet which can lead to falls</item></list></td><td/><td/><td styleCode=\"Rrule\" colspan=\"2\"><list listType=\"unordered\" styleCode=\"circle\"><item>difficulty concentrating </item><item>confusion </item></list></td></tr><tr><td styleCode=\"Lrule\"/><td colspan=\"5\" styleCode=\"Rrule\"><content styleCode=\"bold\">In severe or more sudden cases, signs and symptoms include: </content></td></tr><tr><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"circle\"><item>hallucinations (seeing or hearing things that are not real) </item><item>seizures </item><item>respiratory arrest</item></list></td><td/><td/><td><list listType=\"unordered\" styleCode=\"circle\"><item>fainting </item><item>coma</item><item>death</item></list></td><td styleCode=\"Rrule\"/></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><list listType=\"unordered\" styleCode=\"disc\"><item><content styleCode=\"bold\">Changes in liver function tests.</content></item><item><content styleCode=\"bold\">Discontinuation syndrome.</content> Suddenly stopping REMERON and REMERONSolTab may cause you to have serious side effects. Your healthcare provider may want to decrease your dose slowly. Symptoms may include: </item></list></td></tr><tr><td styleCode=\"Lrule\"/><td><list listType=\"unordered\" styleCode=\"circle\"><item>dizziness</item><item>irritability and agitation</item><item>anxiety</item><item>sweating</item><item>seizures</item><item>ringing in your ears (tinnitus)</item></list></td><td/><td colspan=\"2\"><list listType=\"unordered\" styleCode=\"circle\"><item>nausea and vomiting</item><item>problems sleeping</item><item>tiredness</item><item>confusion</item><item>electric shock sensation (paresthesia)</item><item>shaking (tremor)</item></list></td><td styleCode=\"Rrule\"><list listType=\"unordered\" styleCode=\"circle\"><item>headache</item><item>abnormal dreams</item><item>changes in your mood</item><item>hypomania</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">The most common side effects of REMERON and REMERONSolTab include:</content><list listType=\"unordered\" styleCode=\"disc\"><item>sleepiness</item><item>increased appetite</item><item>weight gain</item><item>dizziness</item></list></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">These are not all the possible side effects of REMERON and REMERONSolTab.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\">Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">How should I store REMERON and REMERONSolTab?</content><list listType=\"unordered\" styleCode=\"disc\"><item>Store REMERON and REMERONSolTab at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C). </item><item>Keep REMERON and REMERONSolTab away from light and moisture.</item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Keep REMERON, REMERONSolTab, and all medicines out of the reach of children.</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">General information about the safe and effective use of REMERON and REMERONSolTab.</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"6\">Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use REMERON and REMERONSolTab for a condition for which it was not prescribed. Do not give REMERON and REMERONSolTab to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about REMERON and REMERONSolTab that is written for healthcare professionals.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">What are the ingredients in REMERON and REMERONSolTab? </content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Active ingredient:</content> mirtazapine</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">Inactive ingredients:</content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">REMERON Tablets</content>: Colloidal silicon dioxide anhydrous, corn starch, ferric oxide (yellow), hydroxypropyl cellulose, hypromellose, polyethylene glycol 8000, lactose monohydrate, magnesium stearate, and titanium dioxide. The 30 mg tablets also contain ferric oxide (red). </td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"><content styleCode=\"bold\">REMERONSolTab:</content> Aspartame, citric acid anhydrous fine granular, crospovidone, hypromellose, magnesium stearate, mannitol, granular mannitol 2080, microcrystalline cellulose, natural and artificial orange flavor, polymethacrylate (Eudragit E100), povidone, sodium bicarbonate, sugar spheres (made of starch and sucrose).</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">Distributed by: Organon USA LLC, a subsidiary of   ORGANON &amp; Co., Jersey City, NJ 07302, USA</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\"/></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">For patent information: www.organon.com/our-solutions/patent/ &#xA9; 2021 Organon group of companies. All rights reserved. <content styleCode=\"bold\">For more information about REMERON/REMERONSolTab call 1-844-674-3200. </content></td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"6\">usmg-og8246-t-tod-2111r001</td></tr></tbody></table>"
+  ],
+  "set_id": "98ad1917-a094-44f5-a28f-a64a8cfcd887",
+  "id": "8b121c7c-9bcd-4504-b789-3f551a0fe514",
+  "effective_time": "20250806",
+  "version": "8"
+ }
+}

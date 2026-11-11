@@ -1,0 +1,753 @@
+{
+ "id_es": "leflunomida",
+ "generic_en": "leflunomide",
+ "search": "openfda.generic_name.exact:\"LEFLUNOMIDE\"",
+ "downloaded": "2026-11-11T06:47Z",
+ "chosen": {
+  "set_id": "320f63f2-fac3-4aee-aff8-85724e00ef52",
+  "id": "765327c7-cb5b-4637-84da-4fd9a024ad96",
+  "effective_time": "20250604",
+  "version": "27",
+  "brand_name": [
+   "Arava"
+  ],
+  "generic_name": [
+   "LEFLUNOMIDE"
+  ],
+  "manufacturer_name": [
+   "sanofi-aventis U.S. LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020905"
+  ],
+  "n_sections": 33
+ },
+ "candidates": [
+  {
+   "set_id": "c66cacd1-93f7-483a-a2fc-aad53d5342b0",
+   "id": "ef59c815-a437-4a63-b8fc-7d5dfa597ccd",
+   "effective_time": "20261104",
+   "version": "5",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212308"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "753453c5-8a7a-878e-3ce7-1d1edce718a9",
+   "id": "08004b66-a171-a82f-81e3-06d320cbb704",
+   "effective_time": "20260914",
+   "version": "13",
+   "brand_name": [
+    "LEFLUNOMIDE"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077090"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "fc044417-cd9a-42f6-8a3d-a14e7c2f81a2",
+   "id": "363d62c4-ffe0-40ae-8f11-4223e91e1719",
+   "effective_time": "20260501",
+   "version": "10",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Burel Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213497"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "91712aad-d96c-4ef0-97e7-b31ed18ca6d8",
+   "id": "fbe46801-abce-4841-875d-117a53c89651",
+   "effective_time": "20260317",
+   "version": "102",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077086"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "e76d7767-744f-4e52-956d-e59f7a924826",
+   "id": "2a161440-2216-448b-a0e7-b7264f8a5f92",
+   "effective_time": "20260317",
+   "version": "102",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077086"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "8b365514-c859-ff93-e053-2a95a90ac698",
+   "id": "485d0171-db0d-424e-e063-6294a90abcc4",
+   "effective_time": "20260114",
+   "version": "5",
+   "brand_name": [
+    "LEFLUNOMIDE"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077090"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "af836cd0-da42-772e-e053-2995a90ac103",
+   "id": "47e6f1e5-f12c-c5d1-e063-6294a90a78b2",
+   "effective_time": "20260108",
+   "version": "4",
+   "brand_name": [
+    "LEFLUNOMIDE"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077090"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "006b5bf4-97c0-48dc-8e5e-3c6f64d7bdc1",
+   "id": "46268884-f963-f34a-e063-6294a90aa8d5",
+   "effective_time": "20251217",
+   "version": "2",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077086"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "40dd071a-d07f-452f-bf1a-2a23b9d22ca4",
+   "id": "bb1ee142-184a-4202-9513-e2036758fa6e",
+   "effective_time": "20251113",
+   "version": "14",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077086"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "5d48fded-b43b-461a-8488-ca1da5c41a03",
+   "id": "5d28a5cf-ca54-4fcc-a459-2be6ba1afb3e",
+   "effective_time": "20251029",
+   "version": "9",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Lupin Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211863"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "d0fb9685-9e54-44e5-b543-1077e1a620c6",
+   "id": "c09fb831-4b93-47e8-9c95-2082c73ce4c6",
+   "effective_time": "20251022",
+   "version": "100",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077086"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "fa5f71b3-6a56-4616-baf7-4b761023b2a9",
+   "id": "a057209f-4e79-48e8-a749-60772266b573",
+   "effective_time": "20251022",
+   "version": "100",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077086"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "a48e6ef2-48ad-4fcf-9e67-dbba83ab0b79",
+   "id": "3843c448-c1bf-a403-e063-6394a90a3e77",
+   "effective_time": "20250623",
+   "version": "6",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "KVK-Tech, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212453"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "320f63f2-fac3-4aee-aff8-85724e00ef52",
+   "id": "765327c7-cb5b-4637-84da-4fd9a024ad96",
+   "effective_time": "20250604",
+   "version": "27",
+   "brand_name": [
+    "Arava"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "sanofi-aventis U.S. LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020905"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "d6f5c510-9ec2-4e2d-b134-25c35bd23fee",
+   "id": "183e1875-7234-42e5-bff7-6408e64f2dfe",
+   "effective_time": "20250414",
+   "version": "1",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212308"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "2b5c98d0-de59-85f6-e063-6394a90ab67a",
+   "id": "2b5ca657-3fa5-8704-e063-6394a90a9f26",
+   "effective_time": "20250110",
+   "version": "1",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211863"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "2b5f387e-b52b-ad80-e063-6394a90a56d5",
+   "id": "2b5f2b4f-bea9-b661-e063-6294a90ad251",
+   "effective_time": "20250110",
+   "version": "1",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212308"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "0a4f8671-b632-4cc5-8dc9-6b863e62b467",
+   "id": "81afc9f2-c82b-4373-80fb-f8c00942c79a",
+   "effective_time": "20250108",
+   "version": "5",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213652"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "e85c4eed-794c-409b-aed5-3c857b14b1fb",
+   "id": "8dc1df53-82db-4ea2-a0d7-0f6add8b5bda",
+   "effective_time": "20241002",
+   "version": "101",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213652"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "acf3efe4-0d70-4718-9c50-789d69ab215d",
+   "id": "b94989ef-8c6d-403e-8748-df5bbb5c26eb",
+   "effective_time": "20240906",
+   "version": "101",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213652"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "c288d1d3-3fbe-4c34-a28a-923d515809b3",
+   "id": "44a1c7ce-ff50-43a8-8593-a0f506eca838",
+   "effective_time": "20240820",
+   "version": "8",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091369"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "af4079af-c127-476e-a2b3-53b438dc9da4",
+   "id": "2f12b021-9c38-47e6-84c9-29695c6df44f",
+   "effective_time": "20240812",
+   "version": "2",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212308"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "b9af9870-014f-4c4e-8738-bb04b30b3e85",
+   "id": "bd138e7f-33f1-44a4-886b-62f5bfbdfe09",
+   "effective_time": "20240812",
+   "version": "6",
+   "brand_name": [
+    "leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals (USA) Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212308"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "c358276a-610e-46da-b81a-95c837af205d",
+   "id": "e4a1828b-43bf-42dd-af71-5f9a3d49023c",
+   "effective_time": "20240807",
+   "version": "3",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213652"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "f6a4107e-b393-45ed-8e5a-70af5bd53826",
+   "id": "aa5c1860-7668-433b-bc17-c6de2b772e0f",
+   "effective_time": "20230130",
+   "version": "3",
+   "brand_name": [
+    "Leflunomide"
+   ],
+   "generic_name": [
+    "LEFLUNOMIDE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091369"
+   ],
+   "n_sections": 31
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: EMBRYO-FETAL TOXICITY and HEPATOTOXICITY WARNING: EMBRYO-FETAL TOXICITY and HEPATOTOXICITY See full prescribing information for complete boxed warning. Embryo-Fetal Toxicity Teratogenicity and embryo-lethality occurred in animals administered leflunomide. ( 5.1 , 8.1 ) Exclude pregnancy prior to initiating ARAVA therapy. ( 5.1 , 8.3 ) Advise use of effective contraception in females of reproductive potential during treatment and during a drug elimination procedure. ( 5.1 , 5.3 , 8.3 ) Stop ARAVA and use an accelerated drug elimination procedure if the patient becomes pregnant. ( 5.1 , 5.3 , 8.1 ) Hepatotoxicity Severe liver injury and fatal liver failure have been reported. ( 5.2 ) Avoid ARAVA use in patients with pre-existing liver disease, or those with serum alanine aminotransferase (ALT) >2 × ULN. ( 5.2 , 8.6 ) Use caution when ARAVA is given with other potentially hepatotoxic drugs. ( 5.2 ) Monitor ALT levels. Interrupt ARAVA treatment if ALT elevation >3-fold ULN. If likely leflunomide-induced, start accelerated drug elimination procedure and monitor liver tests weekly until normalized. ( 5.2 , 5.3 ) Embryo-Fetal Toxicity ARAVA is contraindicated for use in pregnant women because of the potential for fetal harm. Teratogenicity and embryo-lethality occurred in animals administered leflunomide at doses lower than the human exposure level. Exclude pregnancy before the start of treatment with ARAVA in females of reproductive potential. Advise females of reproductive potential to use effective contraception during ARAVA treatment and during an accelerated drug elimination procedure after ARAVA treatment. Stop ARAVA and use an accelerated drug elimination procedure if the patient becomes pregnant [see Contraindications (4) , Warnings and Precautions (5.1 , 5.3) , Use in Specific Populations (8.1 , 8.3) ], and Clinical Pharmacology (12.3) ] . Hepatotoxicity Severe liver injury, including fatal liver failure, has been reported in patients treated with ARAVA. ARAVA is contraindicated in patients with severe hepatic impairment. Concomitant use of ARAVA with other potentially hepatotoxic drugs may increase the risk of liver injury. Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) >2 × ULN before initiating treatment, are at increased risk and should not be treated with ARAVA. Monitor ALT levels at least monthly for six months after starting ARAVA, and thereafter every 6 to 8 weeks. If leflunomide-induced liver injury is suspected, stop ARAVA treatment, start an accelerated drug elimination procedure, and monitor liver tests weekly until normalized [see Contraindications (4) , Warnings and Precautions (5.2 , 5.3) , Use in Specific Populations (8.6) ] ."
+  ],
+  "recent_major_changes": [
+   "Warnings and Precautions, Skin Ulcers ( 5.6 ) 6/2024"
+  ],
+  "recent_major_changes_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"80%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"right\" valign=\"top\"/><tbody><tr><td>Warnings and Precautions, Skin Ulcers (<linkHtml href=\"#S5.6\">5.6</linkHtml>) </td><td>6/2024</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE ARAVA is indicated for the treatment of adults with active rheumatoid arthritis (RA). ARAVA is a pyrimidine synthesis inhibitor indicated for the treatment of adults with active rheumatoid arthritis. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Loading dosage for patients at low risk for ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression: 100 mg daily for 3 days. ( 2.1 ) Maintenance dosage: 20 mg daily. ( 2.1 ) Maximum recommended daily dosage: 20 mg once daily. ( 2.1 ) If 20 mg once daily is not tolerated, may decrease dosage to 10 mg once daily. ( 2.1 ) Screen patients for active and latent tuberculosis, pregnancy test (females), blood pressure, and laboratory tests before starting ARAVA. ( 2.2 ) 2.1 Recommended Dosage The recommended dosage of ARAVA is 20 mg once daily. Treatment may be initiated with or without a loading dose, depending upon the patient's risk of ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression. The loading dose provides steady-state concentrations more rapidly. For patients who are at low risk for ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression, the recommended ARAVA loading dose is 100 mg once daily for 3 days. Subsequently administer 20 mg once daily. For patients at high risk for ARAVA-associated hepatotoxicity (e.g., those taking concomitant methotrexate) or ARAVA-associated myelosuppression (e.g., patients taking concomitant immunosuppressants), the recommended ARAVA dosage is 20 mg once daily without a loading dose [see Warnings and Precautions (5.2 , 5.4) ] . The maximum recommended daily dose is 20 mg once per day. Consider dosage reduction to 10 mg once daily for patients who are not able to tolerate 20 mg daily (i.e., for patients who experience any adverse events listed in Table 1). Monitor patients carefully after dosage reduction and after stopping therapy with ARAVA, since the active metabolite of leflunomide, teriflunomide, is slowly eliminated from the plasma [see Clinical Pharmacology (12.3) ] . After stopping ARAVA treatment, an accelerated drug elimination procedure is recommended to reduce the plasma concentrations of the active metabolite, teriflunomide [see Warnings and Precautions (5.3) ] . Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach undetectable plasma teriflunomide concentrations after stopping ARAVA [see Clinical Pharmacology (12.3) ] . 2.2 Evaluation and Testing Prior to Starting ARAVA Prior to starting ARAVA treatment, the following evaluations and tests are recommended: Evaluate patients for active tuberculosis and screen patients for latent tuberculosis infection [see Warnings and Precautions (5.4) ] Laboratory tests including serum alanine aminotransferase (ALT); and white blood cell, hemoglobin or hematocrit, and platelet counts [see Warnings and Precautions (5.2 , 5.4) ] For females of reproductive potential, pregnancy testing [see Warnings and Precautions (5.1) ] Check blood pressure [see Warnings and Precautions (5.11) ]"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS ARAVA Tablets are available in three strengths: Tablets: 10 mg, supplied as white, round film-coated tablet embossed with \"ZBN\" on one side Tablets: 20 mg, supplied as light-yellow, triangular film-coated tablet embossed with \"ZBO\" on one side Tablets: 100 mg, supplied as white, round film-coated tablet embossed with \"ZBP\" on one side Tablets: 10 mg, 20 mg, 100 mg. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS ARAVA is contraindicated in: Pregnant women. ARAVA may cause fetal harm. If a woman becomes pregnant while taking this drug, stop ARAVA, apprise the patient of the potential hazard to the fetus, and begin a drug elimination procedure [see Warnings and Precautions (5.1 , 5.3) and Use in Specific Populations (8.1) ] . Patients with severe hepatic impairment [see Warnings and Precautions (5.2) ] . Patients with known hypersensitivity to leflunomide or any of the other components of ARAVA. Known reactions include anaphylaxis [see Adverse Reactions (6.1) ] . Patients being treated with teriflunomide [see Drug Interactions (7) ] . Pregnancy. ( 4 , 5.1 , 8.1 ) Severe hepatic impairment. ( 4 , 5.2 ) Hypersensitivity to ARAVA or any of its inactive components. ( 4 ) Current teriflunomide treatment. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS After stopping ARAVA, it is recommended that an accelerated drug elimination procedure be used to reduce the plasma concentrations of the active metabolite, teriflunomide. ( 5.3 ) Severe infections (including sepsis), pancytopenia, agranulocytosis, and thrombocytopenia: Stop ARAVA and use accelerated elimination procedure. Do not start ARAVA in patients with active infection. Monitor CBCs during treatment with ARAVA. ( 5.4 ) Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS): Stop ARAVA and use accelerated elimination procedure. ( 5.5 ) Skin ulcers: If skin ulcer is suspected, discontinue leflunomide treatment and consider an accelerated drug elimination procedure. ( 5.6 ) Peripheral neuropathy: If patient develops symptoms consistent with peripheral neuropathy, evaluate patient and consider discontinuing ARAVA. ( 5.8 ) Interstitial lung disease: May be fatal. New onset or worsening symptoms may necessitate discontinuation of ARAVA and initiation of accelerated elimination procedure. ( 5.9 ) Increased blood pressure: Monitor and treat. ( 5.11 ) 5.1 Embryo-Fetal Toxicity ARAVA may cause fetal harm when administered to a pregnant woman. Teratogenicity and embryo-lethality occurred in animal reproduction studies with leflunomide at doses lower than the human exposure level [see Use in Specific Populations (8.1) ] . ARAVA is contraindicated for use in pregnant women [see Contraindications (4) ] . Exclude pregnancy before starting treatment with ARAVA in females of reproductive potential [see Dosage and Administration (2.2) ] . Advise females of reproductive potential to use effective contraception during ARAVA treatment and during an accelerated drug elimination procedure after ARAVA treatment [see Use in Specific Populations (8.3) ] . If a woman becomes pregnant while taking ARAVA, stop treatment with ARAVA, apprise the patient of the potential risk to a fetus, and perform an accelerated drug elimination procedure to achieve nondetectable plasma concentrations of teriflunomide, the active metabolite of leflunomide [see Warnings and Precautions (5.3) ] . Upon discontinuing ARAVA, it is recommended that all females of reproductive potential undergo an accelerated drug elimination procedure. Women receiving ARAVA treatment who wish to become pregnant must discontinue ARAVA and undergo an accelerated drug elimination procedure, which includes verification that plasma concentrations of the active metabolite of leflunomide, teriflunomide, are less than 0.02 mg/L (0.02 mcg/mL). Based on animal data, human plasma concentrations of teriflunomide of less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal embryo-fetal risk [see Contraindications (4) , Warnings and Precautions (5.3) , and Use in Specific Populations (8.1) ] . 5.2 Hepatotoxicity Severe liver injury, including fatal liver failure, has been reported in some patients treated with ARAVA. Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) of greater than twice the upper limits of normal (>2 × ULN) before initiating treatment, should not be treated with ARAVA. Use caution when ARAVA is given with other potentially hepatotoxic drugs. Monitoring of ALT levels is recommended at least monthly for six months after starting ARAVA, and thereafter every 6 to 8 weeks. If ALT elevation >3-fold ULN occurs, interrupt ARAVA therapy and investigate the cause. If likely ARAVA-induced, perform the accelerated drug elimination procedure and monitor liver tests weekly until normalized [see Warnings and Precautions (5.3) ] . If ARAVA-induced liver injury is unlikely because some other cause has been found, resumption of ARAVA therapy may be considered. If ARAVA and methotrexate are given concomitantly, follow the American College of Rheumatology (ACR) guidelines for monitoring methotrexate liver toxicity with ALT, AST, and serum albumin testing. 5.3 Procedure for Accelerated Elimination of ARAVA and its Active Metabolite The active metabolite of leflunomide, teriflunomide, is eliminated slowly from the plasma [see Clinical Pharmacology (12.3) ] . Use of an accelerated drug elimination procedure will rapidly reduce plasma concentrations of leflunomide and its active metabolite, teriflunomide. Therefore, an accelerated elimination procedure should be considered at any time after discontinuation of ARAVA, and in particular, when a patient has experienced a severe adverse reaction (e.g., hepatotoxicity, serious infection, bone marrow suppression, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral neuropathy, interstitial lung disease), suspected hypersensitivity, or has become pregnant. It is recommended that all women of childbearing potential undergo an accelerated elimination procedure after stopping ARAVA treatment. Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach plasma teriflunomide concentrations of less than 0.02 mg/L, the plasma concentration not associated with embryo-fetal toxicity in animals. Elimination can be accelerated by the following procedures: Administer cholestyramine 8 grams orally 3 times daily for 11 days. Alternatively, administer 50 grams of activated charcoal powder (made into a suspension) orally every 12 hours for 11 days. Verify plasma teriflunomide concentrations of less than 0.02 mg/L (0.02 µg/mL) by two separate tests at least 14 days apart. If plasma teriflunomide concentrations are higher than 0.02 mg/L, repeat cholestyramine and/or activated charcoal treatment. The duration of accelerated drug elimination treatment may be modified based on the clinical status and tolerability of the elimination procedure. The procedure may be repeated as needed, based on teriflunomide concentrations and clinical status. Use of the accelerated drug elimination procedure may potentially result in return of disease activity if the patient had been responding to ARAVA treatment. 5.4 Immunosuppression, Bone Marrow Suppression, and Risk of Serious Infections ARAVA is not recommended for patients with severe immunodeficiency, bone marrow dysplasia, or severe, uncontrolled infections. If a serious infection occurs, consider interrupting ARAVA therapy and initiating the accelerated drug elimination procedure [see Warnings and Precautions (5.3) ] . Medications like ARAVA that have immunosuppression potential may cause patients to be more susceptible to infections, including opportunistic infections, especially Pneumocystis jirovecii pneumonia, tuberculosis (including extra-pulmonary tuberculosis), and aspergillosis. Severe infections including sepsis, which may be fatal, have been reported in patients receiving ARAVA, especially Pneumocystis jirovecii pneumonia and aspergillosis. Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid arthritis, may predispose patients to infection. Cases of tuberculosis were observed in clinical studies with teriflunomide, the metabolite of ARAVA. Prior to initiating ARAVA, all patients should be screened for active and inactive (\"latent\") tuberculosis infection as per commonly used diagnostic tests. ARAVA has not been studied in patients with a positive tuberculosis screen, and the safety of ARAVA in individuals with latent tuberculosis infection is unknown. Patients testing positive in tuberculosis screening should be treated by standard medical practice prior to therapy with ARAVA and monitored carefully during ARAVA treatment for possible reactivation of the infection. Pancytopenia, agranulocytosis, and thrombocytopenia have been reported in patients receiving ARAVA alone. These events have been reported most frequently in patients who received concomitant treatment with methotrexate or other immunosuppressive agents, or who had recently discontinued these therapies; in some cases, patients had a prior history of a significant hematologic abnormality. Patients taking ARAVA should have platelet, white blood cell count and hemoglobin or hematocrit monitored at baseline and monthly for six months following initiation of therapy and every 6 to 8 weeks thereafter. If used with concomitant methotrexate and/or other potential immunosuppressive agents, chronic monitoring should be monthly. If evidence of bone marrow suppression occurs in a patient taking ARAVA, stop treatment with ARAVA and perform an accelerated drug elimination procedure to reduce the plasma concentration of the ARAVA active metabolite, teriflunomide [see Warnings and Precautions (5.3) ] . In any situation in which the decision is made to switch from ARAVA to another antirheumatic agent with a known potential for hematologic suppression, it would be prudent to monitor for hematologic toxicity, because there will be overlap of systemic exposure to both compounds. 5.5 Stevens-Johnson Syndrome, Toxic Epidermal Necrolysis, and Drug Reactions with Eosinophilia and Systemic Symptoms Rare cases of Stevens-Johnson syndrome and toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving ARAVA. If a patient taking ARAVA develops any of these conditions, stop ARAVA treatment and perform an accelerated drug elimination procedure [see Warnings and Precautions (5.3) ] . 5.6 Skin Ulcers Skin ulcers may occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and an accelerated drug elimination procedure should be considered [see Warnings and Precautions (5.3) ] . The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing. 5.7 Malignancy and Lymphoproliferative Disorders The risk of malignancy, particularly lymphoproliferative disorders, is increased with the use of some immunosuppression medications. There is a potential for immunosuppression with ARAVA. No apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the clinical trials of ARAVA, but larger dosages and longer-term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with ARAVA. 5.8 Peripheral Neuropathy Cases of peripheral neuropathy have been reported in patients receiving ARAVA and in clinical studies with teriflunomide, the active metabolite of leflunomide. Most patients recovered after discontinuation of treatment, but some patients had persistent symptoms. Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy. If a patient taking ARAVA develops a peripheral neuropathy, consider discontinuing ARAVA therapy and performing an accelerated drug elimination procedure [see Warnings and Precautions (5.3) ] . 5.9 Interstitial Lung Disease Interstitial lung disease and worsening of pre-existing interstitial lung disease have been reported during treatment with ARAVA and has been associated with fatal outcomes [see Adverse Reactions (6.2) ] . The risk of ARAVA-associated interstitial lung disease is increased in patients with a history of interstitial lung disease. Interstitial lung disease is a potentially fatal disorder that may occur acutely at any time during therapy and has a variable clinical presentation. New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of ARAVA therapy and for further investigation as appropriate. If discontinuation of ARAVA is necessary, consider performing an accelerated drug elimination procedure [see Warnings and Precautions (5.3) ] . 5.10 Vaccinations No clinical data are available on the efficacy and safety of vaccinations during ARAVA treatment. Vaccination with live vaccines is, however, not recommended. The long half-life of the active metabolite of ARAVA should be considered when contemplating administration of a live vaccine after stopping ARAVA. 5.11 Blood Pressure Monitoring In placebo-controlled studies with the active metabolite of ARAVA, teriflunomide, elevations in blood pressure were observed in some subjects. Blood pressure should be checked before starting treatment with ARAVA and monitored periodically thereafter [see Adverse Reactions (6.1) ] ."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious adverse reactions are described elsewhere in the labeling: Hepatotoxicity [see Warnings and Precautions (5.2) ] Immunosuppression [see Warnings and Precautions (5.4) ] Bone marrow suppression [see Warnings and Precautions (5.4) ] Serious infections [see Warnings and Precautions (5.4) ] Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reactions with eosinophilia and systemic symptoms [see Warnings and Precautions (5.5) ] Skin ulcers [see Warnings and Precautions (5.6) ] Peripheral neuropathy [see Warnings and Precautions (5.8) ] Interstitial lung disease [see Warnings and Precautions (5.9) ] The most commonly reported adverse reactions (≥10%) regardless of relation to ARAVA treatment were diarrhea, respiratory infection, nausea, headache, rash, abnormal liver enzymes, and dyspepsia. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact sanofi-aventis U.S. LLC at 1-800-633-1610 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies (Trials 1, 2, and 3), 1,865 patients were treated with ARAVA administered as either monotherapy or in combination with methotrexate or sulfasalazine. Patients ranged in age from 19 to 85 years, with an overall median age of 58 years. The mean duration of RA was 6 years ranging from 0 to 45 years. Elevation of Liver Enzymes Treatment with ARAVA was associated with elevations of liver enzymes, primarily ALT and AST, in a significant number of patients; these effects were generally reversible. Most transaminase elevations were mild (≤2-fold ULN) and usually resolved while continuing treatment. Marked elevations (>3-fold ULN) occurred infrequently and reversed with dose reduction or discontinuation of treatment. Table 1 shows liver enzyme elevations seen with monthly monitoring in clinical trials Trial 1 and Trial 2. It was notable that the absence of folate use in Trial 3 was associated with a considerably greater incidence of liver enzyme elevation on methotrexate. Table 1: Liver Enzyme Elevations >3-fold Upper Limits of Normal (ULN) in Patients with RA in Trials 1, 2, and 3 Only 10% of patients in Trial 3 received folate. All patients in Trial 1 received folate. Trial 1 Trial 2 Trial 3 ARAVA PL MTX ARAVA PL SSZ ARAVA MTX 20 mg/day (n=182) (n=118) 7.5–15 mg/wk (n=182) 20 mg/day (n=133) (n=92) 2 g/day (n=133) 20 mg/day (n=501) 7.5–15 mg/wk (n=498) MTX = methotrexate, PL = placebo, SSZ = sulfasalazine, ULN = Upper limit of normal ALT (SGPT) >3-fold ULN (n %) 8(4.4) 3(2.5) 5(2.7) 2(1.5) 1(1.1) 2(1.5) 13(2.6) 83 (16.7) Reversed to ≤2-fold ULN: 8 3 5 2 1 2 12 82 Timing of Elevation 0–3 Months 6 1 1 2 1 2 7 27 4–6 Months 1 1 3 - - - 1 34 7–9 Months 1 1 1 - - - - 16 10–12 Months - - - - - - 5 6 In a 6-month study of 263 patients with persistent active rheumatoid arthritis despite methotrexate therapy, and with normal LFTs, ARAVA was administered to a group of 130 patients starting at 10 mg per day and increased to 20 mg as needed. An increase in ALT greater than or equal to three times the ULN was observed in 3.8% of patients compared to 0.8% in 133 patients continued on methotrexate with placebo. Most Common Adverse Reactions The most common adverse reactions in ARAVA-treated patients with RA include diarrhea, elevated liver enzymes (ALT and AST), alopecia, and rash. Table 2 displays the most common adverse reactions in the controlled studies in patients with RA at one year (≥5% in any ARAVA treatment group). Table 2: Percentage Of Patients With Adverse Events ≥5% In Any ARAVA Treated Group in all RA Studies in Patients with RA Placebo-Controlled Trials Active-Controlled Trials All RA Studies Trial 1 and 2 Trial 3 Only 10% of patients in Trial 3 received folate. All patients in Trial 1 received folate; none in Trial 2 received folate. ARAVA 20 mg/day (n=315) PL (n=210) SSZ 2 g/day (n=133) MTX 7.5–15 mg/wk (n=182) ARAVA 20 mg/day (n=501) MTX 7.5–15 mg/wk (n=498) ARAVA (n=1339) Includes all controlled and uncontrolled trials with ARAVA (duration up to 12 months). MTX = methotrexate, PL = placebo, SSZ = sulfasalazine Diarrhea 27% 12% 10% 20% 22% 10% 17% Headache 13% 11% 12% 21% 10% 8% 7% Nausea 13% 11% 19% 18% 13% 18% 9% Rash 12% 7% 11% 9% 11% 10% 10% Abnormal Liver Enzymes 10% 2% 4% 10% 6% 17% 5% Alopecia 9% 1% 6% 6% 17% 10% 10% Hypertension Hypertension as a preexisting condition was overrepresented in all ARAVA treatment groups in phase III trials. 9% 4% 4% 3% 10% 4% 10% Asthenia 6% 4% 5% 6% 3% 3% 3% Back Pain 6% 3% 4% 9% 8% 7% 5% GI/Abdominal Pain 6% 4% 7% 8% 8% 8% 5% Abdominal Pain 5% 4% 4% 8% 6% 4% 6% Allergic Reaction 5% 2% 0% 6% 1% 2% 2% Bronchitis 5% 2% 4% 7% 8% 7% 7% Dizziness 5% 3% 6% 5% 7% 6% 4% Mouth Ulcer 5% 4% 3% 10% 3% 6% 3% Pruritus 5% 2% 3% 2% 6% 2% 4% Rhinitis 5% 2% 4% 3% 2% 2% 2% Vomiting 5% 4% 4% 3% 3% 3% 3% Tenosynovitis 2% 0% 1% 2% 5% 1% 3% Adverse events during a second year of treatment with ARAVA in clinical trials were consistent with those observed during the first year of treatment and occurred at a similar or lower incidence. Less Common Adverse Reactions In addition, in controlled clinical trials, the following adverse events in the ARAVA treatment group occurred at a higher incidence than in the placebo group. These adverse events were deemed possibly related to the study drug. Blood and Lymphatic System: leukocytosis, thrombocytopenia Cardiovascular: chest pain, palpitation, thrombophlebitis of the leg, varicose vein Eye: blurred vision, eye disorder, papilledema, retinal disorder, retinal hemorrhage Gastrointestinal: alkaline phosphatase increased, anorexia, bilirubinemia, flatulence, gamma-GT increased, salivary gland enlarged, sore throat, vomiting, dry mouth General Disorders: malaise Immune System: anaphylactic reaction Infection: abscess, flu syndrome, vaginal moniliasis Nervous System: dizziness, headache, somnolence Respiratory System: dyspnea 6.2 Postmarketing Experience The following additional adverse reactions have been identified during postapproval use of ARAVA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Blood and Lymphatic System: agranulocytosis, leukopenia, neutropenia, pancytopenia Infection: opportunistic infections, severe infections including sepsis Gastrointestinal: acute hepatic necrosis, colitis, including microscopic colitis, hepatitis, jaundice/cholestasis, pancreatitis, severe liver injury such as hepatic failure Immune System: angioedema Nervous system: peripheral neuropathy Respiratory: interstitial lung disease, including interstitial pneumonitis and pulmonary fibrosis, which may be fatal, pulmonary hypertension Skin and Appendages: erythema multiforme, vasculitis including cutaneous necrotizing vasculitis, cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis"
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"100%\" ID=\"table1\"><caption>Table 1: Liver Enzyme Elevations &gt;3-fold Upper Limits of Normal (ULN) in Patients with RA in Trials 1, 2, and 3<footnote ID=\"t1ft1\">Only 10% of patients in Trial 3 received folate. All patients in Trial 1 received folate.</footnote></caption><col width=\"12%\" align=\"left\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><col width=\"11%\" align=\"center\" valign=\"top\"/><thead><tr styleCode=\"Botrule\"><th rowspan=\"3\" styleCode=\"Lrule Rrule\"/><th colspan=\"3\" styleCode=\"Rrule\">Trial 1</th><th colspan=\"3\" styleCode=\"Rrule\">Trial 2</th><th colspan=\"2\" styleCode=\"Rrule\">Trial 3<footnoteRef IDREF=\"t1ft1\"/></th></tr><tr><th align=\"center\" styleCode=\"Rrule\">ARAVA</th><th styleCode=\"Rrule\">PL</th><th styleCode=\"Rrule\">MTX</th><th styleCode=\"Rrule\">ARAVA</th><th styleCode=\"Rrule\">PL</th><th styleCode=\"Rrule\">SSZ</th><th styleCode=\"Rrule\">ARAVA</th><th styleCode=\"Rrule\">MTX</th></tr><tr><th align=\"center\" styleCode=\"Rrule\">20 mg/day (n=182)</th><th styleCode=\"Rrule\">(n=118)</th><th styleCode=\"Rrule\">7.5&#x2013;15 mg/wk (n=182)</th><th styleCode=\"Rrule\">20 mg/day (n=133)</th><th styleCode=\"Rrule\">(n=92)</th><th styleCode=\"Rrule\">2 g/day (n=133)</th><th styleCode=\"Rrule\">20 mg/day (n=501)</th><th styleCode=\"Rrule\">7.5&#x2013;15 mg/wk (n=498)</th></tr></thead><tfoot><tr><td colspan=\"9\" align=\"left\">MTX = methotrexate, PL = placebo, SSZ = sulfasalazine, ULN = Upper limit of normal</td></tr></tfoot><tbody><tr styleCode=\"Botrule\"><td colspan=\"9\" styleCode=\"Lrule Rrule Toprule\">ALT (SGPT)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">&gt;3-fold ULN (n %)</td><td styleCode=\"Rrule\">8(4.4)</td><td styleCode=\"Rrule\">3(2.5)</td><td styleCode=\"Rrule\">5(2.7)</td><td styleCode=\"Rrule\">2(1.5)</td><td styleCode=\"Rrule\">1(1.1)</td><td styleCode=\"Rrule\">2(1.5)</td><td styleCode=\"Rrule\">13(2.6)</td><td styleCode=\"Rrule\">83 (16.7)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Reversed to &#x2264;2-fold ULN:</td><td styleCode=\"Rrule\">8</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">5</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">12</td><td styleCode=\"Rrule\">82</td></tr><tr styleCode=\"Botrule\"><td colspan=\"9\" styleCode=\"Lrule Rrule Toprule\">Timing of Elevation</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> 0&#x2013;3 Months</td><td styleCode=\"Rrule\">6</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">7</td><td styleCode=\"Rrule\">27</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> 4&#x2013;6 Months</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">34</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> 7&#x2013;9 Months</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">16</td></tr><tr><td styleCode=\"Lrule Rrule\"> 10&#x2013;12 Months</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">-</td><td styleCode=\"Rrule\">5</td><td styleCode=\"Rrule\">6</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"table2\"><caption>Table 2: Percentage Of Patients With Adverse Events &#x2265;5% In Any ARAVA Treated Group in all RA Studies in Patients with RA</caption><col width=\"27%\" align=\"left\" valign=\"top\"/><col width=\"10%\" align=\"center\" valign=\"top\"/><col width=\"10%\" align=\"center\" valign=\"top\"/><col width=\"10%\" align=\"center\" valign=\"top\"/><col width=\"10%\" align=\"center\" valign=\"top\"/><col width=\"10%\" align=\"center\" valign=\"top\"/><col width=\"10%\" align=\"center\" valign=\"top\"/><col width=\"13%\" align=\"center\" valign=\"top\"/><thead><tr styleCode=\"Botrule\"><th rowspan=\"3\" styleCode=\"Lrule Rrule\"/><th colspan=\"4\" styleCode=\"Rrule\">Placebo-Controlled Trials</th><th colspan=\"2\" styleCode=\"Rrule\">Active-Controlled Trials</th><th styleCode=\"Rrule\">All RA Studies</th></tr><tr styleCode=\"Botrule\"><th align=\"center\" colspan=\"4\" styleCode=\"Rrule\">Trial 1 and 2 </th><th colspan=\"2\" styleCode=\"Rrule\">Trial 3<footnote ID=\"K2496\">Only 10% of patients in Trial 3 received folate. All patients in Trial 1 received folate; none in Trial 2 received folate. </footnote></th><th styleCode=\"Rrule\"/></tr><tr styleCode=\"Botrule\"><th align=\"center\" styleCode=\"Rrule\">ARAVA 20 mg/day (n=315)</th><th styleCode=\"Rrule\">PL (n=210)</th><th styleCode=\"Rrule\">SSZ 2 g/day (n=133)</th><th styleCode=\"Rrule\">MTX 7.5&#x2013;15 mg/wk (n=182)</th><th styleCode=\"Rrule\">ARAVA 20 mg/day (n=501)</th><th styleCode=\"Rrule\">MTX 7.5&#x2013;15 mg/wk (n=498)</th><th styleCode=\"Rrule\">ARAVA (n=1339) <footnote ID=\"K2548\">Includes all controlled and uncontrolled trials with ARAVA (duration up to 12 months).</footnote></th></tr></thead><tfoot><tr><td colspan=\"8\" align=\"left\">MTX = methotrexate, PL = placebo, SSZ = sulfasalazine</td></tr></tfoot><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Diarrhea</td><td styleCode=\"Rrule Botrule\">27%</td><td styleCode=\"Rrule Botrule\">12%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">20%</td><td styleCode=\"Rrule Botrule\">22%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">17%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Headache</td><td styleCode=\"Rrule Botrule\">13%</td><td styleCode=\"Rrule Botrule\">11%</td><td styleCode=\"Rrule Botrule\">12%</td><td styleCode=\"Rrule Botrule\">21%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">8%</td><td styleCode=\"Rrule Botrule\">7%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Nausea</td><td styleCode=\"Rrule Botrule\">13%</td><td styleCode=\"Rrule Botrule\">11%</td><td styleCode=\"Rrule Botrule\">19%</td><td styleCode=\"Rrule Botrule\">18%</td><td styleCode=\"Rrule Botrule\">13%</td><td styleCode=\"Rrule Botrule\">18%</td><td styleCode=\"Rrule Botrule\">9%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Rash</td><td styleCode=\"Rrule Botrule\">12%</td><td styleCode=\"Rrule Botrule\">7%</td><td styleCode=\"Rrule Botrule\">11%</td><td styleCode=\"Rrule Botrule\">9%</td><td styleCode=\"Rrule Botrule\">11%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">10%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Abnormal Liver Enzymes</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">17%</td><td styleCode=\"Rrule Botrule\">5%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Alopecia</td><td styleCode=\"Rrule Botrule\">9%</td><td styleCode=\"Rrule Botrule\">1%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">17%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">10%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Hypertension<footnote ID=\"K2718\">Hypertension as a preexisting condition was overrepresented in all ARAVA treatment groups in phase III trials.</footnote></td><td styleCode=\"Rrule Botrule\">9%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">10%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Asthenia</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">3%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Back Pain</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">9%</td><td styleCode=\"Rrule Botrule\">8%</td><td styleCode=\"Rrule Botrule\">7%</td><td styleCode=\"Rrule Botrule\">5%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">GI/Abdominal Pain</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">7%</td><td styleCode=\"Rrule Botrule\">8%</td><td styleCode=\"Rrule Botrule\">8%</td><td styleCode=\"Rrule Botrule\">8%</td><td styleCode=\"Rrule Botrule\">5%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Abdominal Pain</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">8%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">6%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Allergic Reaction</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">0%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">1%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">2%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Bronchitis</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">7%</td><td styleCode=\"Rrule Botrule\">8%</td><td styleCode=\"Rrule Botrule\">7%</td><td styleCode=\"Rrule Botrule\">7%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Dizziness</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">7%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">4%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Mouth Ulcer</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">10%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">3%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Pruritus</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">6%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">4%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Rhinitis</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">2%</td><td styleCode=\"Rrule Botrule\">2%</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Vomiting</td><td styleCode=\"Rrule Botrule\">5%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">4%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">3%</td><td styleCode=\"Rrule Botrule\">3%</td></tr><tr><td styleCode=\"Lrule Rrule\">Tenosynovitis</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">0%</td><td styleCode=\"Rrule\">1%</td><td styleCode=\"Rrule\">2%</td><td styleCode=\"Rrule\">5%</td><td styleCode=\"Rrule\">1%</td><td styleCode=\"Rrule\">3%</td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Following oral administration, leflunomide is metabolized to an active metabolite, teriflunomide, which is responsible for essentially all of leflunomide's in vivo activity. Drug interaction studies have been conducted with both ARAVA (leflunomide) and with its active metabolite, teriflunomide, where the metabolite was directly administered to the test subjects. Drugs metabolized by CYP2C8 and OAT3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs. ( 7 ) Teriflunomide may increase exposure of ethinylestradiol and levonorgestrel. Choose an appropriate oral contraceptive. ( 7 ) Drugs metabolized by CYP1A2: Monitor patients because teriflunomide may decrease exposure of these drugs. ( 7 ) Warfarin: Monitor INR as teriflunomide may decrease INR. ( 7 ) Drugs metabolized by BCRP and OATP1B1/B3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs. ( 7 ) Rosuvastatin: The dose of rosuvastatin should not exceed 10 mg once daily in patients taking ARAVA. ( 7 ) Effect of Potent CYP and Transporter Inducers Leflunomide is metabolized by CYP450 metabolizing enzymes. Concomitant use of ARAVA and rifampin, a potent inducer of CYP and transporters, increased the plasma concentration of teriflunomide by 40%. However, when coadministered with the metabolite, teriflunomide, rifampin did not affect its pharmacokinetics. No dosage adjustment is recommended for ARAVA when coadministered with rifampin. Because of the potential for ARAVA concentrations to continue to increase with multiple dosing, caution should be used if patients are to be receiving both ARAVA and rifampin [see Clinical Pharmacology (12.3) ] . Effect on CYP2C8 Substrates Teriflunomide is an inhibitor of CYP2C8 in vivo . In patients taking ARAVA, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required [see Clinical Pharmacology (12.3) ] . Effect on Warfarin Coadministration of ARAVA with warfarin requires close monitoring of the international normalized ratio (INR) because teriflunomide, the active metabolite of ARAVA, may decrease peak INR by approximately 25%. Effect on Oral Contraceptives Teriflunomide may increase the systemic exposures of ethinylestradiol and levonorgestrel. Consideration should be given to the type or dose of contraceptives used in combination with ARAVA [see Clinical Pharmacology (12.3) ] . Effect on CYP1A2 Substrates Teriflunomide, the active metabolite of ARAVA, may be a weak inducer of CYP1A2 in vivo . In patients taking ARAVA, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required [see Clinical Pharmacology (12.3) ] . Effect on Organic Anion Transporter 3 (OAT3) Substrates Teriflunomide inhibits the activity of OAT3 in vivo . In patients taking ARAVA, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3) ] . Effect on BCRP and Organic Anion Transporting Polypeptide B1 and B3 (OATP1B1/1B3) Substrates Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo . For a patient taking ARAVA, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking ARAVA [see Clinical Pharmacology (12.3) ] ."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Lactation: Discontinue breastfeeding. ( 8.2 ) Females and Males of Reproductive Potential: See FPI for information regarding contraception. ( 8.3 ) Safety and effectiveness in pediatric patients <12 years of age have not been established. ( 8.4 ) 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ARAVA during pregnancy. Health care providers and patients are encouraged to report pregnancies by calling 1-877-311-8972 or visit http://www.pregnancystudies.org/participate-in-a-study/. Risk Summary ARAVA is contraindicated for use in pregnant women because of the potential for fetal harm. In animal reproduction studies, oral administration of leflunomide during organogenesis at a dose of 1/10 of, and equivalent to, the maximum recommended human dose (MRHD) based on AUC, respectively, in rats and rabbits, caused teratogenicity (rats and rabbits), and embryo-lethality (rats) [see Data ] . Pregnancy exposure registry data are not available at this time to inform the presence or absence of drug-associated risk with the use of ARAVA during pregnancy. The background risk of major birth defects and miscarriage for the indicated populations is unknown. The background risk in the U.S. general population of major birth defects is 2%–4% and of miscarriage is 15%–20% of clinically recognized pregnancies. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, stop treatment with ARAVA, apprise the patient of the potential hazard to a fetus, and perform the accelerated drug elimination procedure to achieve teriflunomide concentrations of less than 0.02 mg/L (0.02 mcg/mL) [see Warnings and Precautions (5.3) ] . Clinical Considerations Fetal/Neonatal adverse reactions Lowering the plasma concentration of the active metabolite, teriflunomide, by instituting an accelerated drug elimination procedure as soon as pregnancy is detected may decrease the risk to the fetus from ARAVA. The accelerated drug elimination procedure includes verification that the plasma teriflunomide concentration is less than 0.02 mg/L [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3) ] . Data Animal data In an embryo-fetal development study, pregnant rats administered leflunomide during organogenesis from gestation days 7 to 19 at a dose approximately 1/10 of the MRHD (on an AUC basis at a maternal oral dose of 15 mg/kg), teratogenic effects, most notably anophthalmia or microphthalmia and internal hydrocephalus, were observed. Under these exposure conditions, leflunomide also caused a decrease in the maternal body weight and an increase in embryolethality with a decrease in fetal body weight for surviving fetuses. In an embryo-fetal development study, pregnant rabbits administered leflunomide during organogenesis from gestation days 6 to 18 at a dose approximately equivalent to the MRHD (on an AUC basis at a maternal oral dose of 10 mg/kg), a teratogenic finding of fused, dysplastic sternebrae was observed. Leflunomide was not teratogenic in rats and rabbits at doses approximately 1/150 and 1/10 of the MRHD, respectively (on an AUC basis at maternal oral dose of 1 mg/kg in both rats and rabbits). In a pre and postnatal development study, when female rats were treated with leflunomide at a dose that was approximately 1/100 of the MRHD (on an AUC basis at a maternal dose of 1.25 mg/kg) beginning 14 days before mating and continuing until the end of lactation, the offspring exhibited marked (greater than 90%) decreases in postnatal survival. 8.2 Lactation Risk Summary Clinical lactation studies have not been conducted to assess the presence of ARAVA in human milk, the effects of ARAVA on the breastfed child, or the effects of ARAVA on milk production. Because of the potential for serious adverse reactions in a breastfed infant from ARAVA, advise a nursing woman to discontinue breastfeeding during treatment with ARAVA. 8.3 Females and Males of Reproductive Potential ARAVA may cause fetal harm if administered during pregnancy [see Use in Specific Populations (8.1) ] . Pregnancy Testing Exclude pregnancy prior to initiation of treatment with ARAVA in females of reproductive potential. Advise females to notify their healthcare provider immediately if pregnancy occurs or is suspected during treatment [see Warnings and Precautions (5.1 , 5.3) and Use in Specific Populations (8.1) ] . Contraception Females Females of reproductive potential should use effective contraception while taking ARAVA. If ARAVA is discontinued, use of contraception should be continued until it is verified that plasma concentrations of teriflunomide are less than 0.02 mg/L (0.02 mcg/mL, the level expected to have minimal fetal risk, based on animal data). Females of reproductive potential who wish to become pregnant should discontinue ARAVA and undergo an accelerated elimination procedure. Effective contraception should be used until it is verified that plasma concentrations of teriflunomide are less than 0.02 mg/L (0.02 mcg/mL) [see Warnings and Precautions (5.1 , 5.3) and Use in Specific Populations (8.1) ]. Males Teriflunomide, the active metabolite of ARAVA, is detected in human semen. Animal studies to specifically evaluate the risk of male mediated fetal toxicity have not been conducted. To minimize any possible risk, men not wishing to father a child and their female partners should use effective contraception. Men wishing to father a child should discontinue use of ARAVA and either undergo an accelerated elimination procedure or wait until verification that the plasma teriflunomide concentration is less than 0.02 mg/L (0.02 mcg/mL) [see Warnings and Precautions (5.3) ]. 8.4 Pediatric Use The safety and effectiveness of ARAVA in pediatric patients have not been established. The safety and effectiveness of ARAVA in the treatment of polyarticular course juvenile idiopathic arthritis (JIA) was evaluated in a single multicenter, double-blind, active-controlled trial in 94 pediatric patients (1:1 randomization) with polyarticular course juvenile idiopathic arthritis (JIA) as defined by the American College of Rheumatology (ACR). In this population, ARAVA treatment was found not to be effective. The safety of ARAVA was studied in 74 patients with polyarticular course JIA ranging in age from 3–17 years (47 patients from the active-controlled study and 27 from an open-label safety and pharmacokinetic study). The most common adverse events included abdominal pain, diarrhea, nausea, vomiting, oral ulcers, upper respiratory tract infections, alopecia, rash, headache, and dizziness. Less common adverse events included anemia, hypertension, and weight loss. Fourteen pediatric patients experienced ALT and/or AST elevations, nine between 1.2 and 3-fold the upper limit of normal, and five between 3 and 8-fold the upper limit of normal. 8.5 Geriatric Use Of the total number of subjects in controlled clinical trials (Trials 1, 2, and 3) of ARAVA, 234 subjects were 65 years and over [see Clinical Studies (14) ] . No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out. No dosage adjustment is needed in patients over 65. 8.6 Hepatic Impairment Dedicated studies of the effect of hepatic impairment on leflunomide pharmacokinetics have not been conducted. Given the need to metabolize leflunomide into the active species, the role of the liver in drug elimination/recycling, and the possible risk of increased hepatic toxicity, the use of ARAVA in patients with hepatic impairment is not recommended. 8.7 Renal Impairment Dedicated studies of the effect of renal impairment on leflunomide pharmacokinetics have not been conducted. Given that the kidney plays an important role in drug elimination, caution should be used when ARAVA is administered to these patients."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ARAVA during pregnancy. Health care providers and patients are encouraged to report pregnancies by calling 1-877-311-8972 or visit http://www.pregnancystudies.org/participate-in-a-study/. Risk Summary ARAVA is contraindicated for use in pregnant women because of the potential for fetal harm. In animal reproduction studies, oral administration of leflunomide during organogenesis at a dose of 1/10 of, and equivalent to, the maximum recommended human dose (MRHD) based on AUC, respectively, in rats and rabbits, caused teratogenicity (rats and rabbits), and embryo-lethality (rats) [see Data ] . Pregnancy exposure registry data are not available at this time to inform the presence or absence of drug-associated risk with the use of ARAVA during pregnancy. The background risk of major birth defects and miscarriage for the indicated populations is unknown. The background risk in the U.S. general population of major birth defects is 2%–4% and of miscarriage is 15%–20% of clinically recognized pregnancies. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, stop treatment with ARAVA, apprise the patient of the potential hazard to a fetus, and perform the accelerated drug elimination procedure to achieve teriflunomide concentrations of less than 0.02 mg/L (0.02 mcg/mL) [see Warnings and Precautions (5.3) ] . Clinical Considerations Fetal/Neonatal adverse reactions Lowering the plasma concentration of the active metabolite, teriflunomide, by instituting an accelerated drug elimination procedure as soon as pregnancy is detected may decrease the risk to the fetus from ARAVA. The accelerated drug elimination procedure includes verification that the plasma teriflunomide concentration is less than 0.02 mg/L [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3) ] . Data Animal data In an embryo-fetal development study, pregnant rats administered leflunomide during organogenesis from gestation days 7 to 19 at a dose approximately 1/10 of the MRHD (on an AUC basis at a maternal oral dose of 15 mg/kg), teratogenic effects, most notably anophthalmia or microphthalmia and internal hydrocephalus, were observed. Under these exposure conditions, leflunomide also caused a decrease in the maternal body weight and an increase in embryolethality with a decrease in fetal body weight for surviving fetuses. In an embryo-fetal development study, pregnant rabbits administered leflunomide during organogenesis from gestation days 6 to 18 at a dose approximately equivalent to the MRHD (on an AUC basis at a maternal oral dose of 10 mg/kg), a teratogenic finding of fused, dysplastic sternebrae was observed. Leflunomide was not teratogenic in rats and rabbits at doses approximately 1/150 and 1/10 of the MRHD, respectively (on an AUC basis at maternal oral dose of 1 mg/kg in both rats and rabbits). In a pre and postnatal development study, when female rats were treated with leflunomide at a dose that was approximately 1/100 of the MRHD (on an AUC basis at a maternal dose of 1.25 mg/kg) beginning 14 days before mating and continuing until the end of lactation, the offspring exhibited marked (greater than 90%) decreases in postnatal survival."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of ARAVA in pediatric patients have not been established. The safety and effectiveness of ARAVA in the treatment of polyarticular course juvenile idiopathic arthritis (JIA) was evaluated in a single multicenter, double-blind, active-controlled trial in 94 pediatric patients (1:1 randomization) with polyarticular course juvenile idiopathic arthritis (JIA) as defined by the American College of Rheumatology (ACR). In this population, ARAVA treatment was found not to be effective. The safety of ARAVA was studied in 74 patients with polyarticular course JIA ranging in age from 3–17 years (47 patients from the active-controlled study and 27 from an open-label safety and pharmacokinetic study). The most common adverse events included abdominal pain, diarrhea, nausea, vomiting, oral ulcers, upper respiratory tract infections, alopecia, rash, headache, and dizziness. Less common adverse events included anemia, hypertension, and weight loss. Fourteen pediatric patients experienced ALT and/or AST elevations, nine between 1.2 and 3-fold the upper limit of normal, and five between 3 and 8-fold the upper limit of normal."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Of the total number of subjects in controlled clinical trials (Trials 1, 2, and 3) of ARAVA, 234 subjects were 65 years and over [see Clinical Studies (14) ] . No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out. No dosage adjustment is needed in patients over 65."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE There have been reports of chronic overdose in patients taking ARAVA at daily dose up to five times the recommended daily dose and reports of acute overdose in adults and children. Adverse events were consistent with the safety profile for ARAVA [see Adverse Reactions (6) ] . The most frequent adverse events observed were diarrhea, abdominal pain, leukopenia, anemia, and elevated liver function tests. In the event of a significant overdose or toxicity, perform an accelerated drug elimination procedure to accelerate elimination [see Warnings and Precautions (5.3) ] . Studies with both hemodialysis and CAPD (chronic ambulatory peritoneal dialysis) indicate that teriflunomide, the primary metabolite of leflunomide, is not dialyzable [see Clinical Pharmacology (12.3) ] ."
+  ],
+  "description": [
+   "11 DESCRIPTION ARAVA (leflunomide) is a pyrimidine synthesis inhibitor. The chemical name for leflunomide is N-(4´-trifluoromethylphenyl)-5-methylisoxazole-4-carboxamide. It has an empirical formula C 12 H 9 F 3 N 2 O 2 , a molecular weight of 270.2 and the following structural formula: ARAVA is available for oral administration as tablets containing 10, 20, or 100 mg of active drug. Combined with leflunomide are the following inactive ingredients: colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, starch, talc, titanium dioxide, and yellow ferric oxide (20 mg tablet only). Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect. 12.3 Pharmacokinetics Following oral administration, leflunomide is metabolized to an active metabolite, teriflunomide, which is responsible for essentially all of leflunomide's in vivo activity. Plasma concentrations of the parent drug, leflunomide, have been occasionally seen at very low concentrations. Studies of the pharmacokinetics of leflunomide have primarily examined the plasma concentrations of the active metabolite, teriflunomide. Chemical Structure Absorption Following oral administration, peak teriflunomide concentrations occurred between 6 to 12 hours after dosing. Due to the very long half-life of teriflunomide (18–19 days), a loading dose of 100 mg for 3 days was used in clinical studies to facilitate the rapid attainment of steady-state teriflunomide concentrations. Without a loading dose, it is estimated that attainment of steady-state plasma concentrations would require about two months of dosing. The resulting plasma concentrations following both loading doses and continued clinical dosing indicate that plasma teriflunomide concentrations are dose proportional. Effect of food Coadministration of leflunomide tablets with a high fat meal did not have a significant impact on teriflunomide plasma concentrations. Distribution Teriflunomide is extensively bound to plasma protein (>99%) and is mainly distributed in plasma. The volume of distribution is 11 L after a single intravenous (IV) administration. Elimination Teriflunomide, the active metabolite of leflunomide, has a median half-life of 18 to 19 days in healthy volunteers. The elimination of teriflunomide can be accelerated by administration of cholestyramine or activated charcoal. Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach plasma teriflunomide concentrations of less than 0.02 mg/L, due to individual variation in drug clearance [see Warnings and Precautions (5.3) ] . After a single IV administration of the metabolite (teriflunomide), the total body clearance of teriflunomide was 30.5 mL/h. Metabolism In vitro inhibition studies in human liver microsomes suggest that cytochrome P450 (CYP) 1A2, 2C19 and 3A4 are involved in leflunomide metabolism. In vivo, leflunomide is metabolized to one primary (teriflunomide) and many minor metabolites. In vitro, teriflunomide is not metabolized by CYP450 or flavin monoamine oxidase enzymes. The parent compound is rarely detectable in plasma. Excretion Teriflunomide, the active metabolite of leflunomide, is eliminated by direct biliary excretion of unchanged drug as well as renal excretion of metabolites. Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%). After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces). Studies with both hemodialysis and CAPD (chronic ambulatory peritoneal dialysis) indicate that teriflunomide is not dialyzable. Specific Populations Gender. Gender has not been shown to cause a consistent change in the in vivo pharmacokinetics of teriflunomide. Smoking. A population based pharmacokinetic analysis of the clinical trial data indicates that smokers have a 38% increase in clearance over nonsmokers; however, no difference in clinical efficacy was seen between smokers and nonsmokers. Drug Interaction Studies Drug interaction studies have been conducted with both ARAVA (leflunomide) and with its active metabolite, teriflunomide, where the metabolite was directly administered to the test subjects. The potential effect of other drugs on ARAVA Potent CYP and transporter inducers: Following concomitant administration of a single dose of ARAVA to subjects receiving multiple doses of rifampin, teriflunomide peak concentrations were increased (~40%) over those seen when ARAVA was given alone [see Drug Interactions (7) ] . An in vivo interaction study with ARAVA and cimetidine (nonspecific weak CYP inhibitor) has demonstrated a lack of a significant impact on teriflunomide exposure. The potential effect of ARAVA on other drugs CYP2C8 Substrates There was an increase in mean repaglinide C max and AUC (1.7 and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo . The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7) ] . CYP1A2 Substrates Repeated doses of teriflunomide decreased mean C max and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo . OAT3 Substrates There was an increase in mean cefaclor C max and AUC (1.43 and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7) ] . BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin C max and AUC (2.65 and 2.51-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7) ] . Oral Contraceptives There was an increase in mean ethinylestradiol C max and AUC 0–24 (1.58 and 1.54-fold, respectively) and levonorgestrel C max and AUC 0–24 (1.33 and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7) ] . Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate)."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Following oral administration, leflunomide is metabolized to an active metabolite, teriflunomide, which is responsible for essentially all of leflunomide's in vivo activity. Plasma concentrations of the parent drug, leflunomide, have been occasionally seen at very low concentrations. Studies of the pharmacokinetics of leflunomide have primarily examined the plasma concentrations of the active metabolite, teriflunomide. Chemical Structure Absorption Following oral administration, peak teriflunomide concentrations occurred between 6 to 12 hours after dosing. Due to the very long half-life of teriflunomide (18–19 days), a loading dose of 100 mg for 3 days was used in clinical studies to facilitate the rapid attainment of steady-state teriflunomide concentrations. Without a loading dose, it is estimated that attainment of steady-state plasma concentrations would require about two months of dosing. The resulting plasma concentrations following both loading doses and continued clinical dosing indicate that plasma teriflunomide concentrations are dose proportional. Effect of food Coadministration of leflunomide tablets with a high fat meal did not have a significant impact on teriflunomide plasma concentrations. Distribution Teriflunomide is extensively bound to plasma protein (>99%) and is mainly distributed in plasma. The volume of distribution is 11 L after a single intravenous (IV) administration. Elimination Teriflunomide, the active metabolite of leflunomide, has a median half-life of 18 to 19 days in healthy volunteers. The elimination of teriflunomide can be accelerated by administration of cholestyramine or activated charcoal. Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach plasma teriflunomide concentrations of less than 0.02 mg/L, due to individual variation in drug clearance [see Warnings and Precautions (5.3) ] . After a single IV administration of the metabolite (teriflunomide), the total body clearance of teriflunomide was 30.5 mL/h. Metabolism In vitro inhibition studies in human liver microsomes suggest that cytochrome P450 (CYP) 1A2, 2C19 and 3A4 are involved in leflunomide metabolism. In vivo, leflunomide is metabolized to one primary (teriflunomide) and many minor metabolites. In vitro, teriflunomide is not metabolized by CYP450 or flavin monoamine oxidase enzymes. The parent compound is rarely detectable in plasma. Excretion Teriflunomide, the active metabolite of leflunomide, is eliminated by direct biliary excretion of unchanged drug as well as renal excretion of metabolites. Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%). After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces). Studies with both hemodialysis and CAPD (chronic ambulatory peritoneal dialysis) indicate that teriflunomide is not dialyzable. Specific Populations Gender. Gender has not been shown to cause a consistent change in the in vivo pharmacokinetics of teriflunomide. Smoking. A population based pharmacokinetic analysis of the clinical trial data indicates that smokers have a 38% increase in clearance over nonsmokers; however, no difference in clinical efficacy was seen between smokers and nonsmokers. Drug Interaction Studies Drug interaction studies have been conducted with both ARAVA (leflunomide) and with its active metabolite, teriflunomide, where the metabolite was directly administered to the test subjects. The potential effect of other drugs on ARAVA Potent CYP and transporter inducers: Following concomitant administration of a single dose of ARAVA to subjects receiving multiple doses of rifampin, teriflunomide peak concentrations were increased (~40%) over those seen when ARAVA was given alone [see Drug Interactions (7) ] . An in vivo interaction study with ARAVA and cimetidine (nonspecific weak CYP inhibitor) has demonstrated a lack of a significant impact on teriflunomide exposure. The potential effect of ARAVA on other drugs CYP2C8 Substrates There was an increase in mean repaglinide C max and AUC (1.7 and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo . The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7) ] . CYP1A2 Substrates Repeated doses of teriflunomide decreased mean C max and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo . OAT3 Substrates There was an increase in mean cefaclor C max and AUC (1.43 and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7) ] . BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin C max and AUC (2.65 and 2.51-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7) ] . Oral Contraceptives There was an increase in mean ethinylestradiol C max and AUC 0–24 (1.58 and 1.54-fold, respectively) and levonorgestrel C max and AUC 0–24 (1.33 and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7) ] . Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate)."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No evidence of carcinogenicity was observed in a 2-year bioassay in rats at oral doses of leflunomide up to the maximally tolerated dose of 6 mg/kg (approximately 1/40 the maximum human teriflunomide systemic exposure based on AUC). However, male mice in a 2-year bioassay exhibited an increased incidence in lymphoma at an oral dose of 15 mg/kg, the highest dose studied (1.7 times the human teriflunomide exposure based on AUC). Female mice, in the same study, exhibited a dose-related increased incidence of bronchoalveolar adenomas and carcinomas combined beginning at 1.5 mg/kg (approximately 1/10 the human teriflunomide exposure based on AUC). The significance of the findings in mice relative to the clinical use of ARAVA is not known. Leflunomide was not mutagenic in the Ames assay, the unscheduled DNA synthesis assay, or in the HGPRT gene mutation assay. In addition, leflunomide was not clastogenic in the in vivo mouse micronucleus assay or in the in vivo Chinese hamster bone marrow cell cytogenic test. However, 4-trifluoromethylaniline (TFMA), a minor metabolite of leflunomide, was mutagenic in the Ames assay and in the HGPRT gene mutation assay, and was clastogenic in the in vitro Chinese hamster cell chromosomal aberration assay. TFMA was not clastogenic in the in vivo mouse micronucleus assay or in the in vivo Chinese hamster bone marrow cell cytogenic test. Leflunomide had no effect on fertility or reproductive performance in either male or female rats at oral doses up to 4.0 mg/kg (approximately 1/30 the human teriflunomide exposure based on AUC) [see Use in Specific Populations (8.1 , 8.6) ] ."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No evidence of carcinogenicity was observed in a 2-year bioassay in rats at oral doses of leflunomide up to the maximally tolerated dose of 6 mg/kg (approximately 1/40 the maximum human teriflunomide systemic exposure based on AUC). However, male mice in a 2-year bioassay exhibited an increased incidence in lymphoma at an oral dose of 15 mg/kg, the highest dose studied (1.7 times the human teriflunomide exposure based on AUC). Female mice, in the same study, exhibited a dose-related increased incidence of bronchoalveolar adenomas and carcinomas combined beginning at 1.5 mg/kg (approximately 1/10 the human teriflunomide exposure based on AUC). The significance of the findings in mice relative to the clinical use of ARAVA is not known. Leflunomide was not mutagenic in the Ames assay, the unscheduled DNA synthesis assay, or in the HGPRT gene mutation assay. In addition, leflunomide was not clastogenic in the in vivo mouse micronucleus assay or in the in vivo Chinese hamster bone marrow cell cytogenic test. However, 4-trifluoromethylaniline (TFMA), a minor metabolite of leflunomide, was mutagenic in the Ames assay and in the HGPRT gene mutation assay, and was clastogenic in the in vitro Chinese hamster cell chromosomal aberration assay. TFMA was not clastogenic in the in vivo mouse micronucleus assay or in the in vivo Chinese hamster bone marrow cell cytogenic test. Leflunomide had no effect on fertility or reproductive performance in either male or female rats at oral doses up to 4.0 mg/kg (approximately 1/30 the human teriflunomide exposure based on AUC) [see Use in Specific Populations (8.1 , 8.6) ] ."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES The efficacy of ARAVA in the treatment of rheumatoid arthritis (RA) was demonstrated in three controlled trials showing reduction in signs and symptoms, and inhibition of structural damage. In two placebo-controlled trials, efficacy was demonstrated for improvement in physical function. In these trials, efficacy was evaluated by: Reduction of signs and symptoms Relief of signs and symptoms was assessed using the American College of Rheumatology (ACR) 20 Responder Index, a composite of clinical, laboratory, and functional measures in rheumatoid arthritis. An \"ACR20 Responder\" is a patient who had ≥20% improvement in both tender and swollen joint counts and in 3 of the following 5 criteria: physician global assessment, patient global assessment, functional ability measure (Modified Health Assessment Questionnaire [MHAQ]), visual analog pain scale, and erythrocyte sedimentation rate or C-reactive protein. An \"ACR20 Responder at Endpoint\" is a patient who completed the study and was an ACR20 Responder at the completion of the study. Inhibition of structural damage Inhibition of structural damage compared to control was assessed using the Sharp score, a composite score of x-ray erosions and joint space narrowing in hands/wrists and forefeet. Improvement in physical function Improvement in physical function was assessed using the Health Assessment Questionnaire (HAQ) and the Medical Outcomes Survey Short Form (SF-36). In all ARAVA trials, participants of at least 18 years of age and in ARA functional class of I, II, or III received an initial loading dose of 100 mg leflunomide per day for three days, followed by 20 mg per day thereafter. Exclusion criteria included patients with a history of hypersensitivity to the study medication; women who were pregnant or breastfeeding and men or women of child bearing age and potential who had not received contraceptives for at least 4 weeks before entering the study and to be maintained throughout the study and for at least 6 months after discontinuing treatment; patients with a history of inflammatory disease, impaired renal function or liver impairment, cardiac failure, congenital or acquired immunodeficiency, impaired coagulation, or a history of recent major traumatic injury; and patients taking intra-articular or systemic concomitant medications which could affect the safety and/or efficacy of the study medication. Trial 1 Trial 1, a 2-year study, randomized 482 patients with active RA of at least 6 months duration to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg BID. The primary analysis was at 52 weeks with blinded treatment to 104 weeks. Overall, 235 of the 508 randomized treated patients (482 in primary data analysis and an additional 26 patients), continued into a second 12 months of double-blind treatment (98 leflunomide, 101 methotrexate, 36 placebo). Leflunomide dose continued at 20 mg/day and the methotrexate dose could be increased to a maximum of 20 mg/week. In total, 190 patients (83 leflunomide, 80 methotrexate, 27 placebo) completed 2 years of double-blind treatment. Trial 2 Trial 2 randomized 358 patients with active RA to leflunomide 20 mg/day (n=133), sulfasalazine 2.0 g/day (n=133), or placebo (n=92). Treatment duration was 24 weeks. An extension of the study was an optional 6-month blinded continuation of Trial 2 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulfasalazine. Of the 168 patients who completed 12 months of treatment, 146 patients (87%) entered a 1-year extension study of double-blind active treatment; (60 leflunomide, 60 sulfasalazine, 26 placebo/sulfasalazine). Patients continued on the same daily dosage of leflunomide or sulfasalazine that they had been taking at the completion of Trial 2. A total of 121 patients (53 leflunomide, 47 sulfasalazine, 21 placebo/sulfasalazine) completed the 2 years of double-blind treatment. Trial 3 Trial 3 randomized 999 patients with active RA to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was used in 10% of patients. Treatment duration was 52 weeks. Of the 736 patients who completed 52 weeks of treatment in study Trial 3, 612 (83%) entered the double-blind, 1-year extension study (292 leflunomide, 320 methotrexate). Patients continued on the same daily dosage of leflunomide or methotrexate that they had been taking at the completion of Trial 3. There were 533 patients (256 leflunomide, 277 methotrexate) who completed 2 years of double-blind treatment. Clinical Trial Results Clinical response The ACR20 Responder at Endpoint rates are shown in Figure 1. ARAVA was statistically significantly superior to placebo in reducing the signs and symptoms of RA by the primary efficacy analysis, ACR20 Responder at Endpoint, in study Trial 1 (at the primary 12 months endpoint) and Trial 2 (at 6-month endpoint). ACR20 Responder at Endpoint rates with ARAVA treatment were consistent across the 6 and 12-month studies (41%–49%). No consistent differences were demonstrated between leflunomide and methotrexate or between leflunomide and sulfasalazine. ARAVA treatment effect was evident by 1 month, stabilized by 3 to 6 months, and continued throughout the course of treatment as shown in Figure 1. Figure 1: Percentage of ACR20 Responders at Endpoint in Patients with Active RA in Trials 1, 2, and 3 Comparisons 95% Confidence Interval p Value Trial 1 ARAVA vs Placebo (12, 32) <0.0001 Methotrexate vs Placebo (8, 30) <0.0001 ARAVA vs Methotrexate (-4, 16) NS Trial 2 ARAVA vs Placebo (7, 33) 0.0026 Sulfasalazine vs Placebo (4, 29) 0.0121 ARAVA vs Sulfasalazine (-8, 16) NS Trial 3 ARAVA vs Methotrexate (-19, -7) <0.0001 Figure 2: ACR20 Responders over Time in Patients with Active RA in Trial 1* ACR50 and ACR70 Responders are defined in an analogous manner to the ACR 20 Responder, but use improvements of 50% or 70%, respectively (Table 3). Mean change for the individual components of the ACR Responder Index are shown in Table 4. Table 3: Summary of ACR Response Rates in Patients with Active RA in Trials 1, 2, and 3 Intent to treat (ITT) analysis using last observation carried forward (LOCF) technique for patients who discontinued early. Study and Treatment Group ACR20 ACR50 ACR70 Placebo-Controlled Studies Trial 1 (12 months) ARAVA (n=178) n is the number of ITT patients for whom adequate data were available to calculate the indicated rates. 52 p<0.001 ARAVA vs placebo 34 20 Placebo (n=118) 26 8 4 Methotrexate (n=180) 46 23 9 Trial 2 (6 months) ARAVA (n=130) 55 33 10 p<0.02 ARAVA vs placebo Placebo (n=91) 29 14 2 Sulfasalazine (n=132) 57 30 8 Non-Placebo Active-Controlled Studies Trial 3 (12 months) ARAVA (n=495) 51 31 10 Methotrexate (n=489) 65 44 16 Table 4 shows the results of the components of the ACR response criteria for Trial 1, Trial 2, and Trial 3. ARAVA was significantly superior to placebo in all components of the ACR Response criteria in study Trial 1 and Trial 2. In addition, ARAVA was significantly superior to placebo in improving morning stiffness, a measure of RA disease activity, not included in the ACR Response criteria. No consistent differences were demonstrated between ARAVA and the active comparators. Table 4: Mean Change in the Components of the ACR Responder Index in Patients with Active RA in Trials 1, 2, and 3 Last Observation Carried Forward; Negative Change Indicates Improvement Components Placebo-Controlled Studies Non–Placebo-Controlled Study Trial 1 (12 months) Trial 2 Non-US (6 months) Trial 3 Non-US (12 months) Leflunomide Methotrexate Placebo Leflunomide Sulfasalazine Placebo Leflunomide Methotrexate Tender joint count Based on 28 joint count -7.7 -6.6 -3.0 -9.7 -8.1 -4.3 -8.3 -9.7 Swollen joint count -5.7 -5.4 -2.9 -7.2 -6.2 -3.4 -6.8 -9.0 Patient global assessment Visual Analog Scale - 0=Best; 10=Worst -2.1 -1.5 0.1 -2.8 -2.6 -0.9 -2.3 -3.0 Physician global assessment -2.8 -2.4 -1.0 -2.7 -2.5 -0.8 -2.3 -3.1 Physical function/disability (MHAQ/HAQ) -0.29 -0.15 0.07 -0.50 -0.29 -0.04 -0.37 -0.44 Pain intensity -2.2 -1.7 -0.5 -2.7 -2.0 -0.9 -2.1 -2.9 Erythrocyte Sedimentation rate -6.26 -6.48 2.56 -7.48 -16.56 3.44 -10.12 -22.18 C-reactive protein -0.62 -0.50 0.47 -2.26 -1.19 0.16 -1.86 -2.45 Not included in the ACR Responder Index Morning Stiffness (min) -101.4 -88.7 14.7 -93.0 -42.4 -6.8 -63.7 -86.6 Figure 1 Figure 2 Maintenance of effect After completing 12 months of treatment, patients continuing on study treatment were evaluated for an additional 12 months of double-blind treatment (total treatment period of 2 years). ACR Responder rates at 12 months were maintained over 2 years in most patients continuing a second year of treatment. Improvement from baseline in the individual components of the ACR responder criteria was also sustained in most patients during the second year of ARAVA treatment in all three trials. Radiographic Response The change from baseline to endpoint in progression of structural disease, as measured by the Sharp x-ray score, is displayed in Figure 3. ARAVA was statistically significantly superior to placebo in inhibiting the progression of disease by the Sharp score. No consistent differences were demonstrated between leflunomide and methotrexate or between leflunomide and sulfasalazine. Figure 3: Change in Sharp Score in Patients with Active RA in Trials 1, 2, and 3 Comparisons 95% Confidence Interval p Value Trial 1 ARAVA vs Placebo (-4.0, -1.1) 0.0007 Methotrexate vs Placebo (-2.6, -0.2) 0.0196 ARAVA vs Methotrexate (-2.3, 0.0) 0.0499 Trial 2 ARAVA vs Placebo (-6.2, -1.8) 0.0004 Sulfasalazine vs Placebo (-6.9, 0.0) 0.0484 ARAVA vs Sulfasalazine (-3.3, 1.2) NS Trial 3 ARAVA vs Methotrexate (-2.2, 7.4) NS Figure 3 Physical Function Response The Health Assessment Questionnaire (HAQ) assesses a patient's physical function and degree of disability. The mean change from baseline in functional ability as measured by the HAQ Disability Index (HAQ DI) in the 6 and 12-month placebo and active-controlled trials is shown in Figure 4. ARAVA was statistically significantly superior to placebo in improving physical function. Superiority to placebo was demonstrated consistently across all eight HAQ DI subscales (dressing, arising, eating, walking, hygiene, reach, grip, and activities) in both placebo-controlled studies. The Medical Outcomes Survey Short Form 36 (SF-36), a generic health-related quality of life questionnaire, further addresses physical function. In Trial 1, at 12 months, ARAVA provided statistically significant improvements compared to placebo in the Physical Component Summary (PCS) Score. Figure 4: Change in Functional Ability Measure in Patients with Active RA in Trials 1, 2, and 3* Comparison 95% Confidence Interval p Value Trial 1 ARAVA vs Placebo (-0.58, -0.29) 0.0001 ARAVA vs Methotrexate (-0.34, -0.07) 0.0026 Trial 2 ARAVA vs Placebo (-0.67, -0.36) <0.0001 ARAVA vs Sulfasalazine (-0.33, -0.03) 0.0163 Trial 3 ARAVA vs Methotrexate (0.01, 0.16) 0.0221 Figure 4 Maintenance of effect The improvement in physical function demonstrated at 6 and 12 months was maintained over two years. In those patients continuing therapy for a second year, this improvement in physical function as measured by HAQ and SF-36 (PCS) was maintained."
+  ],
+  "clinical_studies_table": [
+   "<table width=\"80%\"><col align=\"left\" width=\"15%\" valign=\"middle\"/><col align=\"left\" width=\"32%\" valign=\"middle\"/><col align=\"center\" width=\"38%\" valign=\"middle\"/><col align=\"center\" width=\"15%\" valign=\"middle\"/><thead><tr><th/><th align=\"center\">Comparisons</th><th>95% Confidence Interval</th><th>p Value</th></tr></thead><tbody><tr><td>Trial 1</td><td>ARAVA vs Placebo</td><td>(12, 32)</td><td>&lt;0.0001</td></tr><tr><td/><td>Methotrexate vs Placebo</td><td>(8, 30)</td><td>&lt;0.0001</td></tr><tr><td/><td>ARAVA vs Methotrexate</td><td>(-4, 16)</td><td>NS</td></tr><tr><td>Trial 2</td><td>ARAVA vs Placebo</td><td>(7, 33)</td><td>0.0026</td></tr><tr><td/><td>Sulfasalazine vs Placebo</td><td>(4, 29)</td><td>0.0121</td></tr><tr><td/><td>ARAVA vs Sulfasalazine</td><td>(-8, 16)</td><td>NS</td></tr><tr><td>Trial 3</td><td>ARAVA vs Methotrexate</td><td>(-19, -7)</td><td>&lt;0.0001</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"table3\"><caption>Table 3: Summary of ACR Response Rates in Patients with Active RA in Trials 1, 2, and 3<footnote ID=\"K4578\">Intent to treat (ITT) analysis using last observation carried forward (LOCF) technique for patients who discontinued early.</footnote></caption><col align=\"left\" width=\"34%\" valign=\"middle\"/><col align=\"center\" width=\"22%\" valign=\"middle\"/><col align=\"center\" width=\"22%\" valign=\"middle\"/><col align=\"center\" width=\"22%\" valign=\"middle\"/><thead><tr><th align=\"center\" styleCode=\"Lrule Rrule\">Study and Treatment Group</th><th styleCode=\"Rrule\">ACR20</th><th styleCode=\"Rrule\">ACR50</th><th styleCode=\"Rrule\">ACR70</th></tr></thead><tbody><tr align=\"left\" styleCode=\"Botrule\"><td align=\"left\" colspan=\"4\" styleCode=\"Lrule Rrule\">Placebo-Controlled Studies</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" colspan=\"4\" styleCode=\"Lrule Rrule\">Trial 1 (12 months)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> ARAVA (n=178)<footnote ID=\"t3ft1\">n is the number of ITT patients for whom adequate data were available to calculate the indicated rates.</footnote></td><td styleCode=\"Rrule\">52<footnote ID=\"t3ft2\">p&lt;0.001 ARAVA vs placebo</footnote></td><td styleCode=\"Rrule\">34<footnoteRef IDREF=\"t3ft2\"/></td><td styleCode=\"Rrule\">20<footnoteRef IDREF=\"t3ft2\"/></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Placebo (n=118)<footnoteRef IDREF=\"t3ft1\"/></td><td styleCode=\"Rrule\">26</td><td styleCode=\"Rrule\">8</td><td styleCode=\"Rrule\">4</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Methotrexate (n=180)<footnoteRef IDREF=\"t3ft1\"/></td><td styleCode=\"Rrule\">46</td><td styleCode=\"Rrule\">23</td><td styleCode=\"Rrule\">9</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" colspan=\"4\" styleCode=\"Lrule Rrule\">Trial 2 (6 months)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> ARAVA (n=130)<footnoteRef IDREF=\"t3ft1\"/></td><td styleCode=\"Rrule\">55<footnoteRef IDREF=\"t3ft2\"/></td><td styleCode=\"Rrule\">33<footnoteRef IDREF=\"t3ft2\"/></td><td styleCode=\"Rrule\">10<footnote ID=\"K4710\">p&lt;0.02 ARAVA vs placebo</footnote></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Placebo (n=91)<footnoteRef IDREF=\"t3ft1\"/></td><td styleCode=\"Rrule\">29</td><td styleCode=\"Rrule\">14</td><td styleCode=\"Rrule\">2</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Sulfasalazine (n=132)<footnoteRef IDREF=\"t3ft1\"/></td><td styleCode=\"Rrule\">57</td><td styleCode=\"Rrule\">30</td><td styleCode=\"Rrule\">8</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" colspan=\"4\" styleCode=\"Lrule Rrule\">Non-Placebo Active-Controlled Studies</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" colspan=\"4\" styleCode=\"Lrule Rrule\">Trial 3 (12 months)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> ARAVA (n=495)<footnoteRef IDREF=\"t3ft1\"/></td><td styleCode=\"Rrule\">51</td><td styleCode=\"Rrule\">31</td><td styleCode=\"Rrule\">10</td></tr><tr><td styleCode=\"Lrule Rrule\"> Methotrexate (n=489)<footnoteRef IDREF=\"t3ft1\"/></td><td styleCode=\"Rrule\">65</td><td styleCode=\"Rrule\">44</td><td styleCode=\"Rrule\">16</td></tr></tbody></table>",
+   "<table width=\"100%\" ID=\"table4\"><caption>Table 4: Mean Change in the Components of the ACR Responder Index in Patients with Active RA in Trials 1, 2, and 3<footnote ID=\"K4796\">Last Observation Carried Forward; Negative Change Indicates Improvement</footnote></caption><col align=\"left\" width=\"24%\" valign=\"top\"/><col align=\"center\" width=\"9%\" valign=\"top\"/><col align=\"center\" width=\"10%\" valign=\"top\"/><col align=\"center\" width=\"9%\" valign=\"top\"/><col align=\"center\" width=\"10%\" valign=\"top\"/><col align=\"center\" width=\"9%\" valign=\"top\"/><col align=\"center\" width=\"10%\" valign=\"top\"/><col align=\"center\" width=\"9%\" valign=\"top\"/><col align=\"center\" width=\"10%\" valign=\"top\"/><thead><tr><th align=\"center\" styleCode=\"Botrule Lrule\">Components</th><th colspan=\"6\" styleCode=\"Botrule Lrule\">Placebo-Controlled Studies</th><th colspan=\"2\" styleCode=\"Botrule Lrule Rrule\">Non&#x2013;Placebo-Controlled Study</th></tr><tr styleCode=\"Botrule\"><th styleCode=\"Lrule Rrule\"/><th colspan=\"3\" styleCode=\"Rrule\">Trial 1 (12 months)</th><th colspan=\"3\" styleCode=\"Rrule\">Trial 2 Non-US (6 months)</th><th colspan=\"2\" styleCode=\"Rrule\">Trial 3 Non-US (12 months)</th></tr><tr><th styleCode=\"Botrule Lrule\"/><th styleCode=\"Botrule Lrule\">Leflunomide</th><th styleCode=\"Botrule Lrule\">Methotrexate</th><th styleCode=\"Botrule Lrule\">Placebo</th><th styleCode=\"Botrule Lrule\">Leflunomide</th><th styleCode=\"Botrule Lrule\">Sulfasalazine</th><th styleCode=\"Botrule Lrule\">Placebo</th><th styleCode=\"Botrule Lrule\">Leflunomide</th><th styleCode=\"Botrule Lrule Rrule\">Methotrexate</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Tender joint count<footnote ID=\"t4ft3\">Based on 28 joint count</footnote></td><td styleCode=\"Rrule\">-7.7</td><td styleCode=\"Rrule\">-6.6</td><td styleCode=\"Rrule\">-3.0</td><td styleCode=\"Rrule\">-9.7</td><td styleCode=\"Rrule\">-8.1</td><td styleCode=\"Rrule\">-4.3</td><td styleCode=\"Rrule\">-8.3</td><td styleCode=\"Rrule\">-9.7</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Swollen joint count<footnoteRef IDREF=\"t4ft3\"/></td><td styleCode=\"Rrule\">-5.7</td><td styleCode=\"Rrule\">-5.4</td><td styleCode=\"Rrule\">-2.9</td><td styleCode=\"Rrule\">-7.2</td><td styleCode=\"Rrule\">-6.2</td><td styleCode=\"Rrule\">-3.4</td><td styleCode=\"Rrule\">-6.8</td><td styleCode=\"Rrule\">-9.0</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Patient global assessment<footnote ID=\"t4ft4\">Visual Analog Scale - 0=Best; 10=Worst</footnote></td><td styleCode=\"Rrule\">-2.1</td><td styleCode=\"Rrule\">-1.5</td><td styleCode=\"Rrule\">0.1</td><td styleCode=\"Rrule\">-2.8</td><td styleCode=\"Rrule\">-2.6</td><td styleCode=\"Rrule\">-0.9</td><td styleCode=\"Rrule\">-2.3</td><td styleCode=\"Rrule\">-3.0</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Physician global assessment<footnoteRef IDREF=\"t4ft4\"/></td><td styleCode=\"Rrule\">-2.8</td><td styleCode=\"Rrule\">-2.4</td><td styleCode=\"Rrule\">-1.0</td><td styleCode=\"Rrule\">-2.7</td><td styleCode=\"Rrule\">-2.5</td><td styleCode=\"Rrule\">-0.8</td><td styleCode=\"Rrule\">-2.3</td><td styleCode=\"Rrule\">-3.1</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Physical function/disability (MHAQ/HAQ)</td><td styleCode=\"Rrule\" valign=\"top\"> -0.29</td><td styleCode=\"Rrule\" valign=\"top\"> -0.15</td><td styleCode=\"Rrule\" valign=\"top\"> 0.07</td><td styleCode=\"Rrule\" valign=\"top\"> -0.50</td><td styleCode=\"Rrule\" valign=\"top\"> -0.29</td><td styleCode=\"Rrule\" valign=\"top\"> -0.04</td><td styleCode=\"Rrule\" valign=\"top\"> -0.37</td><td styleCode=\"Rrule\" valign=\"top\"> -0.44</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Pain intensity<footnoteRef IDREF=\"t4ft4\"/></td><td styleCode=\"Rrule\">-2.2</td><td styleCode=\"Rrule\">-1.7</td><td styleCode=\"Rrule\">-0.5</td><td styleCode=\"Rrule\">-2.7</td><td styleCode=\"Rrule\">-2.0</td><td styleCode=\"Rrule\">-0.9</td><td styleCode=\"Rrule\">-2.1</td><td styleCode=\"Rrule\">-2.9</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Erythrocyte Sedimentation rate</td><td styleCode=\"Rrule\">-6.26</td><td styleCode=\"Rrule\">-6.48</td><td styleCode=\"Rrule\">2.56</td><td styleCode=\"Rrule\">-7.48</td><td styleCode=\"Rrule\">-16.56</td><td styleCode=\"Rrule\">3.44</td><td styleCode=\"Rrule\">-10.12</td><td styleCode=\"Rrule\">-22.18</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">C-reactive protein</td><td styleCode=\"Rrule\">-0.62</td><td styleCode=\"Rrule\">-0.50</td><td styleCode=\"Rrule\">0.47</td><td styleCode=\"Rrule\">-2.26</td><td styleCode=\"Rrule\">-1.19</td><td styleCode=\"Rrule\">0.16</td><td styleCode=\"Rrule\">-1.86</td><td styleCode=\"Rrule\">-2.45</td></tr><tr styleCode=\"Botrule\"><td colspan=\"9\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Not included in the ACR Responder Index</content></td></tr><tr><td styleCode=\"Lrule Rrule\">Morning Stiffness (min)</td><td styleCode=\"Rrule\">-101.4</td><td styleCode=\"Rrule\">-88.7</td><td styleCode=\"Rrule\">14.7</td><td styleCode=\"Rrule\">-93.0</td><td styleCode=\"Rrule\">-42.4</td><td styleCode=\"Rrule\">-6.8</td><td styleCode=\"Rrule\">-63.7</td><td styleCode=\"Rrule\">-86.6</td></tr></tbody></table>",
+   "<table width=\"80%\"><col align=\"left\" width=\"15%\" valign=\"middle\"/><col align=\"left\" width=\"32%\" valign=\"middle\"/><col align=\"center\" width=\"38%\" valign=\"middle\"/><col align=\"center\" width=\"15%\" valign=\"middle\"/><thead><tr><th align=\"center\" colspan=\"2\" styleCode=\"Lrule Rrule\">Comparisons</th><th styleCode=\"Rrule\">95% Confidence Interval</th><th styleCode=\"Rrule\">p Value</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td rowspan=\"2\" styleCode=\"Lrule Rrule\" valign=\"top\">Trial 1</td><td styleCode=\"Rrule\"> ARAVA vs Placebo</td><td styleCode=\"Rrule\">(-4.0, -1.1)</td><td styleCode=\"Rrule\">0.0007</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\"> Methotrexate vs Placebo</td><td align=\"center\" styleCode=\"Rrule\">(-2.6, -0.2)</td><td styleCode=\"Rrule\">0.0196</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"/><td styleCode=\"Rrule\"> ARAVA vs Methotrexate</td><td styleCode=\"Rrule\">(-2.3, 0.0)</td><td styleCode=\"Rrule\">0.0499</td></tr><tr styleCode=\"Botrule\"><td rowspan=\"3\" styleCode=\"Lrule Rrule\" valign=\"top\">Trial 2</td><td styleCode=\"Rrule\"> ARAVA vs Placebo</td><td styleCode=\"Rrule\">(-6.2, -1.8)</td><td styleCode=\"Rrule\">0.0004</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\"> Sulfasalazine vs Placebo</td><td align=\"center\" styleCode=\"Rrule\">(-6.9, 0.0)</td><td styleCode=\"Rrule\">0.0484</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\"> ARAVA vs Sulfasalazine</td><td align=\"center\" styleCode=\"Rrule\">(-3.3, 1.2)</td><td styleCode=\"Rrule\">NS</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\">Trial 3</td><td styleCode=\"Rrule\"> ARAVA vs Methotrexate</td><td styleCode=\"Rrule\">(-2.2, 7.4)</td><td styleCode=\"Rrule\">NS</td></tr></tbody></table>",
+   "<table width=\"80%\"><col align=\"left\" width=\"15%\" valign=\"middle\"/><col align=\"left\" width=\"32%\" valign=\"middle\"/><col align=\"center\" width=\"38%\" valign=\"middle\"/><col align=\"center\" width=\"15%\" valign=\"middle\"/><thead><tr><th align=\"center\" colspan=\"2\" styleCode=\"Lrule Rrule\">Comparison</th><th styleCode=\"Rrule\">95% Confidence Interval</th><th styleCode=\"Rrule\">p Value</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td rowspan=\"2\" styleCode=\"Lrule Rrule\" valign=\"top\">Trial 1</td><td styleCode=\"Rrule\">ARAVA vs Placebo</td><td styleCode=\"Rrule\">(-0.58, -0.29)</td><td styleCode=\"Rrule\">0.0001</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">ARAVA vs Methotrexate</td><td align=\"center\" styleCode=\"Rrule\">(-0.34, -0.07)</td><td styleCode=\"Rrule\">0.0026</td></tr><tr styleCode=\"Botrule\"><td rowspan=\"2\" styleCode=\"Lrule Rrule\" valign=\"top\">Trial 2</td><td styleCode=\"Rrule\">ARAVA vs Placebo</td><td styleCode=\"Rrule\">(-0.67, -0.36)</td><td styleCode=\"Rrule\">&lt;0.0001</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">ARAVA vs Sulfasalazine</td><td align=\"center\" styleCode=\"Rrule\">(-0.33, -0.03)</td><td styleCode=\"Rrule\">0.0163</td></tr><tr><td styleCode=\"Lrule Rrule\">Trial 3</td><td styleCode=\"Rrule\">ARAVA vs Methotrexate</td><td styleCode=\"Rrule\">(0.01, 0.16)</td><td styleCode=\"Rrule\">0.0221</td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied ARAVA (leflunomide) Tablets Strength Quantity NDC Number Description 10 mg 30 count bottle 0088-2160-30 White, round film-coated tablet embossed with \"ZBN\" on one side. 20 mg 30 count bottle 0088-2161-30 Light yellow, triangular film-coated tablet embossed with \"ZBO\" on one side. 100 mg 3 count blister pack 0088-2162-33 White, round film-coated tablet embossed with \"ZBP\" on one side. Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Protect from light."
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\"><col align=\"left\" width=\"10%\" valign=\"top\"/><col align=\"left\" width=\"20%\" valign=\"top\"/><col align=\"left\" width=\"15%\" valign=\"top\"/><col align=\"left\" width=\"55%\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\">Strength</th><th styleCode=\"Rrule\">Quantity</th><th styleCode=\"Rrule\">NDC Number</th><th styleCode=\"Rrule\">Description</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">10 mg</td><td styleCode=\"Rrule\">30 count bottle</td><td styleCode=\"Rrule\">0088-2160-30</td><td styleCode=\"Rrule\">White, round film-coated tablet embossed with &quot;ZBN&quot; on one side.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">20 mg</td><td styleCode=\"Rrule\">30 count bottle</td><td styleCode=\"Rrule\">0088-2161-30</td><td styleCode=\"Rrule\">Light yellow, triangular film-coated tablet embossed with &quot;ZBO&quot; on one side.</td></tr><tr><td styleCode=\"Lrule Rrule\">100 mg</td><td styleCode=\"Rrule\">3 count blister pack</td><td styleCode=\"Rrule\">0088-2162-33</td><td styleCode=\"Rrule\">White, round film-coated tablet embossed with &quot;ZBP&quot; on one side.</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Protect from light."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Embryo-Fetal Toxicity Advise females of reproductive potential: Of the potential for fetal harm if ARAVA is taken during pregnancy. To notify their healthcare provider immediately if a pregnancy occurs or is suspected. To use effective contraception during treatment with ARAVA and until the active metabolite (teriflunomide) plasma concentration is verified to be less than 0.02 mg/L [see Warnings and Precautions (5.1 , 5.3) , Use in Specific Populations (8.1 , 8.3) , and Clinical Pharmacology (12.3) ] . Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ARAVA during pregnancy [see Use in Specific Populations (8.1) ] . Lactation Advise nursing women to discontinue breastfeeding during treatment with ARAVA [see Use in Specific Populations (8.2) ] . Serious Skin Reactions Advise patients of the possibility of rare, serious skin reactions. Instruct patients to promptly seek medical attention if they develop a skin rash, mucous membrane lesions, or skin ulcers. Investigations Advise patients of the potential hepatotoxic effects of ARAVA and of the need for monitoring liver enzymes. Instruct patients to report if they develop symptoms such as unusual tiredness, abdominal pain or jaundice. Advise patients that they may develop a lowering of their blood counts and should have frequent hematologic monitoring. This is particularly important for patients who are receiving other immunosuppressive therapy concurrently with ARAVA, who have recently discontinued such therapy before starting treatment with ARAVA, or who have had a history of a significant hematologic abnormality. Instruct patients to promptly report if they notice symptoms consistent with pancytopenia, such as easy bruising or bleeding, recurrent infections, fever, paleness or unusual tiredness. Inform patients about the early warning signs of interstitial lung disease and ask them to contact their physician promptly if these symptoms appear or worsen during therapy."
+  ],
+  "set_id": "320f63f2-fac3-4aee-aff8-85724e00ef52",
+  "id": "765327c7-cb5b-4637-84da-4fd9a024ad96",
+  "effective_time": "20250604",
+  "version": "27"
+ }
+}

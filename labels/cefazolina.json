@@ -1,0 +1,759 @@
+{
+ "id_es": "cefazolina",
+ "generic_en": "cefazolin",
+ "search": "openfda.generic_name.exact:\"CEFAZOLIN\"",
+ "downloaded": "2026-11-11T06:38Z",
+ "chosen": {
+  "set_id": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+  "id": "976b22d4-f147-4281-a1af-d87835a9c356",
+  "effective_time": "20260227",
+  "version": "6",
+  "brand_name": [
+   "Cefazolin"
+  ],
+  "generic_name": [
+   "CEFAZOLIN"
+  ],
+  "manufacturer_name": [
+   "WG Critical Care, LLC"
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA211413"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "197d5702-2c20-480e-8246-4d0d21f871be",
+   "id": "2b9bbd67-dfe7-42c4-b474-21f5a655d054",
+   "effective_time": "20261027",
+   "version": "7",
+   "brand_name": [
+    "CEFAZOLIN"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065047"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "5a8c4bb2-a75e-4d7d-91fb-9a95f04fc94b",
+   "id": "9bedb390-7236-4c3f-af74-980d05ee01b8",
+   "effective_time": "20261027",
+   "version": "10",
+   "brand_name": [
+    "CEFAZOLIN"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203661"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "1999084a-124c-45f9-801f-416a1b942c96",
+   "id": "14018851-2d79-41b5-a0be-a58b767796dd",
+   "effective_time": "20260624",
+   "version": "12",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065306"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "1dc9de56-e259-4546-a1db-23119a8a088e",
+   "id": "6cdaf80f-9ba2-4b0f-903d-61e0811ffaae",
+   "effective_time": "20260514",
+   "version": "13",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065047"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "26de1ce9-06a9-486f-b27d-2ac635f018d1",
+   "id": "0297045b-d3c1-4fe2-8ea4-a690e7c7a886",
+   "effective_time": "20260514",
+   "version": "7",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065047"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "9ea55207-6d86-401e-b9b9-73c9534a233f",
+   "id": "445a305c-7f6c-4500-befa-85be0b15cf15",
+   "effective_time": "20260514",
+   "version": "4",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Civica, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065047"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+   "id": "976b22d4-f147-4281-a1af-d87835a9c356",
+   "effective_time": "20260227",
+   "version": "6",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211413"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "00dd6da7-50a8-44c9-b2dc-7948973df392",
+   "id": "48aafe01-7d9c-42a7-bed6-6bff79c63a42",
+   "effective_time": "20260107",
+   "version": "6",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065303"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "c24e604f-16ca-4945-8e9d-277cc67a8c68",
+   "id": "d7b6aa18-1b83-48d3-b52e-b753f1793778",
+   "effective_time": "20251120",
+   "version": "2",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Civica, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065143"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "1367568c-7d27-479f-a4c5-58e99942f686",
+   "id": "290c8b2a-b798-4927-ac77-ff6aed630c6d",
+   "effective_time": "20251101",
+   "version": "1",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Civica, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA216109"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "3d5cc73c-8a41-b285-e063-6294a90a609f",
+   "id": "3d5cc73c-8a42-b285-e063-6294a90a609f",
+   "effective_time": "20250827",
+   "version": "1",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "ProPharma Distribution"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203661"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "570d2583-9ce7-4941-bf7c-6ebc783c0f2b",
+   "id": "3e74d632-7a00-4764-a979-a3364416dd0b",
+   "effective_time": "20250725",
+   "version": "4",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065143"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "0422fe47-c372-494f-bac2-612f550b44a4",
+   "id": "10b501ca-c77f-4b3f-85df-ddf2715bfcd0",
+   "effective_time": "20250715",
+   "version": "13",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203661"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "f17160d4-fc42-4f9c-abb8-d04f01ae6dd1",
+   "id": "7333fedf-6410-4d9a-9a9b-329f98ed0934",
+   "effective_time": "20250407",
+   "version": "21",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "WG Critical Care, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065303"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "18e7366a-1b3e-4010-8f4a-dd559d4f2146",
+   "id": "05cd44b2-275f-44f5-b4f8-22393df834a1",
+   "effective_time": "20250205",
+   "version": "19",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Sandoz Inc"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "PARENTERAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA062831"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "6c7761d3-c154-4802-9876-627cd42913f0",
+   "id": "e32063de-96fe-4fb4-9176-5a9d6dc4a722",
+   "effective_time": "20241231",
+   "version": "13",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA216109"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "06091653-e568-4e82-acc7-aefbce16de17",
+   "id": "a1fc6bdd-6f1b-402f-9e84-b6e5ed5febb4",
+   "effective_time": "20240418",
+   "version": "15",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065143"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "e8bd9e95-8af5-416b-b58c-e1dbe3d052ac",
+   "id": "0cc53b72-80e0-4a82-e063-6394a90a7fdf",
+   "effective_time": "20231218",
+   "version": "7",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Qilu Pharmaceutical Co., Ltd."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203661"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "37a626aa-96dc-4c4d-bfbc-be4f328f918b",
+   "id": "90d68812-6ff8-4372-a838-b415162dd40e",
+   "effective_time": "20231215",
+   "version": "2",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203661"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "0e8d4462-7642-4296-a605-6c1493e91ffd",
+   "id": "0c841753-3bec-fb8a-e063-6294a90a0d2b",
+   "effective_time": "20231214",
+   "version": "2",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209217"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "81d1783a-2baa-4d65-856a-f5ce38d24804",
+   "id": "0c85a6e9-ce7a-2903-e063-6294a90ad28b",
+   "effective_time": "20231214",
+   "version": "6",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209217"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "8a772acc-726d-40e6-88ee-b6075cbf9b28",
+   "id": "9f453c63-7855-47c4-9ac8-adb3cbe1bb26",
+   "effective_time": "20230623",
+   "version": "8",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065047"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "6673be13-4c74-70b9-e053-2a91aa0a211d",
+   "id": "fd165c82-ea9b-c943-e053-6294a90a6425",
+   "effective_time": "20230601",
+   "version": "3",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065047"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "79787707-c84f-f229-e053-2a91aa0a1f16",
+   "id": "fbd8fbec-88d3-1726-e053-6294a90af96d",
+   "effective_time": "20230516",
+   "version": "3",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203661"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "d24529e3-e2b4-46d6-81ba-b7da74501792",
+   "id": "d24529e3-e2b4-46d6-81ba-b7da74501792",
+   "effective_time": "20220801",
+   "version": "1",
+   "brand_name": [
+    "Cefazolin"
+   ],
+   "generic_name": [
+    "CEFAZOLIN"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203661"
+   ],
+   "n_sections": 15
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Dosage and Administration (2.1, 2.2, 2.3) 2/2026"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Cefazolin for Injection is a cephalosporin antibacterial indicated for perioperative prophylaxis in adult patients (1.1). To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection and other antibacterial drugs, Cefazolin for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria (1.2). 1.1 Perioperative Prophylaxis Cefazolin for Injection is indicated for perioperative prophylaxis in adult patients [see Dosage and Administration (2.1, 2.2, 2.3) . The perioperative use of Cefazolin for Injection is indicated in adult surgical patients in whom infection at the operative site would present a serious risk (e.g., during open-heart surgery and prosthetic arthroplasty). The prophylactic administration of Cefazolin for Injection preoperatively, intraoperatively and postoperatively may reduce the incidence of certain postoperative infections in patients undergoing surgical procedures which are classified as contaminated or potentially contaminated (e.g., vaginal hysterectomy, and cholecystectomy in high-risk patients such as those older than 70 years, with acute cholecystitis, obstructive jaundice or common duct bile stones). 1.2 Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection and other antibacterial drugs, Cefazolin for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Cefazolin for Injection, 2 grams/vial: • For intravenous infusion (2.1) • For intravenous bolus injection (2.1) • Not for intramuscular administration (2.1) Cefazolin for Injection, 3 grams/vial: • For intravenous infusion only (2.1) • Not for intravenous bolus injection administration or intramuscular administration (2.1) Table 1: Recommended Dosage for Perioperative Prophylaxis in Adults with CLcr Equal to 55 mL/min or Greater (2.2) Dose administered ½ hour to 1 hour prior to the start of surgery Additional dose during lengthy operative procedures (e.g., 2 hours or more) Dose for 24 hours postoperatively 1 gram (g) to 2 g 500 mg to 1 g 500 mg to 1 g every 6 hours to 8 hours • See full prescribing information for preparation and administration instructions. (2.3) 2.1 Important Administration Instructions • Cefazolin for Injection, 2 grams/vial: Cefazolin for Injection, 2 grams/vial, is for intravenous infusion or intravenous bolus injection in adult patients [see Dosage and Administration (2.2 and 2.3)]. Not for intramuscular administration. • Cefazolin for Injection, 3 grams/vial: Cefazolin for Injection, 3 grams/vial, is for intravenous infusion only in adult patients [see Dosage and Administration (2.2 and 2.3)] . Cefazolin for Injection, 3 grams/vial is not for intravenous bolus injection or intramuscular administration [see Dosage and Administration (2.3)] . 2.2 Recommended Dosage for Perioperative Prophylaxis Use in Adults Recommended Dosage for Perioperative Prophylaxis in Adults with Creatinine Clearance (CLcr) Equal to 55 mL/min or Greater To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended dosages are described in Table 1 below. Administration instructions are as follows: • Cefazolin for Injection, 2 grams/vial is for intravenous infusion or intravenous bolus injection in adult patients [see Dosage and Administration (2.3)] . • Cefazolin for Injection, 3 grams/vial is only for intravenous infusion in adult patients. • Cefazolin for Injection, 3 grams/vial is not for intravenous bolus injection in adult patients [see Dosage and Administration (2.3)] . • Cefazolin for Injection 2 grams/vial and 3 grams/vial are not for intramuscular injection. Table 1: Recommended Dosage for Perioperative Prophylaxis in Adults with CLcr Equal to 55 mL/min or Greater Dose administered ½ hour to 1 hour prior to the start of surgery Additional dose during lengthy operative procedures (e.g., 2 hours or more) Dose for 24 hours postoperatively 1 gram (g) to 2 g 500 mg to 1 g 500 mg to 1 g every 6 hours to 8 hours It is important that (i) the preoperative dose be given just prior (1/2 hour to 1 hour) to the start of surgery so that adequate antibacterial concentrations are present in the serum and tissues at the time of initial surgical incision and (ii) Cefazolin for Injection be administered, if necessary, at appropriate intervals during surgery to provide sufficient concentrations of the antibacterial drug at the anticipated moments of greatest exposure to infective organisms. The perioperative prophylactic administration of Cefazolin for Injection should usually be discontinued within a 24-hour period after the surgical procedure. In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of Cefazolin for Injection may be continued for 3 to 5 days following the completion of surgery. 2.3 Preparation of Cefazolin for Injection Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If particulate matter is evident in reconstituted fluids, the drug solutions should be discarded. Reconstituted solutions may range in color from pale yellow to yellow. Reconstitution and Dilution Intravenous Bolus Injection Administration (2 g vial only) For preparation of intravenous bolus injection (2 grams/vial only) use the following steps: • Reconstitute Cefazolin for Injection, 2 grams/vial single-dose vials with Sterile Water for Injection according to Table 2 below. Shake well until dissolved. • Further dilute vials with an additional 11 mL Sterile Water for Injection and shake well. • Inject the solution intravenously slowly, directly, or through tubing for patients receiving parenteral fluids as follows: a For 1 g dose, inject the solution intravenously slowly over 3 to 5 minutes and b For 2 g dose, inject the solution intravenously slowly over 7 to 11 minutes Table 2: Volume and Concentration for Intravenous Bolus Injection Reconstitution (2 g vial only) Cefazolin for Injection Vial Contents Amount of Sterile Water for Injection for Reconstitution Approximate Reconstituted Concentration Approximate Available Volume 2 grams 5.5 mL 333 mg/mL 6.6 mL Pain associated with intravenous bolus administration has been reported with Cefazolin for Injection. Intermittent or Continuous Intravenous Infusion For intermittent or continuous intravenous infusion, reconstitute Cefazolin for Injection single-dose vials with Sterile Water for Injection according to Table 3 below and shake well . After reconstitution further dilute according to Table 3 using the following diluents: For intermittent or continuous infusion: Dilute reconstituted Cefazolin for Injection in one of the following solutions: • 0.9% Sodium Chloride Injection, USP • 5% Dextrose Injection, USP Discard unused portion. Table 3: Volumes for Reconstitution and Dilution and Final Concentrations for Intermittent or Continuous Intravenous Infusion Cefazolin for Injection Vial Contents Amount of Sterile Water for Injection for Reconstitution Approximate Reconstituted Concentrations Recommended Diluent Volume Approximate Final Concentrations 2 grams 5 mL 317 mg/mL 50 mL 40 mg/mL 100 mL 20 mg/mL 3 grams 7.5 mL 319 mg/mL 100 mL 30 mg/mL Storage of Reconstituted and Diluted Solutions When reconstituted or diluted according to the instructions above, Cefazolin for Injection is stable for 4 hours at room temperature or for 3 days if stored under refrigeration at 2°C to 8°C (36°F to 46°F)."
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"100%\"><col width=\"16%\"/><col width=\"19%\"/><col width=\"19%\"/><tbody><tr styleCode=\"Toprule\"><td colspan=\"3\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Table 1: Recommended Dosage for Perioperative Prophylaxis in Adults with CLcr Equal to 55 mL/min or Greater (2.2)</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Dose administered</content></paragraph><paragraph><content styleCode=\"bold\">&#xBD; hour to 1 hour prior to the start</content></paragraph><paragraph><content styleCode=\"bold\">of surgery</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Additional dose during lengthy operative procedures (e.g., 2 hours or more)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Dose for 24 hours postoperatively</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>1 gram (g) to 2 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>500 mg to 1 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>500 mg to 1 g every 6 hours to 8 hours</paragraph></td></tr></tbody></table>",
+   "<table width=\"100%\"><col width=\"39%\"/><col width=\"29%\"/><col width=\"33%\"/><tbody><tr styleCode=\"Toprule\"><td colspan=\"3\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Table 1: Recommended Dosage for Perioperative Prophylaxis in Adults with CLcr Equal to 55 mL/min or Greater </content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Dose administered</content></paragraph><paragraph><content styleCode=\"bold\">&#xBD; hour to 1 hour prior to the start</content></paragraph><paragraph><content styleCode=\"bold\">of surgery</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Additional dose during lengthy operative procedures (e.g., 2 hours or more)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Dose for 24 hours postoperatively</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>1 gram (g) to 2 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>500 mg to 1 g</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>500 mg to 1 g every 6 hours to 8 hours</paragraph></td></tr></tbody></table>",
+   "<table width=\"100%\"><col width=\"23%\"/><col width=\"23%\"/><col width=\"23%\"/><col width=\"23%\"/><tbody><tr styleCode=\"Toprule\"><td align=\"center\" colspan=\"4\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Table 2: Volume and Concentration for Intravenous Bolus Injection</content></paragraph><paragraph><content styleCode=\"bold\">Reconstitution (2 g vial only)</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Cefazolin for Injection Vial Contents</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Amount of Sterile Water for Injection for <content styleCode=\"underline\">Reconstitution</content></content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Approximate Reconstituted Concentration</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Approximate Available Volume</content></paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>2 grams</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>5.5 mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>333 mg/mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>6.6 mL</paragraph></td></tr></tbody></table>",
+   "<table width=\"100%\"><col width=\"15%\"/><col width=\"21%\"/><col width=\"19%\"/><col width=\"19%\"/><col width=\"26%\"/><tbody><tr styleCode=\"Toprule\"><td align=\"center\" colspan=\"5\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Table 3: Volumes for Reconstitution and Dilution and Final Concentrations for Intermittent or Continuous Intravenous Infusion</content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Cefazolin for Injection Vial Contents</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Amount of Sterile Water for Injection for Reconstitution</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Approximate Reconstituted Concentrations</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Recommended Diluent Volume</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Approximate Final Concentrations</content></paragraph></td></tr><tr><td align=\"center\" rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"middle\"><paragraph>2 grams</paragraph></td><td align=\"center\" rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"middle\"><paragraph>5 mL</paragraph></td><td align=\"center\" rowspan=\"2\" styleCode=\"Rrule Lrule Toprule \" valign=\"middle\"><paragraph>317 mg/mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>50 mL </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>40 mg/mL </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>100 mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>20 mg/mL</paragraph></td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>3 grams</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>7.5 mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>319 mg/mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>100 mL</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>30 mg/mL</paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Cefazolin for Injection, USP: Supplied as 2 grams or 3 grams of cefazolin as a white to cream colored powder in a single-dose vial for reconstitution. For Injection: 2 grams or 3 grams of cefazolin as a powder in a single-dose vial for reconstitution. (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Hypersensitivity to cefazolin or other cephalosporin class antibacterial drugs, penicillins, or other beta-lactams (4.1) 4.1 Hypersensitivity to Cefazolin or the Cephalosporin Class of Antibacterial Drugs, Penicillins, or Other Beta-lactams Cefazolin for Injection is contraindicated in patients who have a history of immediate hypersensitivity reactions (e.g., anaphylaxis, serious skin reactions) to cefazolin or the cephalosporin class of antibacterial drugs, penicillins, or other beta-lactams [see Warnings and Precautions (5.1)] ."
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Hypersensitivity Reactions: Cross-hypersensitivity may occur in up to 10% of patients with a history of penicillin allergy. If an allergic reaction occurs, discontinue the drug. (5.1) • Clostridioides difficile -Associated Diarrhea (CDAD) : May range from mild diarrhea to fatal colitis. Evaluate if diarrhea occurs. (5.3) • Prothrombin Activity : May be associated with a fall in prothrombin activity. Prothrombin time should be monitored in patients at risk and exogenous vitamin K administered as indicated (5.5) 5.1 Hypersensitivity Reactions to Cefazolin, Cephalosporins, Penicillins, or Other Beta-lactams Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterial drugs. Before therapy with Cefazolin for Injection is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefazolin, cephalosporins, penicillins, or carbapenems. Exercise caution if this product is to be given to penicillin-sensitive patients because cross-hypersensitivity among beta-lactam antibacterial drugs has been clearly documented and may occur in up to 10% of patients with a history of penicillin allergy. If an allergic reaction to Cefazolin for Injection occurs, discontinue the drug. 5.2 Seizures in Patients with Renal Impairment Seizures may occur with the administration of Cefazolin for Injection, particularly in patients with renal impairment [see Use in Specific Populations (8.6)] . Discontinue Cefazolin for Injection if seizures occur. Anticonvulsant therapy should be continued in patients with known seizure disorders. 5.3 Clostridioides difficile -Associated Diarrhea Clostridioides difficile -associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefazolin for injection, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B, which contribute to the development of CDAD. Hypertoxin-producing isolates of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial drug use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated. 5.4 Risk of Development of Drug-resistant Bacteria Prescribing Cefazolin for Injection in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. As with other antimicrobials, prolonged use of Cefazolin for Injection may result in overgrowth of nonsusceptible microorganisms. Repeated evaluation of the patient's condition is essential. Should superinfection occur during therapy, appropriate measures should be taken. 5.5 Prothrombin Activity Cefazolin for Injection may be associated with a fall in prothrombin activity. Those at risk include patients with renal or hepatic impairment or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy, and patients previously stabilized on anticoagulant therapy. Prothrombin time should be monitored in patients at risk and exogenous vitamin K administered as indicated. 5.6 Drug/Laboratory Test Interactions Urinary Glucose The administration of cefazolin may result in a false-positive reaction with glucose in the urine when using glucose tests based on Benedict’s copper reduction reaction that determine the amount of reducing substances like glucose in the urine. It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used. Coombs’ Test Positive direct Coombs' tests have been reported during treatment with cefazolin. In hematologic studies or in transfusion cross-matching procedures when antiglobulin tests are performed on the minor side or in Coombs' testing of newborns whose mothers have received cephalosporin antibacterial drugs before parturition, it should be recognized that a positive Coombs' test may be due to the drug."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious adverse reactions to cefazolin for injection are described below and elsewhere in the labeling: • Hypersensitivity Reactions to Cefazolin, Cephalosporins, Penicillins, or Other Beta-lactams [see Warnings and Precautions (5.1)] • Seizures in Patients with Renal Impairment [see Warnings and Precautions (5.2)] • Clostridioides difficile -Associated Diarrhea [see Warnings and Precautions (5.3)] Adult Patients : Most common adverse reactions: gastrointestinal (nausea, vomiting, diarrhea), and allergic reactions (anaphylaxis, urticaria, skin rash). (6) To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The following adverse reactions were reported from clinical trials: Gastrointestinal: Diarrhea, oral candidiasis (oral thrush), mouth ulcers, vomiting, nausea, stomach cramps, epigastric pain, heartburn, flatus, anorexia and pseudomembranous colitis. Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.3)] . Allergic: Anaphylaxis, eosinophilia, urticaria, itching, drug fever, skin rash, Stevens-Johnson syndrome. Hematologic: Neutropenia, leukopenia, thrombocytopenia, thrombocythemia. Hepatic: Transient rise in serum glutamic oxaloacetic transaminase (SGOT), serum glutamic pyruvic transaminase (SGPT), and alkaline phosphatase levels has been observed. Reports of hepatitis have been received. Renal: Reports of increased BUN and creatinine levels, as well as renal failure, have been received. Local Reactions: Instances of phlebitis have been reported at site of injection. Some induration has occurred. Other Reactions: Pruritus (including genital, vulvar and anal pruritus, genital moniliasis, and vaginitis). Dizziness, fainting, lightheadedness, confusion, weakness, tiredness, hypotension, somnolence and headache. 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of cefazolin. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Immune system disorders: Serum sickness-like reaction Renal and urinary disorders: Acute tubulointerstitial nephritis (ATIN) Skin and subcutaneous tissue disorders: Acute generalized exanthematous pustulosis (AGEP) 6.3 Cephalosporin-class Adverse Reactions In addition to the adverse reactions listed above that have been observed in patients treated with cefazolin, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterials: Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal impairment, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, a fall in prothrombin activity, hepatic impairment including cholestasis, and pancytopenia."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS The renal excretion of cefazolin is inhibited by probenecid. Co-administration of probenecid with Cefazolin for Injection is not recommended. Probenecid: The renal excretion of cefazolin is inhibited by probenecid. Co-administration of probenecid with Cefazolin for Injection is not recommended. (7)"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from published prospective cohort studies, case series and case reports over several decades with cephalosporin use, including cefazolin, in pregnant women have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Cefazolin crosses the placenta. Animal reproduction studies with rats, mice and rabbits administered cefazolin during organogenesis at doses 1 to 3 times the maximum recommended human dose (MRHD) did not demonstrate adverse developmental outcomes. In rats subcutaneously administered cefazolin prior to delivery and throughout lactation, there were no adverse effects on offspring at a dose approximately 2 times the MRHD (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Human Data While available studies cannot definitively establish the absence of risk, published data from case-control studies and case reports over several decades have not identified an association with cephalosporin use during pregnancy and major birth defects, miscarriage, or other adverse maternal or fetal outcomes. Available studies have methodologic limitations, including small sample size, retrospective data collection, and inconsistent comparator groups. Animal Data Reproduction studies have been performed in rats, mice and rabbits administered cefazolin during organogenesis at doses of 2000, 4000 and 240 mg/kg/day (approximately 1 to 3 times the maximum recommended human dose on a body surface area comparison). There was no evidence of any adverse effects on embryofetal development due to cefazolin. In a peripostnatal study in rats, cefazolin administered subcutaneously up to 1200 mg/kg/day (approximately 2 times the MRHD based on body surface area comparison) to pregnant dams prior to delivery and through lactation caused no adverse effects on offspring. 8.2 Lactation Risk Summary Data from published literature report that cefazolin is present in human milk but is not expected to accumulate in a breastfed infant. There are no data on the effects of cefazolin on the breastfed child or on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Cefazolin for Injection and any potential adverse effects on the breastfed child from Cefazolin for Injection or from the mother’s underlying condition. 8.4 Pediatric Use Safety and effectiveness of Cefazolin for Injection for perioperative prophylaxis have not been established for pediatric patients. 8.5 Geriatric Use Of the 920 subjects who received cefazolin in clinical studies, 313 (34%) were 65 years and over, while 138 (15%) were 75 years and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function [see Warnings and Precautions (5.2)] . 8.6 Renal Impairment Recommendations for dosage adjustments or intervals for repeat dosing for perioperative prophylaxis in lengthy operative procedures or for postoperative use have not been established for adult patients with impaired renal function (creatinine clearance less than 55 mL/min)."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data from published prospective cohort studies, case series and case reports over several decades with cephalosporin use, including cefazolin, in pregnant women have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Cefazolin crosses the placenta. Animal reproduction studies with rats, mice and rabbits administered cefazolin during organogenesis at doses 1 to 3 times the maximum recommended human dose (MRHD) did not demonstrate adverse developmental outcomes. In rats subcutaneously administered cefazolin prior to delivery and throughout lactation, there were no adverse effects on offspring at a dose approximately 2 times the MRHD (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Human Data While available studies cannot definitively establish the absence of risk, published data from case-control studies and case reports over several decades have not identified an association with cephalosporin use during pregnancy and major birth defects, miscarriage, or other adverse maternal or fetal outcomes. Available studies have methodologic limitations, including small sample size, retrospective data collection, and inconsistent comparator groups. Animal Data Reproduction studies have been performed in rats, mice and rabbits administered cefazolin during organogenesis at doses of 2000, 4000 and 240 mg/kg/day (approximately 1 to 3 times the maximum recommended human dose on a body surface area comparison). There was no evidence of any adverse effects on embryofetal development due to cefazolin. In a peripostnatal study in rats, cefazolin administered subcutaneously up to 1200 mg/kg/day (approximately 2 times the MRHD based on body surface area comparison) to pregnant dams prior to delivery and through lactation caused no adverse effects on offspring."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness of Cefazolin for Injection for perioperative prophylaxis have not been established for pediatric patients."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Of the 920 subjects who received cefazolin in clinical studies, 313 (34%) were 65 years and over, while 138 (15%) were 75 years and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function [see Warnings and Precautions (5.2)] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Accidental overdosage resulting in seizures may occur in patients with renal impairment [see Warnings and Precautions (5.2)]. If seizures associated with accidental overdosage occur, discontinue Cefazolin for Injection and give supportive treatment."
+  ],
+  "description": [
+   "11 DESCRIPTION Cefazolin for Injection USP is a semi-synthetic cephalosporin for parenteral administration. It is the sodium salt of 3-{[(5-methyl-1,3,4-thiadiazol-2-yl)thio]-methyl}-8-oxo-7-[2-(1 H -tetrazol-1-yl)acetamido]-5-thia-1-azabicyclo [4.2.0]oct‑2-ene-2-carboxylic acid. Structural Formula: C 14 H 13 N 8 NaO 4 S 3 M.W. 476.5 Cefazolin for Injection is supplied as a sterile powder in single-dose vials. The 2 g/vial Cefazolin for Injection contains 2 grams of cefazolin (equivalent to 2.097 g of cefazolin sodium). The 3 g/vial Cefazolin for Injection contains 3 grams of cefazolin (equivalent to 3.144 grams of cefazolin sodium). Each vial contains 48 mg of sodium per gram of cefazolin sodium. After reconstitution with sterile water for injection, the drug product solution has a pH of 4.0 to 6.0. Cefazolin for Injection, 2 grams/vial, is intended for intravenous infusion or intravenous bolus injection. Cefazolin for Injection, 2 grams/vial is not for intramuscular administration. Cefazolin for Injection, 3 grams/vial, is intended for intravenous infusion only. Cefazolin for Injection, 3 grams/vial is not for intravenous bolus injection or intramuscular administration [see Dosage and Administration (2.1, 2.2, 2.3)] . structural formula cefazolin"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Cefazolin is an antibacterial drug [see Microbiology (12.4)] . 12.2 Pharmacodynamics The pharmacokinetic/pharmacodynamic relationship for cefazolin has not been evaluated in patients. 12.3 Pharmacokinetics Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose. In a study of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg) in healthy volunteers, cefazolin serum concentrations at the third hour were approximately 28 mcg/mL. Plasma pharmacokinetic parameters of cefazolin in healthy volunteers (N=12) following a single 15-minute IV infusion of 2 grams of Cefazolin for Injection are summarized in Table 4. Table 4: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers N Cmax (mcg/mL) Tmax* (h) AUC0-inf (mcg*h/mL) t1/2 (h) CL (L/h) Vz (L) Single 2 grams Dose as a 15-Minute IV Infusion 12 280.9 (45.9) 0.25 (0.25-0.33) 509.9 (89.3) 2.01 (0.28) 4.03 (0.68) 11.50 (1.53) *Tmax reported as median (range) N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in normal volunteers. Distribution Bile concentrations in patients without obstructive biliary disease can reach or exceed serum concentrations by up to five times; however, in patients with obstructive biliary disease, bile concentrations of cefazolin are considerably lower than serum concentrations (less than 1 mcg/mL). In synovial fluid, the cefazolin concentration becomes comparable to that reached in serum at about 4 hours after drug administration. Studies of cord blood show prompt transfer of cefazolin across the placenta. Cefazolin is present in very low concentrations in the milk of nursing mothers. Elimination The serum half-life for cefazolin is approximately 1.8 hours following IV administration. Excretion Cefazolin is excreted unchanged in the urine. In the first 6 hours approximately 60% of the drug is excreted in the urine and this increases to 70% to 80% within 24 hours. 12.4 Microbiology Mechanism of Action Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Resistance Predominant mechanisms of bacterial resistance to cephalosporins include the presence of extended-spectrum beta-lactamases and enzymatic hydrolysis. Antimicrobial Activity Cefazolin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [ see Indications and Usage (1) ]: Aerobic bacteria Gram-Positive Bacteria Staphylococcus aureus Staphylococcus epidermidis Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes Methicillin-resistant staphylococci are uniformly resistant to cefazolin. Gram-Negative Bacteria Escherichia coli Proteus mirabilis Most isolates of indole positive Proteus ( Proteus vulgaris ), Enterobacter spp., Morganella morganii, Providencia rettgeri, Serratia spp., and Pseudomonas spp. are resistant to cefazolin. Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC ."
+  ],
+  "clinical_pharmacology_table": [
+   "<table width=\"549.9pt\"><col width=\"21%\"/><col width=\"8%\"/><col width=\"12%\"/><col width=\"12%\"/><col width=\"13%\"/><col width=\"11%\"/><col width=\"11%\"/><col width=\"11%\"/><tbody><tr styleCode=\"Toprule\"><td colspan=\"8\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Table 4: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers </content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"/><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">N </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Cmax (mcg/mL) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Tmax*</content></paragraph><paragraph><content styleCode=\"bold\">(h) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">AUC0-inf (mcg*h/mL) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">t1/2 </content></paragraph><paragraph><content styleCode=\"bold\">(h) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">CL (L/h) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Vz (L) </content></paragraph></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Single 2 grams Dose as a 15-Minute IV Infusion </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>12 </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>280.9 (45.9) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>0.25</paragraph><paragraph>(0.25-0.33) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>509.9 (89.3) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>2.01 (0.28) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>4.03 (0.68) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>11.50 (1.53) </paragraph></td></tr></tbody></table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Cefazolin is an antibacterial drug [see Microbiology (12.4)] ."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics The pharmacokinetic/pharmacodynamic relationship for cefazolin has not been evaluated in patients."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose. In a study of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg) in healthy volunteers, cefazolin serum concentrations at the third hour were approximately 28 mcg/mL. Plasma pharmacokinetic parameters of cefazolin in healthy volunteers (N=12) following a single 15-minute IV infusion of 2 grams of Cefazolin for Injection are summarized in Table 4. Table 4: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers N Cmax (mcg/mL) Tmax* (h) AUC0-inf (mcg*h/mL) t1/2 (h) CL (L/h) Vz (L) Single 2 grams Dose as a 15-Minute IV Infusion 12 280.9 (45.9) 0.25 (0.25-0.33) 509.9 (89.3) 2.01 (0.28) 4.03 (0.68) 11.50 (1.53) *Tmax reported as median (range) N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in normal volunteers. Distribution Bile concentrations in patients without obstructive biliary disease can reach or exceed serum concentrations by up to five times; however, in patients with obstructive biliary disease, bile concentrations of cefazolin are considerably lower than serum concentrations (less than 1 mcg/mL). In synovial fluid, the cefazolin concentration becomes comparable to that reached in serum at about 4 hours after drug administration. Studies of cord blood show prompt transfer of cefazolin across the placenta. Cefazolin is present in very low concentrations in the milk of nursing mothers. Elimination The serum half-life for cefazolin is approximately 1.8 hours following IV administration. Excretion Cefazolin is excreted unchanged in the urine. In the first 6 hours approximately 60% of the drug is excreted in the urine and this increases to 70% to 80% within 24 hours."
+  ],
+  "pharmacokinetics_table": [
+   "<table width=\"549.9pt\"><col width=\"21%\"/><col width=\"8%\"/><col width=\"12%\"/><col width=\"12%\"/><col width=\"13%\"/><col width=\"11%\"/><col width=\"11%\"/><col width=\"11%\"/><tbody><tr styleCode=\"Toprule\"><td colspan=\"8\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Table 4: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers </content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"/><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">N </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Cmax (mcg/mL) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Tmax*</content></paragraph><paragraph><content styleCode=\"bold\">(h) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">AUC0-inf (mcg*h/mL) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">t1/2 </content></paragraph><paragraph><content styleCode=\"bold\">(h) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">CL (L/h) </content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Vz (L) </content></paragraph></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Single 2 grams Dose as a 15-Minute IV Infusion </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>12 </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>280.9 (45.9) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>0.25</paragraph><paragraph>(0.25-0.33) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>509.9 (89.3) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>2.01 (0.28) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>4.03 (0.68) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>11.50 (1.53) </paragraph></td></tr></tbody></table>"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis and Mutagenesis Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of Cefazolin for Injection have not been performed. Impairment of Fertility Fertility studies conducted in rats subcutaneously administered cefazolin at doses of 2000 mg/kg/day (approximately 3 times the maximum recommended human dose based on body surface area comparison) showed no impairment of mating and fertility."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis and Mutagenesis Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of Cefazolin for Injection have not been performed. Impairment of Fertility Fertility studies conducted in rats subcutaneously administered cefazolin at doses of 2000 mg/kg/day (approximately 3 times the maximum recommended human dose based on body surface area comparison) showed no impairment of mating and fertility."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Cefazolin for Injection, USP is available in a single-dose vial containing 2 grams or 3 grams of cefazolin as a white to cream colored powder for reconstitution. Each vial contains cefazolin sodium equivalent to 2 grams or 3 grams of cefazolin, and is supplied as follows: 2 grams per Single-Dose Vial: NDC 44567-840-01 Carton of 25: NDC 44567-840-25 3 grams per Single-Dose Vial: NDC 44567-845-01 Carton of 25: NDC 44567-845-25 Store Cefazolin for Injection vials at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature]. Protect from Light. Storage conditions for the reconstituted and diluted solutions are described elsewhere in labeling [see Dosage and Administration (2.3)]."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Serious Allergic Reactions Advise patients that allergic reactions, including serious allergic reactions could occur and that serious reactions require immediate treatment and discontinuation of Cefazolin for Injection. Patients should report to their health care provider any previous allergic reactions to cefazolin, cephalosporins, penicillins, or other similar antibacterials [see Warnings and Precautions (5.1)] . Seizures Advise patients that seizures could occur with Cefazolin for Injection. Instruct patients to inform a healthcare provider at once of any signs and symptoms of seizures, for immediate treatment or discontinuation of Cefazolin for Injection [see Warnings and Precautions (5.2)] . Diarrhea Advise patients that diarrhea is a common problem caused by antibacterials including cefazolin for injection, which usually ends when the antibacterial is discontinued. Sometimes after starting treatment with antibacterials, including Cefazolin for Injection, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterials. If this occurs, patients should contact a physician as soon as possible [see Warnings and Precautions (5.3)] . Antibacterial Resistance Patients should be counseled that antibacterial drugs, including Cefazolin for Injection should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When Cefazolin for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Cefazolin for Injection or other antibacterial drugs in the future [see Warnings and Precautions (5.4)] . Manufactured for: WG Critical Care, LLC Paramus, NJ 07652 Made in Italy"
+  ],
+  "set_id": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+  "id": "976b22d4-f147-4281-a1af-d87835a9c356",
+  "effective_time": "20260227",
+  "version": "6"
+ }
+}

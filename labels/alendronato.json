@@ -1,0 +1,709 @@
+{
+ "id_es": "alendronato",
+ "generic_en": "alendronate",
+ "search": "openfda.generic_name:\"alendronate\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "09765234-01bc-40f7-b9bb-c167056f3909",
+  "id": "1ff6288a-ab6b-4443-81bd-fd1a37a2bd16",
+  "effective_time": "20260206",
+  "version": "6",
+  "brand_name": [
+   "Binosto"
+  ],
+  "generic_name": [
+   "ALENDRONATE SODIUM"
+  ],
+  "manufacturer_name": [
+   "Radius Health, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA202344"
+  ],
+  "n_sections": 35
+ },
+ "candidates": [
+  {
+   "set_id": "b63421af-ec03-1de7-e053-2a95a90abec6",
+   "id": "5dfb197c-2666-d326-e063-6294a90a9fde",
+   "effective_time": "20261016",
+   "version": "7",
+   "brand_name": [
+    "Alendronate"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM TABLET"
+   ],
+   "manufacturer_name": [
+    "Marlex Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090258"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "c7e470d6-508e-466e-a78d-060bbbc9745c",
+   "id": "55b5e077-d254-8e68-e063-6294a90aebcb",
+   "effective_time": "20260703",
+   "version": "8",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "54d6543d-4239-58b1-e054-00144ff88e88",
+   "id": "54f0bd6e-614e-f240-e063-6394a90a2a25",
+   "effective_time": "20260623",
+   "version": "6",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "c4358ba7-1bf8-4b0a-9407-5ac279d04555",
+   "id": "54dc50d7-1915-d260-e063-6394a90aae7d",
+   "effective_time": "20260622",
+   "version": "23",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "4323d3aa-cbb0-41e2-aba7-7a94a0516993",
+   "id": "aed28579-c63c-48b1-8b67-e24137d0709a",
+   "effective_time": "20260612",
+   "version": "17",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090124"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "ffdd2496-d253-419b-85a6-8c615f7545f1",
+   "id": "ae2e410c-e759-4879-9b18-aba62f096312",
+   "effective_time": "20260612",
+   "version": "7",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090124"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "d52cf007-5775-4dea-9f43-b1907b6ffe81",
+   "id": "a9a47d5f-b49e-4c5c-b3dd-1e1172fde5f4",
+   "effective_time": "20260522",
+   "version": "11",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090124"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "815a87c4-e489-4eb9-9a2e-fb7a16642f01",
+   "id": "c2dfac3c-41f9-42fa-bb6b-54b3fd9d1512",
+   "effective_time": "20260521",
+   "version": "27",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090124"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "e2fac28d-ad91-4cdc-a003-9fdeac073f76",
+   "id": "596c3f30-9197-4456-97d0-16e5bb2deb8f",
+   "effective_time": "20260325",
+   "version": "12",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Cipla USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "14e931fd-2c5f-4d90-b7db-5980706f4a56",
+   "id": "1013aa0b-071e-46c4-8bed-207bb10ac2fd",
+   "effective_time": "20260312",
+   "version": "10",
+   "brand_name": [
+    "FOSAMAX"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Organon LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020560"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "83e3ba94-d882-4b5c-87cb-af1eb0997efc",
+   "id": "e88fb31d-cfc6-4e20-95fa-90fa26bf8644",
+   "effective_time": "20260216",
+   "version": "9",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "eeb65442-6b3c-485c-9c5d-9cf40df4451e",
+   "id": "2e465e5f-913b-46e8-b69d-cfca38d04db7",
+   "effective_time": "20260213",
+   "version": "11",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090124"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "09765234-01bc-40f7-b9bb-c167056f3909",
+   "id": "1ff6288a-ab6b-4443-81bd-fd1a37a2bd16",
+   "effective_time": "20260206",
+   "version": "6",
+   "brand_name": [
+    "Binosto"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Radius Health, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA202344"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "10307e7e-9a84-4aa1-8c5c-4b209cffe4d1",
+   "id": "10aeb309-f6e1-49c6-ac6f-ad743db28527",
+   "effective_time": "20260203",
+   "version": "10",
+   "brand_name": [
+    "FOSAMAX PLUS D"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM AND CHOLECALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Organon LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021762"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "c910bb05-279b-4ffa-a867-46f4a0853ed5",
+   "id": "56e063a8-8c3d-4445-91fd-0c8806c2b127",
+   "effective_time": "20260115",
+   "version": "4",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090520"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "a24fd39c-34a7-4de2-9439-781e612189ca",
+   "id": "460d461d-4807-2ed0-e063-6394a90aad4a",
+   "effective_time": "20251216",
+   "version": "27",
+   "brand_name": [
+    "Alendronate"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Hangzhou Minsheng Binjiang Pharmaceutical Co., Ltd."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090258"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "fe1dd324-eb02-4a73-97f5-9b77a7df10a7",
+   "id": "789fd89e-ccc6-4b79-9611-c35fa3061ba7",
+   "effective_time": "20251205",
+   "version": "12",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "81589178-10c9-4806-91eb-54e638d35b8d",
+   "id": "844cce5a-3714-4394-be02-a25a6255330a",
+   "effective_time": "20251029",
+   "version": "2",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214512"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "2baf8516-4148-9007-e063-6394a90a8094",
+   "id": "2bade79f-52fa-d5c1-e063-6294a90aa204",
+   "effective_time": "20250114",
+   "version": "1",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "873442b0-1932-4fa6-ba25-b4d3505f4128",
+   "id": "ba2f861a-83ad-41c5-92f7-118ccd734232",
+   "effective_time": "20241113",
+   "version": "5",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090124"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "91a0f73a-d8cd-4197-b431-40707a2150b9",
+   "id": "2012c7a8-8aa7-4c18-a8c3-fe74d74ac873",
+   "effective_time": "20230825",
+   "version": "2",
+   "brand_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "EXELAN PHARMACEUTICALS INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076768"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "6c4d13fb-490c-4ea9-9b04-003c8d8e9f0c",
+   "id": "6db7f218-1343-4b68-b72d-6605f1838e97",
+   "effective_time": "20230301",
+   "version": "5",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090124"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "c23fb7fe-c6b9-4f77-bde7-992222b589d3",
+   "id": "0bb7b70c-72e0-4bb8-9d3a-0fc8e4762dd1",
+   "effective_time": "20210202",
+   "version": "40",
+   "brand_name": [
+    "Alendronate Sodium"
+   ],
+   "generic_name": [
+    "ALENDRONATE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals of New York LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075710"
+   ],
+   "n_sections": 34
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Warnings and Precautions, Atypical Fractures Including Femoral Fractures ( 5.5 ) 02/2026"
+  ],
+  "recent_major_changes_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"70%\" align=\"left\" valign=\"top\"/><col width=\"30%\" align=\"right\" valign=\"top\"/><tbody><tr><td><list styleCode=\"disc\" listType=\"unordered\"><item>Warnings and Precautions, Atypical Fractures Including Femoral Fractures (<linkHtml href=\"#S5.5\">5.5</linkHtml>)</item></list></td><td>02/2026</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE BINOSTO is a bisphosphonate indicated for: Treatment of osteoporosis in postmenopausal women ( 1.1 ) Treatment to increase bone mass in men with osteoporosis ( 1.2 ) Limitation of use: Optimal duration of use has not been determined. For patients at low-risk for fracture, consider drug discontinuation after 3 to 5 years of use ( 1.3 ) 1.1 Treatment of Osteoporosis in Postmenopausal Women BINOSTO effervescent tablet 70 mg is indicated for the treatment of osteoporosis in postmenopausal women. For the treatment of osteoporosis, alendronate sodium increases bone mass and reduces the incidence of fractures, including those of the hip and spine (vertebral compression fractures). [See Clinical Studies (14.1) .] 1.2 Treatment to Increase Bone Mass in Men With Osteoporosis BINOSTO is indicated for treatment to increase bone mass in men with osteoporosis [see Clinical Studies (14.2) ] . 1.3 Important Limitations of Use The optimal duration of use has not been determined. The safety and effectiveness of BINOSTO for the treatment of osteoporosis are based on clinical data of four years duration. All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis. Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use. Patients who discontinue therapy should have their risk for fracture re-evaluated periodically."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION 70 mg BINOSTO effervescent tablet once weekly. ( 2.1 , 2.2 ) Instruct patients to: ( 2.3 ) Dissolve one tablet of BINOSTO in approximately half a glass of plain room temperature water (4 oz). Wait at least 5 minutes after the effervescence stops, stir the solution for approximately 10 seconds and consume contents. Swallow solution at least 30 minutes before the first food, beverage, or medication of the day. Avoid lying down for at least 30 minutes after taking BINOSTO and until after the first food of the day. 2.1 Treatment of Osteoporosis in Postmenopausal Women The recommended dosage is one 70 mg effervescent tablet once weekly. 2.2 Treatment to Increase Bone Mass in Men With Osteoporosis The recommended dosage is one 70 mg effervescent tablet once weekly. 2.3 Important Administration Instructions Instruct patients to do the following to assure adequate drug absorption and to decrease the risk of esophageal adverse reactions: Take BINOSTO upon arising for the day and at least 30 minutes before the first food, beverage, or medication of the day. Patients should not swallow the undissolved effervescent tablet, should not chew the effervescent tablet or allow the effervescent tablet to dissolve in their mouths because of the risk for oropharyngeal irritation [see Warnings and Precautions (5.1) ]. Dissolve the effervescent tablet in 4 ounces room temperature plain water only (not mineral water or flavored water). Wait at least 5 minutes after the effervescence stops and then stir the buffered solution for approximately 10 seconds and ingest. Avoid lying down for at least 30 minutes after taking BINOSTO and until after their first food of the day. Do not take BINOSTO at bedtime or before arising for the day. Failure to follow these instructions may increase the risk of esophageal adverse reactions [see Warnings and Precautions (5.1) ] . 2.4 Recommendations for Calcium and Vitamin D Supplementation Instruct patients to take supplemental calcium and vitamin D if dietary intake is inadequate [see Warnings and Precautions (5.2) ] . Patients at increased risk for vitamin D insufficiency (e.g., over the age of 70 years, nursing home-bound, or chronically ill) may need vitamin D supplementation. Patients with gastrointestinal malabsorption syndromes may require higher doses of vitamin D supplementation and measurement of 25-hydroxyvitamin D should be considered. 2.5 Administration Instructions for Missed Doses If the once-weekly dose is missed, instruct patients to take one dose on the morning after they remember. They should not take 2 doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS BINOSTO effervescent tablets are round, flat-faced, white to off-white tablets, 25 mm in diameter, with beveled edges, with \"M\" debossed on one side, containing 91.37 mg of alendronate sodium, which is equivalent to 70 mg of free alendronic acid. After dissolution the solution has a pH of 4.8-5.4. Effervescent tablets, 70 mg ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS BINOSTO is contraindicated in patients with the following conditions: Abnormalities of the esophagus which delay esophageal emptying such as stricture or achalasia [see Warnings and Precautions (5.1) ] Inability to stand or sit upright for at least 30 minutes [see Dosage and Administration (2.3) ; Warnings and Precautions (5.1) ] Do not administer BINOSTO to patients at increased risk of aspiration Hypocalcemia [see Warnings and Precautions (5.2) ] Hypersensitivity to any component of this product. Hypersensitivity reactions including urticaria and angioedema have been reported [see Adverse Reactions (6.2) ] . Abnormalities of the esophagus which delay emptying such as stricture or achalasia ( 4 , 5.1 ) Inability to stand/sit upright for at least 30 minutes ( 4 , 5.1 ) Increased risk of aspiration. ( 4 ) Hypocalcemia ( 4 , 5.2 ) Hypersensitivity to any component of this product ( 4 , 6.2 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Upper Gastrointestinal Adverse Reactions can occur. Instruct patients to follow dosing instructions. Discontinue if new or worsening symptoms occur. ( 5.1 ) Hypocalcemia can worsen and must be corrected prior to use. ( 5.2 ) Severe Bone, Joint, Muscle Pain may occur. Discontinue use if severe symptoms develop. ( 5.3 ) Osteonecrosis of the Jaw has been reported. ( 5.4 ) Atypical Fractures Including Femoral Fractures have been reported. Patients with new thigh or groin pain should be evaluated to rule out a femoral fracture. Risk/benefit of continuing bisphosphonate therapy should be re-evaluated in these patients and interruption of bisphosphonate therapy should be considered. ( 5.5 ) Sodium Content: Each tablet contains 603 mg sodium, equivalent to 1532 mg NaCl. Use caution in patients on sodium restriction. ( 5.7 ) 5.1 Upper Gastrointestinal Adverse Reactions BINOSTO, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa. Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when BINOSTO is given to patients with active upper gastrointestinal problems (such as known Barrett's esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis, or ulcers). Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates including alendronate sodium. In some cases these have been severe and required hospitalization. Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue BINOSTO and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn. The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including alendronate sodium, and/or who continue to take oral bisphosphonates including alendronate sodium after developing symptoms suggestive of esophageal irritation. Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2.3) ] . In patients who cannot comply with dosing instructions due to mental disability, therapy with BINOSTO should be used under appropriate supervision. There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials [see Adverse Reactions (6.2) ] . 5.2 Mineral Metabolism Hypocalcemia must be corrected before initiating therapy with BINOSTO [see Contraindications (4) ]. Other disorders affecting mineral metabolism (such as vitamin D deficiency) should also be effectively treated. In patients with these conditions, serum calcium and symptoms of hypocalcemia should be monitored during therapy with BINOSTO. Presumably due to the effects of BINOSTO on increasing bone mineral, small, asymptomatic decreases in serum calcium and phosphate may occur. Patients should receive adequate calcium and vitamin D intake. 5.3 Musculoskeletal Pain In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates that are approved for the treatment of osteoporosis [see Adverse Reactions (6.2) ] . This category of drugs includes BINOSTO. Most of the patients were postmenopausal women. The time to onset of symptoms varied from one day to several months after starting the drug. Discontinue use if severe symptoms develop. Most patients had relief of symptoms after stopping. A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate. In placebo-controlled clinical studies of alendronate sodium, the percentages of patients with these symptoms were similar in the alendronate sodium and placebo groups. 5.4 Osteonecrosis of the Jaw Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including alendronate sodium. Known risk factors for osteonecrosis of the jaw include invasive dental procedures (e.g., tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (e.g., chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (e.g., periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures). The risk of ONJ may increase with duration of exposure to bisphosphonates. For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ. Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment. Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy should receive care by an oral surgeon. In these patients, extensive dental surgery to treat ONJ may exacerbate the condition. Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment. 5.5 Atypical Fractures Including Femoral Fractures Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported during treatment with bisphosphonates, including alendronate sodium, in patients with osteoporosis. Atypical femur and other fractures most commonly occur with minimal or no trauma to the affected area. These fractures occurred anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution. Atypical fractures of other bones have also been reported. They may be bilateral. These fractures can also occur in osteoporotic patients who have not been treated with bisphosphonates. Concomitant treatment with glucocorticoids may also induce these fractures. Prodromal pain in the affected area, usually presenting as dull, aching pain, weeks to months before a complete fracture occurs was reported by patients. Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture. Bone pain in other locations should also be considered for evaluation of atypical fracture. Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb. Risk/benefit of continuing bisphosphonate therapy should be re-evaluated in these patients and interruption of bisphosphonate therapy should be considered. 5.6 Renal Impairment BINOSTO is not recommended for patients with creatinine clearance <35 mL/min. 5.7 Patients Sensitive to High Sodium Intake Each BINOSTO effervescent tablet contains 603 mg of sodium, equivalent to approximately 1532 mg of salt (NaCl). Use caution in patients who must restrict their sodium intake, including some patients with a history of heart failure, hypertension, or other cardiovascular diseases [see Patient Counseling Information (17.3) ]."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse drug reactions are described elsewhere in the labeling: Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1) ] Mineral Metabolism [see Warnings and Precautions (5.2) ] Musculoskeletal Pain [see Warnings and Precautions (5.3) ] Osteonecrosis of the Jaw [see Warnings and Precautions (5.4) ] Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5) ] Renal Impairment [see Warnings and Precautions (5.6) ] Patients sensitive to High Sodium Intake [see Warnings and Precautions (5.7) ] The most common adverse reactions (incidence greater than or equal to 3%) are abdominal pain, acid regurgitation, constipation, diarrhea, dyspepsia, musculoskeletal pain, and nausea. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Radius Health, Inc. at 1-855-672-3487 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. The safety of BINOSTO (alendronate sodium) effervescent tablet 70 mg is based on clinical trial data of alendronate sodium 10 mg daily and alendronate sodium 70 mg weekly. Treatment of Osteoporosis in Postmenopausal Women Daily Dosing The safety of alendronate sodium 10 mg daily in the treatment of postmenopausal osteoporosis was assessed in four clinical trials that enrolled 7453 women aged 44-84 years. Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n=994); Study 3 was the three year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n=2027) and Study 4 was the four-year clinical fracture cohort of FIT (n=4432). Overall, 3620 patients were exposed to placebo and 3432 patients exposed to alendronate. Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials. In Study 1 and Study 2 all women received 500 mg elemental calcium as carbonate. In Study 3 and Study 4 all women with dietary calcium intake less than 1000 mg per day received 500 mg calcium and 250 IU Vitamin D per day. Among patients treated with alendronate 10 mg or placebo in Study 1 and Study 2, and all patients in Study 3 and Study 4, the incidence of all-cause mortality was 1.8% in the placebo group and 1.8% in the alendronate group. The incidence of serious adverse events was 30.7% in the placebo group and 30.9% in the alendronate group. The percentage of patients who discontinued the study due to any clinical adverse event was 9.5% in the placebo group and 8.9% in the alendronate group. Adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate or placebo are presented in Table 1. Table 1 Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients United States/Multinational Studies Fracture Intervention Trial Alendronate Sodium 10 mg/day for three years Placebo Alendronate Sodium 5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years Placebo % (N = 196) % (N = 397) % (N = 3236) % (N = 3223) Gastrointestinal Abdominal pain 6.6 4.8 1.5 1.5 Nausea 3.6 4.0 1.1 1.5 Dyspepsia 3.6 3.5 1.1 1.2 Constipation 3.1 1.8 0.0 0.2 Diarrhea 3.1 1.8 0.6 0.3 Flatulence 2.6 0.5 0.2 0.3 Acid regurgitation 2.0 4.3 1.1 0.9 Esophageal ulcer 1.5 0.0 0.1 0.1 Vomiting 1.0 1.5 0.2 0.3 Dysphagia 1.0 0.0 0.1 0.1 Abdominal distention 1.0 0.8 0.0 0.0 Gastritis 0.5 1.3 0.6 0.7 Musculoskeletal Musculoskeletal (bone, muscle or joint) pain 4.1 2.5 0.4 0.3 Muscle cramp 0.0 1.0 0.2 0.1 Nervous system/psychiatric Headache 2.6 1.5 0.2 0.2 Dizziness 0.0 1.0 0.0 0.1 Special senses Taste perversion 0.5 1.0 0.1 0.0 Rarely, rash and erythema have occurred. Gastrointestinal Adverse Reactions: One patient treated with alendronate sodium (10 mg/day), who had a history of peptic ulcer disease and gastrectomy and who was taking concomitant aspirin developed an anastomotic ulcer with mild hemorrhage, which was considered drug related. Aspirin and alendronate sodium were discontinued and the patient recovered. In the Study 1 and Study 2 populations, 49-54% had a history of gastrointestinal disorders at baseline and 54-89% used nonsteroidal anti-inflammatory drugs or aspirin at some time during the studies [ see Warnings and Precautions (5.1) ]. Laboratory Test Findings: In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking alendronate versus approximately 12% and 3% of those taking placebo. However, the incidences of decreases in serum calcium to less than 8.0 mg/dL (2.0 mM) and serum phosphate to less than or equal to 2.0 mg/dL (0.65 mM) were similar in both treatment groups. Weekly Dosing The safety of alendronate sodium 70 mg once weekly for the treatment of postmenopausal osteoporosis was assessed in a one-year, double-blind, multicenter study comparing alendronate 70 mg once weekly and alendronate 10 mg daily. The overall safety and tolerability profiles of once weekly alendronate 70 mg and alendronate 10 mg daily were similar. The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients in either treatment group are presented in Table 2. Table 2 Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients Once Weekly Alendronate Sodium 70 mg % (N = 519) Once Daily Alendronate Sodium 10 mg % (N = 370) Gastrointestinal Abdominal pain 3.7 3.0 Dyspepsia 2.7 2.2 Acid regurgitation 1.9 2.4 Nausea 1.9 2.4 Abdominal distention 1.0 1.4 Constipation 0.8 1.6 Flatulence 0.4 1.6 Gastritis 0.2 1.1 Gastric ulcer 0.0 1.1 Musculoskeletal Musculoskeletal (bone, muscle, joint) pain 2.9 3.2 Muscle cramp 0.2 1.1 Osteoporosis in Men In two placebo-controlled, double-blind, multicenter studies in men (a two-year study of alendronate sodium 10 mg/day and a one-year study of once weekly alendronate sodium 70 mg) the rates of discontinuation of therapy due to any clinical adverse event were 2.7% for alendronate 10 mg/day vs. 10.5% for placebo, and 6.4% for once weekly alendronate 70 mg vs. 8.6% for placebo. The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 2% of patients treated with either alendronate or placebo are presented in the following table. Table 3 Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients Two-Year Study One-Year Study Once Daily Alendronate Sodium Once Weekly Alendronate Sodium 10 mg % (N = 146) Placebo % (N = 95) 70 mg % (N = 109) Placebo % (N = 58) Gastrointestinal Acid regurgitation 4.1 3.2 0.0 0.0 Flatulence 4.1 1.1 0.0 0.0 Gastroesophageal reflux disease 0.7 3.2 2.8 0.0 Dyspepsia 3.4 0.0 2.8 1.7 Diarrhea 1.4 1.1 2.8 0.0 Abdominal pain 2.1 1.1 0.9 3.4 Nausea 2.1 0.0 0.0 0.0 6.2 Post-Marketing Experience The following adverse reactions have been identified during post-approval use of alendronate sodium or bisphosphonate products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Body as a Whole : hypersensitivity reactions including urticaria and angioedema. Transient symptoms of myalgia, malaise, asthenia and fever have been reported with alendronate, typically in association with initiation of treatment. Symptomatic hypocalcemia has occurred, generally in association with predisposing conditions. Peripheral edema. Gastrointestinal : esophagitis, esophageal erosions, esophageal ulcers, esophageal stricture or perforation, and oropharyngeal ulceration. Gastric or duodenal ulcers, some severe and with complications have also been reported [see Dosage and Administration (2.3) ; Warnings and Precautions (5.1) ] . Dental : Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported [see Warnings and Precautions (5.4) ] . Musculoskeletal : bone, joint, and/or muscle pain, occasionally severe and incapacitating [see Warnings and Precautions (5.3) ] ; joint swelling; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.5 ] . Nervous system : dizziness and vertigo. Pulmonary: acute asthma exacerbations Skin : rash (occasionally with photosensitivity), pruritus, alopecia, severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis. Special Senses : uveitis, scleritis or episcleritis. Cholesteatoma of the external auditory canal (focal osteonecrosis)."
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"80%\"><caption>Table 1 Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients</caption><col width=\"28%\" align=\"left\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><thead><tr><th/><th colspan=\"2\"><content styleCode=\"underline\">United States/Multinational Studies</content></th><th colspan=\"2\"><content styleCode=\"underline\">Fracture Intervention Trial</content></th></tr><tr><th/><th>Alendronate Sodium<footnote>10 mg/day for three years</footnote></th><th>Placebo</th><th>Alendronate Sodium<footnote>5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years </footnote></th><th>Placebo</th></tr><tr><th/><th valign=\"bottom\">% (N = 196)</th><th valign=\"bottom\">% (N = 397)</th><th valign=\"bottom\">% (N = 3236)</th><th valign=\"bottom\">% (N = 3223)</th></tr></thead><tbody><tr><td colspan=\"5\">Gastrointestinal</td></tr><tr><td> Abdominal pain</td><td>6.6</td><td>4.8</td><td>1.5</td><td>1.5</td></tr><tr><td> Nausea</td><td>3.6</td><td>4.0</td><td>1.1</td><td>1.5</td></tr><tr><td> Dyspepsia</td><td>3.6</td><td>3.5</td><td>1.1</td><td>1.2</td></tr><tr><td> Constipation</td><td>3.1</td><td>1.8</td><td>0.0</td><td>0.2</td></tr><tr><td> Diarrhea</td><td>3.1</td><td>1.8</td><td>0.6</td><td>0.3</td></tr><tr><td> Flatulence</td><td>2.6</td><td>0.5</td><td>0.2</td><td>0.3</td></tr><tr><td> Acid regurgitation</td><td>2.0</td><td>4.3</td><td>1.1</td><td>0.9</td></tr><tr><td> Esophageal ulcer</td><td>1.5</td><td>0.0</td><td>0.1</td><td>0.1</td></tr><tr><td> Vomiting</td><td>1.0</td><td>1.5</td><td>0.2</td><td>0.3</td></tr><tr><td> Dysphagia</td><td>1.0</td><td>0.0</td><td>0.1</td><td>0.1</td></tr><tr><td> Abdominal distention</td><td>1.0</td><td>0.8</td><td>0.0</td><td>0.0</td></tr><tr><td> Gastritis</td><td>0.5</td><td>1.3</td><td>0.6</td><td>0.7</td></tr><tr><td colspan=\"5\">Musculoskeletal</td></tr><tr><td> Musculoskeletal (bone, muscle or joint) pain</td><td>4.1</td><td>2.5</td><td>0.4</td><td>0.3</td></tr><tr><td> Muscle cramp</td><td>0.0</td><td>1.0</td><td>0.2</td><td>0.1</td></tr><tr><td colspan=\"5\">Nervous system/psychiatric</td></tr><tr><td> Headache</td><td>2.6</td><td>1.5</td><td>0.2</td><td>0.2</td></tr><tr><td> Dizziness</td><td>0.0</td><td>1.0</td><td>0.0</td><td>0.1</td></tr><tr><td colspan=\"5\">Special senses</td></tr><tr><td> Taste perversion</td><td>0.5</td><td>1.0</td><td>0.1</td><td>0.0</td></tr></tbody></table>",
+   "<table width=\"80%\"><caption>Table 2 Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients</caption><col width=\"33%\" align=\"left\" valign=\"top\"/><col width=\"33%\" align=\"center\" valign=\"top\"/><col width=\"34%\" align=\"center\" valign=\"top\"/><thead><tr><th/><th>Once Weekly Alendronate Sodium 70 mg % (N = 519)</th><th>Once Daily Alendronate Sodium 10 mg % (N = 370)</th></tr></thead><tbody><tr><td colspan=\"3\">Gastrointestinal</td></tr><tr><td> Abdominal pain</td><td>3.7</td><td>3.0</td></tr><tr><td> Dyspepsia</td><td>2.7</td><td>2.2</td></tr><tr><td> Acid regurgitation</td><td>1.9</td><td>2.4</td></tr><tr><td> Nausea</td><td>1.9</td><td>2.4</td></tr><tr><td> Abdominal distention</td><td>1.0</td><td>1.4</td></tr><tr><td> Constipation</td><td>0.8</td><td>1.6</td></tr><tr><td> Flatulence</td><td>0.4</td><td>1.6</td></tr><tr><td> Gastritis</td><td>0.2</td><td>1.1</td></tr><tr><td> Gastric ulcer</td><td>0.0</td><td>1.1</td></tr><tr><td colspan=\"3\">Musculoskeletal</td></tr><tr><td> Musculoskeletal (bone, muscle, joint) pain</td><td>2.9</td><td>3.2</td></tr><tr><td> Muscle cramp</td><td>0.2</td><td>1.1</td></tr></tbody></table>",
+   "<table width=\"80%\"><caption>Table 3 Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients</caption><col width=\"20%\" align=\"left\" valign=\"top\"/><col width=\"20%\" align=\"center\" valign=\"top\"/><col width=\"20%\" align=\"center\" valign=\"top\"/><col width=\"20%\" align=\"center\" valign=\"top\"/><col width=\"20%\" align=\"center\" valign=\"top\"/><thead><tr><th/><th colspan=\"2\"><content styleCode=\"underline\">Two-Year Study</content></th><th colspan=\"2\"><content styleCode=\"underline\">One-Year Study</content></th></tr><tr><th/><th>Once Daily Alendronate Sodium</th><th/><th>Once Weekly Alendronate Sodium</th><th/></tr><tr><th/><th>10 mg % (N = 146)</th><th>Placebo % (N = 95)</th><th>70 mg % (N = 109)</th><th>Placebo % (N = 58)</th></tr></thead><tbody><tr><td colspan=\"5\">Gastrointestinal</td></tr><tr><td> Acid regurgitation</td><td>4.1</td><td>3.2</td><td>0.0</td><td>0.0</td></tr><tr><td> Flatulence</td><td>4.1</td><td>1.1</td><td>0.0</td><td>0.0</td></tr><tr><td> Gastroesophageal reflux disease</td><td>0.7</td><td>3.2</td><td>2.8</td><td>0.0</td></tr><tr><td> Dyspepsia</td><td>3.4</td><td>0.0</td><td>2.8</td><td>1.7</td></tr><tr><td> Diarrhea</td><td>1.4</td><td>1.1</td><td>2.8</td><td>0.0</td></tr><tr><td> Abdominal pain</td><td>2.1</td><td>1.1</td><td>0.9</td><td>3.4</td></tr><tr><td> Nausea</td><td>2.1</td><td>0.0</td><td>0.0</td><td>0.0</td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Calcium supplements, antacids or oral medications containing multivalent cations interfere with absorption of alendronate. ( 7.1 ) Use caution when co-prescribing aspirin/nonsteroidal anti- inflammatory drugs that may worsen gastrointestinal irritation. ( 7.2 , 7.3 ) 7.1 Calcium Supplements/Antacids Co-administration of BINOSTO and calcium, antacids, or oral medications containing multivalent cations will interfere with absorption of BINOSTO. Therefore, instruct patients to wait at least one-half hour after taking BINOSTO before taking any other oral medications. 7.2 Aspirin In clinical studies, the incidence of upper gastrointestinal adverse events was increased in patients receiving concomitant therapy with daily doses of alendronate sodium greater than 10 mg and aspirin-containing products. 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs) BINOSTO may be administered to patients taking NSAIDs. In a 3-year, controlled, clinical study (n=2027) during which a majority of patients received concomitant NSAIDs, the incidence of upper gastrointestinal adverse events was similar in patients taking alendronate sodium 5 or 10 mg/day compared to those taking placebo. However, since NSAID use is associated with gastrointestinal irritation, caution should be used during concomitant use with BINOSTO. 7.4 Levothyroxine The bioavailability of alendronate was slightly decreased when BINOSTO and levothyroxine were co-administered to healthy subjects [see Clinical Pharmacology (12.3) ] ."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pregnancy: Discontinue when pregnancy is recognized. ( 8.1 ) BINOSTO is not indicated for use in pediatric patients. ( 8.4 ) BINOSTO is not recommended in patients with renal impairment (creatinine clearance less than 35 mL/min). ( 5.6 , 8.6 ) 8.1 Pregnancy Risk Summary Available data on the use of BINOSTO in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes. Discontinue BINOSTO when pregnancy is recognized. In animal reproduction studies, daily oral administration of alendronate to rats from before mating through the end of gestation or lactation showed decreased postimplantation survival and decreased pup body weight gain starting at doses equivalent to less than half of the highest recommended 40 mg clinical daily dose (based on body surface area, mg/m 2 ). Oral administration of alendronate to rats during organogenesis resulted in reduced fetal ossification starting at doses 3 times the 40 mg clinical daily dose. No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at doses equivalent to approximately 10 times the 40 mg clinical daily dose. Delayed or failed delivery of offspring, protracted parturition, and late pregnancy maternal and fetal deaths due to maternal hypocalcemia occurred in rats at oral doses as low as one tenth the 40 mg clinical daily dose (See Data ). Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years. The amount of bisphosphonate incorporated into adult bone and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use. Consequently, based on the mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy. The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on the risk has not been studied. The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defects, loss, or other adverse outcomes. In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Data Animal Data Reproduction studies in rats dosed orally from before mating to the end of gestation or lactation showed decreased postimplantation survival starting at 2 mg/kg/day and decreased body weight gain starting at 1 mg/kg/day, doses equivalent to less than half the 40 mg clinical daily dose based on body surface area, mg/m 2 . Incidence of incomplete fetal ossification in vertebral, skull, and sternebral bones were increased in rats dosed orally during organogenesis starting at 10 mg/kg/day (approximately 3 times the 40 mg clinical daily dose). No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at up to 35 mg/kg/day (equivalent to approximately 10 times the 40 mg clinical daily dose). Both total and ionized calcium decreased in pregnant rats dosed orally with 15 mg/kg/day alendronate (approximately 4 times the 40 mg clinical daily dose) resulting in delays and failures of delivery. Protracted parturition due to maternal hypocalcemia was observed when rats were treated from before mating through gestation starting at 0.5 mg/kg/day (approximately one tenth the 40 mg clinical daily dose). Maternotoxicity (late pregnancy deaths) also occurred in female rats treated orally with 15 mg/kg/day (approximately 4 times the 40 mg clinical daily dose) for varying gestational time periods. These maternal deaths were lessened but not eliminated by cessation of treatment. Calcium supplementation in the drinking water or by subcutaneous minipump to rats dosed orally with 15 mg/kg/day alendronate could not ameliorate the hypocalcemia or prevent the dystocia-related maternal and neonatal deaths. However, intravenous calcium supplementation prevented maternal, but not neonatal deaths. 8.2 Lactation Risk Summary It is not known whether alendronate is present in human breast milk, affects human milk production, or has effects on the breastfed infant. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BINOSTO and any potential adverse effects on the breastfed child from BINOSTO or from the underlying maternal condition. 8.4 Pediatric Use BINOSTO is not indicated for use in pediatric patients. The safety and efficacy of alendronate sodium were examined in a randomized, double-blind, placebo-controlled two-year study of 139 pediatric patients, aged 4-18 years, with severe osteogenesis imperfecta (OI). One-hundred-and-nine patients were randomized to 5 mg alendronate sodium daily (weight less than 40 kg) or 10 mg alendronate sodium daily (weight greater than or equal to 40 kg) and 30 patients to placebo. The mean baseline lumbar spine BMD Z-score of the patients was -4.5. The mean change in lumbar spine BMD Z-score from baseline to Month 24 was 1.3 in the alendronate-treated patients and 0.1 in the placebo- treated patients. Treatment with alendronate sodium did not reduce the risk of fracture. Sixteen percent of the alendronate-treated patients who sustained a radiologically-confirmed fracture by Month 12 of the study had delayed fracture healing (callus remodeling) or fracture non-union when assessed radiographically at Month 24 compared with 9% of the placebo-treated patients. In alendronate-treated patients, bone histomorphometry data obtained at Month 24 demonstrated decreased bone turnover and delayed mineralization time; however, there were no mineralization defects. There were no statistically significant differences between the alendronate sodium and placebo groups in reduction of bone pain. The oral bioavailability in children was similar to that observed in adults. The overall safety profile of alendronate sodium in osteogenesis imperfecta patients treated for up to 24 months was generally similar to that of adults with osteoporosis treated with alendronate sodium. However, there was an increased occurrence of vomiting in osteogenesis imperfecta patients treated with alendronate sodium compared to placebo. During the 24-month treatment period, vomiting was observed in 32 of 109 (29.4%) patients treated with alendronate sodium and 3 of 30 (10%) patients treated with placebo. In a pharmacokinetic study, 6 of 24 pediatric osteogenesis imperfecta patients who received a single oral dose of alendronate sodium 35 or 70 mg developed fever, flu-like symptoms, and/or mild lymphocytopenia within 24 to 48 hours after administration. These events, lasting no more than 2 to 3 days and responding to acetaminophen, are consistent with an acute-phase response that has been reported in patients receiving bisphosphonates, including alendronate sodium. [See Adverse Reactions (6.2) .] 8.5 Geriatric Use Of the patients receiving alendronate sodium in the Fracture Intervention Trial (FIT), 71% (n=2302) were greater than or equal to 65 years of age and 17% (n=550) were greater than or equal to 75 years of age. Of the patients receiving alendronate sodium in the United States and Multinational osteoporosis treatment studies in women and osteoporosis studies in men, [see Clinical Studies (14.1) , (14.2) ] , 45% and 54%, respectively, were 65 years of age or over. No overall differences in efficacy or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out. 8.6 Renal Impairment BINOSTO is not recommended for patients with creatinine clearance less than 35 mL/min . No dosage adjustment is necessary in patients with creatinine clearance values between 35-60 mL/min [see Clinical Pharmacology (12.3) ] . 8.7 Hepatic Impairment As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic impairment. No dosage adjustment is necessary [see Clinical Pharmacology (12.3) ] ."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data on the use of BINOSTO in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes. Discontinue BINOSTO when pregnancy is recognized. In animal reproduction studies, daily oral administration of alendronate to rats from before mating through the end of gestation or lactation showed decreased postimplantation survival and decreased pup body weight gain starting at doses equivalent to less than half of the highest recommended 40 mg clinical daily dose (based on body surface area, mg/m 2 ). Oral administration of alendronate to rats during organogenesis resulted in reduced fetal ossification starting at doses 3 times the 40 mg clinical daily dose. No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at doses equivalent to approximately 10 times the 40 mg clinical daily dose. Delayed or failed delivery of offspring, protracted parturition, and late pregnancy maternal and fetal deaths due to maternal hypocalcemia occurred in rats at oral doses as low as one tenth the 40 mg clinical daily dose (See Data ). Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years. The amount of bisphosphonate incorporated into adult bone and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use. Consequently, based on the mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy. The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on the risk has not been studied. The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defects, loss, or other adverse outcomes. In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Data Animal Data Reproduction studies in rats dosed orally from before mating to the end of gestation or lactation showed decreased postimplantation survival starting at 2 mg/kg/day and decreased body weight gain starting at 1 mg/kg/day, doses equivalent to less than half the 40 mg clinical daily dose based on body surface area, mg/m 2 . Incidence of incomplete fetal ossification in vertebral, skull, and sternebral bones were increased in rats dosed orally during organogenesis starting at 10 mg/kg/day (approximately 3 times the 40 mg clinical daily dose). No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at up to 35 mg/kg/day (equivalent to approximately 10 times the 40 mg clinical daily dose). Both total and ionized calcium decreased in pregnant rats dosed orally with 15 mg/kg/day alendronate (approximately 4 times the 40 mg clinical daily dose) resulting in delays and failures of delivery. Protracted parturition due to maternal hypocalcemia was observed when rats were treated from before mating through gestation starting at 0.5 mg/kg/day (approximately one tenth the 40 mg clinical daily dose). Maternotoxicity (late pregnancy deaths) also occurred in female rats treated orally with 15 mg/kg/day (approximately 4 times the 40 mg clinical daily dose) for varying gestational time periods. These maternal deaths were lessened but not eliminated by cessation of treatment. Calcium supplementation in the drinking water or by subcutaneous minipump to rats dosed orally with 15 mg/kg/day alendronate could not ameliorate the hypocalcemia or prevent the dystocia-related maternal and neonatal deaths. However, intravenous calcium supplementation prevented maternal, but not neonatal deaths."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use BINOSTO is not indicated for use in pediatric patients. The safety and efficacy of alendronate sodium were examined in a randomized, double-blind, placebo-controlled two-year study of 139 pediatric patients, aged 4-18 years, with severe osteogenesis imperfecta (OI). One-hundred-and-nine patients were randomized to 5 mg alendronate sodium daily (weight less than 40 kg) or 10 mg alendronate sodium daily (weight greater than or equal to 40 kg) and 30 patients to placebo. The mean baseline lumbar spine BMD Z-score of the patients was -4.5. The mean change in lumbar spine BMD Z-score from baseline to Month 24 was 1.3 in the alendronate-treated patients and 0.1 in the placebo- treated patients. Treatment with alendronate sodium did not reduce the risk of fracture. Sixteen percent of the alendronate-treated patients who sustained a radiologically-confirmed fracture by Month 12 of the study had delayed fracture healing (callus remodeling) or fracture non-union when assessed radiographically at Month 24 compared with 9% of the placebo-treated patients. In alendronate-treated patients, bone histomorphometry data obtained at Month 24 demonstrated decreased bone turnover and delayed mineralization time; however, there were no mineralization defects. There were no statistically significant differences between the alendronate sodium and placebo groups in reduction of bone pain. The oral bioavailability in children was similar to that observed in adults. The overall safety profile of alendronate sodium in osteogenesis imperfecta patients treated for up to 24 months was generally similar to that of adults with osteoporosis treated with alendronate sodium. However, there was an increased occurrence of vomiting in osteogenesis imperfecta patients treated with alendronate sodium compared to placebo. During the 24-month treatment period, vomiting was observed in 32 of 109 (29.4%) patients treated with alendronate sodium and 3 of 30 (10%) patients treated with placebo. In a pharmacokinetic study, 6 of 24 pediatric osteogenesis imperfecta patients who received a single oral dose of alendronate sodium 35 or 70 mg developed fever, flu-like symptoms, and/or mild lymphocytopenia within 24 to 48 hours after administration. These events, lasting no more than 2 to 3 days and responding to acetaminophen, are consistent with an acute-phase response that has been reported in patients receiving bisphosphonates, including alendronate sodium. [See Adverse Reactions (6.2) .]"
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Of the patients receiving alendronate sodium in the Fracture Intervention Trial (FIT), 71% (n=2302) were greater than or equal to 65 years of age and 17% (n=550) were greater than or equal to 75 years of age. Of the patients receiving alendronate sodium in the United States and Multinational osteoporosis treatment studies in women and osteoporosis studies in men, [see Clinical Studies (14.1) , (14.2) ] , 45% and 54%, respectively, were 65 years of age or over. No overall differences in efficacy or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Significant lethality after single oral doses was seen in female rats and mice at 552 mg/kg (3256 mg/m 2 ) and 966 mg/kg (2898 mg/m 2 ), respectively. In males, these values were slightly higher, 626 and 1280 mg/kg, respectively. There was no lethality in dogs at oral doses up to 200 mg/kg (4000 mg/m 2 ). No specific information is available on the treatment of overdosage with BINOSTO. Hypocalcemia, hypophosphatemia, and upper gastrointestinal adverse events, such as upset stomach, heartburn, esophagitis, gastritis, or ulcer, may result from oral overdosage. Milk or antacids should be given to bind alendronate. Due to the risk of esophageal irritation, vomiting should not be induced and the patient should remain fully upright. Dialysis would not be beneficial."
+  ],
+  "description": [
+   "11 DESCRIPTION BINOSTO (alendronate sodium) is a bisphosphonate that acts as a specific inhibitor of osteoclast-mediated bone resorption. Bisphosphonates are synthetic analogs of pyrophosphate that bind to the hydroxyapatite found in bone. Alendronate sodium is chemically described as (4 amino-1-hydroxybutylidene) bisphosphonic acid, monosodium salt, trihydrate. The molecular formula of alendronate sodium is C 4 H 12 NNaO 7 P 2 ∙ 3H 2 O and its molecular weight is 325.12. The structural formula of alendronate sodium is Alendronate sodium is a white or almost white crystalline powder that is soluble in water, very slightly soluble in methanol, and practically insoluble in methylene chloride. BINOSTO for oral administration is an effervescent tablet formulation that must be dissolved in water before use. Each individual tablet contains 91.37 mg of alendronate sodium, which is equivalent to 70 mg of free alendronic acid. Each tablet also contains the following inactive ingredients: monosodium citrate anhydrous, citric acid anhydrous, sodium hydrogen carbonate, and sodium carbonate anhydrous as buffering agents, strawberry flavor, acesulfame potassium, and sucralose. 70 mg of BINOSTO effervescent tablet contains 603 mg of sodium and 17 mg of phosphorus. Once the effervescent tablet is dissolved in water, the alendronate sodium is present in a citrate-buffered solution of pH 4.8 to 5.4. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Animal studies have indicated the following mode of action. At the cellular level, alendronate shows preferential localization to sites of bone resorption, specifically under osteoclasts. The osteoclasts adhere normally to the bone surface but lack the ruffled border that is indicative of active resorption. Alendronate does not interfere with osteoclast recruitment or attachment, but it does inhibit osteoclast activity. Studies in mice on the localization of radioactive [ 3 H]alendronate in bone showed about 10-fold higher uptake on osteoclast surfaces than on osteoblast surfaces. Bones examined 6 and 49 days after [ 3 H]alendronate administration in rats and mice, respectively, showed that normal bone was formed on top of the alendronate, which was incorporated inside the matrix. While incorporated in bone matrix, alendronate is not pharmacologically active. Thus, alendronate must be continuously administered to suppress osteoclasts on newly formed resorption surfaces. Histomorphometry in baboons and rats showed that alendronate treatment reduces bone turnover (i.e., the number of sites at which bone is remodeled). In addition, bone formation exceeds bone resorption at these remodeling sites, leading to progressive gains in bone mass. 12.2 Pharmacodynamics Alendronate is a bisphosphonate that binds to bone hydroxyapatite and specifically inhibits the activity of osteoclasts, the bone-resorbing cells. Alendronate reduces bone resorption with no direct effect on bone formation, although the latter process is ultimately reduced because bone resorption and formation are coupled during bone turnover. Osteoporosis in Postmenopausal Women Osteoporosis is characterized by low bone mass that leads to an increased risk of fracture. The diagnosis can be confirmed by the finding of low bone mass, evidence of fracture on x-ray, a history of osteoporotic fracture, or height loss or kyphosis, indicative of vertebral (spinal) fracture. Osteoporosis occurs in both males and females but is most common among women following the menopause, when bone turnover increases and the rate of bone resorption exceeds that of bone formation. These changes result in progressive bone loss and lead to osteoporosis in a significant proportion of women over age 50. Fractures, usually of the spine, hip, and wrist, are the common consequences. From age 50 to age 90, the risk of hip fracture in white women increases 50-fold and the risk of vertebral fracture 15- to 30-fold. It is estimated that approximately 40% of 50-year-old women will sustain one or more osteoporosis-related fractures of the spine, hip, or wrist during their remaining lifetimes. Hip fractures, in particular, are associated with substantial morbidity, disability, and mortality. Daily oral doses of alendronate sodium (5, 20, and 40 mg for six weeks) in postmenopausal women produced biochemical changes indicative of dose-dependent inhibition of bone resorption, including decreases in urinary calcium and urinary markers of bone collagen degradation (such as deoxypyridinoline and cross-linked N-telopeptides of type I collagen). These biochemical changes tended to return toward baseline values as early as 3 weeks following the discontinuation of therapy with alendronate and did not differ from placebo after 7 months. Long-term treatment of osteoporosis with alendronate sodium 10 mg/day (for up to five years) reduced urinary excretion of markers of bone resorption, deoxypyridinoline and cross-linked N-telopeptides of type l collagen, by approximately 50% and 70%, respectively, to reach levels similar to those seen in healthy premenopausal women. Similar decreases were seen in patients in osteoporosis prevention studies who received alendronate sodium 5 mg/day. The decrease in the rate of bone resorption indicated by these markers was evident as early as 1 month and at 3 to 6 months reached a plateau that was maintained for the entire duration of treatment with alendronate sodium. In osteoporosis treatment studies alendronate sodium 10 mg/day decreased the markers of bone formation, osteocalcin and bone specific alkaline phosphatase by approximately 50%, and total serum alkaline phosphatase by approximately 25 to 30% to reach a plateau after 6 to 12 months. In osteoporosis prevention studies alendronate sodium 5 mg/day decreased osteocalcin and total serum alkaline phosphatase by approximately 40% and 15%, respectively. Similar reductions in the rate of bone turnover were observed in postmenopausal women during one-year studies with once weekly alendronate sodium 70 mg for the treatment of osteoporosis and once weekly alendronate sodium 35 mg for the prevention of osteoporosis. These data indicate that the rate of bone turnover reached a new steady state, despite the progressive increase in the total amount of alendronate deposited within bone. As a result of inhibition of bone resorption, asymptomatic reductions in serum calcium and phosphate concentrations were also observed following treatment with alendronate sodium. In the long-term studies, reductions from baseline in serum calcium (approximately 2%) and phosphate (approximately 4 to 6%) were evident the first month after the initiation of alendronate sodium 10 mg. No further decreases in serum calcium were observed for the five-year duration of treatment; however, serum phosphate returned toward prestudy levels during years three through five. Similar reductions were observed with alendronate sodium 5 mg/day. In one-year studies with once weekly alendronate sodium 35 and 70 mg, similar reductions were observed at 6 and 12 months. The reduction in serum phosphate may reflect not only the positive bone mineral balance due to alendronate sodium but also a decrease in renal phosphate reabsorption. Osteoporosis in Men Treatment of men with osteoporosis with alendronate sodium 10 mg/day for two years reduced urinary excretion of cross-linked N-telopeptides of type I collagen by approximately 60% and bone-specific alkaline phosphatase by approximately 40%. Similar reductions were observed in a one-year study in men with osteoporosis receiving once weekly alendronate sodium 70 mg. 12.3 Pharmacokinetics Absorption Relative to an intravenous (IV) reference dose, the mean oral bioavailability of alendronate in women was 0.64% for doses ranging from 5 to 70 mg when administered after an overnight fast and two hours before a standardized breakfast. Oral bioavailability of the 10 mg tablet in men (0.59%) was similar to that in women when administered after an overnight fast and 2 hours before breakfast. BINOSTO 70 mg effervescent tablet and alendronate sodium 70 mg tablet are bioequivalent. A study evaluating the effect of food on the bioavailability of BINOSTO was performed in 119 healthy women. Bioavailability was decreased (by approximately 50%) when 70 mg alendronate sodium was administered 15 minutes before a standardized breakfast, when compared to dosing 4 hours before eating. In studies of treatment and prevention of osteoporosis, alendronate was effective when administered at least 30 minutes before breakfast. Bioavailability was negligible whether alendronate sodium was administered with or up to 2 hours after a standardized breakfast. Concomitant administration of alendronate with coffee or orange juice reduced bioavailability by approximately 60%. Distribution Preclinical studies (in male rats) show that alendronate sodium transiently distributes to soft tissues following 1 mg/kg IV administration but is then rapidly redistributed to bone or excreted in the urine. The mean steady-state volume of distribution, exclusive of bone, is at least 28 L in humans. Concentrations of drug in plasma following therapeutic oral doses are too low (less than 5 ng/mL) for analytical detection. Protein binding in human plasma is approximately 78%. Metabolism There is no evidence that alendronate sodium is metabolized in animals or humans. Excretion Following a single IV dose of [ 14 C]alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces. Following a single 10 mg IV dose, the renal clearance of alendronate was 71 mL/min (64, 78; 90% confidence interval [CI]), and systemic clearance did not exceed 200 mL/min. Plasma concentrations fell by more than 95% within 6 hours following IV administration. The terminal half-life in humans is estimated to exceed 10 years, probably reflecting release of alendronate from the skeleton. Based on the above, it is estimated that after 10 years of oral treatment with alendronate sodium (10 mg daily) the amount of alendronate released daily from the skeleton is approximately 25% of that absorbed from the gastrointestinal tract. Specific Populations Gender: Bioavailability and the fraction of an intravenous dose excreted in urine were similar in men and women. Geriatric: Bioavailability and disposition (urinary excretion) were similar in elderly and younger patients. No dosage adjustment is necessary in elderly patients . Race: Pharmacokinetic differences due to race have not been studied. Renal Impairment: Preclinical studies show that, in rats with kidney failure, increasing amounts of drug are present in plasma, kidney, spleen, and tibia. In healthy controls, drug that is not deposited in bone is rapidly excreted in the urine. No evidence of saturation of bone uptake was found after 3 weeks dosing with cumulative intravenous doses of 35 mg/kg in young male rats. Although no formal renal impairment pharmacokinetic study has been conducted in patients, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function. Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function. No dosage adjustment is necessary for patients with creatinine clearance 35 to 60 mL/min. BINOSTO is not recommended for patients with creatinine clearance less than 35 mL/min due to lack of experience with alendronate in renal failure. Hepatic Impairment: As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic impairment. No dosage adjustment is necessary. Drug Interactions Ranitidine: Intravenous ranitidine was shown to double the bioavailability of oral alendronate. The clinical significance of this increased bioavailability and whether similar increases will occur in patients given oral H 2 -antagonists is unknown. Prednisone: In healthy subjects, oral prednisone (20 mg three times daily for five days) did not produce a clinically meaningful change in the oral bioavailability of alendronate (a mean increase ranging from 20 to 44%). Calcium and Multivalent Cations: Products containing calcium and other multivalent cations are likely to interfere with absorption of alendronate. Levothyroxine: The geometric mean AUC(0-∞) and C max of alendronate decreased by 7% (point estimate: 0.93; 90% CI: 0.79-1.08) and 9% (point estimate: 0.91; 90% CI: 0.77-1.08), respectively, when a single dose of BINOSTO (70 mg alendronate) and 600 mcg levothyroxine were given concomitantly to 29 healthy male and female subjects."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Animal studies have indicated the following mode of action. At the cellular level, alendronate shows preferential localization to sites of bone resorption, specifically under osteoclasts. The osteoclasts adhere normally to the bone surface but lack the ruffled border that is indicative of active resorption. Alendronate does not interfere with osteoclast recruitment or attachment, but it does inhibit osteoclast activity. Studies in mice on the localization of radioactive [ 3 H]alendronate in bone showed about 10-fold higher uptake on osteoclast surfaces than on osteoblast surfaces. Bones examined 6 and 49 days after [ 3 H]alendronate administration in rats and mice, respectively, showed that normal bone was formed on top of the alendronate, which was incorporated inside the matrix. While incorporated in bone matrix, alendronate is not pharmacologically active. Thus, alendronate must be continuously administered to suppress osteoclasts on newly formed resorption surfaces. Histomorphometry in baboons and rats showed that alendronate treatment reduces bone turnover (i.e., the number of sites at which bone is remodeled). In addition, bone formation exceeds bone resorption at these remodeling sites, leading to progressive gains in bone mass."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Alendronate is a bisphosphonate that binds to bone hydroxyapatite and specifically inhibits the activity of osteoclasts, the bone-resorbing cells. Alendronate reduces bone resorption with no direct effect on bone formation, although the latter process is ultimately reduced because bone resorption and formation are coupled during bone turnover. Osteoporosis in Postmenopausal Women Osteoporosis is characterized by low bone mass that leads to an increased risk of fracture. The diagnosis can be confirmed by the finding of low bone mass, evidence of fracture on x-ray, a history of osteoporotic fracture, or height loss or kyphosis, indicative of vertebral (spinal) fracture. Osteoporosis occurs in both males and females but is most common among women following the menopause, when bone turnover increases and the rate of bone resorption exceeds that of bone formation. These changes result in progressive bone loss and lead to osteoporosis in a significant proportion of women over age 50. Fractures, usually of the spine, hip, and wrist, are the common consequences. From age 50 to age 90, the risk of hip fracture in white women increases 50-fold and the risk of vertebral fracture 15- to 30-fold. It is estimated that approximately 40% of 50-year-old women will sustain one or more osteoporosis-related fractures of the spine, hip, or wrist during their remaining lifetimes. Hip fractures, in particular, are associated with substantial morbidity, disability, and mortality. Daily oral doses of alendronate sodium (5, 20, and 40 mg for six weeks) in postmenopausal women produced biochemical changes indicative of dose-dependent inhibition of bone resorption, including decreases in urinary calcium and urinary markers of bone collagen degradation (such as deoxypyridinoline and cross-linked N-telopeptides of type I collagen). These biochemical changes tended to return toward baseline values as early as 3 weeks following the discontinuation of therapy with alendronate and did not differ from placebo after 7 months. Long-term treatment of osteoporosis with alendronate sodium 10 mg/day (for up to five years) reduced urinary excretion of markers of bone resorption, deoxypyridinoline and cross-linked N-telopeptides of type l collagen, by approximately 50% and 70%, respectively, to reach levels similar to those seen in healthy premenopausal women. Similar decreases were seen in patients in osteoporosis prevention studies who received alendronate sodium 5 mg/day. The decrease in the rate of bone resorption indicated by these markers was evident as early as 1 month and at 3 to 6 months reached a plateau that was maintained for the entire duration of treatment with alendronate sodium. In osteoporosis treatment studies alendronate sodium 10 mg/day decreased the markers of bone formation, osteocalcin and bone specific alkaline phosphatase by approximately 50%, and total serum alkaline phosphatase by approximately 25 to 30% to reach a plateau after 6 to 12 months. In osteoporosis prevention studies alendronate sodium 5 mg/day decreased osteocalcin and total serum alkaline phosphatase by approximately 40% and 15%, respectively. Similar reductions in the rate of bone turnover were observed in postmenopausal women during one-year studies with once weekly alendronate sodium 70 mg for the treatment of osteoporosis and once weekly alendronate sodium 35 mg for the prevention of osteoporosis. These data indicate that the rate of bone turnover reached a new steady state, despite the progressive increase in the total amount of alendronate deposited within bone. As a result of inhibition of bone resorption, asymptomatic reductions in serum calcium and phosphate concentrations were also observed following treatment with alendronate sodium. In the long-term studies, reductions from baseline in serum calcium (approximately 2%) and phosphate (approximately 4 to 6%) were evident the first month after the initiation of alendronate sodium 10 mg. No further decreases in serum calcium were observed for the five-year duration of treatment; however, serum phosphate returned toward prestudy levels during years three through five. Similar reductions were observed with alendronate sodium 5 mg/day. In one-year studies with once weekly alendronate sodium 35 and 70 mg, similar reductions were observed at 6 and 12 months. The reduction in serum phosphate may reflect not only the positive bone mineral balance due to alendronate sodium but also a decrease in renal phosphate reabsorption. Osteoporosis in Men Treatment of men with osteoporosis with alendronate sodium 10 mg/day for two years reduced urinary excretion of cross-linked N-telopeptides of type I collagen by approximately 60% and bone-specific alkaline phosphatase by approximately 40%. Similar reductions were observed in a one-year study in men with osteoporosis receiving once weekly alendronate sodium 70 mg."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Relative to an intravenous (IV) reference dose, the mean oral bioavailability of alendronate in women was 0.64% for doses ranging from 5 to 70 mg when administered after an overnight fast and two hours before a standardized breakfast. Oral bioavailability of the 10 mg tablet in men (0.59%) was similar to that in women when administered after an overnight fast and 2 hours before breakfast. BINOSTO 70 mg effervescent tablet and alendronate sodium 70 mg tablet are bioequivalent. A study evaluating the effect of food on the bioavailability of BINOSTO was performed in 119 healthy women. Bioavailability was decreased (by approximately 50%) when 70 mg alendronate sodium was administered 15 minutes before a standardized breakfast, when compared to dosing 4 hours before eating. In studies of treatment and prevention of osteoporosis, alendronate was effective when administered at least 30 minutes before breakfast. Bioavailability was negligible whether alendronate sodium was administered with or up to 2 hours after a standardized breakfast. Concomitant administration of alendronate with coffee or orange juice reduced bioavailability by approximately 60%. Distribution Preclinical studies (in male rats) show that alendronate sodium transiently distributes to soft tissues following 1 mg/kg IV administration but is then rapidly redistributed to bone or excreted in the urine. The mean steady-state volume of distribution, exclusive of bone, is at least 28 L in humans. Concentrations of drug in plasma following therapeutic oral doses are too low (less than 5 ng/mL) for analytical detection. Protein binding in human plasma is approximately 78%. Metabolism There is no evidence that alendronate sodium is metabolized in animals or humans. Excretion Following a single IV dose of [ 14 C]alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces. Following a single 10 mg IV dose, the renal clearance of alendronate was 71 mL/min (64, 78; 90% confidence interval [CI]), and systemic clearance did not exceed 200 mL/min. Plasma concentrations fell by more than 95% within 6 hours following IV administration. The terminal half-life in humans is estimated to exceed 10 years, probably reflecting release of alendronate from the skeleton. Based on the above, it is estimated that after 10 years of oral treatment with alendronate sodium (10 mg daily) the amount of alendronate released daily from the skeleton is approximately 25% of that absorbed from the gastrointestinal tract. Specific Populations Gender: Bioavailability and the fraction of an intravenous dose excreted in urine were similar in men and women. Geriatric: Bioavailability and disposition (urinary excretion) were similar in elderly and younger patients. No dosage adjustment is necessary in elderly patients . Race: Pharmacokinetic differences due to race have not been studied. Renal Impairment: Preclinical studies show that, in rats with kidney failure, increasing amounts of drug are present in plasma, kidney, spleen, and tibia. In healthy controls, drug that is not deposited in bone is rapidly excreted in the urine. No evidence of saturation of bone uptake was found after 3 weeks dosing with cumulative intravenous doses of 35 mg/kg in young male rats. Although no formal renal impairment pharmacokinetic study has been conducted in patients, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function. Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function. No dosage adjustment is necessary for patients with creatinine clearance 35 to 60 mL/min. BINOSTO is not recommended for patients with creatinine clearance less than 35 mL/min due to lack of experience with alendronate in renal failure. Hepatic Impairment: As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic impairment. No dosage adjustment is necessary. Drug Interactions Ranitidine: Intravenous ranitidine was shown to double the bioavailability of oral alendronate. The clinical significance of this increased bioavailability and whether similar increases will occur in patients given oral H 2 -antagonists is unknown. Prednisone: In healthy subjects, oral prednisone (20 mg three times daily for five days) did not produce a clinically meaningful change in the oral bioavailability of alendronate (a mean increase ranging from 20 to 44%). Calcium and Multivalent Cations: Products containing calcium and other multivalent cations are likely to interfere with absorption of alendronate. Levothyroxine: The geometric mean AUC(0-∞) and C max of alendronate decreased by 7% (point estimate: 0.93; 90% CI: 0.79-1.08) and 9% (point estimate: 0.91; 90% CI: 0.77-1.08), respectively, when a single dose of BINOSTO (70 mg alendronate) and 600 mcg levothyroxine were given concomitantly to 29 healthy male and female subjects."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Harderian gland (a retro-orbital gland not present in humans) adenomas were increased in high-dose female mice (p=0.003) in a 92-week oral carcinogenicity study at doses of alendronate of 1, 3, and 10 mg/kg/day (males) or 1, 2, and 5 mg/kg/day (females). These doses are equivalent to 0.12 to 1.2 times a maximum recommended daily dose of 40 mg, based on surface area, mg/m 2 . The relevance of this finding to humans is unknown. Parafollicular cell (thyroid) adenomas were increased in high-dose male rats (p=0.003) in a 2-year oral carcinogenicity study at doses of 1 and 3.75 mg/kg body weight. These doses are equivalent to 0.26 and 1 times a 40 mg human daily dose based on surface area, mg/m 2 . The relevance of this finding to humans is unknown. Alendronate sodium was not genotoxic in the in vitro microbial mutagenesis assay with and without metabolic activation, in an in vitro mammalian cell mutagenesis assay, in an in vitro alkaline elution assay in rat hepatocytes, and in an in vivo chromosomal aberration assay in mice. In an in vitro chromosomal aberration assay in Chinese hamster ovary cells, however, alendronate gave equivocal results. Alendronate sodium had no effect on fertility (male or female) in rats at oral doses up to 5 mg/kg/day (1.3 times a 40 mg human daily dose based on surface area, mg/m 2 ). 13.2 Animal Toxicology and/or Pharmacology The relative inhibitory activities on bone resorption and mineralization of alendronate and etidronate were compared in the Schenk assay, which is based on histological examination of the epiphyses of growing rats. In this assay, the lowest dose of alendronate that interfered with bone mineralization (leading to osteomalacia) was 6000-fold the antiresorptive dose. The corresponding ratio for etidronate was one to one. These data suggest that alendronate administered in therapeutic doses is highly unlikely to induce osteomalacia."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Harderian gland (a retro-orbital gland not present in humans) adenomas were increased in high-dose female mice (p=0.003) in a 92-week oral carcinogenicity study at doses of alendronate of 1, 3, and 10 mg/kg/day (males) or 1, 2, and 5 mg/kg/day (females). These doses are equivalent to 0.12 to 1.2 times a maximum recommended daily dose of 40 mg, based on surface area, mg/m 2 . The relevance of this finding to humans is unknown. Parafollicular cell (thyroid) adenomas were increased in high-dose male rats (p=0.003) in a 2-year oral carcinogenicity study at doses of 1 and 3.75 mg/kg body weight. These doses are equivalent to 0.26 and 1 times a 40 mg human daily dose based on surface area, mg/m 2 . The relevance of this finding to humans is unknown. Alendronate sodium was not genotoxic in the in vitro microbial mutagenesis assay with and without metabolic activation, in an in vitro mammalian cell mutagenesis assay, in an in vitro alkaline elution assay in rat hepatocytes, and in an in vivo chromosomal aberration assay in mice. In an in vitro chromosomal aberration assay in Chinese hamster ovary cells, however, alendronate gave equivocal results. Alendronate sodium had no effect on fertility (male or female) in rats at oral doses up to 5 mg/kg/day (1.3 times a 40 mg human daily dose based on surface area, mg/m 2 )."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology The relative inhibitory activities on bone resorption and mineralization of alendronate and etidronate were compared in the Schenk assay, which is based on histological examination of the epiphyses of growing rats. In this assay, the lowest dose of alendronate that interfered with bone mineralization (leading to osteomalacia) was 6000-fold the antiresorptive dose. The corresponding ratio for etidronate was one to one. These data suggest that alendronate administered in therapeutic doses is highly unlikely to induce osteomalacia."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES 14.1 Treatment of Osteoporosis in Postmenopausal Women BINOSTO (alendronate sodium) effervescent tablet 70 mg is bioequivalent to alendronate sodium tablet 70 mg. The fracture reduction efficacy and bone mineral density changes attributed to BINOSTO are based on clinical trial data of alendronate sodium 10 mg daily and alendronate sodium 70 mg weekly. Daily Dosing The efficacy of alendronate sodium 10 mg daily was assessed in four clinical trials. Study 1, a three-year, multicenter double-blind, placebo-controlled, US clinical study enrolled 478 patients with a BMD T-score at or below minus 2.5 with or without a prior vertebral fracture; Study 2, a three-year, multicenter double blind placebo controlled Multinational clinical study enrolled 516 patients with a BMD T-score at or below minus 2.5 with or without a prior vertebral fracture; Study 3, the Three-Year Study of the Fracture Intervention Trial (FIT) a study which enrolled 2027 postmenopausal patients with at least one baseline vertebral fracture; and Study 4, the Four-Year Study of FIT: a study which enrolled 4432 postmenopausal patients with low bone mass but without a baseline vertebral fracture. Effect on Fracture Incidence To assess the effects of alendronate sodium on the incidence of vertebral fractures (detected by digitized radiography; approximately one third of these were clinically symptomatic), the U.S. and Multinational studies were combined in an analysis that compared placebo to the pooled dosage groups of alendronate sodium (5 or 10 mg for three years or 20 mg for two years followed by 5 mg for one year). There was a statistically significant reduction in the proportion of patients treated with alendronate experiencing one or more new vertebral fractures relative to those treated with placebo (3.2% vs. 6.2%; a 48% relative risk reduction). A reduction in the total number of new vertebral fractures (4.2 vs. 11.3 per 100 patients) was also observed. In the pooled analysis, patients who received alendronate had a loss in stature that was statistically significantly less than was observed in those who received placebo (-3.0 mm vs. -4.6 mm). The Fracture Intervention Trial (FIT) consisted of two studies in postmenopausal women: the Three-Year Study of patients who had at least one baseline radiographic vertebral fracture and the Four-Year Study of patients with low bone mass but without a baseline vertebral fracture. In both studies of FIT, 96% of randomized patients completed the studies (i.e., had a closeout visit at the scheduled end of the study); approximately 80% of patients were still taking study medication upon completion. Fracture Intervention Trial: Three-Year Study (patients with at least one baseline radiographic vertebral fracture) This randomized, double-blind, placebo-controlled, 2027-patient study (alendronate, n=1022; placebo, n=1005) demonstrated that treatment with alendronate sodium resulted in statistically significant reductions in fracture incidence at three years as shown in Table 4. Table 4 Effect of Alendronate Sodium on Fracture Incidence in the Three-Year Study of FIT (Patients With Vertebral Fracture at Baseline) Percent of Patients Alendronate Sodium (N = 1022) Placebo (N = 1005) Absolute Reduction in Fracture Incidence Relative Reduction in Fracture Risk % Patients with: Vertebral fractures (diagnosed by X-ray) Number evaluable for vertebral fractures: alendronate, n=984; placebo, n=966 ≥1 new vertebral fracture 7.9 15.0 7.1 47 p<0.001, ≥2 new vertebral fractures 0.5 4.9 4.4 90 Clinical (symptomatic) fractures Any clinical (symptomatic) fracture 13.8 18.1 4.3 26 p=0.007, ≥1 clinical (symptomatic) vertebral fracture 2.3 5.0 2.7 54 p<0.01, Hip fracture 1.1 2.2 1.1 51 p<0.05 Wrist (forearm) fracture 2.2 4.1 1.9 48 Furthermore, in this population of patients with baseline vertebral fracture, treatment with alendronate sodium significantly reduced the incidence of hospitalizations (25.0% vs. 30.7%). In the Three-Year Study of FIT, fractures of the hip occurred in 22 (2.2%) of 1005 patients on placebo and 11 (1.1%) of 1022 patients on alendronate sodium, p=0.047. Figure 1 displays the cumulative incidence of hip fractures in this study. Figure 1 Cumulative Incidence of Hip Fractures in the Three-Year Study of FIT (Patients With Radiographic Vertebral Fracture at Baseline) Figure 1 Fracture Intervention Trial: Four-Year Study (patients with low bone mass but without a baseline radiographic vertebral fracture) This randomized, double-blind, placebo-controlled, 4432-patient study (alendronate, n=2214; placebo, n=2218) further investigated the reduction in fracture incidence due to alendronate sodium. The intent of the study was to recruit women with osteoporosis, defined as a baseline femoral neck BMD at least two standard deviations below the mean for young adult women. However, due to subsequent revisions to the normative values for femoral neck BMD, 31% of patients were found not to meet this entry criterion and thus this study included both osteoporotic and non-osteoporotic women. The results are shown in Table 5 for the patients with osteoporosis. Table 5 Effect of Alendronate on Fracture Incidence in Osteoporotic Baseline femoral neck BMD at least 2 SD below the mean for young adult women Patients in the Four-Year Study of FIT (Patients Without Vertebral Fracture at Baseline) Percent of Patients Alendronate Sodium (N = 1545) Placebo (N = 1521) Absolute Reduction in Fracture Incidence Relative Reduction in Fracture Risk % Patients with: Vertebral fractures (diagnosed by X-ray) Number evaluable for vertebral fractures: alendronate, n=1426; placebo, n=1428 ≥1 new vertebral fracture 2.5 4.8 2.3 48 p<0.001, ≥2 new vertebral fractures 0.1 0.6 0.5 78 p=0.035, Clinical (symptomatic) fractures Any clinical (symptomatic) fracture 12.9 16.2 3.3 22 p=0.01 ≥1 clinical (symptomatic) vertebral fracture 1.0 1.6 0.6 41(NS) Not significant. This study was not powered to detect differences at these sites. Hip fracture 1.0 1.4 0.4 29(NS) Wrist (forearm) fracture 3.9 3.8 -0.1 NS Fracture Results Across Studies In the Three-Year Study of FIT, alendronate sodium reduced the percentage of women experiencing at least one new radiographic vertebral fracture from 15.0% to 7.9% (47% relative risk reduction, p<0.001); in the Four-Year Study of FIT, the percentage was reduced from 3.8% to 2.1% (44% relative risk reduction, p=0.001); and in the combined U.S./Multinational studies, from 6.2% to 3.2% (48% relative risk reduction, p=0.034). Alendronate sodium reduced the percentage of women experiencing multiple (two or more) new vertebral fractures from 4.2% to 0.6% (87% relative risk reduction, p<0.001) in the combined U.S./Multinational studies and from 4.9% to 0.5% (90% relative risk reduction, p<0.001) in the Three-Year Study of FIT. In the Four-Year Study of FIT, alendronate sodium reduced the percentage of osteoporotic women experiencing multiple vertebral fractures from 0.6% to 0.1% (78% relative risk reduction, p=0.035). Thus, alendronate sodium reduced the incidence of radiographic vertebral fractures in osteoporotic women whether or not they had a previous radiographic vertebral fracture. Effect on Bone Mineral Density The bone mineral density efficacy of alendronate sodium 10 mg once daily in postmenopausal women, 44 to 84 years of age, with osteoporosis (lumbar spine bone mineral density [BMD] of at least 2 standard deviations below the premenopausal mean) was demonstrated in 4 double-blind, placebo-controlled clinical studies of 2 or 3 years' duration. Figure 2 shows the mean increases in BMD of the lumbar spine, femoral neck, and trochanter in patients receiving alendronate sodium 10 mg/day relative to placebo-treated patients at three years for each of these studies. Figure 2 Osteoporosis Treatment Studies in Postmenopausal Women Increase in BMD Alendronate Sodium 10 mg/day at Three Years At 3 years significant increases in BMD, relative both to baseline and placebo, were seen at each measurement site in each study in patients who received alendronate 10 mg/day. Total body BMD also increased significantly in each study, suggesting that the increases in bone mass of the spine and hip did not occur at the expense of other skeletal sites. Increases in BMD were evident as early as 3 months and continued throughout the 3 years of treatment. ( See figures below for lumbar spine results.) In the 2-year extension of these studies, treatment of 147 patients with alendronate sodium 10 mg/day resulted in continued increases in BMD at the lumbar spine and trochanter (absolute additional increases between years 3 and 5: lumbar spine, 0.94%; trochanter, 0.88%). BMD at the femoral neck, forearm and total body were maintained. Alendronate sodium was similarly effective regardless of age, race, baseline rate of bone turnover, and baseline BMD in the range studied (at least 2 standard deviations below the premenopausal mean). Figure 3 Osteoporosis Treatment in Studies in Postmenopausal Women Time Course Effect of Alendronate Sodium 10 mg/day Versus Placebo: Lumbar Spine BMD Percent Change From Baseline In patients with postmenopausal osteoporosis treated with alendronate sodium 10 mg/day for one or two years, the effects of treatment withdrawal were assessed. Following discontinuation, there were no further increases in bone mass and the rates of bone loss were similar to those of the placebo groups. Figure 2 Figure 3 Bone Histology Bone histology in 270 postmenopausal patients with osteoporosis treated with alendronate sodium at doses ranging from 1 to 20 mg/day for one, two, or three years revealed normal mineralization and structure, as well as the expected decrease in bone turnover relative to placebo. These data, together with the normal bone histology and increased bone strength observed in rats and baboons exposed to long-term alendronate treatment, support the conclusion that bone formed during therapy with alendronate sodium is of normal quality. Effect on height Alendronate sodium, over a three- or four-year period, was associated with statistically significant reductions in loss of height vs. placebo in patients with and without baseline radiographic vertebral fractures. At the end of the FIT studies the between-treatment group differences were 3.2 mm in the Three-Year Study and 1.3 mm in the Four-Year Study. Weekly dosing The therapeutic equivalence of once weekly alendronate sodium 70 mg (n=519) and alendronate sodium 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis. In the primary analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 5.1% (4.8, 5.4%; 95% CI) in the 70 mg once-weekly group (n=440) and 5.4% (5.0, 5.8%; 95% CI) in the 10 mg daily group (n=330). The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites. The results of the intention-to-treat analysis were consistent with the primary analysis of completers. 14.2 Treatment to Increase Bone Mass in Men with Osteoporosis The efficacy of alendronate sodium in men with hypogonadal or idiopathic osteoporosis was demonstrated in two clinical studies. Daily Dosing A two-year, double-blind, placebo-controlled, multicenter study of alendronate sodium 10 mg once daily enrolled a total of 241 men between the ages of 31 and 87 (mean, 63). All patients in the trial had either: 1) a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, or 2) a baseline osteoporotic fracture and a BMD T-score less than or equal to -1 at the femoral neck. At two years, the mean increases relative to placebo in BMD in men receiving alendronate sodium 10 mg/day were significant at the following sites: lumbar spine, 5.3%; femoral neck, 2.6%; trochanter, 3.1%; and total body, 1.6%. Treatment with alendronate sodium also reduced height loss (alendronate, -0.6 mm vs. placebo, -2.4 mm). Weekly dosing A one-year, double-blind, placebo-controlled, multicenter study of once weekly alendronate sodium 70 mg enrolled a total of 167 men between the ages of 38 and 91 (mean, 66). Patients in the study had either: 1) a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, 2) a BMD T-score less than or equal to -2 at the lumbar spine and less than or equal to -1 at the femoral neck, or 3) a baseline osteoporotic fracture and a BMD T-score less than or equal to -1 at the femoral neck. At one year, the mean increases relative to placebo in BMD in men receiving alendronate sodium 70 mg once weekly were significant at the following sites: lumbar spine, 2.8%; femoral neck, 1.9%; trochanter, 2.0%; and total body, 1.2%. These increases in BMD were similar to those seen at one year in the alendronate sodium 10 mg once-daily study. In both studies, BMD responses were similar regardless of age (greater than or equal to 65 years vs. less than 65 years), gonadal function (baseline testosterone less than 9 ng/dL vs. greater than or equal to 9 ng/dL), or baseline BMD (femoral neck and lumbar spine T-score less than or equal to -2.5 vs. greater than -2.5)."
+  ],
+  "clinical_studies_table": [
+   "<table width=\"80%\"><caption>Table 4 Effect of Alendronate Sodium on Fracture Incidence in the Three-Year Study of FIT (Patients With Vertebral Fracture at Baseline)</caption><col width=\"28%\" align=\"left\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><col width=\"18%\" align=\"center\" valign=\"top\"/><thead><tr><th/><th colspan=\"4\" align=\"left\"><content styleCode=\"underline\">Percent of Patients</content></th></tr><tr><th/><th valign=\"bottom\" align=\"left\">Alendronate Sodium (N = 1022)</th><th valign=\"bottom\" align=\"left\">Placebo (N = 1005)</th><th valign=\"bottom\" align=\"left\">Absolute Reduction in Fracture Incidence</th><th valign=\"bottom\" align=\"left\">Relative Reduction in Fracture Risk %</th></tr></thead><tbody><tr><td colspan=\"5\">Patients with:</td></tr><tr><td>Vertebral fractures (diagnosed by X-ray)<footnote>Number evaluable for vertebral fractures: alendronate, n=984; placebo, n=966</footnote></td><td colspan=\"4\"/></tr><tr><td> &#x2265;1 new vertebral fracture</td><td>7.9</td><td>15.0</td><td>7.1</td><td>47<footnote ID=\"t4f1\">p&lt;0.001,</footnote></td></tr><tr><td> &#x2265;2 new vertebral fractures</td><td>0.5</td><td>4.9</td><td>4.4</td><td>90<footnoteRef IDREF=\"t4f1\"/></td></tr><tr><td>Clinical (symptomatic) fractures</td><td/><td/><td/><td/></tr><tr><td> Any clinical (symptomatic) fracture</td><td>13.8</td><td>18.1</td><td>4.3</td><td>26<footnote>p=0.007,</footnote></td></tr><tr><td> &#x2265;1 clinical (symptomatic) vertebral fracture</td><td>2.3</td><td>5.0</td><td>2.7</td><td>54<footnote>p&lt;0.01,</footnote></td></tr><tr><td>Hip fracture</td><td>1.1</td><td>2.2</td><td>1.1</td><td>51<footnote ID=\"t4f2\">p&lt;0.05</footnote></td></tr><tr><td>Wrist (forearm) fracture</td><td>2.2</td><td>4.1</td><td>1.9</td><td>48<footnoteRef IDREF=\"t4f2\"/></td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"100%\" align=\"center\" valign=\"top\"/><tbody><tr><td><content styleCode=\"bold\">Figure 1 Cumulative Incidence of Hip Fractures in the Three-Year Study of FIT (Patients With Radiographic Vertebral Fracture at Baseline)</content></td></tr><tr><td><renderMultiMedia referencedObject=\"MM2\"/></td></tr></tbody></table>",
+   "<table width=\"80%\"><caption>Table 5 Effect of Alendronate on Fracture Incidence in Osteoporotic<footnote>Baseline femoral neck BMD at least 2 SD below the mean for young adult women</footnote> Patients in the Four-Year Study of FIT (Patients Without Vertebral Fracture at Baseline)</caption><col width=\"28%\" align=\"left\" valign=\"middle\"/><col width=\"18%\" align=\"center\" valign=\"middle\"/><col width=\"18%\" align=\"center\" valign=\"middle\"/><col width=\"18%\" align=\"center\" valign=\"middle\"/><col width=\"18%\" align=\"center\" valign=\"middle\"/><thead><tr><th/><th colspan=\"4\" align=\"left\"><content styleCode=\"underline\">Percent of Patients</content></th></tr><tr><th/><th align=\"left\" valign=\"bottom\">Alendronate Sodium (N = 1545)</th><th align=\"left\" valign=\"bottom\">Placebo (N = 1521)</th><th align=\"left\" valign=\"bottom\">Absolute Reduction in Fracture Incidence</th><th align=\"left\" valign=\"bottom\">Relative Reduction in Fracture Risk %</th></tr></thead><tbody><tr><td>Patients with:</td><td colspan=\"4\"/></tr><tr><td>Vertebral fractures (diagnosed by X-ray)<footnote>Number evaluable for vertebral fractures: alendronate, n=1426; placebo, n=1428</footnote></td><td colspan=\"4\"/></tr><tr><td> &#x2265;1 new vertebral fracture</td><td>2.5</td><td>4.8</td><td>2.3</td><td>48<footnote>p&lt;0.001,</footnote></td></tr><tr><td> &#x2265;2 new vertebral fractures</td><td>0.1</td><td>0.6</td><td>0.5</td><td>78<footnote>p=0.035,</footnote></td></tr><tr><td>Clinical (symptomatic) fractures</td><td/><td/><td/><td/></tr><tr><td> Any clinical (symptomatic) fracture</td><td>12.9</td><td>16.2</td><td>3.3</td><td>22<footnote>p=0.01</footnote></td></tr><tr><td> &#x2265;1 clinical (symptomatic) vertebral fracture</td><td>1.0</td><td>1.6</td><td>0.6</td><td>41(NS)<footnote ID=\"t5f1\">Not significant. This study was not powered to detect differences at these sites.</footnote></td></tr><tr><td>Hip fracture</td><td>1.0</td><td>1.4</td><td>0.4</td><td>29(NS)<footnoteRef IDREF=\"t5f1\"/></td></tr><tr><td>Wrist (forearm) fracture</td><td>3.9</td><td>3.8</td><td>-0.1</td><td>NS<footnoteRef IDREF=\"t5f1\"/></td></tr></tbody></table>",
+   "<table width=\"100%\" styleCode=\"Noautorules\" ID=\"fig3\"><col width=\"100%\" align=\"center\" valign=\"top\"/><tbody><tr><td><content styleCode=\"bold\">Figure 3 Osteoporosis Treatment in Studies in Postmenopausal Women Time Course Effect of Alendronate Sodium 10 mg/day Versus Placebo: Lumbar Spine BMD Percent Change From Baseline</content></td></tr><tr><td><renderMultiMedia referencedObject=\"MM4\"/></td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING BINOSTO effervescent tablets are round, flat faced, white to off-white tablets with beveled edges and \"M\" debossed on one side. BINOSTO effervescent tablets, 70 mg are provided in blisters made of aluminum foil composite, as follows: NDC 70539-400-04 carton containing 4 units of use blisters Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F), [See USP Controlled Room Temperature.] Protect from moisture. Store tablets in original blister package until use."
+  ],
+  "storage_and_handling": [
+   "Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F), [See USP Controlled Room Temperature.] Protect from moisture. Store tablets in original blister package until use."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION See FDA-approved patient labeling (Medication Guide) . Instruct patients to read the Medication Guide before starting therapy with BINOSTO and to reread it each time the prescription is renewed. 17.1 Osteoporosis Recommendations, Including Calcium and Vitamin D Supplementation Instruct patients to take supplemental calcium and vitamin D, if daily dietary intake is inadequate. Weight-bearing exercise should be considered along with the modification of certain behavioral factors, such as cigarette smoking and/or excessive alcohol consumption, if these factors exist. 17.2 Dosing Instructions Instruct patients that it is necessary to follow all dosing instructions for BINOSTO: BINOSTO should only be taken upon arising for the day and must be taken at least 30 minutes before the first food, beverage, or medication of the day. Instruct patients not to attempt to swallow, chew, or suck on the tablet because of a potential for oropharyngeal ulceration. Instruct patients to dissolve the effervescent tablet in 4 ounces room temperature plain water only (not mineral water or flavored water). Instruct patients to wait at least 5 minutes after the effervescence stops and then stir the solution for approximately 10 seconds and then consume the contents. Instruct patients to avoid lying down for at least 30 minutes after taking BINOSTO and until after their first food of the day. Instruct patients not to take BINOSTO at bedtime or before arising for the day. Instruct patients that waiting less than 30 minutes, or taking BINOSTO with food, beverages (other than plain water) or other medications will lessen the effect of BINOSTO by decreasing its absorption into the body [see Drug Interactions (7.1) ] . Even dosing with orange juice or coffee has been shown to markedly reduce the absorption of BINOSTO [see Clinical Pharmacology (12.3) ]. Inform patients that failure to follow these instructions may increase their risk of esophageal problems. [see Warnings and Precautions (5.1) ] . Instruct patients that if they develop symptoms of esophageal disease (such as difficulty or pain upon swallowing, retrosternal pain or new or worsening heartburn) they should stop taking BINOSTO and consult their physician. [see Warnings and Precautions (5.1) ]. Instruct patients that if they miss a dose of once weekly BINOSTO, they should take one dose on the morning after they remember. They should not take 2 doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day. 17.3 Patients on Sodium Restriction Inform patients who are prescribed sodium restricted diets that BINOSTO contains 603 mg of sodium which is equivalent to approximately 1532 mg NaCl per tablet."
+  ],
+  "spl_medguide": [
+   "MEDICATION GUIDE BINOSTO ® (BIN-oss-tow) (alendronate sodium) effervescent tablets for oral use This Medication Guide has been approved by the U.S. Food and Drug Administration. Revised: 02/2026 What is the most important information I should know about BINOSTO? BINOSTO can cause serious side effects, including: Esophagus problems Low calcium levels in your blood (hypocalcemia) Bone, joint, or muscle pain Severe jaw bone problems (osteonecrosis) Unusual breaks in thigh and other bones 1. Esophagus problems. Some people who take BINOSTO may develop problems in the esophagus (the tube that connects the mouth and the stomach). These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed. It is important that you take BINOSTO exactly as prescribed to help lower your chance of getting esophagus problems. (See the section \" How should I take BINOSTO? \") Stop taking BINOSTO and call your healthcare provider right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow. 2. Low calcium levels in your blood (hypocalcemia). BINOSTO may lower the calcium levels in your blood. If you have low blood calcium before you start taking BINOSTO, it may get worse during treatment. Your low blood calcium must be treated before you take BINOSTO. Most people with low blood calcium levels do not have symptoms, but some people may have symptoms. Call your healthcare provider right away if you have symptoms of low blood calcium such as: Spasms, twitches, or cramps in your muscles Numbness or tingling in your fingers, toes, or around your mouth Your healthcare provider may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take BINOSTO. Take calcium and vitamin D as your healthcare provider tells you to. 3. Bone, joint, or muscle pain. Some people who take BINOSTO develop severe bone, joint, or muscle pain. 4. Severe jaw bone problems (osteonecrosis). Severe jaw bone problems may happen when you take BINOSTO. Your healthcare provider should examine your mouth before you start BINOSTO. Your healthcare provider may tell you to see your dentist before you start BINOSTO. It is important for you to practice good mouth care during treatment with BINOSTO. 5. Unusual breaks in thigh and other bones. Some people have had unusual bone breaks, including thigh bone, when taking BINOSTO. A break in the thigh bone can feel like a new pain in your hip, groin, or thigh. People taking BINOSTO can also have breaks in other bones. Call your healthcare provider right away if you have any of these side effects. What is BINOSTO? BINOSTO is a prescription medicine used to: Treat thinning of your bones (osteoporosis) in women after menopause. BINOSTO helps reduce the chance of having a hip or spinal fracture (break). Increase bone mass in men who have osteoporosis. It is not known how long BINOSTO works for the treatment of osteoporosis. You should see your healthcare provider regularly to determine if BINOSTO is still right for you. BINOSTO is not for use in children. Who should not take BINOSTO? Do not take BINOSTO if you: Have certain problems with your esophagus, the tube that connects your mouth with your stomach Cannot stand or sit upright for at least 30 minutes Have trouble swallowing liquids Have low levels of calcium in your blood Are allergic to BINOSTO or any of its ingredients. See the end of this leaflet for a complete list of ingredients in BINOSTO. Before taking BINOSTO, tell your healthcare provider about all of your medical conditions, including if you: Have problems with swallowing Have stomach or digestive problems Have low blood calcium Plan to have dental surgery or teeth removed Have kidney problems Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome) Have been told to lower your salt intake Are pregnant, planning to become pregnant or suspect that you are pregnant. If you become pregnant while taking BINOSTO, stop taking it and contact your healthcare provider. It is not known if BINOSTO can harm your unborn baby. Are breastfeeding or plan to breastfeed. It is not known if BINOSTO passes into your milk and may harm your baby. Tell your healthcare provider about all medicines you take, including prescription and non- prescription medicines, vitamins, and herbal supplements. Especially tell your healthcare provider if you take: Calcium Antacids Aspirin Nonsteroidal Anti-Inflammatory (NSAID) medicines Know the medicines you take. Keep a list of them and show it to your healthcare provider or pharmacist each time you get a new medicine. How should I take BINOSTO? Take BINOSTO exactly as your healthcare provider tells you. BINOSTO is taken 1 time each week. Choose the day of the week that best fits your schedule, then take BINOSTO on the same day every week. BINOSTO works only if you take it on an empty stomach. Take BINOSTO after you get up for the day and 30 minutes before taking your first food, drink, or other medicine. Take BINOSTO while you are sitting or standing. Do not swallow, chew or suck on a BINOSTO tablet. Do not dissolve BINOSTO in: Mineral or flavored water Coffee Tea Soda Juice You must dissolve your BINOSTO in plain water at room temperature before you take it. To prepare your BINOSTO liquid medicine: Step 1. Place the BINOSTO tablet in about a half glass (4 ounces) of plain water. The water should not be cold or hot, and should be at room temperature. Step 2. Wait at least 5 minutes after the bubbling (effervescence) stops for the BINOSTO tablet to completely dissolve in the water. Step 3. Stir the liquid medicine for about 10 seconds. Step 4. Drink all of the BINOSTO liquid medicine in the glass. After you take BINOSTO, wait at least 30 minutes before you: Lie down. You may sit, stand or walk, and do normal activities like reading. Take your first food or drink, except for plain water. Take other medicines, including antacids, calcium, and other supplements and vitamins. Do not lie down until after you eat your first food of the day. If you miss a dose of BINOSTO, do not take it later in the day. Take your missed dose on the next morning after you remember and then return to your normal schedule. Do not take 2 doses on the same day. If you think you took more than your prescribed dose of BINOSTO, drink a full glass of milk and call your healthcare provider right away. Do not try to vomit. Do not lie down. What should I avoid while taking BINOSTO? BINOSTO contains a high amount of salt in each tablet. Avoid eating foods with a high amount of salt if your healthcare provider has told you to limit how much salt you eat. What are the possible side effects of BINOSTO? BINOSTO may cause serious side effects. See \" What is the most important information I should know about BINOSTO? \" The most common side effects of BINOSTO are: Stomach area (abdominal) pain Heartburn Constipation Diarrhea Upset stomach Pain in your bones, joints, or muscles Nausea You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat. Tell your healthcare provider about any side effect that bothers you or that does not go away. These are not all the side effects with BINOSTO. Ask your healthcare provider or pharmacist for more information. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store BINOSTO? Store BINOSTO at room temperature between 68°F to 77°F (20°C to 25°C). Keep BINOSTO tablets in their original blister pack until you use them. Protect BINOSTO from moisture. Keep BINOSTO and all medicines out of the reach of children. General information about the safe and effective use of BINOSTO. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use BINOSTO for a condition for which it was not prescribed. Do not give BINOSTO to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about BINOSTO that is written for health professionals. What are the ingredients in BINOSTO? Active ingredient: alendronate sodium Inactive ingredients: monosodium citrate anhydrous, citric acid anhydrous, sodium hydrogen carbonate, sodium carbonate anhydrous, strawberry flavor, acesulfame potassium, and sucralose. Radius Health, Inc., 22 Boston Wharf Road, 7th Floor, Boston, MA 02210 US-MG-000400-v2.0 For more information about BINOSTO, visit our website at www.BINOSTO.com or call Radius Health, Inc., at 1-855-672-3487."
+  ],
+  "spl_medguide_table": [
+   "<table width=\"100%\"><col width=\"1%\" align=\"left\" valign=\"top\"/><col width=\"70%\" align=\"left\" valign=\"top\"/><col width=\"29%\" align=\"left\" valign=\"top\"/><thead><tr><th styleCode=\"Lrule Rrule\" colspan=\"3\" align=\"center\">MEDICATION GUIDE   BINOSTO<sup>&#xAE;</sup> (BIN-oss-tow)   (alendronate sodium)   effervescent tablets for oral use</th></tr></thead><tfoot><tr><td colspan=\"2\" align=\"left\">This Medication Guide has been approved by the U.S. Food and Drug Administration.</td><td align=\"right\">Revised: 02/2026 </td></tr></tfoot><tbody><tr><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content ID=\"what\" styleCode=\"bold\">What is the most important information I should know about BINOSTO?   BINOSTO can cause serious side effects, including:</content></td></tr><tr><td colspan=\"3\" styleCode=\"Lrule Rrule\"><list listType=\"ordered\" styleCode=\"arabic\"><item>Esophagus problems</item><item>Low calcium levels in your blood (hypocalcemia)</item><item>Bone, joint, or muscle pain</item><item>Severe jaw bone problems (osteonecrosis)</item><item>Unusual breaks in thigh and other bones </item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><list listType=\"unordered\"><item><caption styleCode=\"bold\">1. </caption><content styleCode=\"bold\">Esophagus problems.   Some people who take BINOSTO may develop problems in the esophagus (the tube that connects the mouth and the stomach). These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.</content><list listType=\"unordered\" styleCode=\"disc\"><item><content styleCode=\"bold\">It is important that you take BINOSTO exactly as prescribed to help lower your chance of getting esophagus problems. (See the section &quot;<linkHtml href=\"#how\">How should I take BINOSTO?</linkHtml>&quot;)</content></item><item><content styleCode=\"bold\">Stop taking BINOSTO and call your healthcare provider right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.</content></item></list></item><item><caption styleCode=\"bold\">2. </caption><content styleCode=\"bold\">Low calcium levels in your blood (hypocalcemia).</content>  BINOSTO may lower the calcium levels in your blood. If you have low blood calcium before you start taking BINOSTO, it may get worse during treatment. Your low blood calcium must be treated before you take BINOSTO. Most people with low blood calcium levels do not have symptoms, but some people may have symptoms. Call your healthcare provider right away if you have symptoms of low blood calcium such as: <list listType=\"unordered\" styleCode=\"disc\"><item>Spasms, twitches, or cramps in your muscles</item><item>Numbness or tingling in your fingers, toes, or around your mouth</item></list> Your healthcare provider may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take BINOSTO. Take calcium and vitamin D as your healthcare provider tells you to.</item><item><caption styleCode=\"bold\">3. </caption><content styleCode=\"bold\">Bone, joint, or muscle pain.</content>  Some people who take BINOSTO develop severe bone, joint, or muscle pain.</item><item><caption styleCode=\"bold\">4. </caption><content styleCode=\"bold\">Severe jaw bone problems (osteonecrosis).</content>  Severe jaw bone problems may happen when you take BINOSTO. Your healthcare provider should examine your mouth before you start BINOSTO. Your healthcare provider may tell you to see your dentist before you start BINOSTO. It is important for you to practice good mouth care during treatment with BINOSTO.</item><item><caption styleCode=\"bold\">5. </caption><content styleCode=\"bold\">Unusual breaks in thigh and other bones.</content>  Some people have had unusual bone breaks, including thigh bone, when taking BINOSTO. A break in the thigh bone can feel like a new pain in your hip, groin, or thigh. People taking BINOSTO can also have breaks in other bones.</item></list><content styleCode=\"bold\">Call your healthcare provider right away if you have any of these side effects.</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">What is BINOSTO?</content>  BINOSTO is a prescription medicine used to: <list listType=\"unordered\" styleCode=\"disc\"><item>Treat thinning of your bones (osteoporosis) in women after menopause. BINOSTO helps reduce the chance of having a hip or spinal fracture (break).</item><item>Increase bone mass in men who have osteoporosis.</item></list> It is not known how long BINOSTO works for the treatment of osteoporosis. You should see your healthcare provider regularly to determine if BINOSTO is still right for you.   BINOSTO is not for use in children.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Who should not take BINOSTO?   Do not take BINOSTO if you:</content><list listType=\"unordered\" styleCode=\"disc\"><item><content styleCode=\"bold\">Have certain problems with your esophagus, the tube that connects your mouth with your stomach</content></item><item><content styleCode=\"bold\">Cannot stand or sit upright for at least 30 minutes</content></item><item><content styleCode=\"bold\">Have trouble swallowing liquids</content></item><item><content styleCode=\"bold\">Have low levels of calcium in your blood</content></item><item><content styleCode=\"bold\">Are allergic to BINOSTO or any of its ingredients. See the end of this leaflet for a complete list of ingredients in BINOSTO.</content></item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">Before taking BINOSTO, tell your healthcare provider about all of your medical conditions, including if you:</content><list listType=\"unordered\" styleCode=\"disc\"><item>Have problems with swallowing</item><item>Have stomach or digestive problems</item><item>Have low blood calcium</item><item>Plan to have dental surgery or teeth removed</item><item>Have kidney problems</item><item>Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)</item><item>Have been told to lower your salt intake</item><item>Are pregnant, planning to become pregnant or suspect that you are pregnant. <content styleCode=\"bold\">If you become pregnant while taking BINOSTO, stop taking it and contact your</content> healthcare provider. It is not known if BINOSTO can harm your unborn baby.</item><item>Are breastfeeding or plan to breastfeed. It is not known if BINOSTO passes into your milk and may harm your baby.</item></list><content styleCode=\"bold\">Tell your healthcare provider about all medicines you take,</content> including prescription and non- prescription medicines, vitamins, and herbal supplements.   Especially tell your healthcare provider if you take: <list listType=\"unordered\" styleCode=\"disc\"><item>Calcium</item><item>Antacids</item><item>Aspirin</item><item>Nonsteroidal Anti-Inflammatory (NSAID) medicines</item></list> Know the medicines you take. Keep a list of them and show it to your healthcare provider or pharmacist each time you get a new medicine.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content ID=\"how\" styleCode=\"bold\">How should I take BINOSTO?</content><list listType=\"unordered\" styleCode=\"disc\"><item>Take BINOSTO exactly as your healthcare provider tells you.</item><item>BINOSTO is taken 1 time each week. Choose the day of the week that best fits your schedule, then take BINOSTO on the same day every week.</item><item><content styleCode=\"bold\">BINOSTO works only if you take it on an empty stomach.</content></item><item>Take BINOSTO <content styleCode=\"bold\">after</content> you get up for the day and <content styleCode=\"bold\">30 minutes before</content> taking your first food, drink, or other medicine.</item><item>Take BINOSTO while you are sitting or standing.</item><item><content styleCode=\"bold\">Do not swallow, chew or suck on a BINOSTO tablet.</content></item><item><content styleCode=\"bold\">Do not dissolve BINOSTO in:</content><list listType=\"unordered\" styleCode=\"circle\"><item>Mineral or flavored water</item><item>Coffee</item><item>Tea</item><item>Soda</item><item>Juice</item></list></item><item><content styleCode=\"bold\">You must dissolve your BINOSTO in plain water at room temperature before you take it. To prepare your BINOSTO liquid medicine:</content> <content styleCode=\"bold\">Step 1.</content> Place the BINOSTO tablet in about a half glass (4 ounces) of plain water. The water should <content styleCode=\"bold\">not</content> be cold or hot, and should be at room temperature.  <content styleCode=\"bold\">Step 2.</content> Wait at least 5 minutes after the bubbling (effervescence) stops for the BINOSTO tablet to completely dissolve in the water.  <content styleCode=\"bold\">Step 3.</content> Stir the liquid medicine for about 10 seconds.  <content styleCode=\"bold\">Step 4.</content> Drink all of the BINOSTO liquid medicine in the glass.</item></list><content styleCode=\"bold\">After you take BINOSTO, wait at least 30 minutes before you:</content><list listType=\"unordered\" styleCode=\"disc\"><item>Lie down. You may sit, stand or walk, and do normal activities like reading.</item><item>Take your first food or drink, except for plain water.</item><item>Take other medicines, including antacids, calcium, and other supplements and vitamins.</item></list><content styleCode=\"bold\">Do not lie down until after you eat your first food of the day.</content><list listType=\"unordered\" styleCode=\"disc\"><item>If you miss a dose of BINOSTO, do not take it later in the day. Take your missed dose on the next morning after you remember and then return to your normal schedule. Do not take 2 doses on the same day.</item><item>If you think you took more than your prescribed dose of BINOSTO, drink a full glass of milk and call your healthcare provider right away. Do not try to vomit. Do not lie down.</item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">What should I avoid while taking BINOSTO?</content>  BINOSTO contains a high amount of salt in each tablet. Avoid eating foods with a high amount of salt if your healthcare provider has told you to limit how much salt you eat.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">What are the possible side effects of BINOSTO?   BINOSTO may cause serious side effects.</content><list listType=\"unordered\" styleCode=\"disc\"><item>See <content styleCode=\"bold\">&quot;<linkHtml href=\"#what\">What is the most important information I should know about BINOSTO?</linkHtml>&quot;</content></item></list><content styleCode=\"bold\">The most common side effects of BINOSTO are:</content><list listType=\"unordered\" styleCode=\"disc\"><item>Stomach area (abdominal) pain</item><item>Heartburn</item><item>Constipation</item><item>Diarrhea</item><item>Upset stomach</item><item>Pain in your bones, joints, or muscles</item><item>Nausea</item></list> You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.   Tell your healthcare provider about any side effect that bothers you or that does not go away.   These are not all the side effects with BINOSTO. Ask your healthcare provider or pharmacist for more information.   Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">How should I store BINOSTO?</content><list listType=\"unordered\" styleCode=\"disc\"><item>Store BINOSTO at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C).</item><item>Keep BINOSTO tablets in their original blister pack until you use them.</item><item>Protect BINOSTO from moisture.</item><item><content styleCode=\"bold\">Keep BINOSTO and all medicines out of the reach of children.</content></item></list></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">General information about the safe and effective use of BINOSTO.</content>  Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use BINOSTO for a condition for which it was not prescribed. Do not give BINOSTO to other people, even if they have the same symptoms that you have. It may harm them.   You can ask your pharmacist or healthcare provider for information about BINOSTO that is written for health professionals.</td></tr><tr><td styleCode=\"Lrule Rrule\" colspan=\"3\"><content styleCode=\"bold\">What are the ingredients in BINOSTO?</content> <content styleCode=\"bold\">Active ingredient:</content> alendronate sodium  <content styleCode=\"bold\">Inactive ingredients:</content> monosodium citrate anhydrous, citric acid anhydrous, sodium hydrogen carbonate, sodium carbonate anhydrous, strawberry flavor, acesulfame potassium, and sucralose.   Radius Health, Inc., 22 Boston Wharf Road, 7th Floor, Boston, MA 02210   US-MG-000400-v2.0   For more information about BINOSTO, visit our website at www.BINOSTO.com or call Radius Health, Inc., at 1-855-672-3487.</td></tr></tbody></table>"
+  ],
+  "set_id": "09765234-01bc-40f7-b9bb-c167056f3909",
+  "id": "1ff6288a-ab6b-4443-81bd-fd1a37a2bd16",
+  "effective_time": "20260206",
+  "version": "6"
+ }
+}

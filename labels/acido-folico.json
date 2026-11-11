@@ -1,0 +1,719 @@
+{
+ "id_es": "acido-folico",
+ "generic_en": "folic acid",
+ "search": "openfda.generic_name.exact:\"FOLIC ACID\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "b868b314-591d-458b-be82-2bcd0b73cce1",
+  "id": "2df4e376-7829-44c9-9cd4-70cd980046a2",
+  "effective_time": "20261005",
+  "version": "4",
+  "brand_name": [
+   "QUIOFIC"
+  ],
+  "generic_name": [
+   "FOLIC ACID"
+  ],
+  "manufacturer_name": [
+   "Solubiomix, LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA216395"
+  ],
+  "n_sections": 24
+ },
+ "candidates": [
+  {
+   "set_id": "b1cca8e7-3177-421e-a49c-478ed766f643",
+   "id": "5f8e100c-079d-dcae-e063-6394a90a4380",
+   "effective_time": "20261105",
+   "version": "2",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1b050122-73e9-48c7-9b26-431eaadddcfe",
+   "id": "91bb9b78-ad85-499d-807d-eace6f2b8c98",
+   "effective_time": "20261104",
+   "version": "103",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "368b69a8-a021-47e3-a6d7-e3497d7363b1",
+   "id": "5de16bf7-a97e-d78f-e063-6294a90a5afe",
+   "effective_time": "20261015",
+   "version": "4",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202437"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "96618bf8-6c03-4df3-9896-b7ef27ca392a",
+   "id": "abde83c6-63a6-45a5-b8c8-d3c73a380945",
+   "effective_time": "20261005",
+   "version": "4",
+   "brand_name": [
+    "FOLIC ACID"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Ayurax, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA216395"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "b868b314-591d-458b-be82-2bcd0b73cce1",
+   "id": "2df4e376-7829-44c9-9cd4-70cd980046a2",
+   "effective_time": "20261005",
+   "version": "4",
+   "brand_name": [
+    "QUIOFIC"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Solubiomix, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA216395"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "bda4687e-929a-434d-ab59-909cf2ed73a2",
+   "id": "5b370dc7-ef1e-e674-e063-6394a90ae75c",
+   "effective_time": "20260911",
+   "version": "3",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0baa10dd-6d1d-4946-8236-566451132da3",
+   "id": "a5219f26-2238-4666-9aae-9c98b3003079",
+   "effective_time": "20260724",
+   "version": "2",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "03b0aee4-804a-de63-e063-6394a90a6635",
+   "id": "5684c159-28cd-06a7-e063-6394a90a8c62",
+   "effective_time": "20260713",
+   "version": "5",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040625"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "54db8b21-87b9-5e0c-e063-6394a90ae8ea",
+   "id": "54db8d28-2bb4-3ae4-e063-6294a90aa5ad",
+   "effective_time": "20260622",
+   "version": "1",
+   "brand_name": [
+    "FOLIC ACID"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040796"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "c8af7616-5178-6df0-e053-2a95a90a334d",
+   "id": "548ee394-41b9-d346-e063-6394a90a0773",
+   "effective_time": "20260618",
+   "version": "5",
+   "brand_name": [
+    "Vitramyn"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "PureTek Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 15
+  },
+  {
+   "set_id": "544e394d-3555-8ab1-e063-6394a90ade00",
+   "id": "544e52d9-5b2b-bd6f-e063-6394a90ac6a1",
+   "effective_time": "20260615",
+   "version": "1",
+   "brand_name": [
+    "FOLIC ACID"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204418"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "7778ac96-7817-455a-a177-22ecb276c67f",
+   "id": "01b5c43c-db86-4ba8-86f2-a00c82257d2c",
+   "effective_time": "20260526",
+   "version": "5",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040625"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "354366ea-3702-4706-9fc0-0244b7278bd8",
+   "id": "067af2c9-3769-40d4-a991-217390ece384",
+   "effective_time": "20260520",
+   "version": "9",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "QUAGEN PHARMACEUTICALS LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091145"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "624469a1-ded9-453a-973e-c5a2f0602bb0",
+   "id": "eb7a297b-7f41-4f4b-81a1-1e1887442484",
+   "effective_time": "20260515",
+   "version": "5",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040625"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "6dd867fe-597e-4915-8baf-98a605bf9324",
+   "id": "b72850f6-d57f-4067-9a35-c4295f2c1ada",
+   "effective_time": "20260506",
+   "version": "4",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040625"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "a1b71c5d-c842-43fd-9557-2bb4e934b914",
+   "id": "b94c2bab-61f0-4a63-8225-29f9eddf6067",
+   "effective_time": "20260423",
+   "version": "103",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b4c3a754-64cd-499a-a32f-a6e935c41355",
+   "id": "a45f83d1-e6fa-4301-8868-e858d177f882",
+   "effective_time": "20260422",
+   "version": "4",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "fd85395e-6a0b-4072-a80b-36095c0c6dd6",
+   "id": "299a16c1-9627-45e2-a30c-e0f07ae9399a",
+   "effective_time": "20260415",
+   "version": "4",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals of New York LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040625"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "cee15842-4a9e-c6ba-e053-2a95a90aebc5",
+   "id": "4f5f0e70-672d-571b-e063-6394a90ad1da",
+   "effective_time": "20260413",
+   "version": "5",
+   "brand_name": [
+    "Multitam"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "PureTek Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 15
+  },
+  {
+   "set_id": "c5b2b84d-9f5e-4b81-ba10-9f2854e5dce9",
+   "id": "48eb23cf-7425-a5cc-e063-6294a90a5021",
+   "effective_time": "20260121",
+   "version": "5",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "XGen Pharmaceuticals DJB, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202522"
+   ],
+   "n_sections": 13
+  },
+  {
+   "set_id": "40ab3c91-5a5b-fa1d-e063-6394a90a7454",
+   "id": "45a00985-0136-4500-e063-6394a90a5472",
+   "effective_time": "20251210",
+   "version": "2",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "fc6dc1e1-f63e-4239-a1eb-67525569f68c",
+   "id": "437e6d15-c5e5-2c06-e063-6394a90a59cf",
+   "effective_time": "20251113",
+   "version": "3",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040625"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "4889d474-bd72-46ba-81d6-5511d8a85abb",
+   "id": "bc5434a0-ee34-4c5d-9fd2-4fecbb5c636d",
+   "effective_time": "20251104",
+   "version": "103",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "41914ac8-f4f5-4d70-b9f2-9f88c59d67a6",
+   "id": "4252bf12-4682-253b-e063-6394a90a6b90",
+   "effective_time": "20251029",
+   "version": "100",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1383dce2-0b81-4694-a662-27576f867eae",
+   "id": "588a56ed-e8d0-48b3-84ff-db18a211fa1e",
+   "effective_time": "20251022",
+   "version": "1",
+   "brand_name": [
+    "Folic Acid"
+   ],
+   "generic_name": [
+    "FOLIC ACID"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211064"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE QUIOFIC is indicated for the treatment of megaloblastic anemias due to folic acid deficiency in adult and pediatric patients. QUIOFIC is a folate analog indicated for the treatment of megaloblastic anemias due to folic acid deficiency in adult and pediatric patients. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Recommended starting dosage in adults and pediatric patients (regardless of age) is up to 1 mg orally daily. ( 2 ) Maintenance dosage ( 2 ) - Pediatric patients birth to 23 months: 0.1 mg orally daily - Pediatric patients 2 years to less than 4 years: up to 0.3 mg orally daily - Adults and pediatric patients 4 years and older: 0.4 mg orally daily - Pregnant and Lactating Women: 0.8 mg orally daily; but never less than 0.1 mg orally per day 2.1 Important Administration Information Instruct patients or caregivers to use an oral dosing syringe to correctly measure the prescribed amount of medication. Inform patients that oral dosing syringes may be obtained from their pharmacy. 2.2 Recommended Dosing Initial Dosing The recommended starting dosage of QUIOFIC in pediatric and adult patients is up to 1 mg orally daily. QUIOFIC can be taken with or without food. Rule out pernicious anemia prior to use of any doses greater than 0.4 mg (except during pregnancy and lactation). Maintenance Dosing When clinical symptoms have subsided and the blood picture has become normal, use a daily maintenance level as follows: - Pediatric patients aged birth to 23 months: 0.1 mg orally daily - Pediatric patients aged 2 years to less than 4 years: up to 0.3 mg orally daily - Pediatric patients aged 4 years and older and adult patients: 0.4 mg orally daily - Pregnant and Lactating Women: 0.8 mg orally daily; but never less than 0.1 mg orally per day Higher maintenance doses may be needed in the presence of alcoholism, hemolytic anemia, anticonvulsant therapy, or chronic infection. Monitor patients frequently for relapse and adjust dose accordingly."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Oral Solution: 0.2 mg/mL; yellow solution with a mixed berry flavor. Oral Solution: 0.2 mg/mL( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS QUIOFIC is contraindicated in patients with a history of a hypersensitivity reaction to folic acid or any of the ingredients of QUIOFIC [see Description (11) ]. QUIOFIC is contraindicated in patients with a history of a hypersensitivity reaction to folic acid or any of the ingredients of QUIOFIC. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. This may result in severe nervous system damage before the correct diagnosis is made. ( 5.1 ) 5.1 Risk of Obscuring Diagnosis of Pernicious Anemia The use of single-agent QUIOFIC (without the use of vitamin B12) is not recommended for the treatment of pernicious anemia and other megaloblastic anemias in which vitamin B 12 is deficient. Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurologic manifestations remain progressive. There is a potential danger in administering folic acid to patients with undiagnosed anemia, since folic acid may obscure the diagnosis of pernicious anemia by alleviating the hematologic manifestations of the disease while allowing the neurologic complications to progress. This may result in severe nervous system damage before the correct diagnosis is made. Adequate doses of vitamin B 12 may prevent, halt, or improve the neurologic changes caused by pernicious anemia."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Risk of Obscuring Diagnosis of Pernicious Anemia [see Warnings and Precautions (5.1) ] The following adverse reactions associated with the use of folic acid were identified in clinical studies or post marketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Adverse Reactions: Hypersensitivity reactions including rash, itching, malaise, and bronchospasm. Gastrointestinal reactions (nausea, anorexia, abdominal distension, flatulence, dysgeusia) Neurological reactions (altered sleep patterns, difficulty concentrating, irritability, overactivity, excitement, depression, confusion, impaired judgement) Decreased vitamin B 12 serum levels (with prolonged folic acid therapy). Increased seizures in patients with epilepsy receiving phenobarbital, primidone, or diphenylhydantoin The most common adverse reactions are nausea, anorexia, and bloating. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Solubiomix, LLC at 1-844-551-9911 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Anticonvulsant action of phenytoin is antagonized by folic acid. ( 7 ) Multiple drug classes, including anticonvulsants, antibiotic/antimicrobial agents, folate antagonists, GI-binding agents, and oral contraceptives, may reduce folic acid absorption or folate levels. ( 7 ) 7.1 Impact of Folic Acid on Other Drugs Folic acid may interfere with gastrointestinal absorption of methotrexate. Folic acid therapy in folate-deficient individuals may decrease serum levels of phenytoin. Folic acid may also interfere with the absorption and effectiveness of antibiotic tetracycline. Folic acid supplements are usually avoided on the day of oral methotrexate administration. Generally, the time of administration of these drugs should be separated from folic acid. 7.2 Impact of Other Drugs on Folic Acid A wide range of medications can affect folic acid levels through multiple mechanisms, including impaired absorption, accelerated metabolism, and direct inhibition of folate pathways. Enzyme-inducing anticonvulsants such as phenytoin, primidone, carbamazepine, phenobarbital, and the broader anticonvulsant class increase hepatic folate metabolism, inhibit intestinal folate-processing enzymes, raise gastrointestinal pH, or displace folate from serum proteins, collectively leading to decreased folate availability. Valproate and sulfasalazine primarily reduce intestinal folate absorption or interfere with folate-dependent metabolic pathways, while isoniazid and cycloserine reduce folate utilization through metabolic disruption. Several antifolate agents, including trimethoprim, pyrimethamine, methotrexate, and triamterene, directly inhibit dihydrofolate reductase, decreasing the formation of active folate derivatives. Additional agents such as pentamidine, antacids, cholestyramine, colestipol, and H 2 blockers impair gastrointestinal folate uptake through pH elevation, transporter inhibition, or binding of dietary folate. Nitrous oxide indirectly decreases folate activity by inactivating vitamin B12 and downstream methylation pathways, while oral contraceptives increase folate turnover and urinary loss. While on QUIOFIC treatment, if patients are concomitantly using any of the drugs or drug classes mentioned above, then monitor for reduced efficacy and adjust the dose of QUIOFIC as needed."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available data from published studies over decades of use of folic acid in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Pregnant women should follow the U.S. Recommended Daily Allowances for pregnancy because their folic acid requirements may exceed those of nonpregnant women. Pregnant women with folic acid deficiency during the first trimester are at increased risk of neural tube defects in the developing fetus. Animal studies to evaluate the potential reproductive and developmental toxicity have not been conducted. The background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. 8.2 Lactation Risk Summary Available data from published studies over decades of use of folic acid supplementation in lactating women have found that folic acid is present in human milk. Lactating women should follow the U.S. Recommended Dietary Allowances for their condition, because their folic acid requirements may exceed those of nonlactating women. At recommended supplementation doses, there have been no reports of adverse events in breastfed infants over decades of use. There are no data regarding the effect of folic acid on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for folic acid and any potential adverse effects on the breastfed child from supplemental folic acid or from the underlying maternal condition. 8.4 Pediatric Use QUIOFIC is approved for treatment of megaloblastic anemias due to folic acid deficiency in pediatric patients [see Dosage and Administration (2) ]."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available data from published studies over decades of use of folic acid in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Pregnant women should follow the U.S. Recommended Daily Allowances for pregnancy because their folic acid requirements may exceed those of nonpregnant women. Pregnant women with folic acid deficiency during the first trimester are at increased risk of neural tube defects in the developing fetus. Animal studies to evaluate the potential reproductive and developmental toxicity have not been conducted. The background risk of major birth defects and miscarriage for the indicated population(s) is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION Folic acid, N-[ p -[[(2-amino-4- hydroxy-6-pteridinyl) methyl]- amino] benzoyl]-L glutamic acid, is a B complex vitamin containing a pteridine moiety linked by a methylene bridge to para -aminobenzoic acid, which is joined by a peptide linkage to glutamic acid. Conjugates of folic acid are present in a wide variety of foods, particularly liver, kidneys, yeast, and leafy green vegetables. Commercially available folic acid is prepared synthetically. Folic acid, USP occurs as a yellow or yellowish-orange crystalline powder and is very slightly soluble in water and insoluble in alcohol. Folic acid, USP is readily soluble in dilute solutions of alkali hydroxides and carbonates, and solutions of the drug may be prepared with the aid of sodium hydroxide or sodium carbonate, thereby forming the soluble sodium salt of folic acid (sodium folate). Aqueous solutions of folic acid are heat sensitive and rapidly decompose in the presence of light and/or riboflavin; solutions should be stored in a cool place protected from light. The structural formula of folic acid is as follows: C 19 H 19 N 7 O 6 M.W. 441.40 Each 1 mL of solution, for oral administration, contains 0.2 mg folic acid, USP. QUIOFIC ® (folic acid) Oral Solution, 0.2 mg/mL contains the following inactive ingredients: edetate disodium, methylparaben, mixed berry flavor, propylene glycol, propylparaben, purified water, sodium phosphate dibasic, sodium phosphate monobasic, and sorbitol solution. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. 12.2 Pharmacodynamics Folic acid supplementation restores tetrahydrofolate-dependent activity, with reticulocytosis in 2–5 days and hematologic normalisation within 1–2 weeks. Serum folate reflects recent intake, red blood cell folate reflects long-term stores, and plasma homocysteine serves as a functional biomarker. 12.3 Pharmacokinetics Absorption Folic acid is absorbed from the small intestine, primarily from the proximal portion. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. Distribution Folic acid as well as its physiologically active metabolite, L-5-methyl tetrahydro folate (L-5-MTHF), can be bound to plasma proteins when entering the systemic circulation. The fraction of folic acid bound to plasma proteins, particularly albumin, ranges between ~50% to 64%. The volume of distribution of L-5-MTHF is estimated to be 32.0 L. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Metabolism The first step in the metabolism of folic acid is its reduction to dihydrofolate via dihydrofolate reductase. Subsequently, dihydrofolate is further reduced to tetrahydrofolate (THF). THF is further converted to methylene-THF by serine-hydroxymethyltransferase and reduced to physiologically active L-5-MTHF via methylenetetrahydrofolate reductase (MTHFR). Elimination After intravenous administration, folic acid is rapidly cleared from the plasma. Following oral administration, majority of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Folic acid supplementation restores tetrahydrofolate-dependent activity, with reticulocytosis in 2–5 days and hematologic normalisation within 1–2 weeks. Serum folate reflects recent intake, red blood cell folate reflects long-term stores, and plasma homocysteine serves as a functional biomarker."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Folic acid is absorbed from the small intestine, primarily from the proximal portion. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour. Distribution Folic acid as well as its physiologically active metabolite, L-5-methyl tetrahydro folate (L-5-MTHF), can be bound to plasma proteins when entering the systemic circulation. The fraction of folic acid bound to plasma proteins, particularly albumin, ranges between ~50% to 64%. The volume of distribution of L-5-MTHF is estimated to be 32.0 L. Tetrahydrofolic acid derivatives are distributed to all body tissues but are stored primarily in the liver. Cerebrospinal fluid levels of folic acid are several times greater than serum levels of the drug. Metabolism The first step in the metabolism of folic acid is its reduction to dihydrofolate via dihydrofolate reductase. Subsequently, dihydrofolate is further reduced to tetrahydrofolate (THF). THF is further converted to methylene-THF by serine-hydroxymethyltransferase and reduced to physiologically active L-5-MTHF via methylenetetrahydrofolate reductase (MTHFR). Elimination After intravenous administration, folic acid is rapidly cleared from the plasma. Following oral administration, majority of the dose was recovered in the urine. A majority of the metabolic products appeared in the urine after 6 hours; excretion was generally complete within 24 hours. Small amounts of orally administered folic acid have also been recovered in the feces."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals to evaluate carcinogenic potential and studies to evaluate the mutagenic potential or effect on fertility have not been conducted."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING QUIOFIC (folic acid) Oral Solution, 0.2 mg/mL is a yellow solution with a mixed berry flavor supplied in amber PET bottles with a child-resistant closure containing 75 mL of oral solution (NDC 69499-501-75). Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature]. Store and dispense in the original container to protect from light. Discard unused portion 30 days after first opening."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Physicians should advise patients and caregivers about the following for safe use of QUIOFIC: Advise patients to report signs or symptoms of hypersensitivity reaction [see Contraindications (4) ]. Instruct patients and caregivers to use an oral dosing syringe to correctly measure the prescribed amount of medication. Inform patients that oral dosing syringes may be obtained from their pharmacy. Manufactured for: Solubiomix, LLC Madisonville, LA 70447 3107 R0126"
+  ],
+  "set_id": "b868b314-591d-458b-be82-2bcd0b73cce1",
+  "id": "2df4e376-7829-44c9-9cd4-70cd980046a2",
+  "effective_time": "20261005",
+  "version": "4"
+ }
+}

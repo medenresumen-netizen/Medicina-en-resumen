@@ -1,0 +1,760 @@
+{
+ "id_es": "lorazepam",
+ "generic_en": "lorazepam",
+ "search": "openfda.generic_name.exact:\"LORAZEPAM\"",
+ "downloaded": "2026-11-11T06:46Z",
+ "chosen": {
+  "set_id": "227734c1-bf01-9607-73ea-5a1f38a89bd9",
+  "id": "fa403ae4-25fa-9fb8-1596-342d4560c6da",
+  "effective_time": "20251008",
+  "version": "6",
+  "brand_name": [
+   "LOREEV XR"
+  ],
+  "generic_name": [
+   "LORAZEPAM"
+  ],
+  "manufacturer_name": [
+   "Almatica Pharma LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA214826"
+  ],
+  "n_sections": 36
+ },
+ "candidates": [
+  {
+   "set_id": "1f79a5a1-0c40-45cf-8994-51f5ba3a5938",
+   "id": "5f4cc9d1-91b1-f3d1-e063-6294a90ae486",
+   "effective_time": "20261102",
+   "version": "8",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076045"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "08a30230-fc95-9025-e063-6394a90ae21b",
+   "id": "5f14a122-d123-a278-e063-6294a90a7516",
+   "effective_time": "20261030",
+   "version": "17",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076045"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "711b60a3-028d-41d4-aa17-8f976e6df23e",
+   "id": "640f20bd-3286-4abb-8d43-2a90173dacc0",
+   "effective_time": "20261030",
+   "version": "9",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "PAI Holdings, LLC dba PAI Pharma"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090260"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "0c1caa9c-9ef1-459c-86c3-adb939130a9f",
+   "id": "5ef6893a-1df6-601d-e063-6294a90a5159",
+   "effective_time": "20261029",
+   "version": "5",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "SUN PHARMACEUTICAL INDUSTRIES INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076045"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "7999b9c3-6185-4e4e-a4c3-d5d33d6c31d6",
+   "id": "5ec36986-b66e-3f77-e063-6394a90a9d25",
+   "effective_time": "20261026",
+   "version": "16",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072926"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "7afd9a59-3463-4eda-8cf3-ef90be05de3d",
+   "id": "5ec352bc-1b45-10a8-e063-6294a90a33cc",
+   "effective_time": "20261026",
+   "version": "17",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072927"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "0681c8db-ff09-4258-a5e0-76a26b0ea0af",
+   "id": "5dfc256b-20cb-3abc-e063-6294a90a5c41",
+   "effective_time": "20261016",
+   "version": "15",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078203"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "1009c870-fd98-4e3b-81c8-4184036fb8c2",
+   "id": "5cb38971-838d-bb6c-e063-6294a90add56",
+   "effective_time": "20260930",
+   "version": "17",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078203"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "ac1f88c2-2cf2-47de-a612-946cd4503090",
+   "id": "5ca0c3de-5308-9f1f-e063-6294a90a8bf5",
+   "effective_time": "20260929",
+   "version": "9",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072926"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5c2cc4eb-cc84-f08c-e063-6394a90a605b",
+   "id": "5c2cc4eb-cc85-f08c-e063-6394a90a605b",
+   "effective_time": "20260923",
+   "version": "1",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072927"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5fc0e987-61c9-40c4-b0d5-fcea07c8733e",
+   "id": "fb40dcce-9da3-49b4-9bde-e01a17abeae6",
+   "effective_time": "20260916",
+   "version": "15",
+   "brand_name": [
+    "Ativan"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018140"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "c0810422-b732-4c04-97d8-c1521c401ef4",
+   "id": "5b232af4-dc8b-8ee2-e063-6394a90a26ab",
+   "effective_time": "20260910",
+   "version": "1",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Clinical Solutions Wholesale, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076045"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "86630bdd-13ad-4ab5-9e94-fcf2ea2113e1",
+   "id": "5a94ce78-1d9d-dc17-e063-6394a90a4890",
+   "effective_time": "20260903",
+   "version": "4",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076045"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5a02c97d-637d-43f7-803c-afe4381ccc59",
+   "id": "593f032b-81e9-1f79-e063-6394a90ac7a7",
+   "effective_time": "20260817",
+   "version": "5",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074243"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "6c5356b1-c199-49ad-bb00-fd67c6691f74",
+   "id": "5877b890-c612-f4c2-e063-6294a90a9984",
+   "effective_time": "20260807",
+   "version": "10",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072927"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "903351ae-1bb0-4ac0-8430-df24cf2eee76",
+   "id": "903351ae-1bb0-4ac0-8430-df24cf2eee76",
+   "effective_time": "20260731",
+   "version": "1",
+   "brand_name": [
+    "LORAZEPAM"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203572"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "be9f8bda-1cd9-40a6-a4da-b5961389fb5b",
+   "id": "575b46b7-7e0b-d1e8-e063-6294a90aba2b",
+   "effective_time": "20260724",
+   "version": "16",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078203"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "787240e9-67b5-4af3-b16d-7cf314e3f2e3",
+   "id": "f94c8e8d-899c-4eb4-8272-9054155896ec",
+   "effective_time": "20260715",
+   "version": "3",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077396"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "20140b19-846b-425f-b191-670e17809945",
+   "id": "0280cc35-0696-4091-a000-2314f292feb2",
+   "effective_time": "20260710",
+   "version": "28",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA074243"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "d6364be4-056b-4ebe-83bc-3fc85e8f488c",
+   "id": "5633370c-ff55-7991-e063-6294a90a7bc4",
+   "effective_time": "20260709",
+   "version": "15",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078203"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "56093df3-10f6-e747-e063-6294a90a6564",
+   "id": "560930d7-50b0-041d-e063-6294a90ab00d",
+   "effective_time": "20260707",
+   "version": "1",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218597"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "569e8a5a-ddf7-ebbc-e063-6294a90ab7a4",
+   "id": "569e8a5a-ddf6-ebbc-e063-6294a90ab7a4",
+   "effective_time": "20260707",
+   "version": "1",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218597"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b707ecb2-644c-4323-ab0e-7bc5929cd560",
+   "id": "5528aab1-6a1c-cc99-e063-6294a90a8997",
+   "effective_time": "20260626",
+   "version": "16",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078203"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "5519bba8-9eb7-a3e0-e063-6294a90afd94",
+   "id": "5519bc30-e179-d374-e063-6294a90a7fe9",
+   "effective_time": "20260625",
+   "version": "1",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072926"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "551a1b7f-d342-2c53-e063-6394a90a9a2a",
+   "id": "551a1c0f-3ea2-16ef-e063-6294a90a9b9a",
+   "effective_time": "20260625",
+   "version": "1",
+   "brand_name": [
+    "Lorazepam"
+   ],
+   "generic_name": [
+    "LORAZEPAM"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072928"
+   ],
+   "n_sections": 25
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Warnings and Precautions ( 5.8 ) 1/2023"
+  ],
+  "recent_major_changes_table": [
+   "<table frame=\"void\" rules=\"none\" width=\"100%\"> <tbody> <tr> <td>Warnings and Precautions (<linkHtml href=\"#_505724e1-f428-7c02-2d29-3d82566c11a9\">5.8</linkHtml>)</td> <td align=\"right\">1/2023</td> </tr> </tbody> </table>"
+  ],
+  "boxed_warning": [
+   "WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; and DEPENDENCE AND WITHDRAWAL REACTIONS Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death. Reserve concomitant prescribing of these drugs for patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients for signs and symptoms of respiratory depression and sedation [see Warnings and Precautions ( 5.1 ), Drug Interactions ( 7 )]. The use of benzodiazepines, including LOREEV XR, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death. Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes. Before prescribing LOREEV XR and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction [see Warnings and Precautions ( 5.2 )]. The continued use of benzodiazepines, including LOREEV XR, may lead to clinically significant physical dependence. The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose. Abrupt discontinuation or rapid dosage reduction of LOREEV XR after continued use may precipitate acute withdrawal reactions, which can be life-threatening. To reduce the risk of withdrawal reactions, use a gradual taper to discontinue LOREEV XR or reduce the dosage [see Dosage and Administration ( 2.4 ), Warnings and Precautions ( 5.3 )]. WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; and DEPENDENCE AND WITHDRAWAL REACTIONS See full prescribing information for complete boxed warning. Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death. Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients for signs and symptoms of respiratory depression and sedation ( 5.1 , 7 ) The use of benzodiazepines, including LOREEV XR, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death. Before prescribing LOREEV XR and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction ( 5.2 ) Abrupt discontinuation or rapid dosage reduction of LOREEV XR after continued use may precipitate acute withdrawal reactions, which can be life-threatening. To reduce the risk of withdrawal reactions, use a gradual taper to discontinue LOREEV XR or reduce the dosage ( 2.4 , 5.3 )"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE LOREEV XR is indicated for the treatment of anxiety disorders in adults who are receiving stable, evenly divided, three times daily dosing with lorazepam tablets. LOREEV XR is a benzodiazepine indicated for the treatment of anxiety disorders in adults who are receiving stable, evenly divided, three times daily dosing with lorazepam tablets ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Recommended dosage of LOREEV XR is equal to the total daily dose of lorazepam tablets (at the previous three times daily dosage) ( 2.1 ) Administer LOREEV XR orally once daily in the morning ( 2.2 ) Capsules may be swallowed whole or opened and the entire contents sprinkled onto applesauce. Do not crush or chew ( 2.2 ) For dosage adjustments, discontinue LOREEV XR and switch to lorazepam tablets to adjust dosage ( 2.3 ) 2.1 Recommended Dosage Initiate LOREEV XR in patients who are being treated with lorazepam tablets, administered three times daily in evenly divided doses (refer to the Prescribing Information of lorazepam tablets for the recommended dosage of lorazepam tablets). Discontinue lorazepam tablets and administer the first dose of LOREEV XR in the morning the day after the final dose of lorazepam tablets. The recommended once daily dosage of LOREEV XR is equal to the total daily dose of lorazepam tablets. For example, the recommended dosage for patients who have been receiving lorazepam tablets at a dosage of 1 mg three times daily is LOREEV XR 3 mg once daily in the morning. The effectiveness of LOREEV XR use for more than 4 months has not been assessed in clinical studies. Healthcare providers should periodically re-evaluate longer term use of LOREEV XR. 2.2 Administration Information Administer LOREEV XR orally once daily, in the morning, with or without food. Do not crush or chew LOREEV XR. Swallow LOREEV XR capsules whole or open the capsule and sprinkle the entire contents over a tablespoon of applesauce, followed by drinking water. Consume all the sprinkled LOREEV XR in its entirety, (without chewing) within 2 hours; do not store for future use. 2.3 Dosage Increase for Inadequate Clinical Response If the clinical response to LOREEV XR is inadequate and a dosage increase in needed, discontinue LOREEV XR and switch to lorazepam tablets to increase the dosage. If an adequate clinical response is achieved with a stable, evenly divided three times daily dosage of lorazepam tablets, resume LOREEV XR once daily dosing with the total daily dose of lorazepam tablets [see Dosage and Administration ( 2.1 )] . 2.4 Discontinuation or Dosage Reduction of LOREEV XR To reduce the risk of withdrawal reactions, use a gradual taper to discontinue LOREEV XR or reduce the dosage. If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level. Subsequently decrease the dosage more slowly [see Warnings and Precautions ( 5.3 ), Drug Abuse and Dependence ( 9.3 )] . 2.5 Concomitant Use with UDP-glucuronosyltransferase (UGT) Inhibitors If an UGT inhibitor is initiated during treatment with LOREEV XR, discontinue LOREEV XR and switch to lorazepam tablets to reduce the dosage [see Dosage and Administration ( 2.4 ), Drug Interactions ( 7 )] ."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS LOREEV XR (lorazepam) extended-release capsules are available as: 1 mg: Hard gelatin capsules with an opaque white body, yellow cap and grey printing ink; \"ALM\" is printed axially on the yellow cap and \"658\" is printed axially on the opaque white body 1.5 mg: Hard gelatin capsules with an opaque white body, purple cap and black printing ink; \"ALM\" is printed axially on the purple cap and \"661\" is printed axially on the opaque white body 2 mg: Hard gelatin capsules with an opaque white body, orange cap and grey printing ink; \"ALM\" is printed axially on the orange cap and \"663\" is printed axially on the opaque white body 3 mg: Hard gelatin capsules with an opaque white body, yellowish-green cap and grey printing ink; \"ALM\" is printed axially on the yellowish-green cap and \"667\" is printed axially on the opaque white body Extended-release capsules: 1 mg, 1.5 mg, 2 mg, and 3 mg ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS LOREEV XR is contraindicated in patients with: hypersensitivity to benzodiazepines or to any of the ingredients in LOREEV XR [see Warnings and Precautions ( 5.7 )] . acute narrow-angle glaucoma Hypersensitivity to benzodiazepines or any ingredients in LOREEV XR ( 4 ) Acute narrow-angle glaucoma ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS CNS Depression: May cause CNS depression. Caution patients receiving LOREEV XR against operating machinery or driving a motor vehicle as well to avoid the concomitant use of alcohol and other CNS depressant drugs during treatment ( 5.4 , 7 ) Patients with Depression or Psychosis: Use with caution in patients with signs or symptoms of depression. Prescribe the least number of capsules feasible to avoid intentional overdosage ( 5.5 ) Allergic Reactions to FD&C Yellow No. 5 (Tartrazine): Contains FD&C Yellow No. 5 (tartrazine) which may cause allergic type reactions (including bronchial asthma) in certain susceptible persons ( 5.7 ) Neonatal Sedation and Withdrawal Syndrome: LOREEV XR use during pregnancy can result in neonatal sedation and/or withdrawal ( 5.8 , 8.1 ) 5.1 Risks from Concomitant Use with Opioids Concomitant use of benzodiazepines, including LOREEV XR, and opioids may result in profound sedation, respiratory depression, coma, and death. Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate. Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone. If a decision is made to prescribe LOREEV XR concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation. In patients already receiving an opioid analgesic, prescribe a lower initial dose of LOREEV XR than indicated in the absence of an opioid and titrate based on clinical response. If an opioid is initiated in a patient already taking LOREEV XR, prescribe a lower initial dose of the opioid and titrate based upon clinical response. Advise both patients and caregivers about the risks of respiratory depression and sedation when LOREEV XR is used with opioids. Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined [see Drug Interactions ( 7 )] . 5.2 Abuse, Misuse, and Addiction The use of benzodiazepines, including LOREEV XR, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death. Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence ( 9.2 )] . Before prescribing LOREEV XR and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool). Use of LOREEV XR, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of LOREEV XR along with monitoring for signs and symptoms of abuse, misuse, and addiction. Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug. If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate. 5.3 Dependence and Withdrawal Reactions To reduce the risk of withdrawal reactions, use a gradual taper to discontinue LOREEV XR or reduce the dosage (a patient-specific plan should be used to taper the dose) [see Dosage and Administration ( 2.4 )] . Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use. Acute Withdrawal Reactions The continued use of benzodiazepines, including LOREEV XR, may lead to clinically significant physical dependence. Abrupt discontinuation or rapid dosage reduction of LOREEV XR after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence ( 9.3 )] . Protracted Withdrawal Syndrome In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence ( 9.3 )] . 5.4 Central Nervous System (CNS) Depression Benzodiazepines, including LOREEV XR, may produce CNS depression. Caution patients receiving LOREEV XR against engaging in hazardous occupations or activities requiring complete mental alertness such as operating machinery or driving a motor vehicle. Use of benzodiazepines, including LOREEV XR, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression. Alcohol should be avoided and other CNS depressant drugs used with caution during treatment with LOREEV XR [see Drug Interactions ( 7 )] . 5.5 Patients with Depression or Psychosis LOREEV XR is not recommended for use in patients with a primary depressive disorder or psychosis. Pre-existing depression may emerge or worsen during use of benzodiazepines, including LOREEV XR. In patients with depression, a possibility for suicide should be borne in mind. Consequently, appropriate precautions (e.g., limiting the total prescription size and increased monitoring for suicidal ideation) should be considered in patients with depression. LOREEV XR should not be used in such patients without adequate antidepressant therapy. 5.6 Risk of Paradoxical Reactions Paradoxical reactions (agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) have been reported during benzodiazepine use [see Adverse Reactions ( 6 )] . Such reactions may be more likely to occur in the elderly [see Adverse Reactions ( 8.5 )] . Discontinue LOREEV XR if the patient experiences these reactions. 5.7 Allergic Reactions to FD&C Yellow No. 5 (Tartrazine) LOREEV XR 1 mg capsules contain FD&C Yellow No. 5 (tartrazine), which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons. Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity [see Contraindications ( 4 )] . 5.8 Neonatal Sedation and Withdrawal Syndrome Use of LOREEV XR late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations ( 8.1 )] . Monitor neonates exposed to LOREEV XR during pregnancy or labor for signs of sedation and monitor neonates exposed to LOREEV XR during pregnancy for signs of withdrawal; manage these neonates accordingly. 5.9 Risk in Patients with Impaired Respiratory Function In patients with impaired respiratory function, respiratory depression and apnea have been reported with benzodiazepines. Closely monitor patients with impaired respiratory function. If signs and symptoms of respiratory depression or apnea occur, consider discontinuing LOREEV XR. 5.10 Laboratory Tests Leukopenia and elevations of LDH have developed in patients receiving lorazepam tablets [see Adverse Reactions ( 6 )] . Periodic blood counts and liver function tests are recommended for patients on long-term therapy."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following serious adverse reactions are described elsewhere in the labeling: Risks from Concomitant Use with Opioids [see Warnings and Precautions ( 5.1 )] Abuse, Misuse, and Addiction [see Warnings and Precautions ( 5.2 )] Dependence and Withdrawal Reactions [see Warnings and Precautions ( 5.3 )] Central Nervous System (CNS) Depression [see Warnings and Precautions ( 5.4 )] Patients with Depression or Psychosis [see Warnings and Precautions ( 5.5 )] Allergic Reactions to FD&C Yellow No. 5 (Tartrazine) [see Warnings and Precautions ( 5.7 )] Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions ( 5.8 )] Risk in Patients with Impaired Respiratory Function [see Warnings and Precautions ( 5.9 )] The safety of LOREEV XR in adults is based on studies with lorazepam tablets. The following adverse reactions associated with the use of lorazepam tablets were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. In a sample of approximately 3,500 patients treated for anxiety, the most frequent adverse reactions to lorazepam tablets were sedation (15.9%), dizziness (6.9%), weakness (4.2%), and unsteadiness (3.4%). The incidence of sedation and unsteadiness increased with age. The following reported adverse reactions are categorized by System Organ Class (SOC): Blood and Lymphatic System Disorders: agranulocytosis, leukopenia, pancytopenia, thrombocytopenia Endocrine Disorders: syndrome of inappropriate antidiuretic hormone (SIADH) Eye Disorder: eye function/visual disturbance (including diplopia and blurred vision) Gastrointestinal Disorder: constipation, gastrointestinal symptoms including nausea General Disorders and Administration Site Conditions: asthenia, fatigue, hypothermia Hepatobiliary Disorders: jaundice Immune System Disorders: anaphylactoid reactions, hypersensitivity reactions Investigations: increase in bilirubin, increase in liver transaminases (including elevated LDH), increase in alkaline phosphatase Metabolism and Nutrition Disorders: change in appetite, hyponatremia Nervous System Disorders: ataxia, autonomic manifestations, coma, convulsions/seizures, drowsiness, dysarthria/slurred speech, extrapyramidal symptoms, headache, tremor, vertigo, memory impairment Psychiatric Disorders: amnesia, change in libido, confusion, decreased orgasm, depression, disinhibition, disorientation, euphoria, suicidal ideation/attempt, unmasking of depression Reproductive System and Breast Disorders: impotence Respiratory Thoracic and Mediastinal Disorders: apnea, respiratory depression, worsening of obstructive pulmonary disease, worsening of sleep apnea Skin and Subcutaneous Tissue Disorder: allergic skin reactions, alopecia, dermatological symptoms Paradoxical reactions, including anxiety, excitation, agitation, hostility, aggression, rage, sleep disturbances/insomnia, sexual arousal, and hallucinations may occur. Small decreases in blood pressure and hypotension have been reported with immediate-release lorazepam. Many adverse reactions to benzodiazepines, including CNS effects and respiratory depression, are dose dependent, with more severe effects occurring with high doses. Most frequent adverse reactions: sedation, dizziness, weakness, unsteadiness ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma LLC at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Table 1 presents clinically significant interactions with LOREEV XR. Use with Opioids: Increase the risk of respiratory depression ( 7 ) CNS depressants: Additive CNS depressant effects (7) Alcohol: Avoid use. Increases the release rate of LOREEV XR (7) UGT Inhibitors: Avoid initiation of UGT inhibitors. Dose reduction requires switching to lorazepam tablets for dose adjustment (7) Table 1: Clinically Significant Drug Interactions with LOREEV XR. Opioids Clinical Impact The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at gamma-aminobutyric acid (GABA A ) sites and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists [see Warnings and Precautions ( 5.1 )] . Intervention Limit dosage and duration of concomitant use of LOREEV XR and opioids, and monitor patients closely for respiratory depression and sedation. Alcohol Clinical Impact Based on an in vitro study, alcohol increases the release rate of LOREEV XR [see Clinical Pharmacology ( 12.3 )] . Intervention Avoid concomitant use of alcohol during treatment with LOREEV XR [see Warnings and Precautions ( 5.4 )] . CNS-Depressants Clinical Impact Benzodiazepines, including LOREEV XR, increase CNS-depressant effects when administered with other CNS depressants. Concomitant use of clozapine and LOREEV XR may produce marked sedation, excessive salivation, hypotension, ataxia, delirium, and respiratory arrest. Intervention Avoid co-administration of alcohol with LOREEV XR. Use caution if LOREEV XR is co-administered with other CNS-depressants [see Warnings and Precautions (5.4)] . Inhibitors of UGT Clinical Impact Concomitant use of LOREEV XR with UGT inhibitors may increase lorazepam exposure [see Clinical Pharmacology (12.3)] , which may increase the risk of adverse reactions. Intervention Avoid initiating an UGT inhibitor during treatment with LOREEV XR. If an UGT inhibitor is initiated, discontinue LOREEV XR and switch to lorazepam tablets [see Dosage and Administration ( 2.5 )] ."
+  ],
+  "drug_interactions_table": [
+   "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"95%\"> <caption>Table 1: Clinically Significant Drug Interactions with LOREEV XR.</caption> <tbody> <tr> <td colspan=\"2\" valign=\"top\"> <content styleCode=\"bold\">Opioids</content> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Clinical Impact</content> <content styleCode=\"bold\"/> </td> <td valign=\"top\"> The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at gamma-aminobutyric acid (GABA<sub>A</sub>) sites and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists <content styleCode=\"italics\">[see Warnings and Precautions (<linkHtml href=\"#_369ac242-4f43-9bf5-eeef-d1237d77550b\">5.1</linkHtml>)]</content>.<content styleCode=\"bold\"/> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Intervention</content> <content styleCode=\"bold\"/> </td> <td valign=\"top\"> Limit dosage and duration of concomitant use of LOREEV XR and opioids, and monitor patients closely for respiratory depression and sedation.<content styleCode=\"bold\"/> </td> </tr> <tr> <td colspan=\"2\" valign=\"top\"> <content styleCode=\"bold\">Alcohol</content> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Clinical Impact</content> <content styleCode=\"bold\"/> </td> <td valign=\"top\"> Based on an <content styleCode=\"italics\">in vitro</content> study, alcohol increases the release rate of LOREEV XR <content styleCode=\"italics\">[see Clinical Pharmacology (<linkHtml href=\"#PHARMACOKINETICS\">12.3</linkHtml>)]</content>. </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Intervention</content> <content styleCode=\"bold\"/> </td> <td valign=\"top\"> Avoid concomitant use of alcohol during treatment with LOREEV XR <content styleCode=\"italics\">[see Warnings and Precautions (<linkHtml href=\"#_0f180a5b-20de-9142-5c70-12bf31c68a1f\">5.4</linkHtml>)]</content>.<content styleCode=\"bold\"/> </td> </tr> <tr> <td colspan=\"2\" valign=\"top\"> <content styleCode=\"bold\">CNS-Depressants</content> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Clinical Impact</content> <content styleCode=\"bold\"/> </td> <td valign=\"top\"> Benzodiazepines, including LOREEV XR, increase CNS-depressant effects when administered with other CNS depressants. Concomitant use of clozapine and LOREEV XR may produce marked sedation, excessive salivation, hypotension, ataxia, delirium, and respiratory arrest. </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Intervention</content> <content styleCode=\"bold\"/> </td> <td valign=\"top\"> Avoid co-administration of alcohol with LOREEV XR. Use caution if LOREEV XR is co-administered with other CNS-depressants <content styleCode=\"italics\">[see Warnings and Precautions (5.4)]</content>.<content styleCode=\"bold\"/> </td> </tr> <tr> <td colspan=\"2\" valign=\"top\"> <content styleCode=\"bold\">Inhibitors of UGT </content> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Clinical Impact</content> </td> <td valign=\"top\"> Concomitant use of LOREEV XR with UGT inhibitors may increase lorazepam exposure <content styleCode=\"italics\">[see Clinical Pharmacology (12.3)]</content>, which may increase the risk of adverse reactions. </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"italics\">Intervention</content> </td> <td valign=\"top\"> Avoid initiating an UGT inhibitor during treatment with LOREEV XR. If an UGT inhibitor is initiated, discontinue LOREEV XR and switch to lorazepam tablets <content styleCode=\"italics\">[see Dosage and Administration (<linkHtml href=\"#_09aabcc1-1277-4959-6c61-f3e070a5cd69\">2.5</linkHtml>)]</content>. </td> </tr> </tbody> </table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Lactation: Breastfeeding not recommended ( 8.2 ) 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to LOREEV XR during pregnancy. Health care providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or by visiting online at https://womensmentalhealth.org/pregnancyregistry. Risk Summary Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions ( 5.8 ), Clinical Considerations] . Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data) . In animal studies, administration of lorazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically. Data for benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses (see Data) . The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates. Monitor neonates exposed to LOREEV XR during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to LOREEV XR during pregnancy for signs of withdrawal. Manage these neonates accordingly [see Warnings and Precautions ( 5.8 )] . Data Human Data Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings. Animal Data Reproductive studies in animals were performed in mice, rats, and two strains of rabbits. A low incidence of malformations (reduction of tarsals, tibia, metatarsals, mal-rotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage. Although all of these anomalies were not present in the concurrent control group, they have been reported to occur randomly in historical controls. At doses of 40 mg/kg and higher there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen at lower doses. In published animal studies, administration of benzodiazepines or other drugs that enhance GABAergic inhibition to neonatal rats has been reported to result in widespread apoptotic neurodegeneration in the developing brain. The window of vulnerability to these changes in rats (postnatal days 0-14) includes a period of brain development that takes place during the third trimester of pregnancy in humans. 8.2 Lactation Risk Summary Lorazepam is present in breastmilk. There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk. The effects of lorazepam on milk production are unknown. Because of the potential for serious adverse reactions, including sedation and withdrawal symptoms in breastfed infants, advise patients that breastfeeding is not recommended during treatment with LOREEV XR. 8.4 Pediatric Use The safety and effectiveness of LOREEV XR has not been established in pediatric patients. 8.5 Geriatric Use Clinical studies of lorazepam tablets were not adequate to determine whether patients age 65 years and older responded differently than younger patients; however, the incidence of sedation and unsteadiness was observed to increase with age [see Adverse Reactions ( 6 )] . Age does not appear to have a significant effect on lorazepam pharmacokinetics [see Clinical Pharmacology ( 12.3 )] . In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Greater sensitivity (e.g., sedation) of some older individuals cannot be ruled out [see Warnings and Precautions ( 5.6 )] . 8.6 Hepatic Impairment As with all benzodiazepines, the use of lorazepam, including LOREEV XR, may worsen hepatic encephalopathy. Therefore, LOREEV XR should be used with caution in patients with severe hepatic insufficiency and/or encephalopathy."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to LOREEV XR during pregnancy. Health care providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or by visiting online at https://womensmentalhealth.org/pregnancyregistry. Risk Summary Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions ( 5.8 ), Clinical Considerations] . Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data) . In animal studies, administration of lorazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically. Data for benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses (see Data) . The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates. Monitor neonates exposed to LOREEV XR during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to LOREEV XR during pregnancy for signs of withdrawal. Manage these neonates accordingly [see Warnings and Precautions ( 5.8 )] . Data Human Data Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings. Animal Data Reproductive studies in animals were performed in mice, rats, and two strains of rabbits. A low incidence of malformations (reduction of tarsals, tibia, metatarsals, mal-rotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage. Although all of these anomalies were not present in the concurrent control group, they have been reported to occur randomly in historical controls. At doses of 40 mg/kg and higher there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen at lower doses. In published animal studies, administration of benzodiazepines or other drugs that enhance GABAergic inhibition to neonatal rats has been reported to result in widespread apoptotic neurodegeneration in the developing brain. The window of vulnerability to these changes in rats (postnatal days 0-14) includes a period of brain development that takes place during the third trimester of pregnancy in humans."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of LOREEV XR has not been established in pediatric patients."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of lorazepam tablets were not adequate to determine whether patients age 65 years and older responded differently than younger patients; however, the incidence of sedation and unsteadiness was observed to increase with age [see Adverse Reactions ( 6 )] . Age does not appear to have a significant effect on lorazepam pharmacokinetics [see Clinical Pharmacology ( 12.3 )] . In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Greater sensitivity (e.g., sedation) of some older individuals cannot be ruled out [see Warnings and Precautions ( 5.6 )] ."
+  ],
+  "drug_abuse_and_dependence": [
+   "9 DRUG ABUSE AND DEPENDENCE 9.1 Controlled Substance LOREEV XR contains lorazepam, a Schedule IV controlled substance. 9.2 Abuse LOREEV XR is a benzodiazepine and a CNS depressant with a potential for abuse and addiction. Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects. Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence. Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication. Abuse and misuse of benzodiazepines may lead to addiction. Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death. Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions ( 5.2 )] . The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo. The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death. Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol). 9.3 Dependence Physical Dependence LOREEV XR may produce physical dependence from continued therapy. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening. Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions ( 5.3 )] . To reduce the risk of withdrawal reactions, use a gradual taper to discontinue LOREEV XR or reduce the dosage [see Dosage and Administration ( 2.4 ), Warnings and Precautions ( 5.3 )] . Acute Withdrawal Signs and Symptoms Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor. More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures and suicidality. Protracted Withdrawal Syndrome Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal. Protracted withdrawal symptoms may last weeks to more than 12 months. As a result, there may be difficulty in differentiating withdrawal symptoms from potential reemergence or continuation of symptoms for which the benzodiazepine was being used. Tolerance Tolerance to LOREEV XR may develop from continued therapy. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose). Tolerance to the therapeutic effect of LOREEV XR may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines."
+  ],
+  "controlled_substance": [
+   "9.1 Controlled Substance LOREEV XR contains lorazepam, a Schedule IV controlled substance."
+  ],
+  "abuse": [
+   "9.2 Abuse LOREEV XR is a benzodiazepine and a CNS depressant with a potential for abuse and addiction. Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects. Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence. Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication. Abuse and misuse of benzodiazepines may lead to addiction. Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death. Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions ( 5.2 )] . The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo. The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death. Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol)."
+  ],
+  "dependence": [
+   "9.3 Dependence Physical Dependence LOREEV XR may produce physical dependence from continued therapy. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening. Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions ( 5.3 )] . To reduce the risk of withdrawal reactions, use a gradual taper to discontinue LOREEV XR or reduce the dosage [see Dosage and Administration ( 2.4 ), Warnings and Precautions ( 5.3 )] . Acute Withdrawal Signs and Symptoms Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor. More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures and suicidality. Protracted Withdrawal Syndrome Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal. Protracted withdrawal symptoms may last weeks to more than 12 months. As a result, there may be difficulty in differentiating withdrawal symptoms from potential reemergence or continuation of symptoms for which the benzodiazepine was being used. Tolerance Tolerance to LOREEV XR may develop from continued therapy. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose). Tolerance to the therapeutic effect of LOREEV XR may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma. In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia. Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur. In severe overdosage cases, patients may develop respiratory depression and coma. Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal [see Warnings and Precautions ( 5.2 )] . Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage. In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway management. Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency. The risk of withdrawal seizures with flumazenil use may be increased in patients with epilepsy. Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially lifethreatening condition (e.g., status epilepticus). If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage. See the flumazenil injection Prescribing Information. Consider contacting the Poison Help line (1-800-222-1222) or medical toxicologist for additional overdosage management recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION LOREEV XR contains lorazepam, a benzodiazepine. Lorazepam is a nearly white crystalline powder and is practically insoluble in water and slightly soluble in alcohol. It is a 1:1 mixture of (R) and (S) isomers. The chemical name is ±-7-chloro-5-( o -chlorophenyl)-1,3-dihydro-3-hydroxy-2 H -1,4-benzodiazepin-2-one and its structural formula is: Molecular formula: C 15 H 10 Cl 2 N 2 O 2 ; Molecular weight: 321.16 LOREEV XR is intended for oral administration. Each capsule contains 1 mg, 1.5 mg, 2 mg, or 3 mg of lorazepam. The inactive ingredients are colloidal silicon dioxide, corn starch, gelatin, glyceryl monostearate, hypromellose, lactose monohydrate, methyl acrylate methyl methacrylate and methacrylic acid (7:3:1) copolymer 280000 dispersion, microcrystalline cellulose, polysorbate 80, talc, titanium dioxide, and triethyl citrate. Additionally, the capsule shells contain the following colorants: 1 mg capsules: FD&C Yellow No. 5 1.5 mg capsules: FD&C Blue No. 1 and FD&C Red No. 3 2 mg capsules: D&C Yellow No. 10 and FD&C Red No. 3 3 mg capsules: D&C Yellow No. 10, FD&C Blue No. 1, FD&C Yellow No. 6"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Lorazepam exerts its effect for the treatment of anxiety disorders through binding to the benzodiazepine site of the gamma-aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition. 12.3 Pharmacokinetics LOREEV XR pharmacokinetics are dose proportional over the dose range of 1 mg to 3 mg. Steady-state plasma concentrations are typically achieved after 5 days of once-daily administration. At steady-state, the mean area under concentration curve (AUC Tau ), the mean peak plasma concentration (C max ), and the mean minimum plasma concentration (C min ) of lorazepam following LOREEV XR 3 mg once-daily administration was 694 ng*h/mL, 35 ng/mL and 25 ng/mL, respectively. AUC Tau , C max , and C min of lorazepam from lorazepam tablets following 1 mg, three-times daily administration were 765 ng*h/mL, 41 ng/mL and 29 ng/mL, respectively. Absorption Following a single 3 mg dose of LOREEV XR under fasted conditions, the median time to attain C max (T max ) is 14 hours, with a range of 7 to 24 hours. Effect of Food Administration of LOREEV XR with a high-fat and high calorie meal did not have a significant effect on exposure of LOREEV XR. However, median T max of lorazepam delayed by approximately 2 hours. LOREEV XR administered under fasted conditions after sprinkling the entire contents onto one-tablespoon (15 mL) of applesauce did not significantly affect exposure and T max of lorazepam. Distribution Following a single 3 mg dose of LOREEV XR under fasted conditions, the mean apparent volume of distribution is approximately 117 L. At clinically relevant concentrations, lorazepam is approximately 85% bound to plasma proteins. Elimination Oral mean plasma clearance (CL/F) is about 72 mL/min in adults following a single 3 mg dose of LOREEV XR and the mean elimination half-life of lorazepam is approximately 20.2 ± 7.2 hours. Metabolism Lorazepam is conjugated at its 3-hydroxy group in the liver into lorazepam glucuronide, which has no demonstratable CNS activity in animals. Excretion Lorazepam glucuronide is excreted in the urine. Specific Populations Geriatric Patients Studies comparing young and elderly subjects have shown that advancing age does not have a significant effect on the pharmacokinetics of lorazepam tablets. However, a study involving single intravenous doses of 1.5 to 3 mg of lorazepam injection, mean total body clearance of lorazepam decreased by 20% in 15 elderly subjects of 60 to 84 years of age compared to that in 15 younger subjects of 19 to 38 years of age. The clinical significance of the decrease in mean total body clearance of lorazepam injection in geriatric patients is unknown. Patients with Hepatic Impairment No pharmacokinetic studies were conducted with LOREEV XR in patients with hepatic impairment. Patients with Renal Impairment No pharmacokinetic studies were conducted with LOREEV XR in patients with renal impairment. Lorazepam is poorly dialyzable. Lorazepam glucuronide, the inactive metabolite, may be highly dialyzable. Drug Interaction Studies Concurrent administration of lorazepam with valproate, an inhibitor of UGT, results in increased plasma concentrations and reduced clearance of lorazepam [see Dosage and Administration ( 2.5 ), Drug Interactions ( 7 )] . Concurrent administration of lorazepam with probenecid, an inhibitor of UGT, may result in a more rapid onset or prolonged effect of lorazepam due to increased half-life and decreased total clearance [see Dosage and Administration ( 2.5 ), Drug Interactions ( 7 )] . Alcohol: An in vitro study showed significant increases of lorazepam release from LOREEV XR capsules at 2 hours with approximately 91-95% and 37-42% of the drug release in the presence of 40% and 20% alcohol, respectively [see Drug Interactions ( 7 )] . Effects of 5% and 10% alcohol on drug release were not significant at 2 hours. There is no in vivo study conducted for the effect of alcohol on drug exposure."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Lorazepam exerts its effect for the treatment of anxiety disorders through binding to the benzodiazepine site of the gamma-aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics LOREEV XR pharmacokinetics are dose proportional over the dose range of 1 mg to 3 mg. Steady-state plasma concentrations are typically achieved after 5 days of once-daily administration. At steady-state, the mean area under concentration curve (AUC Tau ), the mean peak plasma concentration (C max ), and the mean minimum plasma concentration (C min ) of lorazepam following LOREEV XR 3 mg once-daily administration was 694 ng*h/mL, 35 ng/mL and 25 ng/mL, respectively. AUC Tau , C max , and C min of lorazepam from lorazepam tablets following 1 mg, three-times daily administration were 765 ng*h/mL, 41 ng/mL and 29 ng/mL, respectively. Absorption Following a single 3 mg dose of LOREEV XR under fasted conditions, the median time to attain C max (T max ) is 14 hours, with a range of 7 to 24 hours. Effect of Food Administration of LOREEV XR with a high-fat and high calorie meal did not have a significant effect on exposure of LOREEV XR. However, median T max of lorazepam delayed by approximately 2 hours. LOREEV XR administered under fasted conditions after sprinkling the entire contents onto one-tablespoon (15 mL) of applesauce did not significantly affect exposure and T max of lorazepam. Distribution Following a single 3 mg dose of LOREEV XR under fasted conditions, the mean apparent volume of distribution is approximately 117 L. At clinically relevant concentrations, lorazepam is approximately 85% bound to plasma proteins. Elimination Oral mean plasma clearance (CL/F) is about 72 mL/min in adults following a single 3 mg dose of LOREEV XR and the mean elimination half-life of lorazepam is approximately 20.2 ± 7.2 hours. Metabolism Lorazepam is conjugated at its 3-hydroxy group in the liver into lorazepam glucuronide, which has no demonstratable CNS activity in animals. Excretion Lorazepam glucuronide is excreted in the urine. Specific Populations Geriatric Patients Studies comparing young and elderly subjects have shown that advancing age does not have a significant effect on the pharmacokinetics of lorazepam tablets. However, a study involving single intravenous doses of 1.5 to 3 mg of lorazepam injection, mean total body clearance of lorazepam decreased by 20% in 15 elderly subjects of 60 to 84 years of age compared to that in 15 younger subjects of 19 to 38 years of age. The clinical significance of the decrease in mean total body clearance of lorazepam injection in geriatric patients is unknown. Patients with Hepatic Impairment No pharmacokinetic studies were conducted with LOREEV XR in patients with hepatic impairment. Patients with Renal Impairment No pharmacokinetic studies were conducted with LOREEV XR in patients with renal impairment. Lorazepam is poorly dialyzable. Lorazepam glucuronide, the inactive metabolite, may be highly dialyzable. Drug Interaction Studies Concurrent administration of lorazepam with valproate, an inhibitor of UGT, results in increased plasma concentrations and reduced clearance of lorazepam [see Dosage and Administration ( 2.5 ), Drug Interactions ( 7 )] . Concurrent administration of lorazepam with probenecid, an inhibitor of UGT, may result in a more rapid onset or prolonged effect of lorazepam due to increased half-life and decreased total clearance [see Dosage and Administration ( 2.5 ), Drug Interactions ( 7 )] . Alcohol: An in vitro study showed significant increases of lorazepam release from LOREEV XR capsules at 2 hours with approximately 91-95% and 37-42% of the drug release in the presence of 40% and 20% alcohol, respectively [see Drug Interactions ( 7 )] . Effects of 5% and 10% alcohol on drug release were not significant at 2 hours. There is no in vivo study conducted for the effect of alcohol on drug exposure."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis No evidence of carcinogenic potential emerged in rats during an 18-month study with lorazepam. Mutagenesis No studies regarding mutagenesis have been performed. Impairment of Fertility Animal fertility studies have not been conducted with LOREEV XR. 13.2 Animal Toxicology and/or Pharmacology Esophageal dilation occurred in rats treated with lorazepam for more than one year at 6 mg/kg/day. The no-effect dose was 1.25 mg/kg/day (approximately 1.2 times the maximum recommended human dose of 10 mg/day based on mg/m 2 body surface area). The effect was reversible only when the treatment was withdrawn within two months of first observation of the phenomenon. The clinical significance of this is unknown."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis No evidence of carcinogenic potential emerged in rats during an 18-month study with lorazepam. Mutagenesis No studies regarding mutagenesis have been performed. Impairment of Fertility Animal fertility studies have not been conducted with LOREEV XR."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology Esophageal dilation occurred in rats treated with lorazepam for more than one year at 6 mg/kg/day. The no-effect dose was 1.25 mg/kg/day (approximately 1.2 times the maximum recommended human dose of 10 mg/day based on mg/m 2 body surface area). The effect was reversible only when the treatment was withdrawn within two months of first observation of the phenomenon. The clinical significance of this is unknown."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING LOREEV XR (lorazepam) extended-release capsules are available as: 1 mg: Hard gelatin capsules with an opaque white body, yellow cap and grey printing ink; \"ALM\" is printed axially on the yellow cap and \"658\" is printed axially on the opaque white body. NDC 52427-658-30, bottle of 30 capsules with child-resistant closure NDC 52427-658-01, bottle of 100 capsules with child-resistant closure 1.5 mg: Hard gelatin capsules with an opaque white body, purple cap and black printing ink; \"ALM\" is printed axially on the purple cap and \"661\" is printed axially on the opaque white body. NDC 52427-661-30, bottle of 30 capsules with child-resistant closure NDC 52427-661-01, bottle of 100 capsules with child-resistant closure 2 mg: Hard gelatin capsules with an opaque white body, orange cap and grey printing ink; \"ALM\" is printed axially on the orange cap and \"663\" is printed axially on the opaque white body. NDC 52427-663-30, bottle of 30 capsules with child-resistant closure NDC 52427-663-01, bottle of 100 capsules with child-resistant closure 3 mg: Hard gelatin capsules with an opaque white body, yellowish-green cap and grey printing ink; \"ALM\" is printed axially on the yellowish-green cap and \"667\" is printed axially on the opaque white body. NDC 52427-667-30, bottle of 30 capsules with child-resistant closure NDC 52427-667-01, bottle of 100 capsules with child-resistant closure Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Keep bottles tightly closed. Dispense in a tight container."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA‐approved patient labeling ( Medication Guide ). Risks from Concomitant Use with Opioids Advise patients and caregivers about the risks of potentially fatal respiratory depression and sedation when LOREEV XR is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider. Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined [see Warnings and Precautions ( 5.1 ), Drug Interactions ( 7 )] . Abuse, Misuse, and Addiction Inform patients that the use of LOREEV XR, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances. Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions ( 5.2 ), Drug Abuse and Dependence ( 9.2 )] . Withdrawal Reactions Inform patients that the continued use of LOREEV XR may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of LOREEV XR may precipitate acute withdrawal reactions, which can be life-threatening. Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months. Instruct patients that discontinuation or dosage reduction of LOREEV XR may require a slow taper [see Warnings and Precautions ( 5.3 ), Drug Abuse and Dependence ( 9.3 )] . CNS Depression Advise patients about the risks of CNS depression. Instruct patients to avoid the consumption of alcohol during treatment with LOREEV XR. Advise patients to not drive a car or operate heavy machinery until they know how LOREEV XR affects them [see Warnings and Precautions ( 5.4 ), Drug Interactions ( 7 )] . Patients with Depression or Psychosis Advise patients, their families, and caregivers to look for signs of suicidal ideation or worsening depression, and to inform the patient’s healthcare provider immediately [see Warnings and Precautions ( 5.5 )] . Concomitant Medications Advise patients to inform their healthcare provider of all medicines they take, including prescription and nonprescription medicines, vitamins and herbal supplements [see Drug Interactions ( 7 )] . Administration Information Advise patients to take LOREEV XR capsules whole or open the capsule and sprinkle the entire contents over a tablespoon of applesauce, followed by drinking water. Advise patients to consume the mixture immediately, without chewing, within 2 hours; do not store for future use [see Dosage and Administration ( 2.2 )] . Pregnancy Advise pregnant females that use of LOREEV XR late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions ( 5.8 ), Use in Specific Populations ( 8.1 )] . Instruct patients to inform their healthcare provider if they are pregnant. Advise pregnant women that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to LOREEV XR [see Use in Specific Populations ( 8.1 )] . Lactation Advise patients that breastfeeding is not recommended during treatment with LOREEV XR [see Use in Specific Populations ( 8.2 )] ."
+  ],
+  "spl_medguide": [
+   "This Medication Guide has been approved by the U.S. Food and Drug Administration. MEDICATION GUIDE LOREEV XR (lor-EEV ECKS-AR) (lorazepam) extended-release capsules, CIV What is the most important information I should know about LOREEV XR? LOREEV XR may cause serious side effects, including: LOREEV XR is a benzodiazepine medicine. Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death. Get emergency help right away if any of the following happens: shallow or slowed breathing breathing stops (which may lead to the heart stopping) excessive sleepiness (sedation) Do not drive or operate heavy machinery until you know how taking LOREEV XR with opioids affects you. Risk of abuse, misuse, and addiction. There is a risk for abuse, misuse, and addiction with benzodiazepines including LOREEV XR which can lead to overdose and serious side effects including coma and death. Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including LOREEV XR. These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing. Call your healthcare provider or go to the nearest hospital emergency room right away if you develop any of these serious side effects. You can develop an addiction even if you take LOREEV XR as prescribed by your healthcare provider. Take LOREEV XR exactly as your healthcare provider prescribed. Do not share your LOREEV XR with other people. Keep LOREEV XR in a safe place and away from children. Physical dependence and withdrawal reactions . LOREEV XR can cause physical dependence and withdrawal reactions, especially if you continue to take LOREEV XR for several days to several weeks. Do not suddenly stop taking LOREEV XR . Stopping LOREEV XR suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions. Call your healthcare provider or go to the nearest hospital emergency room right away if you develop any of these serious side effects. Some people who stop taking benzodiazepines have symptoms that can last for several weeks to more than 12 months , including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears. Physical dependence is not the same as drug addiction. Your healthcare provider can tell you more about the differences between physical dependence and drug addiction. Do not take more LOREEV XR than prescribed or take LOREEV XR for longer than prescribed. What is LOREEV XR? LOREEV XR is a prescription medicine used to treat anxiety disorders in adults who are receiving stable, evenly divided, 3 times a day dosing with lorazepam tablets. LOREEV XR is a federally controlled substance (CIV) because it contains lorazepam that can be abused or lead to dependence. Keep LOREEV XR in a safe place to prevent misuse and abuse. Selling or giving away LOREEV XR may harm others, and is against the law. Tell your healthcare provider if you have abused or been dependent on alcohol, prescription medicines or street drugs. It is not known if LOREEV XR is safe or effective in children. It is not known if LOREEV XR is safe and effective for use for longer than 4 months. Do not take LOREEV XR if you: are allergic to lorazepam, other benzodiazepines, or any of the ingredients in LOREEV XR. See the end of this Medication Guide for a complete list of ingredients in LOREEV XR. have acute narrow angle glaucoma Before taking LOREEV XR, tell your healthcare provider about all of your medical conditions, including if you: have or have had depression, mood problems, or suicidal thoughts or behavior have a history of drug or alcohol abuse or addiction have lung disease or breathing problems (such as COPD, sleep apnea syndrome) have liver or kidney problems have or have had seizures are pregnant or plan to become pregnant. Taking LOREEV XR late in pregnancy may cause your baby to have symptoms of sedation (breathing problems, sluggishness, low muscle tone), and/or withdrawal symptoms (jitteriness, irritability, restlessness, shaking, excessive crying, feeding problems). Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with LOREEV XR. There is a pregnancy registry for women who take LOREEV XR during pregnancy. The purpose of the registry is to collect information about the health of you and your baby. If you become pregnant during treatment with LOREEV XR, talk to your healthcare provider about registering with the National Pregnancy Registry for Psychiatric Medications. You can register by calling 1-866-961-2388 or visiting https://womensmentalhealth.org/pregnancyregistry/. are breastfeeding or plan to breastfeed. LOREEV XR passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby if you take LOREEV XR. Breastfeeding is not recommended during treatment with LOREEV XR. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Keep a list of all medicines to show your healthcare provider and pharmacist when you get a new medicine. LOREEV XR can affect the way other medicines work and other medicines may affect how LOREEV XR works. Taking LOREEV XR with certain other medicines can cause serious side effects. Do not start or stop other medicines without first talking to your healthcare provider. How should I take LOREEV XR? Take LOREEV XR exactly as your healthcare provider tells you to take it. Take LOREEV XR 1 time a day in the morning. Take LOREEV XR with or without food. Do not crush or chew LOREEV XR capsules. Swallow LOREEV XR capsules whole. If you cannot swallow the capsules whole, the capsule may be opened and the entire contents sprinkled onto a tablespoon of applesauce. Swallow all the LOREEV XR mixture without chewing. Swallow the LOREEV XR mixture within 2 hours of mixing. Do not store the mixture for future use. After swallowing the LOREEV XR mixture, follow with a drink of water. If you take too much LOREEV XR, call your healthcare provider or poison control center at 1-800-222-1222 or go to the nearest hospital emergency room right away. What should I avoid while taking LOREEV XR? LOREEV XR can cause you to be drowsy. Do not drive a car or operate heavy machinery until you know how LOREEV XR affects you. You should not drink alcohol during treatment with LOREEV XR. Drinking alcohol can increase your chances of having serious side effects. What are the possible side effects of LOREEV XR? LOREEV XR may cause serious side effects, including: See “What is the most important information I should know about LOREEV XR?” LOREEV XR can make you sleepy or dizzy, and can slow your thinking and motor skills. Do not drive, operate heavy machinery, or do other dangerous activities until you know how LOREEV XR affects you. Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking LOREEV XR without first talking to your healthcare provider. When taken with alcohol or drugs that cause sleepiness or dizziness, LOREEV XR may make your sleepiness or dizziness much worse. Depression and psychosis. Pre-existing depression may emerge or worsen during use of benzodiazepines including LOREEV XR. Abnormal thought and behavior (paradoxical reactions). Symptoms include agitation, irritability, impulsiveness, violent behavior, confusion, restlessness, excitement and talking more than normal. Allergic reactions to FD&C Yellow No. 5. LOREEV XR 1 mg capsules contain FD&C Yellow No. 5 (tartrazine), which may cause allergic type reactions in certain people. Symptoms may include bronchial asthma or trouble breathing. Get emergency medical help right away if you have these symptoms after taking LOREEV XR. Breathing problems. Slowed breathing and stopping breathing has happened in people who have breathing problems and take benzodiazepines like LOREEV XR. Changes in lab tests. Your healthcare provider should do blood tests to check your blood counts and your liver function during treatment if you are on long-term treatment with LOREEV XR. The most common side effects of LOREEV XR include sedation, dizziness, weakness, unsteadiness. These are not all the possible side effects of LOREEV XR. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store LOREEV XR? Store LOREEV XR in a tightly closed container at room temperature between 68°F to 77°F (20°C to 25°C). Keep LOREEV XR and all medicines out of the reach of children. General information about the safe and effective use of LOREEV XR. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use LOREEV XR for a condition for which it was not prescribed. Do not give LOREEV XR to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about LOREEV XR that is written for health professionals. What are the ingredients in LOREEV XR? Active ingredient: lorazepam Inactive ingredients: colloidal silicon dioxide, corn starch, gelatin, glyceryl monostearate, hypromellose, lactose monohydrate, methyl acrylate methyl methacrylate and methacrylic acid (7:3:1) copolymer 280000 dispersion, microcrystalline cellulose, polysorbate 80, talc, titanium dioxide, and triethyl citrate. Additionally, the capsule shells contain the following colorants: 1 mg capsules: FD&C Yellow No. 5 1.5 mg capsules: FD&C Blue No. 1 and FD&C Red No. 3 2 mg capsules: D&C Yellow No. 10 and FD&C Red No. 3 3 mg capsules: D&C Yellow No. 10, FD&C Blue No. 1, FD&C Yellow No. 6 Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA Loreev XR is protected by U.S. Patent No. 8,999,393. Loreev XR is a registered trademark of Almatica Pharma LLC. For more information, visit www.loreevxr.com or call 1-877-447-7979. Revised: 01/2023 PL658-02"
+  ],
+  "spl_medguide_table": [
+   "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"95%\"> <tfoot> <tr> <td valign=\"top\">This Medication Guide has been approved by the U.S. Food and Drug Administration. </td> </tr> </tfoot> <tbody> <tr> <td align=\"center\" valign=\"top\"> <paragraph> <content styleCode=\"bold\">MEDICATION GUIDE </content> </paragraph> <paragraph> <content styleCode=\"bold\">LOREEV XR (lor-EEV ECKS-AR)</content> </paragraph> <paragraph> <content styleCode=\"bold\">(lorazepam) </content> </paragraph> <paragraph> <content styleCode=\"bold\">extended-release capsules, CIV</content> </paragraph> </td> </tr> <tr> <td valign=\"top\"> <paragraph> <content styleCode=\"bold\">What is the most important information I should know about LOREEV XR?</content> </paragraph> <paragraph> <content styleCode=\"bold\">LOREEV XR may cause serious side effects, including:</content> </paragraph> <list listType=\"unordered\"> <item> <content styleCode=\"bold\">LOREEV XR is a benzodiazepine medicine. Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death.</content> Get emergency help right away if any of the following happens: <list> <item>shallow or slowed breathing</item> <item>breathing stops (which may lead to the heart stopping)</item> <item>excessive sleepiness (sedation) </item> </list> </item> </list> <paragraph>Do not drive or operate heavy machinery until you know how taking LOREEV XR with opioids affects you. </paragraph> <list listType=\"unordered\"> <item> <content styleCode=\"bold\">Risk of abuse, misuse, and addiction. </content>There is a risk for abuse, misuse, and addiction with benzodiazepines including LOREEV XR which can lead to overdose and serious side effects including coma and death.<list> <item> <content styleCode=\"bold\">Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including LOREEV XR.</content> These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing. <content styleCode=\"bold\">Call your healthcare provider or go to the nearest hospital emergency room right away if you develop any of these serious side effects.</content> </item> <item> <content styleCode=\"bold\">You can develop an addiction even if you take LOREEV XR as prescribed by your healthcare provider.</content> </item> <item> <content styleCode=\"bold\">Take LOREEV XR exactly as your healthcare provider prescribed.</content> </item> <item>Do not share your LOREEV XR with other people.</item> <item>Keep LOREEV XR in a safe place and away from children.</item> </list> </item> <item> <content styleCode=\"bold\">Physical dependence and withdrawal reactions</content>. LOREEV XR can cause physical dependence and withdrawal reactions, especially if you continue to take LOREEV XR for several days to several weeks.<list listType=\"unordered\"> <item> <content styleCode=\"bold\">Do not suddenly stop taking LOREEV XR</content>. Stopping LOREEV XR suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions. <content styleCode=\"bold\">Call your healthcare provider or go to the nearest hospital emergency room right away if you develop any of these serious side effects.</content> </item> <item> <content styleCode=\"bold\">Some people who stop taking benzodiazepines have symptoms that can last for several weeks to more than 12 months</content>, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.</item> <item>Physical dependence is not the same as drug addiction. Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.</item> <item>Do not take more LOREEV XR than prescribed or take LOREEV XR for longer than prescribed. </item> </list> </item> </list> </td> </tr> <tr> <td valign=\"top\"> <paragraph> <content styleCode=\"bold\">What is LOREEV XR?</content> </paragraph> <paragraph>LOREEV XR is a prescription medicine used to treat anxiety disorders in adults who are receiving stable, evenly divided, 3 times a day dosing with lorazepam tablets.</paragraph> <list listType=\"unordered\"> <item> <content styleCode=\"bold\">LOREEV XR is a federally controlled substance (CIV) because it contains lorazepam that can be abused or lead to dependence.</content> Keep LOREEV XR in a safe place to prevent misuse and abuse. Selling or giving away LOREEV XR may harm others, and is against the law. Tell your healthcare provider if you have abused or been dependent on alcohol, prescription medicines or street drugs.</item> <item>It is not known if LOREEV XR is safe or effective in children.</item> <item>It is not known if LOREEV XR is safe and effective for use for longer than 4 months.</item> </list> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"bold\">Do not take LOREEV XR if you:</content> <list listType=\"unordered\"> <item>are allergic to lorazepam, other benzodiazepines, or any of the ingredients in LOREEV XR. See the end of this Medication Guide for a complete list of ingredients in LOREEV XR.</item> <item>have acute narrow angle glaucoma</item> </list> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"bold\">Before taking LOREEV XR, tell your healthcare provider about all of your medical conditions, including if you:</content> <list listType=\"unordered\"> <item>have or have had depression, mood problems, or suicidal thoughts or behavior</item> <item>have a history of drug or alcohol abuse or addiction</item> <item>have lung disease or breathing problems (such as COPD, sleep apnea syndrome)</item> <item>have liver or kidney problems</item> <item>have or have had seizures</item> <item>are pregnant or plan to become pregnant.<list> <item>Taking LOREEV XR late in pregnancy may cause your baby to have symptoms of sedation (breathing problems, sluggishness, low muscle tone), and/or withdrawal symptoms (jitteriness, irritability, restlessness, shaking, excessive crying, feeding problems).</item> <item>Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with LOREEV XR.</item> <item>There is a pregnancy registry for women who take LOREEV XR during pregnancy. The purpose of the registry is to collect information about the health of you and your baby. If you become pregnant during treatment with LOREEV XR, talk to your healthcare provider about registering with the National Pregnancy Registry for Psychiatric Medications. You can register by calling 1-866-961-2388 or visiting https://womensmentalhealth.org/pregnancyregistry/.</item> </list> </item> <item>are breastfeeding or plan to breastfeed. LOREEV XR passes into your breast milk.<list> <item>Talk to your healthcare provider about the best way to feed your baby if you take LOREEV XR.</item> <item>Breastfeeding is not recommended during treatment with LOREEV XR.</item> </list> </item> </list> <paragraph> <content styleCode=\"bold\">Tell your healthcare provider about all the medicines you take,</content> including prescription and over-the-counter medicines, vitamins, and herbal supplements.</paragraph> <paragraph>Keep a list of all medicines to show your healthcare provider and pharmacist when you get a new medicine.</paragraph> <paragraph>LOREEV XR can affect the way other medicines work and other medicines may affect how LOREEV XR works. Taking LOREEV XR with certain other medicines can cause serious side effects.</paragraph> <paragraph> <content styleCode=\"bold\">Do not start or stop other medicines without first talking to your healthcare provider.</content> </paragraph> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"bold\">How should I take LOREEV XR?</content> <list listType=\"unordered\"> <item>Take LOREEV XR exactly as your healthcare provider tells you to take it. </item> <item>Take LOREEV XR 1 time a day in the morning.</item> <item>Take LOREEV XR with or without food.</item> <item>Do not crush or chew LOREEV XR capsules.</item> <item>Swallow LOREEV XR capsules whole. If you cannot swallow the capsules whole, the capsule may be opened and the entire contents sprinkled onto a tablespoon of applesauce.<list> <item>Swallow all the LOREEV XR mixture without chewing.</item> <item>Swallow the LOREEV XR mixture within 2 hours of mixing. Do not store the mixture for future use.</item> <item>After swallowing the LOREEV XR mixture, follow with a drink of water.</item> </list> </item> <item>If you take too much LOREEV XR, call your healthcare provider or poison control center at 1-800-222-1222 or go to the nearest hospital emergency room right away. </item> </list> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"bold\">What should I avoid while taking LOREEV XR?</content> <list listType=\"unordered\"> <item>LOREEV XR can cause you to be drowsy. Do not drive a car or operate heavy machinery until you know how LOREEV XR affects you.</item> <item>You should not drink alcohol during treatment with LOREEV XR. Drinking alcohol can increase your chances of having serious side effects.</item> </list> </td> </tr> <tr> <td valign=\"top\"> <paragraph> <content styleCode=\"bold\">What are the possible side effects of LOREEV XR?</content> </paragraph> <paragraph> <content styleCode=\"bold\">LOREEV XR may cause serious side effects, including:</content> </paragraph> <list listType=\"unordered\"> <item>See<content styleCode=\"bold\"> &#x201C;What is the most important information I should know about LOREEV XR?&#x201D;</content> </item> <item> <content styleCode=\"bold\">LOREEV XR can make you sleepy or dizzy, and can slow your thinking and motor skills.</content> <list> <item>Do not drive, operate heavy machinery, or do other dangerous activities until you know how LOREEV XR affects you.</item> <item>Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking LOREEV XR without first talking to your healthcare provider. When taken with alcohol or drugs that cause sleepiness or dizziness, LOREEV XR may make your sleepiness or dizziness much worse.</item> </list> </item> <item> <content styleCode=\"bold\">Depression and psychosis.</content> Pre-existing depression may emerge or worsen during use of benzodiazepines including LOREEV XR. </item> <item> <content styleCode=\"bold\">Abnormal thought and behavior (paradoxical reactions).</content> Symptoms include agitation, irritability, impulsiveness, violent behavior, confusion, restlessness, excitement and talking more than normal.</item> <item> <content styleCode=\"bold\">Allergic reactions to FD&amp;C Yellow No. 5.</content> LOREEV XR 1 mg capsules contain FD&amp;C Yellow No. 5 (tartrazine), which may cause allergic type reactions in certain people. Symptoms may include bronchial asthma or trouble breathing. Get emergency medical help right away if you have these symptoms after taking LOREEV XR.</item> <item> <content styleCode=\"bold\">Breathing problems.</content> Slowed breathing and stopping breathing has happened in people who have breathing problems and take benzodiazepines like LOREEV XR.</item> <item> <content styleCode=\"bold\">Changes in lab tests.</content> Your healthcare provider should do blood tests to check your blood counts and your liver function during treatment if you are on long-term treatment with LOREEV XR.</item> </list> <paragraph> <content styleCode=\"bold\">The most common side effects of LOREEV XR include</content> sedation, dizziness, weakness, unsteadiness.</paragraph> <paragraph>These are not all the possible side effects of LOREEV XR.</paragraph> <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"bold\">How should I store LOREEV XR?</content> <list listType=\"unordered\"> <item>Store LOREEV XR in a tightly closed container at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C).</item> <item> <content styleCode=\"bold\">Keep LOREEV XR and all medicines out of the reach of children.</content> </item> </list> </td> </tr> <tr> <td valign=\"top\"> <content styleCode=\"bold\">General information about the safe and effective use of LOREEV XR.</content>   Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use LOREEV XR for a condition for which it was not prescribed. Do not give LOREEV XR to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about LOREEV XR that is written for health professionals. </td> </tr> <tr> <td valign=\"top\"> <paragraph> <content styleCode=\"bold\">What are the ingredients in LOREEV XR?</content> </paragraph> <paragraph> <content styleCode=\"bold\">Active ingredient:</content> lorazepam</paragraph> <paragraph> <content styleCode=\"bold\">Inactive ingredients:</content> colloidal silicon dioxide, corn starch, gelatin, glyceryl monostearate, hypromellose, lactose monohydrate, methyl acrylate methyl methacrylate and methacrylic acid (7:3:1) copolymer 280000 dispersion, microcrystalline cellulose, polysorbate 80, talc, titanium dioxide, and triethyl citrate. Additionally, the capsule shells contain the following colorants:</paragraph> <paragraph>1 mg capsules: FD&amp;C Yellow No. 5  1.5 mg capsules: FD&amp;C Blue No. 1 and FD&amp;C Red No. 3</paragraph> <paragraph>2 mg capsules: D&amp;C Yellow No. 10 and FD&amp;C Red No. 3</paragraph> <paragraph>3 mg capsules: D&amp;C Yellow No. 10, FD&amp;C Blue No. 1, FD&amp;C Yellow No. 6</paragraph> <paragraph/> <paragraph>Distributed by:  Almatica Pharma LLC  Morristown, NJ 07960 USA</paragraph> <paragraph>  Loreev XR is protected by U.S. Patent No. 8,999,393. Loreev XR is a registered trademark of Almatica Pharma LLC.</paragraph> <paragraph>For more information, visit www.loreevxr.com or call 1-877-447-7979.</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "set_id": "227734c1-bf01-9607-73ea-5a1f38a89bd9",
+  "id": "fa403ae4-25fa-9fb8-1596-342d4560c6da",
+  "effective_time": "20251008",
+  "version": "6"
+ }
+}

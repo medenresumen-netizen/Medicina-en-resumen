@@ -1,0 +1,740 @@
+{
+ "id_es": "nitroglicerina",
+ "generic_en": "nitroglycerin",
+ "search": "openfda.generic_name.exact:\"NITROGLYCERIN\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "5e15296c-5acd-4bcc-80a8-b49cb1ef3eb0",
+  "id": "fcec90fc-83c9-15e2-e053-6394a90ab2d5",
+  "effective_time": "20230530",
+  "version": "6",
+  "brand_name": [
+   "NITRO-DUR"
+  ],
+  "generic_name": [
+   "NITROGLYCERIN"
+  ],
+  "manufacturer_name": [
+   "Ingenus Pharmaceuticals, LLC"
+  ],
+  "route": [
+   "TRANSDERMAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020145"
+  ],
+  "n_sections": 31
+ },
+ "candidates": [
+  {
+   "set_id": "578d8159-5ec6-457f-b4a8-9add624d43a8",
+   "id": "b4155551-30b6-423f-aef7-8b0241ba5fdf",
+   "effective_time": "20261105",
+   "version": "7",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072034"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "e4642ae0-6a42-4a49-b6d9-d292a0294c77",
+   "id": "5d99ab30-1b61-40ab-93ed-36fecf910f74",
+   "effective_time": "20261023",
+   "version": "1",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217879"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5dbd638f-35b6-366c-e063-6294a90a5c5e",
+   "id": "5dbd636c-3b77-364b-e063-6294a90ad624",
+   "effective_time": "20261013",
+   "version": "1",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "698a46a6-29b5-4763-9442-ec9ad5eea86b",
+   "id": "5c9cfb7f-d01d-460d-e063-6394a90a3d12",
+   "effective_time": "20260929",
+   "version": "1",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018705"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "5b150cd2-fac8-86ce-e063-6294a90a67b9",
+   "id": "5b150d4b-32f9-b148-e063-6394a90a77e1",
+   "effective_time": "20260909",
+   "version": "1",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "603aa9ed-54c4-4a35-ade4-690fa44850e4",
+   "id": "5af7594b-3ed9-ce68-e063-6394a90a006e",
+   "effective_time": "20260908",
+   "version": "16",
+   "brand_name": [
+    "Rectiv"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Allergan, Inc."
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021359"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "89da40c1-bab1-422e-b326-8ebcbdbc81f3",
+   "id": "5a94e6e0-a018-eb10-e063-6394a90a92f7",
+   "effective_time": "20260903",
+   "version": "5",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "b8af0974-33ea-4dd5-9ff7-3b61272aeb25",
+   "id": "5a6cf23f-bf2e-6a57-e063-6394a90a0976",
+   "effective_time": "20260901",
+   "version": "3",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA072034"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "9a539019-5f43-1448-e053-2a95a90a3bca",
+   "id": "59e2e9fd-f2e7-7bdd-e063-6394a90adc7c",
+   "effective_time": "20260825",
+   "version": "5",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "594b939f-d399-835e-e063-6294a90a4422",
+   "id": "594b93af-c27b-0784-e063-6394a90a1280",
+   "effective_time": "20260818",
+   "version": "1",
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217970"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "486f53ce-e3c6-48b0-a6ef-9d08cde387e3",
+   "id": "58b1156f-0cec-8234-e063-6394a90ac1b5",
+   "effective_time": "20260810",
+   "version": "6",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "562d2e03-dfed-41ff-8e7f-ec4169141983",
+   "id": "7ba6af84-c1a4-4e95-b15f-17a52a486f47",
+   "effective_time": "20260706",
+   "version": "2",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Padagis Israel Pharmaceuticals Ltd"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214565"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "c17c997b-0e90-4105-888b-2de22d2bf697",
+   "id": "a46f7681-b936-40d3-8c36-e9bb5d655d73",
+   "effective_time": "20260528",
+   "version": "5",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Encube Ethicals, Inc."
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218235"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "3c11c1c2-8e62-4f63-8293-2f8b8d845f7e",
+   "id": "51ed5c69-89ac-27ed-e063-6394a90acca1",
+   "effective_time": "20260518",
+   "version": "8",
+   "brand_name": [
+    "NITRO-TIME"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "TIME CAP LABORATORIES, INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 23
+  },
+  {
+   "set_id": "7cf08521-aaf6-4129-9f8e-077d6282fbc6",
+   "id": "b86977dc-f3ac-4352-b74b-32334349a520",
+   "effective_time": "20260518",
+   "version": "100",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218756"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "84739085-81df-4a43-8456-c9edfbf971e9",
+   "id": "50321bf1-3be4-6a2b-e063-6394a90aa218",
+   "effective_time": "20260424",
+   "version": "2",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211604"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "4e83a438-1ed6-0a86-e063-6294a90adc8c",
+   "id": "4e83a42f-ce44-aa49-e063-6294a90a3d16",
+   "effective_time": "20260402",
+   "version": "1",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209779"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "4b4667e9-3b5e-4dc0-e063-6394a90ac1f5",
+   "id": "4d7b5803-e3c8-8937-e063-6394a90a8235",
+   "effective_time": "20260320",
+   "version": "3",
+   "brand_name": [
+    "NITROGLYCERIN"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209779"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "df52ab34-e44c-46f3-8c44-2c1bcb93f28e",
+   "id": "4b32b515-a550-088f-e063-6394a90a3ed0",
+   "effective_time": "20260219",
+   "version": "5",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208191"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "532e30c4-cbda-4450-b0a0-e08601c202fb",
+   "id": "93bd2b9d-b78f-42b1-abc5-69f8eeb50741",
+   "effective_time": "20260217",
+   "version": "4",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "e464e9bb-48e8-4b9f-9fff-e220cfbac0c5",
+   "id": "0011b0f7-715e-4daf-9e6b-a787a83e18f6",
+   "effective_time": "20260128",
+   "version": "15",
+   "brand_name": [
+    "NITRO-BID"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Savage Laboratories a division of Fougera Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087355"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "c555f8de-477f-0225-98a2-baf8945bbd63",
+   "id": "b6f146c9-be21-75da-dc27-e968a5f760ae",
+   "effective_time": "20260113",
+   "version": "6",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddys Laboratories Inc"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208191"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "5a36dac2-7d35-4cbf-be3d-705b7135754d",
+   "id": "47c90f3e-a3c2-7435-e063-6294a90a31a1",
+   "effective_time": "20260107",
+   "version": "3",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Ltd"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209779"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "fa789d65-9407-4965-bd06-4457444b42be",
+   "id": "76e69387-efc6-4816-972c-765cb260b34a",
+   "effective_time": "20251226",
+   "version": "10",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Glenmark Pharmaceuticals Inc., USA"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206391"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "f0a76edb-9e63-4aa4-9362-7375c799b2b5",
+   "id": "fa800efb-4cb4-44bf-9ec9-f35a32476022",
+   "effective_time": "20251222",
+   "version": "6",
+   "brand_name": [
+    "Nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "Solaris Pharma Corporation"
+   ],
+   "route": [
+    "RECTAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218756"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Nitroglycerin is 1,2,3-propanetriol trinitrate, an organic nitrate whose structural formula is: and whose molecular weight is 227.09. The organic nitrates are vasodilators, active on both arteries and veins. The NITRO-DUR ® (nitroglycerin) Transdermal Infusion System is a flat unit designed to provide continuous controlled release of nitroglycerin through intact skin. The rate of release of nitroglycerin is linearly dependent upon the area of the applied system; each cm 2 of applied system delivers approximately 0.02 mg of nitroglycerin per hour. Thus, the 5-,10-, 15-, 20-, 30-, and 40-cm2 systems deliver approximately 0.1, 0.2, 0.3, 0.4, 0.6, and 0.8 mg of nitroglycerin per hour, respectively. The remainder of the nitroglycerin in each system serves as a reservoir and is not delivered in normal use. After 12 hours, for example, each system has delivered approximately 6% of its original content of nitroglycerin. The NITRO-DUR transdermal system contains nitroglycerin in acrylic-based polymer adhesives with a resinous cross-linking agent to provide a continuous source of active ingredient. Each unit is sealed in a paper polyethylene-foil pouch. Cross section of the system. nitroglycerin chemical structure cross section of system"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY The principal pharmacological action of nitroglycerin is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter. Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload). Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload). Dilatation of the coronary arteries also occurs. The relative importance of preload reduction, afterload reduction, and coronary dilatation remains undefined. Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration. This strategy is inappropriate for organic nitrates. Several well-controlled clinical trials have used exercise testing to assess the antianginal efficacy of continuously delivered nitrates. In the large majority of these trials, active agents were indistinguishable from placebo after 24 hours (or less) of continuous therapy. Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed. Only after nitrates have been absent from the body for several hours has their antianginal efficacy been restored. Pharmacokinetics The volume of distribution of nitroglycerin is about 3 L/kg, and nitroglycerin is cleared from this volume at extremely rapid rates, with a resulting serum half-life of about 3 minutes. The observed clearance rates (close to 1 L/kg/min) greatly exceed hepatic blood flow; known sites of extrahepatic metabolism include red blood cells and vascular walls. The first products in the metabolism of nitroglycerin are inorganic nitrate and the 1,2- and 1,3-dinitroglycerols. The dinitrates are less effective vasodilators than nitroglycerin, but they are longerlived in the serum, and their net contribution to the overall effect of chronic nitroglycerin regimens is not known. The dinitrates are further metabolized to (nonvasoactive) mononitrates and, ultimately, to glycerol and carbon dioxide. To avoid development of tolerance to nitroglycerin, drug-free intervals of 10 to 12 hours are known to be sufficient; shorter intervals have not been well studied. In one well-controlled clinical trial, subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect, so that their exercise tolerance at the end of the daily drug-free interval was less than that exhibited by the parallel group receiving placebo. In healthy volunteers, steady-state plasma concentrations of nitroglycerin are reached by about 2 hours after application of a patch and are maintained for the duration of wearing the system (observations have been limited to 24 hours). Upon removal of the patch, the plasma concentration declines with a half-life of about an hour. Clinical Trials Regimens in which nitroglycerin patches were worn for 12 hours daily have been studied in wellcontrolled trials up to 4 weeks in duration. Starting about 2 hours after application and continuing until 10 to 12 hours after application, patches that deliver at least 0.4 mg of nitroglycerin per hour have consistently demonstrated greater antianginal activity than placebo. Lower-dose patches have not been as well studied, but in one large, well-controlled trial in which higher-dose patches were also studied, patches delivering 0.2 mg/hr had significantly less antianginal activity than placebo. It is reasonable to believe that the rate of nitroglycerin absorption from patches may vary with the site of application, but this relationship has not been adequately studied."
+  ],
+  "pharmacokinetics": [
+   "Pharmacokinetics The volume of distribution of nitroglycerin is about 3 L/kg, and nitroglycerin is cleared from this volume at extremely rapid rates, with a resulting serum half-life of about 3 minutes. The observed clearance rates (close to 1 L/kg/min) greatly exceed hepatic blood flow; known sites of extrahepatic metabolism include red blood cells and vascular walls. The first products in the metabolism of nitroglycerin are inorganic nitrate and the 1,2- and 1,3-dinitroglycerols. The dinitrates are less effective vasodilators than nitroglycerin, but they are longerlived in the serum, and their net contribution to the overall effect of chronic nitroglycerin regimens is not known. The dinitrates are further metabolized to (nonvasoactive) mononitrates and, ultimately, to glycerol and carbon dioxide. To avoid development of tolerance to nitroglycerin, drug-free intervals of 10 to 12 hours are known to be sufficient; shorter intervals have not been well studied. In one well-controlled clinical trial, subjects receiving nitroglycerin appeared to exhibit a rebound or withdrawal effect, so that their exercise tolerance at the end of the daily drug-free interval was less than that exhibited by the parallel group receiving placebo. In healthy volunteers, steady-state plasma concentrations of nitroglycerin are reached by about 2 hours after application of a patch and are maintained for the duration of wearing the system (observations have been limited to 24 hours). Upon removal of the patch, the plasma concentration declines with a half-life of about an hour."
+  ],
+  "clinical_studies": [
+   "Clinical Trials Regimens in which nitroglycerin patches were worn for 12 hours daily have been studied in wellcontrolled trials up to 4 weeks in duration. Starting about 2 hours after application and continuing until 10 to 12 hours after application, patches that deliver at least 0.4 mg of nitroglycerin per hour have consistently demonstrated greater antianginal activity than placebo. Lower-dose patches have not been as well studied, but in one large, well-controlled trial in which higher-dose patches were also studied, patches delivering 0.2 mg/hr had significantly less antianginal activity than placebo. It is reasonable to believe that the rate of nitroglycerin absorption from patches may vary with the site of application, but this relationship has not been adequately studied."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Transdermal nitroglycerin is indicated for the prevention of angina pectoris due to coronary artery disease. The onset of action of transdermal nitroglycerin is not sufficiently rapid for this product to be useful in aborting an acute attack."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Nitroglycerin is contraindicated in patients who are allergic to it. Allergy to the adhesives used in nitroglycerin patches has also been reported, and it similarly constitutes a contraindication to the use of this product. Do not use NITRO-DUR in patients who are taking phosphodiesterase inhibitors (such as sildenafil, tadalafil, or vardenafil) for erectile dysfunction or pulmonary arterial hypertension. Concomitant use can cause severe drops in blood pressure. Do not use NITRO-DUR in patients who are taking the soluble guanylate cyclase stimulator riociguat. Concomitant use can cause hypotension."
+  ],
+  "warnings": [
+   "WARNINGS Amplification of the vasodilatory effects of the NITRO-DUR patch by phosphodiesterase inhibitors, eg, sildenafil can result in severe hypotension. The time course and dose dependence of this inter action have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. The benefits of transdermal nitroglycerin in patients with acute myocardial infarction or congestive heart failure have not been established. If one elects to use nitroglycerin in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia. A cardioverter/defibrillator should not be discharged through a paddle electrode that overlies a NITRO-DUR patch. The arcing that may be seen in this situation is harmless in itself, but it may be associated with local current concentration that can cause damage to the paddles and burns to the patient."
+  ],
+  "precautions": [
+   "PRECAUTIONS General: Severe hypotension, particularly with upright posture, may occur with even small doses of nitroglycerin, particularly in the elderly. The NITRO-DUR Transdermal Infusion System should therefore be used with caution in elderly patients who may be volume-depleted, are on multiple medications, or who, for whatever reason, are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris. Elderly patients may be more susceptible to hypotension and may be at greater risk of falling at the therapeutic doses of nitroglycerin. Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy, particularly in the elderly. In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence. Several clinical trials in patients with angina pectoris have evaluated nitroglycerin regimens which incorporated a 10- to 12-hour, nitrate-free interval. In some of these trials, an increase in the frequency of anginal attacks during the nitrate-free interval was observed in a small number of patients. In one trial, patients had decreased exercise tolerance at the end of the nitrate-free interval. Hemodynamic rebound has been observed only rarely; on the other hand, few studies were so designed that rebound, if it had occurred, would have been detected. The importance of these observations to the routine, clinical use of transdermal nitroglycerin is unknown. Information for Patients: Daily headaches sometimes accompany treatment with nitroglycerin. In patients who get these headaches, the headaches may be a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with nitroglycerin, since loss of headache may be associated with simultaneous loss of antianginal efficacy. Treatment with nitroglycerin may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol. After normal use, there is enough residual nitroglycerin in discarded patches that they are a potential hazard to children and pets. A patient leaflet is supplied with the systems. Drug Interactions: The vasodilating effects of nitroglycerin may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Concomitant use of NITRO-DUR with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS ). Concomitant use of NITRO-DUR with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS ). Carcinogenesis, Mutagenesis, Impairment of Fertility: Animal carcinogenesis studies with topically applied nitroglycerin have not been performed. Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes. At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs 0% in controls, and incidences of testicular tumors were 52% vs 8% in controls. Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice. Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories. Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, po, or in in vitro cytogenetic tests in rat and dog tissues. In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F 0 generation with treatment continuing through successive F 1 and F 2 generations. The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings. No specific effect on the fertility of the F 0 generation was seen. Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males. In this three-generation study there was no clear evidence of teratogenicity. Pregnancy: Pregnancy Category C: Animal teratology studies have not been conducted with nitroglycerin transdermal systems. Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively. No toxic effects on dams or fetuses were seen at any dose tested. There are no adequate and wellcontrolled studies in pregnant women. Nitroglycerin should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether nitroglycerin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when nitroglycerin is administered to a nursing woman. Pediatric Use: Safety and effectiveness in pediatric patients have not been established. Geriatric Use: Clinical studies of NITRO-DUR Transdermal Infusion System did not include sufficient information to determine whether subjects 65 years and older respond differently from younger subjects. Additional clinical data from the published literature indicate that the elderly demonstrate increased sensitivity to nitrates, which may result in hypotension and increased risk of falling. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of the decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "general_precautions": [
+   "General: Severe hypotension, particularly with upright posture, may occur with even small doses of nitroglycerin, particularly in the elderly. The NITRO-DUR Transdermal Infusion System should therefore be used with caution in elderly patients who may be volume-depleted, are on multiple medications, or who, for whatever reason, are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris. Elderly patients may be more susceptible to hypotension and may be at greater risk of falling at the therapeutic doses of nitroglycerin. Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy, particularly in the elderly. In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence. Several clinical trials in patients with angina pectoris have evaluated nitroglycerin regimens which incorporated a 10- to 12-hour, nitrate-free interval. In some of these trials, an increase in the frequency of anginal attacks during the nitrate-free interval was observed in a small number of patients. In one trial, patients had decreased exercise tolerance at the end of the nitrate-free interval. Hemodynamic rebound has been observed only rarely; on the other hand, few studies were so designed that rebound, if it had occurred, would have been detected. The importance of these observations to the routine, clinical use of transdermal nitroglycerin is unknown."
+  ],
+  "information_for_patients": [
+   "Information for Patients: Daily headaches sometimes accompany treatment with nitroglycerin. In patients who get these headaches, the headaches may be a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with nitroglycerin, since loss of headache may be associated with simultaneous loss of antianginal efficacy. Treatment with nitroglycerin may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol. After normal use, there is enough residual nitroglycerin in discarded patches that they are a potential hazard to children and pets. A patient leaflet is supplied with the systems."
+  ],
+  "drug_interactions": [
+   "Drug Interactions: The vasodilating effects of nitroglycerin may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety. Concomitant use of NITRO-DUR with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS ). Concomitant use of NITRO-DUR with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS )."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility: Animal carcinogenesis studies with topically applied nitroglycerin have not been performed. Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes. At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs 0% in controls, and incidences of testicular tumors were 52% vs 8% in controls. Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice. Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories. Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, po, or in in vitro cytogenetic tests in rat and dog tissues. In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F 0 generation with treatment continuing through successive F 1 and F 2 generations. The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings. No specific effect on the fertility of the F 0 generation was seen. Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males. In this three-generation study there was no clear evidence of teratogenicity."
+  ],
+  "pregnancy": [
+   "Pregnancy: Pregnancy Category C: Animal teratology studies have not been conducted with nitroglycerin transdermal systems. Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively. No toxic effects on dams or fetuses were seen at any dose tested. There are no adequate and wellcontrolled studies in pregnant women. Nitroglycerin should be given to a pregnant woman only if clearly needed."
+  ],
+  "teratogenic_effects": [
+   "Pregnancy Category C: Animal teratology studies have not been conducted with nitroglycerin transdermal systems. Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively. No toxic effects on dams or fetuses were seen at any dose tested. There are no adequate and wellcontrolled studies in pregnant women. Nitroglycerin should be given to a pregnant woman only if clearly needed."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers: It is not known whether nitroglycerin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when nitroglycerin is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use: Safety and effectiveness in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "Geriatric Use: Clinical studies of NITRO-DUR Transdermal Infusion System did not include sufficient information to determine whether subjects 65 years and older respond differently from younger subjects. Additional clinical data from the published literature indicate that the elderly demonstrate increased sensitivity to nitrates, which may result in hypotension and increased risk of falling. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of the decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Adverse reactions to nitroglycerin are generally dose related, and almost all of these reactions are the result of nitroglycerins activity as a vasodilator. Headache, which may be severe, is the most commonly reported side effect. Headache may be recurrent with each daily dose, especially at higher doses. Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur. Hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy. Syncope, crescendo angina, and rebound hypertension have been reported but are uncommon. Allergic reactions to nitroglycerin are also uncommon, and the great majority of those reported have been cases of contact dermatitis or fixed drug eruptions in patients receiving nitroglycerin in ointments or patches. There have been a few reports of genuine anaphylactoid reactions, and these reactions can probably occur in patients receiving nitroglycerin by any route. Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients. Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE ). Application-site irritation may occur but is rarely severe. In two placebo-controlled trials of intermittent therapy with nitroglycerin patches at 0.2 to 0.8 mg/hr, the most frequent adverse reactions among 307 subjects were as follows: Placebo Patch Headache 18% 63% Lightheadedness 4% 6% Hypotension, and/or Syncope 0% 4% Increased Angina 2% 2% To report SUSPECTED ADVERSE REACTIONS, contact USPharma Ltd at 1(844)-750-3729 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"100%\"><caption/><tbody><tr><td/><td align=\"center\">Placebo</td><td align=\"center\">Patch</td></tr><tr><td styleCode=\"Toprule\">Headache</td><td align=\"center\" styleCode=\"Toprule\">18%</td><td align=\"center\" styleCode=\"Toprule\">63%</td></tr><tr><td>Lightheadedness</td><td align=\"center\">4%</td><td align=\"center\">6%</td></tr><tr><td>Hypotension, and/or Syncope</td><td align=\"center\">0%</td><td align=\"center\">4%</td></tr><tr><td>Increased Angina</td><td align=\"center\">2%</td><td align=\"center\">2%</td></tr></tbody></table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE Hemodynamic Effects: Nitroglycerin toxicity is generally mild. The estimated adult oral lethal dose of nitroglycerin is 200 mg to 1,200 mg. Infants may be more susceptible to toxicity from nitroglycerin. Consultation with a poison center should be considered. Laboratory determinations of serum levels of nitroglycerin and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of nitroglycerin overdose. No data are available to suggest physiological maneuvers (eg, maneuvers to change the pH of the urine) that might accelerate elimination of nitroglycerin and its active metabolites. Similarly, it is not known which – if any – of these substances can usefully be removed from the body by hemodialysis. No specific antagonist to the vasodilator effects of nitroglycerin is known, and no intervention has been subject to controlled study as a therapy of nitroglycerin overdose. Because the hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume. Passive elevation of the patient’s legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary. The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good. In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard. Treatment of nitroglycerin overdose in these patients may be subtle and difficult, and invasive monitoring may be required. Methemoglobinemia: Nitrate ions liberated during metabolism of nitroglycerin can oxidize hemoglobin into methemoglobin. Even in patients totally without cytochrome b5 reductase activity, however, and even assuming that the nitrate moieties of nitroglycerin are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of nitroglycerin should be required before any of these patients manifests clinically significant ( 3 10%) methemoglobinemia. In patients with normal reductase function, significant production of methemoglobin should require even larger doses of nitroglycerin. In one study in which 36 patients received 2 to 4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr, the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo. Notwithstanding these observations, there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates. None of the affected patients had been thought to be unusually susceptible. Methemoglobin levels are available from most clinical laboratories. The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial PO 2 . Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air. Methemoglobinemia should be treated with methylene blue if the patient develops cardiac or CNS effects of hypoxia. The initial dose is 1 to 2 mg/kg infused intravenously over 5 minutes. Repeat methemoglobin levels should be obtained 30 minutes later and a repeat dose of 0.5 to 1.0 mg/kg may be used if the level remains elevated and the patient is still symptomatic. Relative contraindications for methylene blue include known NADH methemoglobin reductase deficiency or G-6-PD deficiency. Infants under the age of 4 months may not respond to methylene blue due to immature NADH methemoglobin reductase. Exchange transfusion has been used successfully in critically ill patients when methemoglobinemia is refractory to treatment."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION The suggested starting dose is between 0.2 mg/hr* and 0.4 mg/hr*. Doses between 0.4 mg/hr* and 0.8 mg/hr* have shown continued effectiveness for 10 to 12 hours daily for at least 1 month (the longest period studied) of intermittent administration. Although the minimum nitrate-free interval has not been defined, data show that a nitrate-free interval of 10 to 12 hours is sufficient (see CLINICAL PHARMACOLOGY ). Thus, an appropriate dosing schedule for nitroglycerin patches would include a daily patch-on period of 12 to 14 hours and a daily patch-off period of 10 to 12 hours. *Release rates were formerly described in terms of drug delivered per 24 hours. In these terms, the supplied NITRO-DUR systems would be rated at 2.5 mg/24 hours (0.1 mg/hour), 5 mg/24 hours (0.2 mg/hour), 7.5 mg/24 hours (0.3 mg/hour), 10 mg/24 hours (0.4 mg/hour), and 15 mg/24 hours (0.6 mg/hour). Although some well-controlled clinical trials using exercise tolerance testing have shown maintenance of effectiveness when patches are worn continuously, the large majority of such controlled trials have shown the development of tolerance (ie, complete loss of effect) within the first 24 hours after therapy was initiated. Dose adjustment, even to levels much higher than generally used, did not restore efficacy."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED NITRO-DUR System Rated Release In Vivo* Total nitroglycerin content System size Package Size 0.1 mg/hr 20 mg 5cm 2 Unit Dose 30 (NDC 50742-513-01) Package 30 (NDC 50742-513-30) 0.2 mg/hr 40 mg 10 cm 2 Unit Dose 30 (NDC 50742-514-01) Package 30 (NDC 50742-514-30) 0.3 mg/hr 60 mg 15 cm 2 Unit Dose 30 (NDC 50742-515-01) Package 30 (NDC 50742-515-30) 0.4 mg/hr 80 mg 20 cm 2 Unit Dose 30 (NDC 50742-516-01) Package 30 (NDC 50742-516-30) 0.6 mg/hr 120 mg 30 cm 2 Unit Dose 30 (NDC 50742-517-01) Package 30 (NDC 50742-517-30) 0.8 mg/hr 160 mg 40 cm 2 Unit Dose 30 (NDC 50742-518-01) Package 30 (NDC 50742-518-30) *Release rates were formerly described in terms of drug delivered per 24 hours. In these terms, the supplied NITRO-DUR systems would be rated at 2.5 mg/24 hours (0.1 mg/hour), 5 mg/24 hours (0.2 mg/hour), 7.5 mg/24 hours (0.3 mg/hour), 10 mg/24 hours (0.4 mg/hour), and 15 mg/24 hours (0.6 mg/hour). Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature]. Do not refrigerate."
+  ],
+  "how_supplied_table": [
+   "<table width=\"100%\"><caption/><tbody><tr><td align=\"center\"><content styleCode=\"bold\"> NITRO-DUR System Rated Release In Vivo*</content></td><td align=\"center\"><content styleCode=\"bold\"> Total nitroglycerin content</content></td><td align=\"center\"><content styleCode=\"bold\"> System size</content></td><td align=\"center\"><content styleCode=\"bold\"> Package Size</content></td></tr><tr><td align=\"center\" styleCode=\"Toprule\"> 0.1 mg/hr</td><td align=\"center\" styleCode=\"Toprule\"> 20 mg</td><td align=\"center\" styleCode=\"Toprule\"> 5cm <sup>2</sup></td><td styleCode=\"Toprule\"> Unit Dose 30  (NDC 50742-513-01)  Package 30  (NDC 50742-513-30) </td></tr><tr><td align=\"center\"> 0.2 mg/hr</td><td align=\"center\"> 40 mg</td><td align=\"center\"> 10 cm <sup>2</sup></td><td> Unit Dose 30  (NDC 50742-514-01)  Package 30  (NDC 50742-514-30) </td></tr><tr><td align=\"center\"> 0.3 mg/hr</td><td align=\"center\"> 60 mg</td><td align=\"center\"> 15 cm <sup>2</sup></td><td> Unit Dose 30  (NDC 50742-515-01)  Package 30  (NDC 50742-515-30) </td></tr><tr><td align=\"center\"> 0.4 mg/hr</td><td align=\"center\"> 80 mg</td><td align=\"center\"> 20 cm <sup>2</sup></td><td> Unit Dose 30  (NDC 50742-516-01)  Package 30  (NDC 50742-516-30) </td></tr><tr><td align=\"center\"> 0.6 mg/hr</td><td align=\"center\"> 120 mg</td><td align=\"center\"> 30 cm <sup>2</sup></td><td> Unit Dose 30  (NDC 50742-517-01)  Package 30  (NDC 50742-517-30) </td></tr><tr><td align=\"center\"> 0.8 mg/hr</td><td align=\"center\"> 160 mg</td><td align=\"center\"> 40 cm <sup>2</sup></td><td> Unit Dose 30  (NDC 50742-518-01)  Package 30  (NDC 50742-518-30) </td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature]. Do not refrigerate."
+  ],
+  "spl_patient_package_insert": [
+   "Information for the Patient About— Nitro-Dur ® (nitroglycerin) Transdermal Infusion System Summary NITRO-DUR ® is a unique method of administering nitroglycerin to the bloodstream. NITRO-DUR eliminates the swallowing of pills or the application of a messy ointment. Nitroglycerin is a medication your doctor has prescribed for you to help reduce the frequency and severity of angina attacks (chest pain). How your NITRO-DUR Transdermal Infusion System works Nitroglycerin causes the veins (vessels that return blood to the heart) to relax so that the work load of the heart is reduced. This lowers the heart's oxygen needs. As a result, the heart muscle is well nourished and the frequency of angina attacks is reduced. NITRO-DUR is applied directly to the skin. The nitroglycerin passes from the adhesive surface through the skin—allowing medication to be absorbed directly into the bloodstream. This manner of delivering medicine to your bloodstream provides you with nitroglycerin with one daily application of a NITRO-DUR unit. Instructions for use Placement area Select a reasonably hair-free application site. Avoid extremities below the knee or elbow, skin folds, scar tissue, burned or irritated areas. Application Wash hands before applying. Hold the unit with brown lines facing you, in an up and down position. Bend the sides of unit away from you, then toward you until you hear the \"SNAP\". Peel off one side of the plastic backing. Using the other half of the backing as a handle, apply the sticky side of the patch to the skin. Press the sticky side on the skin, and smooth down. Fold back the remaining side of the patch. Grasp the edge of the plastic applicator by the stripe, and pull it across the skin. Wash hands to remove any drug. Removal Press down on the center of the system to raise its outer edge away from the skin. Grasp the edge gently, and slowly peel the unit away from skin. Wash skin area with soap and water. Towel dry. Wash hands. You may use a different application site every day. Skin care After you remove NITRO-DUR, your skin may feel warm and appear red. This is normal. The redness will disappear in a short time. If the area feels dry, you may apply a soothing lotion. Any redness or rash that does not disappear should be called to your doctor's attention. Cautions If your doctor has prescribed \"under-the-tongue\" nitroglycerin tablets in addition to NITRO-DUR, you should sit down before taking the \"under-the-tongue\" tablet. If dizziness should occur, notify your doctor. This may be an indication that the \"under-the-tongue\" tablet dosage needs to be reduced. Possible side effects The most common side effect experienced by people taking nitroglycerin is headache. Your doctor may tell you to take a mild analgesic to relieve the headache. Some people may experience dizziness. This is due to a slight decrease in blood pressure, which is usually experienced when a person changes position, from lying flat to sitting upright or from sitting to standing. If this occurs, sit down until the dizziness stops, then notify your doctor. He or she may wish to reduce your NITRO-DUR dosage. In some people, nitroglycerin preparations may cause the skin to feel flushed or the heart to beat faster. If this should occur, notify your doctor; again, he or she may wish to change your NITRO-DUR dosage. NITRO-DUR is a unique drug that depends on direct contact with the skin to work. For this reason, the skin should be reasonably hair-free, clean, and dry. Other information Allow NITRO-DUR to stay in place as directed by your doctor. Showering is permitted with NITRO-DUR in place. NITRO-DUR should be kept out of reach of children and pets. Store at room temperature 77°F (25°C). NITRO-DUR is boxed so that you have a 30-day supply. Be sure to check your supply periodically. Before it runs low, you should visit your pharmacist for a refill or ask your doctor to renew your NITRO-DUR prescription. It is important that you do not miss a day of your NITRO-DUR therapy. If your schedule needs to be changed, your doctor will give you special instructions. NITRO-DUR has been prescribed for you. Do not give your medication to anyone else. NITRO-DUR is for prevention of angina; not for treatment of an acute angina attack. Notify your doctor if angina attacks change for the worse. placement area image application figure image application figure image application figure image application figure image application figure image application figure image application figure image removal figure image removal figure image"
+  ],
+  "boxed_warning": [
+   "You must consult your doctor for important information before using this drug."
+  ],
+  "set_id": "5e15296c-5acd-4bcc-80a8-b49cb1ef3eb0",
+  "id": "fcec90fc-83c9-15e2-e053-6394a90ab2d5",
+  "effective_time": "20230530",
+  "version": "6"
+ }
+}

@@ -1,0 +1,715 @@
+{
+ "id_es": "paracetamol",
+ "generic_en": "acetaminophen",
+ "search": "openfda.generic_name.exact:\"ACETAMINOPHEN\"",
+ "downloaded": "2026-11-11T06:46Z",
+ "chosen": {
+  "set_id": "0547bc1f-d000-f5a6-e063-6294a90ac73d",
+  "id": "468fc0a7-2a13-5c91-e063-6294a90af9a2",
+  "effective_time": "20251222",
+  "version": "3",
+  "brand_name": [
+   "Vitapirena"
+  ],
+  "generic_name": [
+   "ACETAMINOPHEN"
+  ],
+  "manufacturer_name": [
+   "Pharmadel LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "M013"
+  ],
+  "n_sections": 22
+ },
+ "candidates": [
+  {
+   "set_id": "0dd643a4-3cbc-423d-95b4-ba373b09d895",
+   "id": "6122653b-195d-4f15-a03d-ea4054c725ad",
+   "effective_time": "20261106",
+   "version": "9",
+   "brand_name": [
+    "Children Pain and Fever Reliever"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Target Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1116f808-f61e-47ec-b0d0-d4be5aa905be",
+   "id": "83744da6-0604-4a74-bd03-e9ab7eddf8e1",
+   "effective_time": "20261106",
+   "version": "8",
+   "brand_name": [
+    "Children Pain and Fever Reliver"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Target Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "06a0fc1f-4cac-4d0f-9349-90a0fb4cc0c8",
+   "id": "5ee6e09b-cfa0-c558-e063-6294a90ae452",
+   "effective_time": "20261028",
+   "version": "2",
+   "brand_name": [
+    "Acetaminophen"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "05618d62-ebec-4d30-989d-999891977e0e",
+   "id": "5ed1bc7c-6dc4-71e5-e063-6394a90a024c",
+   "effective_time": "20261027",
+   "version": "1",
+   "brand_name": [
+    "Acetaminophen"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "02bf0edd-488a-4809-a365-501f6cfea6ac",
+   "id": "4832a91b-676a-4d0e-885f-4da1cdc44250",
+   "effective_time": "20261021",
+   "version": "4",
+   "brand_name": [
+    "DG Health pain relief"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Dolgencorp Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0ad7b313-5d72-4cc0-97f0-1a30770350af",
+   "id": "5d1916ad-59bc-ce7a-e063-6394a90a2efa",
+   "effective_time": "20261005",
+   "version": "7",
+   "brand_name": [
+    "Vicks PainQuil PAIN RELIEVER"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "The Procter & Gamble Manufacturing Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "1729d4b1-ca3b-4360-8328-2484f239440a",
+   "id": "2efa6a98-6b89-4ce7-a1a1-6f256a476c6e",
+   "effective_time": "20260929",
+   "version": "15",
+   "brand_name": [
+    "Pain and Fever Childrens"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Wal-Mart Stores Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "00c121ff-141d-410b-8632-c884a3909552",
+   "id": "a0a74058-2bcf-445c-ba09-0a2e9257d1e8",
+   "effective_time": "20260916",
+   "version": "22",
+   "brand_name": [
+    "Extra Strength pain relief"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Rite Aid Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "113d92bf-f6c9-cc3d-e063-6294a90af033",
+   "id": "5852c0f6-94f5-4555-8ca8-4c917fe05e4a",
+   "effective_time": "20260902",
+   "version": "3",
+   "brand_name": [
+    "AMAZON BASIC CARE ACETAMINOPHEN"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0e43b885-3843-4f11-9a53-02a38c228313",
+   "id": "5a60fa6b-f275-d579-e063-6294a90af5e8",
+   "effective_time": "20260831",
+   "version": "4",
+   "brand_name": [
+    "MAX relief junior"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Akron Pharma Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "1098d0e7-8202-4018-a2d2-b0c80ee58b56",
+   "id": "6a06c9ee-2b77-4501-ac01-900cd595d597",
+   "effective_time": "20260819",
+   "version": "3",
+   "brand_name": [
+    "Acetaminophen"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Sam's West Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "15921c3f-e8d4-4794-983f-63bb926f6f86",
+   "id": "58edfc4d-baed-4e67-9a1d-da797fa5e844",
+   "effective_time": "20260815",
+   "version": "2",
+   "brand_name": [
+    "Pain Relief Childrens"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "WinCo Foods, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "103d109d-f520-409c-8da2-eb6b0fbec891",
+   "id": "572fcd5f-40f6-eaf1-e063-6294a90a4143",
+   "effective_time": "20260722",
+   "version": "16",
+   "brand_name": [
+    "Tylenol Extra Strength"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "112076c4-cac2-45ab-9c77-5573edae7180",
+   "id": "b049905f-7c30-41a2-abe6-ca500fe21437",
+   "effective_time": "20260710",
+   "version": "2",
+   "brand_name": [
+    "INFANTS PAIN AND FEVER"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "12a4c301-c052-454e-a8b2-ad626153f5f7",
+   "id": "1108264c-8663-4b1e-bd23-76c21c8fbb7b",
+   "effective_time": "20260624",
+   "version": "1",
+   "brand_name": [
+    "Acetaminophen 650mg"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Forreal Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075077"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "00eb3e4b-1507-4c9a-83a5-ef50cb312753",
+   "id": "5447f567-0cef-ae0a-e063-6394a90ad867",
+   "effective_time": "20260615",
+   "version": "11",
+   "brand_name": [
+    "ACETAMINOPHEN"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Granules India Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211544"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0b1bef50-7957-4ea1-9ae3-91f59ea2dbb4",
+   "id": "83b3b655-f8bd-4e3a-83a4-0c0c2811d897",
+   "effective_time": "20260603",
+   "version": "7",
+   "brand_name": [
+    "Pain Reliever"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "1319bab8-8f17-44fb-9d91-099b0ba38a8d",
+   "id": "047c3a4a-e08c-428e-9943-a7da4f2c3f9a",
+   "effective_time": "20260601",
+   "version": "3",
+   "brand_name": [
+    "PAIN RELIEF"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Meijer, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1622f694-4d63-4c56-8737-fae31f0ecfb7",
+   "id": "52cd19e4-a4b4-ecee-e063-6394a90ac33b",
+   "effective_time": "20260527",
+   "version": "13",
+   "brand_name": [
+    "TYLENOL Regular Strength"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "091dd1e7-2484-cdbf-e063-6394a90a2189",
+   "id": "5193e87a-374d-a695-e063-6394a90a79d2",
+   "effective_time": "20260511",
+   "version": "4",
+   "brand_name": [
+    "Genexa Kids Pain and Fever"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Genexa, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "0ff5c86e-d84b-42ad-b749-636ab2e3734e",
+   "id": "f7c4777a-afc5-4649-a739-9e46f0df687d",
+   "effective_time": "20260509",
+   "version": "1",
+   "brand_name": [
+    "CHILDRENS PAIN RELIEVER and FEVER REDUCER GRAPE"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "DeMoulas Market Basket"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0c66b05d-132d-4c79-abfe-415fd68bbb9c",
+   "id": "511f6dad-5d71-71a8-e063-6394a90a2a03",
+   "effective_time": "20260506",
+   "version": "2",
+   "brand_name": [
+    "Pain Reliever"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "HHH Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "113df1bc-a217-33ea-e063-6294a90a4643",
+   "id": "a787fc94-3cd0-4746-875c-5734c48e1dd7",
+   "effective_time": "20260416",
+   "version": "3",
+   "brand_name": [
+    "AMAZON BASIC CARE ACETAMINOPHEN"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA207229"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "12fd643d-7c60-453f-a81f-407ed20e8725",
+   "id": "d5c7da69-8c3c-4a4f-a3fc-4a9d466e15d3",
+   "effective_time": "20260225",
+   "version": "4",
+   "brand_name": [
+    "Childrens Pain and Fever"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "CVS WOONSOCKET PRESCRIPTION CENTER, INCORPORATED"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "020fa486-31f0-4e0c-84d3-5b3aaded1eeb",
+   "id": "9cb0e7d2-6c42-4c46-a557-e495d7ccb05d",
+   "effective_time": "20260213",
+   "version": "6",
+   "brand_name": [
+    "acetaminophen"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient & Purposes Active ingredient (in each packet) Purposes Acetaminophen 500 mg Pain reliever/ fever reducer"
+  ],
+  "active_ingredient_table": [
+   "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"italics\"><content styleCode=\"bold\">Active ingredient (in each packet)</content></content></td><td><content styleCode=\"italics\"><content styleCode=\"bold\">Purposes</content></content></td></tr><tr><td><content styleCode=\"bold\">Acetaminophen 500 mg</content></td><td>Pain reliever/ fever reducer</td></tr></tbody></table>"
+  ],
+  "purpose": [
+   "Active ingredient (in each packet) Purposes Acetaminophen 500 mg Pain reliever/ fever reducer"
+  ],
+  "purpose_table": [
+   "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"italics\"><content styleCode=\"bold\">Active ingredient (in each packet)</content></content></td><td><content styleCode=\"italics\"><content styleCode=\"bold\">Purposes</content></content></td></tr><tr><td><content styleCode=\"bold\">Acetaminophen 500 mg</content></td><td>Pain reliever/ fever reducer</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+   "Uses For the temporary relief of minor aches and pains associated with sore throat headache the common cold/ flu muscular aches backache minor pain from arthritis and to reduce fever"
+  ],
+  "warnings": [
+   "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if: adult takes more than 8 packets in 24 hours, which is the maximum daily amount for this product child takes more than 5 packets in 24 hours with other drugs containing acetaminophen adult has 3 or more alcoholic drinks everyday while using this product Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if allergic to acetaminophen or any other of the inactive ingredients in this product Ask a doctor before use if the user has liver disease is a child with pain from arthritis Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin Stop use and ask a doctor if adult’s pain gets worse or lasts more than 10 days child’s pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of an accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "do_not_use": [
+   "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if allergic to acetaminophen or any other of the inactive ingredients in this product"
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if the user has liver disease is a child with pain from arthritis"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin"
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if adult’s pain gets worse or lasts more than 10 days child’s pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear"
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breastfeeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children. In case of an accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "dosage_and_administration": [
+   "Directions do not take more than directed Age Dose adults and children 12 years of age and over take one (1) packet, every 4 hours. Do not exceed; adults 8 packets or children 5 packets in 24 hours children under 12 years of age do not use"
+  ],
+  "dosage_and_administration_table": [
+   "<table border=\"0\" width=\"100%\"><tbody><tr><td><content styleCode=\"bold\">Age</content></td><td><content styleCode=\"bold\">Dose</content></td></tr><tr><td>adults and children 12 years of age and over</td><td>take one (1) packet, every 4 hours. Do not exceed; <content styleCode=\"bold\">adults 8 packets </content>or <content styleCode=\"bold\">children 5 packets</content> in 24 hours </td></tr><tr><td>children under 12 years of age</td><td><content styleCode=\"bold\">do not use</content></td></tr></tbody></table>"
+  ],
+  "other_safety_information": [
+   "Other information each 5g packet contains: 1 78 mg sodium store at room temprature 77-86° F (25-30° C)"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients chamomile lemon flavor, citric acid monohydrate, fructose, povidone k30, silicon dioxide, sodium bicarbonate, sucralose, water"
+  ],
+  "questions": [
+   "Questions? +1-866--359-3478 (M-F) 9 AM - 5 PM EST or www.pharmadel.com"
+  ],
+  "set_id": "0547bc1f-d000-f5a6-e063-6294a90ac73d",
+  "id": "468fc0a7-2a13-5c91-e063-6294a90af9a2",
+  "effective_time": "20251222",
+  "version": "3"
+ }
+}

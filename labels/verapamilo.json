@@ -1,0 +1,757 @@
+{
+ "id_es": "verapamilo",
+ "generic_en": "verapamil",
+ "search": "openfda.generic_name:\"verapamil\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "5f665d08-e1e4-422a-88c2-d8834abf9e1a",
+  "id": "27ea8c5d-0f1f-0e1c-e063-6294a90a44e5",
+  "effective_time": "20241127",
+  "version": "1",
+  "brand_name": [
+   "Verapamil Hydrochloride"
+  ],
+  "generic_name": [
+   "VERAPAMIL HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Wilshire Pharmaceuticals, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020943"
+  ],
+  "n_sections": 35
+ },
+ "candidates": [
+  {
+   "set_id": "af1249b0-e889-4f02-bdc2-54862de0545e",
+   "id": "44e88e05-3b5b-4fba-9f0a-dc23cfd0d74a",
+   "effective_time": "20261030",
+   "version": "12",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078906"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "c7a54ee0-80c0-4c7e-a6a3-cb60142f860c",
+   "id": "09fa690b-5bd8-4610-8d83-826dda280c64",
+   "effective_time": "20261030",
+   "version": "4",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA071881"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "d23c757d-39f8-48c3-ba63-df2cbe58c516",
+   "id": "3062d409-08b2-4f76-9580-306d95cdc937",
+   "effective_time": "20261030",
+   "version": "10",
+   "brand_name": [
+    "verapamil hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090700"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "4f6ae43f-c28a-4eac-9b19-8b5d0c12dfaa",
+   "id": "feb629fe-3718-47f8-8cab-c79ea9420a24",
+   "effective_time": "20261012",
+   "version": "7",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211015"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "5467dad4-f3ba-4036-b5f4-4d2d4d5abc34",
+   "id": "88fb69da-5f5a-4f0e-9bc5-b4033faa9ca4",
+   "effective_time": "20261001",
+   "version": "11",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206173"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "d4d29e80-2f6f-475d-b704-f9443aadf3db",
+   "id": "157e3049-2b25-4b44-9a9a-6dd8756bbbc7",
+   "effective_time": "20260924",
+   "version": "1",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070995"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "d7a749d0-4ab3-4fbb-8d7b-e09d68413c41",
+   "id": "5b3633ac-a0b9-0286-e063-6294a90aea11",
+   "effective_time": "20260911",
+   "version": "2",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213232"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "9c89764e-ff07-4077-a40f-91eb1c179af2",
+   "id": "5950b3f8-7ff0-509e-e063-6294a90a6720",
+   "effective_time": "20260818",
+   "version": "6",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211370"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "ed182ebe-8299-4680-9dea-ef79d30db683",
+   "id": "cb6b75c0-b981-46b0-b680-caf3ce0fb0e6",
+   "effective_time": "20260818",
+   "version": "12",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206173"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "df79ee3a-f0ed-1cc7-e053-2995a90af97f",
+   "id": "574dcbc8-48e1-8938-e063-6294a90adf07",
+   "effective_time": "20260723",
+   "version": "2",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212965"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "df77b8d1-1d2b-4fea-a1e9-153bd25008a6",
+   "id": "367a40d8-4588-4566-990c-a45e6a5a6cfc",
+   "effective_time": "20260710",
+   "version": "5",
+   "brand_name": [
+    "verapamil hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lifestar Pharma LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214653"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "1c993365-1b62-4524-e781-d307f28f63bc",
+   "id": "96edb388-f2c7-47cb-8cba-f4d9369b3dd1",
+   "effective_time": "20260709",
+   "version": "26",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070737",
+    "ANDA070738"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "ce9ab27a-e03b-4e40-a0e0-b586cd75dead",
+   "id": "55677a13-4a6f-f955-e063-6394a90a78a2",
+   "effective_time": "20260629",
+   "version": "15",
+   "brand_name": [
+    "verapamil hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090700"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "50131bbc-ad43-4708-946f-e4000828137c",
+   "id": "8eb0d81b-28fc-41a7-bf53-3d4217a740f2",
+   "effective_time": "20260624",
+   "version": "13",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211015",
+    "ANDA211035"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "bf7b5037-7355-4788-b17b-323c18a5aee7",
+   "id": "54effff4-649b-8303-e063-6294a90a887f",
+   "effective_time": "20260623",
+   "version": "3",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Safecor Health LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075138"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "5dc5f087-c8da-4ed0-b532-ae44508958aa",
+   "id": "53329ce0-d237-2414-e063-6294a90a71be",
+   "effective_time": "20260601",
+   "version": "17",
+   "brand_name": [
+    "verapamil hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078906"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "e36e485f-fbed-4e30-9a63-984931f2e54e",
+   "id": "f81979a5-e2d6-4eae-a427-b8c125a3a1e3",
+   "effective_time": "20260513",
+   "version": "6",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Nivagen Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206173"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "4dcc46d8-76b0-fbd4-e063-6294a90ad9e6",
+   "id": "51191e37-c228-217f-e063-6394a90a467a",
+   "effective_time": "20260505",
+   "version": "2",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211015"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "70057a53-ca29-4848-ab3d-5e691e2a14a3",
+   "id": "ae940fe8-ac97-4a3d-b27f-a2550ec79b7e",
+   "effective_time": "20260429",
+   "version": "14",
+   "brand_name": [
+    "Verapamil Hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070737"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "051392d3-8ec1-450c-8c38-791d4ef1a2db",
+   "id": "75856e69-15d6-4982-895a-2c9e76e8020f",
+   "effective_time": "20260409",
+   "version": "1",
+   "brand_name": [
+    "Verapamil hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219252"
+   ],
+   "n_sections": 5
+  },
+  {
+   "set_id": "e19ab8d8-dae5-489d-9805-7e7407bea06d",
+   "id": "ffca6bb5-e52a-426d-8f93-5e0e8da34eed",
+   "effective_time": "20260406",
+   "version": "1",
+   "brand_name": [
+    "Verapamil hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals (USA) Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219252"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "4dcb137e-b01a-eb3a-e063-6294a90aaecc",
+   "id": "4dcb137e-b01b-eb3a-e063-6294a90aaecc",
+   "effective_time": "20260324",
+   "version": "1",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211015"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "1de6ad5c-942e-4381-b01f-e5e63bbf72ef",
+   "id": "beaf8b47-093b-48ef-b60f-4ad5ee67a58f",
+   "effective_time": "20260310",
+   "version": "5",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206173"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "e07b3574-9259-4f64-a9ae-f4e0e64800b6",
+   "id": "a7eba952-6d9e-40d6-8774-7a1adcc78e27",
+   "effective_time": "20260307",
+   "version": "23",
+   "brand_name": [
+    "verapamil hydrochloride"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090700"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "5501208c-aa2b-47aa-89f7-87f4d4a73fd0",
+   "id": "d6b80b6c-59f6-4e63-bb8d-a29a77f4a0a1",
+   "effective_time": "20260209",
+   "version": "13",
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cadila Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206173"
+   ],
+   "n_sections": 25
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Verapamil Hydrochloride Extended-release Capsules (PM) for oral use is indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including this drug. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program's Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. Verapamil Hydrochloride Extended-release Capsules (PM) is a calcium channel blocker indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION THE CONTENTS OF THE Verapamil Hydrochloride Extended-release Capsules (PM) SHOULD NOT BE CRUSHED OR CHEWED. Verapamil Hydrochloride Extended-release Capsules (PM) ARE TO BE SWALLOWED WHOLE OR THE ENTIRE CONTENTS OF THE CAPSULE SPRINKLED ONTO APPLESAUCE. Do not crush or chew capsule contents; swallow capsule whole or sprinkle entire contents onto applesauce ( 2.2 , 17 ) Usual dosage: 200 mg once daily at bedtime; if inadequate response, titrate upward to 300 mg, then 400 mg once daily at bedtime ( 2.1 ) Initial dose of 100 mg once daily at bedtime in patients with renal or hepatic impairment, elderly or low-weight patients ( 2.1 ) 2.1 Essential Hypertension Administer Verapamil Hydrochloride Extended-release Capsules (PM) once daily at bedtime. Clinical trials studied doses of 100 mg, 200 mg, 300 mg, and 400 mg. The usual daily dose of extended-release Verapamil Hydrochloride Extended-release Capsules (PM) in clinical trials has been 200 mg given by mouth once daily at bedtime. In rare instances, initial doses of 100 mg a day may be warranted in patients who have an increased response to verapamil [e.g. patients with impaired renal function, impaired hepatic function, elderly, low-weight patients, etc. ( see Use in Specific Populations (8.5 , 8.6 , 8.7) )]. Base upward titration on therapeutic efficacy and safety evaluated approximately 24 hours after dosing. The antihypertensive effects of Verapamil Hydrochloride Extended-release Capsules (PM) are evident within the first week of therapy. If an adequate response is not obtained with 200 mg of Verapamil Hydrochloride Extended-release Capsules (PM), the dose may be titrated upward in the following manner: a) 300 mg each evening b) 400 mg each evening (2 × 200 mg) When Verapamil Hydrochloride Extended-release Capsules (PM) is administered at bedtime, office evaluation of blood pressure during morning and early afternoon hours is essentially a measure of peak effect. The usual evaluation of trough effect, which sometimes might be needed to evaluate the appropriateness of any given dose of Verapamil Hydrochloride Extended-release Capsules (PM), would be just prior to bedtime. 2.2 Sprinkling the Capsule Contents on Food Verapamil Hydrochloride Extended-release Capsules (PM) capsules may also be administered by carefully opening the capsule and sprinkling the pellets onto one tablespoonful of applesauce. Swallow the applesauce immediately without chewing and follow with a glass of cool water to ensure complete swallowing of the pellets. The applesauce used should not be hot and it should be soft enough to be swallowed without chewing. Use any pellet/applesauce mixture immediately and do not store for future use. Absorption of the pellets sprinkled onto other foods has not been tested. This method of administration may be beneficial for patients who have difficulty swallowing whole capsules. Subdividing the contents of a Verapamil Hydrochloride Extended-release Capsules (PM) capsule is not recommended."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Extended-release capsules controlled onset: 100 mg, 200 mg, and 300 mg. 100 mg: white opaque cap and amethyst body imprinted KU/485 100 mg. 200 mg: amethyst opaque cap and amethyst body imprinted KU/486 200 mg. 300 mg: lavender opaque cap and amethyst body imprinted KU/487 300 mg. Extended-release capsules controlled-onset: 100 mg, 200 mg, and 300 mg (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Verapamil is contraindicated in: Severe left ventricular dysfunction [ see Warnings and Precautions (5.1) ]. Hypotension (less than 90 mm Hg systolic pressure) or cardiogenic shock. Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker). Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker). Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (e.g., Wolff-Parkinson-White, Lown-Ganong-Levine syndromes) [ see Warnings and Precautions (5.4) ]. Severe left ventricular dysfunction (4) Hypotension (<90 mmHg systolic pressure) or cardiogenic shock (4) Sick sinus syndrome (except in patients with pacemaker) (4) 2nd- or 3rd-degree AV block (except in patients with pacemaker) (4) Atrial flutter or atrial fibrillation and an accessory bypass tract"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Congestive heart failure or pulmonary edema may develop ( 5.1 ) Hypotension/dizziness may occur ( 5.2 ) Elevated transaminases have occurred; monitor liver function ( 5.3 ) Ventricular fibrillation has occurred in patients with atrial flutter or atrial fibrillation and an accessory bypass tract ( 5.4 ) Reduce dose or discontinue therapy if marked first-degree AV block or progression to second- or third-degree AV block occurs ( 5.5 ) Sinus bradycardia, pulmonary edema, severe hypotension, second-degree AV block, sinus arrest, and death occurred in patients with hypertrophic cardiomyopathy ( 5.6 ) 5.1 Heart Failure Verapamil has a negative inotropic effect which, in most patients, is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance. In previous clinical experience with 4,954 patients primarily with immediate-release verapamil, 87 (1.8%) developed congestive heart failure or pulmonary edema. Avoid verapamil in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30% or moderate to severe symptoms of cardiac failure) and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker [ see Drug Interactions (7.4) ]. Control patients with milder ventricular dysfunction, if possible, with optimum doses of digitalis and/or diuretics before verapamil treatment is started [ see Drug Interactions (7.5) ]. 5.2 Hypotension Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels which may result in dizziness or symptomatic hypotension. In hypertensive patients, decreases in blood pressure below normal are unusual. The incidence of hypotension observed in 4,954 patients enrolled in clinical trials of other verapamil formulations was 2.5% [ see Adverse Reactions (6.1) ]. In clinical studies of Verapamil Hydrochloride Extended-release Capsules (PM), 1.7% of the patients developed significant hypotension. Tilt table testing (60 degrees) was not able to induce orthostatic hypotension. 5.3 Elevated Liver Enzymes Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported. Such elevations have sometimes been transient and may disappear even in the face of continued verapamil treatment. Several cases of hepatocellular injury related to verapamil have been proven by rechallenge; half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain) in addition to elevations of SGOT, SGPT, and alkaline phosphatase. Periodic monitoring of liver function in patients receiving verapamil is therefore prudent. 5.4 Accessory Bypass Tract (Wolff-Parkinson-White or Lown-Ganong-Levine) Some patients with paroxysmal and/or chronic atrial flutter or atrial fibrillation and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis). Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated [ see Contraindications (4) ]. Treatment is usually DC-cardioversion. Cardioversion has been used safely and effectively after oral verapamil. 5.5 Atrioventricular Block The effect of verapamil on AV conduction and the SA node may lead to asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms. PR interval prolongation is correlated with verapamil plasma concentrations, especially during the early titration phase of therapy. Higher degrees of AV block, however, were infrequently (0.8%) observed in previous verapamil clinical trials [see Adverse Reactions (6.1)] . Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil and institution of appropriate therapy depending upon the clinical situation. 5.6 Patients with Hypertrophic Cardiomyopathy In 120 patients with hypertrophic cardiomyopathy, idiopathic hypertrophic subaortic stenosis (IHSS) (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen. Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a history of left ventricular dysfunction. Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (over 20 mm Hg) pulmonary capillary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients. Concomitant administration of quinidine [see Drug Interactions (7.10)] preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema). Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4% and sinus arrest in 2% [see Adverse Reactions (6)] . It must be appreciated that this group of patients had a serious disease with a high mortality rate. Most adverse effects responded well to dose reduction and only rarely did verapamil have to be discontinued."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Most common adverse reactions (incidence ≥ 3% and more common than in patients treated with placebo) are headache, infection, constipation, flu syndrome, peripheral edema, dizziness, pharyngitis, and sinusitis ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Wilshire Pharmaceuticals, Inc. at 1-877-495-6856 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates. Serious adverse reactions are uncommon when verapamil therapy is initiated with upward dose titration within the recommended single and total daily dose. See Warnings and Precautions (5.1 , 5.2 , 5.3 , 5.4 , 5.5 ) for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response. Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil. The following reactions (Table 1) to orally administered Verapamil Hydrochloride Extended-release Capsules (PM) occurred at rates of 2.0% or greater or occurred at lower rates but appeared to be drug-related in clinical trials in hypertension. Table 1. Adverse Events Occurring in ≥ 2% of Verapamil Hydrochloride Extended-release Capsules (PM) Patients in Placebo- Controlled Clinical Trials All Doses Studied N = 297 % Placebo N = 116 % All Doses Studied N = 297 % Placebo N = 116 % Headache 12.1 11.2 Dyspepsia 2.7 1.7 Infection 12.1 Infection, primarily upper respiratory infection (URI) and unrelated to study medication. Constipation was typically mild and easily manageable. At the usual once-daily dose of 200 mg, the observed incidence of constipation was 3.9%. 6.9 Rhinitis 2.7 2.6 Constipation 8.8 0.9 Diarrhea 2.4 1.7 Flu Syndrome 3.7 2.6 Pain 2.4 1.7 Peripheral edema 3.7 0.9 Edema 1.7 0.0 Dizziness 3.0 0.9 Nausea 1.7 0.0 Pharyngitis 3.0 2.6 Accidental Injury 1.5 0.0 Sinusitis 3.0 2.6 In previous experience with other formulations of verapamil (N=4,954) the following reactions (Table 2) have occurred at rates greater than 1.0% or occurred at lower rates but appeared clearly drug related in clinical trials in 4,954 patients. Table 2. Adverse Events Occurring in >1% (or lower rates and clearly drug related) of Patients with Other Verapamil Formulations Constipation 7.3% Fatigue 1.7% Dizziness 3.3% Bradycardia (HR<50/min) 1.4% Nausea 2.7% Rash 1.2% Hypotension 2.5% AV block (total 1°, 2°, 3°) 1.2% Headache 2.2% AV block (2° and 3°) 0.8% Edema 1.9% Flushing 0.6% CHF/Pulmonary Edema 1.8% In clinical trials related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rate below 50/min at rest occurred in 15% of patients and asymptomatic hypotension occurred in 5% of patients. 6.2 Open Trials / Postmarketing Experience The following reactions, reported with orally administered verapamil in 2.0% or less of patients, occurred under conditions (open verapamil trials, postmarketing experience [reactions added since the initial US approval of Verapamil Hydrochloride Extended-release Capsules (PM) in 1998 are marked with an asterisk]) where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship: Cardiovascular: angina pectoris, atrioventricular dissociation, ECG Abnormal*, chest pain, claudication, hypertension*, myocardial infarction, palpitations, purpura (vasculitis), syncope. Digestive System: diarrhea, dry mouth, elevated liver enzymes* [see Warnings and Precautions (5.3)] , gastrointestinal distress, gingival hyperplasia. Hemic and Lymphatic: ecchymosis or bruising. Nervous System: cerebrovascular accident, confusion, equilibrium disorders, extrapyramidal symptoms, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence. Respiratory: dyspnea. Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, macules, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme. Special Senses: blurred vision, tinnitus. Urogenital: gynecomastia, galactorrhea/hyperprolactinemia, impotence, increased urination, spotty menstruation. Other: allergy aggravated, asthenia*. 6.3 Treatment of Acute Cardiovascular Adverse Reactions The frequency of cardiovascular adverse reactions that require therapy is rare; hence, experience with their treatment is limited. Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, apply the appropriate emergency measures immediately; e.g., intravenously administered norepinephrine bitartrate, atropine sulfate, isoproterenol HCl (all in the usual doses), or calcium gluconate (10% solution). In patients with hypertrophic cardiomyopathy, use alpha-adrenergic agents (phenylephrine HCl, metaraminol bitartrate, or methoxamine HCl) to maintain blood pressure, and isoproterenol and avoid norepinephrine. If further support is necessary, inotropic agents (dopamine HCl or dobutamine HCl) may be administered. Actual treatment and dosage depends on the severity of the clinical situation and the judgment and experience of the treating physician."
+  ],
+  "adverse_reactions_table": [
+   "<table ID=\"table1\" width=\"90%\"><caption>Table 1. Adverse Events Occurring in &#x2265; 2% of Verapamil Hydrochloride Extended-release Capsules (PM) Patients in Placebo- Controlled Clinical Trials</caption><col width=\"18%\" align=\"left\" valign=\"middle\"/><col width=\"16%\" align=\"center\" valign=\"middle\"/><col width=\"16%\" align=\"center\" valign=\"middle\"/><col width=\"18%\" align=\"left\" valign=\"middle\"/><col width=\"16%\" align=\"center\" valign=\"middle\"/><col width=\"16%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"First Last\"><th align=\"left\" styleCode=\"Lrule Rrule\"/><th align=\"center\" styleCode=\"Rrule\">All Doses Studied   N = 297   % </th><th align=\"center\" styleCode=\"Rrule\">Placebo   N = 116   % </th><th align=\"left\" styleCode=\"Rrule\"/><th align=\"center\" styleCode=\"Rrule\">All Doses Studied   N = 297   % </th><th align=\"center\" styleCode=\"Rrule\">Placebo   N = 116   % </th></tr></thead><tbody><tr styleCode=\"Botrule First\"><td align=\"left\" styleCode=\"Lrule Rrule\">Headache</td><td align=\"center\" styleCode=\"Rrule\">12.1</td><td align=\"center\" styleCode=\"Rrule\">11.2</td><td align=\"left\" styleCode=\"Rrule\">Dyspepsia</td><td align=\"center\" styleCode=\"Rrule\">2.7</td><td align=\"center\" styleCode=\"Rrule\">1.7</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Infection</td><td align=\"center\" styleCode=\"Rrule\">12.1 <footnote ID=\"foot1a\">Infection, primarily upper respiratory infection (URI) and unrelated to study medication. Constipation was typically mild and easily manageable. At the usual once-daily dose of 200 mg, the observed incidence of constipation was 3.9%.</footnote></td><td align=\"center\" styleCode=\"Rrule\">6.9</td><td align=\"left\" styleCode=\"Rrule\">Rhinitis</td><td align=\"center\" styleCode=\"Rrule\">2.7</td><td align=\"center\" styleCode=\"Rrule\">2.6</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Constipation</td><td align=\"center\" styleCode=\"Rrule\">8.8 <footnoteRef IDREF=\"foot1a\"/></td><td align=\"center\" styleCode=\"Rrule\">0.9</td><td align=\"left\" styleCode=\"Rrule\">Diarrhea</td><td align=\"center\" styleCode=\"Rrule\">2.4</td><td align=\"center\" styleCode=\"Rrule\">1.7</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Flu Syndrome</td><td align=\"center\" styleCode=\"Rrule\">3.7</td><td align=\"center\" styleCode=\"Rrule\">2.6</td><td align=\"left\" styleCode=\"Rrule\">Pain</td><td align=\"center\" styleCode=\"Rrule\">2.4</td><td align=\"center\" styleCode=\"Rrule\">1.7</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Peripheral edema</td><td align=\"center\" styleCode=\"Rrule\">3.7</td><td align=\"center\" styleCode=\"Rrule\">0.9</td><td align=\"left\" styleCode=\"Rrule\">Edema</td><td align=\"center\" styleCode=\"Rrule\">1.7</td><td align=\"center\" styleCode=\"Rrule\">0.0</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Dizziness</td><td align=\"center\" styleCode=\"Rrule\">3.0</td><td align=\"center\" styleCode=\"Rrule\">0.9</td><td align=\"left\" styleCode=\"Rrule\">Nausea</td><td align=\"center\" styleCode=\"Rrule\">1.7</td><td align=\"center\" styleCode=\"Rrule\">0.0</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Pharyngitis</td><td align=\"center\" styleCode=\"Rrule\">3.0</td><td align=\"center\" styleCode=\"Rrule\">2.6</td><td align=\"left\" styleCode=\"Rrule\">Accidental Injury</td><td align=\"center\" styleCode=\"Rrule\">1.5</td><td align=\"center\" styleCode=\"Rrule\">0.0</td></tr><tr><td align=\"left\" styleCode=\"Lrule Rrule\">Sinusitis</td><td align=\"center\" styleCode=\"Rrule\">3.0</td><td align=\"center\" styleCode=\"Rrule\">2.6</td><td align=\"left\" styleCode=\"Rrule\"/><td align=\"center\" styleCode=\"Rrule\"/><td align=\"center\" styleCode=\"Rrule\"/></tr></tbody></table>",
+   "<table ID=\"table2\" width=\"90%\"><caption>Table 2. Adverse Events Occurring in &gt;1% (or lower rates and clearly drug related) of Patients with Other Verapamil Formulations</caption><col width=\"35%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><col width=\"35%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><tbody><tr styleCode=\"Botrule First\"><td align=\"left\" styleCode=\"Lrule Rrule\">Constipation</td><td align=\"left\" styleCode=\"Rrule\">7.3%</td><td align=\"left\" styleCode=\"Rrule\">Fatigue</td><td align=\"left\" styleCode=\"Rrule\">1.7%</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Dizziness</td><td align=\"left\" styleCode=\"Rrule\">3.3%</td><td align=\"left\" styleCode=\"Rrule\">Bradycardia (HR&lt;50/min)</td><td align=\"left\" styleCode=\"Rrule\">1.4%</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Nausea</td><td align=\"left\" styleCode=\"Rrule\">2.7%</td><td align=\"left\" styleCode=\"Rrule\">Rash</td><td align=\"left\" styleCode=\"Rrule\">1.2%</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Hypotension</td><td align=\"left\" styleCode=\"Rrule\">2.5%</td><td align=\"left\" styleCode=\"Rrule\">AV block (total 1&#xB0;, 2&#xB0;, 3&#xB0;)</td><td align=\"left\" styleCode=\"Rrule\">1.2%</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Headache</td><td align=\"left\" styleCode=\"Rrule\">2.2%</td><td align=\"left\" styleCode=\"Rrule\">AV block (2&#xB0; and 3&#xB0;)</td><td align=\"left\" styleCode=\"Rrule\">0.8%</td></tr><tr styleCode=\"Botrule\"><td align=\"left\" styleCode=\"Lrule Rrule\">Edema</td><td align=\"left\" styleCode=\"Rrule\">1.9%</td><td align=\"left\" styleCode=\"Rrule\">Flushing</td><td align=\"left\" styleCode=\"Rrule\">0.6%</td></tr><tr styleCode=\"Botrule Last\"><td align=\"left\" styleCode=\"Lrule Rrule\">CHF/Pulmonary Edema</td><td align=\"left\" styleCode=\"Rrule\">1.8%</td><td align=\"left\" styleCode=\"Rrule\"/><td align=\"left\" styleCode=\"Rrule\"/></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS CYP3A4 inhibitors increase verapamil levels ( 7.1 ) CYP3A4 inducers decrease verapamil levels ( 7.1 ) If simvastatin is co-administered with verapamil, do not exceed doses greater than 10 mg daily of simvastatin ( 7.2 ) If lovastatin is co-administered with verapamil, do not exceed doses greater than 40 mg daily of lovastatin ( 7.2 ) Grapefruit juice may significantly increase verapamil levels ( 7.3 ) Beta blockers: reports of excess bradycardia and AV block, including complete heart block; monitor closely ( 7.4 ) Digoxin levels can increase by 50 to 75%; reduce digoxin dose ( 7.5 ) Alcohol elimination inhibited resulting in elevated ethanol levels ( 7.6) 7.1 CYP3A4 Inhibitors and Inducers In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450, CYP3A4, CYP1A2, and CYP2C. Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil. Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics. Inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil. Ivabradine Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances. Avoid concomitant use of ivabradine and verapamil. 7.2 HMG-CoA Reductase Inhibitors The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis. Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone. Limit the dose of simvastatin in patients on verapamil to 10 mg daily. Limit the daily dose of lovastatin to 40 mg. Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs. 7.3 Grapefruit Juice Grapefruit juice may significantly increase concentrations of verapamil. Grapefruit juice given to nine healthy volunteers increased S- and R- verapamil AUC 0-12 by 36% and 28%, respectively. Steady state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively with grapefruit juice compared to control. Similarly, Cmax and Cmin of R-verapamil increased by 40% and 13%, respectively. Grapefruit juice did not affect half-life, nor was there a significant change in AUC 0-12 ratio R/S compared to control. Grapefruit juice did not cause a significant difference in the pharmacokinetics of norverapamil. This increase in verapamil plasma concentration is not expected to have any clinical consequences. 7.4 Beta Blockers Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility. The combination of extended-release verapamil and beta-adrenergic blocking agents has not been studied. However, there have been reports of excess bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension. For hypertensive patients, the risk of combined therapy may outweigh the potential benefits. The combination should be used only with caution and close monitoring. Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has been observed in a patient receiving concomitant timolol (a beta-adrenergic blocker) eyedrops and oral verapamil. A decrease in metoprolol and propranolol clearance has been observed when either drug is administered concomitantly with verapamil. A variable effect has been seen when verapamil and atenolol were given together. 7.5 Digitalis Consider reducing digoxin dose when verapamil and digoxin are to be given together. Monitor digoxin level periodically during therapy. Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity. In patients with hepatic cirrhosis the influence of verapamil on digoxin pharmacokinetics is magnified. Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively. If digoxin toxicity is suspected, suspend or discontinue digoxin therapy. In previous clinical trials with other verapamil formulations related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients. 7.6 Alcohol Verapamil has been found to significantly inhibit ethanol elimination resulting in elevated blood ethanol concentrations that may prolong the intoxicating effects of alcohol. 7.7 Clonidine Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil. Monitor heart rate in patients receiving concomitant verapamil and clonidine. 7.8 Telithromycin Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics. 7.9 Antineoplastic Agents Verapamil can increase doxorubicin levels. The absorption of verapamil can be reduced by the cyclophosphamide, oncovin, procarbazine, prednisone (COPP) and the vindesine, adriamycin, cisplatin (VAC) cytotoxic drug regimens. Concomitant administration of R verapamil can decrease the clearance of paclitaxel. 7.10 Quinidine In a small number of patients with hypertrophic cardiomyopathy, concomitant use of verapamil and quinidine resulted in significant hypotension. Until further data are obtained, avoid combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy. The electrophysiological effects of quinidine and verapamil on AV conduction were studied in 8 patients. Verapamil significantly counteracted the effects of quinidine on AV conduction. There has been a report of increased quinidine levels during verapamil therapy. 7.11 Aspirin In a few reported cases, coadministration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone. 7.12 Antihypertensive Agents Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta blockers) will usually have an additive effect on lowering blood pressure. Monitor patients receiving these combinations appropriately. Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in reduction in blood pressure that is excessive in some patients. Such an effect was observed in one study following the concomitant administration of verapamil and prazosin. 7.13 Disopyramide Until data on possible interactions between verapamil and disopyramide are obtained, do not administer disopyramide within 48 hours before or 24 hours after verapamil administration. 7.14 Flecainide A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization. Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction. 7.15 Carbamazepine Verapamil therapy may increase carbamazepine concentrations during combined therapy. This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness. 7.16 Cyclosporine Verapamil therapy may increase serum levels of cyclosporine. 7.17 Lithium Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy with either no change or an increase in serum lithium levels. However, the addition of verapamil has also resulted in the lowering of serum lithium levels in patients receiving chronic stable oral lithium. Patients receiving both drugs must be monitored carefully. 7.18 Inhalation Anesthetics Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions. When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, titrate slowly to avoid excessive cardiovascular depression. 7.19 Neuromuscular Blocking Agents Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing). It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly. 7.20 Phenobarbital Phenobarbital therapy may increase verapamil clearance. 7.21 Rifampin Therapy with rifampin may markedly reduce oral verapamil bioavailability. 7.22 Theophylline Verapamil may inhibit the clearance and increase the plasma levels of theophylline. 7.23 Cimetidine The interaction between cimetidine and chronically administered verapamil has not been studied. Variable results on clearance have been obtained in acute studies of healthy volunteers; clearance of verapamil was either reduced or unchanged. 7.24 Nitrates Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions. The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions. 7.25 Mammalian Target of Rapamycin (mTOR) Inhibitors In a study of 25 healthy volunteers with co-administration of verapamil with sirolimus, whole blood sirolimus Cmax and AUC were increased 130% and 120%, respectively. Plasma S(-) verapamil Cmax and AUC were both increased 50%. Co-administration of verapamil with everolimus in 16 healthy volunteers increased the Cmax and AUC of everolimus by 130% and 250%, respectively. With concomitant use of mTOR inhibitors (e.g., sirolimus, temsirolimus, and everolimus) and verapamil, consider appropriate dose reductions of both medications."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Use during pregnancy only if potential benefit justifies the potential risk to the fetus ( 8.1 ) Discontinue nursing while verapamil is administered ( 8.3 ) Safety and effectiveness in pediatric patients have not been established ( 8.4 ) 8.1 Pregnancy Pregnancy Category C. Reproduction studies have been performed in rabbits and rats at oral doses up to 1.9 (15 mg/kg/day) and 7.5 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity. In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams. This oral dose has also been shown to cause hypotension in rats. There are no adequate and well-controlled studies in pregnant women. Verapamil should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Verapamil crosses the placental barrier and can be detected in umbilical vein blood at delivery. 8.2 Labor and Delivery It is not known whether the use of verapamil during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention. Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor. 8.3 Nursing Mothers Verapamil is excreted into human milk. In case studies where verapamil concentration in human milk was calculated, the nursing infant doses ranged from less than 0.01% to 0.1% of the mother's verapamil dose. Consider possible infant exposure when verapamil is administered to a nursing woman. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.5 Geriatric Use Clinical studies of Verapamil Hydrochloride Extended-release Capsules (PM) were not adequate to determine if subjects aged 65 or over respond differently from younger patients. Other reported clinical experience has not identified differences in response between the elderly and younger patients; however, greater sensitivity to Verapamil Hydrochloride Extended-release Capsules (PM) by some older individuals cannot be ruled out. Aging may affect the pharmacokinetics of verapamil. Elimination half-life may be prolonged in the elderly [see Clinical Pharmacology (12.3)] . Verapamil is highly metabolized by the liver, and about 70% of the administered dose is excreted as metabolites in the urine. Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered [see Use in Specific Populations (8.6, 8.7)] . In general, lower initial doses of Verapamil Hydrochloride Extended-release Capsules (PM) may be warranted in the elderly [see Dosage and Administration (2.1)] . 8.6 Impaired Hepatic Function Since verapamil is highly metabolized by the liver, consider lower dosages and closely monitor responses to the drug in patients with impaired hepatic function. Severe liver dysfunction prolongs the elimination half-life of immediate-release verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients. Monitor for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects [see Overdosage (10)] . 8.7 Impaired Renal Function About 70% of an administered dose of verapamil is excreted as metabolites in the urine. Until further data are available, monitor these patients for abnormal prolongation of the PR interval or other signs of overdosage [see Overdosage (10)] . 8.8 Attenuated (decreased) Neuromuscular Transmission It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne's muscular dystrophy, and that verapamil prolongs recovery from the neuromuscular blocking agent vecuronium and causes a worsening of myasthenia gravis. It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Category C. Reproduction studies have been performed in rabbits and rats at oral doses up to 1.9 (15 mg/kg/day) and 7.5 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity. In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams. This oral dose has also been shown to cause hypotension in rats. There are no adequate and well-controlled studies in pregnant women. Verapamil should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Verapamil crosses the placental barrier and can be detected in umbilical vein blood at delivery."
+  ],
+  "labor_and_delivery": [
+   "8.2 Labor and Delivery It is not known whether the use of verapamil during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention. Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor."
+  ],
+  "nursing_mothers": [
+   "8.3 Nursing Mothers Verapamil is excreted into human milk. In case studies where verapamil concentration in human milk was calculated, the nursing infant doses ranged from less than 0.01% to 0.1% of the mother's verapamil dose. Consider possible infant exposure when verapamil is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of Verapamil Hydrochloride Extended-release Capsules (PM) were not adequate to determine if subjects aged 65 or over respond differently from younger patients. Other reported clinical experience has not identified differences in response between the elderly and younger patients; however, greater sensitivity to Verapamil Hydrochloride Extended-release Capsules (PM) by some older individuals cannot be ruled out. Aging may affect the pharmacokinetics of verapamil. Elimination half-life may be prolonged in the elderly [see Clinical Pharmacology (12.3)] . Verapamil is highly metabolized by the liver, and about 70% of the administered dose is excreted as metabolites in the urine. Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered [see Use in Specific Populations (8.6, 8.7)] . In general, lower initial doses of Verapamil Hydrochloride Extended-release Capsules (PM) may be warranted in the elderly [see Dosage and Administration (2.1)] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE There is no specific antidote for verapamil overdosage; treatment is supportive. Delayed pharmacodynamic consequences may occur with sustained-release formulations, and observe patients for at least 48 hours, preferably under continuous hospital care. Reported effects include hypotension, bradycardia, cardiac conduction defects, arrhythmias, hyperglycemia, and decreased mental status. In addition, there have been literature reports of noncardiogenic pulmonary edema in patients taking large overdoses of verapamil (up to approximately 9 g). In acute overdosage, consider gastrointestinal decontamination with cathartics and whole bowel irrigation. Calcium, inotropes (i.e., isoproterenol HCl, dopamine HCl, and glucagon), atropine sulfate, vasopressors (i.e., norepinephrine, and epinephrine), and cardiac pacing have been used with variable results to reverse hypotension and myocardial depression. In a few reported cases, overdose with calcium channel blockers that was initially refractory to atropine became more responsive to this treatment when the patients received large doses (close to 1 gram/hour for more than 24 hours) of calcium chloride. Calcium chloride is preferred to calcium gluconate since it provides 3 times more calcium per volume. Asystole should be handled by the usual measures including cardiopulmonary resuscitation. Verapamil cannot be removed by hemodialysis."
+  ],
+  "description": [
+   "11 DESCRIPTION Verapamil Hydrochloride Extended-release Capsules (PM) is a calcium ion influx inhibitor (slow channel blocker or calcium ion antagonist). Verapamil Hydrochloride Extended-release Capsules (PM) is available for oral administration as a 100 mg hard gelatin capsule (white opaque cap/amethyst body), a 200 mg hard gelatin capsule (amethyst opaque cap/amethyst body), and as a 300 mg hard gelatin capsule (lavender opaque cap/amethyst body). Verapamil is administered as a racemic mixture of the R and S enantiomers. The structural formulae of the verapamil HCl enantiomers are: C 27 H 38 N 2 O 4 ∙HCl M.W.=491.07 Chemical name: Benzeneacetonitrile, α-[3-[[2-(3,4-dimethoxyphenyl)ethyl]methylamino]propyl]- 3,4-dimethoxy-α-(1-methylethyl)-, monohydrochloride,(±)-. Verapamil HCl is an almost white, crystalline powder, practically free of odor, with a bitter taste. It is soluble in water, chloroform and methanol. Verapamil HCl is not structurally related to other cardioactive drugs. In addition to verapamil HCl the Verapamil Hydrochloride Extended-release Capsules (PM) capsule contains the following inactive ingredients: D&C Red #28, FD & C Blue #1, FD&C red #40, fumaric acid, gelatin, povidone, shellac, silicon dioxide, sodium lauryl sulfate, starch, sugar spheres, talc, and titanium dioxide. Chemical Structure System Components and Performance: Verapamil Hydrochloride Extended-release Capsules (PM) uses the proprietary CODAS ® (Chronotherapeutic Oral Drug Absorption System) technology, which is designed for bedtime dosing, incorporating a 4 to 5-hour delay in drug delivery. The controlled-onset delivery system results in a maximum plasma concentration (C max ) of verapamil in the morning hours. These pellet filled capsules provide for extended-release of the drug in the gastrointestinal tract. The Verapamil Hydrochloride Extended-release Capsules (PM) formulation has been designed to initiate the release of verapamil 4-5 hours after ingestion. This delay is introduced by the level of non-enteric release-controlling polymer applied to drug loaded beads. The release-controlling polymer is a combination of water soluble and water insoluble polymers. As water from the gastrointestinal tract comes into contact with the polymer coated beads, the water soluble polymer slowly dissolves and the drug diffuses through the resulting pores in the coating. The water insoluble polymer continues to act as a barrier, maintaining the controlled release of the drug. The rate of release is essentially independent of pH, posture and food. Multiparticulate systems such as Verapamil Hydrochloride Extended-release Capsules (PM) have been shown to be independent of gastrointestinal motility."
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Verapamil is a calcium ion influx inhibitor (L-type calcium channel blocker or calcium channel antagonist). Verapamil exerts its pharmacologic effects by selectively inhibiting the transmembrane influx of ionic calcium into arterial smooth muscle as well as in conductile and contractile myocardial cells without altering serum calcium concentrations. Verapamil binding is voltage-dependent with affinity increasing as the vascular smooth muscle membrane potential is reduced. In addition, verapamil binding is frequency dependent and apparent affinity increases with increased frequency of depolarizing stimulus. The L-type calcium channel is an oligomeric structure consisting of five putative subunits designated alpha-1, alpha-2, beta, tau, and epsilon. Biochemical evidence points to separate binding sites for 1,4-dihydropyridines, phenylalkylamines, and the benzothiazepines (all located on the alpha-1 subunit). Although they share a similar mechanism of action, calcium channel blockers represent three heterogeneous categories of drugs with differing vascular-cardiac selectivity ratios. 12.2 Pharmacodynamics Essential Hypertension: Verapamil produces its antihypertensive effect by a combination of vascular and cardiac effects. It acts as a vasodilator with selectivity for the arterial portion of the peripheral vasculature. As a result the systemic vascular resistance is reduced and usually without orthostatic hypotension or reflex tachycardia. Bradycardia (rate less than 50 beats/min) is uncommon. During isometric or dynamic exercise verapamil does not alter systolic cardiac function in patients with normal ventricular function. Verapamil does not alter total serum calcium levels. However, one report has suggested that calcium levels above the normal range may alter the therapeutic effect of verapamil. Verapamil regularly reduces the total systemic resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles. Electrophysiologic Effects: Electrical activity through the AV node depends, to a significant degree, upon the transmembrane influx of extracellular calcium through the L-type (slow) channel. By decreasing the influx of calcium, verapamil prolongs the effective refractory period within the AV node and slows AV conduction in a rate-related manner. Normal sinus rhythm is usually not affected, but in patients with sick sinus syndrome, verapamil may interfere with sinus-node impulse generation and may induce sinus arrest or sinoatrial block. Atrioventricular block can occur in patients without pre-existing conduction defects [ see Warnings and Precautions (5.5) ]. Verapamil does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization, and conduction in depressed atrial fibers. Verapamil may shorten the antegrade effective refractory period of the accessory bypass tract. Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil [ see Warnings and Precautions (5.4) ]. Verapamil has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis. It is not known whether this action is important at the doses used in man. Hemodynamics: Verapamil reduces afterload and myocardial contractility. In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload and cardiac index remains unchanged. During isometric or dynamic exercise, verapamil does not alter systolic cardiac function in patients with normal ventricular function. In patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur [see Drug Interactions (7.4) ]. Pulmonary Function: Verapamil does not induce bronchoconstriction and, hence, does not impair ventilatory function. Verapamil has been shown to have either a neutral or relaxant effect on bronchial smooth muscle. 12.3 Pharmacokinetics Verapamil is administered as a racemic mixture of the R and S enantiomers. The systemic concentrations of R and S enantiomers, as well as overall bioavailability, are dependent upon the route of administration and the rate and extent of release from the dosage forms. Upon oral administration, there is rapid stereoselective biotransformation during the first pass of verapamil through the portal circulation. Absorption: In a study in 5 subjects with oral immediate-release verapamil, the systemic bioavailability was from 33% to 65% for the R enantiomer and from 13% to 34% for the S enantiomer. Following oral administration of an immediately releasing formulation every 8 hours in 24 subjects, the relative systemic availability of the S enantiomer compared to the R enantiomer was approximately 13% following a single day's administration and approximately 18% following administration to steady-state. The degree of stereoselectivity of metabolism for Verapamil Hydrochloride Extended-release Capsules (PM) was similar to that for the immediately releasing formulation. The R and S enantiomers have differing levels of pharmacologic activity. In studies in animals and humans, the S enantiomer has 8 to 20 times the activity of the R enantiomer in slowing AV conduction. In animal studies, the S enantiomer has 15 to 50 times the activity of the R enantiomer in reducing myocardial contractility in isolated blood-perfused dog papillary muscle, respectively, and twice the effect in reducing peripheral resistance. In isolated septal strip preparations from 5 patients, the S enantiomer was 8 times more potent than the R in reducing myocardial contractility. Dose escalation study data indicate that verapamil concentrations increase disproportionally to dose as measured by relative peak plasma concentrations (C max ) or areas under the plasma concentration vs time curves (AUC). Consumption of a high fat meal just prior to dosing in the morning had no effect on the extent of absorption and a modest effect on the rate of absorption from Verapamil Hydrochloride Extended-release Capsules (PM). The rate of absorption was not affected by whether the volunteers were supine two hours after night-time dosing or non-supine for four hours following morning dosing. Administering Verapamil Hydrochloride Extended-release Capsules (PM) in the morning increased the extent of absorption of verapamil and/or decreased the metabolism to norverapamil. When the contents of the Verapamil Hydrochloride Extended-release Capsules (PM) capsule were administered by sprinkling onto one tablespoonful of applesauce, the rate and extent of verapamil absorption were found to be bioequivalent to the same dose when administered as an intact capsule. Similar results were observed with norverapamil. Distribution: Although some evidence of lack of dose linearity was observed for Verapamil Hydrochloride Extended-release Capsules (PM), this non-linearity was enantiomer specific, with the R enantiomer showing the greatest degree of non-linearity. Table 3. Pharmacokinetic Characteristics of Verapamil Enantiomers After Administration of Escalating Doses of Verapamil Hydrochloride Extended-release Capsules (PM) ISOMER 200 300 400 Dose Ratio 1 1.5 2 Relative Cmax R 1 1.89 2.34 S 1 1.88 2.5 Relative AUC R 1 1.67 2.34 S 1 1.35 2.20 Racemic verapamil is released from Verapamil Hydrochloride Extended-release Capsules (PM) by diffusion following the gradual solubilization of the water soluble polymer. The rate of solubilization of the water soluble polymer produces a lag period in drug release for approximately 4-5 hours. The drug release phase is prolonged with the peak plasma concentration (C max ) occurring approximately 11 hours after administration. Trough concentrations occur approximately 4 hours after bedtime dosing while the patient is sleeping. Steady-state pharmacokinetics were determined in healthy volunteers. Steady-state concentration is achieved by day 5 of dosing. In healthy volunteers, following administration of Verapamil Hydrochloride Extended-release Capsules (PM) (200 mg per day), steady-state pharmacokinetics of the R and S enantiomers of verapamil is as follows: Mean C max of the R isomer was 77.8 ng/ml and 16.8 ng/ml for the S isomer; AUC (0-24h) of the R isomer was 1037 ng∙h/ml and 195 ng∙h/ml for the S isomer. In general, bioavailability of verapamil is higher and half life longer in older (>65 yrs) subjects. Lean body weight also affects its pharmacokinetics inversely. It was not possible to observe a gender difference in the clinical trials of Verapamil Hydrochloride Extended-release Capsules (PM) due to the small sample size. However, there are conflicting data in the literature suggesting that verapamil clearance decreased with age in women to a greater degree than in men. Metabolism and Excretion: Orally administered verapamil undergoes extensive metabolism in the liver. Verapamil is metabolized by O-demethylation (25%) and N-dealkylation (40%), and is subject to pre-systemic hepatic metabolism with elimination of up to 80% of the dose. The metabolism is mediated by hepatic cytochrome P450, and animal studies have implied that the mono-oxygenase is the specific isoenzyme of the P450 family. Thirteen metabolites have been identified in urine. Norverapamil enantiomers can reach steady-state plasma concentrations approximately equal to those of the enantiomers of the parent drug. For Verapamil Hydrochloride Extended-release Capsules (PM), the norverapamil R enantiomer reached steady-state plasma concentrations similar to the verapamil R enantiomer, but the norverapamil S enantiomer concentrations were approximately twice that of the verapamil S enantiomer concentrations. The cardiovascular activity of norverapamil appears to be approximately 20% that of verapamil. Approximately 70% of an administered dose is excreted as metabolites in the urine and 16% or more in the feces within 5 days. About 3% to 4% is excreted in the urine as unchanged drug. R verapamil is 94% bound to plasma albumin, while S verapamil is 88% bound. In addition, R verapamil is 92% and S verapamil 86% bound to alpha-1 acid glycoprotein. In patients with hepatic insufficiency, metabolism of immediate-release verapamil is delayed and elimination half-life prolonged up to 14 to 16 hours because of the extensive hepatic metabolism [ see Use in Specific Populations (8.6) ]. In addition, in these patients there is a reduced first pass effect, and verapamil is more bioavailable. Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function. After four weeks of oral dosing of immediate-release verapamil (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil. Geriatric Use: The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19-43 years) versus 30 healthy elderly (65-80 years) male and female subjects. Older subjects had significantly higher mean verapamil C max , C min and AUC( 0-24h ) compared to younger subjects. Older subjects had mean AUCs that were approximately 1.7-2.0 times higher than those of younger subjects as well as a longer average verapamil t ½ (approximately 20 hr vs 13 hr)."
+  ],
+  "clinical_pharmacology_table": [
+   "<table width=\"90%\" ID=\"table3\"><caption>Table 3. Pharmacokinetic Characteristics of Verapamil Enantiomers After Administration of Escalating Doses of Verapamil Hydrochloride Extended-release Capsules (PM)</caption><col width=\"29%\" align=\"left\" valign=\"middle\"/><col width=\"26%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\"/><th styleCode=\"Rrule\">ISOMER</th><th styleCode=\"Rrule\">200</th><th styleCode=\"Rrule\">300</th><th styleCode=\"Rrule\">400</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Dose Ratio</td><td styleCode=\"Rrule\"/><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.5</td><td styleCode=\"Rrule\">2</td></tr><tr><td rowspan=\"2\" styleCode=\"Botrule Lrule Rrule\">Relative Cmax</td><td styleCode=\"Rrule\">R</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.89</td><td styleCode=\"Rrule\">2.34</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">S</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.88</td><td styleCode=\"Rrule\">2.5</td></tr><tr><td rowspan=\"2\" styleCode=\"Botrule Lrule Rrule\">Relative AUC</td><td styleCode=\"Rrule\">R</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.67</td><td styleCode=\"Rrule\">2.34</td></tr><tr><td styleCode=\"Rrule\">S</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.35</td><td styleCode=\"Rrule\">2.20</td></tr></tbody></table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Verapamil is a calcium ion influx inhibitor (L-type calcium channel blocker or calcium channel antagonist). Verapamil exerts its pharmacologic effects by selectively inhibiting the transmembrane influx of ionic calcium into arterial smooth muscle as well as in conductile and contractile myocardial cells without altering serum calcium concentrations. Verapamil binding is voltage-dependent with affinity increasing as the vascular smooth muscle membrane potential is reduced. In addition, verapamil binding is frequency dependent and apparent affinity increases with increased frequency of depolarizing stimulus. The L-type calcium channel is an oligomeric structure consisting of five putative subunits designated alpha-1, alpha-2, beta, tau, and epsilon. Biochemical evidence points to separate binding sites for 1,4-dihydropyridines, phenylalkylamines, and the benzothiazepines (all located on the alpha-1 subunit). Although they share a similar mechanism of action, calcium channel blockers represent three heterogeneous categories of drugs with differing vascular-cardiac selectivity ratios."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Essential Hypertension: Verapamil produces its antihypertensive effect by a combination of vascular and cardiac effects. It acts as a vasodilator with selectivity for the arterial portion of the peripheral vasculature. As a result the systemic vascular resistance is reduced and usually without orthostatic hypotension or reflex tachycardia. Bradycardia (rate less than 50 beats/min) is uncommon. During isometric or dynamic exercise verapamil does not alter systolic cardiac function in patients with normal ventricular function. Verapamil does not alter total serum calcium levels. However, one report has suggested that calcium levels above the normal range may alter the therapeutic effect of verapamil. Verapamil regularly reduces the total systemic resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles. Electrophysiologic Effects: Electrical activity through the AV node depends, to a significant degree, upon the transmembrane influx of extracellular calcium through the L-type (slow) channel. By decreasing the influx of calcium, verapamil prolongs the effective refractory period within the AV node and slows AV conduction in a rate-related manner. Normal sinus rhythm is usually not affected, but in patients with sick sinus syndrome, verapamil may interfere with sinus-node impulse generation and may induce sinus arrest or sinoatrial block. Atrioventricular block can occur in patients without pre-existing conduction defects [ see Warnings and Precautions (5.5) ]. Verapamil does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization, and conduction in depressed atrial fibers. Verapamil may shorten the antegrade effective refractory period of the accessory bypass tract. Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil [ see Warnings and Precautions (5.4) ]. Verapamil has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis. It is not known whether this action is important at the doses used in man. Hemodynamics: Verapamil reduces afterload and myocardial contractility. In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload and cardiac index remains unchanged. During isometric or dynamic exercise, verapamil does not alter systolic cardiac function in patients with normal ventricular function. In patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur [see Drug Interactions (7.4) ]. Pulmonary Function: Verapamil does not induce bronchoconstriction and, hence, does not impair ventilatory function. Verapamil has been shown to have either a neutral or relaxant effect on bronchial smooth muscle."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Verapamil is administered as a racemic mixture of the R and S enantiomers. The systemic concentrations of R and S enantiomers, as well as overall bioavailability, are dependent upon the route of administration and the rate and extent of release from the dosage forms. Upon oral administration, there is rapid stereoselective biotransformation during the first pass of verapamil through the portal circulation. Absorption: In a study in 5 subjects with oral immediate-release verapamil, the systemic bioavailability was from 33% to 65% for the R enantiomer and from 13% to 34% for the S enantiomer. Following oral administration of an immediately releasing formulation every 8 hours in 24 subjects, the relative systemic availability of the S enantiomer compared to the R enantiomer was approximately 13% following a single day's administration and approximately 18% following administration to steady-state. The degree of stereoselectivity of metabolism for Verapamil Hydrochloride Extended-release Capsules (PM) was similar to that for the immediately releasing formulation. The R and S enantiomers have differing levels of pharmacologic activity. In studies in animals and humans, the S enantiomer has 8 to 20 times the activity of the R enantiomer in slowing AV conduction. In animal studies, the S enantiomer has 15 to 50 times the activity of the R enantiomer in reducing myocardial contractility in isolated blood-perfused dog papillary muscle, respectively, and twice the effect in reducing peripheral resistance. In isolated septal strip preparations from 5 patients, the S enantiomer was 8 times more potent than the R in reducing myocardial contractility. Dose escalation study data indicate that verapamil concentrations increase disproportionally to dose as measured by relative peak plasma concentrations (C max ) or areas under the plasma concentration vs time curves (AUC). Consumption of a high fat meal just prior to dosing in the morning had no effect on the extent of absorption and a modest effect on the rate of absorption from Verapamil Hydrochloride Extended-release Capsules (PM). The rate of absorption was not affected by whether the volunteers were supine two hours after night-time dosing or non-supine for four hours following morning dosing. Administering Verapamil Hydrochloride Extended-release Capsules (PM) in the morning increased the extent of absorption of verapamil and/or decreased the metabolism to norverapamil. When the contents of the Verapamil Hydrochloride Extended-release Capsules (PM) capsule were administered by sprinkling onto one tablespoonful of applesauce, the rate and extent of verapamil absorption were found to be bioequivalent to the same dose when administered as an intact capsule. Similar results were observed with norverapamil. Distribution: Although some evidence of lack of dose linearity was observed for Verapamil Hydrochloride Extended-release Capsules (PM), this non-linearity was enantiomer specific, with the R enantiomer showing the greatest degree of non-linearity. Table 3. Pharmacokinetic Characteristics of Verapamil Enantiomers After Administration of Escalating Doses of Verapamil Hydrochloride Extended-release Capsules (PM) ISOMER 200 300 400 Dose Ratio 1 1.5 2 Relative Cmax R 1 1.89 2.34 S 1 1.88 2.5 Relative AUC R 1 1.67 2.34 S 1 1.35 2.20 Racemic verapamil is released from Verapamil Hydrochloride Extended-release Capsules (PM) by diffusion following the gradual solubilization of the water soluble polymer. The rate of solubilization of the water soluble polymer produces a lag period in drug release for approximately 4-5 hours. The drug release phase is prolonged with the peak plasma concentration (C max ) occurring approximately 11 hours after administration. Trough concentrations occur approximately 4 hours after bedtime dosing while the patient is sleeping. Steady-state pharmacokinetics were determined in healthy volunteers. Steady-state concentration is achieved by day 5 of dosing. In healthy volunteers, following administration of Verapamil Hydrochloride Extended-release Capsules (PM) (200 mg per day), steady-state pharmacokinetics of the R and S enantiomers of verapamil is as follows: Mean C max of the R isomer was 77.8 ng/ml and 16.8 ng/ml for the S isomer; AUC (0-24h) of the R isomer was 1037 ng∙h/ml and 195 ng∙h/ml for the S isomer. In general, bioavailability of verapamil is higher and half life longer in older (>65 yrs) subjects. Lean body weight also affects its pharmacokinetics inversely. It was not possible to observe a gender difference in the clinical trials of Verapamil Hydrochloride Extended-release Capsules (PM) due to the small sample size. However, there are conflicting data in the literature suggesting that verapamil clearance decreased with age in women to a greater degree than in men. Metabolism and Excretion: Orally administered verapamil undergoes extensive metabolism in the liver. Verapamil is metabolized by O-demethylation (25%) and N-dealkylation (40%), and is subject to pre-systemic hepatic metabolism with elimination of up to 80% of the dose. The metabolism is mediated by hepatic cytochrome P450, and animal studies have implied that the mono-oxygenase is the specific isoenzyme of the P450 family. Thirteen metabolites have been identified in urine. Norverapamil enantiomers can reach steady-state plasma concentrations approximately equal to those of the enantiomers of the parent drug. For Verapamil Hydrochloride Extended-release Capsules (PM), the norverapamil R enantiomer reached steady-state plasma concentrations similar to the verapamil R enantiomer, but the norverapamil S enantiomer concentrations were approximately twice that of the verapamil S enantiomer concentrations. The cardiovascular activity of norverapamil appears to be approximately 20% that of verapamil. Approximately 70% of an administered dose is excreted as metabolites in the urine and 16% or more in the feces within 5 days. About 3% to 4% is excreted in the urine as unchanged drug. R verapamil is 94% bound to plasma albumin, while S verapamil is 88% bound. In addition, R verapamil is 92% and S verapamil 86% bound to alpha-1 acid glycoprotein. In patients with hepatic insufficiency, metabolism of immediate-release verapamil is delayed and elimination half-life prolonged up to 14 to 16 hours because of the extensive hepatic metabolism [ see Use in Specific Populations (8.6) ]. In addition, in these patients there is a reduced first pass effect, and verapamil is more bioavailable. Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function. After four weeks of oral dosing of immediate-release verapamil (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil. Geriatric Use: The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19-43 years) versus 30 healthy elderly (65-80 years) male and female subjects. Older subjects had significantly higher mean verapamil C max , C min and AUC( 0-24h ) compared to younger subjects. Older subjects had mean AUCs that were approximately 1.7-2.0 times higher than those of younger subjects as well as a longer average verapamil t ½ (approximately 20 hr vs 13 hr)."
+  ],
+  "pharmacokinetics_table": [
+   "<table width=\"90%\" ID=\"table3\"><caption>Table 3. Pharmacokinetic Characteristics of Verapamil Enantiomers After Administration of Escalating Doses of Verapamil Hydrochloride Extended-release Capsules (PM)</caption><col width=\"29%\" align=\"left\" valign=\"middle\"/><col width=\"26%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><col width=\"15%\" align=\"left\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\"/><th styleCode=\"Rrule\">ISOMER</th><th styleCode=\"Rrule\">200</th><th styleCode=\"Rrule\">300</th><th styleCode=\"Rrule\">400</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Dose Ratio</td><td styleCode=\"Rrule\"/><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.5</td><td styleCode=\"Rrule\">2</td></tr><tr><td rowspan=\"2\" styleCode=\"Botrule Lrule Rrule\">Relative Cmax</td><td styleCode=\"Rrule\">R</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.89</td><td styleCode=\"Rrule\">2.34</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">S</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.88</td><td styleCode=\"Rrule\">2.5</td></tr><tr><td rowspan=\"2\" styleCode=\"Botrule Lrule Rrule\">Relative AUC</td><td styleCode=\"Rrule\">R</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.67</td><td styleCode=\"Rrule\">2.34</td></tr><tr><td styleCode=\"Rrule\">S</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">1.35</td><td styleCode=\"Rrule\">2.20</td></tr></tbody></table>"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential. There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10, 35 and 120 mg/kg/day or approximately 1.3, 4.4 and 15 times, respectively, the maximum recommended human daily dose (400 mg/day or 8 mg/kg/day). Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate, with or without metabolic activation. Studies in female rats at daily dietary doses up to 6.9 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility. Effects on male fertility have not been determined. 13.2 Animal Toxicology and/or Pharmacology In chronic animal toxicology studies verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not in the rat. Development of cataracts due to verapamil has not been reported in man."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential. There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10, 35 and 120 mg/kg/day or approximately 1.3, 4.4 and 15 times, respectively, the maximum recommended human daily dose (400 mg/day or 8 mg/kg/day). Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate, with or without metabolic activation. Studies in female rats at daily dietary doses up to 6.9 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility. Effects on male fertility have not been determined."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology In chronic animal toxicology studies verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not in the rat. Development of cataracts due to verapamil has not been reported in man."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES Verapamil Hydrochloride Extended-release Capsules (PM) was evaluated in two placebo-controlled, parallel design, double-blind studies of patients with mild to moderate hypertension. In the clinical trials, 413 evaluable patients were randomized to either placebo, 100 mg, 200 mg, 300 mg, or 400 mg and treated for up to 8 weeks. Verapamil Hydrochloride Extended-release Capsules (PM) or placebo was given once daily between 9 pm and 11 pm (nighttime) and blood pressure changes were measured with 36-hour ambulatory blood pressure monitoring (ABPM). The results of these studies demonstrate that Verapamil Hydrochloride Extended-release Capsules (PM), at 200, 300, and 400 mg, is a consistently and significantly more effective antihypertensive agent than placebo in reducing ambulatory blood pressures. Over this dose range, the placebo-subtracted net decreases in diastolic BP at trough (averaged over 6-10 pm) were dose-related, and ranged from 3.8 to 10.0 mm Hg after 8 weeks of therapy. Although Verapamil Hydrochloride Extended-release Capsules (PM) 100 mg was not effective in reducing diastolic BP at trough when measured by ABPM, efficacy was demonstrated in reducing diastolic BP when measured manually at trough and peak and, from 6 am to 12 noon and over 24 hours when measured by ABPM [ see Dosage and Administration (2.1) for titration schedule]. There were no apparent treatment differences between patient subgroups of different age (older or younger than 65 years), sex and race. For severity of hypertension, \"moderate\" hypertensives (mean daytime diastolic BP ≥ 105 mm Hg and ≤ 114 mm Hg) appeared to respond better than \"mild\" hypertensives (mean daytime diastolic BP ≥ 90 mm Hg and ≤ 104 mm Hg). However, sample size for the subgroup comparisons were limited."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Verapamil Hydrochloride Extended-release Capsules (PM); pellet filled capsules are supplied in three dosage strengths: 100 mg: Two piece size 2 hard gelatin capsule, white opaque cap and amethyst body imprinted KU/485 100 mg. Product identification printed in black ink, supplied as follows: NDC 52536-485-37 Bottle of 100s 200 mg: Two piece size 0 hard gelatin capsule, amethyst opaque cap and amethyst body imprinted KU/486 200 mg. Product identification printed in black ink, supplied as follows: NDC 52536-486-37 Bottle of 100s 300 mg: Two piece size 00 hard gelatin capsule, lavender opaque cap and amethyst body imprinted KU/487 300 mg. Product identification printed in black ink, supplied as follows: NDC 52536-487-37 Bottle of 100s Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F). [See USP Controlled Room Temperature]. Protect from moisture. Dispense in tight, light-resistant container as defined in USP."
+  ],
+  "how_supplied_table": [
+   "<table width=\"90%\"><col width=\"10%\" align=\"left\" valign=\"middle\"/><col width=\"90%\" align=\"left\" valign=\"middle\"/><tbody><tr><td align=\"left\">100 mg:</td><td align=\"left\">Two piece size 2 hard gelatin capsule, white opaque cap and amethyst body imprinted KU/485 100 mg. Product identification printed in black ink, supplied as follows:   NDC 52536-485-37 Bottle of 100s </td></tr><tr><td align=\"left\">200 mg:</td><td align=\"left\">Two piece size 0 hard gelatin capsule, amethyst opaque cap and amethyst body imprinted KU/486 200 mg. Product identification printed in black ink, supplied as follows:   NDC 52536-486-37 Bottle of 100s </td></tr><tr><td align=\"left\">300 mg:</td><td align=\"left\">Two piece size 00 hard gelatin capsule, lavender opaque cap and amethyst body imprinted KU/487 300 mg. Product identification printed in black ink, supplied as follows:   NDC 52536-487-37 Bottle of 100s </td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F). [See USP Controlled Room Temperature]. Protect from moisture. Dispense in tight, light-resistant container as defined in USP."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION THE CONTENTS OF THE Verapamil Hydrochloride Extended-release Capsules (PM) SHOULD NOT BE CRUSHED OR CHEWED. Verapamil Hydrochloride Extended-release Capsules (PM) ARE TO BE SWALLOWED WHOLE OR THE ENTIRE CONTENTS OF THE CAPSULE SPRINKLED ONTO APPLESAUCE [ see Dosage and Administration (2.2) ]. When the sprinkle method of administration is prescribed, explain the details of the proper technique to the patient. [ See Dosage and Administration (2.2) ]."
+  ],
+  "set_id": "5f665d08-e1e4-422a-88c2-d8834abf9e1a",
+  "id": "27ea8c5d-0f1f-0e1c-e063-6294a90a44e5",
+  "effective_time": "20241127",
+  "version": "1"
+ }
+}

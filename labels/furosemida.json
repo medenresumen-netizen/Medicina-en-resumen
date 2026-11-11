@@ -1,0 +1,732 @@
+{
+ "id_es": "furosemida",
+ "generic_en": "furosemide",
+ "search": "openfda.generic_name.exact:\"FUROSEMIDE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "2c9b4d8f-0770-482d-a9e6-9c616a440b1a",
+  "id": "4002943d-0b4b-4ff0-e063-6394a90ae63b",
+  "effective_time": "20250930",
+  "version": "7",
+  "brand_name": [
+   "Lasix"
+  ],
+  "generic_name": [
+   "FUROSEMIDE"
+  ],
+  "manufacturer_name": [
+   "Validus Pharmaceuticals LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA016273"
+  ],
+  "n_sections": 25
+ },
+ "candidates": [
+  {
+   "set_id": "2f547f7c-0322-465c-9764-43f955d98ab2",
+   "id": "5f58a690-19db-8254-e063-6294a90aad77",
+   "effective_time": "20261102",
+   "version": "4",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Micro Labs Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218188"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "15e4c3a3-7d64-471e-bfdf-6156731e24aa",
+   "id": "8cf70e40-5422-4b43-a295-e9fcf321ca80",
+   "effective_time": "20261030",
+   "version": "6",
+   "brand_name": [
+    "FUROSEMIDE"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212174"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "668e9f1f-0df0-45f6-8281-f1b98a4a681d",
+   "id": "69a480d1-7f19-4258-b72f-c3f312fc0f3d",
+   "effective_time": "20261029",
+   "version": "1",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216629"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "5e37f97b-f5db-23a0-e063-6394a90a9b72",
+   "id": "5e37f97b-f5dc-23a0-e063-6394a90a9b72",
+   "effective_time": "20261019",
+   "version": "1",
+   "brand_name": [
+    "FUROSEMIDE"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "5e38ad23-ac84-e936-e063-6394a90ae351",
+   "id": "5e38ad23-ac85-e936-e063-6394a90ae351",
+   "effective_time": "20261019",
+   "version": "1",
+   "brand_name": [
+    "FUROSEMIDE"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "48d8f490-e9d1-4c95-ab2f-414d3f4a9df4",
+   "id": "5df7eb0b-3248-7fe9-e063-6394a90a61b4",
+   "effective_time": "20261016",
+   "version": "8",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076796"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "2590ebb6-ce2a-4e23-9244-e54e3010d488",
+   "id": "012539e0-a774-4af9-b833-1793487f0aff",
+   "effective_time": "20261015",
+   "version": "9",
+   "brand_name": [
+    "FUROSEMIDE"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202747"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "12137a90-fb35-45d7-8984-0b04793d3e34",
+   "id": "5dcfe750-6f2b-27c2-e063-6294a90ad4ea",
+   "effective_time": "20261014",
+   "version": "11",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076796"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "52e75604-5766-40e8-a13a-8c449e06ebda",
+   "id": "5dcf6a76-ea85-30f7-e063-6394a90a550f",
+   "effective_time": "20261014",
+   "version": "9",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076796"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "571a52ed-5258-46d5-a0d2-9a984cf73895",
+   "id": "5b8b784a-7602-396b-e063-6294a90a5d8c",
+   "effective_time": "20260915",
+   "version": "27",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077293"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "0b3d986c-eecc-adbe-e063-6294a90a0fb2",
+   "id": "5b761faa-1b76-5358-e063-6394a90a96a3",
+   "effective_time": "20260914",
+   "version": "3",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216629"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "58d2a38d-75f8-dcb9-e063-6294a90a10d7",
+   "id": "58d2a3c0-f969-7a3d-e063-6394a90a3283",
+   "effective_time": "20260812",
+   "version": "1",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216629"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "58cc1e38-6000-1489-e063-6394a90a5978",
+   "id": "58cc1e47-84e7-1353-e063-6394a90a6374",
+   "effective_time": "20260811",
+   "version": "1",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018667"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "7cdcd001-ab4b-4210-a455-2e17a7bc4972",
+   "id": "575fef6e-89ed-b3e3-e063-6394a90afe7f",
+   "effective_time": "20260724",
+   "version": "6",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077293"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "3d312ab0-589c-427b-84da-18887244bfc9",
+   "id": "56aaba60-5240-6ac7-e063-6394a90a2756",
+   "effective_time": "20260715",
+   "version": "14",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076796"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "54ed0dd9-2fa8-269a-e063-6294a90a607c",
+   "id": "54ed0de5-046f-06d7-e063-6394a90ad3b6",
+   "effective_time": "20260623",
+   "version": "1",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Atlantic Biologicals Corp."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070434"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "75d5611a-f9e0-1841-e053-2991aa0af415",
+   "id": "54f18651-515e-a0b0-e063-6394a90a5d2d",
+   "effective_time": "20260623",
+   "version": "7",
+   "brand_name": [
+    "FUROSEMIDE"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018667"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "54dd664a-c7ec-27f3-e063-6294a90aff9f",
+   "id": "54dd5881-4b3c-0521-e063-6294a90a8a6a",
+   "effective_time": "20260622",
+   "version": "1",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077293"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "2a5bcf50-6d63-463a-915e-a72ea2e5f131",
+   "id": "a95b8b66-b866-4dfb-a05f-186616d93f56",
+   "effective_time": "20260618",
+   "version": "4",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076796"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "462e8917-cbe0-f4f9-e063-6394a90ab4ff",
+   "id": "54741cba-d4ee-617e-e063-6294a90ad1eb",
+   "effective_time": "20260617",
+   "version": "3",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Granulation Technology, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018569"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "53e58232-f7f9-c09b-e063-6394a90a5bc4",
+   "id": "53e591e8-44dd-370c-e063-6394a90a7217",
+   "effective_time": "20260610",
+   "version": "1",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077293"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "42478c55-9056-487a-89a9-d36904beea12",
+   "id": "4f61e0f9-a766-4944-bc8b-7ee4ece03b63",
+   "effective_time": "20260602",
+   "version": "8",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018902"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "6be1addd-a811-47fc-8650-6870d661c234",
+   "id": "ee764e1d-0e34-4e02-bab5-c766786f7663",
+   "effective_time": "20260526",
+   "version": "5",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076796"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "71b48f4d-9936-448c-9e3a-33f1182e1039",
+   "id": "8bc0d5e5-a546-408b-9f55-b68baa06b507",
+   "effective_time": "20260515",
+   "version": "18",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018667"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "39fd32f2-6bb7-4a65-d298-e48d26bc80c7",
+   "id": "981d5143-60cd-4987-9b47-dec24c10de42",
+   "effective_time": "20260513",
+   "version": "33",
+   "brand_name": [
+    "Furosemide"
+   ],
+   "generic_name": [
+    "FUROSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018667"
+   ],
+   "n_sections": 31
+  }
+ ],
+ "label": {
+  "warnings": [
+   "WARNING LASIX ® (furosemide) is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion. Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient’s needs ( s ee DOSAGE AND ADMINISTRATION ) .",
+   "WARNINGS In patients with hepatic cirrhosis and ascites, LASIX therapy is best initiated in the hospital. In hepatic coma and in states of electrolyte depletion, therapy should not be instituted until the basic condition is improved. Sudden alterations of fluid and electrolyte balance in patients with cirrhosis may precipitate hepatic coma; therefore, strict observation is necessary during the period of diuresis. Supplemental potassium chloride and, if required, an aldosterone antagonist are helpful in preventing hypokalemia and metabolic alkalosis. If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, LASIX should be discontinued. Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported. Reports usually indicate that LASIX ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs. If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4mg LASIX per minute has been used) ( s ee PRECAUTIONS: Drug Interactions ) ."
+  ],
+  "description": [
+   "DESCRIPTION LASIX ® is a diuretic which is an anthranilic acid derivative. LASIX tablets for oral administration contain furosemide as the active ingredient and the following inactive ingredients: lactose monohydrate NF, magnesium stearate NF, starch NF, talc USP, and colloidal silicon dioxide NF. Chemically, it is 4-chloro-N-furfuryl-5-sulfamoylanthranilic acid. LASIX is available as white tablets for oral administration in dosage strengths of 20, 40 and 80mg. Furosemide is a white to off-white odorless crystalline powder. It is practically insoluble in water, sparingly soluble in alcohol, freely soluble in dilute alkali solutions and insoluble in dilute acids. The CAS Registry Number is 54-31-9. The structural formula is as follows: The structural formula for LASIX® is a diuretic which is an anthranilic acid derivative. LASIX tablets for oral administration contain furosemide as the active ingredient and the following inactive i"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Investigations into the mode of action of LASIX have utilized micropuncture studies in rats, stop flow experiments in dogs and various clearance studies in both humans and experimental animals. It has been demonstrated that LASIX inhibits primarily the absorption of sodium and chloride not only in the proximal and distal tubu but also in the loop of Henle. The high degree of efficacy is largely due to the unique site of action. The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone. Recent evidence suggests that furosemide glucuronide is the only or at least the major biotransformation product of furosemide in man. Furosemide is extensively bound to plasma proteins, mainly to albumin. Plasma concentrations ranging from 1 μg/mL to 400 μg/mL are 91% to 99% bound in healthy individuals. The unbound fraction averages 2.3% to 4.1% at therapeutic concentrations. The onset of diuresis following oral administration is within 1 hour. The peak effect occurs within the first or second hour. The duration of diuretic effect is 6 to 8 hours. In fasted normal men, the mean bioavailability of furosemide from LASIX Tablets and LASIX Oral Solution is 64% and 60%, respectively, of that from an intravenous injection of the drug. Although furosemide is more rapidly absorbed from the oral solution (50 minutes) than from the tablet (87 minutes), peak plasma levels and area under the plasma concentration-time curves do not differ significantly. Peak plasma concentrations increase with increasing dose but times-to-peak do not differ among doses. The terminal half-life of furosemide is approximately 2 hours. Significantly more furosemide is excreted in urine following the IV injection than after the tablet or oral solution. There are no significant differences between the two oral formulations in the amount of unchanged drug excreted in urine. Geriatric Population Furosemide binding to albumin may be reduced in elderly patients. Furosemide is predominantly excreted unchanged in the urine. The renal clearance of furosemide after intravenous administration in older healthy male subjects (60 to 70 years of age) is statistically significantly smaller than in younger healthy male subjects (20 to 35 years of age). The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects ( s ee PRECAUTIONS: Geriatric Use ) ."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Edema LASIX is indicated in adults and pediatric patients for the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. LASIX is particularly useful when an agent with greater diuretic potential is desired. Hypertension Oral LASIX may be used in adults for the treatment of hypertension alone or in combination with other antihypertensive agents. Hypertensive patients who cannot be adequately controlled with thiazides will probably also not be adequately controlled with LASIX alone."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS LASIX is contraindicated in patients with anuria and in patients with a history of hypersensitivity to furosemide."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients. As with any effective diuretic, electrolyte depletion may occur during LASIX therapy, especially in patients receiving higher doses and a restricted salt intake. Hypokalemia may develop with LASIX, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives. Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects. All patients receiving LASIX therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting. Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported. In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine. Thus, these patients require careful monitoring, especially during the initial stages of treatment. In patients at high risk for radiocontrast nephropathy, LASIX can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast. In patients with hypoproteinemia (e.g., associated with nephrotic syndrome), the effect of LASIX may be weakened and its ototoxicity potentiated. Asymptomatic hyperuricemia can occur and gout may rarely be precipitated. Patients allergic to sulfonamides may also be allergic to LASIX. The possibility exists of exacerbation or activation of systemic lupus erythematosus. As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions. Information for Patients Patients receiving LASIX should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses. The postural hypotension that sometimes occurs can usually be managed by getting up slowly. Potassium supplements and/or dietary measures may be needed to control or avoid hypokalemia. Patients with diabetes mellitus should be told that furosemide may increase blood glucose levels and thereby affect urine glucose tests. The skin of some patients may be more sensitive to the effects of sunlight while taking furosemide. Hypertensive patients should avoid medications that may increase blood pressure, including over-the-counter products for appetite suppression and cold symptoms. Laboratory Tests Serum electrolytes (particularly potassium), CO 2 , creatinine and BUN should be determined frequently during the first few months of LASIX therapy and periodically thereafter. Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids. Abnormalities should be corrected or the drug temporarily withdrawn. Other medications may also influence serum electrolytes. Reversible elevations of BUN may occur and are associated with dehydration, which should be avoided, particularly in patients with renal insufficiency. Urine and blood glucose should be checked periodically in diabetics receiving LASIX, even in those suspected of latent diabetes. LASIX may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium. Accordingly, serum levels of these electrolytes should be determined periodically. In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed ( s ee PRECAUTIONS: Pediatric Use ) . Drug Interactions LASIX may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function. Except in life-threatening situations, avoid this combination. LASIX should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity. Patients receiving high doses of salicylates concomitantly with LASIX, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites. There is a risk of ototoxic effects if cisplatin and LASIX are given concomitantly. In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if LASIX is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment. LASIX has a tendency to antagonize the skeletal muscle-relaxing effect of tubocurarine and may potentiate the action of succinylcholine. Lithium generally should not be given with diuretics because they reduce lithium’s renal clearance and add a high risk of lithium toxicity. LASIX combined with angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure. An interruption or reduction in the dosage of LASIX, angiotensin-converting enzyme inhibitors, or angiotensin receptor blockers may be necessary. Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs. LASIX may decrease arterial responsiveness to norepinephrine. However, norepinephrine may still be used effectively. Simultaneous administration of sucralfate and LASIX tablets may reduce the natriuretic and antihypertensive effects of LASIX. Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of LASIX is achieved. The intake of LASIX and sucralfate should be separated by at least two hours. In isolated cases, intravenous administration of LASIX within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure, and tachycardia. Use of LASIX concomitantly with chloral hydrate is therefore not recommended. Phenytoin interferes directly with renal action of LASIX. There is evidence that treatment with phenytoin leads to decreased intestinal absorption of LASIX, and consequently to lower peak serum furosemide concentrations. Methotrexate and other drugs that, like LASIX, undergo significant renal tubular secretion may reduce the effect of LASIX. Conversely, LASIX may decrease renal elimination of other drugs that undergo tubular secretion. High-dose treatment of both LASIX and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of LASIX. LASIX can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment. Concomitant use of cyclosporine and LASIX is associated with increased risk of gouty arthritis secondary to LASIX-induced hyperurecemia and cyclosporine impairment of renal urate excretion. High doses (>80mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels. One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency. There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs. Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of LASIX (furosemide) in some patients by inhibiting prostaglandin synthesis. Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation. Patients receiving both indomethacin and LASIX should be observed closely to determine if the desired diuretic and/or antihypertensive effect of LASIX is achieved. Carcinogenesis, Mutagenesis, Impairment of Fertility Furosemide was tested for carcinogenicity by oral administration in one strain of mice and one strain of rats. A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600mg. There were marginal increases in uncommon tumors in male rats at a dose of 15 mg/kg (slightly greater than the maximum human dose) but not at 30 mg/kg. Furosemide was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitro metabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested. Furosemide did not induce sister chromatid exchange in human cells in vitro , but other studies on chromosomal aberrations in human cells in vitro gave conflicting results. In Chinese hamster cells it induced chromosomal damage but was questionably positive for sister chromatid exchange. Studies on the induction by furosemide of chromosomal aberrations in mice were inconclusive. The urine of rats treated with this drug did not induce gene conversion in Saccharomyces cerevisiae . LASIX (furosemide) produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day). Pregnancy Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose. There are no adequate and well-controlled studies in pregnant women. LASIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Treatment during pregnancy requires monitoring of fetal growth because of the potential for higher birth weights. The effects of furosemide on embryonic and fetal development and on pregnant dams were studied in mice, rats and rabbits. Furosemide caused unexplained maternal deaths and abortions in the rabbit at the lowest dose of 25 mg/kg (2 times the maximal recommended human dose of 600 mg/day). In another study, a dose of 50 mg/kg (4 times the maximal recommended human dose of 600 mg/day) also caused maternal deaths and abortions when administered to rabbits between Days 12 and 17 of gestation. In a third study, none of the pregnant rabbits survived a dose of 100 mg/kg. Data from the above studies indicate fetal lethality that can precede maternal deaths. The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of hydronephrosis (distention of the renal pelvis and, in some cases, of the ureters) in fetuses derived from the treated dams as compared with the incidence in fetuses from the control group. Nursing Mothers Because it appears in breast milk, caution should be exercised when LASIX is administered to a nursing mother. LASIX may inhibit lactation. Pediatric Use In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis. Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with LASIX. Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving LASIX. If LASIX is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus. Geriatric Use Controlled clinical studies of LASIX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function ( s ee PRECAUTIONS: General and DOSAGE AND ADMINISTRATION ) ."
+  ],
+  "general_precautions": [
+   "General Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients. As with any effective diuretic, electrolyte depletion may occur during LASIX therapy, especially in patients receiving higher doses and a restricted salt intake. Hypokalemia may develop with LASIX, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives. Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects. All patients receiving LASIX therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting. Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported. In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine. Thus, these patients require careful monitoring, especially during the initial stages of treatment. In patients at high risk for radiocontrast nephropathy, LASIX can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast. In patients with hypoproteinemia (e.g., associated with nephrotic syndrome), the effect of LASIX may be weakened and its ototoxicity potentiated. Asymptomatic hyperuricemia can occur and gout may rarely be precipitated. Patients allergic to sulfonamides may also be allergic to LASIX. The possibility exists of exacerbation or activation of systemic lupus erythematosus. As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions."
+  ],
+  "information_for_patients": [
+   "Information for Patients Patients receiving LASIX should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses. The postural hypotension that sometimes occurs can usually be managed by getting up slowly. Potassium supplements and/or dietary measures may be needed to control or avoid hypokalemia. Patients with diabetes mellitus should be told that furosemide may increase blood glucose levels and thereby affect urine glucose tests. The skin of some patients may be more sensitive to the effects of sunlight while taking furosemide. Hypertensive patients should avoid medications that may increase blood pressure, including over-the-counter products for appetite suppression and cold symptoms."
+  ],
+  "laboratory_tests": [
+   "Laboratory Tests Serum electrolytes (particularly potassium), CO 2 , creatinine and BUN should be determined frequently during the first few months of LASIX therapy and periodically thereafter. Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids. Abnormalities should be corrected or the drug temporarily withdrawn. Other medications may also influence serum electrolytes. Reversible elevations of BUN may occur and are associated with dehydration, which should be avoided, particularly in patients with renal insufficiency. Urine and blood glucose should be checked periodically in diabetics receiving LASIX, even in those suspected of latent diabetes. LASIX may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium. Accordingly, serum levels of these electrolytes should be determined periodically. In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed ( s ee PRECAUTIONS: Pediatric Use ) ."
+  ],
+  "drug_interactions": [
+   "Drug Interactions LASIX may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function. Except in life-threatening situations, avoid this combination. LASIX should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity. Patients receiving high doses of salicylates concomitantly with LASIX, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites. There is a risk of ototoxic effects if cisplatin and LASIX are given concomitantly. In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if LASIX is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment. LASIX has a tendency to antagonize the skeletal muscle-relaxing effect of tubocurarine and may potentiate the action of succinylcholine. Lithium generally should not be given with diuretics because they reduce lithium’s renal clearance and add a high risk of lithium toxicity. LASIX combined with angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure. An interruption or reduction in the dosage of LASIX, angiotensin-converting enzyme inhibitors, or angiotensin receptor blockers may be necessary. Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs. LASIX may decrease arterial responsiveness to norepinephrine. However, norepinephrine may still be used effectively. Simultaneous administration of sucralfate and LASIX tablets may reduce the natriuretic and antihypertensive effects of LASIX. Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of LASIX is achieved. The intake of LASIX and sucralfate should be separated by at least two hours. In isolated cases, intravenous administration of LASIX within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure, and tachycardia. Use of LASIX concomitantly with chloral hydrate is therefore not recommended. Phenytoin interferes directly with renal action of LASIX. There is evidence that treatment with phenytoin leads to decreased intestinal absorption of LASIX, and consequently to lower peak serum furosemide concentrations. Methotrexate and other drugs that, like LASIX, undergo significant renal tubular secretion may reduce the effect of LASIX. Conversely, LASIX may decrease renal elimination of other drugs that undergo tubular secretion. High-dose treatment of both LASIX and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of LASIX. LASIX can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment. Concomitant use of cyclosporine and LASIX is associated with increased risk of gouty arthritis secondary to LASIX-induced hyperurecemia and cyclosporine impairment of renal urate excretion. High doses (>80mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels. One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency. There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs. Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of LASIX (furosemide) in some patients by inhibiting prostaglandin synthesis. Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation. Patients receiving both indomethacin and LASIX should be observed closely to determine if the desired diuretic and/or antihypertensive effect of LASIX is achieved."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Furosemide was tested for carcinogenicity by oral administration in one strain of mice and one strain of rats. A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600mg. There were marginal increases in uncommon tumors in male rats at a dose of 15 mg/kg (slightly greater than the maximum human dose) but not at 30 mg/kg. Furosemide was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitro metabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested. Furosemide did not induce sister chromatid exchange in human cells in vitro , but other studies on chromosomal aberrations in human cells in vitro gave conflicting results. In Chinese hamster cells it induced chromosomal damage but was questionably positive for sister chromatid exchange. Studies on the induction by furosemide of chromosomal aberrations in mice were inconclusive. The urine of rats treated with this drug did not induce gene conversion in Saccharomyces cerevisiae . LASIX (furosemide) produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day)."
+  ],
+  "pregnancy": [
+   "Pregnancy Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4 and 8 times the maximal recommended human dose. There are no adequate and well-controlled studies in pregnant women. LASIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Treatment during pregnancy requires monitoring of fetal growth because of the potential for higher birth weights. The effects of furosemide on embryonic and fetal development and on pregnant dams were studied in mice, rats and rabbits. Furosemide caused unexplained maternal deaths and abortions in the rabbit at the lowest dose of 25 mg/kg (2 times the maximal recommended human dose of 600 mg/day). In another study, a dose of 50 mg/kg (4 times the maximal recommended human dose of 600 mg/day) also caused maternal deaths and abortions when administered to rabbits between Days 12 and 17 of gestation. In a third study, none of the pregnant rabbits survived a dose of 100 mg/kg. Data from the above studies indicate fetal lethality that can precede maternal deaths. The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of hydronephrosis (distention of the renal pelvis and, in some cases, of the ureters) in fetuses derived from the treated dams as compared with the incidence in fetuses from the control group."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Because it appears in breast milk, caution should be exercised when LASIX is administered to a nursing mother. LASIX may inhibit lactation."
+  ],
+  "pediatric_use": [
+   "Pediatric Use In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis. Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with LASIX. Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving LASIX. If LASIX is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Controlled clinical studies of LASIX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function ( s ee PRECAUTIONS: General and DOSAGE AND ADMINISTRATION ) ."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Adverse reactions are categorized below by organ system and listed by decreasing severity. Gastrointestinal System Reactions 1. hepatic encephalopathy in patients with hepatocellular insufficiency 6. oral and gastric irritation 7. cramping 2. pancreatitis 8. diarrhea 3. jaundice (intrahepatic cholestatic jaundice) 9. constipation 4. increased liver enzymes 10. nausea 5. anorexia 11. vomiting Systemic Hypersensitivity Reactions 1. Severe anaphylactic or anaphylactoid reactions (e.g., with shock) 3. interstitial nephritis 4. necrotizing angiitis 2. systemic vasculitis Central Nervous System Reactions 1. tinnitus and hearing loss 5. headache 2. paresthesias 6. blurred vision 3. vertigo 7. xanthopsia 4. dizziness Hematologic Reactions 1. aplastic anemia 5. leukopenia 2. thrombocytopenia 6. anemia 3. agranulocytosis 7. eosinophilia 4. hemolytic anemia Dermatologic-Hypersensitivity Reactions 1. toxic epidermal necrolysis 7. bullous pemphigoid 2. Stevens-Johnson Syndrome 3. erythema multiforme 8. purpura 9. photosensitivity 4. drug rash with eosinophilia and systemic symptoms 10. rash 11. pruritis 5. acute generalized exanthematous pustulosis 6. exfoliative dermatitis 12. urticaria Cardiovascular Reaction 1. Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates, or narcotics. 2. Increase in cholesterol and triglyceride serum levels Other Reactions 1. hyperglycemia 6. restlessness 2. glycosuria 7. urinary bladder spasm 3. hyperuricemia 8. thrombophlebitis 4. muscle spasm 9. fever 5. weakness Whenever adverse reactions are moderate or severe, LASIX dosage should be reduced or therapy withdrawn. To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 (1-866-9VALIDUS) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "adverse_reactions_table": [
+   "<table><col width=\"319\"/><col width=\"48\"/><col width=\"271\"/><tbody><tr><td colspan=\"3\" align=\"left\"><content styleCode=\"bold\">Gastrointestinal System Reactions</content></td></tr><tr><td>1. hepatic encephalopathy in patients with hepatocellular insufficiency</td><td colspan=\"2\">6. oral and gastric irritation   7. cramping </td></tr><tr><td>2. pancreatitis</td><td colspan=\"2\">8. diarrhea</td></tr><tr><td>3. jaundice (intrahepatic cholestatic jaundice)</td><td colspan=\"2\">9. constipation</td></tr><tr><td>4. increased liver enzymes</td><td colspan=\"2\">10. nausea</td></tr><tr><td>5. anorexia</td><td colspan=\"2\">11. vomiting</td></tr><tr><td/><td colspan=\"2\"/></tr><tr><td colspan=\"3\" align=\"left\"><content styleCode=\"bold\">Systemic Hypersensitivity Reactions</content></td></tr><tr><td>1. Severe anaphylactic or anaphylactoid reactions (e.g., with shock)</td><td colspan=\"2\">3. interstitial nephritis   4. necrotizing angiitis </td></tr><tr><td>2. systemic vasculitis</td><td colspan=\"2\"/></tr><tr><td/><td colspan=\"2\"/></tr><tr><td colspan=\"3\" align=\"left\"><content styleCode=\"bold\">Central Nervous System Reactions</content></td></tr><tr><td>1. tinnitus and hearing loss</td><td colspan=\"2\">5. headache</td></tr><tr><td>2. paresthesias</td><td colspan=\"2\">6. blurred vision</td></tr><tr><td>3. vertigo</td><td colspan=\"2\">7. xanthopsia</td></tr><tr><td>4. dizziness</td><td colspan=\"2\"/></tr><tr><td/><td colspan=\"2\"/></tr><tr><td colspan=\"3\" align=\"left\"><content styleCode=\"bold\">Hematologic Reactions</content></td></tr><tr><td>1. aplastic anemia</td><td colspan=\"2\">5. leukopenia</td></tr><tr><td>2. thrombocytopenia</td><td colspan=\"2\">6. anemia</td></tr><tr><td>3. agranulocytosis</td><td colspan=\"2\">7. eosinophilia</td></tr><tr><td>4. hemolytic anemia</td><td colspan=\"2\"/></tr><tr><td/><td colspan=\"2\"/></tr><tr><td colspan=\"3\" align=\"left\"><content styleCode=\"bold\">Dermatologic-Hypersensitivity Reactions</content></td></tr><tr><td>1. toxic epidermal necrolysis</td><td colspan=\"2\">7. bullous pemphigoid</td></tr><tr><td>2. Stevens-Johnson Syndrome   3. erythema multiforme </td><td colspan=\"2\">8. purpura   9. photosensitivity </td></tr><tr><td>4. drug rash with eosinophilia and systemic symptoms</td><td colspan=\"2\">10. rash   11. pruritis </td></tr><tr><td>5. acute generalized exanthematous pustulosis   6. exfoliative dermatitis </td><td colspan=\"2\">12. urticaria</td></tr><tr><td/><td colspan=\"2\"/></tr><tr><td colspan=\"3\" align=\"left\"><content styleCode=\"bold\">Cardiovascular Reaction</content></td></tr><tr><td colspan=\"3\">1. Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates, or narcotics.</td></tr><tr><td colspan=\"2\">2. Increase in cholesterol and triglyceride serum levels</td><td/></tr><tr><td colspan=\"2\"/><td/></tr><tr><td colspan=\"3\" align=\"left\"><content styleCode=\"bold\">Other Reactions</content></td></tr><tr><td>1. hyperglycemia</td><td colspan=\"2\">6. restlessness</td></tr><tr><td>2. glycosuria</td><td colspan=\"2\">7. urinary bladder spasm</td></tr><tr><td>3. hyperuricemia</td><td colspan=\"2\">8. thrombophlebitis</td></tr><tr><td>4. muscle spasm</td><td colspan=\"2\">9. fever</td></tr><tr><td>5. weakness</td><td colspan=\"2\"/></tr></tbody></table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE The principal signs and symptoms of overdose with LASIX are dehydration, blood volume reduction, hypotension, electrolyte imbalance, hypokalemia and hypochloremic alkalosis, and are extensions of its diuretic action. The acute toxicity of LASIX has been determined in mice, rats and dogs. In all three, the oral LD 50 exceeded 1000 mg/kg body weight, while the intravenous LD 50 ranged from 300 to 680 mg/kg. The acute intragastric toxicity in neonatal rats is 7 to 10 times that of adult rats. The concentration of LASIX in biological fluids associated with toxicity or death is not known. Treatment of overdosage is supportive and consists of replacement of excessive fluid and electrolyte losses. Serum electrolytes, carbon dioxide level and blood pressure should be determined frequently. Adequate drainage must be assured in patients with urinary bladder outlet obstruction (such as prostatic hypertrophy). Hemodialysis does not accelerate furosemide elimination."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Edema Therapy should be individualized according to patient response to gain maximal therapeutic response and to determine the minimal dose needed to maintain that response. Adults -- The usual initial dose of LASIX is 20 mg to 80mg given as a single dose. Ordinarily a prompt diuresis ensues. If needed, the same dose can be administered 6 to 8 hours later or the dose may be increased. The dose may be raised by 20 mg or 40mg and given not sooner than 6 to 8 hours after the previous dose until the desired diuretic effect has been obtained. The individually determined single dose should then be given once or twice daily (e.g., at 8 am and 2 pm). The dose of LASIX may be carefully titrated up to 600 mg/day in patients with clinically severe edematous states. Edema may be most efficiently and safely mobilized by giving LASIX on 2 to 4 consecutive days each week. When doses exceeding 80 mg/day are given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable ( s ee PRECAUTIONS: Laboratory Test ) . Geriatric patients -- In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range ( see PRECAUTIONS: Geriatric Use ). Pediatric patients -- The usual initial dose of oral LASIX in pediatric patients is 2 mg/kg body weight, given as a single dose. If the diuretic response is not satisfactory after the initial dose, dosage may be increased by 1 or 2 mg/kg no sooner than 6 to 8 hours after the previous dose. Doses greater than 6 mg/kg body weight are not recommended. For maintenance therapy in pediatric patients, the dose should be adjusted to the minimum effective level. Hypertension Therapy should be individualized according to the patient’s response to gain maximal therapeutic response and to determine the minimal dose needed to maintain the therapeutic response. Adults -- The usual initial dose of LASIX for hypertension is 80mg, usually divided into 40mg twice a day. Dosage should then be adjusted according to response. If response is not satisfactory, add other antihypertensive agents. Changes in blood pressure must be carefully monitored when LASIX is used with other antihypertensive drugs, especially during initial therapy. To prevent excessive drop in blood pressure, the dosage of other agents should be reduced by at least 50% when LASIX is added to the regimen. As the blood pressure falls under the potentiating effect of LASIX, a further reduction in dosage or even discontinuation of other antihypertensive drugs may be necessary. Geriatric patients -- In general, dose selection and dose adjustment for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use )."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED LASIX (furosemide) Tablets 20mg are supplied as white, oval, monogrammed tablets in Bottles of 100 (NDC 30698-067-01) and 1000 (NDC 30698-067-10). The 20mg tablets are imprinted with “Lasix ® ” on one side. LASIX Tablets 40mg are supplied as white, round, monogrammed, scored tablets in Bottles of 100 (NDC 30698-060-01), 500 (NDC 30698-060-50), and 1000 (NDC 30698-060-10). The 40mg tablets are imprinted with “Lasix ® 40” on one side. LASIX Tablets 80mg are supplied as white, round, scored, monogrammed, facetted-edge tablets in Bottles of 50 (NDC 30698-066-05) and 500 (NDC 30698-066-50). The 80mg tablets are imprinted with “Lasix ® 80” on one side. Note: Dispense in well-closed, light-resistant containers. Exposure to light might cause a slight discoloration. Discolored tablets should not be dispensed. Tested by USP Dissolution Test 2 Store at 68º to 77ºF (20º to 25ºC); excursions permitted to 59º to 86ºF (15º to 30ºC) [See USP Controlled Room Temperature]. Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438 Product of Canada © 2018 Validus Pharmaceuticals LLC 60031-05 August 2018"
+  ],
+  "set_id": "2c9b4d8f-0770-482d-a9e6-9c616a440b1a",
+  "id": "4002943d-0b4b-4ff0-e063-6394a90ae63b",
+  "effective_time": "20250930",
+  "version": "7"
+ }
+}

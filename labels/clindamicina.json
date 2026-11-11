@@ -1,0 +1,100 @@
+{
+ "id_es": "clindamicina",
+ "generic_en": "clindamycin",
+ "search": "openfda.generic_name.exact:\"CLINDAMYCIN\"",
+ "downloaded": "2026-11-11T06:39Z",
+ "chosen": {
+  "set_id": "f7b4e985-719a-4547-b624-94612d520991",
+  "id": "ab687212-b53e-4b47-b75c-f5f9bbe18233",
+  "effective_time": "20200101",
+  "version": "10",
+  "brand_name": [
+   "Clindagel"
+  ],
+  "generic_name": [
+   "CLINDAMYCIN"
+  ],
+  "manufacturer_name": [
+   "Bausch Health US, LLC"
+  ],
+  "route": [
+   "TOPICAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA050782"
+  ],
+  "n_sections": 17
+ },
+ "candidates": [
+  {
+   "set_id": "f7b4e985-719a-4547-b624-94612d520991",
+   "id": "ab687212-b53e-4b47-b75c-f5f9bbe18233",
+   "effective_time": "20200101",
+   "version": "10",
+   "brand_name": [
+    "Clindagel"
+   ],
+   "generic_name": [
+    "CLINDAMYCIN"
+   ],
+   "manufacturer_name": [
+    "Bausch Health US, LLC"
+   ],
+   "route": [
+    "TOPICAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA050782"
+   ],
+   "n_sections": 17
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION CLINDAGEL (clindamycin phosphate) topical gel, 1%, a topical antibiotic, contains clindamycin phosphate, USP, at a concentration equivalent to 10 mg clindamycin per gram in a gel vehicle consisting of carbomer 941, methylparaben, polyethylene glycol 400, propylene glycol, purified water, and sodium hydroxide. Chemically, clindamycin phosphate is a water-soluble ester of the semi-synthetic antibiotic produced by a 7 (S)-chlorosubstitution of the 7 (R)-hydroxyl group of the parent antibiotic, lincomycin, and has the structural formula represented below: The chemical name for clindamycin phosphate is methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl- trans -4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L- threo -α-D- galacto -octopyranoside 2-(dihydrogen phosphate). chemstructure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Pharmacokinetics: In an open-label, parallel group study of 24 patients with acne vulgaris, once-daily topical administration of approximately 3 to 12 grams/day of CLINDAGEL for 5 days resulted in peak plasma clindamycin concentrations that were less than 5.5 ng/mL. Following multiple applications of C LINDAGEL less than 0.04% of the total dose was excreted in the urine. Microbiology: Although clindamycin phosphate is inactive in vitro , rapid in vitro hydrolysis converts this compound to clindamycin, which has antibacterial activity. Clindamycin inhibits bacteria protein synthesis at the ribosomal level by binding to the 50S ribosomal subunit and affecting the process of peptide chain initiation. In vitro studies indicated that clindamycin inhibited all tested Propionibacterium acnes cultures at a minimum inhibitory concentration (MIC) of 0.4 mcg/mL. Cross-resistance has been demonstrated between clindamycin and erythromycin."
+  ],
+  "indications_and_usage": [
+   "CLINICAL STUDIES In one 12-week multicenter, randomized, evaluator-blind, vehicle-controlled, parallel comparison clinical trial in which patients used CLINDAGEL (clindamycin phosphate topical gel, 1%) once daily or the vehicle gel once daily, in the treatment of acne vulgaris of mild to moderate severity, CLINDAGEL applied once daily was more effective than the vehicle applied once daily. The mean percent reductions in lesion counts at the end of treatment in this study are shown in the following table: Lesions CLINDAGEL QD N=162 Vehicle Gel QD N=82 Inflammatory 51% 40% P<0.05 Noninflammatory 25% 12% Total 38% 27% There was a trend in the investigator’s global assessment of the results, which favored CLINDAGEL QD over the vehicle QD. In a contact sensitization study, four of the 200 subjects appeared to develop suggestive evidence of allergic contact sensitization to CLINDAGEL. There was no signal for contact sensitization in the clinical trials under normal use conditions."
+  ],
+  "indications_and_usage_table": [
+   "<table width=\"100%\"> <col width=\"36%\"/> <col width=\"31%\"/> <col width=\"30%\"/> <thead> <tr> <th align=\"left\" styleCode=\"Botrule Toprule \" valign=\"bottom\"> <content styleCode=\"bold\">Lesions</content> </th> <th align=\"center\" styleCode=\"Botrule Toprule \" valign=\"bottom\"> <content styleCode=\"bold\">CLINDAGEL QD</content>   <content styleCode=\"bold\">N=162</content> </th> <th align=\"center\" styleCode=\"Botrule Toprule \" valign=\"bottom\"> <content styleCode=\"bold\">Vehicle Gel QD</content>   <content styleCode=\"bold\">N=82</content> </th> </tr> </thead> <tbody> <tr> <td styleCode=\"Toprule \" valign=\"middle\"> <paragraph>Inflammatory</paragraph> </td> <td align=\"center\" styleCode=\"Toprule \" valign=\"middle\"> <paragraph>51%</paragraph> </td> <td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\"> <paragraph>40% <footnote ID=\"_Ref440445320\">P&lt;0.05</footnote> </paragraph> </td> </tr> <tr> <td valign=\"middle\"> <paragraph>Noninflammatory</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>25%</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>12% <footnoteRef IDREF=\"_Ref440445320\"/> </paragraph> </td> </tr> <tr> <td styleCode=\"Botrule \" valign=\"middle\"> <paragraph>Total </paragraph> </td> <td align=\"center\" styleCode=\"Botrule \" valign=\"middle\"> <paragraph>38%</paragraph> </td> <td align=\"center\" styleCode=\"Botrule \" valign=\"middle\"> <paragraph>27% <footnoteRef IDREF=\"_Ref440445320\"/> </paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS CLINDAGEL is contraindicated in individuals with a history of hypersensitivity to preparations containing clindamycin or lincomycin, a history of regional enteritis or ulcerative colitis, or a history of antibiotic-associated colitis."
+  ],
+  "warnings": [
+   "WARNINGS Orally and parenterally administered clindamycin has been associated with severe colitis, which may result in patient death. Use of the topical formulation of clindamycin results in absorption of the antibiotic from the skin surface. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin. Studies indicate a toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis. The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus. Endoscopic examination may reveal pseudomembranous colitis. Stool culture for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically. When significant diarrhea occurs, the drug should be discontinued. Large bowel endoscopy should be considered to establish a definitive diagnosis in cases of severe diarrhea. Antiperistaltic agents, such as opiates and diphenoxylate with atropine, may prolong and/or worsen the condition. Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up to several weeks following cessation of oral and parenteral therapy with clindamycin."
+  ],
+  "precautions": [
+   "PRECAUTIONS General: CLINDAGEL should be prescribed with caution in atopic individuals. Drug Interactions: Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents. Therefore, it should be used with caution in patients receiving such agents. Carcinogenesis, Mutagenesis, Impairment of Fertility: The carcinogenicity of a 1% clindamycin phosphate gel similar to CLINDAGEL was evaluated by daily application to mice for 2 years. The daily doses used in this study were approximately 3 and 15 times higher than the human dose of clindamycin phosphate from 5 mL of CLINDAGEL , assuming complete absorption and based on a body surface area comparison. No significant increase in tumors was noted in the treated animals. A 1% clindamycin phosphate gel similar to CLINDAGEL caused a statistically significant shortening of the median time to tumor onset in a study in hairless mice in which tumors were induced by exposure to simulated sunlight. Genotoxicity tests performed included a rat micronucleus test and an Ames Salmonella reversion test. Both tests were negative. Reproduction studies in rats using oral doses of clindamycin hydrochloride and clindamycin palmitate hydrochloride have revealed no evidence of impaired fertility. Pregnancy: Teratogenic Effects: Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride, and clindamycin palmitate hydrochloride. These studies revealed no evidence of fetal harm. The highest dose used in the rat and mouse teratogenicity studies was equivalent to a clindamycin phosphate dose of 432 mg/kg. For a rat, this dose is 84-fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from CLINDAGEL based on a mg/m 2 comparison. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Nursing Mothers: It is not known whether clindamycin is excreted in human milk following use of CLINDAGEL . However, orally and parenterally administered clindamycin has been reported to appear in breast milk. Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established. Geriatric Use: The clinical study with CLINDAGEL did not include sufficient numbers of patients aged 65 and over to determine if they respond differently than younger patients."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS In the one well-controlled clinical study comparing CLINDAGEL and its vehicle, the incidence of skin and appendages adverse events occurring in ≥1% of the patients in either group is presented in the following table: Number (%) of Patients Body System/Adverse Event CLINDAGEL QD N=168 Vehicle Gel QD N=84 Skin and Appendages Disorders Dermatitis 0 (0.0) 1 (1.2) Dermatitis contact 0 (0.0) 1 (1.2) Dermatitis fungal 0 (0.0) 1 (1.2) Folliculitis 0 (0.0) 1 (1.2) Photosensitivity reaction 0 (0.0) 1 (1.2) Pruritus 1 (0.6) 1 (1.2) Rash erythematous 0 (0.0) 0 (0.0) Skin dry 0 (0.0) 0 (0.0) Peeling 1 (0.6) 0 (0.0) Orally and parenterally administered clindamycin has been associated with severe colitis, which may end fatally. Cases of diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported as adverse reactions in patients treated with oral and parenteral formulations of clindamycin and rarely with topical clindamycin (see WARNINGS ). Abdominal pain and gastrointestinal disturbances, as well as gram-negative folliculitis, have also been reported in association with the use of topical formulations of clindamycin. To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"100%\"> <col width=\"34%\"/> <col width=\"38%\"/> <col width=\"26%\"/> <thead> <tr> <th align=\"left\" styleCode=\"Botrule Toprule \" valign=\"middle\"/> <th align=\"center\" colspan=\"2\" styleCode=\"Botrule Toprule \" valign=\"middle\"> <content styleCode=\"bold\"> Number (%) of Patients</content> </th> </tr> <tr> <th align=\"left\" styleCode=\"Botrule \" valign=\"bottom\"> <content styleCode=\"bold\">Body System/Adverse Event</content> </th> <th align=\"center\" styleCode=\"Botrule \" valign=\"top\"> <content styleCode=\"bold\">CLINDAGEL QD</content>     <content styleCode=\"bold\">N=168</content> </th> <th align=\"center\" styleCode=\"Botrule \" valign=\"top\"> <content styleCode=\"bold\">Vehicle Gel QD</content>     <content styleCode=\"bold\">N=84</content> </th> </tr> </thead> <tbody> <tr> <td styleCode=\"Toprule \" valign=\"middle\"> <paragraph>Skin and Appendages Disorders </paragraph> </td> <td styleCode=\"Toprule \" valign=\"middle\"/> <td styleCode=\"Toprule \" valign=\"middle\"/> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Dermatitis </item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>1 (1.2)</paragraph> </td> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Dermatitis contact </item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>1 (1.2)</paragraph> </td> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Dermatitis fungal </item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>1 (1.2)</paragraph> </td> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Folliculitis</item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>1 (1.2)</paragraph> </td> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Photosensitivity reaction </item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>1 (1.2)</paragraph> </td> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Pruritus</item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>1 (0.6)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>1 (1.2)</paragraph> </td> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Rash erythematous </item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> </tr> <tr> <td valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Skin dry </item> </list> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> <td align=\"center\" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> </tr> <tr> <td styleCode=\"Botrule \" valign=\"middle\"> <list listType=\"unordered\"> <item> <caption> </caption>Peeling</item> </list> </td> <td align=\"center\" styleCode=\"Botrule \" valign=\"middle\"> <paragraph>1 (0.6)</paragraph> </td> <td align=\"center\" styleCode=\"Botrule \" valign=\"middle\"> <paragraph>0 (0.0)</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE Topically applied CLINDAGEL may be absorbed in sufficient amounts to produce systemic effects (see WARNINGS )."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Apply a thin film of CLINDAGEL once daily to the skin where acne lesions appear. Use enough to cover the entire affected area lightly. Keep container tightly closed."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED CLINDAGEL containing clindamycin phosphate equivalent to 10 mg clindamycin per gram is available in the following size: 75 mL bottle - NDC 16781-462-75 Store at controlled room temperature 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F). Do not store in direct sunlight. Retain in carton until contents are used. Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada CLINDAGEL is a trademark of Bausch Health Companies Inc. or its affiliates. © 2020 Bausch Health Companies Inc. or its affiliates 9706100 Rev. 01/20"
+  ],
+  "set_id": "f7b4e985-719a-4547-b624-94612d520991",
+  "id": "ab687212-b53e-4b47-b75c-f5f9bbe18233",
+  "effective_time": "20200101",
+  "version": "10"
+ }
+}

@@ -1,0 +1,738 @@
+{
+ "id_es": "ursodiol",
+ "generic_en": "ursodiol",
+ "search": "openfda.generic_name.exact:\"URSODIOL\"",
+ "downloaded": "2026-11-11T06:45Z",
+ "chosen": {
+  "set_id": "e8fc4fc2-fe5c-4cba-b6e0-5ceaf2157a61",
+  "id": "06904c03-cea9-4532-8e27-7f2246be613b",
+  "effective_time": "20230112",
+  "version": "19",
+  "brand_name": [
+   "Urso 250",
+   "Urso Forte"
+  ],
+  "generic_name": [
+   "URSODIOL"
+  ],
+  "manufacturer_name": [
+   "Allergan, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020675"
+  ],
+  "n_sections": 29
+ },
+ "candidates": [
+  {
+   "set_id": "61dcaec8-3acb-4ef0-afde-65a66e99afa7",
+   "id": "ac967bf1-d566-4c51-b799-75bade0f71d5",
+   "effective_time": "20261030",
+   "version": "4",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202540"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "5693d709-e894-0144-e063-6294a90a99db",
+   "id": "5797b1d5-e686-ba35-e063-6294a90adae6",
+   "effective_time": "20260727",
+   "version": "2",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214295"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "a3c98080-0a4d-4a93-8dcb-02ab8533050b",
+   "id": "568f3b26-3cb8-19ba-e063-6394a90a8175",
+   "effective_time": "20260714",
+   "version": "4",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090801"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "f527a42c-a6ec-4a0b-a3d8-6c7eba38733c",
+   "id": "bd97fa2e-f550-49f1-918e-0bce3482c183",
+   "effective_time": "20260713",
+   "version": "103",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202540"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e1f6abfd-2158-4824-b53d-717fbe6de3f9",
+   "id": "322b164b-3399-4863-abd6-489173169b7c",
+   "effective_time": "20260629",
+   "version": "7",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202540"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "1a3a8942-94d4-4292-bf74-0a67d92acb90",
+   "id": "a215d03f-22c2-438f-b383-508aa5d7ef51",
+   "effective_time": "20260612",
+   "version": "14",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202540"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "3617fb7a-1f57-4276-bebb-ae6ba4252d4e",
+   "id": "5e248968-a19d-4b59-9873-fba89f6b7fb1",
+   "effective_time": "20260612",
+   "version": "1",
+   "brand_name": [
+    "URSOLIGN"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Pangea Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210344"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "fb317988-a4e3-9c9a-e053-6294a90a5990",
+   "id": "52d3dbf8-e305-03b0-e063-6394a90afe4b",
+   "effective_time": "20260527",
+   "version": "4",
+   "brand_name": [
+    "URSODIOL"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210344"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "b2605f6a-b72d-4773-8d2c-39acfe81e424",
+   "id": "b47f9107-f568-442b-9025-647dc6b49ceb",
+   "effective_time": "20260420",
+   "version": "100",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214849"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "9a6c1928-2d52-4d9a-8e83-f71892a7e98d",
+   "id": "20f4357a-edf9-4326-804f-9c72aae8e113",
+   "effective_time": "20260306",
+   "version": "10",
+   "brand_name": [
+    "URSODIOL"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Strides Pharma Science Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210344"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "fb79b62a-b450-4d7a-be28-5ee4d174fd58",
+   "id": "71c17751-51cb-411d-b90b-4b98ad4a768e",
+   "effective_time": "20260127",
+   "version": "13",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Glenmark Pharmaceuticals Inc., USA"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090801"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "00c47258-aef0-53f6-e063-6294a90af96f",
+   "id": "48bfa576-f7b2-85ff-e063-6394a90a0504",
+   "effective_time": "20260119",
+   "version": "2",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019594"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "0c7e1aa2-704c-435d-e063-6394a90a2d08",
+   "id": "48c0d20b-d59e-c74b-e063-6394a90a1f3f",
+   "effective_time": "20260119",
+   "version": "2",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202540"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "bbb1f297-1536-9550-e053-2995a90a0d41",
+   "id": "48378beb-66aa-975e-e063-6294a90a0aee",
+   "effective_time": "20260112",
+   "version": "4",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211301"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "a3a90d07-0dac-48fc-829a-759d9333843e",
+   "id": "437ecc8a-2e45-94a1-e063-6394a90acc85",
+   "effective_time": "20251113",
+   "version": "4",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211145"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "9d666bbc-98c4-445f-a5a2-cad1bcccde4e",
+   "id": "3e523229-7dbb-4a1d-908e-3ead0f4081cb",
+   "effective_time": "20250810",
+   "version": "11",
+   "brand_name": [
+    "URSODIOL"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Strides Pharma Science Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213504"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "631339fc-548d-4cd5-8cf3-60e1590f79f6",
+   "id": "7b7addad-c6a5-4570-983f-be62a87e0592",
+   "effective_time": "20250701",
+   "version": "3",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214849"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "dd0346e2-5ff3-4208-ad88-d09182684603",
+   "id": "b762c96f-bb2e-4268-b71c-ccda296cb299",
+   "effective_time": "20250701",
+   "version": "2",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214849"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "9ae9412b-36d5-4634-8d5c-cc96110821c0",
+   "id": "37f083e8-2223-360b-e063-6294a90aa549",
+   "effective_time": "20250619",
+   "version": "10",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079082"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "1027b933-f64f-4a43-996f-a676b5f72da0",
+   "id": "5669f4be-fc2b-4231-b9d2-30159562b284",
+   "effective_time": "20250424",
+   "version": "8",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals NY LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211301"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "c9aa0223-3ea4-4cb7-b53b-f35e5a04cec7",
+   "id": "7aace946-7c2a-422f-a905-c6afe5f8327f",
+   "effective_time": "20250109",
+   "version": "9",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075517"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "9d7f26d5-d8a9-4610-8d78-80ca3d442a79",
+   "id": "7e40153a-5dd0-42be-8b9e-fcd68fdcf536",
+   "effective_time": "20241219",
+   "version": "6",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "PuraCap Laboratories, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075517"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "46cfd68f-9a6e-4a00-a3e7-11d130b571fe",
+   "id": "cf1dcf79-bc3e-4e9d-9b4a-64e77617aba9",
+   "effective_time": "20241003",
+   "version": "104",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202540"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "be811c61-5f48-4b03-94b6-e6941b595621",
+   "id": "ef4f0687-2fd1-43b2-9c55-e678cadb53d1",
+   "effective_time": "20240531",
+   "version": "104",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202540"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "47beccad-d217-4ae5-9d57-79bf8d0704d8",
+   "id": "0e456733-6c65-443c-9133-262ab26e20fc",
+   "effective_time": "20240326",
+   "version": "4",
+   "brand_name": [
+    "Ursodiol"
+   ],
+   "generic_name": [
+    "URSODIOL"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals (USA) Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214295"
+   ],
+   "n_sections": 22
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Warnings and Precautions ( 5.2 ) 1/2023"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE URSO 250 and URSO Forte (ursodiol) tablets are indicated for the treatment of patients with primary biliary cholangitis (PBC). URSO 250 and URSO Forte (ursodiol) tablets are bile acids indicated for the treatment of patients with primary biliary cholangitis. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Recommended adult dosage : 13-15 mg/kg/day administered in two to four divided doses with food. ( 2.1 ) Scored URSO Forte tablet : scored tablet can be broken in halves to provide recommended dosage. ( 2.3 , 16 ) 2.1 General Dosing Information The recommended adult dosage for URSO 250 and URSO Forte in the treatment of PBC is 13-15 mg/kg/day administered in two to four divided doses with food. Dosing regimen should be adjusted according to each patient’s need at the discretion of the physician. 2.2 Liver Function Tests Liver function tests (γ-GT, alkaline phosphatase, AST, ALT) and bilirubin levels should be monitored every month for three months after start of therapy, and every six months thereafter [see Warnings and Precautions ( 5.1 ) ]. 2.3 Scoring the URSO Forte Tablet The URSO Forte scored tablet can be broken in halves to provide recommended dosage. To break URSO Forte scored tablet easily, place the tablet on a flat surface with the scored section on top. Hold the tablet with your thumbs placed close to the scored part of the tablet (groove). Then apply gentle pressure and snap the tablet segments apart (segments breaking incorrectly should not be used). The segments should be washed down unchewed, with water, keeping the segments in the mouth can reveal a bitter taste. Due to the bitter taste, segments should be stored separately from whole tablets. [see How Supplied/Storage and Handling ( 16 )]."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS URSO 250: 250 mg tablet URSO Forte: 500 mg scored tablet URSO 250: 250 mg tablet ( 3 ) URSO Forte: 500 mg scored tablet ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Patients with complete biliary obstruction and known hypersensitivity or intolerance to ursodiol or any of the components of the formulation. Patients with complete biliary obstruction and known hypersensitivity or intolerance to ursodiol or any of the components of the formulation. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Abnorma l Liver F unction T ests : Liver function tests (γ-GT, alkaline phosphatase, AST, ALT) and bilirubin level should be monitored. Treatment discontinuation should be considered if parameters increase to a level considered clinically significant in patients with stable historical liver function test levels. Caution should be exercised to maintain patients’ bile flow. ( 5.1 ) Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis : Monitor for obstructive gastrointestinal symptoms; if symptoms occur, hold ursodiol until a clinical evaluation has been conducted. ( 5.2 ) 5.1 Abnormal Liver Function Tests Liver function tests (γ-GT, alkaline phosphatase, AST, ALT) and bilirubin levels should be monitored every month for three months after start of therapy, and every six months thereafter. This monitoring will allow the early detection of a possible deterioration of the hepatic function. Treatment discontinuation should be considered if the above parameters increase to a level considered clinically significant in patients with stable historical liver function test levels. Caution has to be exercised to maintain the bile flow of the patients taking ursodiol. 5.2 Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis There have been rare postmarketing reports of URSO-treated patients who developed enteroliths (bezoars) resulting in obstructive symptoms that required surgical intervention. These patients had medical conditions that predisposed them to intestinal stenosis or stasis (e.g., surgical enteroanastomoses, Crohn's disease). If a patient presents with obstructive gastrointestinal symptoms, hold URSO until a clinical evaluation has been conducted."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Most common adverse reactions reported with the use of ursodiol during worldwide postmarketing and clinical experience (≥1%) are, in alphabetical order: abdominal discomfort, abdominal pain, alopecia, diarrhea, nausea, pruritus, and rash. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. The following table summarizes the adverse reactions observed in two placebo-controlled clinical trials. ADVERSE REACTIONS VISIT AT 12 MONTHS VISIT AT 24 MONTHS UDCA n (%) Placebo n (%) UDCA n (%) Placebo n (%) Diarrhea --- --- 1 (1.32) --- Elevated creatinine --- --- 1 (1.32) --- Elevated blood glucose 1 (1.18) --- 1 (1.32) --- Leukopenia --- --- 2 (2.63) --- Peptic ulcer --- --- 1 (1.32) --- Skin rash --- --- 2 (2.63) --- Thrombocytopenia --- --- 1 (1.32) --- Note: Those adverse reactions occurring at the same or higher incidence in the placebo as in the UDCA group have been deleted from this table (this includes diarrhea and thrombocytopenia at 12 months, nausea/vomiting, fever and other toxicity). UDCA = Ursodeoxycholic acid = Ursodiol In a randomized, cross-over study in sixty PBC patients, seven patients (11.6%) reported nine adverse reactions: abdominal pain and asthenia (1 patient), nausea (3 patients), dyspepsia (2 patients) and anorexia and esophagitis (1 patient each). One patient on the twice a day regimen (total dose 1,000 mg) withdrew due to nausea. All of these nine adverse reactions except esophagitis were observed with the twice a day regimen at a total daily dose of 1,000 mg or greater. However, an adverse reaction may occur at any dose. 6.2 Postmarketing Experience The following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of ursodiol. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Gastrointestinal disorders : abdominal discomfort, abdominal pain, enteroliths (bezoars), constipation, diarrhea, dyspepsia, nausea, vomiting. General disorders and administration site conditions: malaise, peripheral edema, pyrexia. Hepatobiliary disorders: jaundice (or aggravation of pre-existing jaundice). Immune System Disorders : Drug hypersensitivity to include facial edema, urticaria, angioedema and laryngeal edema. Abnormal Laboratory Tests: ALT increased, AST increased, blood alkaline phosphatase increased, blood bilirubin increased, γ-GT increased, hepatic enzyme increased, liver function test abnormal, transaminases increased. Musculoskeletal and connective tissue disorders : myalgia Nervous system disorders : dizziness, headache. Respiratory, thoracic and mediastinal disorders : cough. Skin and subcutaneous tissue disorder : alopecia, pruritus, rash."
+  ],
+  "adverse_reactions_table": [
+   "<table><col width=\"242\"/><col width=\"117\"/><col width=\"126\"/><col width=\"125\"/><col width=\"125\"/><tbody><tr><td styleCode=\"Toprule Lrule Rrule \"><content styleCode=\"bold italics\">ADVERSE REACTIONS </content></td><td styleCode=\"Toprule Lrule Rrule \" colspan=\"2\"><content styleCode=\"bold italics\">VISIT AT 12 MONTHS </content></td><td styleCode=\"Toprule Lrule Rrule \" colspan=\"2\"><content styleCode=\"bold italics\">VISIT AT 24 MONTHS </content></td></tr><tr><td styleCode=\"Toprule Lrule Rrule \"> </td><td styleCode=\"Toprule Lrule Rrule \">UDCA n (%) </td><td styleCode=\"Toprule Lrule Rrule \">Placebo  n (%) </td><td styleCode=\"Toprule Lrule Rrule \">UDCA n (%) </td><td styleCode=\"Toprule Lrule Rrule \">Placebo  n (%) </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Diarrhea </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Elevated creatinine </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Elevated blood glucose </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.18) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Leukopenia </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">2 (2.63) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Peptic ulcer </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Skin rash </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">2 (2.63) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Thrombocytopenia</td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \" colspan=\"5\">Note: Those adverse reactions occurring at the same or higher incidence in the placebo as in the UDCA group have been deleted from this table (this includes diarrhea and thrombocytopenia at 12 months, nausea/vomiting, fever and other toxicity).  UDCA = Ursodeoxycholic acid = Ursodiol </td></tr></tbody></table>"
+  ],
+  "clinical_studies": [
+   "6.1 Clinical Studies Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. The following table summarizes the adverse reactions observed in two placebo-controlled clinical trials. ADVERSE REACTIONS VISIT AT 12 MONTHS VISIT AT 24 MONTHS UDCA n (%) Placebo n (%) UDCA n (%) Placebo n (%) Diarrhea --- --- 1 (1.32) --- Elevated creatinine --- --- 1 (1.32) --- Elevated blood glucose 1 (1.18) --- 1 (1.32) --- Leukopenia --- --- 2 (2.63) --- Peptic ulcer --- --- 1 (1.32) --- Skin rash --- --- 2 (2.63) --- Thrombocytopenia --- --- 1 (1.32) --- Note: Those adverse reactions occurring at the same or higher incidence in the placebo as in the UDCA group have been deleted from this table (this includes diarrhea and thrombocytopenia at 12 months, nausea/vomiting, fever and other toxicity). UDCA = Ursodeoxycholic acid = Ursodiol In a randomized, cross-over study in sixty PBC patients, seven patients (11.6%) reported nine adverse reactions: abdominal pain and asthenia (1 patient), nausea (3 patients), dyspepsia (2 patients) and anorexia and esophagitis (1 patient each). One patient on the twice a day regimen (total dose 1,000 mg) withdrew due to nausea. All of these nine adverse reactions except esophagitis were observed with the twice a day regimen at a total daily dose of 1,000 mg or greater. However, an adverse reaction may occur at any dose.",
+   "14 CLINICAL STUDIES 14.1 Efficacy of Ursodeoxycholic Acid A dministered at 13 to 15 mg/kg/day in 3 or 4 Divided Doses to PBC Patients A U.S., multicenter, randomized, double-blind, placebo-controlled study was conducted to evaluate the efficacy of ursodeoxycholic acid at a dose of 13 to 15 mg/kg/day, administered in 3 or 4 divided doses in 180 patients with PBC (78% received four times a day dosage). Upon completion of the double-blind portion, all patients entered an open-label active treatment extension phase. Treatment failure, the main efficacy endpoint measured during this study, was defined as death, need for liver transplantation, histologic progression by two stages or to cirrhosis, development of varices, ascites or encephalopathy, marked worsening of fatigue or pruritus, inability to tolerate the drug, doubling of serum bilirubin and voluntary withdrawal. After two years of double-blind treatment, the incidence of treatment failure was significantly (p<0.01) reduced in the URSO 250 mg group (20 of 86 (23%) as compared to the placebo group (40 of 86 (47%). Time to treatment failure, which excluded doubling of serum bilirubin and voluntary withdrawal, was also significantly (p<0.001) delayed in the URSO 250 treated group (n=86, 803.8±24.9 d vs. 641.1±24.4 d for the placebo group (n=86) on average) regardless of either histologic stage or baseline bilirubin levels (>1.8 or < 1.8 mg/dL). Using a definition of treatment failure, which excluded doubling of serum bilirubin and voluntary withdrawal, time to treatment failure was significantly delayed in the URSO 250 group. In comparison with placebo, treatment with URSO 250 resulted in a significant improvement in the following serum hepatic biochemistries when compared to baseline: total bilirubin, SGOT, alkaline phosphatase and IgM. 14.2 Efficacy of Ursodiol Administered at 14 mg/kg/day as a Once Daily Dose to PBC Patients A second study conducted in Canada randomized 222 PBC patients to ursodiol, 14 mg/kg/day or placebo, administered as a once daily dose in a double-blind manner during a two-year period. At two years, a statistically significant (p<0.001) difference between the two treatments (n=106 for the URSO 250 group and n=106 for the placebo group), in favor of ursodiol, was demonstrated in the following: reduction in the proportion of patients exhibiting a more than 50% increase in serum bilirubin; median percent decrease in bilirubin (-17.12% for the URSO 250 group vs. +20.00% for the placebo group), transaminases (-40.54% for the URSO 250 group vs. +5.71% for the placebo group) and alkaline phosphatase (-47.61% for the URSO 250 group vs. -5.69% for the placebo group); incidence of treatment failure; and time to treatment failure. The definition of treatment failure included: discontinuing the study for any reason; a total serum bilirubin level greater than or equal to 1.5 mg/dl or increasing to a level equal to or greater than two times the baseline level; and the development of ascites or encephalopathy. Evaluation of patients at 4 years or longer was inadequate due to the high drop-out rate (n=10 withdrew from the URSO 250 group vs. n=15 from the placebo group) and small number of patients. Therefore, death, need for liver transplantation, histological progression by two stages or to cirrhosis, development of varices, ascites or encephalopathy, marked worsening of fatigue or pruritus, inability to tolerate the drug, doubling of serum bilirubin and voluntary withdrawal were not assessed. 14.3 Efficacy of URSO 250 Administered in Twice a Day Versus Four Times a Day Divided Dosing Schedules to PBC Patients A randomized, two-period crossover study in fifty PBC patients compared efficacy of URSO 250 (ursodiol) in twice a day versus four times a day divided dosing schedules in 50 patients for 6 months in each crossover period. Mean percent changes from baseline in liver test results and Mayo risk score (n=46) and serum enrichment with UDCA (n=34) were not statistically significant with any dosage at any time interval. This study demonstrated that UDCA (13 to 15 mg/kg/day) given twice a day is equally effective to UDCA given four times a day. In addition, URSO 250 was given as a single versus three times a day dosing schedules in 10 patients. Due to the small number of patients in this arm of the study, it was not possible to conduct statistical comparisons between these regimens."
+  ],
+  "clinical_studies_table": [
+   "<table><col width=\"242\"/><col width=\"117\"/><col width=\"126\"/><col width=\"125\"/><col width=\"125\"/><tbody><tr><td styleCode=\"Toprule Lrule Rrule \"><content styleCode=\"bold italics\">ADVERSE REACTIONS </content></td><td styleCode=\"Toprule Lrule Rrule \" colspan=\"2\"><content styleCode=\"bold italics\">VISIT AT 12 MONTHS </content></td><td styleCode=\"Toprule Lrule Rrule \" colspan=\"2\"><content styleCode=\"bold italics\">VISIT AT 24 MONTHS </content></td></tr><tr><td styleCode=\"Toprule Lrule Rrule \"> </td><td styleCode=\"Toprule Lrule Rrule \">UDCA n (%) </td><td styleCode=\"Toprule Lrule Rrule \">Placebo  n (%) </td><td styleCode=\"Toprule Lrule Rrule \">UDCA n (%) </td><td styleCode=\"Toprule Lrule Rrule \">Placebo  n (%) </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Diarrhea </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Elevated creatinine </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Elevated blood glucose </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.18) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Leukopenia </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">2 (2.63) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Peptic ulcer </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Skin rash </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">2 (2.63) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \">Thrombocytopenia</td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">--- </td><td styleCode=\"Toprule Lrule Rrule \">1 (1.32) </td><td styleCode=\"Toprule Lrule Rrule \">--- </td></tr><tr><td styleCode=\"Toprule Lrule Rrule \" colspan=\"5\">Note: Those adverse reactions occurring at the same or higher incidence in the placebo as in the UDCA group have been deleted from this table (this includes diarrhea and thrombocytopenia at 12 months, nausea/vomiting, fever and other toxicity).  UDCA = Ursodeoxycholic acid = Ursodiol </td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Bile Acid Sequestering Agents : May interfere with the action of URSO 250 and URSO Forte by reducing its absorption. ( 7.1 ) Aluminum-based Antacids : May interfere with the action of URSO 250 and URSO Forte by reducing its absorption. ( 7.2 ) Drugs that alter the metabolism of lipids or induce cholestasis may interfere with the action of URSO 250 and URSO Forte. ( 7.3 ) 7.1 Bile Acid Sequestering Agents Bile acid sequestering agents such as cholestyramine and colestipol may interfere with the action of URSO 250 and URSO Forte by reducing its absorption. 7.2 Aluminum-based Antacids Aluminum-based antacids have been shown to adsorb bile acids in vitro and may be expected to interfere with URSO 250 and URSO Forte in the same manner as the bile acid sequestering agents. 7.3 Drugs Affecting Lipid Metabolism Estrogens, oral contraceptives, and clofibrate (and perhaps other lipid-lowering drugs) increase hepatic cholesterol secretion and encourage cholesterol gallstone formation and hence may counteract the effectiveness of URSO 250 and URSO Forte."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Available published data on the use of ursodiol in pregnant women derived from randomized controlled trials, observational studies, and case series collected over several decades have not identified a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes. Most of the reported exposures to ursodiol occurred in the second and third trimester of pregnancy. In animal reproduction studies, ursodiol had no adverse effects on embryo-fetal development when administered at doses greater than human therapeutic doses (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data No adverse effects on embryo-fetal development were observed with oral administration of ursodiol to pregnant rats and rabbits during organogenesis at doses up to 22 and 7 times, respectively, the maximum recommended human dose (based on body surface area). 8.2 Lactation Risk Summary Ursodiol is naturally present in human milk. There are no reports of adverse effects of ursodiol on the breastfed child, but the reports are extremely limited. There are no data on the effects of ursodiol on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for URSO 250 and URSO Forte and any potential adverse effects on the breastfed child from URSO 250 and URSO Forte or from the underlying maternal condition. 8.4 Pediatric Use The safety and effectiveness of URSO 250 and URSO Forte in pediatric patients have not been established."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Available published data on the use of ursodiol in pregnant women derived from randomized controlled trials, observational studies, and case series collected over several decades have not identified a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes. Most of the reported exposures to ursodiol occurred in the second and third trimester of pregnancy. In animal reproduction studies, ursodiol had no adverse effects on embryo-fetal development when administered at doses greater than human therapeutic doses (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data No adverse effects on embryo-fetal development were observed with oral administration of ursodiol to pregnant rats and rabbits during organogenesis at doses up to 22 and 7 times, respectively, the maximum recommended human dose (based on body surface area)."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of URSO 250 and URSO Forte in pediatric patients have not been established."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE There have been no reports of accidental or intentional overdosage with ursodiol. Single oral doses of ursodiol at 10 g/kg in mice and dogs, and 5 g/kg in rats were not lethal. A single oral dose of ursodiol at 1.5 g/kg was lethal in hamsters. Symptoms of acute toxicity were salivation and vomiting in dogs, and ataxia, dyspnea, ptosis, agonal convulsions and coma in hamsters."
+  ],
+  "description": [
+   "11 DESCRIPTION URSO 250 (ursodiol, 250 mg) is available as a film-coated tablet for oral administration. URSO Forte (ursodiol, 500 mg) is available as a scored film-coated tablet for oral administration. Ursodiol (ursodeoxycholic acid, UDCA) is a naturally occurring bile acid found in small quantities in normal human bile and in larger quantities in the biles of certain species of bears. It is a bitter-tasting white powder consisting of crystalline particles freely soluble in ethanol and glacial acetic acid, slightly soluble in chloroform, sparingly soluble in ether, and practically insoluble in water. The chemical name of ursodiol is 3α,7ß-dihydroxy-5ß-cholan-24-oic (C 24 H 40 O 4 ). Ursodiol has a molecular weight of 392.56. Its structure is shown below. Inactive ingredients: microcrystalline cellulose, povidone, sodium starch glycolate, magnesium stearate, ethylcellulose, dibutyl sebacate, carnauba wax, hydroxypropyl methylcellulose, PEG 3350, PEG 8000, cetyl alcohol, sodium lauryl sulfate and hydrogen peroxide. chemical structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Ursodiol, a naturally occurring hydrophilic bile acid, derived from cholesterol, is present as a minor fraction of the total human bile acid pool. Oral administration of ursodiol increases this fraction in a dose related manner, to become the major biliary acid, replacing/displacing toxic concentrations of endogenous hydrophobic bile acids that tend to accumulate in cholestatic liver disease. In addition to the replacement and displacement of toxic bile acids, other mechanisms of action include cytoprotection of the injured bile duct epithelial cells (cholangiocytes) against toxic effects of bile acids, inhibition of apoptosis of hepatocytes, immunomodulatory effects, and stimulation of bile secretion by hepatocytes and cholangiocytes. 12.2 Pharmacodynamics Lithocholic acid, when administered chronically to animals, causes cholestatic liver injury that may lead to death from liver failure in certain species unable to form sulfate conjugates. Ursodiol is 7-dehydroxylated more slowly than chenodiol. For equimolar doses of ursodiol and chenodiol, steady state levels of lithocholic acid in biliary bile acids are lower during ursodiol administration than with chenodiol administration. Humans and chimpanzees can sulfate lithocholic acid. Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals. 12.3 Pharmacokinetics Ursodiol (UDCA) is normally present as a minor fraction of the total bile acids in humans (about 5%). Following oral administration, the majority of ursodiol is absorbed by passive diffusion and its absorption is incomplete. Once absorbed, ursodiol undergoes hepatic extraction to the extent of about 50% in the absence of liver disease. As the severity of liver disease increases, the extent of extraction decreases. In the liver, ursodiol is conjugated with glycine or taurine, then secreted into bile. These conjugates of ursodiol are absorbed in the small intestine by passive and active mechanisms. The conjugates can also be deconjugated in the ileum by intestinal enzymes, leading to the formation of free ursodiol that can be reabsorbed and reconjugated in the liver. Nonabsorbed ursodiol passes into the colon where it is mostly 7-dehydroxylated to lithocholic acid. Some ursodiol is epimerized to chenodiol (CDCA) via a 7-oxo intermediate. Chenodiol also undergoes 7-dehydroxylation to form lithocholic acid. These metabolites are poorly soluble and excreted in the feces. A small portion of lithocholic acid is reabsorbed, conjugated in the liver with glycine, or taurine and sulfated at the 3 position. The resulting sulfated lithocholic acid conjugates are excreted in bile and then lost in feces. In healthy subjects, at least 70% of ursodiol (unconjugated) is bound to plasma protein. No information is available on the binding of conjugated ursodiol to plasma protein in healthy subjects or PBC patients. Its volume of distribution has not been determined, but is expected to be small since the drug is mostly distributed in the bile and small intestine. Ursodiol is excreted primarily in the feces. With treatment, urinary excretion increases, but remains less than 1% except in severe cholestatic liver disease. During chronic administration of ursodiol, it becomes a major biliary and plasma bile acid. At a chronic dose of 13 to 15 mg/kg/day, ursodiol constitutes 30-50% of biliary and plasma bile acids."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Ursodiol, a naturally occurring hydrophilic bile acid, derived from cholesterol, is present as a minor fraction of the total human bile acid pool. Oral administration of ursodiol increases this fraction in a dose related manner, to become the major biliary acid, replacing/displacing toxic concentrations of endogenous hydrophobic bile acids that tend to accumulate in cholestatic liver disease. In addition to the replacement and displacement of toxic bile acids, other mechanisms of action include cytoprotection of the injured bile duct epithelial cells (cholangiocytes) against toxic effects of bile acids, inhibition of apoptosis of hepatocytes, immunomodulatory effects, and stimulation of bile secretion by hepatocytes and cholangiocytes."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Lithocholic acid, when administered chronically to animals, causes cholestatic liver injury that may lead to death from liver failure in certain species unable to form sulfate conjugates. Ursodiol is 7-dehydroxylated more slowly than chenodiol. For equimolar doses of ursodiol and chenodiol, steady state levels of lithocholic acid in biliary bile acids are lower during ursodiol administration than with chenodiol administration. Humans and chimpanzees can sulfate lithocholic acid. Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Ursodiol (UDCA) is normally present as a minor fraction of the total bile acids in humans (about 5%). Following oral administration, the majority of ursodiol is absorbed by passive diffusion and its absorption is incomplete. Once absorbed, ursodiol undergoes hepatic extraction to the extent of about 50% in the absence of liver disease. As the severity of liver disease increases, the extent of extraction decreases. In the liver, ursodiol is conjugated with glycine or taurine, then secreted into bile. These conjugates of ursodiol are absorbed in the small intestine by passive and active mechanisms. The conjugates can also be deconjugated in the ileum by intestinal enzymes, leading to the formation of free ursodiol that can be reabsorbed and reconjugated in the liver. Nonabsorbed ursodiol passes into the colon where it is mostly 7-dehydroxylated to lithocholic acid. Some ursodiol is epimerized to chenodiol (CDCA) via a 7-oxo intermediate. Chenodiol also undergoes 7-dehydroxylation to form lithocholic acid. These metabolites are poorly soluble and excreted in the feces. A small portion of lithocholic acid is reabsorbed, conjugated in the liver with glycine, or taurine and sulfated at the 3 position. The resulting sulfated lithocholic acid conjugates are excreted in bile and then lost in feces. In healthy subjects, at least 70% of ursodiol (unconjugated) is bound to plasma protein. No information is available on the binding of conjugated ursodiol to plasma protein in healthy subjects or PBC patients. Its volume of distribution has not been determined, but is expected to be small since the drug is mostly distributed in the bile and small intestine. Ursodiol is excreted primarily in the feces. With treatment, urinary excretion increases, but remains less than 1% except in severe cholestatic liver disease. During chronic administration of ursodiol, it becomes a major biliary and plasma bile acid. At a chronic dose of 13 to 15 mg/kg/day, ursodiol constitutes 30-50% of biliary and plasma bile acids."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility In two 24-month oral carcinogenicity studies in mice, ursodiol at doses up to 1,000 mg/kg/day (3,000 mg/m 2 /day) was not tumorigenic. Based on body surface area, for a 50 kg person of average height (1.46 m 2 body surface area), this dose represents 5.4 times the recommended maximum clinical dose of 15 mg/kg/day (555 mg/m 2 /day). In a two-year oral carcinogenicity study in Fischer 344 rats, ursodiol at doses up to 300 mg/kg/day (1,800 mg/m 2 /day, 3.2 times the recommended maximum human dose based on body surface area) was not tumorigenic. In a life-span (126-138 weeks) oral carcinogenicity study, Sprague-Dawley rats were treated with doses of 33 to 300 mg/kg/day, 0.4 to 3.2 times the recommended maximum human dose based on body surface area. Ursodiol produced a significantly (p≤0.5, Fisher's exact test) increased incidence of pheochromocytomas of the adrenal medulla in females of the highest dose group. In 103-week oral carcinogenicity studies of lithocholic acid, a metabolite of ursodiol, doses up to 250 mg/kg/day in mice and 500 mg/kg/day in rats did not produce any tumors. In a 78-week rat study, intrarectal instillation of lithocholic acid (1 mg/kg/day) for 13 months did not produce colorectal tumors. A tumor-promoting effect was observed when it was administered after a single intrarectal dose of a known carcinogen N-methyl-N'-nitro-N-nitrosoguanidine. On the other hand, in a 32-week rat study, ursodiol at a daily dose of 240 mg/kg (1,440 mg/m 2 , 2.6 times the maximum recommended human dose based on body surface area) suppressed the colonic carcinogenic effect of another known carcinogen azoxymethane. Ursodiol was not genotoxic in the Ames test, the mouse lymphoma cell (L5178Y, TK+/-) forward mutation test, the human lymphocyte sister chromatid exchange test, the mouse spermatogonia chromosome aberration test, the Chinese hamster micronucleus test and the Chinese hamster bone marrow cell chromosome aberration test. Ursodiol at oral doses of up to 2,700 mg/kg/day (16,200 mg/m 2 /day, 29 times the recommended maximum human dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility In two 24-month oral carcinogenicity studies in mice, ursodiol at doses up to 1,000 mg/kg/day (3,000 mg/m 2 /day) was not tumorigenic. Based on body surface area, for a 50 kg person of average height (1.46 m 2 body surface area), this dose represents 5.4 times the recommended maximum clinical dose of 15 mg/kg/day (555 mg/m 2 /day). In a two-year oral carcinogenicity study in Fischer 344 rats, ursodiol at doses up to 300 mg/kg/day (1,800 mg/m 2 /day, 3.2 times the recommended maximum human dose based on body surface area) was not tumorigenic. In a life-span (126-138 weeks) oral carcinogenicity study, Sprague-Dawley rats were treated with doses of 33 to 300 mg/kg/day, 0.4 to 3.2 times the recommended maximum human dose based on body surface area. Ursodiol produced a significantly (p≤0.5, Fisher's exact test) increased incidence of pheochromocytomas of the adrenal medulla in females of the highest dose group. In 103-week oral carcinogenicity studies of lithocholic acid, a metabolite of ursodiol, doses up to 250 mg/kg/day in mice and 500 mg/kg/day in rats did not produce any tumors. In a 78-week rat study, intrarectal instillation of lithocholic acid (1 mg/kg/day) for 13 months did not produce colorectal tumors. A tumor-promoting effect was observed when it was administered after a single intrarectal dose of a known carcinogen N-methyl-N'-nitro-N-nitrosoguanidine. On the other hand, in a 32-week rat study, ursodiol at a daily dose of 240 mg/kg (1,440 mg/m 2 , 2.6 times the maximum recommended human dose based on body surface area) suppressed the colonic carcinogenic effect of another known carcinogen azoxymethane. Ursodiol was not genotoxic in the Ames test, the mouse lymphoma cell (L5178Y, TK+/-) forward mutation test, the human lymphocyte sister chromatid exchange test, the mouse spermatogonia chromosome aberration test, the Chinese hamster micronucleus test and the Chinese hamster bone marrow cell chromosome aberration test. Ursodiol at oral doses of up to 2,700 mg/kg/day (16,200 mg/m 2 /day, 29 times the recommended maximum human dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 URSO 250 Each URSO 250 elliptical, biconvex, film-coated tablet, white, engraved with \"URS785\", contains 250 mg of ursodiol. Available in bottles of 100 tablets (NDC 58914-785-10). 16.2 URSO Forte Each URSO Forte elliptical, biconvex, scored, film-coated tablet, white, engraved with \"URS790\", contains 500 mg of ursodiol. Available in bottles of 100 tablets (NDC 58914-790-10). Store at 20°C to 25°C (68°F to 77°F). Dispense in a tight container. Half-tablets (scored URSO Forte 500 mg tablets broken in half) maintain acceptable quality for up to 28 days when stored in the current packaging (bottles) at 20ºC to 25ºC (68ºF to 77ºF). Due to the bitter taste, the halved segments should be stored separately from the whole tablets [see Dosage and Administration ( 2.2 )]."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis Advise patients or their caretaker(s) to notify their healthcare provider if they experience obstructive gastrointestinal symptoms due to the risk of enteroliths [see Warnings and Precautions ( 5.2 )]. Drug Interactions Patients should be informed that absorption of URSO 250 and URSO Forte may be reduced if they are taking bile acid sequestering agents, such as cholestyramine and colestipol, aluminum-based antacids, or drugs known to alter the metabolism of cholesterol [see Drug Interactions ( 7 )] . Distributed by: Allergan USA, Inc. Madison, NJ 07940 www.allergan.com URSO 250 ® and URSO Forte ® are registered trademarks of Allergan Sales, LLC. © 2023 Allergan. All rights reserved. v4.0USPI785 A picture containing clipart Description generated with very high confidence"
+  ],
+  "set_id": "e8fc4fc2-fe5c-4cba-b6e0-5ceaf2157a61",
+  "id": "06904c03-cea9-4532-8e27-7f2246be613b",
+  "effective_time": "20230112",
+  "version": "19"
+ }
+}

@@ -1,0 +1,742 @@
+{
+ "id_es": "icosapento",
+ "generic_en": "icosapent ethyl",
+ "search": "openfda.generic_name.exact:\"ICOSAPENT ETHYL\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "9c1a2828-1583-4414-ab22-a60480e8e508",
+  "id": "86b35fe3-d1cf-478e-849b-2ea0c87bda33",
+  "effective_time": "20260323",
+  "version": "21",
+  "brand_name": [
+   "Vascepa"
+  ],
+  "generic_name": [
+   "ICOSAPENT ETHYL"
+  ],
+  "manufacturer_name": [
+   "Amarin Pharma Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA202057"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "b5b0b1ae-29ab-43a5-9e6d-24374d961399",
+   "id": "ce4a226f-f6f7-4873-82c7-cbc72a0516df",
+   "effective_time": "20261015",
+   "version": "2",
+   "brand_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Northstar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216811"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "886aa8d8-b293-258f-b16d-be40418787a8",
+   "id": "131d2bd6-c27a-36af-da0f-2102b32e1e06",
+   "effective_time": "20260928",
+   "version": "7",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209437"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "0ee78f22-bed2-48f8-9be8-b8f6ceeeaeaf",
+   "id": "4257fa3a-e506-4501-a6c5-7b6bfd351e15",
+   "effective_time": "20260826",
+   "version": "101",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209457"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "07631e74-48e5-46ec-b8db-4b1bcf62d283",
+   "id": "d96d5cdc-9abb-4546-aa0c-b5834d82478c",
+   "effective_time": "20260825",
+   "version": "2",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209457"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "582638e5-9881-409d-a455-041b5ba6892a",
+   "id": "db5a86df-f92d-49ba-ae4b-76d7e7fae3ff",
+   "effective_time": "20260825",
+   "version": "101",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209457"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "cc28828d-beab-45cc-a3b6-151c5fee3924",
+   "id": "9a7d5eb6-95f1-4c0e-b51f-6b79ba2e3971",
+   "effective_time": "20260810",
+   "version": "103",
+   "brand_name": [
+    "Icosapent"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209499"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "f9c1a6a6-cda4-49ea-97e9-0d3cf5ab5d4c",
+   "id": "f85fe370-c8e6-40b5-a44b-64ec7446b13e",
+   "effective_time": "20260810",
+   "version": "103",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209457"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "45f8bb41-bdb1-4afc-83ec-9dc69720ee9c",
+   "id": "a5ce71bd-452c-4c3a-b53b-58500307f1bb",
+   "effective_time": "20260729",
+   "version": "4",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Northstar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209457"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "1aca884c-c464-900d-ac06-33aee7118df8",
+   "id": "548bf172-d774-f1cf-d856-5638eb43bf24",
+   "effective_time": "20260722",
+   "version": "5",
+   "brand_name": [
+    "Icosapent"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209499"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "cdcee03e-5df1-a8fc-7490-dfdc624ce6d6",
+   "id": "22f70981-f0f9-e3ff-0066-fcff74b8b0b2",
+   "effective_time": "20260722",
+   "version": "6",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209499"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "6f5838cd-4d17-401d-8e2a-652d0e73c1e9",
+   "id": "dc378404-3406-4fc0-829d-cc8273af1ca0",
+   "effective_time": "20260709",
+   "version": "2",
+   "brand_name": [
+    "icosapent ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Softgel Healthcare Private Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217656"
+   ],
+   "n_sections": 5
+  },
+  {
+   "set_id": "e3d38d1d-fbe7-413d-849a-675e7dfa9b0a",
+   "id": "8963be4d-11e2-42c9-af2f-410b99a4694f",
+   "effective_time": "20260709",
+   "version": "5",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209457"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5910742b-c5e6-4029-9a19-97669e3808bc",
+   "id": "fc13bee2-0828-4bc5-b967-b47e368f0a24",
+   "effective_time": "20260707",
+   "version": "4",
+   "brand_name": [
+    "icosapent ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217656"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "b30afc7a-bffb-4c71-974f-1d977156eb46",
+   "id": "b30afc7a-bffb-4c71-974f-1d977156eb46",
+   "effective_time": "20260626",
+   "version": "1",
+   "brand_name": [
+    "Icosapent ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218949"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "b6e361cc-c314-4402-9361-2d977788e93c",
+   "id": "4d05c006-9a8b-4b54-b835-3ab2810e1dc1",
+   "effective_time": "20260618",
+   "version": "1",
+   "brand_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217919"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "3637187f-70bc-eb31-e063-6294a90ad3cb",
+   "id": "54660e54-7fa6-0751-e063-6394a90aa961",
+   "effective_time": "20260616",
+   "version": "2",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209437"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "30574162-0e84-4352-b7fa-42fc20115d68",
+   "id": "30574162-0e84-4352-b7fa-42fc20115d68",
+   "effective_time": "20260605",
+   "version": "1",
+   "brand_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "EPIC PHARMA, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217919"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "6db749b9-c817-41cd-909f-dd60a90c9f73",
+   "id": "f2a08441-6873-4526-8a61-05c5844ebc69",
+   "effective_time": "20260605",
+   "version": "5",
+   "brand_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "EPIC PHARMA, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217919"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "019cc0ac-0c2f-426d-996a-6d932f954443",
+   "id": "e78f8ff5-3e0a-44d1-b64f-19a912bd0a34",
+   "effective_time": "20260430",
+   "version": "2",
+   "brand_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "XLCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216811"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "3e3498ab-f35e-4597-8556-89bf9fdd1406",
+   "id": "293101bd-609b-40d0-8ed4-953ebb8b5072",
+   "effective_time": "20260430",
+   "version": "2",
+   "brand_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216811"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "d245ddab-d81b-44bd-90d7-0e4d446d9bf5",
+   "id": "322776f8-84f9-4198-b95c-353e9df6c70d",
+   "effective_time": "20260407",
+   "version": "7",
+   "brand_name": [
+    "Vascepa"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA202057"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "9c1a2828-1583-4414-ab22-a60480e8e508",
+   "id": "86b35fe3-d1cf-478e-849b-2ea0c87bda33",
+   "effective_time": "20260323",
+   "version": "21",
+   "brand_name": [
+    "Vascepa"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Amarin Pharma Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA202057"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "b4a1ca8a-2d22-4c54-9193-eab4e75ba7db",
+   "id": "9df091ac-075e-456c-9f09-faf11d1c4b0a",
+   "effective_time": "20260204",
+   "version": "1",
+   "brand_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA216811"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "fd28217d-5817-43b0-8185-7c7ec6da83f3",
+   "id": "47a64acc-3806-d861-e063-6394a90a8d02",
+   "effective_time": "20260105",
+   "version": "5",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209437"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "20686acb-66c5-4d75-9684-7474436e8bef",
+   "id": "324fd508-befc-404a-8f75-97b35d2df694",
+   "effective_time": "20251030",
+   "version": "1",
+   "brand_name": [
+    "Icosapent Ethyl"
+   ],
+   "generic_name": [
+    "ICOSAPENT ETHYL"
+   ],
+   "manufacturer_name": [
+    "Qilu Pharmaceutical Co., Ltd."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218899"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE VASCEPA ® (icosapent ethyl) is indicated: as an adjunct to maximally tolerated statin therapy to reduce the risk of myocardial infarction, stroke, coronary revascularization, and unstable angina requiring hospitalization in adult patients with elevated triglyceride (TG) levels (≥ 150 mg/dL) and established cardiovascular disease or diabetes mellitus and 2 or more additional risk factors for cardiovascular disease. as an adjunct to diet to reduce TG levels in adult patients with severe (≥ 500 mg/dL) hypertriglyceridemia. Limitations of Use: The effect of VASCEPA on the risk for pancreatitis in patients with severe hypertriglyceridemia has not been determined. VASCEPA is an ethyl ester of eicosapentaenoic acid (EPA) indicated: as an adjunct to maximally tolerated statin therapy to reduce the risk of myocardial infarction, stroke, coronary revascularization, and unstable angina requiring hospitalization in adult patients with elevated triglyceride (TG) levels(≥ 150 mg/dL) and established cardiovascular disease or diabetes mellitus and 2 or more additional risk factors for cardiovascular disease. ( 1 ) as an adjunct to diet to reduce TG levels in adult patients with severe (≥ 500 mg/dL) hypertriglyceridemia. ( 1 ) Limitations of Use: The effect of VASCEPA on the risk for pancreatitis in patients with severe hypertriglyceridemia has not been determined. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Assess lipid levels before initiating therapy. Identify other causes of high triglyceride levels and manage as appropriate. ( 2.1 ) Patients should engage in appropriate nutritional intake and physical activity before receiving VASCEPA, which should continue during treatment. ( 2.1 ) The daily dose of VASCEPA is 4 grams per day taken as either four 0.5 gram capsules twice daily with food or two 1 gram capsules twice daily with food. ( 2.2 ) Advise patients to swallow capsules whole. Do not break open, crush, dissolve, or chew VASCEPA. ( 2.2 ) 2.1 Prior to Initiation of VASCEPA Assess lipid levels before initiating therapy. Identify other causes (e.g., diabetes mellitus, hypothyroidism, or medications) of high triglyceride levels and manage as appropriate. Patients should engage in appropriate nutritional intake and physical activity before receiving VASCEPA, which should continue during treatment with VASCEPA. 2.2 Dosage and Administration The daily dose of VASCEPA is 4 grams per day taken as either: four 0.5 gram capsules twice daily with food; or as two 1 gram capsules twice daily with food. Advise patients to swallow VASCEPA capsules whole. Do not break open, crush, dissolve, or chew VASCEPA."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS VASCEPA capsules are supplied as: 0.5 gram amber-colored, oval, soft-gelatin capsules imprinted with V500 1 gram amber-colored, oblong, soft-gelatin capsules imprinted with VASCEPA 1 gram amber-colored, oblong, soft-gelatin capsules imprinted with IPE Capsules: 0.5 gram and 1 gram ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS VASCEPA is contraindicated in patients with known hypersensitivity (e.g., anaphylactic reaction) to VASCEPA or any of its components. VASCEPA is contraindicated in patients with known hypersensitivity (e.g., anaphylactic reaction) to VASCEPA or any of its components. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Atrial Fibrillation/Flutter: VASCEPA was associated with an increased risk of atrial fibrillation or atrial flutter requiring hospitalization in a double-blind, placebo-controlled trial. The incidence of atrial fibrillation was greater in patients with a previous history of atrial fibrillation or atrial flutter. ( 5.1 ) Potential for Allergic Reactions in Patients with Fish Allergy: VASCEPA contains ethyl esters of the omega-3 fatty acid, eicosapentaenoic acid (EPA), obtained from the oil of fish. It is not known whether patients with allergies to fish and/or shellfish are at increased risk of an allergic reaction to VASCEPA. Inform patients with known hypersensitivity to fish and/or shellfish about the potential for allergic reactions and advise them to discontinue VASCEPA and seek medical attention if any reactions occur. ( 5.2 ) Bleeding: VASCEPA was associated with an increased risk of bleeding in a double-blind, placebo-controlled trial. The incidence of bleeding was greater in patients receiving concomitant antithrombotic medications, such as aspirin, clopidogrel, or warfarin. ( 5.3 ) 5.1 Atrial Fibrillation/Flutter VASCEPA is associated with an increased risk of atrial fibrillation or atrial flutter requiring hospitalization. In a double-blind, placebo-controlled trial of 8,179 statin-treated subjects with established cardiovascular disease (CVD) or diabetes plus an additional risk factor for CVD, adjudicated atrial fibrillation or atrial flutter requiring hospitalization for 24 or more hours occurred in 127 (3%) patients treated with VASCEPA compared to 84 (2%) patients receiving placebo [HR= 1.5 (95% CI 1.14, 1.98)]. The incidence of atrial fibrillation was greater in patients with a previous history of atrial fibrillation or atrial flutter. 5.2 Potential for Allergic Reactions in Patients with Fish Allergy VASCEPA contains ethyl esters of the omega-3 fatty acid, eicosapentaenoic acid (EPA), obtained from the oil of fish. It is not known whether patients with allergies to fish and/or shellfish are at increased risk of an allergic reaction to VASCEPA. Inform patients with known hypersensitivity to fish and/or shellfish about the potential for allergic reactions to VASCEPA and advise them to discontinue VASCEPA and seek medical attention if any reactions occur. 5.3 Bleeding VASCEPA is associated with an increased risk of bleeding. In a double-blind, placebo-controlled cardiovascular outcomes trial of 8,179 patients, 482 (12%) patients receiving VASCEPA experienced a bleeding event compared to 404 (10%) patients receiving placebo. Serious bleeding events occurred in 111 (3%) of patients on VASCEPA vs. 85 (2%) of patients receiving placebo. The incidence of bleeding was greater in patients receiving concomitant antithrombotic medications, such as aspirin, clopidogrel, or warfarin."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following important adverse reactions are described below and elsewhere in the labeling: Atrial Fibrillation or Atrial Flutter [see Warnings and Precautions ( 5.1 )] Potential for Allergic Reactions in Patients with Fish Allergy [see Warnings and Precautions ( 5.2 )] Bleeding [see Warnings and Precautions ( 5.3 )] Common adverse reactions in the cardiovascular outcomes trial (incidence ≥3% and ≥1% more frequent than placebo): musculoskeletal pain, peripheral edema, constipation, gout, and atrial fibrillation ( 6.1 ) Common adverse reactions in the hypertriglyceridemia trials (incidence ≥1% more frequent than placebo): arthralgia and oropharyngeal pain. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Amarin Pharma, Inc. at 1-855-VASCEPA (1-855-827-2372) or contact the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Cardiovascular Outcomes Trial In a double-blind, randomized, placebo-controlled cardiovascular outcomes trial, 8,179 statin-stabilized patients were randomized to receive VASCEPA or placebo and followed for a median of 4.9 years [see Clinical Studies ( 14.1 )] . The median age at baseline was 64 years, 29% were women, 90% White, 5% Asian, 2% were Black, and 4% identified as Hispanic ethnicity. Common adverse reactions (incidence ≥3% on VASCEPA and ≥1% more frequent than placebo) included musculoskeletal pain, peripheral edema, constipation, gout, and atrial fibrillation. Hypertriglyceridemia Trials In two randomized, double-blind, placebo-controlled trials in patients with triglyceride levels between 200 and 2000 mg/dL treated for 12 weeks, adverse reactions reported with VASCEPA at an incidence ≥1% more frequent than placebo based on pooled data included arthralgia and oropharyngeal pain. 6.2 Postmarketing Experience Additional adverse reactions have been identified during post-approval use of VASCEPA. Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Diarrhea Blood triglycerides increased Abdominal discomfort Pain in the extremities"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Increased Bleeding Risk with Anticoagulants and Antiplatelet Agents: Some published studies with omega-3 fatty acids have demonstrated prolongation of bleeding time. Monitor patients receiving VASCEPA and concomitant anticoagulants and/or antiplatelet agents for bleeding. ( 7 ) 7.1 Increased Bleeding Risk with Anticoagulants and Antiplatelet Agents Some published studies with omega-3 fatty acids have demonstrated prolongation of bleeding time. The prolongation of bleeding time reported in those studies has not exceeded normal limits and did not produce clinically significant bleeding episodes. Monitor patients receiving VASCEPA and concomitant anticoagulants and/or antiplatelet agents for bleeding."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary The available data from published case reports and the pharmacovigilance database on the use of VASCEPA in pregnant women are insufficient to identify a drug-associated risk for major birth defects, miscarriage or adverse maternal or fetal outcomes. In animal reproduction studies in pregnant rats, non-dose-related imbalances for some minor developmental findings were observed with oral administration of icosapent ethyl during organogenesis at exposures that were equivalent to the clinical exposure at the human dose of 4 g/day, based on body surface area comparisons. In a study in pregnant rabbits orally administered icosapent ethyl during organogenesis, there were no clinically relevant adverse developmental effects at exposures that were 5 times the clinical exposure, based on body surface area comparisons ( see Data ). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Data Animal Data In pregnant rats given oral gavage doses of 0.3, 1 and 2 g/kg/day icosapent ethyl from gestation through organogenesis all drug treated groups had non-dose-related imbalances in visceral and skeletal findings, including 13 th reduced ribs, additional liver lobes, testes medially displaced and/or not descended, at human systemic exposures following a maximum oral dose of 4 g/day based on body surface comparisons. In a multigenerational developmental study in pregnant rats given doses of 0.3, 1, 3 g/kg/day icosapent ethyl by oral gavage from gestation day 7-17, icosapent ethyl did not affect viability in fetuses (F 1 or F 2 ). Non-dose-related imbalances in findings of absent optic nerves and unilateral testes atrophy at human exposures based on the maximum dose of 4 g/day and on body surface area comparisons. Additional variations consisting of early incisor eruption and increased percent cervical ribs were observed at the same exposures. Pups from high dose treated dams exhibited decreased copulation rates, delayed estrus, decreased implantations and decreased surviving fetuses (F2) suggesting potential multigenerational effects of icosapent ethyl at 7 times human systemic exposure following 4 g/day dose based on body surface area comparisons across species. In pregnant rabbits given oral gavage doses of 0.1, 0.3, and 1 g/kg/day icosapent ethyl from gestation through organogenesis, a decrease in body weight and food consumption was observed at the high dose of 1 g/kg/day (5 times the human exposure at the maximum dose of 4 g/day, based on body surface area comparisons). Slight increases in resorbed and dead fetuses were noted in the 1 g/kg/day group, but these were not significantly different from the control group. There were no differences between the icosapent ethyl groups and control group as to the number of corpora lutea , number of implantations, number of surviving fetuses, sex ratio, body weight of female fetuses or placental weight. There were no treatment-related malformations or skeletal anomalies. In pregnant rats given icosapent ethyl from gestation day 17 through lactation day 20 at 0.3, 1, 3 g/kg/day no adverse maternal or developmental effects were observed. However, complete litter loss (not dose-related) was noted in 2/23 litters at the low dose and 1/23 mid-dose dams by post-natal day 4 at human exposures at a maximum dose of 4 g/day, based on body surface area comparisons. 8.2 Lactation Risk Summary Published studies have detected omega-3 fatty acids, including EPA, in human milk. Lactating women receiving oral omega-3 fatty acids for supplementation have resulted in higher levels of omega-3 fatty acids in human milk. There are no data on the effects of omega-3 fatty acid ethyl esters on the breastfed infant or on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VASCEPA and any potential adverse effects on the breastfed child from VASCEPA or from the underlying maternal condition. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.5 Geriatric Use Of the total number of patients in well-controlled clinical studies of VASCEPA, 45% were 65 years of age and over. No overall differences in safety or effectiveness were observed between these patients and younger groups. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. 8.7 Hepatic Impairment In patients with hepatic impairment, alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels should be monitored periodically during therapy with VASCEPA."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary The available data from published case reports and the pharmacovigilance database on the use of VASCEPA in pregnant women are insufficient to identify a drug-associated risk for major birth defects, miscarriage or adverse maternal or fetal outcomes. In animal reproduction studies in pregnant rats, non-dose-related imbalances for some minor developmental findings were observed with oral administration of icosapent ethyl during organogenesis at exposures that were equivalent to the clinical exposure at the human dose of 4 g/day, based on body surface area comparisons. In a study in pregnant rabbits orally administered icosapent ethyl during organogenesis, there were no clinically relevant adverse developmental effects at exposures that were 5 times the clinical exposure, based on body surface area comparisons ( see Data ). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively. Data Animal Data In pregnant rats given oral gavage doses of 0.3, 1 and 2 g/kg/day icosapent ethyl from gestation through organogenesis all drug treated groups had non-dose-related imbalances in visceral and skeletal findings, including 13 th reduced ribs, additional liver lobes, testes medially displaced and/or not descended, at human systemic exposures following a maximum oral dose of 4 g/day based on body surface comparisons. In a multigenerational developmental study in pregnant rats given doses of 0.3, 1, 3 g/kg/day icosapent ethyl by oral gavage from gestation day 7-17, icosapent ethyl did not affect viability in fetuses (F 1 or F 2 ). Non-dose-related imbalances in findings of absent optic nerves and unilateral testes atrophy at human exposures based on the maximum dose of 4 g/day and on body surface area comparisons. Additional variations consisting of early incisor eruption and increased percent cervical ribs were observed at the same exposures. Pups from high dose treated dams exhibited decreased copulation rates, delayed estrus, decreased implantations and decreased surviving fetuses (F2) suggesting potential multigenerational effects of icosapent ethyl at 7 times human systemic exposure following 4 g/day dose based on body surface area comparisons across species. In pregnant rabbits given oral gavage doses of 0.1, 0.3, and 1 g/kg/day icosapent ethyl from gestation through organogenesis, a decrease in body weight and food consumption was observed at the high dose of 1 g/kg/day (5 times the human exposure at the maximum dose of 4 g/day, based on body surface area comparisons). Slight increases in resorbed and dead fetuses were noted in the 1 g/kg/day group, but these were not significantly different from the control group. There were no differences between the icosapent ethyl groups and control group as to the number of corpora lutea , number of implantations, number of surviving fetuses, sex ratio, body weight of female fetuses or placental weight. There were no treatment-related malformations or skeletal anomalies. In pregnant rats given icosapent ethyl from gestation day 17 through lactation day 20 at 0.3, 1, 3 g/kg/day no adverse maternal or developmental effects were observed. However, complete litter loss (not dose-related) was noted in 2/23 litters at the low dose and 1/23 mid-dose dams by post-natal day 4 at human exposures at a maximum dose of 4 g/day, based on body surface area comparisons."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Of the total number of patients in well-controlled clinical studies of VASCEPA, 45% were 65 years of age and over. No overall differences in safety or effectiveness were observed between these patients and younger groups. Other reported clinical experience has not identified differences in responses between the elderly and younger patients."
+  ],
+  "description": [
+   "11 DESCRIPTION VASCEPA, a lipid-regulating agent, is supplied as either a 0.5 gram or a 1 gram amber-colored, liquid-filled soft gelatin capsule for oral use. Each VASCEPA capsule contains either 0.5 grams of icosapent ethyl (in a 0.5 gram capsule) or 1 gram of icosapent ethyl (in a 1 gram capsule). Icosapent ethyl is an ethyl ester of the omega-3 fatty acid eicosapentaenoic acid (EPA). The empirical formula of icosapent ethyl is C 22 H 34 O 2 and the molecular weight is 330.51. The chemical name for icosapent ethyl is ethyl all-cis-5,8,11,14,17-icosapentaenoate with the following chemical structure: VASCEPA capsules also contain the following inactive ingredients: tocopherol, gelatin, glycerin, maltitol, sorbitol, and purified water. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Studies suggest that EPA reduces hepatic very low-density lipoprotein triglycerides (VLDL-TG) synthesis and/or secretion and enhances TG clearance from circulating VLDL particles. Potential mechanisms of action include increased β-oxidation; inhibition of acyl-CoA:1,2-diacylglycerol acyltransferase (DGAT); decreased lipogenesis in the liver; and increased plasma lipoprotein lipase activity. The mechanisms of action contributing to reduction of cardiovascular events with VASCEPA (icosapent ethyl) are not completely understood but are likely multi-factorial. Increased EPA lipid composition from carotid plaque specimens and increased circulating EPA/arachidonic acid ratio have been observed following EPA treatment. EPA inhibits platelet aggregation under some ex vivo conditions. However, the direct clinical meaning of individual findings is not clear. 12.2 Pharmacodynamics In a 12-week, dose-ranging study in patients with severe hypertriglyceridemia and in the event-driven REDUCE-IT ® trial, VASCEPA 4 grams per day reduced median TG from baseline relative to placebo [see Clinical Studies ( 14 )]. 12.3 Pharmacokinetics Absorption After oral administration, VASCEPA is de-esterified during the absorption process and the active metabolite EPA is absorbed in the small intestine and enters the systemic circulation mainly via the thoracic duct lymphatic system. Peak plasma concentrations of EPA were reached approximately 5 hours following oral doses of VASCEPA. VASCEPA was administered with or following a meal in all clinical studies; no food effect studies were performed. Take VASCEPA with or following a meal. Distribution The mean volume of distribution at steady state of EPA is approximately 88 liters. The majority of EPA circulating in plasma is incorporated in phospholipids, triglycerides and cholesteryl esters, and <1% is present as the unesterified fatty acid. Greater than 99% of unesterified EPA is bound to plasma proteins. Elimination Metabolism EPA is mainly metabolized by the liver via beta-oxidation similar to dietary fatty acids. Beta oxidation splits the long carbon chain of EPA into acetyl Coenzyme A, which is converted into energy via the Krebs cycle. Cytochrome P450-mediated metabolism is a minor pathway of elimination of EPA. Excretion The total plasma clearance of EPA at steady state is 684 mL/hr. The plasma elimination half-life (t 1/2 ) of EPA is approximately 89 hours. VASCEPA does not undergo renal excretion. Specific Populations Gender When administered VASCEPA in clinical trials, plasma total EPA concentrations did not differ significantly between men and women. Pediatric The pharmacokinetics of VASCEPA have not been studied in pediatric patients. Hepatic or Renal Impairment VASCEPA has not been studied in patients with renal or hepatic impairment. Drug Interaction Studies Omeprazole In a drug-drug interaction study with 28 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the steady-state AUC τ or C max of omeprazole when co-administered at 40 mg/day to steady-state. Rosiglitazone In a drug-drug interaction study with 28 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the single dose AUC or C max of rosiglitazone at 8 mg. Warfarin In a drug-drug interaction study with 25 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the single dose AUC or C max of R - and S -warfarin or the anti-coagulation pharmacodynamics of warfarin when co-administered as racemic warfarin at 25 mg. Atorvastatin In a drug-drug interaction study of 26 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the steady-state AUC τ or C max of atorvastatin, 2-hydroxyatorvastatin, or 4-hydroxyatorvastatin when co-administered with atorvastatin 80 mg/day at steady-state."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Studies suggest that EPA reduces hepatic very low-density lipoprotein triglycerides (VLDL-TG) synthesis and/or secretion and enhances TG clearance from circulating VLDL particles. Potential mechanisms of action include increased β-oxidation; inhibition of acyl-CoA:1,2-diacylglycerol acyltransferase (DGAT); decreased lipogenesis in the liver; and increased plasma lipoprotein lipase activity. The mechanisms of action contributing to reduction of cardiovascular events with VASCEPA (icosapent ethyl) are not completely understood but are likely multi-factorial. Increased EPA lipid composition from carotid plaque specimens and increased circulating EPA/arachidonic acid ratio have been observed following EPA treatment. EPA inhibits platelet aggregation under some ex vivo conditions. However, the direct clinical meaning of individual findings is not clear.",
+   "12.2 Pharmacodynamics In a 12-week, dose-ranging study in patients with severe hypertriglyceridemia and in the event-driven REDUCE-IT ® trial, VASCEPA 4 grams per day reduced median TG from baseline relative to placebo [see Clinical Studies ( 14 )].",
+   "14.2 Severe Hypertriglyceridemia The effects of VASCEPA 4 grams per day were assessed in a randomized, placebo-controlled, double-blind, parallel-group study of adult patients (76 on VASCEPA, 75 on placebo) with severe hypertriglyceridemia. Patients whose baseline TG levels were between 500 and 2,000 mg/dL were enrolled in this study for 12 weeks. The median baseline TG and LDL-C levels in these patients were 684 mg/dL and 86 mg/dL, respectively. Median baseline HDL-C level was 27 mg/dL. The randomized population in this study was mostly Caucasian (88%) and male (76%). The mean age was 53 years and the mean body mass index was 31 kg/m 2 . Twenty-five percent of patients were on concomitant statin therapy, 28% were diabetics, and 39% of the patients had TG levels >750 mg/dL. The changes in the major lipoprotein lipid parameters for the groups receiving VASCEPA or placebo are shown in Table 2 . Table 2. Median Baseline and Percent Change from Baseline in Lipid Parameters in Patients with Severe Hypertriglyceridemia (≥500 mg/dL) % Change= Median Percent Change from Baseline Difference= Median of [VASCEPA % Change – Placebo % Change] (Hodges-Lehmann Estimate) p-values from Wilcoxon rank-sum test * p-value < 0.001 (primary efficacy endpoint) ** p-value < 0.05 (key secondary efficacy endpoints determined to be statistically significant according to the pre-specified multiple comparison procedure) Parameter VASCEPA 4 g/day N=76 Placebo N=75 Difference (95% Confidence Interval) Baseline % Change Baseline % Change TG (mg/dL) 680 -27 703 +10 -33 * (-47, -22) LDL-C (mg/dL) 91 -5 86 -3 -2 (-13, +8) Non-HDL-C (mg/dL) 225 -8 229 +8 -18 (-25, -11) TC (mg/dL) 254 -7 256 +8 -16 (-22, -11) HDL-C (mg/dL) 27 -4 27 0 -4 (-9, +2) VLDL-C (mg/dL) 123 -20 124 +14 -29 ** (-43, -14) Apo B (mg/dL) 121 -4 118 +4 -9 ** (-14, -3) VASCEPA 4 grams per day reduced median TG, VLDL-C, and Apo B levels from baseline relative to placebo. The reduction in TG observed with VASCEPA was not associated with elevations in LDL-C levels relative to placebo."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption After oral administration, VASCEPA is de-esterified during the absorption process and the active metabolite EPA is absorbed in the small intestine and enters the systemic circulation mainly via the thoracic duct lymphatic system. Peak plasma concentrations of EPA were reached approximately 5 hours following oral doses of VASCEPA. VASCEPA was administered with or following a meal in all clinical studies; no food effect studies were performed. Take VASCEPA with or following a meal. Distribution The mean volume of distribution at steady state of EPA is approximately 88 liters. The majority of EPA circulating in plasma is incorporated in phospholipids, triglycerides and cholesteryl esters, and <1% is present as the unesterified fatty acid. Greater than 99% of unesterified EPA is bound to plasma proteins. Elimination Metabolism EPA is mainly metabolized by the liver via beta-oxidation similar to dietary fatty acids. Beta oxidation splits the long carbon chain of EPA into acetyl Coenzyme A, which is converted into energy via the Krebs cycle. Cytochrome P450-mediated metabolism is a minor pathway of elimination of EPA. Excretion The total plasma clearance of EPA at steady state is 684 mL/hr. The plasma elimination half-life (t 1/2 ) of EPA is approximately 89 hours. VASCEPA does not undergo renal excretion. Specific Populations Gender When administered VASCEPA in clinical trials, plasma total EPA concentrations did not differ significantly between men and women. Pediatric The pharmacokinetics of VASCEPA have not been studied in pediatric patients. Hepatic or Renal Impairment VASCEPA has not been studied in patients with renal or hepatic impairment. Drug Interaction Studies Omeprazole In a drug-drug interaction study with 28 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the steady-state AUC τ or C max of omeprazole when co-administered at 40 mg/day to steady-state. Rosiglitazone In a drug-drug interaction study with 28 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the single dose AUC or C max of rosiglitazone at 8 mg. Warfarin In a drug-drug interaction study with 25 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the single dose AUC or C max of R - and S -warfarin or the anti-coagulation pharmacodynamics of warfarin when co-administered as racemic warfarin at 25 mg. Atorvastatin In a drug-drug interaction study of 26 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the steady-state AUC τ or C max of atorvastatin, 2-hydroxyatorvastatin, or 4-hydroxyatorvastatin when co-administered with atorvastatin 80 mg/day at steady-state."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility In a 2-year rat carcinogenicity study with oral gavage doses of 0.09, 0.27, and 0.91 g/kg/day icosapent ethyl, respectively, males did not exhibit drug-related neoplasms. Hemangiomas and hemangiosarcomas of the mesenteric lymph node, the site of drug absorption, were observed in females at clinically relevant exposures based on body surface area comparisons across species relative to the maximum clinical dose of 4 g/day. Overall incidence of hemangiomas and hemangiosarcomas in all vascular tissues did not increase with treatment. In a 6-month carcinogenicity study in Tg.rasH2 transgenic mice with oral gavage doses of 0.5, 1, 2, and 4.6 g/kg/day icosapent ethyl, drug-related incidences of benign squamous cell papilloma in the skin and subcutis of the tail was observed in high dose male mice. The papillomas were considered to develop secondary to chronic irritation of the proximal tail associated with fecal excretion of oil and therefore not clinically relevant. Drug-related neoplasms were not observed in female mice. Icosapent ethyl was not mutagenic with or without metabolic activation in the bacterial mutagenesis (Ames) assay or in the in vivo mouse micronucleus assay. A chromosomal aberration assay in Chinese Hamster Ovary (CHO) cells was positive for clastogenicity with and without metabolic activation. In an oral gavage rat fertility study, ethyl-EPA, administered at doses of 0.3, 1, and 3 g/kg/day to male rats for 9 weeks before mating and to female rats for 14 days before mating through day 7 of gestation, increased anogenital distance in female pups and increased cervical ribs were observed at 3 g/kg/day (7 times human systemic exposure with 4 g/day clinical dose based on a body surface area comparison)."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility In a 2-year rat carcinogenicity study with oral gavage doses of 0.09, 0.27, and 0.91 g/kg/day icosapent ethyl, respectively, males did not exhibit drug-related neoplasms. Hemangiomas and hemangiosarcomas of the mesenteric lymph node, the site of drug absorption, were observed in females at clinically relevant exposures based on body surface area comparisons across species relative to the maximum clinical dose of 4 g/day. Overall incidence of hemangiomas and hemangiosarcomas in all vascular tissues did not increase with treatment. In a 6-month carcinogenicity study in Tg.rasH2 transgenic mice with oral gavage doses of 0.5, 1, 2, and 4.6 g/kg/day icosapent ethyl, drug-related incidences of benign squamous cell papilloma in the skin and subcutis of the tail was observed in high dose male mice. The papillomas were considered to develop secondary to chronic irritation of the proximal tail associated with fecal excretion of oil and therefore not clinically relevant. Drug-related neoplasms were not observed in female mice. Icosapent ethyl was not mutagenic with or without metabolic activation in the bacterial mutagenesis (Ames) assay or in the in vivo mouse micronucleus assay. A chromosomal aberration assay in Chinese Hamster Ovary (CHO) cells was positive for clastogenicity with and without metabolic activation. In an oral gavage rat fertility study, ethyl-EPA, administered at doses of 0.3, 1, and 3 g/kg/day to male rats for 9 weeks before mating and to female rats for 14 days before mating through day 7 of gestation, increased anogenital distance in female pups and increased cervical ribs were observed at 3 g/kg/day (7 times human systemic exposure with 4 g/day clinical dose based on a body surface area comparison)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES 14.1 Prevention of Cardiovascular Events REDUCE-IT (NCT01492361) was a multinational, double-blind, randomized, placebo-controlled, event-driven trial in 8,179 (4,089 VASCEPA, 4,090 placebo) statin-treated adult patients enrolled with LDL-C >40 mg/dL and ≤100 mg/dL and elevated TG levels (90% of enrolled patients had TG ≥ 150 mg/dL and <500 mg/dL) and either established cardiovascular disease (71%) or diabetes and other risk factors for cardiovascular disease (29%). Patients with established cardiovascular disease were defined as being at least 45 years of age and having a documented history of coronary artery disease, cerebrovascular or carotid disease, or peripheral artery disease. Patients with other risk factors for cardiovascular disease were defined as being at least 50 years of age with diabetes and at least one additional risk factor. Patients were randomly assigned 1:1 to receive either VASCEPA (4 grams daily) or placebo. The median follow-up duration was 4.9 years. Overall, 99.8% of patients were followed for vital status until the end of the trial or death. The median age at baseline was 64 years and 29% were women. The trial population was 90% White, 5% Asian, 2% Black; 4% identified as Hispanic ethnicity. Selected additional baseline risk factors included hypertension (87%), type 2 diabetes mellitus (58%), eGFR < 60 mL/min per 1.73 m 2 (22%), congestive heart failure (18%), and current daily cigarette smoking (15%). Most patients were taking moderate-intensity (63%) or high-intensity (31%) statin therapy at baseline. Most patients at baseline were taking at least one other cardiovascular medication, including anti-platelet agents (79%) or anti-hypertensives (95%), including beta blockers (71%), angiotensin converting enzyme (ACE) inhibitors (52%), or angiotensin receptor blockers (ARB; 27%). On stable background lipid-lowering therapy, the median [Q1, Q3] LDL-C at baseline was 75.0 [62.0, 89.0] mg/dL; the mean (SD) was 76.2 (20.3) mg/dL. The median [Q1, Q3] fasting TG was 216.0 [176.0, 272.5] mg/dL; the mean (SD) was 233.2 (80.1) mg/dL. VASCEPA significantly reduced the risk for the primary composite endpoint (time to first occurrence of cardiovascular death, myocardial infarction, stroke, coronary revascularization, or hospitalization for unstable angina; p<0.0001) and the key secondary composite endpoint (time to first occurrence of cardiovascular death, myocardial infarction, or stroke; p<0.0001). The results of the primary, key secondary, and other secondary efficacy endpoints in the prespecified testing hierarchy to control for type 1 error are shown in Table 1 . The Kaplan-Meier estimates of the cumulative incidence of the primary composite endpoints over time are shown in Figure 1 . Table 1. Effect of VASCEPA on Time to First Occurrence of Cardiovascular Events in Patients with Elevated Triglyceride Levels and Other Risk Factors for Cardiovascular Disease in REDUCE-IT [1] Includes adjudicated cardiovascular deaths and deaths of undetermined causality. [2] Determined to be caused by myocardial ischemia by invasive/non-invasive testing and requiring emergent hospitalization. VASCEPA Placebo VASCEPA vs Placebo N = 4089 n (%) Incidence Rate (per 100 patient years) N = 4090 n (%) Incidence Rate (per 100 patient years) Hazard Ratio (95% CI) Primary composite endpoint Cardiovascular death, myocardial infarction, stroke, coronary revascularization, hospitalization for unstable angina (5-point MACE) 705 (17.2) 4.3 901 (22.0) 5.7 0.75 (0.68, 0.83) Key secondary composite endpoint Cardiovascular death, myocardial infarction, stroke (3-point MACE) 459 (11.2) 2.7 606 (14.8) 3.7 0.74 (0.65, 0.83) Other secondary endpoints Fatal or non-fatal myocardial infarction 250 (6.1) 1.5 355 (8.7) 2.1 0.69 (0.58, 0.81) Emergent or urgent coronary revascularization 216 (5.3) 1.3 321 (7.8) 1.9 0.65 (0.55, 0.78) Cardiovascular death [1] 174 (4.3) 1.0 213 (5.2) 1.2 0.80 (0.66, 0.98) Hospitalization for unstable angina [2] 108 (2.6) 0.6 157 (3.8) 0.9 0.68 (0.53, 0.87) Fatal or non-fatal stroke 98 (2.4) 0.6 134 (3.3) 0.8 0.72 (0.55, 0.93) Figure 1. Kaplan-Meier Estimated Cumulative Incidence of Primary Composite Endpoint in REDUCE-IT CI=confidence interval The median TG and LDL-C baseline values were similar between the VASCEPA group and placebo group. The median change in TG from baseline to Year 1 was -39 mg/dL (-18%) in the VASCEPA group and 5 mg/dL (2%) in the placebo group. The median change in LDL-C from baseline to Year 1 was 2 mg/dL (3%) in the VASCEPA group and 7 mg/dL (10%) in the placebo group. Figure 1 14.2 Severe Hypertriglyceridemia The effects of VASCEPA 4 grams per day were assessed in a randomized, placebo-controlled, double-blind, parallel-group study of adult patients (76 on VASCEPA, 75 on placebo) with severe hypertriglyceridemia. Patients whose baseline TG levels were between 500 and 2,000 mg/dL were enrolled in this study for 12 weeks. The median baseline TG and LDL-C levels in these patients were 684 mg/dL and 86 mg/dL, respectively. Median baseline HDL-C level was 27 mg/dL. The randomized population in this study was mostly Caucasian (88%) and male (76%). The mean age was 53 years and the mean body mass index was 31 kg/m 2 . Twenty-five percent of patients were on concomitant statin therapy, 28% were diabetics, and 39% of the patients had TG levels >750 mg/dL. The changes in the major lipoprotein lipid parameters for the groups receiving VASCEPA or placebo are shown in Table 2 . Table 2. Median Baseline and Percent Change from Baseline in Lipid Parameters in Patients with Severe Hypertriglyceridemia (≥500 mg/dL) % Change= Median Percent Change from Baseline Difference= Median of [VASCEPA % Change – Placebo % Change] (Hodges-Lehmann Estimate) p-values from Wilcoxon rank-sum test * p-value < 0.001 (primary efficacy endpoint) ** p-value < 0.05 (key secondary efficacy endpoints determined to be statistically significant according to the pre-specified multiple comparison procedure) Parameter VASCEPA 4 g/day N=76 Placebo N=75 Difference (95% Confidence Interval) Baseline % Change Baseline % Change TG (mg/dL) 680 -27 703 +10 -33 * (-47, -22) LDL-C (mg/dL) 91 -5 86 -3 -2 (-13, +8) Non-HDL-C (mg/dL) 225 -8 229 +8 -18 (-25, -11) TC (mg/dL) 254 -7 256 +8 -16 (-22, -11) HDL-C (mg/dL) 27 -4 27 0 -4 (-9, +2) VLDL-C (mg/dL) 123 -20 124 +14 -29 ** (-43, -14) Apo B (mg/dL) 121 -4 118 +4 -9 ** (-14, -3) VASCEPA 4 grams per day reduced median TG, VLDL-C, and Apo B levels from baseline relative to placebo. The reduction in TG observed with VASCEPA was not associated with elevations in LDL-C levels relative to placebo."
+  ],
+  "clinical_studies_table": [
+   "<table ID=\"table01\" width=\"775\" styleCode=\"Noautorules\"><caption>Table 1. Effect of VASCEPA on Time to First Occurrence of Cardiovascular Events in Patients with Elevated Triglyceride Levels and Other Risk Factors for Cardiovascular Disease in REDUCE-IT </caption><col width=\"45%\" align=\"left\"/><col width=\"10%\" align=\"center\"/><col width=\"10%\" align=\"center\"/><col width=\"10%\" align=\"center\"/><col width=\"10%\" align=\"center\"/><col width=\"15%\" align=\"center\"/><tfoot><tr valign=\"middle\"><td align=\"left\" colspan=\"6\" styleCode=\"Botrule Lrule Rrule\"><paragraph styleCode=\"footnote\">[1] Includes adjudicated cardiovascular deaths and deaths of undetermined causality.</paragraph><paragraph styleCode=\"footnote\">[2] Determined to be caused by myocardial ischemia by invasive/non-invasive testing and requiring emergent hospitalization.</paragraph></td></tr></tfoot><tbody><tr valign=\"middle\"><td rowspan=\"2\" styleCode=\"Toprule Botrule Lrule Rrule\"/><td colspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">VASCEPA</content></td><td colspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Placebo</content></td><td styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">VASCEPA  vs Placebo</content></td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Rrule\" align=\"center\"><content styleCode=\"bold\">N = 4089  n (%)</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">Incidence Rate (per 100 patient years)</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">N = 4090  n (%)</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">Incidence Rate (per 100 patient years)</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">Hazard Ratio (95% CI)</content></td></tr><tr valign=\"middle\"><td colspan=\"6\" styleCode=\"Botrule Lrule Rrule\"><content styleCode=\"bold\">Primary composite endpoint</content></td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Lrule Rrule\">Cardiovascular death, myocardial infarction, stroke, coronary revascularization, hospitalization for unstable angina (5-point MACE)</td><td styleCode=\"Botrule Rrule\">705 (17.2)</td><td styleCode=\"Botrule Rrule\">4.3</td><td styleCode=\"Botrule Rrule\">901 (22.0)</td><td styleCode=\"Botrule Rrule\">5.7</td><td styleCode=\"Botrule Rrule\">0.75 (0.68, 0.83)</td></tr><tr valign=\"middle\"><td colspan=\"6\" styleCode=\"Botrule Lrule Rrule\"><content styleCode=\"bold\">Key secondary composite endpoint</content></td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Lrule Rrule\">Cardiovascular death, myocardial infarction, stroke (3-point MACE)</td><td styleCode=\"Botrule Rrule\">459 (11.2)</td><td styleCode=\"Botrule Rrule\">2.7</td><td styleCode=\"Botrule Rrule\">606 (14.8)</td><td styleCode=\"Botrule Rrule\">3.7</td><td styleCode=\"Botrule Rrule\">0.74 (0.65, 0.83)</td></tr><tr valign=\"middle\"><td colspan=\"6\" styleCode=\"Botrule Lrule Rrule\"><content styleCode=\"bold\">Other secondary endpoints</content></td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Lrule Rrule\">Fatal or non-fatal myocardial infarction</td><td styleCode=\"Botrule Rrule\">250 (6.1)</td><td styleCode=\"Botrule Rrule\">1.5</td><td styleCode=\"Botrule Rrule\">355 (8.7)</td><td styleCode=\"Botrule Rrule\">2.1</td><td styleCode=\"Botrule Rrule\">0.69 (0.58, 0.81)</td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Lrule Rrule\">Emergent or urgent coronary revascularization</td><td styleCode=\"Botrule Rrule\">216 (5.3)</td><td styleCode=\"Botrule Rrule\">1.3</td><td styleCode=\"Botrule Rrule\">321 (7.8)</td><td styleCode=\"Botrule Rrule\">1.9</td><td styleCode=\"Botrule Rrule\">0.65 (0.55, 0.78)</td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Lrule Rrule\">Cardiovascular death <sup>[1]</sup></td><td styleCode=\"Botrule Rrule\">174 (4.3)</td><td styleCode=\"Botrule Rrule\">1.0</td><td styleCode=\"Botrule Rrule\">213 (5.2)</td><td styleCode=\"Botrule Rrule\">1.2</td><td styleCode=\"Botrule Rrule\">0.80 (0.66, 0.98)</td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Lrule Rrule\">Hospitalization for unstable angina <sup>[2]</sup></td><td styleCode=\"Botrule Rrule\">108 (2.6)</td><td styleCode=\"Botrule Rrule\">0.6</td><td styleCode=\"Botrule Rrule\">157 (3.8)</td><td styleCode=\"Botrule Rrule\">0.9</td><td styleCode=\"Botrule Rrule\">0.68 (0.53, 0.87)</td></tr><tr valign=\"middle\"><td styleCode=\"Botrule Lrule Rrule\">Fatal or non-fatal stroke</td><td styleCode=\"Botrule Rrule\">98 (2.4)</td><td styleCode=\"Botrule Rrule\">0.6</td><td styleCode=\"Botrule Rrule\">134 (3.3)</td><td styleCode=\"Botrule Rrule\">0.8</td><td styleCode=\"Botrule Rrule\">0.72 (0.55, 0.93)</td></tr></tbody></table>",
+   "<table ID=\"table2\" width=\"775\" styleCode=\"Noautorules\"><caption>Table 2. Median Baseline and Percent Change from Baseline in Lipid Parameters in Patients with Severe Hypertriglyceridemia (&#x2265;500 mg/dL)</caption><col width=\"25%\" align=\"left\"/><col width=\"12%\" align=\"center\"/><col width=\"13%\" align=\"center\"/><col width=\"12%\" align=\"center\"/><col width=\"13%\" align=\"center\"/><col width=\"25%\" align=\"center\"/><tfoot><tr valign=\"top\"><td align=\"left\" colspan=\"6\"><paragraph styleCode=\"footnote\">% Change= Median Percent Change from Baseline</paragraph><paragraph styleCode=\"footnote\">Difference= Median of [VASCEPA % Change &#x2013; Placebo % Change] (Hodges-Lehmann Estimate)</paragraph><paragraph styleCode=\"footnote\">p-values from Wilcoxon rank-sum test</paragraph><paragraph styleCode=\"footnote\"><sup>*</sup>p-value &lt; 0.001 (primary efficacy endpoint)</paragraph><paragraph styleCode=\"footnote\"><sup>**</sup>p-value &lt; 0.05 (key secondary efficacy endpoints determined to be statistically significant according to the pre-specified multiple comparison procedure)</paragraph></td></tr></tfoot><tbody><tr valign=\"bottom\"><td rowspan=\"2\" styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Parameter</content></td><td colspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">VASCEPA 4 g/day  N=76</content></td><td colspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Placebo  N=75</content></td><td rowspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Difference (95% Confidence Interval)</content></td></tr><tr valign=\"bottom\"><td styleCode=\"Botrule Rrule\" align=\"center\"><content styleCode=\"bold\">Baseline</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">% Change</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">Baseline</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">% Change</content></td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">TG (mg/dL)</td><td styleCode=\"Botrule Rrule\">680</td><td styleCode=\"Botrule Rrule\">-27</td><td styleCode=\"Botrule Rrule\">703</td><td styleCode=\"Botrule Rrule\">+10</td><td styleCode=\"Botrule Rrule\">-33<sup>*</sup> (-47, -22)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">LDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">91</td><td styleCode=\"Botrule Rrule\">-5</td><td styleCode=\"Botrule Rrule\">86</td><td styleCode=\"Botrule Rrule\">-3</td><td styleCode=\"Botrule Rrule\">-2 (-13, +8)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">Non-HDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">225</td><td styleCode=\"Botrule Rrule\">-8</td><td styleCode=\"Botrule Rrule\">229</td><td styleCode=\"Botrule Rrule\">+8</td><td styleCode=\"Botrule Rrule\">-18 (-25, -11)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">TC (mg/dL)</td><td styleCode=\"Botrule Rrule\">254</td><td styleCode=\"Botrule Rrule\">-7</td><td styleCode=\"Botrule Rrule\">256</td><td styleCode=\"Botrule Rrule\">+8</td><td styleCode=\"Botrule Rrule\">-16 (-22, -11)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">HDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">27</td><td styleCode=\"Botrule Rrule\">-4</td><td styleCode=\"Botrule Rrule\">27</td><td styleCode=\"Botrule Rrule\">0</td><td styleCode=\"Botrule Rrule\">-4 (-9, +2)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">VLDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">123</td><td styleCode=\"Botrule Rrule\">-20</td><td styleCode=\"Botrule Rrule\">124</td><td styleCode=\"Botrule Rrule\">+14</td><td styleCode=\"Botrule Rrule\">-29<sup>**</sup> (-43, -14)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">Apo B (mg/dL)</td><td styleCode=\"Botrule Rrule\">121</td><td styleCode=\"Botrule Rrule\">-4</td><td styleCode=\"Botrule Rrule\">118</td><td styleCode=\"Botrule Rrule\">+4</td><td styleCode=\"Botrule Rrule\">-9<sup>**</sup> (-14, -3)</td></tr></tbody></table>"
+  ],
+  "mechanism_of_action_table": [
+   "<table ID=\"table2\" width=\"775\" styleCode=\"Noautorules\"><caption>Table 2. Median Baseline and Percent Change from Baseline in Lipid Parameters in Patients with Severe Hypertriglyceridemia (&#x2265;500 mg/dL)</caption><col width=\"25%\" align=\"left\"/><col width=\"12%\" align=\"center\"/><col width=\"13%\" align=\"center\"/><col width=\"12%\" align=\"center\"/><col width=\"13%\" align=\"center\"/><col width=\"25%\" align=\"center\"/><tfoot><tr valign=\"top\"><td align=\"left\" colspan=\"6\"><paragraph styleCode=\"footnote\">% Change= Median Percent Change from Baseline</paragraph><paragraph styleCode=\"footnote\">Difference= Median of [VASCEPA % Change &#x2013; Placebo % Change] (Hodges-Lehmann Estimate)</paragraph><paragraph styleCode=\"footnote\">p-values from Wilcoxon rank-sum test</paragraph><paragraph styleCode=\"footnote\"><sup>*</sup>p-value &lt; 0.001 (primary efficacy endpoint)</paragraph><paragraph styleCode=\"footnote\"><sup>**</sup>p-value &lt; 0.05 (key secondary efficacy endpoints determined to be statistically significant according to the pre-specified multiple comparison procedure)</paragraph></td></tr></tfoot><tbody><tr valign=\"bottom\"><td rowspan=\"2\" styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Parameter</content></td><td colspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">VASCEPA 4 g/day  N=76</content></td><td colspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Placebo  N=75</content></td><td rowspan=\"2\" styleCode=\"Toprule Botrule Rrule\"><content styleCode=\"bold\">Difference (95% Confidence Interval)</content></td></tr><tr valign=\"bottom\"><td styleCode=\"Botrule Rrule\" align=\"center\"><content styleCode=\"bold\">Baseline</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">% Change</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">Baseline</content></td><td styleCode=\"Botrule Rrule\"><content styleCode=\"bold\">% Change</content></td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">TG (mg/dL)</td><td styleCode=\"Botrule Rrule\">680</td><td styleCode=\"Botrule Rrule\">-27</td><td styleCode=\"Botrule Rrule\">703</td><td styleCode=\"Botrule Rrule\">+10</td><td styleCode=\"Botrule Rrule\">-33<sup>*</sup> (-47, -22)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">LDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">91</td><td styleCode=\"Botrule Rrule\">-5</td><td styleCode=\"Botrule Rrule\">86</td><td styleCode=\"Botrule Rrule\">-3</td><td styleCode=\"Botrule Rrule\">-2 (-13, +8)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">Non-HDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">225</td><td styleCode=\"Botrule Rrule\">-8</td><td styleCode=\"Botrule Rrule\">229</td><td styleCode=\"Botrule Rrule\">+8</td><td styleCode=\"Botrule Rrule\">-18 (-25, -11)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">TC (mg/dL)</td><td styleCode=\"Botrule Rrule\">254</td><td styleCode=\"Botrule Rrule\">-7</td><td styleCode=\"Botrule Rrule\">256</td><td styleCode=\"Botrule Rrule\">+8</td><td styleCode=\"Botrule Rrule\">-16 (-22, -11)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">HDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">27</td><td styleCode=\"Botrule Rrule\">-4</td><td styleCode=\"Botrule Rrule\">27</td><td styleCode=\"Botrule Rrule\">0</td><td styleCode=\"Botrule Rrule\">-4 (-9, +2)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">VLDL-C (mg/dL)</td><td styleCode=\"Botrule Rrule\">123</td><td styleCode=\"Botrule Rrule\">-20</td><td styleCode=\"Botrule Rrule\">124</td><td styleCode=\"Botrule Rrule\">+14</td><td styleCode=\"Botrule Rrule\">-29<sup>**</sup> (-43, -14)</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">Apo B (mg/dL)</td><td styleCode=\"Botrule Rrule\">121</td><td styleCode=\"Botrule Rrule\">-4</td><td styleCode=\"Botrule Rrule\">118</td><td styleCode=\"Botrule Rrule\">+4</td><td styleCode=\"Botrule Rrule\">-9<sup>**</sup> (-14, -3)</td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING VASCEPA (icosapent ethyl) capsules are supplied as Strength Quantity Description NDC 0.5 gram capsules Bottles of 240 amber-colored soft-gelatin capsules imprinted with V500 52937-003-40 1 gram capsules Bottles of 120 amber-colored soft-gelatin capsules imprinted with VASCEPA 52937-001-20 1 gram capsules Bottles of 120 amber-colored soft-gelatin capsules imprinted with IPE 52937-005-20 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]."
+  ],
+  "how_supplied_table": [
+   "<table ID=\"table3\" width=\"775\" styleCode=\"Noautorules\"><col width=\"20%\" align=\"left\"/><col width=\"20%\" align=\"left\"/><col width=\"40%\" align=\"left\"/><col width=\"20%\" align=\"left\"/><tbody><tr valign=\"top\"><td styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Strength</content></td><td styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Quantity</content></td><td styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">Description</content></td><td styleCode=\"Toprule Botrule Lrule Rrule\"><content styleCode=\"bold\">NDC</content></td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">0.5 gram capsules</td><td styleCode=\"Botrule Rrule\">Bottles of 240</td><td styleCode=\"Botrule Rrule\">amber-colored soft-gelatin capsules imprinted with V500</td><td styleCode=\"Botrule Rrule\">52937-003-40</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">1 gram capsules</td><td styleCode=\"Botrule Rrule\">Bottles of 120</td><td styleCode=\"Botrule Rrule\">amber-colored soft-gelatin capsules imprinted with VASCEPA</td><td styleCode=\"Botrule Rrule\">52937-001-20</td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\">1 gram capsules</td><td styleCode=\"Botrule Rrule\">Bottles of 120</td><td styleCode=\"Botrule Rrule\">amber-colored soft-gelatin capsules imprinted with IPE</td><td styleCode=\"Botrule Rrule\">52937-005-20</td></tr></tbody></table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling before starting VASCEPA (Patient Information). Inform patients that VASCEPA may increase their risk for atrial fibrillation or atrial flutter [see Warnings and Precautions ( 5.1 )] . Inform patients with known hypersensitivity to fish and/or shellfish about the potential for allergic reactions to VASCEPA and advise them to discontinue VASCEPA and seek medical attention if any reactions occur [see Warnings and Precautions ( 5.2 )] . Inform patients that VASCEPA may increase their risk for bleeding, especially if they are receiving other antithrombotic agents [see Warnings and Precautions ( 5.3 )] . Advise patients to swallow VASCEPA capsules whole. Do not break open, crush, dissolve, or chew VASCEPA [see Dosage and Administration ( 2.2 )] . Instruct patients to take VASCEPA as prescribed. If a dose is missed, patients should take it as soon as they remember. However, if they miss one day of VASCEPA, they should not double the dose when they take it. For more information about VASCEPA, go to www.VASCEPA.com or call 1-855-VASCEPA (1-855-827-2372)."
+  ],
+  "spl_patient_package_insert": [
+   "This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 03/2026 PATIENT INFORMATION VASCEPA ® (vas-EE-puh) (icosapent ethyl) capsules What is VASCEPA? VASCEPA is a prescription medicine used: along with certain medicines (statins) to reduce the risk of heart attack, stroke, and certain types of heart issues requiring hospitalization in adults with heart (cardiovascular) disease, or diabetes and 2 or more additional risk factors for heart disease. along with a low-fat and low-cholesterol diet to lower high levels of triglycerides (fats) in adults. It is not known if VASCEPA changes your risk of having inflammation of your pancreas (pancreatitis). It is not known if VASCEPA is safe and effective in children. Do not take VASCEPA if you are allergic to icosapent ethyl or any of the ingredients in VASCEPA. See the end of this leaflet for a complete list of ingredients in VASCEPA. Before taking VASCEPA, tell your doctor about all of your medical conditions, including if you: have diabetes. have a low thyroid problem (hypothyroidism). have a liver problem. have a pancreas problem. are allergic to fish or shellfish. It is not known if people who are allergic to fish or shellfish are also allergic to VASCEPA. are pregnant, or planning to become pregnant. It is not known if VASCEPA will harm your unborn baby. are breastfeeding or plan to breastfeed. VASCEPA can pass into your breast milk, and may harm your baby. Talk to your doctor about the best way to feed your baby if you take VASCEPA. Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and dietary or herbal supplements. VASCEPA can interact with certain other medicines that you are taking. Especially tell your doctor if you take medicines that affect your blood clotting (anticoagulants or blood thinners). How should I take VASCEPA? Take VASCEPA exactly as your doctor tells you to take it. Do not change your dose or stop taking VASCEPA without talking to your doctor. Do not take more capsules than what is prescribed by your doctor. If you are prescribed the 0.5-gram capsules, you should not take more than 8 capsules each day with food. If you are prescribed the 1-gram capsules, you should not take more than 4 capsules each day with food. Take VASCEPA capsules whole. Do not break, crush, dissolve, or chew VASCEPA capsules before swallowing. If you miss a dose of VASCEPA, take it as soon as you remember. However, if you miss one day of VASCEPA, do not double your dose when you take it. Your doctor may start you on a diet that is low in saturated fat, cholesterol, carbohydrates, and low in added sugars before giving you VASCEPA. Stay on this diet while taking VASCEPA. Your doctor may do blood tests to check your triglyceride and other lipid levels while you take VASCEPA. What are the possible side effects of VASCEPA? VASCEPA may cause serious side effects, including: Heart rhythm problems (atrial fibrillation and atrial flutter). Heart rhythm problems which can be serious and cause hospitalization have happened in people who take VASCEPA, especially in people who have heart (cardiovascular) disease or diabetes with a risk factor for heart (cardiovascular) disease, or who have had heart rhythm problems in the past. Tell your doctor if you get any symptoms of heart rhythm problems such as feeling as if your heart is beating fast and irregular, lightheadedness, dizziness, shortness of breath, chest discomfort, or you faint. Possible allergic reactions if you are allergic to fish or shellfish. Stop taking VASCEPA and tell your doctor right away or get emergency medical help if you have any signs or symptoms of an allergic reaction. Bleeding. Serious bleeding can happen in people who take VASCEPA. Your risk of bleeding may increase if you are also taking a blood thinner medicine. If you have liver problems and are taking VASCEPA, your doctor should do blood tests during treatment. The most common side effects of VASCEPA include: Muscle and joint pain. Swelling of the hands, legs, or feet. Constipation Gout Heart rhythm problems (atrial fibrillation). These are not all the possible side effects of VASCEPA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store VASCEPA? Store VASCEPA at room temperature between 68°F to 77°F (20°C to 25°C). Safely throw away medicine that is out of date or no longer needed. Keep VASCEPA and all medicine out of the reach of children. General information about the safe and effective use of VASCEPA. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use VASCEPA for a condition for which it was not prescribed. Do not give VASCEPA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about VASCEPA that is written for health professionals. What are the ingredients in VASCEPA? Active ingredient: icosapent ethyl Inactive ingredients: tocopherol, gelatin, glycerin, maltitol, sorbitol, and purified water VASCEPA is a registered trademark of the Amarin group of companies. ©2026 Amarin Pharma, Inc. Bridgewater NJ, 08807 All rights reserved PP00120Q Distributed by: Amarin Pharma Inc. Bridgewater, NJ, USA Manufactured for: Amarin Pharmaceuticals Ireland Limited Dublin, Ireland +1-855-VASCEPA (+1-855-827-2372) www.vascepa.com For more information, go to www.vascepa.com or call 1-855-VASCEPA (1-855-827-2372)."
+  ],
+  "spl_patient_package_insert_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"80%\" align=\"left\"/><col width=\"20%\" align=\"right\"/><tfoot><tr valign=\"top\"><td align=\"left\"><paragraph styleCode=\"footnote\">This Patient Information has been approved by the U.S. Food and Drug Administration</paragraph></td><td><paragraph styleCode=\"footnote\">Revised: 03/2026</paragraph></td></tr></tfoot><tbody><tr valign=\"top\"><td styleCode=\"Toprule Botrule Lrule Rrule\" colspan=\"2\" align=\"center\"><content styleCode=\"bold\">PATIENT INFORMATION</content> VASCEPA<sup>&#xAE;</sup> (vas-EE-puh) (icosapent ethyl)  capsules </td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">What is VASCEPA?</content> VASCEPA is a prescription medicine used: <list listType=\"unordered\" styleCode=\"Disc\"><item>along with certain medicines (statins) to reduce the risk of heart attack, stroke, and certain types of heart issues requiring hospitalization in adults with heart (cardiovascular) disease, or diabetes and 2 or more additional risk factors for heart disease.</item><item>along with a low-fat and low-cholesterol diet to lower high levels of triglycerides (fats) in adults.</item></list> It is not known if VASCEPA changes your risk of having inflammation of your pancreas (pancreatitis).  It is not known if VASCEPA is safe and effective in children. </td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Do not take VASCEPA if you</content> are allergic to icosapent ethyl or any of the ingredients in VASCEPA. See the end of this leaflet for a complete list of ingredients in VASCEPA. </td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">Before taking VASCEPA, tell your doctor about all of your medical conditions, including if you:</content><list listType=\"unordered\" styleCode=\"Disc\"><item>have diabetes.</item><item>have a low thyroid problem (hypothyroidism).</item><item>have a liver problem.</item><item>have a pancreas problem.</item><item>are allergic to fish or shellfish. It is not known if people who are allergic to fish or shellfish are also allergic to VASCEPA.</item><item>are pregnant, or planning to become pregnant. It is not known if VASCEPA will harm your unborn baby.</item><item>are breastfeeding or plan to breastfeed. VASCEPA can pass into your breast milk, and may harm your baby. Talk to your doctor about the best way to feed your baby if you take VASCEPA.</item></list> Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and dietary or herbal supplements.  VASCEPA can interact with certain other medicines that you are taking.  Especially tell your doctor if you take medicines that affect your blood clotting (anticoagulants or blood thinners). </td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">How should I take VASCEPA?</content><list listType=\"unordered\" styleCode=\"Disc\"><item>Take VASCEPA exactly as your doctor tells you to take it.</item><item>Do not change your dose or stop taking VASCEPA without talking to your doctor.</item><item>Do not take more capsules than what is prescribed by your doctor. <list listType=\"unordered\" styleCode=\"Disc\"><item>If you are prescribed the 0.5-gram capsules, you should not take more than 8 capsules each day with food.</item><item>If you are prescribed the 1-gram capsules, you should not take more than 4 capsules each day with food.</item></list></item><item>Take VASCEPA capsules whole. Do not break, crush, dissolve, or chew VASCEPA capsules before swallowing.</item><item>If you miss a dose of VASCEPA, take it as soon as you remember. However, if you miss one day of VASCEPA, do not double your dose when you take it.</item><item>Your doctor may start you on a diet that is low in saturated fat, cholesterol, carbohydrates, and low in added sugars before giving you VASCEPA. Stay on this diet while taking VASCEPA.</item><item>Your doctor may do blood tests to check your triglyceride and other lipid levels while you take VASCEPA.</item></list></td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">What are the possible side effects of VASCEPA?</content> <content styleCode=\"bold\">VASCEPA may cause serious side effects, including:</content><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">Heart rhythm problems (atrial fibrillation and atrial flutter).</content> Heart rhythm problems which can be serious and cause hospitalization have happened in people who take VASCEPA, especially in people who have heart (cardiovascular) disease or diabetes with a risk factor for heart (cardiovascular) disease, or who have had heart rhythm problems in the past. Tell your doctor if you get any symptoms of heart rhythm problems such as feeling as if your heart is beating fast and irregular, lightheadedness, dizziness, shortness of breath, chest discomfort, or you faint.</item><item><content styleCode=\"bold\">Possible allergic reactions if you are allergic to fish or shellfish.</content> Stop taking VASCEPA and tell your doctor right away or get emergency medical help if you have any signs or symptoms of an allergic reaction.</item><item><content styleCode=\"bold\">Bleeding.</content> Serious bleeding can happen in people who take VASCEPA. Your risk of bleeding may increase if you are also taking a blood thinner medicine.</item></list> If you have liver problems and are taking VASCEPA, your doctor should do blood tests during treatment.  The most common side effects of VASCEPA include: <list listType=\"unordered\" styleCode=\"Disc\"><item>Muscle and joint pain.</item><item>Swelling of the hands, legs, or feet.</item><item>Constipation</item><item>Gout</item><item>Heart rhythm problems (atrial fibrillation).</item></list> These are not all the possible side effects of VASCEPA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. </td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">How should I store VASCEPA? </content><list listType=\"unordered\" styleCode=\"Disc\"><item>Store VASCEPA at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C).</item><item>Safely throw away medicine that is out of date or no longer needed. </item></list><content styleCode=\"bold\">Keep VASCEPA and all medicine out of the reach of children.</content></td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">General information about the safe and effective use of VASCEPA.</content> Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use VASCEPA for a condition for which it was not prescribed. Do not give VASCEPA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about VASCEPA that is written for health professionals. </td></tr><tr valign=\"top\"><td styleCode=\"Botrule Lrule Rrule\" colspan=\"2\"><content styleCode=\"bold\">What are the ingredients in VASCEPA?</content> <content styleCode=\"bold\">Active ingredient:</content> icosapent ethyl  <content styleCode=\"bold\">Inactive ingredients:</content> tocopherol, gelatin, glycerin, maltitol, sorbitol, and purified water <paragraph styleCode=\"footnote\">VASCEPA is a registered trademark of the Amarin group of companies.</paragraph><paragraph styleCode=\"footnote\">&#xA9;2026 Amarin Pharma, Inc. Bridgewater NJ, 08807 All rights reserved</paragraph><paragraph styleCode=\"footnote\">PP00120Q</paragraph><paragraph styleCode=\"footnote\">Distributed by: Amarin Pharma Inc. Bridgewater, NJ, USA</paragraph><paragraph styleCode=\"footnote\">Manufactured for: Amarin Pharmaceuticals Ireland Limited Dublin, Ireland +1-855-VASCEPA (+1-855-827-2372) <linkHtml href=\"https://www.vascepa.com\">www.vascepa.com</linkHtml></paragraph><paragraph styleCode=\"footnote\">For more information, go to <linkHtml href=\"https://www.vascepa.com\">www.vascepa.com</linkHtml> or call 1-855-VASCEPA (1-855-827-2372).</paragraph></td></tr></tbody></table>"
+  ],
+  "set_id": "9c1a2828-1583-4414-ab22-a60480e8e508",
+  "id": "86b35fe3-d1cf-478e-849b-2ea0c87bda33",
+  "effective_time": "20260323",
+  "version": "21"
+ }
+}

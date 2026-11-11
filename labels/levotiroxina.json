@@ -1,0 +1,763 @@
+{
+ "id_es": "levotiroxina",
+ "generic_en": "levothyroxine",
+ "search": "openfda.generic_name:\"levothyroxine\"",
+ "downloaded": "2026-11-11T06:43Z",
+ "chosen": {
+  "set_id": "3519c765-2077-4f23-8644-a6242ddbf743",
+  "id": "cbb13358-54ac-4b7e-81dd-f188bc96174a",
+  "effective_time": "20260521",
+  "version": "7",
+  "brand_name": [
+   "levothyroxine sodium"
+  ],
+  "generic_name": [
+   "LEVOTHYROXINE SODIUM"
+  ],
+  "manufacturer_name": [
+   "Preferred Pharmaceuticals, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA021116"
+  ],
+  "n_sections": 37
+ },
+ "candidates": [
+  {
+   "set_id": "3b282e57-1009-4d2c-8ca2-9cca9f791937",
+   "id": "569db4ba-0027-491c-839e-4c52023fe7cb",
+   "effective_time": "20261105",
+   "version": "104",
+   "brand_name": [
+    "levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021116"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "48c29432-a36c-4787-a05f-8d25a0abcc37",
+   "id": "2fa737f4-5955-457a-8fe0-c3f2eaaa433e",
+   "effective_time": "20261104",
+   "version": "101",
+   "brand_name": [
+    "levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021116"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "0fa2e2f5-401b-45c1-b6a5-d02f6faf509d",
+   "id": "5ed7a631-cb2d-4014-e063-6294a90a8d47",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "Levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212399"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "3e77de84-6f59-40ac-a1a4-7bfe30387823",
+   "id": "43867042-3f37-46c2-b3ec-b5f140fea53d",
+   "effective_time": "20261027",
+   "version": "9",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209713"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "40fa228f-9bfc-fc71-e063-6394a90a9ab6",
+   "id": "5d0d4fc4-029b-5713-e063-6294a90ab177",
+   "effective_time": "20261004",
+   "version": "2",
+   "brand_name": [
+    "EvexiTHROID"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE AND LIOTHYRONINE"
+   ],
+   "manufacturer_name": [
+    "Trifluent Pharma, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 28
+  },
+  {
+   "set_id": "1a2124e6-aea2-40dd-bb8d-52c58405a67e",
+   "id": "1a2124e6-aea2-40dd-bb8d-52c58405a67e",
+   "effective_time": "20261001",
+   "version": "1",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209713"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "48a366d8-f5ac-47b0-84e3-f88251def70c",
+   "id": "eaa08ef3-9230-4a3d-b00f-7e5a7e9b7fda",
+   "effective_time": "20260928",
+   "version": "1",
+   "brand_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211417"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "01d2c8c9-db54-4002-8f79-4ec396531024",
+   "id": "279ef03b-db79-41c1-a9ff-6fafbe1f4e06",
+   "effective_time": "20260918",
+   "version": "1",
+   "brand_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211417"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "255ad500-6656-4cd0-b4d1-10cc22f9e61b",
+   "id": "bc5fcdac-5409-423b-95ae-0f300c6700c6",
+   "effective_time": "20260918",
+   "version": "1",
+   "brand_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211417"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "31a31756-68aa-4e01-bbb1-9d181f8d9181",
+   "id": "e9729020-968f-4a8d-8e21-1a24e06b5816",
+   "effective_time": "20260918",
+   "version": "9",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209713"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "0266d5d9-edb3-4d0d-ab24-5d1d65f7e501",
+   "id": "da7de015-49ae-46a7-8aee-6e7baae59b13",
+   "effective_time": "20260916",
+   "version": "1",
+   "brand_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211417"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "1cacd07a-6fcc-4cdb-aee8-7a62493eb579",
+   "id": "8a8c93a6-d963-4c6d-8502-6f502cb5ab8e",
+   "effective_time": "20260916",
+   "version": "1",
+   "brand_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211417"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "2622a029-5f4f-4675-9e3d-66e7aa12ce9d",
+   "id": "df26a53f-b5b0-45ff-ab4b-586617d184c1",
+   "effective_time": "20260916",
+   "version": "1",
+   "brand_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211417"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "4ddcaec1-a58f-340b-9bc1-bbe048b8c885",
+   "id": "3b8c38aa-ac99-1c0d-42f3-4fe8881125dc",
+   "effective_time": "20260915",
+   "version": "10",
+   "brand_name": [
+    "levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Alvogen, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021116"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "4c903249-69e9-4168-a9d1-22e6c2c1eb22",
+   "id": "5b21fe77-f5e0-98fa-e063-6394a90afc8a",
+   "effective_time": "20260910",
+   "version": "3",
+   "brand_name": [
+    "Levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212399"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "13e03769-9a4f-497f-9afa-95bf525090b3",
+   "id": "5b11fd33-dcf3-f297-e063-6394a90a3145",
+   "effective_time": "20260909",
+   "version": "3",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209713"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "4e9adc35-3aba-4a0d-9c4e-7e7ee2ffdabd",
+   "id": "64cd56c8-2ecd-41d4-a04a-e98b3e3ca0c4",
+   "effective_time": "20260805",
+   "version": "5",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM ANHYDROUS"
+   ],
+   "manufacturer_name": [
+    "MAIA Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA208749"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "489ffba8-983e-478f-8f62-fe08bf3d0e0b",
+   "id": "48a8b3aa-25bc-4768-ad9f-88baf4af001d",
+   "effective_time": "20260623",
+   "version": "102",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021342"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "3519c765-2077-4f23-8644-a6242ddbf743",
+   "id": "cbb13358-54ac-4b7e-81dd-f188bc96174a",
+   "effective_time": "20260521",
+   "version": "7",
+   "brand_name": [
+    "levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021116"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "4f40db1e-3dd9-4c7b-93e6-64f0fd10d551",
+   "id": "60280f3f-4902-4fce-9546-f404ddce9806",
+   "effective_time": "20260521",
+   "version": "7",
+   "brand_name": [
+    "Levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212399"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "50978a14-fd72-4c76-927f-667a1f097b87",
+   "id": "7cbe1802-857f-49dd-b953-d4ddc692b5de",
+   "effective_time": "20260521",
+   "version": "102",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021342"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "0cffbc96-7a02-4538-9966-b69249be6eb2",
+   "id": "ef2595cf-50d8-499a-aa16-7e7e19b56ce1",
+   "effective_time": "20260519",
+   "version": "6",
+   "brand_name": [
+    "Levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212399"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "231fcdf8-c642-4074-8be8-53ee9c918f18",
+   "id": "9f4d3245-f125-40ff-892f-a5c5ef2cd3ec",
+   "effective_time": "20260515",
+   "version": "105",
+   "brand_name": [
+    "Levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212399"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "251e65e0-6925-4984-9df9-d6d7c6d0703c",
+   "id": "abe1dccb-d262-4b86-9f8a-b772622df565",
+   "effective_time": "20260515",
+   "version": "105",
+   "brand_name": [
+    "Levothyroxine sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212399"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "3142571d-f253-45e7-adc1-6ca80d34cab1",
+   "id": "cdf8296d-c313-469d-bdb5-3dcea644ea5d",
+   "effective_time": "20260515",
+   "version": "103",
+   "brand_name": [
+    "Levothyroxine Sodium"
+   ],
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021342"
+   ],
+   "n_sections": 35
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Indications and Usage () 11/2023 Dosage and Administration ( 2.2 , 2.3 ) 11/2023 Warnings and Precautions ( 5.1 , 5.4 ) 11/2023"
+  ],
+  "recent_major_changes_table": [
+   "<table width=\"100%\"><col width=\"50%\"/><col width=\"50%\"/><tbody><tr><td valign=\"top\"><paragraph>Indications and Usage ()</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>11/2023</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Dosage and Administration (<linkHtml href=\"#S2.2\">2.2</linkHtml>, <linkHtml href=\"#S2_3\">2.3</linkHtml>)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>11/2023</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Warnings and Precautions (<linkHtml href=\"#s5_1\">5.1</linkHtml>, <linkHtml href=\"#S5_4\">5.4</linkHtml>)</paragraph></td><td align=\"center\" valign=\"top\"><paragraph>11/2023</paragraph></td></tr></tbody></table>"
+  ],
+  "boxed_warning": [
+   "WARNING: NOT FOR TREATMENT OF OBESITY OR FOR WEIGHT LOSS Thyroid hormones, including Levothyroxine Sodium Tablets, either alone or with other therapeutic agents, should not be used for the treatment of obesity or for weight loss. In euthyroid patients, doses within the range of daily hormonal requirements are ineffective for weight reduction. Larger doses may produce serious or even life threatening manifestations of toxicity, particularly when given in association with sympathomimetic amines such as those used for their anorectic effects [see Adverse Reactions ( ) , Drug Interactions ( 7.7 ) , and Overdosage ( 10 )] . WARNING: NOT FOR TREATMENT OF OBESITY OR FOR WEIGHT LOSS See full prescribing information for complete boxed warning • Thyroid hormones, including Levothyroxine Sodium Tablets should not be used for the treatment of obesity or for weight loss. • Doses beyond the range of daily hormonal requirements may produce serious or even life threatening manifestations of toxicity ( , 10 )."
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Hypothyroidism Levothyroxine Sodium Tablets are indicated in adult and pediatric patients, including neonates, as a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism. Pituitary Thyrotropin (Thyroid-Stimulating Hormone, TSH) Suppression Levothyroxine Sodium Tablets are indicated in adult and pediatric patients, including neonates, as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer. Limitations of Use • Levothyroxine Sodium Tablets are not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with Levothyroxine Sodium Tablets may induce hyperthyroidism [see Warnings and Precautions ( 5.1 )] . • Levothyroxine Sodium Tablets are not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis. Levothyroxine Sodium Tablets are L-thyroxine (T4) indicated in adult and pediatric patients, including neonates, for: • Hypothyroidism: As replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism. () • Pituitary Thyrotropin (Thyroid-Stimulating Hormone, TSH) Suppression: As an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer. () Limitations of Use • Not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients • Not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • Administer once daily, preferably on an empty stomach, one-half to one hour before breakfast. ( 2.1 ) • Administer at least 4 hours before or after drugs that are known to interfere with absorption. ( 2.1 ) • Evaluate the need for dose adjustments when regularly administering within one hour of certain foods that may affect absorption. ( 2.1 ) • Starting dose depends on a variety of factors, including age, body weight, cardiovascular status, and concomitant medications. Peak therapeutic effect may not be attained for 4-6 weeks. ( 2.2 ) • See full prescribing information for dosing in specific patient populations. ( 2.3 ) • Adequacy of therapy determined with periodic monitoring of TSH and/or T4 as well as clinical status. ( 2.4 ) 2.1 Important Administration Instructions Administer Levothyroxine Sodium Tablets as a single daily dose, on an empty stomach, one-half to one hour before breakfast. Administer Levothyroxine Sodium Tablets at least 4 hours before or after drugs known to interfere with Levothyroxine Sodium Tablets absorption [see Drug Interactions ( 7.1 )] . Evaluate the need for dosage adjustments when regularly administering within one hour of certain foods that may affect Levothyroxine Sodium Tablets absorption [see Dosage and Administration ( 2.2 and 2.3 ), Drug Interactions ( 7.9 ) and Clinical Pharmacology ( 12.3 )] . Administer Levothyroxine Sodium Tablets to pediatric patients who cannot swallow intact tablets by crushing the tablet, suspending the freshly crushed tablet in a small amount (5 to 10 mL) of water and immediately administering the suspension by spoon or dropper. Ensure the patient ingests the full amount of the suspension. Do not store the suspension. Do not administer in foods that decrease absorption of Levothyroxine Sodium Tablets, such as soybean-based infant formula [see Drug Interactions ( 7.9 )] . 2.2 Important Considerations for Dosing The dosage of Levothyroxine Sodium Tablets for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, co-administered food and the specific nature of the condition being treated [see Dosage and Administration ( 2.3 ), Warnings and Precautions ( 5 ), and Drug Interactions ( )] . Dosing must be individualized to account for these factors and dosage adjustments made based on periodic assessment of the patient's clinical response and laboratory parameters [see Dosage and Administration ( 2.4 )] . For adult patients with primary hypothyroidism, titrate until the patient is clinically euthyroid and the serum TSH returns to normal [see Dosage and Administration ( 2.3 )] . For secondary or tertiary hypothyroidism, serum TSH is not a reliable measure of Levothyroxine Sodium Tablets dosage adequacy and should not be used to monitor therapy. Use the serum free-T4 level to titrate Levothyroxine Sodium Tablets dosing until the patient is clinically euthyroid and the serum free-T4 level is restored to the upper half of the normal range [see Dosage and Administration ( 2.3 )] . The peak therapeutic effect of a given dose of Levothyroxine Sodium Tablets may not be attained for 4 to 6 weeks. 2.3 Recommended Dosage and Titration Primary, Secondary, and Tertiary Hypothyroidism in Adults The recommended starting daily dosage of Levothyroxine Sodium Tablets in adults with primary, secondary, or tertiary hypothyroidism is based on age and comorbid cardiac conditions, as described in Table 1. For patients at risk of atrial fibrillation or patients with underlying cardiac disease, start with a lower dosage and titrate the dosage more slowly to avoid exacerbation of cardiac symptoms. Dosage titration is based on serum TSH or free-T4 [see Dosage and Administration ( 2.2 )] . Table 1. Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Adults* Patient Population Starting Dosage Dosage Titration Based on Serum TSH or Free-T4 Adults diagnosed with hypothyroidism Full replacement dose is 1.6 mcg/kg/day. Some patients require a lower starting dose. Titrate dosage by 12.5 to 25 mcg increments every 4 to 6 weeks, as needed until the patient is euthyroid. Adults at risk for atrial fibrillation or with underlying cardiac disease Lower starting dose (less than 1.6 mcg/kg/day) Titrate dosage every 6 to 8 weeks, as needed until the patient is euthyroid. Geriatric patients Lower starting dose (less than 1.6 mcg/kg/day) *Dosages greater than 200 mcg/day are seldom required. An inadequate response to daily dosages greater than 300 mcg/day is rare and may indicate poor compliance, malabsorption, drug interactions, or a combination of these factors [see Dosage and Administration ( 2.1 ) and Drug Interactions ( )] . Primary, Secondary, and Tertiary Hypothyroidism in Pediatric Patients The recommended starting daily dosage of Levothyroxine Sodium Tablets in pediatric patients with primary, secondary, or tertiary hypothyroidism is based on body weight and changes with age as described in Table 2. Titrate the dosage (every 2 weeks) as needed based on serum TSH or free-T4 until the patient is euthyroid [see Dosage and Administration ( 2.2 )] . Table 2. Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Pediatric Patients Age Starting Daily Dosage Per Kg Body Weight * 0-3 months 10-15 mcg/kg/day 3-6 months 8-10 mcg/kg/day 6-12 months 6-8 mcg/kg/day 1-5 years 5-6 mcg/kg/day 6-12 years 4-5 mcg/kg/day Greater than 12 years but growth and puberty incomplete 2-3 mcg/kg/day Growth and puberty complete 1.6 mcg/kg/day *Adjust dosage based on clinical response and laboratory parameters [see Dosage and Administration ( 2.4 ) and Use in Specific Populations ( 8.4 )] . Pediatric Patients from Birth to 3 Months of Age at Risk for Cardiac Failure Start at a lower starting dosage and increase the dosage every 4 to 6 weeks as needed based on clinical and laboratory response. Pediatric Patients at Risk for Hyperactivity To minimize the risk of hyperactivity, start at one-fourth the recommended full replacement dosage, and increase on a weekly basis by one-fourth the full recommended replacement dosage until the full recommended replacement dosage is reached. Hypothyroidism in Pregnant Patients For pregnant patients with pre-existing hypothyroidism, measure serum TSH and free-T4 as soon as pregnancy is confirmed and, at minimum, during each trimester of pregnancy. In pregnant patients with primary hypothyroidism, maintain serum TSH in the trimester-specific reference range. The recommended daily dosage of Levothyroxine Sodium Tablets in pregnant patients is described in Table 3. Table 3. Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Pregnant Patients Patient Population Starting Dosage Dose Adjustment and Titration Pre-existing primary hypothyroidism with serum TSH above normal trimester-specific range Pre-pregnancy dosage may increase during pregnancy Increase Levothyroxine Sodium Tablets dosage by 12.5 to 25 mcg per day. Monitor TSH every 4 weeks until a stable dose is reached and serum TSH is within normal trimester-specific range. Reduce Levothyroxine Sodium Tablets dosage to pre-pregnancy levels immediately after delivery. Monitor serum TSH 4 to 8 weeks postpartum. New onset hypothyroidism (TSH ≥ 10 mIU per liter) 1.6 mcg/kg/day Monitor serum TSH every 4 weeks and adjust Levothyroxine Sodium Tablets dosage until serum TSH is within normal trimester-specific range. New onset hypothyroidism (TSH < 10 mIU per liter) 1.0 mcg/kg/day TSH Suppression in Well-differentiated Thyroid Cancer in Adult and Pediatric Patients The Levothyroxine Sodium Tablets dosage is based on the target level of TSH suppression for the stage and clinical status of thyroid cancer. 2.4 Monitoring TSH and/or Thyroxine (T4) Levels Assess the adequacy of therapy by periodic assessment of laboratory tests and clinical evaluation. Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of Levothyroxine Sodium Tablets may be evidence of inadequate absorption, poor compliance, drug interactions, or a combination of these factors. Adults In adult patients with primary hypothyroidism, monitor serum TSH levels after an interval of 6 to 8 weeks after any change in dosage. In patients on a stable and appropriate replacement dosage, evaluate clinical and biochemical response every 6 to 12 months and whenever there is a change in the patient’s clinical status. Pediatric Patients In patients with congenital hypothyroidism, assess the adequacy of replacement therapy by measuring both serum TSH and total or free-T4. Monitor TSH and total or free-T4 in pediatric patients as follows: 2 and 4 weeks after the initiation of treatment, 2 weeks after any change in dosage, and then every 3 to 12 months thereafter following dosage stabilization until growth is completed. Poor compliance or abnormal values may necessitate more frequent monitoring. Perform routine clinical examination, including assessment of development, mental and physical growth, and bone maturation, at regular intervals. The general aim of therapy is to normalize the serum TSH level, TSH may not normalize in some patients due to in utero hypothyroidism causing a resetting of pituitary-thyroid feedback. Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of Levothyroxine Sodium Tablets therapy and/or of the serum TSH to decrease below 20 units per liter within 4 weeks may indicate the patient is not receiving adequate therapy. Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of Levothyroxine Sodium Tablets [see Warnings and Precautions ( 5.1 ) and Use in Specific Populations ( 8.4 )] . Secondary and Tertiary Hypothyroidism Monitor serum free-T4 levels and maintain in the upper half of the normal range in these patients."
+  ],
+  "dosage_and_administration_table": [
+   "<table ID=\"_RefID0ETTBG\" cellpadding=\"0.5pt\" width=\"100%\"><caption>Table 1. Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Adults*</caption><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Patient Population</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Starting Dosage</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Dosage Titration Based on Serum TSH or Free-T4</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Adults diagnosed with hypothyroidism </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Full replacement dose is 1.6 mcg/kg/day. Some patients require a lower starting dose. </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Titrate dosage by 12.5 to 25 mcg increments every 4 to 6 weeks, as needed until the patient is euthyroid. </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Adults at risk for atrial fibrillation or with underlying cardiac disease </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Lower starting dose (less than 1.6 mcg/kg/day) </paragraph></td><td rowspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Titrate dosage every 6 to 8 weeks, as needed until the patient is euthyroid. </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Geriatric patients </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Lower starting dose (less than 1.6 mcg/kg/day) </paragraph></td></tr><tr><td colspan=\"3\" styleCode=\"Botrule \" valign=\"top\"><paragraph>*Dosages greater than 200 mcg/day are seldom required. An inadequate response to daily dosages greater than 300 mcg/day is rare and may indicate poor compliance, malabsorption, drug interactions, or a combination of these factors <content styleCode=\"italics\">[see Dosage and Administration (<linkHtml href=\"#S2.1\">2.1</linkHtml>) and Drug Interactions (</content><content styleCode=\"italics\">)]</content>. </paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID0E6WBG\" cellpadding=\"0.5pt\" width=\"100%\"><caption>Table 2. Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Pediatric Patients</caption><col width=\"50%\"/><col width=\"50%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> <content styleCode=\"bold\">Age</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> <content styleCode=\"bold\">Starting Daily Dosage Per Kg Body Weight<sup>*</sup></content></paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 0-3 months </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 10-15 mcg/kg/day </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 3-6 months </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 8-10 mcg/kg/day </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 6-12 months </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 6-8 mcg/kg/day </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 1-5 years </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 5-6 mcg/kg/day </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 6-12 years </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 4-5 mcg/kg/day </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> Greater than 12 years but growth and puberty incomplete </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 2-3 mcg/kg/day </paragraph></td></tr><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> Growth and puberty complete </paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 1.6 mcg/kg/day </paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Botrule \" valign=\"top\"><paragraph>*Adjust dosage based on clinical response and laboratory parameters <content styleCode=\"italics\">[see Dosage and Administration (<linkHtml href=\"#S2.4\">2.4</linkHtml>) and Use in Specific Populations (<linkHtml href=\"#S8.4\">8.4</linkHtml>)]</content>. </paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID0EC3BG\" width=\"100%\"><caption>Table 3. Levothyroxine Sodium Tablets Dosing Guidelines for Hypothyroidism in Pregnant Patients</caption><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> <content styleCode=\"bold\">Patient Population</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> <content styleCode=\"bold\">Starting Dosage</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> <content styleCode=\"bold\">Dose Adjustment and Titration</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Pre-existing primary hypothyroidism with serum TSH above normal trimester-specific range </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Pre-pregnancy dosage may increase during pregnancy </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Increase Levothyroxine Sodium Tablets dosage by 12.5 to 25 mcg per day. Monitor TSH every 4 weeks until a stable dose is reached and serum TSH is within normal trimester-specific range.  Reduce Levothyroxine Sodium Tablets dosage to pre-pregnancy levels immediately after delivery. Monitor serum TSH 4 to 8 weeks postpartum. </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> New onset hypothyroidism (TSH &#x2265; 10 mIU per liter) </paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph> 1.6 mcg/kg/day </paragraph></td><td rowspan=\"2\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Monitor serum TSH every 4 weeks and adjust Levothyroxine Sodium Tablets dosage until serum TSH is within normal trimester-specific range. </paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> New onset hypothyroidism (TSH &lt; 10 mIU per liter) </paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph> 1.0 mcg/kg/day </paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Levothyroxine Sodium Tablets, in the shape of caplet, are available as follows (Table 4): Table 4. Levothyroxine Sodium Tablets Tablet Strengths and Identifying Features Tablet Strength Tablet Color Tablet Markings 25 mcg Orange \"T|4\" and \"25\" 50 mcg White \"T|4\" and \"50\" 75 mcg Violet \"T|4\" and \"75\" 88 mcg Mint Green \"T|4\" and \"88\" 100 mcg Yellow \"T|4\" and \"100\" 112 mcg Rose \"T|4\" and \"112\" 125 mcg Brown \"T|4\" and \"125\" 137 mcg Deep Blue \"T|4\" and \"137\" 150 mcg Light Blue \"T|4\" and \"150\" 175 mcg Lilac \"T|4\" and \"175\" 200 mcg Pink \"T|4\" and \"200\" 300 mcg Green \"T|4\" and \"300\" Tablets: 25, 50, 75, 88, 100, 112, 125, 137, 150, 175, 200, and 300 mcg ()"
+  ],
+  "dosage_forms_and_strengths_table": [
+   "<table ID=\"_RefID0EPAAI\" width=\"60%\"><caption>Table 4. Levothyroxine Sodium Tablets Tablet Strengths and Identifying Features</caption><col width=\"19%\"/><col width=\"29%\"/><col width=\"22%\"/><thead><tr><th align=\"left\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Tablet Strength</content></th><th align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Tablet Color</content></th><th align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Tablet Markings</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>25 mcg</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>Orange</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;25&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>50 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>White</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;50&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>75 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Violet</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;75&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>88 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Mint Green</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;88&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>100 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Yellow</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;100&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>112 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Rose</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;112&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>125 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Brown</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;125&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>137 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Deep Blue</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;137&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>150 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Light Blue</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;150&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>175 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Lilac</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;175&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>200 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Pink</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;200&quot;</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>300 mcg</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Green</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;300&quot;</paragraph></td></tr></tbody></table>"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Levothyroxine Sodium Tablets are contraindicated in patients with uncorrected adrenal insufficiency [see Warnings and Precautions (5.4)] . • Uncorrected adrenal insufficiency ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Serious risks related to overtreatment or undertreatment with Levothyroxine Sodium Tablets: Titrate the dose of Levothyroxine Sodium Tablets carefully and monitor response to titration. ( 5.1 ) • Cardiac adverse reactions in the elderly and in patients with underlying cardiovascular disease: Initiate Levothyroxine Sodium Tablets at less than the full replacement dose because of the increased risk of cardiac adverse reactions, including atrial fibrillation. ( 2.3 , 5.2 , 8.5 ) • Myxedema coma: Do not use oral thyroid hormone drug products to treat myxedema coma. ( 5.3 ) • Acute adrenal crisis in patients with concomitant adrenal insufficiency: Treat with replacement glucocorticoids prior to initiation of Levothyroxine Sodium Tablets treatment. ( 5.4 ) • Worsening of diabetic control: Therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements. Carefully monitor glycemic control after starting, changing, or discontinuing thyroid hormone therapy. ( 5.5 ) • Decreased bone mineral density associated with thyroid hormone over-replacement: Over-replacement can increase bone resorption and decrease bone mineral density. Give the lowest effective dose. ( 5.6 ) 5.1 Serious Risks Related to Overtreatment or Undertreatment with Levothyroxine Sodium Tablets Levothyroxine Sodium Tablets have a narrow therapeutic index. Overtreatment or undertreatment with Levothyroxine Sodium Tablets may have negative effects on growth and development, cardiovascular function, bone metabolism, reproductive function, cognitive function, gastrointestinal function, and glucose and lipid metabolism in adult or pediatric patients. In pediatric patients with congenital and acquired hypothyroidism, undertreatment may adversely affect cognitive development and linear growth, and overtreatment is associated with craniosynostosis and acceleration of bone age [see Use in Specific Populations ( 8.4 )] . Titrate the dose of Levothyroxine Sodium Tablets carefully and monitor response to titration to avoid these effects [see Dosage and Administration ( 2.4 )] . Consider the potential for food or drug interactions and adjust the administration or dosage of Levothyroxine Sodium Tablets as needed [see Dosage and Administration ( 2.1 ), Drug Interactions ( 7.1 , 7.9 ), and Clinical Pharmacology ( 12.3 )] . 5.2 Cardiac Adverse Reactions in the Elderly and in Patients with Underlying Cardiovascular Disease Overtreatment with levothyroxine may cause an increase in heart rate, cardiac wall thickness, and cardiac contractility and may precipitate angina or arrhythmias, particularly in patients with cardiovascular disease and in elderly patients. Initiate Levothyroxine Sodium Tablets therapy in this population at lower doses than those recommended in younger individuals or in patients without cardiac disease [see Dosage and Administration ( 2.3 ) and Use in Specific Populations ( 8.5 )] . Monitor for cardiac arrhythmias during surgical procedures in patients with coronary artery disease receiving suppressive Levothyroxine Sodium Tablets therapy. Monitor patients receiving concomitant Levothyroxine Sodium Tablets and sympathomimetic agents for signs and symptoms of coronary insufficiency. If cardiac symptoms develop or worsen, reduce the Levothyroxine Sodium Tablets dose or withhold for one week and restart at a lower dose. 5.3 Myxedema Coma Myxedema coma is a life-threatening emergency characterized by poor circulation and hypometabolism, and may result in unpredictable absorption of levothyroxine sodium from the gastrointestinal tract. Use of oral thyroid hormone drug products is not recommended to treat myxedema coma. Administer thyroid hormone products formulated for intravenous administration to treat myxedema coma. 5.4 Acute Adrenal Crisis in Patients with Concomitant Adrenal Insufficiency Thyroid hormone increases metabolic clearance of glucocorticoids. Initiation of thyroid hormone therapy prior to initiating glucocorticoid therapy may precipitate an acute adrenal crisis in patients with adrenal insufficiency. Treat patients with adrenal insufficiency with replacement glucocorticoids prior to initiating treatment with Levothyroxine Sodium Tablets [see Contraindications ( 4 )]. 5.5 Worsening of Diabetic Control Addition of levothyroxine therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements. Carefully monitor glycemic control after starting, changing, or discontinuing Levothyroxine Sodium Tablets [see Drug Interactions ( 7.2 )] . 5.6 Decreased Bone Mineral Density Associated with Thyroid Hormone Over-Replacement Increased bone resorption and decreased bone mineral density may occur as a result of levothyroxine over-replacement, particularly in post-menopausal women. The increased bone resorption may be associated with increased serum levels and urinary excretion of calcium and phosphorous, elevations in bone alkaline phosphatase, and suppressed serum parathyroid hormone levels. Administer the minimum dose of Levothyroxine Sodium Tablets that achieves the desired clinical and biochemical response to mitigate this risk."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Adverse reactions associated with Levothyroxine Sodium Tablets therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions ( 5 ) and Overdosage ( 10 )] . They include the following: • General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating • Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia • Musculoskeletal: tremors, muscle weakness, muscle spasm • Cardiovascular: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest • Respiratory: dyspnea • Gastrointestinal: diarrhea, vomiting, abdominal cramps, elevations in liver function tests • Dermatologic: hair loss, flushing, rash • Endocrine: decreased bone mineral density • Reproductive: menstrual irregularities, impaired fertility Seizures have been reported rarely with the institution of levothyroxine therapy. Adverse Reactions in Pediatric Patients Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in pediatric patients receiving levothyroxine therapy. Overtreatment may result in craniosynostosis in infants who have not undergone complete closure of the fontanelles, and in premature closure of the epiphyses in pediatric patients still experiencing growth with resultant compromised adult height. Hypersensitivity Reactions Hypersensitivity reactions to inactive ingredients have occurred in patients treated with thyroid hormone products. These include urticaria, pruritus, skin rash, flushing, angioedema, various gastrointestinal symptoms (abdominal pain, nausea, vomiting and diarrhea), fever, arthralgia, serum sickness, and wheezing. Hypersensitivity to levothyroxine itself is not known to occur. Adverse reactions associated with Levothyroxine Sodium Tablets therapy are primarily those of hyperthyroidism due to therapeutic overdosage: arrhythmias, myocardial infarction, dyspnea, muscle spasm, headache, nervousness, irritability, insomnia, tremors, muscle weakness, increased appetite, weight loss, diarrhea, heat intolerance, menstrual irregularities, and skin rash. () To report SUSPECTED ADVERSE REACTIONS, contact Alvogen, Inc. at 1-866-770-3024 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS See full prescribing information for drugs that affect thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to Levothyroxine Sodium Tablets. () 7.1 Drugs Known to Affect Thyroid Hormone Pharmacokinetics Many drugs can exert effects on thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to Levothyroxine Sodium Tablets (Tables 5 to 8). Table 5. Drugs That May Decrease T4 Absorption (Hypothyroidism) Potential impact: Concurrent use may reduce the efficacy of Levothyroxine Sodium Tablets by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. Drug or Drug Class Effect Phosphate Binders (e.g., calcium carbonate, ferrous sulfate, sevelamer, lanthanum) Phosphate binders may bind to levothyroxine. Administer Levothyroxine Sodium Tablets at least 4 hours apart from these agents. Orlistat Monitor patients treated concomitantly with orlistat and Levothyroxine Sodium Tablets for changes in thyroid function. Bile Acid Sequestrants (e.g., colesevelam, cholestyramine, colestipol) Ion Exchange Resins (e.g., Kayexalate) Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer Levothyroxine Sodium Tablets at least 4 hours prior to these drugs or monitor TSH levels. Proton Pump Inhibitors Sucralfate Antacids (e.g., aluminum & magnesium hydroxides, simethicone) Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately. Table 6. Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affecting Free Thyroxine (FT4) Concentration (Euthyroidism) Drug or Drug Class Effect Clofibrate Estrogen-containing oral contraceptives Estrogens (oral) Heroin / Methadone 5-Fluorouracil Mitotane Tamoxifen These drugs may increase serum thyroxine-binding globulin (TBG) concentration. Androgens / Anabolic Steroids Asparaginase Glucocorticoids Slow-Release Nicotinic Acid These drugs may decrease serum TBG concentration. Potential impact (below): Administration of these agents with Levothyroxine Sodium Tablets results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations. Salicylates (greater than 2 g/day) Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%. Other drugs: Carbamazepine Furosemide (greater than 80 mg IV) Heparin Hydantoins Non-Steroidal Anti-inflammatory Drugs - Fenamates These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increase free T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. Closely monitor thyroid hormone parameters. Table 7. Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism) Potential impact: Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased Levothyroxine Sodium Tablets requirements. Drug or Drug Class Effect Phenobarbital Rifampin Phenobarbital has been shown to reduce the response to thyroxine. Phenobarbital increases L-thyroxine metabolism by inducing uridine 5'-diphospho-glucuronosyltransferase (UGT) and leads to a lower T4 serum levels. Changes in thyroid status may occur if barbiturates are added or withdrawn from patients being treated for hypothyroidism. Rifampin has been shown to accelerate the metabolism of levothyroxine. Table 8. Drugs That May Decrease Conversion of T4 to T3 Potential impact: Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased. Drug or Drug Class Effect Beta-adrenergic antagonists (e.g., Propranolol greater than 160 mg/day) In patients treated with large doses of propranolol (greater than 160 mg/day), T3 and T4 levels change, TSH levels remain normal, and patients are clinically euthyroid. Actions of particular beta-adrenergic antagonists may be impaired when a hypothyroid patient is converted to the euthyroid state. Glucocorticoids (e.g., Dexamethasone greater than or equal to 4 mg/day) Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (See above). Other drugs: Amiodarone Amiodarone inhibits peripheral conversion of levothyroxine (T4) to triiodothyronine (T3) and may cause isolated biochemical changes (increase in serum free-T4, and decreased or normal free-T3) in clinically euthyroid patients. 7.2 Antidiabetic Therapy Addition of Levothyroxine Sodium Tablets therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements. Carefully monitor glycemic control, especially when thyroid therapy is started, changed, or discontinued [see Warnings and Precautions ( 5.5 )]. 7.3 Oral Anticoagulants Levothyroxine Sodium Tablets increase the response to oral anticoagulant therapy. Therefore, a decrease in the dose of anticoagulant may be warranted with correction of the hypothyroid state or when the Levothyroxine Sodium Tablets dose is increased. Closely monitor coagulation tests to permit appropriate and timely dosage adjustments. 7.4 Digitalis Glycosides Levothyroxine Sodium Tablets may reduce the therapeutic effects of digitalis glycosides. Serum digitalis glycoside levels may decrease when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides. 7.5 Antidepressant Therapy Concurrent use of tricyclic (e.g., amitriptyline) or tetracyclic (e.g., maprotiline) antidepressants and Levothyroxine Sodium Tablets may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines. Toxic effects may include increased risk of cardiac arrhythmias and central nervous system stimulation. Levothyroxine Sodium Tablets may accelerate the onset of action of tricyclics. Administration of sertraline in patients stabilized on Levothyroxine Sodium Tablets may result in increased Levothyroxine Sodium Tablets requirements. 7.6 Ketamine Concurrent use of ketamine and Levothyroxine Sodium Tablets may produce marked hypertension and tachycardia. Closely monitor blood pressure and heart rate in these patients. 7.7 Sympathomimetics Concurrent use of sympathomimetics and Levothyroxine Sodium Tablets may increase the effects of sympathomimetics or thyroid hormone. Thyroid hormones may increase the risk of coronary insufficiency when sympathomimetic agents are administered to patients with coronary artery disease. 7.8 Tyrosine-Kinase Inhibitors Concurrent use of tyrosine-kinase inhibitors such as imatinib may cause hypothyroidism. Closely monitor TSH levels in such patients. 7.9 Drug-Food Interactions Consumption of certain foods may affect Levothyroxine Sodium Tablets absorption thereby necessitating adjustments in dosing [see Dosage and Administration ( 2.1 )] . Soybean flour, cottonseed meal, walnuts, and dietary fiber may bind and decrease the absorption of Levothyroxine Sodium Tablets from the gastrointestinal tract. Grapefruit juice may delay the absorption of levothyroxine and reduce its bioavailability. 7.10 Drug-Laboratory Test Interactions Consider changes in TBG concentration when interpreting T4 and T3 values. Measure and evaluate unbound (free) hormone and/or determine the free-T4 index (FT4I) in this circumstance. Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentration. Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens, and corticosteroids decrease TBG concentration. Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000."
+  ],
+  "drug_interactions_table": [
+   "<table ID=\"_RefID0EMQAI\" width=\"80%\"><caption>Table 5. Drugs That May Decrease T4 Absorption (Hypothyroidism)</caption><col width=\"28%\"/><col width=\"64%\"/><thead><tr><th align=\"left\" colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Potential impact: Concurrent use may reduce the efficacy of Levothyroxine Sodium Tablets by binding and delaying or preventing absorption, potentially resulting in hypothyroidism.</content></th></tr><tr><th align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><content styleCode=\"bold\">Drug or Drug Class</content></th><th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><content styleCode=\"bold\">Effect</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Phosphate Binders (e.g., calcium carbonate, ferrous sulfate, sevelamer, lanthanum)</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>Phosphate binders may bind to levothyroxine. Administer Levothyroxine Sodium Tablets at least 4 hours apart from these agents.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Orlistat</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Monitor patients treated concomitantly with orlistat and Levothyroxine Sodium Tablets for changes in thyroid function.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Bile Acid Sequestrants (e.g., colesevelam, cholestyramine, colestipol)  Ion Exchange Resins (e.g., Kayexalate)</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer Levothyroxine Sodium Tablets at least 4 hours prior to these drugs or monitor TSH levels.</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph> Proton Pump Inhibitors Sucralfate  Antacids (e.g., aluminum &amp; magnesium hydroxides, simethicone)</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately.</paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID0ENSAI\" width=\"80%\"><caption>Table 6. Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affecting Free Thyroxine (FT4) Concentration (Euthyroidism)</caption><col width=\"29%\"/><col width=\"63%\"/><thead><tr><th align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Drug or Drug Class</content></th><th align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Effect</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Clofibrate  Estrogen-containing oral contraceptives  Estrogens (oral)  Heroin / Methadone  5-Fluorouracil  Mitotane  Tamoxifen</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>These drugs may increase serum thyroxine-binding globulin (TBG) concentration.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Androgens / Anabolic Steroids Asparaginase  Glucocorticoids  Slow-Release Nicotinic Acid</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>These drugs may decrease serum TBG concentration.</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Potential impact (below): Administration of these agents with Levothyroxine Sodium Tablets results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Salicylates (greater than 2 g/day)</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%.</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>Other drugs:  Carbamazepine  Furosemide (greater than 80 mg IV)  Heparin  Hydantoins  Non-Steroidal Anti-inflammatory Drugs  - Fenamates</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increase free T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. Closely monitor thyroid hormone parameters.</paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID0E5UAI\" width=\"80%\"><caption>Table 7. Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)</caption><col width=\"28%\"/><col width=\"64%\"/><thead><tr><th align=\"left\" colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Potential impact: Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased Levothyroxine Sodium Tablets requirements.</content></th></tr><tr><th align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><content styleCode=\"bold\">Drug or Drug Class</content></th><th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><content styleCode=\"bold\">Effect</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Phenobarbital  Rifampin</paragraph></td><td styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph>Phenobarbital has been shown to reduce the response to thyroxine. Phenobarbital increases L-thyroxine metabolism by inducing uridine 5&apos;-diphospho-glucuronosyltransferase (UGT) and leads to a lower T4 serum levels. Changes in thyroid status may occur if barbiturates are added or withdrawn from patients being treated for hypothyroidism. Rifampin has been shown to accelerate the metabolism of levothyroxine.</paragraph></td></tr></tbody></table>",
+   "<table ID=\"_RefID0E6VAI\" width=\"80%\"><caption>Table 8. Drugs That May Decrease Conversion of T4 to T3</caption><col width=\"29%\"/><col width=\"63%\"/><thead><tr><th align=\"left\" colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Potential impact: Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased.</content></th></tr><tr><th align=\"center\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><content styleCode=\"bold\">Drug or Drug Class</content></th><th align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><content styleCode=\"bold\">Effect</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Beta-adrenergic antagonists  (e.g., Propranolol greater than 160 mg/day)</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>In patients treated with large doses of propranolol (greater than 160 mg/day), T3 and T4 levels change, TSH levels remain normal, and patients are clinically euthyroid. Actions of particular beta-adrenergic antagonists may be impaired when a hypothyroid patient is converted to the euthyroid state.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph>Glucocorticoids  (e.g., Dexamethasone <content styleCode=\"underline\">greater than or equal to</content> 4 mg/day)</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (See above).</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"top\"><paragraph>Other drugs:  Amiodarone</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>Amiodarone inhibits peripheral conversion of levothyroxine (T4) to triiodothyronine (T3) and may cause isolated biochemical changes (increase in serum free-T4, and decreased or normal free-T3) in clinically euthyroid patients.</paragraph></td></tr></tbody></table>"
+  ],
+  "drug_and_or_laboratory_test_interactions": [
+   "7.10 Drug-Laboratory Test Interactions Consider changes in TBG concentration when interpreting T4 and T3 values. Measure and evaluate unbound (free) hormone and/or determine the free-T4 index (FT4I) in this circumstance. Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentration. Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens, and corticosteroids decrease TBG concentration. Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pregnancy may require the use of higher doses of Levothyroxine Sodium Tablets. ( Error! Hyperlink reference not valid. , 8.1 ) 8.1 Pregnancy Risk Summary The clinical experience, including data from postmarketing studies, in pregnant women treated with oral levothyroxine to maintain euthyroid state have not reported increased rates of major birth defects, miscarriages, or other adverse maternal or fetal outcomes. There are risks to the mother and fetus associated with untreated hypothyroidism in pregnancy. Since TSH levels may increase during pregnancy, TSH should be monitored and Levothyroxine Sodium Tablets dosage adjusted during pregnancy (see Clinical Considerations) . Animal reproductive studies have not been conducted with levothyroxine sodium. Levothyroxine Sodium Tablets should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, pre-eclampsia, stillbirth, and premature delivery. Untreated maternal hypothyroidism may have an adverse effect on fetal neurocognitive development. Dose Adjustments During Pregnancy and the Postpartum Period Pregnancy may increase Levothyroxine Sodium Tablets requirements. Serum TSH levels should be monitored and the Levothyroxine Sodium Tablets dosage adjusted during pregnancy. Since postpartum TSH levels are similar to preconception values, the Levothyroxine Sodium Tablets dosage should return to the pre-pregnancy dose immediately after delivery [see Dosage and Administration ( 2.3 )] . 8.2 Lactation Risk Summary Published studies report that levothyroxine is present in human milk following administration of oral levothyroxine. No adverse effects on the breastfed infant have been reported and there is no information on the effects of levothyroxine on milk production. Adequate levothyroxine treatment during lactation may normalize milk production in hypothyroid lactating mothers with low milk supply. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Levothyroxine Sodium Tablets and any potential adverse effects on the breastfed infant from Levothyroxine Sodium Tablets or from the underlying maternal condition. 8.4 Pediatric Use Levothyroxine Sodium Tablets are indicated in patients from birth to less than 17 years of age: • As a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism. • As an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer. Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on cognitive development as well as on overall physical growth and maturation. Therefore, initiate Levothyroxine Sodium Tablets therapy immediately upon diagnosis. Levothyroxine is generally continued for life in these patients [see Warnings and Precautions ( 5.1 )] . Closely monitor infants during the first 2 weeks of Levothyroxine Sodium Tablets therapy for cardiac overload and arrhythmias. 8.5 Geriatric Use Because of the increased prevalence of cardiovascular disease among the elderly, initiate Levothyroxine Sodium Tablets at less than the full replacement dose [see Dosage and Administration ( 2.3 ) and Warnings and Precautions ( 5.2 )] . Atrial arrhythmias can occur in elderly patients. Atrial fibrillation is the most common of the arrhythmias observed with levothyroxine overtreatment in the elderly."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary The clinical experience, including data from postmarketing studies, in pregnant women treated with oral levothyroxine to maintain euthyroid state have not reported increased rates of major birth defects, miscarriages, or other adverse maternal or fetal outcomes. There are risks to the mother and fetus associated with untreated hypothyroidism in pregnancy. Since TSH levels may increase during pregnancy, TSH should be monitored and Levothyroxine Sodium Tablets dosage adjusted during pregnancy (see Clinical Considerations) . Animal reproductive studies have not been conducted with levothyroxine sodium. Levothyroxine Sodium Tablets should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, pre-eclampsia, stillbirth, and premature delivery. Untreated maternal hypothyroidism may have an adverse effect on fetal neurocognitive development. Dose Adjustments During Pregnancy and the Postpartum Period Pregnancy may increase Levothyroxine Sodium Tablets requirements. Serum TSH levels should be monitored and the Levothyroxine Sodium Tablets dosage adjusted during pregnancy. Since postpartum TSH levels are similar to preconception values, the Levothyroxine Sodium Tablets dosage should return to the pre-pregnancy dose immediately after delivery [see Dosage and Administration ( 2.3 )] ."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Levothyroxine Sodium Tablets are indicated in patients from birth to less than 17 years of age: • As a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism. • As an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer. Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on cognitive development as well as on overall physical growth and maturation. Therefore, initiate Levothyroxine Sodium Tablets therapy immediately upon diagnosis. Levothyroxine is generally continued for life in these patients [see Warnings and Precautions ( 5.1 )] . Closely monitor infants during the first 2 weeks of Levothyroxine Sodium Tablets therapy for cardiac overload and arrhythmias."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Because of the increased prevalence of cardiovascular disease among the elderly, initiate Levothyroxine Sodium Tablets at less than the full replacement dose [see Dosage and Administration ( 2.3 ) and Warnings and Precautions ( 5.2 )] . Atrial arrhythmias can occur in elderly patients. Atrial fibrillation is the most common of the arrhythmias observed with levothyroxine overtreatment in the elderly."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE The signs and symptoms of overdosage are those of hyperthyroidism [see Warnings and Precautions ( 5 ) and Adverse Reactions ( )] . In addition, confusion and disorientation may occur. Cerebral embolism, shock, coma, and death have been reported. Seizures occurred in a 3-year-old child ingesting 3.6 mg of levothyroxine. Symptoms may not necessarily be evident or may not appear until several days after ingestion of levothyroxine sodium. Reduce the Levothyroxine Sodium Tablets dose or discontinue temporarily if signs or symptoms of overdosage occur. Initiate appropriate supportive treatment as dictated by the patient's medical status. For current information on the management of poisoning or overdosage, contact the National Poison Control Center at 1-800-222-1222 or www.poison.org."
+  ],
+  "description": [
+   "11 DESCRIPTION Levothyroxine Sodium Tablets are L-thyroxine (T4) and contain the active ingredient, levothyroxine, a synthetic crystalline L-3,3',5,5'-tetraiodothyronine sodium salt. Synthetic T4 is chemically identical to that produced in the human thyroid gland. Levothyroxine (T4) sodium has an empirical formula of C 15 H 10 I 4 NNaO 4 •H 2 O, molecular weight of 798.86 g/mol (anhydrous), and structural formula as shown: Levothyroxine Sodium Tablets are for oral administration and are available in the following strengths: 25 mcg, 50 mcg, 75 mcg, 88 mcg, 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg, 175 mcg, 200 mcg, and 300 mcg. Each levothyroxine sodium tablet contains the inactive ingredients butylated hydroxytoluene, calcium phosphate dibasic dihydrate, magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, and color additive(s). Table 9 provides a listing of the color additives by tablet strength: Table 9. Levothyroxine Sodium Tablets Color Additives Strength (mcg) Color additive(s) 25 FD&C Yellow No. 6 Aluminum Lake Note – FD&C Yellow No. 6 is orange in color. 50 None 75 FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake 88 FD&C Blue No. 1 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake*, D&C Yellow No. 10 Aluminum Lake 100 D&C Yellow No. 10 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake* 112 D&C Red No. 27 & 30 Aluminum Lake 125 FD&C Yellow No. 6 Aluminum Lake*, FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake 137 FD&C Blue No. 1 Aluminum Lake 150 FD&C Blue No. 2 Aluminum Lake 175 FD&C Blue No. 1 Aluminum Lake, D&C Red No. 27 & 30 Aluminum Lake 200 FD&C Red No. 40 Aluminum Lake 300 D&C Yellow No. 10 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake*, FD&C Blue No. 1 Aluminum Lake levothyroxine-structure"
+  ],
+  "description_table": [
+   "<table ID=\"_RefID0EQCBI\" width=\"80%\"><caption>Table 9. Levothyroxine Sodium Tablets Color Additives</caption><col width=\"15%\"/><col width=\"77%\"/><thead><tr><th align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><content styleCode=\"bold\">Strength</content> <content styleCode=\"bold\"> (mcg)</content></th><th align=\"left\" styleCode=\"Rrule Botrule Toprule \" valign=\"middle\"><content styleCode=\"bold\">Color additive(s)</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph>25</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Yellow No. 6 Aluminum Lake<footnote ID=\"_Refft2\">Note &#x2013; FD&amp;C Yellow No. 6 is orange in color.</footnote></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>50</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>None</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>75</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Red No. 40 Aluminum Lake, FD&amp;C Blue No. 2 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>88</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Blue No. 1 Aluminum Lake, FD&amp;C Yellow No. 6 Aluminum Lake*, D&amp;C Yellow No. 10 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>100</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>D&amp;C Yellow No. 10 Aluminum Lake, FD&amp;C Yellow No. 6 Aluminum Lake* </paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>112</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>D&amp;C Red No. 27 &amp; 30 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>125</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Yellow No. 6 Aluminum Lake*, FD&amp;C Red No. 40 Aluminum Lake, FD&amp;C Blue No. 1 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>137</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Blue No. 1 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>150</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Blue No. 2 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>175</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Blue No. 1 Aluminum Lake, D&amp;C Red No. 27 &amp; 30 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph>200</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>FD&amp;C Red No. 40 Aluminum Lake</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"middle\"><paragraph>300</paragraph></td><td styleCode=\"Rrule Botrule \" valign=\"middle\"><paragraph>D&amp;C Yellow No. 10 Aluminum Lake, FD&amp;C Yellow No. 6 Aluminum Lake*, FD&amp;C Blue No. 1 Aluminum Lake</paragraph></td></tr></tbody></table>"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA. This hormone nuclear receptor complex activates gene transcription and synthesis of messenger RNA and cytoplasmic proteins. The physiological actions of thyroid hormones are produced predominantly by T3, the majority of which (approximately 80%) is derived from T4 by deiodination in peripheral tissues. 12.2 Pharmacodynamics Oral levothyroxine sodium is a synthetic T4 hormone that exerts the same physiologic effect as endogenous T4, thereby maintaining normal T4 levels when a deficiency is present. 12.3 Pharmacokinetics Absorption Absorption of orally administered T4 from the gastrointestinal tract ranges from 40% to 80%. The majority of the Levothyroxine Sodium Tablets dose is absorbed from the jejunum and upper ileum. The relative bioavailability of Levothyroxine Sodium Tablets, compared to an equal nominal dose of oral levothyroxine sodium solution, is approximately 94%. T4 absorption is increased by fasting, and decreased in malabsorption syndromes and by certain foods such as soybeans. Dietary fiber decreases bioavailability of T4. Absorption may also decrease with age. In addition, many drugs and foods affect T4 absorption [see Drug Interactions ( )] . Distribution Circulating thyroid hormones are greater than 99% bound to plasma proteins, including thyroxine-binding globulin (TBG), thyroxine-binding prealbumin (TBPA), and albumin (TBA), whose capacities and affinities vary for each hormone. The higher affinity of both TBG and TBPA for T4 partially explains the higher serum levels, slower metabolic clearance, and longer half-life of T4 compared to T3. Protein-bound thyroid hormones exist in reverse equilibrium with small amounts of free hormone. Only unbound hormone is metabolically active. Many drugs and physiologic conditions affect the binding of thyroid hormones to serum proteins [see Drug Interactions ( )] . Thyroid hormones do not readily cross the placental barrier [see Use in Specific Populations ( 8.1 )] . Elimination Metabolism T4 is slowly eliminated (Table 10). The major pathway of thyroid hormone metabolism is through sequential deiodination. Approximately 80% of circulating T3 is derived from peripheral T4 by monodeiodination. The liver is the major site of degradation for both T4 and T3, with T4 deiodination also occurring at a number of additional sites, including the kidney and other tissues. Approximately 80% of the daily dose of T4 is deiodinated to yield equal amounts of T3 and reverse T3 (rT3). T3 and rT3 are further deiodinated to diiodothyronine. Thyroid hormones are also metabolized via conjugation with glucuronides and sulfates and excreted directly into the bile and gut where they undergo enterohepatic recirculation. Excretion Thyroid hormones are primarily eliminated by the kidneys. A portion of the conjugated hormone reaches the colon unchanged and is eliminated in the feces. Approximately 20% of T4 is eliminated in the stool. Urinary excretion of T4 decreases with age. Table 10. Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients * Includes TBG, TBPA, and TBA ** 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism Hormone Ratio in Thyroglobulin Biologic Potency t 1/2 (days) Protein Binding (%)* Levothyroxine (T4) 10 - 20 1 6-7** 99.96 Liothyronine (T3) 1 4 ≤ 2 99.5"
+  ],
+  "clinical_pharmacology_table": [
+   "<table ID=\"_RefID0ETIBI\" width=\"100%\"><caption>Table 10. Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients</caption><col width=\"20%\"/><col width=\"20%\"/><col width=\"20%\"/><col width=\"20%\"/><col width=\"20%\"/><tfoot><tr><td align=\"left\" colspan=\"5\" valign=\"top\">* Includes TBG, TBPA, and TBA  ** 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism</td></tr></tfoot><tbody><tr><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Hormone</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Ratio in Thyroglobulin</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Biologic Potency</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">t<sub>1/2</sub></content> <content styleCode=\"bold\">(days)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Protein Binding </content> <content styleCode=\"bold\">(%)*</content></paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>Levothyroxine (T4)</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>10 - 20</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>1</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>6-7**</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>99.96</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>Liothyronine (T3)</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>1</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>4</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2264; 2</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>99.5</paragraph></td></tr></tbody></table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA. This hormone nuclear receptor complex activates gene transcription and synthesis of messenger RNA and cytoplasmic proteins. The physiological actions of thyroid hormones are produced predominantly by T3, the majority of which (approximately 80%) is derived from T4 by deiodination in peripheral tissues."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Oral levothyroxine sodium is a synthetic T4 hormone that exerts the same physiologic effect as endogenous T4, thereby maintaining normal T4 levels when a deficiency is present."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption Absorption of orally administered T4 from the gastrointestinal tract ranges from 40% to 80%. The majority of the Levothyroxine Sodium Tablets dose is absorbed from the jejunum and upper ileum. The relative bioavailability of Levothyroxine Sodium Tablets, compared to an equal nominal dose of oral levothyroxine sodium solution, is approximately 94%. T4 absorption is increased by fasting, and decreased in malabsorption syndromes and by certain foods such as soybeans. Dietary fiber decreases bioavailability of T4. Absorption may also decrease with age. In addition, many drugs and foods affect T4 absorption [see Drug Interactions ( )] . Distribution Circulating thyroid hormones are greater than 99% bound to plasma proteins, including thyroxine-binding globulin (TBG), thyroxine-binding prealbumin (TBPA), and albumin (TBA), whose capacities and affinities vary for each hormone. The higher affinity of both TBG and TBPA for T4 partially explains the higher serum levels, slower metabolic clearance, and longer half-life of T4 compared to T3. Protein-bound thyroid hormones exist in reverse equilibrium with small amounts of free hormone. Only unbound hormone is metabolically active. Many drugs and physiologic conditions affect the binding of thyroid hormones to serum proteins [see Drug Interactions ( )] . Thyroid hormones do not readily cross the placental barrier [see Use in Specific Populations ( 8.1 )] . Elimination Metabolism T4 is slowly eliminated (Table 10). The major pathway of thyroid hormone metabolism is through sequential deiodination. Approximately 80% of circulating T3 is derived from peripheral T4 by monodeiodination. The liver is the major site of degradation for both T4 and T3, with T4 deiodination also occurring at a number of additional sites, including the kidney and other tissues. Approximately 80% of the daily dose of T4 is deiodinated to yield equal amounts of T3 and reverse T3 (rT3). T3 and rT3 are further deiodinated to diiodothyronine. Thyroid hormones are also metabolized via conjugation with glucuronides and sulfates and excreted directly into the bile and gut where they undergo enterohepatic recirculation. Excretion Thyroid hormones are primarily eliminated by the kidneys. A portion of the conjugated hormone reaches the colon unchanged and is eliminated in the feces. Approximately 20% of T4 is eliminated in the stool. Urinary excretion of T4 decreases with age. Table 10. Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients * Includes TBG, TBPA, and TBA ** 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism Hormone Ratio in Thyroglobulin Biologic Potency t 1/2 (days) Protein Binding (%)* Levothyroxine (T4) 10 - 20 1 6-7** 99.96 Liothyronine (T3) 1 4 ≤ 2 99.5"
+  ],
+  "pharmacokinetics_table": [
+   "<table ID=\"_RefID0ETIBI\" width=\"100%\"><caption>Table 10. Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients</caption><col width=\"20%\"/><col width=\"20%\"/><col width=\"20%\"/><col width=\"20%\"/><col width=\"20%\"/><tfoot><tr><td align=\"left\" colspan=\"5\" valign=\"top\">* Includes TBG, TBPA, and TBA  ** 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism</td></tr></tfoot><tbody><tr><td styleCode=\"Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Hormone</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Ratio in Thyroglobulin</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Biologic Potency</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">t<sub>1/2</sub></content> <content styleCode=\"bold\">(days)</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Protein Binding </content> <content styleCode=\"bold\">(%)*</content></paragraph></td></tr><tr><td styleCode=\"Lrule Botrule \" valign=\"top\"><paragraph>Levothyroxine (T4)</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>10 - 20</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>1</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>6-7**</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>99.96</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule \" valign=\"top\"><paragraph>Liothyronine (T3)</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>1</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>4</paragraph></td><td align=\"center\" styleCode=\"Botrule \" valign=\"top\"><paragraph>&#x2264; 2</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \" valign=\"top\"><paragraph>99.5</paragraph></td></tr></tbody></table>"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term carcinogenicity studies in animals to evaluate the carcinogenic potential of levothyroxine have not been performed. Studies to evaluate mutagenic potential and animal fertility have not been performed."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term carcinogenicity studies in animals to evaluate the carcinogenic potential of levothyroxine have not been performed. Studies to evaluate mutagenic potential and animal fertility have not been performed."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied Levothyroxine Sodium Tablets, in the shape of caplet are supplied as follows (Table 11): Table 11. Levothyroxine Sodium Tablet Presentations Strength (mcg) Color Tablet Markings NDC# for bottles of 30 NDC# for bottles of 90 175 mcg Lilac \"T|4\" and \"175\" 68788-7764-03 68788-7764-09 Storage and Handling Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C and 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Protect Levothyroxine Sodium Tablets from light and moisture."
+  ],
+  "how_supplied_table": [
+   "<table ID=\"_RefID0E3LBI\" width=\"90%\"><caption>Table 11. Levothyroxine Sodium Tablet Presentations</caption><col width=\"11%\"/><col width=\"15%\"/><col width=\"15%\"/><col width=\"30%\"/><col width=\"30%\"/><thead><tr><th align=\"left\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Strength</content> <content styleCode=\"bold\"> (mcg)</content></th><th align=\"left\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Color</content></th><th align=\"left\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">Tablet Markings</content></th><th align=\"left\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">NDC# for bottles of 30</content></th><th align=\"left\" styleCode=\"Rrule Botrule Toprule \" valign=\"top\"><content styleCode=\"bold\">NDC# for bottles of 90</content></th></tr></thead><tbody><tr><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>175 mcg</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>Lilac</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>&quot;T|4&quot; and &quot;175&quot;</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>68788-7764-03</paragraph></td><td styleCode=\"Rrule Toprule Botrule \" valign=\"top\"><paragraph>68788-7764-09</paragraph></td></tr><tr><td colspan=\"5\" styleCode=\"Rrule Botrule Lrule \" valign=\"top\"/></tr></tbody></table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Inform the patient of the following information to aid in the safe and effective use of Levothyroxine Sodium Tablets: Dosing and Administration • Instruct patients to take Levothyroxine Sodium Tablets only as directed by their healthcare provider. • Instruct patients to take Levothyroxine Sodium Tablets as a single dose, preferably on an empty stomach, one-half to one hour before breakfast. • Inform patients that agents such as iron and calcium supplements and antacids can decrease the absorption of levothyroxine. Instruct patients not to take Levothyroxine Sodium Tablets within 4 hours of these agents. • Instruct patients to notify their healthcare provider if they are pregnant or breastfeeding or are thinking of becoming pregnant while taking Levothyroxine Sodium Tablets. Important Information • Inform patients that it may take several weeks before they notice an improvement in symptoms. • Inform patients that the levothyroxine in Levothyroxine Sodium Tablets is intended to replace a hormone that is normally produced by the thyroid gland. Generally, replacement therapy is to be taken for life. • Inform patients that Levothyroxine Sodium Tablets should not be used as a primary or adjunctive therapy in a weight control program. • Instruct patients to notify their healthcare provider if they are taking any other medications, including prescription and over-the-counter preparations. • Instruct patients to notify their physician of any other medical conditions they may have, particularly heart disease, diabetes, clotting disorders, and adrenal or pituitary gland problems, as the dose of medications used to control these other conditions may need to be adjusted while they are taking Levothyroxine Sodium Tablets. If they have diabetes, instruct patients to monitor their blood and/or urinary glucose levels as directed by their physician and immediately report any changes to their physician. If patients are taking anticoagulants, their clotting status should be checked frequently. • Instruct patients to notify their physician or dentist that they are taking Levothyroxine Sodium Tablets prior to any surgery. Adverse Reactions • Instruct patients to notify their healthcare provider if they experience any of the following symptoms: rapid or irregular heartbeat, chest pain, shortness of breath, leg cramps, headache, nervousness, irritability, sleeplessness, tremors, change in appetite, weight gain or loss, vomiting, diarrhea, excessive sweating, heat intolerance, fever, changes in menstrual periods, hives or skin rash, or any other unusual medical event. • Inform patients that partial hair loss may occur rarely during the first few months of Levothyroxine Sodium Tablets therapy, but this is usually temporary."
+  ],
+  "set_id": "3519c765-2077-4f23-8644-a6242ddbf743",
+  "id": "cbb13358-54ac-4b7e-81dd-f188bc96174a",
+  "effective_time": "20260521",
+  "version": "7"
+ }
+}

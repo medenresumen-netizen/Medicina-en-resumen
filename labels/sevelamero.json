@@ -1,0 +1,752 @@
+{
+ "id_es": "sevelamero",
+ "generic_en": "sevelamer carbonate",
+ "search": "openfda.generic_name.exact:\"SEVELAMER CARBONATE\"",
+ "downloaded": "2026-11-11T06:44Z",
+ "chosen": {
+  "set_id": "e6328460-a57b-450b-a48c-6dcd4b476360",
+  "id": "cb4453a2-c47b-4352-839f-f022ac67368e",
+  "effective_time": "20251125",
+  "version": "47",
+  "brand_name": [
+   "Renvela"
+  ],
+  "generic_name": [
+   "SEVELAMER CARBONATE"
+  ],
+  "manufacturer_name": [
+   "Genzyme Corporation"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA022318",
+   "NDA022127"
+  ],
+  "n_sections": 32
+ },
+ "candidates": [
+  {
+   "set_id": "61d073ec-51a4-48c7-8762-25fdd00fe6ac",
+   "id": "b09d7704-47bd-4b60-8b43-f6bc5025ba7b",
+   "effective_time": "20261030",
+   "version": "5",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207179"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "65184825-adce-480e-a4c3-b21e37656cf4",
+   "id": "650fdee2-e3eb-436d-a572-83694949a5cb",
+   "effective_time": "20261022",
+   "version": "7",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206094"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "3779296e-35bc-5b03-e063-6294a90a0214",
+   "id": "5c06ac61-2155-f642-e063-6394a90a3e4a",
+   "effective_time": "20260921",
+   "version": "2",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206094"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "462a11b9-78a3-4d8b-ae5d-3d6528e4d743",
+   "id": "3bc019bd-1222-418b-aa92-da358c0dc2fa",
+   "effective_time": "20260827",
+   "version": "102",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206100"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "5baf3742-5929-42f8-8865-6b3e92647d5b",
+   "id": "cee41e77-77fe-418f-936d-96091239aa5f",
+   "effective_time": "20260716",
+   "version": "2",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "NorthStar RxLLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207291"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "4c927d50-34a6-499b-b1c2-924d4eb73987",
+   "id": "ad333b84-02f4-40d8-b4a8-4778fb547a0d",
+   "effective_time": "20260710",
+   "version": "7",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Macleods Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206100"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "515ae758-ccba-5758-e063-6394a90a315b",
+   "id": "5478846f-243d-6d70-e063-6294a90adbeb",
+   "effective_time": "20260617",
+   "version": "3",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Marp Pharma"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212970"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "51ce2ed6-3acf-a6ea-e063-6294a90a21aa",
+   "id": "52693574-1205-8244-e063-6394a90a5e78",
+   "effective_time": "20260522",
+   "version": "2",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "INSIGNAMEDEX LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212970"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b72baeeb-b6f5-4fa1-bee8-9eb4bb74dc82",
+   "id": "4faaca2e-237f-58ee-e063-6394a90acd4b",
+   "effective_time": "20260417",
+   "version": "2",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215998"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "2ccf62c6-dbad-416d-8e02-631795bd7517",
+   "id": "c18f24f4-6578-43b0-9dda-6581e7137ffd",
+   "effective_time": "20260318",
+   "version": "1",
+   "brand_name": [
+    "Sevelamer carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219931"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "7f701cb4-3089-375f-e053-2991aa0a51b9",
+   "id": "48d3c3e9-e4a2-5516-e063-6294a90a3dd3",
+   "effective_time": "20260120",
+   "version": "5",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207288"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "d2f0c283-3e9d-41db-bd4d-83bd21f2a019",
+   "id": "d3c74ca1-7175-40a4-b96f-f864b7f47846",
+   "effective_time": "20260101",
+   "version": "2",
+   "brand_name": [
+    "Sevelamer carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Navinta LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219931"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "f6455fa3-ad53-f6fd-e053-2a95a90a67db",
+   "id": "ff5f602e-c050-40d7-81f5-1c8dfba1d32f",
+   "effective_time": "20251215",
+   "version": "7",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Shandong Xinhua Pharmaceutical Co., Ltd."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215998"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "0cade89a-38ca-4072-97a0-be09c6e058f4",
+   "id": "98ce69c6-ff2b-4b2e-988f-5e15d7f774e7",
+   "effective_time": "20251204",
+   "version": "2",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "AiPing Pharmaceutical, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215998"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "3abc32fe-1bfc-4759-8f7c-36095e221b06",
+   "id": "42bdb389-5550-487c-aed2-c4e3afd239c8",
+   "effective_time": "20251125",
+   "version": "20",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Sanofi-Aventis U.S. LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022127",
+    "NDA022318"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "e6328460-a57b-450b-a48c-6dcd4b476360",
+   "id": "cb4453a2-c47b-4352-839f-f022ac67368e",
+   "effective_time": "20251125",
+   "version": "47",
+   "brand_name": [
+    "Renvela"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Genzyme Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA022318",
+    "NDA022127"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "42fefb90-6941-4539-8f32-df1896223450",
+   "id": "861910dd-653c-4652-b0e8-e78fa95ab8d9",
+   "effective_time": "20251113",
+   "version": "6",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206094"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "41890246-efa5-524a-e063-6294a90a5ad9",
+   "id": "41890253-11fc-7318-e063-6394a90a9a69",
+   "effective_time": "20251019",
+   "version": "1",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200959"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "45a955e9-94ac-48db-838c-74934eae245b",
+   "id": "f63f474a-c262-4d88-bb90-a25425bdd296",
+   "effective_time": "20251001",
+   "version": "1",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Westminster Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200959"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "48dbd7a7-32c7-45c1-ac8b-c478cf3282a6",
+   "id": "c67610dd-5838-4acb-99c7-e66f507f1fc4",
+   "effective_time": "20250926",
+   "version": "2",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Macleods Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207291"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "09b5e422-18c9-49dc-be3d-5d24648184af",
+   "id": "85aed37f-f40b-4b15-92e5-037629c95e65",
+   "effective_time": "20250811",
+   "version": "4",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Precision Dose, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207288"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "649e5b7b-aa2f-4975-8c00-01d647d35c01",
+   "id": "6566b265-1cda-4f44-90c7-c2572591791a",
+   "effective_time": "20250717",
+   "version": "8",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Strides Pharma Science Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211915"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "c17bff97-8347-43f8-822e-1cb9736562b6",
+   "id": "a5197e88-8ea0-4312-890a-5d4d33ec80b3",
+   "effective_time": "20250709",
+   "version": "7",
+   "brand_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Strides Pharma Science Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211917"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "07b709fd-a2a1-4ff1-ad19-827d38e84562",
+   "id": "38930d7d-8bbb-c1f4-e063-6394a90a636e",
+   "effective_time": "20250627",
+   "version": "5",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "ATLANTIC BIOLOGICALS CORP."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207179"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "0085356d-5fec-3cce-2bd3-108be70e515d",
+   "id": "f4b7a1eb-7592-27f3-1316-50b7d2538cd1",
+   "effective_time": "20250401",
+   "version": "15",
+   "brand_name": [
+    "Sevelamer Carbonate"
+   ],
+   "generic_name": [
+    "SEVELAMER CARBONATE"
+   ],
+   "manufacturer_name": [
+    "DR. REDDY'S LABORATORIES LIMITED"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206094"
+   ],
+   "n_sections": 31
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Renvela ® (sevelamer carbonate) is indicated for the control of serum phosphorus in adults and children 6 years of age and older with chronic kidney disease (CKD) on dialysis. Renvela ® is a phosphate binder indicated for the control of serum phosphorus in adults and children 6 years of age and older with chronic kidney disease on dialysis. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Starting dose of Renvela is 0.8 or 1.6 grams administered orally three times per day with meals based on serum phosphorus levels for adult patients and based on body surface area (BSA) category for pediatric patients. ( 2.1 ) Titrate by 0.8 g per meal in two-week intervals for adult patients as needed to obtain serum phosphorus target. ( 2.1 ) Titrate based on BSA category for pediatric patients in two-week intervals for 6 weeks and then every 4 weeks as needed to obtain serum phosphorus target. ( 2.1 ) 2.1 General Dosing Information Starting Dose for Adult Patients Not Taking a Phosphate Binder. The recommended starting dose of Renvela is 0.8 to 1.6 g taken orally with meals based on serum phosphorus level. Table 1 provides recommended starting doses of Renvela for adult patients not taking a phosphate binder. Table 1: Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder Serum Phosphorus Renvela >5.5 and <7.5 mg/dL 0.8 g three times daily with meals ≥7.5 mg/dL 1.6 g three times daily with meals Dose Titration for Adult Patients Taking Renvela . Titrate the Renvela dose by 0.8 g three times per day with meals at two-week intervals as necessary to achieve target serum phosphorus levels. Based on clinical studies, the average prescribed adult daily dose of sevelamer carbonate is approximately 7.2 g per day. The highest daily adult dose of sevelamer carbonate studied was 14 grams in CKD patients on dialysis. Starting Dose for Pediatric Patients Not Taking a Phosphate Binder. The recommended starting dose for pediatric patients 6 years of age and older is 0.8 to 1.6 g taken three times per day with meals based on the patient's body surface area (BSA) category; see Table 2 . Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patient's Body Surface Area (m 2 ) BSA (m 2 ) Starting Dose Per Meal/Snack Titration Increases/Decreases Per Dose ≥0.75 to <1.2 0.8 g Titrate by 0.4 g ≥1.2 1.6 g Titrate by 0.8 g Dose Titration for Pediatric Patients Taking Renvela. Titrate the Renvela dose as needed to achieve target levels at two-week intervals based on BSA category, as shown in Table 2. Switching from Sevelamer Hydrochloride Tablets. For adult patients switching from sevelamer hydrochloride tablets to sevelamer carbonate tablets or powder, use the same dose in grams. Switching between Sevelamer Carbonate Tablets and Powder. Use the same dose in grams. Switching from Calcium Acetate . Table 3 gives recommended starting doses of Renvela based on a patient's current calcium acetate dose. Table 3: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Renvela Calcium Acetate 667 mg (Tablets per meal) Renvela 1 tablet 0.8 g 2 tablets 1.6 g 3 tablets 2.4 g 2.2 Sevelamer Carbonate Powder Preparation Instructions Sevelamer carbonate powder is available in 0.8 or 2.4 g packets. For dose increments of 0.4 g, use one half of a 0.8 g packet. Place the sevelamer carbonate powder in a cup and suspend in the amount of water described in Table 4. Table 4: Sevelamer Carbonate Powder Preparation Instructions Amount of Renvela Powder Minimum Amount of Water for Dose Preparation (either ounces, mL, or tablespoon) Ounces mL Tablespoons 0.4 g 1 30 2 0.8 g 1 30 2 2.4 g 2 60 4 Instruct patients to stir the mixture vigorously (it does not dissolve), resuspend, if necessary, right before administration, and drink the entire preparation within 30 minutes. As an alternative to water, the entire contents of the packet may be pre-mixed with a small amount of food or beverage and consumed immediately (within 30 minutes) as part of the meal. Do not heat Renvela powder (e.g., microwave) or add to heated foods or liquids."
+  ],
+  "dosage_and_administration_table": [
+   "<table ID=\"table1\" width=\"90%\"><caption>Table 1: Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder</caption><col width=\"50%\" align=\"center\" valign=\"middle\"/><col width=\"50%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"First Last\"><th align=\"center\" styleCode=\"Lrule Rrule\">Serum Phosphorus</th><th align=\"center\" styleCode=\"Rrule\">Renvela</th></tr></thead><tbody><tr styleCode=\"Botrule First\"><td align=\"center\" styleCode=\"Lrule Rrule\">&gt;5.5 and &lt;7.5 mg/dL</td><td align=\"center\" styleCode=\"Rrule\">0.8 g three times daily with meals</td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\">&#x2265;7.5 mg/dL</td><td align=\"center\" styleCode=\"Rrule\">1.6 g three times daily with meals</td></tr></tbody></table>",
+   "<table ID=\"table2\" width=\"90%\"><caption>Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patient&apos;s Body Surface Area (m <sup>2</sup>) </caption><col width=\"33%\" align=\"center\" valign=\"middle\"/><col width=\"33%\" align=\"center\" valign=\"middle\"/><col width=\"34%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"First Last\"><th align=\"center\" styleCode=\"Lrule Rrule\">BSA (m <sup>2</sup>) </th><th align=\"center\" styleCode=\"Rrule\">Starting Dose Per Meal/Snack</th><th align=\"center\" styleCode=\"Rrule\">Titration Increases/Decreases Per Dose</th></tr></thead><tbody><tr styleCode=\"Botrule First\"><td align=\"center\" styleCode=\"Lrule Rrule\">&#x2265;0.75 to &lt;1.2</td><td align=\"center\" styleCode=\"Rrule\">0.8 g</td><td align=\"center\" styleCode=\"Rrule\">Titrate by 0.4 g</td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\">&#x2265;1.2</td><td align=\"center\" styleCode=\"Rrule\">1.6 g</td><td align=\"center\" styleCode=\"Rrule\">Titrate by 0.8 g</td></tr></tbody></table>",
+   "<table ID=\"table3\" width=\"90%\"><caption>Table 3: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Renvela</caption><col width=\"50%\" align=\"center\" valign=\"middle\"/><col width=\"50%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"First Last\"><th align=\"center\" styleCode=\"Lrule Rrule\">Calcium Acetate 667 mg   (Tablets per meal) </th><th align=\"center\" styleCode=\"Rrule\" valign=\"top\">Renvela</th></tr></thead><tbody><tr styleCode=\"Botrule First\"><td align=\"center\" styleCode=\"Lrule Rrule\">1 tablet</td><td align=\"center\" styleCode=\"Rrule\">0.8 g</td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\">2 tablets</td><td align=\"center\" styleCode=\"Rrule\">1.6 g</td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\">3 tablets</td><td align=\"center\" styleCode=\"Rrule\">2.4 g</td></tr></tbody></table>",
+   "<table ID=\"table4\" width=\"90%\"><caption>Table 4: Sevelamer Carbonate Powder Preparation Instructions</caption><col width=\"25%\" align=\"center\" valign=\"middle\"/><col width=\"25%\" align=\"center\" valign=\"middle\"/><col width=\"25%\" align=\"center\" valign=\"middle\"/><col width=\"25%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"Botrule First\"><th align=\"center\" rowspan=\"2\" styleCode=\"Lrule Rrule\">Amount of Renvela Powder </th><th colspan=\"3\" align=\"center\" styleCode=\"Rrule\">Minimum Amount of Water for Dose Preparation   (either ounces, mL, or tablespoon) </th></tr><tr><th align=\"center\" styleCode=\"Rrule\">Ounces</th><th align=\"center\" styleCode=\"Rrule\">mL</th><th align=\"center\" styleCode=\"Rrule\">Tablespoons</th></tr></thead><tbody><tr styleCode=\"Botrule First\"><td align=\"center\" styleCode=\"Lrule Rrule\">0.4 g</td><td align=\"center\" styleCode=\"Rrule\">1</td><td align=\"center\" styleCode=\"Rrule\">30</td><td align=\"center\" styleCode=\"Rrule\">2</td></tr><tr styleCode=\"Botrule\"><td align=\"center\" styleCode=\"Lrule Rrule\">0.8 g</td><td align=\"center\" styleCode=\"Rrule\">1</td><td align=\"center\" styleCode=\"Rrule\">30</td><td align=\"center\" styleCode=\"Rrule\">2</td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\">2.4 g</td><td align=\"center\" styleCode=\"Rrule\">2</td><td align=\"center\" styleCode=\"Rrule\">60</td><td align=\"center\" styleCode=\"Rrule\">4</td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Tablets: 800 mg white oval, film-coated, compressed tablets, engraved with RV800 on one side Powder: 0.8 g and 2.4 g pale-yellow powder packaged in an opaque, foil-lined, heat-sealed packets Tablets: 800 mg ( 3 ) Powder: 0.8 g and 2.4 g packets ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Renvela is contraindicated in patients with bowel obstruction. Renvela is contraindicated in patients with known hypersensitivity to sevelamer carbonate, sevelamer hydrochloride, or to any of the excipients. Bowel obstruction. ( 4 ) Known hypersensitivity to sevelamer carbonate, sevelamer hydrochloride, or to any of the excipients. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Serious cases of dysphagia, bowel obstruction, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, and perforation have been associated with sevelamer use, some requiring hospitalization and surgery. ( 5.1 ) 5.1 Gastrointestinal Adverse Events Patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders, including severe constipation, or major GI tract surgery were not included in the Renvela clinical studies. Cases of dysphagia and esophageal tablet retention have been reported in association with use of the tablet formulation of sevelamer, some requiring hospitalization and intervention. Consider using sevelamer suspension in patients with a history of swallowing disorders. Cases of bowel obstruction, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, and perforation have also been reported with sevelamer use [see Adverse Reactions (6.2) ] . Inflammatory disorders may resolve upon Renvela discontinuation. Treatment with Renvela should be re-evaluated in patients who develop severe gastrointestinal symptoms. 5.2 Reductions in Vitamins D, E, K (clotting factors) and Folic Acid Levels In preclinical studies in rats and dogs, sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, reduced vitamins D, E, and K (coagulation parameters) and folic acid levels at doses of 6–10 times the recommended human dose. In short-term clinical trials, there was no evidence of reduction in serum levels of vitamins. However, in a one-year clinical trial, 25-hydroxyvitamin D (normal range 10 to 55 ng/mL) fell from 39 ± 22 ng/mL to 34 ± 22 ng/mL (p<0.01) with sevelamer hydrochloride treatment. Most (approximately 75%) patients in sevelamer hydrochloride clinical trials were receiving vitamin supplements."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Most of the safety experience is with sevelamer carbonate tablets and sevelamer hydrochloride. In long-term studies with sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, the most common adverse events included: vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%), abdominal pain (9%), flatulence (8%), and constipation (8%). ( 6.1) To report SUSPECTED ADVERSE REACTIONS, contact Genzyme Corporation at 1-800-847-0069 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. There are limited clinical trial data on the safety of Renvela. However, because it contains the same active ingredient as the hydrochloride salt, the adverse event profiles of the two salts are expected to be similar. In a cross-over study in hemodialysis patients with treatment durations of eight weeks each and no washout, and another cross-over study in hemodialysis patients with treatment durations of four weeks each and no washout between treatment periods, the adverse reactions on sevelamer carbonate powder were similar to those reported for sevelamer hydrochloride. In a parallel design study of sevelamer hydrochloride with treatment duration of 52 weeks, adverse reactions reported for sevelamer hydrochloride (n=99) were similar to those reported for the active-comparator group (n=101). Overall adverse reactions among those treated with sevelamer hydrochloride occurring in >5% of patients included: vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%), abdominal pain (9%), flatulence (8%), and constipation (8%). A total of 27 patients treated with sevelamer and 10 patients treated with comparator withdrew from the study due to adverse reactions. Based on studies of 8–52 weeks, the most common reason for withdrawal from sevelamer hydrochloride was gastrointestinal adverse reactions (3%–16%). In 143 peritoneal dialysis patients studied for 12 weeks using sevelamer hydrochloride, most common adverse reactions were similar to adverse reactions observed in hemodialysis patients. The most frequently occurring treatment emergent serious adverse reaction was peritonitis (8 reactions in 8 patients [8%] in the sevelamer group and 2 reactions in 2 patients [4%] on active control). Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the active-control group discontinued, mostly for gastrointestinal adverse reactions. 6.2 Postmarketing Experience Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure. The following adverse reactions have been identified during postapproval use of sevelamer hydrochloride or sevelamer carbonate: hypersensitivity, pruritus, rash, abdominal pain, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation. Appropriate medical management should be given to patients who develop constipation or have worsening of existing constipation to avoid severe complications."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS There are no empirical data on avoiding drug interactions between Renvela and most concomitant oral drugs. For oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy (e.g., cyclosporine, tacrolimus, levothyroxine), consider separation of the timing of the administration of the two drugs [see Clinical Pharmacology (12.3) ] . The duration of separation depends upon the absorption characteristics of the medication concomitantly administered, such as the time to reach peak systemic levels and whether the drug is an immediate-release or an extended-release product. Where possible consider monitoring clinical responses and/or blood levels of concomitant drugs that have a narrow therapeutic range. Table 5: Sevelamer Drug Interactions Oral drugs for which sevelamer did not alter the pharmacokinetics when administered concomitantly Digoxin Enalapril Iron Metoprolol Warfarin Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from Renvela Dosing Recommendations Ciprofloxacin Take at least 2 hours before or 6 hours after sevelamer Mycophenolate mofetil Take at least 2 hours before sevelamer For oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, consider separation of the timing of administration and/or monitor clinical responses or blood levels of the concomitant medication. ( 7 ) Sevelamer did not alter the pharmacokinetics of digoxin, enalapril, iron, metoprolol and warfarin. ( 7 ) Sevelamer has demonstrated interaction with ciprofloxacin, mycophenolate mofetil, and therefore, these drugs should be dosed separately from Renvela. ( 7 )"
+  ],
+  "drug_interactions_table": [
+   "<table width=\"90%\" ID=\"table5\"><caption>Table 5: Sevelamer Drug Interactions</caption><col width=\"40%\" align=\"left\" valign=\"middle\"/><col width=\"60%\" align=\"left\" valign=\"middle\"/><thead><tr><th colspan=\"2\" styleCode=\"Lrule Rrule\">Oral drugs for which sevelamer did not alter the pharmacokinetics when administered concomitantly</th></tr></thead><tbody><tr><td colspan=\"2\" styleCode=\"Lrule Rrule\">Digoxin</td></tr><tr><td colspan=\"2\" styleCode=\"Lrule Rrule\">Enalapril</td></tr><tr><td colspan=\"2\" styleCode=\"Lrule Rrule\">Iron</td></tr><tr><td colspan=\"2\" styleCode=\"Lrule Rrule\">Metoprolol</td></tr><tr styleCode=\"Botrule\"><td colspan=\"2\" styleCode=\"Lrule Rrule\">Warfarin</td></tr><tr styleCode=\"Botrule\"><td colspan=\"2\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from Renvela</content></td></tr><tr><td styleCode=\"Lrule Rrule\"/><td styleCode=\"Rrule\"><content styleCode=\"bold\">Dosing Recommendations</content></td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\">Ciprofloxacin</td><td styleCode=\"Rrule\">Take at least 2 hours before or 6 hours after sevelamer</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\">Mycophenolate mofetil</td><td styleCode=\"Rrule\">Take at least 2 hours before sevelamer</td></tr></tbody></table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Sevelamer carbonate is not absorbed systemically following oral administration and maternal use is not expected to result in fetal exposure to the drug. Clinical Considerations Sevelamer carbonate may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2) ] . Consider supplementation. Data Animal data In pregnant rats given dietary doses of 0.5, 1.5, or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid and high-dose groups (human equivalent doses approximately equal to 3–4 times the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500, or 1000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose). 8.2 Lactation Risk Summary Renvela is not absorbed systemically by the mother following oral administration, and breastfeeding is not expected to result in exposure of the child to Renvela. Clinical Considerations Sevelamer carbonate may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2) ] . Consider supplementation. 8.4 Pediatric Use The safety and efficacy of Renvela in lowering serum phosphorus levels was studied in patients 6 years of age and older with CKD. In this study, Renvela was apparently less effective in children with a low baseline serum phosphorus, which described children <13 years of age and children not on dialysis. Given its mechanism of action, Renvela is expected to be effective in lowering serum phosphorus levels in pediatric patients with CKD. Most adverse events that were reported as related, or possibly related, to sevelamer carbonate were gastrointestinal in nature. No new risks or safety signals were identified with the use of sevelamer carbonate in the trial. Renvela has not been studied in pediatric patients below 6 years of age. 8.5 Geriatric Use Clinical studies of Renvela did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Sevelamer carbonate is not absorbed systemically following oral administration and maternal use is not expected to result in fetal exposure to the drug. Clinical Considerations Sevelamer carbonate may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2) ] . Consider supplementation. Data Animal data In pregnant rats given dietary doses of 0.5, 1.5, or 4.5 g/kg/day of sevelamer hydrochloride during organogenesis, reduced or irregular ossification of fetal bones, probably due to a reduced absorption of fat-soluble vitamin D, occurred in mid and high-dose groups (human equivalent doses approximately equal to 3–4 times the maximum clinical trial dose of 13 g). In pregnant rabbits given oral doses of 100, 500, or 1000 mg/kg/day of sevelamer hydrochloride by gavage during organogenesis, an increase of early resorptions occurred in the high-dose group (human equivalent dose twice the maximum clinical trial dose)."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and efficacy of Renvela in lowering serum phosphorus levels was studied in patients 6 years of age and older with CKD. In this study, Renvela was apparently less effective in children with a low baseline serum phosphorus, which described children <13 years of age and children not on dialysis. Given its mechanism of action, Renvela is expected to be effective in lowering serum phosphorus levels in pediatric patients with CKD. Most adverse events that were reported as related, or possibly related, to sevelamer carbonate were gastrointestinal in nature. No new risks or safety signals were identified with the use of sevelamer carbonate in the trial. Renvela has not been studied in pediatric patients below 6 years of age."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of Renvela did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE In CKD patients on dialysis, the maximum dose studied was 14 grams of sevelamer carbonate and 13 grams of sevelamer hydrochloride. There are no reports of overdosage with sevelamer carbonate or sevelamer hydrochloride in patients. Since sevelamer is not absorbed, the risk of systemic toxicity is low."
+  ],
+  "description": [
+   "11 DESCRIPTION The active ingredient in Renvela is sevelamer carbonate, a polymeric amine that binds phosphate and is meant for oral administration. It was developed as a pharmaceutical alternative to sevelamer hydrochloride (Renagel ® ). Sevelamer carbonate is an anion exchange resin, with the same polymeric structure as sevelamer hydrochloride, in which carbonate replaces chloride as the counterion. While the counterions differ for the two salts, the polymer itself, the active moiety involved in phosphate binding, is the same. Renvela (sevelamer carbonate) is known chemically as poly(allylamine- co -N,N′-diallyl-1,3-diamino-2-hydroxypropane) carbonate salt. Sevelamer carbonate is hygroscopic, but insoluble in water. The structure is represented in Figure 1. Figure 1: Chemical Structure of Sevelamer Carbonate a, b = number of primary amine groups a + b = 9 c = number of cross-linking groups c = 1 m = large number to indicate extended polymer network Chemical Structure Renvela Tablets: Each film-coated tablet of Renvela contains 800 mg of sevelamer carbonate on an anhydrous basis. The inactive ingredients are hypromellose, diacetylated monoglycerides, microcrystalline cellulose, sodium chloride, and zinc stearate. Renvela Powder: Each packet of Renvela powder contains 0.8 or 2.4 g of sevelamer carbonate on an anhydrous basis. The inactive ingredients are natural and artificial citrus flavor, propylene glycol alginate, sodium chloride, sucralose, and ferric oxide (yellow)."
+  ],
+  "description_table": [
+   "<table width=\"75%\" styleCode=\"Noautorules\"><col width=\"44%\" align=\"left\" valign=\"bottom\"/><col width=\"56%\" align=\"left\" valign=\"bottom\"/><tbody><tr><td colspan=\"2\"><content styleCode=\"bold\">Figure 1: Chemical Structure of Sevelamer Carbonate</content></td></tr><tr><td colspan=\"2\"><paragraph><renderMultiMedia referencedObject=\"MM1\"/></paragraph></td></tr><tr><td>a, b = number of primary amine groups</td><td>a + b = 9</td></tr><tr><td>c = number of cross-linking groups</td><td>c = 1</td></tr><tr><td colspan=\"2\">m = large number to indicate extended polymer network</td></tr></tbody></table>"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Renvela contains sevelamer carbonate, a non-absorbed phosphate-binding cross-linked polymer, free of metal and calcium. It contains multiple amines separated by one carbon from the polymer backbone. These amines exist in a protonated form in the intestine and interact with phosphate molecules through ionic and hydrogen bonding. By binding phosphate in the gastrointestinal tract and decreasing absorption, sevelamer carbonate lowers the phosphate concentration in the serum (serum phosphorus). 12.2 Pharmacodynamics In addition to effects on serum phosphorus levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models. Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat-soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15%–31%; the clinical significance of this finding, which was observed after 2 weeks, is unclear. Triglycerides, HDL cholesterol, and albumin did not change. 12.3 Pharmacokinetics A mass balance study using 14 C-sevelamer hydrochloride, in 16 healthy male and female volunteers showed that sevelamer hydrochloride is not systemically absorbed. No absorption studies have been performed in patients with renal disease. Drug Interactions In vivo Sevelamer carbonate has been studied in human drug-drug interaction studies (9.6 grams once daily with a meal) with warfarin and digoxin. Sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, has been studied in human drug-drug interaction studies (2.4–2.8 grams single dose or three times daily with meals or two times daily without meals) with ciprofloxacin, digoxin, enalapril, iron, metoprolol, mycophenolate mofetil, and warfarin. Coadministered single dose of 2.8 grams of sevelamer hydrochloride in fasted state decreased the bioavailability of ciprofloxacin by approximately 50% in healthy subjects. Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA C max and AUC 0–12h by 36% and 26%, respectively. Sevelamer carbonate or sevelamer hydrochloride did not alter the pharmacokinetics of enalapril, digoxin, iron, metoprolol, and warfarin when coadministered. During postmarketing experience, cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients coadministered sevelamer hydrochloride and levothyroxine. Reduction in concentrations of cyclosporine and tacrolimus leading to dose increases has also been reported in transplant patients when coadministered with sevelamer hydrochloride without any clinical consequences (for example, graft rejection). The possibility of an interaction cannot be excluded with these drugs."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Renvela contains sevelamer carbonate, a non-absorbed phosphate-binding cross-linked polymer, free of metal and calcium. It contains multiple amines separated by one carbon from the polymer backbone. These amines exist in a protonated form in the intestine and interact with phosphate molecules through ionic and hydrogen bonding. By binding phosphate in the gastrointestinal tract and decreasing absorption, sevelamer carbonate lowers the phosphate concentration in the serum (serum phosphorus)."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics In addition to effects on serum phosphorus levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models. Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat-soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15%–31%; the clinical significance of this finding, which was observed after 2 weeks, is unclear. Triglycerides, HDL cholesterol, and albumin did not change."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics A mass balance study using 14 C-sevelamer hydrochloride, in 16 healthy male and female volunteers showed that sevelamer hydrochloride is not systemically absorbed. No absorption studies have been performed in patients with renal disease. Drug Interactions In vivo Sevelamer carbonate has been studied in human drug-drug interaction studies (9.6 grams once daily with a meal) with warfarin and digoxin. Sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, has been studied in human drug-drug interaction studies (2.4–2.8 grams single dose or three times daily with meals or two times daily without meals) with ciprofloxacin, digoxin, enalapril, iron, metoprolol, mycophenolate mofetil, and warfarin. Coadministered single dose of 2.8 grams of sevelamer hydrochloride in fasted state decreased the bioavailability of ciprofloxacin by approximately 50% in healthy subjects. Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA C max and AUC 0–12h by 36% and 26%, respectively. Sevelamer carbonate or sevelamer hydrochloride did not alter the pharmacokinetics of enalapril, digoxin, iron, metoprolol, and warfarin when coadministered. During postmarketing experience, cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients coadministered sevelamer hydrochloride and levothyroxine. Reduction in concentrations of cyclosporine and tacrolimus leading to dose increases has also been reported in transplant patients when coadministered with sevelamer hydrochloride without any clinical consequences (for example, graft rejection). The possibility of an interaction cannot be excluded with these drugs."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Standard lifetime carcinogenicity bioassays were conducted in mice and rats. Rats were given sevelamer hydrochloride by diet at 0.3, 1, or 3 g/kg/day. There was an increased incidence of urinary bladder transitional cell papilloma in male rats of the high dose group (human equivalent dose twice the maximum clinical trial dose of 13 g). Mice received dietary administration of sevelamer hydrochloride at doses of up to 9 g/kg/day (human equivalent dose 3 times the maximum clinical trial dose). There was no increased incidence of tumors observed in mice. In an in vitro mammalian cytogenetic test with metabolic activation, sevelamer hydrochloride caused a statistically significant increase in the number of structural chromosome aberrations. Sevelamer hydrochloride was not mutagenic in the Ames bacterial mutation assay. Sevelamer hydrochloride did not impair the fertility of male or female rats in a dietary administration study in which the females were treated from 14 days prior to mating through gestation and the males were treated for 28 days prior to mating. The highest dose in this study was 4.5 g/kg/day (human equivalent dose 3 times the maximum clinical trial dose of 13 g)."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Standard lifetime carcinogenicity bioassays were conducted in mice and rats. Rats were given sevelamer hydrochloride by diet at 0.3, 1, or 3 g/kg/day. There was an increased incidence of urinary bladder transitional cell papilloma in male rats of the high dose group (human equivalent dose twice the maximum clinical trial dose of 13 g). Mice received dietary administration of sevelamer hydrochloride at doses of up to 9 g/kg/day (human equivalent dose 3 times the maximum clinical trial dose). There was no increased incidence of tumors observed in mice. In an in vitro mammalian cytogenetic test with metabolic activation, sevelamer hydrochloride caused a statistically significant increase in the number of structural chromosome aberrations. Sevelamer hydrochloride was not mutagenic in the Ames bacterial mutation assay. Sevelamer hydrochloride did not impair the fertility of male or female rats in a dietary administration study in which the females were treated from 14 days prior to mating through gestation and the males were treated for 28 days prior to mating. The highest dose in this study was 4.5 g/kg/day (human equivalent dose 3 times the maximum clinical trial dose of 13 g)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES The ability of sevelamer to control serum phosphorus in CKD patients on dialysis was predominantly determined from the effects of the hydrochloride salt to bind phosphate. Six clinical trials used sevelamer hydrochloride and three clinical trials used sevelamer carbonate. The sevelamer hydrochloride studies include one double-blind, placebo-controlled 2-week study (sevelamer N=24); two open-label, uncontrolled, 8-week studies (sevelamer N=220); and three active-controlled open-label studies with treatment durations of 8 to 52 weeks (sevelamer N=256). The sevelamer carbonate studies include one double-blind, active-controlled, cross-over study with two 8-week treatment periods using sevelamer carbonate tablets (N=79); one open-label, active-controlled, cross-over study with two 4-week treatment periods using sevelamer carbonate powder (N=31); and one randomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks. Six of the active-controlled studies are described here (three sevelamer carbonate and three sevelamer hydrochloride studies). 14.1 Cross-Over Study of Sevelamer Carbonate (Renvela) 800 mg Tablets and Sevelamer Hydrochloride (Renagel) 800 mg Tablets Stage 5 CKD patients on hemodialysis were entered into a five-week sevelamer hydrochloride run-in period and 79 patients received, in random order, sevelamer carbonate 800 mg tablets and sevelamer hydrochloride 800 mg tablets for eight weeks each, with no intervening washout. Study dose during the cross-over period was determined based on the sevelamer hydrochloride dose during the run-in period on a gram-per-gram basis. The phosphorus levels at the end of each of the two cross-over periods were similar. Average actual daily dose was 6 g/day divided among meals for both treatments. Thirty-nine of those completing the cross-over portion of the study were entered into a two-week washout period during which patients were instructed not to take any phosphate binders; this confirmed the activity of sevelamer in this study. 14.2 Cross-Over Study of Sevelamer Carbonate (Renvela) Powder and Sevelamer Hydrochloride (Renagel) Tablets Stage 5 CKD patients on hemodialysis were entered into a four-week sevelamer hydrochloride run-in period and 31 patients received, in random order, sevelamer carbonate powder and sevelamer hydrochloride tablets for four weeks each with no intervening washout. Study dose during the cross-over period was determined based on the sevelamer hydrochloride dose during the run-in period on a gram-per-gram basis. The phosphorus levels at the end of each of the two cross-over periods were similar. Average actual daily dose was 6.0 g/day divided among meals for sevelamer carbonate powder and 6.4 g/day divided among meals for sevelamer hydrochloride tablets. 14.3 Clinical Study of Sevelamer Carbonate (Renvela) Powder and Tablets in Pediatric Patients A clinical study with sevelamer carbonate was conducted in 101 patients 6 to 18 years of age with chronic kidney disease. This study included a washout period for patients on a phosphate binder, a 2-week, double-blind, fixed-dose period (FDP) in which patients were randomized to sevelamer carbonate (n=50) or placebo (n=51), and a 26-week, open-label, sevelamer carbonate dose titration period (DTP). Most patients were 13 to 18 years of age (73%) and had a BSA ≥1.2 m 2 (84%). Approximately 78% of patients were CKD patients on dialysis. Sevelamer carbonate significantly reduced serum phosphorus through Week 2 (primary endpoint) by an LS Mean difference of -0.90 (SE 0.27) mg/dL compared to placebo (p=0.001). A similar treatment response was observed in patients who received sevelamer carbonate during the 6-month open-label DTP. Approximately 30% of subjects reached their target serum phosphorus. The median prescribed daily dose was approximately 7.0 g per day during the titration period. The results of the primary efficacy endpoint were consistent by BSA subgroup. In contrast, a treatment effect was not observed in subjects with a baseline serum phosphorus below 7 mg/dL, many of whom were the subjects 6 to <13 years of age or the subjects not on dialysis (Figure 2). Figure 2: Change in Serum Phosphorus (mg/dL) from Baseline to Week 2 by Subgroup [a]: LS Mean difference of Sevelamer Carbonate – Placebo, based on ANCOVA within subgroup and with treatment as fixed effect and screening BSA and baseline serum phosphorus as covariates. Figure 2 14.4 Sevelamer Hydrochloride versus Active-Control, Cross-Over Study in Hemodialysis Patients Eighty-four CKD patients on hemodialysis who were hyperphosphatemic (serum phosphorus >6.0 mg/dL) following a two-week phosphate binder washout period were randomized in a cross-over design to receive in random order sevelamer hydrochloride and active control for eight weeks each. Treatment periods were separated by a two-week phosphate binder washout period. Patients started on treatment three times per day with meals. Over each eight-week treatment period, at three separate time points the dose of sevelamer hydrochloride could be titrated up to control serum phosphorus, the dose of active control could also be altered to attain phosphorus control. Both treatments significantly decreased mean serum phosphorus by about 2 mg/dL (Table 6). Table 6: Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint Sevelamer Hydrochloride (N=81) Active Control (N=83) Baseline at End of Washout 8.4 8.0 Endpoint 6.4 5.9 Change from Baseline at Endpoint -2.0 p<0.0001, within treatment group comparison -2.1 (95% Confidence Interval) (-2.5, -1.5) (-2.6, -1.7) The distribution of responses is shown in Figure 3. The distributions are similar for sevelamer hydrochloride and active control. The median response is a reduction of about 2 mg/dL in both groups. About 50% of subjects have reductions between 1 and 3 mg/dL. Figure 3: Percentage of Patients (Y-axis) Attaining a Phosphorus Reduction from Baseline (mg/dL) at Least as Great as the Value of the X-axis Average daily sevelamer hydrochloride dose at the end of treatment was 4.9 g (range of 0.0 to 12.6 g). Figure 3 14.5 Sevelamer Hydrochloride versus Active Control in Hemodialysis Patients Two hundred CKD patients on hemodialysis who were hyperphosphatemic (serum phosphorus >5.5 mg/dL) following a two-week phosphate-binder washout period were randomized to receive sevelamer hydrochloride 800 mg tablets (N=99) or an active control (N=101). At week 52, using last observation carried forward, sevelamer and active control both significantly decreased mean serum phosphorus (Table 7). Table 7: Mean Serum Phosphorus (mg/dL) and Ion Product at Baseline and Change from Baseline to End of Treatment Sevelamer HCl (N=94) Active Control (N=98) Phosphorus Baseline 7.5 7.3 Change from Baseline at Endpoint -2.1 -1.8 Ca × Phosphorus Ion Product Baseline 70.5 68.4 Change from Baseline at Endpoint -19.4 -14.2 Sixty-one percent of sevelamer hydrochloride patients and 73% of the control patients completed the full 52 weeks of treatment. Figure 4, a plot of the phosphorus change from baseline for the completers, illustrates the durability of response for patients who are able to remain on treatment. Figure 4: Mean Phosphorus Change from Baseline for Patients who Completed 52 Weeks of Treatment Average daily sevelamer hydrochloride dose at the end of treatment was 6.5 g (range of 0.8 to 13 g). Figure 4 14.6 Sevelamer Hydrochloride versus Active Control in Peritoneal Dialysis Patients One hundred and forty-three patients on peritoneal dialysis who were hyperphosphatemic (serum phosphorus >5.5 mg/dL) following a two-week phosphate binder washout period were randomized to receive sevelamer hydrochloride (N=97) or active control (N=46) open label for 12 weeks. Average daily sevelamer hydrochloride dose at the end of treatment was 5.9 g (range 0.8 to 14.3 g). Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the active-control group discontinued, mostly for gastrointestinal adverse reactions. There were statistically significant changes in serum phosphorus (p<0.001) for sevelamer hydrochloride (-1.6 mg/dL from baseline of 7.5 mg/dL), similar to the active control. 14.7 Once-Daily versus Three-Times-Per-Day Dosing Stage 5 CKD patients on hemodialysis with a serum phosphate level of >5.5 mg/dL after washout from baseline therapies were randomized in a 2:1 ratio to receive either sevelamer carbonate powder once daily (N=144) or sevelamer hydrochloride as a tablet with the dose divided three times per day (N=73) for 24 weeks. The initial dose for the two groups was 4.8 g/day. At the end of the study, the total daily dose was 6.2 g/day of sevelamer carbonate powder once daily and 6.7 g/day of sevelamer hydrochloride tablets three times per day. A greater percentage of subjects on the once-daily dose than three-times-per-day regimen discontinued therapy prematurely, 35% versus 15%. The reasons for discontinuation were largely driven by adverse events and withdrawal of consent in the once-daily dosing regimen. Serum phosphate levels and calcium-phosphate product were better controlled on the three-times-per-day regimen than on the once-daily regimen. Mean serum phosphorus decreased 2.0 mg/dL for sevelamer carbonate powder once daily and 2.9 mg/dL for sevelamer hydrochloride tablets three times per day."
+  ],
+  "clinical_studies_table": [
+   "<table width=\"90%\" ID=\"table6\"><caption>Table 6: Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint</caption><col width=\"34%\" align=\"left\" valign=\"middle\"/><col width=\"33%\" align=\"center\" valign=\"middle\"/><col width=\"33%\" align=\"center\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\"/><th styleCode=\"Rrule\">Sevelamer Hydrochloride   (N=81) </th><th styleCode=\"Rrule\">Active Control   (N=83) </th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Baseline at End of Washout</td><td styleCode=\"Rrule\">8.4</td><td styleCode=\"Rrule\">8.0</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Endpoint</td><td styleCode=\"Rrule\">6.4</td><td styleCode=\"Rrule\">5.9</td></tr><tr><td styleCode=\"Lrule Rrule\">Change from Baseline at Endpoint</td><td styleCode=\"Rrule\">-2.0 <footnote ID=\"foot6\">p&lt;0.0001, within treatment group comparison</footnote></td><td styleCode=\"Rrule\">-2.1 <footnoteRef IDREF=\"foot6\"/></td></tr><tr><td styleCode=\"Lrule Rrule\">(95% Confidence Interval)</td><td styleCode=\"Rrule\">(-2.5, -1.5)</td><td styleCode=\"Rrule\">(-2.6, -1.7)</td></tr></tbody></table>",
+   "<table width=\"90%\" ID=\"table7\"><caption>Table 7: Mean Serum Phosphorus (mg/dL) and Ion Product at Baseline and Change from Baseline to End of Treatment</caption><col width=\"34%\" align=\"left\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><col width=\"33%\" align=\"center\" valign=\"bottom\"/><thead><tr><th styleCode=\"Lrule Rrule\"/><th styleCode=\"Rrule\">Sevelamer HCl   (N=94) </th><th styleCode=\"Rrule\">Active Control   (N=98) </th></tr></thead><tbody><tr><td styleCode=\"Lrule Rrule\">Phosphorus</td><td styleCode=\"Rrule\"/><td styleCode=\"Rrule\"/></tr><tr><td styleCode=\"Lrule Rrule\"> Baseline</td><td styleCode=\"Rrule\">7.5</td><td styleCode=\"Rrule\">7.3</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Change from Baseline at Endpoint</td><td styleCode=\"Rrule\">-2.1</td><td styleCode=\"Rrule\">-1.8</td></tr><tr><td styleCode=\"Lrule Rrule\">Ca &#xD7; Phosphorus Ion Product</td><td styleCode=\"Rrule\"/><td styleCode=\"Rrule\"/></tr><tr><td styleCode=\"Lrule Rrule\"> Baseline</td><td styleCode=\"Rrule\">70.5</td><td styleCode=\"Rrule\">68.4</td></tr><tr><td styleCode=\"Lrule Rrule\"> Change from Baseline at Endpoint</td><td styleCode=\"Rrule\">-19.4</td><td styleCode=\"Rrule\">-14.2</td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Tablets: Renvela ® (sevelamer carbonate) tablets, for oral use is supplied as white oval, film-coated, compressed tablets, engraved with RV800 on one side, containing 800 mg of sevelamer carbonate on an anhydrous basis. 1 Bottle of 270 ct 800 mg tablets (NDC 58468-0133-1) Powder: Renvela ® (sevelamer carbonate) for oral suspension is supplied as opaque, foil-lined, heat-sealed, packets containing 0.8 g or 2.4 g of sevelamer carbonate on an anhydrous basis. 1 Box (NDC 58468-0131-2) of 90 ct 2.4 g packets (NDC 58468-0131-1) 1 Box (NDC 58468-0132-2) of 90 ct 0.8 g packets (NDC 58468-0132-1) Storage: Store at 25°C (77°F): excursions permitted to 15°C–30°C (59°F–86°F). [See USP controlled room temperature] Protect from moisture."
+  ],
+  "storage_and_handling": [
+   "Storage: Store at 25°C (77°F): excursions permitted to 15°C–30°C (59°F–86°F). [See USP controlled room temperature] Protect from moisture."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Inform patients to take Renvela with meals and adhere to their prescribed diets. For patients using an oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, advise the patient to take the oral medication at least one hour before or three hours after Renvela. For Renvela powder, brief the patient on preparation of the powder in water. Advise patients to report new onset or worsening of existing constipation or bloody stools promptly to their physician [see Warnings and Precautions (5.1) ] ."
+  ],
+  "set_id": "e6328460-a57b-450b-a48c-6dcd4b476360",
+  "id": "cb4453a2-c47b-4352-839f-f022ac67368e",
+  "effective_time": "20251125",
+  "version": "47"
+ }
+}

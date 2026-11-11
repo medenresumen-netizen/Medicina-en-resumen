@@ -1,0 +1,667 @@
+{
+ "id_es": "torasemida",
+ "generic_en": "torsemide",
+ "search": "openfda.generic_name.exact:\"TORSEMIDE\"",
+ "downloaded": "2026-11-11T06:42Z",
+ "chosen": {
+  "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
+  "id": "47fa8bbb-4c81-97c3-e063-6394a90a61cc",
+  "effective_time": "20260109",
+  "version": "4",
+  "brand_name": [
+   "SOAANZ"
+  ],
+  "generic_name": [
+   "TORSEMIDE"
+  ],
+  "manufacturer_name": [
+   "Sarfez Pharmaceuticals Inc"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA213218"
+  ],
+  "n_sections": 6
+ },
+ "candidates": [
+  {
+   "set_id": "5eeca7b4-92ac-bb1f-e063-6394a90a036a",
+   "id": "5eeca7c1-eac2-b8d4-e063-6294a90a3bfc",
+   "effective_time": "20261109",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Kesin Pharma Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "26a3af16-39fc-482d-8a8e-9473af4b0e3f",
+   "id": "5a0aa5c0-0e07-8778-e063-6394a90ac296",
+   "effective_time": "20260827",
+   "version": "3",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076894"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "1c755d94-b846-4336-a968-aa1b92dc0ac0",
+   "id": "5720dd46-bbe6-8230-e063-6394a90ab3f4",
+   "effective_time": "20260721",
+   "version": "7",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076943"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "09305350-e317-419c-96f5-aa8fbeb4044d",
+   "id": "1f177f00-6816-490c-8680-e65d7e59bfb8",
+   "effective_time": "20260326",
+   "version": "4",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "7fc14338-92e4-cf57-a3e8-ef64d8d1026c",
+   "id": "4a94f559-d26f-5817-e063-6294a90ab408",
+   "effective_time": "20260211",
+   "version": "9",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076346"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
+   "id": "47fa8bbb-4c81-97c3-e063-6394a90a61cc",
+   "effective_time": "20260109",
+   "version": "4",
+   "brand_name": [
+    "SOAANZ"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Sarfez Pharmaceuticals Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA213218"
+   ],
+   "n_sections": 6
+  },
+  {
+   "set_id": "f1439b9c-c01c-a6d4-594b-d92b8e0af26e",
+   "id": "4743586b-3839-ba96-e063-6394a90ac898",
+   "effective_time": "20251231",
+   "version": "5",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "a3d68763-95e0-4ad6-89c2-c4b1c0b43948",
+   "id": "459f249e-79f0-77db-e063-6294a90afda0",
+   "effective_time": "20251210",
+   "version": "2",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076894"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "44f2f06d-7bc4-5239-e063-6394a90aac5e",
+   "id": "44f2f06d-7bc5-5239-e063-6394a90aac5e",
+   "effective_time": "20251202",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078249"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "0b3cfce4-61fc-42ba-9ea7-51f81ea014f7",
+   "id": "0a086407-4d3c-435c-b251-43640c0d57dc",
+   "effective_time": "20251022",
+   "version": "100",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076894"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e707eda7-4bde-4944-ae19-1b4fa35b6a3c",
+   "id": "127e6c86-1d66-461a-9c8b-df9e7e63034b",
+   "effective_time": "20251022",
+   "version": "100",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076894"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "da8f2bf5-741c-45f6-b873-31a9fda2f880",
+   "id": "e04998af-0538-4a99-910d-d26eeceac315",
+   "effective_time": "20250626",
+   "version": "100",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076894"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "91d45625-5ba6-b50f-e053-2a95a90ac314",
+   "id": "2be81614-53a3-ed55-e063-6294a90a1152",
+   "effective_time": "20250117",
+   "version": "4",
+   "brand_name": [
+    "TORSEMIDE"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Direct_Rx"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "16dfba29-4c26-45e7-ac7d-b2ec2058e2bb",
+   "id": "2f5ea324-9814-40d2-bb05-c24bbc10afa6",
+   "effective_time": "20241104",
+   "version": "103",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076894"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e58a7d1c-6584-44c3-98ce-a3e9b64e9c82",
+   "id": "342ccc36-eaac-49ec-9005-787d450dd035",
+   "effective_time": "20241031",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "aaabbaca-ba6f-42d5-980d-71135c7c80ea",
+   "id": "254ff01e-6c3e-2624-e063-6394a90a2ee3",
+   "effective_time": "20241025",
+   "version": "10",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "2411e6f8-4fc3-f986-e063-6294a90a055a",
+   "id": "24121be5-87a3-5f8f-e063-6394a90a0b99",
+   "effective_time": "20241009",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076894"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "05c8a6ee-9517-453f-8dd6-7e5ca83c5a68",
+   "id": "0e5e0708-dcdb-493e-a646-80a4c434214e",
+   "effective_time": "20241001",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "99b537f3-1fbf-48b7-ac3e-0a43e6aab313",
+   "id": "3ccef263-cd0f-4935-83a2-9b43a609e94a",
+   "effective_time": "20240930",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076346"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "234ff9d7-a02e-417f-a1f9-94038783cc77",
+   "id": "21c3ca92-aba8-297c-e063-6394a90a7255",
+   "effective_time": "20240910",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "XLCare Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079234"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "13d851b6-3355-4541-93e8-73cdaf0f13d1",
+   "id": "8bd378c8-5742-4ee7-adb8-65bdf1f07b35",
+   "effective_time": "20240716",
+   "version": "103",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078249"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "3c8f1c0b-8a44-4ca0-b2cf-3c591f8878fd",
+   "id": "e5f7dcb0-8cfe-4318-a407-72f1c47e0680",
+   "effective_time": "20240508",
+   "version": "5",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Rising Pharma Holdings, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078249"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "55e88727-864e-4313-860c-31a6ca45168f",
+   "id": "e1cdbb1e-4104-41ee-86af-84fc73d761ba",
+   "effective_time": "20240508",
+   "version": "17",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078249"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "159e8c90-ebc6-0991-e063-6394a90aae19",
+   "id": "159e8c9e-1f33-0a23-e063-6394a90abc74",
+   "effective_time": "20240408",
+   "version": "1",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076943"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "a6055317-8826-df85-e053-2a95a90a5378",
+   "id": "0d9921c1-ead4-6cc5-e063-6294a90a7d81",
+   "effective_time": "20231228",
+   "version": "3",
+   "brand_name": [
+    "Torsemide"
+   ],
+   "generic_name": [
+    "TORSEMIDE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076943"
+   ],
+   "n_sections": 26
+  }
+ ],
+ "label": {
+  "components": [
+   "Drug Structure Structure Drug Structure"
+  ],
+  "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
+  "id": "47fa8bbb-4c81-97c3-e063-6394a90a61cc",
+  "effective_time": "20260109",
+  "version": "4"
+ }
+}
