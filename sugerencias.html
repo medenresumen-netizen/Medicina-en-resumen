@@ -32,9 +32,12 @@
     <p>Si reportas un error, dinos en qué video, guía en resumen o artículo y en qué minuto o página. Si pides un tema, la guía o el artículo concreto nos ayuda mucho.</p>
     <p>El correo es opcional: déjalo solo si quieres que te avisemos cuando tu tema esté listo.</p>
   </div>
-  <form name="sugerencias" method="POST" action="gracias-sugerencia.html" data-netlify="true" netlify-honeypot="campo-bot">
-    <input type="hidden" name="form-name" value="sugerencias">
-    <p class="hidden-field"><label>No llenar: <input name="campo-bot"></label></p>
+  <form name="sugerencias" method="POST" action="https://api.web3forms.com/submit">
+    <input type="hidden" name="access_key" value="b3657106-6f1c-4efe-aa13-a576c07c68d8">
+    <input type="hidden" name="subject" value="Sugerencia nueva · Medicina en resumen">
+    <input type="hidden" name="from_name" value="Sitio Medicina en resumen">
+    <input type="hidden" name="redirect" value="https://medicinaenresumen.com/gracias-sugerencia.html">
+    <p class="hidden-field"><label>No llenar: <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off"></label></p>
     <div><label for="tipo">Tipo</label>
       <select id="tipo" name="tipo" required>
         <option value="Petición de tema">Quiero que revisen un tema, guía o artículo</option>
@@ -44,7 +47,7 @@
       </select></div>
     <div><label for="tema">Tema, guía o material (opcional)</label><input id="tema" name="tema" maxlength="160" placeholder="Ej. guía de gota ACR, guía en resumen de HTA, página 4"></div>
     <div><label for="mensaje">Mensaje</label><textarea id="mensaje" name="mensaje" rows="5" required maxlength="2000" placeholder="Escribe aquí"></textarea></div>
-    <div><label for="correo-s">Correo (opcional)</label><input id="correo-s" type="email" name="correo" autocomplete="email" placeholder="tu@correo.com"></div>
+    <div><label for="correo-s">Correo (opcional)</label><input id="correo-s" type="email" name="email" autocomplete="email" placeholder="tu@correo.com"></div>
     <button class="btn primary" type="submit">Enviar</button>
     <span class="fine">No compartas datos de pacientes. Usamos tu correo solo para responderte. <a href="privacidad.html">Aviso de privacidad</a>.</span>
   </form>
