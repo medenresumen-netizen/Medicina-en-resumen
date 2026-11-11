@@ -46,24 +46,31 @@ def meta(r):
             "product_type": o.get("product_type", []), "application_number": o.get("application_number", []),
             "n_sections": len([k for k in r if k not in SKIP_KEYS])}
 
-def score(r, gen):
+def score(r, gen, route="", brand_pref=""):
     o = r.get("openfda", {})
     brand = [b.lower() for b in o.get("brand_name", [])]
+    want_brand = bool(brand_pref) and any(brand_pref.lower() in b for b in brand)
+    want_route = bool(route) and route in o.get("route", [])
     is_brand = bool(brand) and all(b != gen.lower() for b in brand)
     is_nda = any(a.startswith(("NDA", "BLA")) for a in o.get("application_number", []))
     rx = "HUMAN PRESCRIPTION DRUG" in o.get("product_type", [])
-    return (is_nda, is_brand, rx, len(r), r.get("effective_time", ""))
+    has_dose = "dosage_and_administration" in r
+    return (want_brand, want_route, has_dose, rx, is_nda, is_brand, len(r), r.get("effective_time", ""))
 
-def find(gen):
+def find(gen, brand=""):
     G = gen.upper()
+    if brand:
+        res = get(f'openfda.brand_name:"{brand}"')
+        if res:
+            return f'brand:{brand}', res
     for s in (f'openfda.generic_name.exact:"{G}"', f'openfda.generic_name:"{gen}"', f'openfda.substance_name:"{gen}"'):
         res = get(s)
         if res:
             return s, res
     return None, []
 
-def save(es, gen, search, results, chosen):
-    data = {"id_es": es, "generic_en": gen, "search": search,
+def save(es, gen, search, results, chosen, pref=""):
+    data = {"id_es": es, "generic_en": gen, "search": search, "pref": pref,
             "downloaded": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ"),
             "chosen": meta(chosen),
             "candidates": sorted([meta(r) for r in results], key=lambda m: m["effective_time"] or "", reverse=True)[:25],
@@ -72,7 +79,11 @@ def save(es, gen, search, results, chosen):
         json.dump(data, f, ensure_ascii=False, indent=1)
 
 def main():
-    rows = [l.rstrip("\n").split("\t") for l in open("lista.tsv") if l.strip() and not l.startswith("#")]
+    rows = []
+    for l in open("lista.tsv"):
+        if l.strip() and not l.startswith("#"):
+            c = l.rstrip("\n").split("\t") + ["", ""]
+            rows.append((c[0], c[1], c[2], c[3]))
     forced = {}
     if os.path.exists("pedir.tsv"):
         for l in open("pedir.tsv"):
@@ -81,7 +92,8 @@ def main():
                 forced[es] = sid
     done, missing = 0, []
     try:
-        for es, gen in rows:
+        for es, gen, route, brand in rows:
+            pref = f"{gen}|{route}|{brand}"
             path = f"{OUT}/{es}.json"
             if es in forced:
                 if os.path.exists(path) and json.load(open(path))["chosen"]["set_id"] == forced[es]:
@@ -90,15 +102,23 @@ def main():
                 if res:
                     save(es, gen, f"set_id:{forced[es]}", res, res[0]); done += 1
                 continue
-            if os.path.exists(path):
+            if os.path.exists(path) and json.load(open(path)).get("pref", f"{gen}||") == pref:
                 continue
-            search, res = find(gen)
+            search, res = find(gen, brand)
             if not res:
                 missing.append(es); continue
-            best = max(res, key=lambda r: score(r, gen))
-            save(es, gen, search, res, best); done += 1
+            if brand and search.startswith("brand:"):
+                _, more = find(gen)
+                seen = {r.get("id") for r in res}
+                res = res + [r for r in more if r.get("id") not in seen]
+            best = max(res, key=lambda r: score(r, gen, route, brand))
+            save(es, gen, search, res, best, pref); done += 1
     except RateLimited:
         print("openFDA limitó la tasa; se guarda lo descargado y se sigue en la próxima corrida.")
+    valid = {r[0] for r in rows}
+    for fn in os.listdir(OUT):
+        if fn[:-5] not in valid:
+            os.remove(f"{OUT}/{fn}")
     idx = []
     for fn in sorted(os.listdir(OUT)):
         d = json.load(open(f"{OUT}/{fn}"))
