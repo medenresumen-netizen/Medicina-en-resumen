@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:36Z",
+ "updated": "2026-11-11T14:42Z",
  "n": 351,
  "missing": [
   "norfloxacino",
@@ -3508,19 +3508,19 @@
   },
   {
    "id_es": "metformina",
-   "generic_en": "metformin",
+   "generic_en": "metformin hydrochloride",
    "brand": [
-    "Metformin Hydrochloride"
+    "Metformin hydrochloride ER"
    ],
    "manufacturer": [
-    "Mylan Pharmaceuticals Inc."
+    "Aphena Pharma Solutions - Tennessee, LLC"
    ],
-   "effective_time": "20260915",
-   "set_id": "7e41818c-60e9-4bcf-9586-7bb8d33d5e89",
+   "effective_time": "20230414",
+   "set_id": "1ebaab3a-3d62-4c36-853f-c8784993eafb",
    "application": [
-    "ANDA200690"
+    "ANDA207427"
    ],
-   "n_candidates": 5
+   "n_candidates": 25
   },
   {
    "id_es": "metildopa",
