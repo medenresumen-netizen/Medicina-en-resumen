@@ -1,0 +1,731 @@
+{
+ "id_es": "hidralazina-iv",
+ "generic_en": "hydralazine hydrochloride",
+ "search": "openfda.generic_name.exact:\"HYDRALAZINE HYDROCHLORIDE\"",
+ "pref": "hydralazine hydrochloride|INTRAVENOUS|",
+ "downloaded": "2026-11-11T11:15Z",
+ "chosen": {
+  "set_id": "ffa483a4-de2a-4d42-ad27-afacd37f28e4",
+  "id": "c25506f2-689e-4053-b858-8424e6724ed6",
+  "effective_time": "20240428",
+  "version": "4",
+  "brand_name": [
+   "Hydralazine Hydrochloride"
+  ],
+  "generic_name": [
+   "HYDRALAZINE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Civica, Inc."
+  ],
+  "route": [
+   "INTRAMUSCULAR",
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA040136"
+  ],
+  "n_sections": 23
+ },
+ "candidates": [
+  {
+   "set_id": "4d1f55aa-e924-4540-ae9f-bd7362a82f33",
+   "id": "864e56a0-784f-4ea4-b319-018140a1a048",
+   "effective_time": "20261102",
+   "version": "3",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040388"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "336b11da-e592-4386-921f-3c136d754f2a",
+   "id": "88c1668c-c95d-4db5-8bd5-62cc8d1727f5",
+   "effective_time": "20261015",
+   "version": "4",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "8223c44a-73a9-4da5-a468-d1d8bdb0bbd6",
+   "id": "b6d5484e-2814-4fdb-932b-79d7f6ca4f82",
+   "effective_time": "20261007",
+   "version": "13",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040388"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "7dc89d53-ade0-40de-b7e3-d14f7151958d",
+   "id": "7dc89d53-ade0-40de-b7e3-d14f7151958d",
+   "effective_time": "20260914",
+   "version": "1",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088468"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "51c293c1-70e7-48c7-8af1-a8b74312ed56",
+   "id": "5afaad77-c098-8249-e063-6394a90a1a88",
+   "effective_time": "20260908",
+   "version": "3",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "6c40d818-77a9-492c-b9b6-d8a0fe8d6736",
+   "id": "5a078472-2310-d370-e063-6394a90a9862",
+   "effective_time": "20260827",
+   "version": "8",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "d2d98842-ff32-4a61-94e0-60e06919948f",
+   "id": "c5e1b932-1ee1-4bf1-8e92-b70412c628fe",
+   "effective_time": "20260814",
+   "version": "8",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040901"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "dca82025-a4cd-4856-aa19-bdf091bf8973",
+   "id": "5905ae5e-7ec3-d680-e063-6294a90aa154",
+   "effective_time": "20260814",
+   "version": "4",
+   "brand_name": [
+    "hydrALAZINE Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040388"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "58773e8c-b6bc-6bc6-e063-6294a90adc26",
+   "id": "58773dbd-7c36-7daa-e063-6394a90a6666",
+   "effective_time": "20260807",
+   "version": "1",
+   "brand_name": [
+    "HydrALAZINE Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200770"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "db7500f3-f8a6-46b1-bb64-9727617a9643",
+   "id": "0489db42-3dc0-4415-a2a6-ea6833c93590",
+   "effective_time": "20260730",
+   "version": "19",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088468",
+    "ANDA088467"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "b6ccd35e-f69c-4eef-a456-905e030ae911",
+   "id": "04308bf7-3b18-4338-b37e-753170a09b5e",
+   "effective_time": "20260715",
+   "version": "3",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "1275dd50-d97f-2e8f-e063-6394a90a4a67",
+   "id": "54da9593-215a-5871-e063-6294a90a7684",
+   "effective_time": "20260622",
+   "version": "3",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "8b7e88ef-5edd-40df-8e43-e3f29970be58",
+   "id": "b00ee56d-44d3-4fc6-8004-52e1e6f21451",
+   "effective_time": "20260619",
+   "version": "3",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040388"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "a70d20d6-23f0-477e-915c-678a86782175",
+   "id": "5410d802-d6ba-1fbe-e063-6294a90a95a3",
+   "effective_time": "20260612",
+   "version": "6",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "d61ffa06-8138-4a1d-9530-095a80d9c9ce",
+   "id": "540eb738-12de-bdf1-e063-6294a90aa87d",
+   "effective_time": "20260612",
+   "version": "4",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "0d65e146-83e5-427f-ac06-04c0d8e72cea",
+   "id": "53d6aabf-10fe-a543-e063-6394a90a9e2a",
+   "effective_time": "20260609",
+   "version": "4",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205236"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "43ce0ecb-6d62-44bf-8539-823ae03eb9f4",
+   "id": "0323032a-93a6-4fb3-b6d6-24f2bcfd6e6e",
+   "effective_time": "20260603",
+   "version": "10",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040388"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "a1066707-2391-4918-8ded-600c017fde48",
+   "id": "fb222ecf-abde-47bc-b0a4-b66edc96638d",
+   "effective_time": "20260518",
+   "version": "4",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "438479d0-ff61-4008-a0fc-1ee44b97cf7f",
+   "id": "4dea31eb-3662-41d5-aa2a-292b5a0ae9dd",
+   "effective_time": "20260507",
+   "version": "7",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040901"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "f0db9c3c-d841-46f9-8409-9ffca83d7a97",
+   "id": "080a71a3-1d50-42bf-b329-bf64a84893d6",
+   "effective_time": "20260506",
+   "version": "2",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Zydus Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202938"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "ae5d85df-11a3-4952-ade2-596d57cdd987",
+   "id": "e9ca27ef-fa6d-4b88-a84b-9a56bffe2020",
+   "effective_time": "20260421",
+   "version": "2",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Navinta LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202938"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "669532c9-ba15-4f4b-95a8-13782deb3521",
+   "id": "c0c6a9c0-15c8-408d-b398-3fb16e0f8cd3",
+   "effective_time": "20260403",
+   "version": "3",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040858"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "66c5eaa4-a51a-464b-98ad-f094f32876dd",
+   "id": "4cc62699-816e-6056-e063-6394a90a36a7",
+   "effective_time": "20260311",
+   "version": "2",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Safecor Health, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA089097",
+    "ANDA088467",
+    "ANDA088468"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "f3c806a4-b971-421c-bcb9-9979c6d7aaec",
+   "id": "2926d221-0ca5-4379-ac53-773051ec5c79",
+   "effective_time": "20260227",
+   "version": "4",
+   "brand_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217501"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "4aa1b3e8-9389-fe2c-e063-6294a90a7fb9",
+   "id": "4aa1b35f-6678-9062-e063-6394a90acbee",
+   "effective_time": "20260212",
+   "version": "1",
+   "brand_name": [
+    "Hydralazine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDRALAZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205236"
+   ],
+   "n_sections": 23
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION HydrALAZINE Hydrochloride Injection, USP is an antihypertensive available in a 1 mL vial for intravenous and intramuscular administration. Each milliliter of the sterile, nonpyrogenic colorless solution contains Hydralazine Hydrochloride, 20 mg, Methylparaben, 0.65 mg, Propylparaben, 0.35 mg, Propylene Glycol, 103.6 mg, and Water for Injection q.s. The pH of the solution is 3.4 to 4.4. pH may be adjusted with Hydrochloric Acid and/or Sodium Hydroxide. Hydralazine Hydrochloride is 1-Hydrazinophthalazine monohydrochloride, and its structural formula is: Molecular Formula C 8 H 8 N 4 HCl Hydralazine Hydrochloride USP is a white to off-white, odorless crystalline powder. It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether. It melts at about 275°C, with decomposition, and has a molecular weight of 196.64. Adobe Systems"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system. Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle. Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state. The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output. The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output. Hydralazine usually increases renin activity in plasma, presumably as a result of increased secretion of renin by the renal juxtaglomerular cells in response to reflex sympathetic discharge. This increase in renin activity leads to the production of angiotensin II, which then causes stimulation of aldosterone and consequent sodium reabsorption. Hydralazine also maintains or increases renal and cerebral blood flow. The average maximal decrease in blood pressure usually occurs 10 to 80 minutes after administration of hydralazine hydrochloride injection. No other pharmacokinetic data on hydralazine hydrochloride injection are available."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease."
+  ],
+  "warnings": [
+   "WARNINGS In a few patients hydralazine may produce a clinical picture simulating systemic lupus erythematosus including glomerulonephritis. In such patients hydralazine should be discontinued unless the benefit-to-risk determination requires continued antihypertensive therapy with this drug. Symptoms and signs usually regress when the drug is discontinued but residua have been detected many years later. Long-term treatment with steroids may be necessary. (See PRECAUTIONS, Laboratory Tests . )"
+  ],
+  "precautions": [
+   "PRECAUTIONS General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop. Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine hydrochloride. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued. Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly. Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Teratogenic Effects Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers Hydralazine has been shown to be excreted in breast milk. Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children. The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7 to 3.5 mg/kg of body weight daily, divided into four to six doses."
+  ],
+  "general_precautions": [
+   "General Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia. The drug has been implicated in the production of myocardial infarction. It must, therefore, be used with caution in patients with suspected coronary artery disease. The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies. For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease. The drug may reduce the pressor responses to epinephrine. Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents. It should be used with caution in patients with cerebral vascular accidents. In hypertensive patients with normal kidneys who are treated with hydralazine, there is evidence of increased renal blood flow and a maintenance of glomerular filtration rate. In some instances where control values were below normal, improved renal function has been noted after administration of hydralazine. However, as with any antihypertensive agent, hydralazine should be used with caution in patients with advanced renal damage. Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed. Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop."
+  ],
+  "laboratory_tests": [
+   "Laboratory Tests Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic. These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms. A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine hydrochloride. Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported. If such abnormalities develop, therapy should be discontinued."
+  ],
+  "drug_interactions": [
+   "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Hydralazine has been shown to be excreted in breast milk."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children. The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7 to 3.5 mg/kg of body weight daily, divided into four to six doses."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+  ],
+  "overdosage": [
+   "OVERDOSAGE Acute Toxicity: No deaths due to acute poisoning have been reported. Highest known dose survived: adults, 10 g orally. Oral LD 50 in rats: 173 and 187 mg/kg. Signs and Symptoms: Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing. Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock. Treatment: There is no specific antidote. Support of the cardiovascular system is of primary importance. Shock should be treated with plasma expanders. If possible, vasopressors should not be given, but if a vasopressor is required, care should be taken not to precipitate or aggravate cardiac arrhythmia. Tachycardia responds to beta blockers. Digitalization may be necessary, and renal function should be monitored and supported as required. No experience has been reported with extracorporeal or peritoneal dialysis."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION When there is urgent need, therapy in the hospitalized patient may be initiated intramuscularly or as a rapid intravenous bolus injection directly into the vein. Hydralazine hydrochloride injection should be used only when the drug cannot be given orally. The usual dose is 20 to 40 mg, repeated as necessary. Certain patients (especially those with marked renal damage) may require a lower dose. Blood pressure should be checked frequently. It may begin to fall within a few minutes after injection, with the average maximal decrease occurring in 10 to 80 minutes. In cases where there has been increased intracranial pressure, lowering the blood pressure may increase cerebral ischemia. Most patients can be transferred to oral hydralazine hydrochloride within 24 to 48 hours. The product should be used immediately after the vial is opened. It should not be added to infusion solutions. Hydralazine hydrochloride injection may discolor upon contact with metal; discolored solutions should be discarded. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED HydrALAZINE Hydrochloride Injection, USP (20 mg/mL) NDC 72572- 265 -25 1 mL Single Dose Vial Packaged in boxes of 25 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature). Mfd for: Civica, Inc. Lehi, Utah 84043 Mfd by: American Regent, Inc. Shirley, New York 11967 IN265 Rev. 04/2020 MG #47338 Civica Logo"
+  ],
+  "set_id": "ffa483a4-de2a-4d42-ad27-afacd37f28e4",
+  "id": "c25506f2-689e-4053-b858-8424e6724ed6",
+  "effective_time": "20240428",
+  "version": "4"
+ }
+}

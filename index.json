@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T11:12Z",
- "n": 345,
+ "updated": "2026-11-11T11:15Z",
+ "n": 348,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -2373,6 +2373,22 @@
    "n_candidates": 9
   },
   {
+   "id_es": "furosemida-iv",
+   "generic_en": "furosemide",
+   "brand": [
+    "Furosemide"
+   ],
+   "manufacturer": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "effective_time": "20260811",
+   "set_id": "58cc1e38-6000-1489-e063-6394a90a5978",
+   "application": [
+    "NDA018667"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "furosemida",
    "generic_en": "furosemide",
    "brand": [
@@ -2577,6 +2593,22 @@
    "set_id": "eede8a0c-5ae6-4166-84b3-12081405f08e",
    "application": [
     "NDA019339"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "hidralazina-iv",
+   "generic_en": "hydralazine hydrochloride",
+   "brand": [
+    "Hydralazine Hydrochloride"
+   ],
+   "manufacturer": [
+    "Civica, Inc."
+   ],
+   "effective_time": "20240428",
+   "set_id": "ffa483a4-de2a-4d42-ad27-afacd37f28e4",
+   "application": [
+    "ANDA040136"
    ],
    "n_candidates": 25
   },
@@ -3027,6 +3059,22 @@
     "NDA012093"
    ],
    "n_candidates": 21
+  },
+  {
+   "id_es": "isosorbida-hidralazina",
+   "generic_en": "isosorbide dinitrate and hydralazine hydrochloride",
+   "brand": [
+    "BiDil"
+   ],
+   "manufacturer": [
+    "Azurity Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20251130",
+   "set_id": "e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00",
+   "application": [
+    "NDA020727"
+   ],
+   "n_candidates": 4
   },
   {
    "id_es": "isosorbida-mononitrato",
