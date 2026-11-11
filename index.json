@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T16:08Z",
- "n": 367,
+ "updated": "2026-11-11T17:39Z",
+ "n": 368,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -649,6 +649,22 @@
    "n_candidates": 21
   },
   {
+   "id_es": "azitromicina-iv",
+   "generic_en": "azithromycin",
+   "brand": [
+    "Zithromax"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20260909",
+   "set_id": "8d24bacb-feff-4c6a-b8df-625e1435387a",
+   "application": [
+    "NDA050733"
+   ],
+   "n_candidates": 1
+  },
+  {
    "id_es": "azitromicina",
    "generic_en": "azithromycin",
    "brand": [
@@ -1180,17 +1196,17 @@
    "id_es": "ceftriaxona",
    "generic_en": "ceftriaxone",
    "brand": [
-    "CEFTRIAXONE AND DEXTROSE"
+    "Ceftriaxone"
    ],
    "manufacturer": [
-    "B. Braun Medical Inc."
+    "WG Critical Care, LLC"
    ],
-   "effective_time": "20220113",
-   "set_id": "67153914-16bc-490d-82d7-638061618467",
+   "effective_time": "20260107",
+   "set_id": "7bed9b33-29e3-4f04-9766-43a21c7ad47a",
    "application": [
-    "NDA050796"
+    "ANDA065329"
    ],
-   "n_candidates": 10
+   "n_candidates": 1
   },
   {
    "id_es": "cefuroxima",
@@ -5586,17 +5602,17 @@
    "id_es": "tramadol",
    "generic_en": "tramadol",
    "brand": [
-    "ConZip"
+    "Tramadol Hydrochloride"
    ],
    "manufacturer": [
-    "Vertical Pharmaceuticals, LLC"
+    "Amneal Pharmaceuticals NY LLC"
    ],
-   "effective_time": "20251229",
-   "set_id": "a65b4d05-3a1c-4aa1-848a-d20ac9aaf62f",
+   "effective_time": "20260606",
+   "set_id": "8ec4e4e5-a56e-4198-8428-6b770b9bf27d",
    "application": [
-    "NDA022370"
+    "ANDA076003"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "trazodona",
