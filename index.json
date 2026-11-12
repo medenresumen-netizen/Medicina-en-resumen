@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T05:25Z",
- "n": 404,
+ "updated": "2026-11-12T06:32Z",
+ "n": 416,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -633,6 +633,22 @@
    "n_candidates": 10
   },
   {
+   "id_es": "aripiprazol",
+   "generic_en": "aripiprazole",
+   "brand": [
+    "ABILIFY"
+   ],
+   "manufacturer": [
+    "Otsuka America Pharmaceutical, Inc."
+   ],
+   "effective_time": "20250129",
+   "set_id": "c040bd1d-45b7-49f2-93ea-aed7220b30ac",
+   "application": [
+    "NDA021436"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "aspirina",
    "generic_en": "aspirin",
    "brand": [
@@ -1045,6 +1061,22 @@
    "set_id": "da90618a-5621-4b15-bc48-9dcc631418de",
    "application": [
     "ANDA207276"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "bupropion",
+   "generic_en": "bupropion hydrochloride",
+   "brand": [
+    "WELLBUTRIN XL"
+   ],
+   "manufacturer": [
+    "Bausch Health US LLC"
+   ],
+   "effective_time": "20260210",
+   "set_id": "a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+   "application": [
+    "NDA021515"
    ],
    "n_candidates": 25
   },
@@ -1527,6 +1559,22 @@
    "n_candidates": 20
   },
   {
+   "id_es": "citalopram",
+   "generic_en": "citalopram hydrobromide",
+   "brand": [
+    "Celexa"
+   ],
+   "manufacturer": [
+    "Allergan, Inc."
+   ],
+   "effective_time": "20231009",
+   "set_id": "4259d9b1-de34-43a4-85a8-41dd214e9177",
+   "application": [
+    "NDA020822"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "claritromicina",
    "generic_en": "clarithromycin",
    "brand": [
@@ -1653,6 +1701,22 @@
     "NDA019123"
    ],
    "n_candidates": 25
+  },
+  {
+   "id_es": "clozapina",
+   "generic_en": "clozapine",
+   "brand": [
+    "Clozaril"
+   ],
+   "manufacturer": [
+    "HLS Therapeutics (USA), Inc."
+   ],
+   "effective_time": "20250606",
+   "set_id": "90876802-0e3a-44c9-9ff7-1754dfbe736a",
+   "application": [
+    "NDA019758"
+   ],
+   "n_candidates": 16
   },
   {
    "id_es": "colchicina",
@@ -1953,6 +2017,22 @@
    "set_id": "73b3607a-99d0-44d8-92ef-0074684c9d7d",
    "application": [
     "NDA021392"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "divalproato",
+   "generic_en": "divalproex sodium",
+   "brand": [
+    "Depakote ER"
+   ],
+   "manufacturer": [
+    "AbbVie Inc."
+   ],
+   "effective_time": "20260331",
+   "set_id": "0dc024ce-efc8-4690-7cb5-639c728fccac",
+   "application": [
+    "NDA021168"
    ],
    "n_candidates": 25
   },
@@ -4341,6 +4421,22 @@
    "n_candidates": 3
   },
   {
+   "id_es": "mirabegron",
+   "generic_en": "mirabegron",
+   "brand": [
+    "Myrbetriq"
+   ],
+   "manufacturer": [
+    "Astellas Pharma US, Inc."
+   ],
+   "effective_time": "20240801",
+   "set_id": "ba9e9e15-e666-4c56-9271-2e24739cfa2d",
+   "application": [
+    "NDA202611"
+   ],
+   "n_candidates": 15
+  },
+  {
    "id_es": "mirtazapina",
    "generic_en": "mirtazapine",
    "brand": [
@@ -4355,6 +4451,22 @@
     "NDA021208"
    ],
    "n_candidates": 25
+  },
+  {
+   "id_es": "misoprostol",
+   "generic_en": "misoprostol",
+   "brand": [
+    "Cytotec"
+   ],
+   "manufacturer": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "effective_time": "20260604",
+   "set_id": "4ab12da7-5731-4e06-bf1c-bc3f2e711f12",
+   "application": [
+    "NDA019268"
+   ],
+   "n_candidates": 19
   },
   {
    "id_es": "montelukast",
@@ -4789,6 +4901,22 @@
    "n_candidates": 6
   },
   {
+   "id_es": "oxibutinina",
+   "generic_en": "oxybutynin chloride",
+   "brand": [
+    "Oxybutynin Chloride Extended Release"
+   ],
+   "manufacturer": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "effective_time": "20230531",
+   "set_id": "02ff3be7-fc5c-4b91-8c67-ecdf6e19c42a",
+   "application": [
+    "ANDA078503"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "oxicodona",
    "generic_en": "oxycodone",
    "brand": [
@@ -4851,6 +4979,22 @@
     "ANDA214331"
    ],
    "n_candidates": 25
+  },
+  {
+   "id_es": "paroxetina",
+   "generic_en": "paroxetine hydrochloride",
+   "brand": [
+    "PAXIL CR"
+   ],
+   "manufacturer": [
+    "Apotex Corp"
+   ],
+   "effective_time": "20260930",
+   "set_id": "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+   "application": [
+    "NDA020936"
+   ],
+   "n_candidates": 22
   },
   {
    "id_es": "patiromero",
@@ -5605,6 +5749,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "sildenafil",
+   "generic_en": "sildenafil citrate",
+   "brand": [
+    "Viagra"
+   ],
+   "manufacturer": [
+    "PFIZER LABORATORIES DIV PFIZER INC"
+   ],
+   "effective_time": "20171215",
+   "set_id": "0b0be196-0c62-461c-94f4-9a35339b4501",
+   "application": [
+    "NDA020895"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "sitagliptina",
    "generic_en": "sitagliptin",
    "brand": [
@@ -5759,6 +5919,22 @@
    "set_id": "7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
    "application": [
     "NDA050708"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "tadalafil",
+   "generic_en": "tadalafil",
+   "brand": [
+    "Cialis"
+   ],
+   "manufacturer": [
+    "Eli Lilly and Company"
+   ],
+   "effective_time": "20260603",
+   "set_id": "bcd8f8ab-81a2-4891-83db-24a0b0e25895",
+   "application": [
+    "NDA021368"
    ],
    "n_candidates": 25
   },
@@ -6369,6 +6545,22 @@
     "BLA761133"
    ],
    "n_candidates": 1
+  },
+  {
+   "id_es": "venlafaxina",
+   "generic_en": "venlafaxine hydrochloride",
+   "brand": [
+    "Effexor XR"
+   ],
+   "manufacturer": [
+    "Viatris Specialty LLC"
+   ],
+   "effective_time": "20230815",
+   "set_id": "c848a5d8-ba94-4c84-80e3-0bf35fb8e32e",
+   "application": [
+    "NDA020699"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "verapamilo-iv",

@@ -1,0 +1,683 @@
+{
+ "id_es": "paroxetina",
+ "generic_en": "paroxetine hydrochloride",
+ "search": "brand:PAXIL",
+ "pref": "paroxetine hydrochloride|ORAL|PAXIL",
+ "downloaded": "2026-11-12T06:32Z",
+ "chosen": {
+  "set_id": "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+  "id": "537a5f05-8311-a97e-acde-275206595dcd",
+  "effective_time": "20260930",
+  "version": "34",
+  "brand_name": [
+   "PAXIL CR"
+  ],
+  "generic_name": [
+   "PAROXETINE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Apotex Corp"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA020936"
+  ],
+  "n_sections": 35
+ },
+ "candidates": [
+  {
+   "set_id": "f22886f5-230c-47e4-9dd8-ffb14c8d6ae4",
+   "id": "2f1f6648-b83c-4a6c-96dd-ecfa83839191",
+   "effective_time": "20261008",
+   "version": "16",
+   "brand_name": [
+    "Paroxetine Hydrochloride"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lannett Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204744"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+   "id": "537a5f05-8311-a97e-acde-275206595dcd",
+   "effective_time": "20260930",
+   "version": "34",
+   "brand_name": [
+    "PAXIL CR"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020936"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e",
+   "id": "e1aa474e-4ffe-6c6c-8037-84907819bb88",
+   "effective_time": "20260929",
+   "version": "13",
+   "brand_name": [
+    "PAXIL"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020031"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "98d4f767-06e3-4d9b-b1ad-4b31f7e36130",
+   "id": "5c8eace0-40cc-af02-e063-6294a90a67d8",
+   "effective_time": "20260928",
+   "version": "16",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "8e176ff2-ed3a-4909-94e1-6b9a3581a621",
+   "id": "5c3c9503-6d69-ae4c-e063-6394a90aebe0",
+   "effective_time": "20260924",
+   "version": "20",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "beb87e2e-0a8f-43b6-b148-57f0b7191548",
+   "id": "5c39e1f6-813e-a5eb-e063-6394a90a42da",
+   "effective_time": "20260924",
+   "version": "19",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "e63fe922-b35a-406c-8737-f3f5e6d5a30d",
+   "id": "5bb4efaf-40fd-b0e3-e063-6394a90a9c45",
+   "effective_time": "20260917",
+   "version": "18",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "08320ea3-8f93-6f04-5d1c-f69af3eb5a81",
+   "id": "372affaa-7ff0-8369-d124-358a79da4bbe",
+   "effective_time": "20260916",
+   "version": "26",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "087ff0d3-1761-47ea-a8c1-7c4cb679af97",
+   "id": "f66c4702-5904-afb1-5a22-a236e8fa7f25",
+   "effective_time": "20260916",
+   "version": "19",
+   "brand_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Apotex Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020936"
+   ],
+   "n_sections": 34
+  },
+  {
+   "set_id": "84b1b1f0-d375-4fda-99af-9487f8ef50c7",
+   "id": "1aadea03-718a-4b63-bb15-b23e171ad993",
+   "effective_time": "20260901",
+   "version": "20",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "605c1d23-c97c-4ea4-92d0-fed351de9d2e",
+   "id": "52cc8811-3e6d-4078-80d6-18cb06073b21",
+   "effective_time": "20260811",
+   "version": "12",
+   "brand_name": [
+    "Paroxetine"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals, Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077584"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "118320de-0632-4139-8b13-7428b41da0ac",
+   "id": "58ae7e71-d4cb-4f30-84d4-1c10fc44090d",
+   "effective_time": "20260709",
+   "version": "6",
+   "brand_name": [
+    "Paroxetine"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NorthStar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078406"
+   ],
+   "n_sections": 42
+  },
+  {
+   "set_id": "26d37a39-1c53-461c-8834-c67fbffcfe99",
+   "id": "5092043a-0e8c-05e1-e063-6394a90ad3dc",
+   "effective_time": "20260429",
+   "version": "1",
+   "brand_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Camber Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219954"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "4d3b4536-7900-223c-e063-6294a90a3d60",
+   "id": "4d3b40a4-5332-7664-e063-6394a90aed00",
+   "effective_time": "20260317",
+   "version": "1",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "333dfd07-61f0-4b86-b4b5-b04adf64e49f",
+   "id": "224dfb62-6c9f-435c-b760-434430075a5c",
+   "effective_time": "20250818",
+   "version": "6",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "326e8ab0-6886-4749-9544-885b37070051",
+   "id": "19f7a08f-58bd-45b8-a750-4432ae161455",
+   "effective_time": "20250515",
+   "version": "24",
+   "brand_name": [
+    "Paroxetine"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078406"
+   ],
+   "n_sections": 42
+  },
+  {
+   "set_id": "6d5fcdb2-4d84-4b20-87e3-58a43e567500",
+   "id": "ef5c1ef5-2884-4395-a65a-92591c986150",
+   "effective_time": "20241203",
+   "version": "13",
+   "brand_name": [
+    "Paroxetine"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Zydus Lifesciences Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077584"
+   ],
+   "n_sections": 6
+  },
+  {
+   "set_id": "c3c204df-6b7d-42fb-8794-4f38064ed963",
+   "id": "52e74299-f193-408d-9d0d-e48398a1734a",
+   "effective_time": "20240906",
+   "version": "102",
+   "brand_name": [
+    "paroxetine hydrochloride"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076968"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "25182b68-8f7a-48e8-9788-6818b0984b29",
+   "id": "2ac7f06f-af78-4705-a209-d9041b2de825",
+   "effective_time": "20240809",
+   "version": "2",
+   "brand_name": [
+    "paroxetine hydrochloride"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Oxford Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076968"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "5e47c4fb-6070-4cb4-acaa-c6e90199b55c",
+   "id": "d72b03fa-f81e-4eab-95aa-00c6c48ebf37",
+   "effective_time": "20240111",
+   "version": "103",
+   "brand_name": [
+    "Paroxetine Hydrochloride"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204744"
+   ],
+   "n_sections": 36
+  },
+  {
+   "set_id": "1801246b-02c3-430f-932a-b18cb0d13d1d",
+   "id": "4569b4c4-1f9a-4dcb-96f7-296bb6ef34e7",
+   "effective_time": "20181105",
+   "version": "1",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 40
+  },
+  {
+   "set_id": "a7128be7-7023-40c4-aa64-29d52145ae31",
+   "id": "1bb37fe5-45ba-4f89-b480-35fa1dedf247",
+   "effective_time": "20181017",
+   "version": "1",
+   "brand_name": [
+    "PAROXETINE"
+   ],
+   "generic_name": [
+    "PAROXETINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA075356"
+   ],
+   "n_sections": 40
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: SUICIDAL THOUGHTS AND BEHAVIORS Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric and young adult patients in short-term studies. Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors [See Warnings and Precautions ( 5.1 )] PAXIL CR is not approved for use in pediatric patients [see Use in Specific Populations ( 8.4 )]. WARNING: SUICIDAL THOUGHTS AND BEHAVIORS See full prescribing information for complete boxed warning. Antidepressants increase the risk of suicidal thoughts and behavior in pediatric and young adult patients ( 5.1 ). Closely monitor all antidepressant-treated patients for clinical worsening and emergence of suicidal thoughts and behaviors ( 5.1 ). PAXIL CR is not approved for use in pediatric patients. ( 5.1 , 8.4)"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE PAXIL CR is indicated for the treatment of: Major depressive disorder (MDD) in adults Panic disorder (PD) in adults Social anxiety disorder (SAD) in adults Premenstrual dysphoric disorder (PMDD) in adults PAXIL CR is a selective serotonin reuptake inhibitor (SSRI) indicated for use in adults for the treatment of ( 1 ): Major depressive disorder (MDD) in adults Panic disorder (PD) in adults Social anxiety disorder (SAD) in adults Premenstrual dysphoric disorder (PMDD) in adults"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Prior to initiating treatment with PAXIL CR, screen patients for a personal or family history of bipolar disorder, mania, or hypomania (2.1, 5.6) Administer PAXIL CR once daily in the morning, with or without food. Swallow extended-release tablets whole; do not chew or crush. ( 2. 2) Recommended starting maximum daily dosage in the table below. Indication Starting Dosage Maximum Dosage MDD 25 mg/day 62.5 mg/day PD 12.5 mg/day 75 mg/day SAD 12.5 mg/day 37.5 mg/day PMDD 12.5 mg/day 25 mg/day For PMDD, dose continuously or intermittently (luteal phase only). ( 2.3 ) Geriatric patients, patients with severe renal impairment or severe hepatic impairment: Starting dosage is 12.5 mg/day and the maximum dosage for MDD or PD is 50 mg/day and for SAD is 37.5 mg/day. ( 2.5 ) When discontinuing PAXIL CR, reduce dosage gradually. ( 2.7 ) 2.1 Screen for Bipolar Disorder Prior to Starting PAXIL CR Prior to initiating treatment with PAXIL CR, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions ( 5.6 )]. 2.2 Important Administration Instructions Administer PAXIL CR once daily in the morning, with or without food [see Clinical Pharmacology ( 12.3 )] . Swallow the extended-release tablets whole and do not chew or crush. 2.3 Dosage in Patients with Major Depressive Disorder, Panic Disorder, and Social Anxiety Disorder The recommended starting dosage and maximum dosage of PAXIL CR in patients with MDD, PD, and SAD are presented in Table 1. In patients with an inadequate response, may increase the PAXIL CR dosage by 12.5 mg/day at weekly intervals (e.g., if the starting dosage is 12.5 mg/day may increase the dosage the next week to 25 mg/day), depending on tolerability, up to the maximum recommended dosage. Table 1: Recommended Daily Dosage of PAXIL CR in Patients with MDD, PD, and SAD Indication Starting Dosage Maximum Dosage MDD 25 mg 62.5 mg PD 12.5 mg 75 mg SAD 12.5 mg 37.5 mg 2.4 Dosage in Patients with Premenstrual Dysphoric Disorder The recommended starting dosage of PAXIL CR in women with PMDD is 12.5 mg/day. Administer PAXIL CR either: Continuously (every day throughout the menstrual cycle) or Intermittently with each new cycle (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses). In patients with an inadequate response, may increase the PAXIL CR dosage by 12.5 mg/day at weekly intervals (e.g., after 1 week may increase the dosage from 12.5 mg/day to 25 mg/day) to the maximum recommended dosage of 25 mg/day, depending on tolerability. 2.5 Recommended Dosage in Geriatric Patients, Patients with Severe Renal Impairment, and Patients with Severe Hepatic Impairment For the treatment of MDD, PD, SAD, or PMDD in geriatric patients (those 65 years of age or older), patients with severe renal impairment, and patients with severe hepatic impairment [see Use in Specific Populations ( 8.5 , 8.6 , 8.7)]: The recommended starting dosage of PAXIL CR is 12.5 mg/day. If these patients have an adequate response, may increase the PAXIL CR dosage by 12.5 mg/day at weekly intervals (e.g., after 1 wee, may increase the dosage from 12.5 mg/day to 25 mg/day) up to the maximum recommended dosage. The maximum recommended dosage is 50 mg/day for MDD or PD, 37.5 mg/day for SAD; and 25 mg/day for PMDD. In these patients with PMDD, may administer PAXIL CR intermittently [see Dosage and Administration ( 2.3 )]. 2.6 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant At least 14 days must elapse between discontinuation of an monoamine oxidase inhibitor (MAOI) antidepressant and initiation of PAXIL CR. In addition, at least 14 days must elapse after stopping PAXIL CR before starting an MAOI antidepressant [see Contraindications ( 4 ), Warnings and Precautions ( 5.2 )]. 2.7 Discontinuation of PAXIL CR Treatment When discontinuing PAXIL CR treatment, gradually reduce the dosage rather than stopping PAXIL CR abruptly whenever possible [see Warnings and Precautions ( 5.7 ) and Drug Abuse and Dependence ( 9.3 )]."
+  ],
+  "dosage_and_administration_table": [
+   "<table frame=\"box\" rules=\"all\"> <tbody> <tr> <td> Indication </td> <td> Starting Dosage</td> <td> Maximum Dosage</td> </tr> <tr> <td> MDD </td> <td> 25 mg/day </td> <td> 62.5 mg/day </td> </tr> <tr> <td> PD </td> <td> 12.5 mg/day </td> <td> 75 mg/day </td> </tr> <tr> <td> SAD </td> <td> 12.5 mg/day </td> <td> 37.5 mg/day </td> </tr> <tr> <td> PMDD </td> <td> 12.5 mg/day </td> <td> 25 mg/day </td> </tr> </tbody> </table>",
+   "<table frame=\"box\" rules=\"all\" width=\"75%\"> <tbody> <tr> <td align=\"center\"> <content styleCode=\"bold\">Indication</content> </td> <td align=\"center\"> <content styleCode=\"bold\">Starting Dosage</content> </td> <td align=\"center\"> <content styleCode=\"bold\">Maximum Dosage</content> </td> </tr> <tr> <td align=\"center\">MDD</td> <td align=\"center\">25 mg</td> <td align=\"center\">62.5 mg</td> </tr> <tr> <td align=\"center\">PD</td> <td align=\"center\">12.5 mg</td> <td align=\"center\">75 mg</td> </tr> <tr> <td align=\"center\">SAD</td> <td align=\"center\">12.5 mg</td> <td align=\"center\">37.5 mg</td> </tr> </tbody> </table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Extended-release tablet as follows: 12.5-mg yellow, round, (One face is plain and the other is engraved with \"12.5\") 25-mg pink, round, (One face is plain and the other is engraved with \"25\") 37.5 mg blue, round, (One face is plain and the other is engraved with \"37.5\") Extended-release tablets:12.5 mg, 25 mg, and 37.5 mg. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS PAXIL CR is contraindicated in patients: Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions ( 5.2 ), and Drug Interactions ( 7 )]. Who receive drugs that can prolong QTc interval and are also CYP2D6 substrates [see Drug Interactions ( 7 ) and Warnings and Precautions ( 5.3 )]. With known hypersensitivity to paroxetine or to any of the inactive ingredients in PAXIL CR. Hypersensitivity reactions have included anaphylaxis, angioedema, and Stevens- Johnson syndrome [see Adverse Reactions ( 6.1 , 6.2 )]. PAXIL CR is contraindicated in patients: Taking, or within 14 days of stopping monoamine oxidase inhibitors (MAOIs). ( 4 , 5.2 , 7 ) Who receive drugs that can prolong QTc interval and are also CYP2D6 substrates ( 4 , 5.3 , 7 ) Known hypersensitivity to paroxetine or to any of the inactive ingredients in PAXIL CR. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Serotonin Syndrome: Monitor all patients taking PAXIL CR for the emergence of serotonin syndrome. If occurs, discontinue PAXIL CR and serotonergic agents and initiate supportive measures. ( 5.2 ) Embryofetal Toxicity: For women who intend to become pregnant or who are in their first trimester of pregnancy, PAXIL CR, should be initiated only after consideration of the other available treatment options ( 5.4 , 8.1 ) Increased Risk of Bleeding: For patients taking warfarin, carefully monitor the international normalized ratio when initiating, titrating, or discontinuing PAXIL CR ( 5.5 ) Seizures : Use with caution in patients with seizure disorders and PAXIL CR should be discontinued in patients who develop a seizure. ( 5.8 ) Angle-Closure Glaucoma: Avoid use of PAXIL CR in patients with untreated anatomically narrow angles. (5.9 ) Hyponatremia: In patients with symptomatic hyponatremia, discontinue PAXIL CR and institute appropriate medical intervention ( 5.10 ) Sexual Dysfunction: Inquire about sexual function prior to initiation of PAXIL CR and to inquire specifically about changes in sexual function during PAXIL CR treatment ( 1 ) 5.1 Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients. There were differences in absolute risk of suicidal thoughts and behaviors across the different uses, with the highest incidence in patients with MDD. The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 2. Table 2: Risk Differences of the Number of Patients with Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric 1 and Adult Patients Age Range Drug-Placebo Difference in Number of Patients of Suicidal Thoughts and Behaviors per 1,000 Patients Treated I ncreases Compared to Placebo <18 years old 14 additional patients 18-24 years old 5 additional patients Decreases Compared to Placebo 25-64 years old 1 fewer patient ≥65 years old 6 fewer patients 1 PAXIL CR is not approved for use in pediatric patients. It is unknown whether the risk of suicidal thoughts and behaviors in pediatric patients and young adults extends to longer-term use, i.e., beyond four months. However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors. Monitor all antidepressant-treated patients for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes. Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the health care provider. Consider changing the therapeutic regimen, including possibly discontinuing PAXIL CR, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors. 5.2 Serotonin Syndrome Selective serotonin reuptake inhibitors SSRIs, including PAXIL CR, can precipitate serotonin syndrome, a potentially life-threatening condition. The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, meperidine, methadone, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications ( 4 ), Drug Interactions ( 7.1 )]. Serotonin syndrome can also occur when PAXUIL CR is used alone. Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea). The concomitant use of PAXIL CR with MAOIs is contraindicated. In addition, do not initiate PAXIL CR in a patient being treated with MAOIs such as linezolid or intravenous methylene blue. No reports involved the administration of methylene blue by other routes of administration (such as orally or local tissue injection). If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking PAXIL CR, discontinue PAXIL CR before initiating treatment with the MAOI [see Contraindications ( 4 ), and Drug Interactions (7.1) ]. Monitor all patients taking PAXIL CR for the emergence of serotonin syndrome. Discontinue treatment with PAXIL CR and any concomitant serotonergic drug immediately if the above symptoms occur, and initiate supportive symptomatic treatment. If concomitant use of PAXIL CR with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms. 5.3 Drug Interactions Leading to QTc Interval Prolongation Cases of QTc interval prolongation have been reported with the use of paroxetine, although a causal relationship with PAXIL CR has not been established. PAXIL CR is a CYP2D6 inhibitor. Concomitant use of PAXIL CR with CYP2D6 substrates that prolong the QTc interval can increase the concentration of those CYP2D6 substrates and may result in a greater increase in the QTc interval and adverse reactions associated with QTc interval prolongation, including Torsade de pointes, other serious arrythmias, and sudden death. The concomitant use of PAXIL CR is contraindicated with CYP2D6 substrates that prolong the QTc interval [see Drug Interactions ( 7 ) and Clinical Pharmacology ( 12.3 )]. 5.4 Embryofetal Toxicity PAXIL CR can cause fetal harm when administered to a pregnant woman. Based on meta-analyses of epidemiological studies, exposure to paroxetine in the first trimester of pregnancy is associated with a less than 2-fold increase in the rate of cardiovascular malformations among infants. For women who intend to become pregnant or who are in their first trimester of pregnancy, PAXIL CR, should be initiated only after consideration of the other available treatment options [see Use in Specific Populations ( 8.1 )]. 5.5 Increased Risk of Bleeding Drugs that interfere with serotonin reuptake inhibition, including PAXIL CR, increase the risk of bleeding events. Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk. Case reports and epidemiological studies (case‑control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding. Based on data from the published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Use in Specific Populations ( 8.1 )] . Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages. Inform patients about the increased risk of bleeding associated with the concomitant use of PAXIL CR and antiplatelet agents or anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio when initiating, titrating, or discontinuing PAXIL CR. 5.6 Activation of Mania or Hypomania In patients with bipolar disorder, treating a depressive episode with PAXIL CR or another antidepressant may precipitate a mixed/manic episode. During controlled clinical trials of immediate‑release paroxetine tablets for unipolar depression, hypomania or mania occurred in approximately 1% of immediate-release paroxetine tablets‑treated patients compared to 1.1% of active‑control-treated patients and 0.3% of placebo‑treated patients. Prior to initiating treatment with PAXIL CR, screen patients for any personal or family history of bipolar disorder, mania, or hypomania. 5.7 Discontinuation Syndrome Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, included nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures. When discontinuing PAXIL CR, a gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Dosage and Administration ( 2.7 )]. Adverse reactions have been reported upon discontinuation of paroxetine treatment in pediatric patients. The safety and effectiveness of PAXIL CR in pediatric patients have not been established [see Warnings and Precautions ( 5.1 ) and Use in Specific Populations ( 8.4 )]. 5.8 Seizures PAXIL CR has not been systematically evaluated in patients with seizure disorders. Patients with history of seizures were excluded from clinical studies. During clinical studies with immediate-release paroxetine, seizures occurred in 0.1% of patients treated with immediate-release paroxetine. PAXIL CR should be prescribed with caution in patients with a seizure disorder. Discontinue PAXIL CR in patients who develop a seizure. 5.9 Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including PAXIL CR may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy. Cases of angle-closure glaucoma associated with use of immediate-release paroxetine have been reported. Avoid use of antidepressants, including PAXIL CR, in patients with untreated anatomically narrow angles. 5.10 Hyponatremia Hyponatremia may occur as a result of treatment with SSRIs, including PAXIL CR. Cases with serum sodium lower than 110 mmol/L have been reported. Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls. Signs and symptoms associated with more severe and/or acute hyponatremia cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death. In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH). Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with SSRIs. [see Use in Specific Populations ( 8.5 )]. In patients with symptomatic hyponatremia, discontinue PAXIL CR and institute appropriate medical intervention. 5.11 Sexual Dysfunction Use of SSRIs, including PAXIL CR, may cause symptoms of sexual dysfunction [see Adverse Reactions ( 6.1 )]. In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction. In female patients, SSRI use may result in decreased libido and delayed or absent orgasm. Recommend prescribers inquire about sexual function prior to initiation of PAXIL CR and to inquire specifically about changes in sexual function during PAXIL CR treatment because sexual function may not be spontaneously reported. When evaluating changes in sexual function, obtain a detailed history (including timing of symptom onset) because sexual symptoms may have other causes, including the underlying psychiatric disorder. Discuss potential management strategies to support patients in making informed decisions about treatment for sexual dysfunction. 5.12 Reduction of Efficacy of Tamoxifen Some studies have shown that the efficacy of tamoxifen, as measured by breast cancer relapse and mortality, may be reduced with concomitant use of paroxetine as a result of paroxetine’s irreversible CYP2D6 inhibition and lower concentration of the active metabolite of tamoxifen [see Drug Interactions ( 7.1 )]. One study suggested that the risk may increase with longer duration of concomitant use of paroxetine and tamoxifen. However, other studies have failed to demonstrate such a risk. When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition rather than PAXIL CR. 5.13 Fracture Risk Epidemiological studies on fracture risk during exposure to some antidepressant drugs, including SSRIs, have reported an association between antidepressant drug treatment and fractures. There are multiple possible causes for this association, and it is unknown to what extent fracture risk is directly attributable to SSRI treatment."
+  ],
+  "warnings_and_cautions_table": [
+   "<table> <caption/> <col width=\"13%\"/> <col width=\"82%\"/> <tbody> <tr> <td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule\" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Age Range</content> </paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule Toprule\" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Drug-Placebo Difference in Number of Patients of Suicidal Thoughts and Behaviors per 1,000 Patients Treated</content> </paragraph> </td> </tr> <tr> <td align=\"center\" colspan=\"2\" styleCode=\"Rrule Lrule Botrule\" valign=\"top\"> <paragraph>I<content styleCode=\"bold\">ncreases Compared to Placebo</content> </paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule Botrule\" valign=\"top\"> <paragraph>&lt;18 years old</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule\" valign=\"top\"> <paragraph>14 additional patients</paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule Botrule\" valign=\"top\"> <paragraph>18-24 years old</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule\" valign=\"top\"> <paragraph>5 additional patients</paragraph> </td> </tr> <tr> <td align=\"center\" colspan=\"2\" styleCode=\"Rrule Lrule Botrule\" valign=\"top\"> <paragraph> <content styleCode=\"bold\">Decreases Compared to Placebo</content> </paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Lrule Botrule\" valign=\"top\"> <paragraph>25-64 years old</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule\" valign=\"top\"> <paragraph>1 fewer patient</paragraph> </td> </tr> <tr> <td align=\"center\" styleCode=\"Rrule Botrule Lrule\" valign=\"top\"> <paragraph>&#x2265;65 years old</paragraph> </td> <td align=\"center\" styleCode=\"Rrule Botrule\" valign=\"top\"> <paragraph>6 fewer patients</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions are included in more detail in other sections of the prescribing information: Suicidal thoughts and behaviors [see Warnings and Precautions ( 5.1 )] Serotonin syndrome [see Warnings and Precautions ( 5.2 )] Increased risk of bleeding [see Warnings and Precautions ( 5.5 )] Activation of mania/hypomania [see Warnings and Precautions ( 5.6 )] Discontinuation syndrome [see Warnings and Precautions ( 5.7 )] Seizures [see Warnings and Precautions ( 5.8 )] Angle-closure glaucoma [see Warnings and Precautions ( 5.9 )] Hyponatremia [see Warnings and Precautions ( 5.10 )] Sexual dysfunction [see Warnings and Precautions ( 5.11 )] Risk of fracture [see Warnings and Precautions ( 5.12 )] Most common adverse reactions (≥5% and at least twice placebo) in placebo-controlled MDD, PD, SAD, and PMDD clinical trials: abnormal ejaculation, abnormal vision, asthenia, constipation, decreased appetite, diarrhea, dizziness, dry mouth, female genital disorder, impotence, insomnia, libido decreased, nausea, somnolence, sweating, tremor. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Apotex Corp.at 1-800-706-5575 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Safety data for PAXIL CR are from 11 short-term, placebo‑controlled clinical trials including 3 studies in patients with major depressive disorder (MDD) (Studies 1, 2, and 3), 3 studies in patients with panic disorder (PD) (Studies 4, 5, and 6), 1 study in patients with social anxiety disorder (SAD) (Study 7), and 4 studies in female patients with premenstrual dysphoric disorder (PMDD) (Studies 8, 9, 10, and 11) [see Clinical Studies ( 14 )] . These 11 trials included 1,627 patients treated with PAXIL CR. Studies 1 and 2 were 12-week studies that enrolled patients 18 to 65 years old with MDD. Patients in the PAXIL CR group received PAXIL CR at a dosage that ranged from 25 mg to 62.5 mg once daily. Study 3 was a 12-week study in patients 60 to 88 years old with MDD. Patients in the PAXIL CR group received PAXIL CR at a dosage that ranged from 12.5 mg to 50 mg once daily. Studies 4, 5, and 6 were 10-week studies in patients 19 to 72 years old with PD. Patients in the PAXIL CR group received PAXIL CR at a dosage that ranged from 12.5 mg to 75 mg once daily. Study 7 was a 12-week study that enrolled adult patients. Patients in the PAXIL CR group received PAXIL CR with SAD at a dosage that ranged from 12.5 mg to 37.5 mg once daily. Studies 8, 9, and 10 were 12‑week, placebo‑controlled trials in female patients 18 to 46 years old with PMDD. Patients in the PAXIL CR group received PAXIL CR at a dosage of 12.5 mg or 25 mg once daily. Study 11 was a 12-week placebo‑controlled trial in patients 18 to 46 years old with PMDD. Patients in the PAXIL CR group received PAXIL CR two weeks prior to the onset of each menses (luteal phase dosing) at a dosage of 12.5 mg or 25 mg once daily. Adverse Reactions that Led to Discontinuation in Patients with MDD, PD, SAD, and PMDD In pooled studies in patients with MDD, PD and SAD, the most common adverse reactions that led to study withdrawal in the PAXIL CR-treated patients were nausea (up to 4% of patients), asthenia, headache, depression, insomnia, and abnormal liver function tests (each occurred in up to 2% of patients), and dizziness, somnolence, and diarrhea (each occurred up to 1% of patients). In pooled studies for PMDD, the most common adverse reactions that lead to study withdrawal in the PAXIL CR-treated patients were nausea (occurred in up to 6% of patients), asthenia (occurred in up to 5% of patients), somnolence (occurred in up to 4% of patients), insomnia (occurred in approximately 2% of patients); and impaired concentration, dry mouth, dizziness, decreased appetite, sweating, tremor, yawn and diarrhea (occurred in less than or equal to 2% of patients). Common Adverse Reactions in MDD, PD, and SAD TTable 3 presents the most common adverse reactions (incidence ≥5% in PAXIL CR-treated patients and greater than in placebo-treated within at least one of the patient populations) in controlled trials in patients with MDD, PD, and SAD. Table 3. Most Common Adverse Reactions 1 in 10 to 12 Week Studies of MDD, PD, and SAD MDD 18 to 65 year olds MDD ≥60 years old Panic Disorder Social Anxiety Disorder PAXIL CR (N=212) % Placebo (N=211) % PAXIL CR (N=104) % Placebo (N=109) % PAXIL CR (N=444) % Placebo (N=445) % PAXIL CR (N=186) % Placebo (N=184) % Headache 27 20 17 13 NA NA 23 17 Abnormal Ejaculation b,c 26 1 17 3 27 3 15 1 Somnolence 22 8 21 12 20 9 9 4 Nausea 22 10 - - 23 17 22 6 Diarrhea 18 7 15 9 12 9 9 8 Insomnia 17 9 10 8 20 11 9 4 Dry Mouth 15 8 18 7 13 9 3 2 Dizziness 14 4 9 5 NA NA 7 4 Asthenia 14 9 15 14 15 10 18 7 Female Genital Disorder b,d 10 < 1 - - 7 1 3 0 Constipation 10 4 13 5 9 6 5 2 Tremor 7 1 7 0 8 2 4 2 Abdominal Pain 7 4 - - 6 4 5 4 Libido Decreased 7 3 8 <1 9 4 1 Sweating 6 2 10 <1 7 2 14 3 Flatulence 6 4 - - NA NA NA NA Abnormal Vision a 5 1 - - 3 10 1 9 Impotence b 5 3 9 3 10 1 9 0 Back Pain 5 3 - - NA NA 4 1 Decreased Appetite 2 12 5 8 6 1 <1 Dyspepsia NA NA 13 10 NA NA 2 <1 Myalgia NA NA - - 5 3 NA NA Sinusitis NA NA - - 8 5 NA NA Nervousness NA NA - - 8 7 NA NA Anxiety NA NA - - 5 4 2 1 Yawn 0 - - 3 0 2 0 1 ≥ 5% of patients treated with PAXIL CR and greater than in patients treated with placebo. Hyphen = the reaction listed occurred in <5% of patients treated with PAXIL CR NA = the adverse reaction listed did not occur in this group of patients a Mostly blurred vision b Based on the number of males or females c Mostly anorgasmia or delayed ejaculation d Mostly anorgasmia or delayed orgasm Other Adverse Reactions Observed in Studies of MDD, PD, and SAD Adverse reactions from studies in MDD (not including Study 3 in patients 60 years of age and older), PD, and SAD that occurred in 1% to 5% of PAXIL CR-treated patients and at an incidence greater than in placebo-treated patients included allergic reaction, tachycardia, vasodilatation, hypertension, migraine, vomiting, weight loss, weight gain, hypertonia, paresthesia, agitation, confusion, myoclonus, concentration impaired, depression, rhinitis, cough increased, bronchitis, photosensitivity, eczema, taste perversion, UTI, menstrual disorder, urinary frequency, urination impaired, and vaginitis. Adverse Reactions in Patients with PMDD Table 4 displays common adverse reactions (incidence of 5% or more and greater in PAXIL CR-treated patients and greater than placebo-treated patients within at least one of the studies) in female patients with PMDD (Studies 8, 9, 10, and 11). The following adverse reactions in the PMDD studies with continuous dosing (Studies 8, 9, and 10 were dose-related: nausea, somnolence, sweating, dry mouth, dizziness, decreased appetite, tremor, impaired concentration, yawn, paresthesia, hyperkinesia, and vaginitis. Table 4. Common Adverse Reactions 1 in Pooled Studies in Female Patients with PMDD (Studies 8, 9, 11), and in Study 10 a,b,c % Reporting Adverse Reaction Continuous Dosing Luteal Phase Dosing PAXIL CR (n = 681) Placebo (n = 349) PAXIL CR (n = 246) Placebo (n = 120) Asthenia 17% 6% 15% 4% Nausea 17% 7% 18% 2% Headache 15% 12% NA NA Libido Decreased 12% 5% 9% 6% Somnolence 9% 2% 3% <1% Female Genital Disorders c 8% 1% 2% 0% Insomnia 8% 2% 7% 3% Sweating 7% <1% 6% <1% Dizziness 7% 3% 6% 3% Diarrhea 6% 2% 6% 3% Infection 6% 4% NA NA Constipation 5% 1% 2% <1% Tremor 4% <1% 5% 0% 1 ≥5% of patients treated with PAXIL CR and greater than in placebo-treated patients. NA= the adverse reaction information is not available in this population. a <1% means greater than zero and less than 1%. b The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the two dosing regimens. c Mostly anorgasmia or difficulty achieving orgasm. Male and Female Sexual Dysfunction The percentage of patients who reported symptoms of sexual dysfunction in patients with MDD, PD, SAD, and PMDD (Studies 1, 2, 4, 5, 6, 7, 8, 9, 10, and 11) are presented in Table 5. Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, in part because patients and healthcare providers may be reluctant to discuss them. Accordingly, estimates of the incidence of untoward sexual experience and performance cited in labeling may underestimate their actual incidence. Paroxetine treatment has been associated with several cases of priapism. In those cases with a known outcome, patients recovered without sequelae. Table 5. Adverse Reactions Related to Sexual Dysfunction in Pooled 10-12 Week Studies of MDD, PD, SAD, and PMDD Studies 1 and 2 (MDD) Studies 4, 5 and 6 (PD) Study 7 (SAD) Studies 8, and 9 and 10 (Continuous Dosing) (PMDD) Study 11 (Luteal Phase Dosing) (PMDD) PAXIL CR Placebo PAXIL CR Placebo PAXIL CR Placebo PAXIL CR Placebo PAXIL CR Placebo n (males) 78 78 162 194 88 97 NA NA NA NA Abnormal ejaculation 26% 1% 27 27% 3% 15% 1% NA NA NA Decreased Libido 10% 5% 9% 6% 13% 1% NA NA NA NA Impotence 5% 3% 10% 1% 9% 0% NA NA NA NA n (females) 134 133 282 251 98 87 681 349 246 120 Orgasmic Disturbance 10% <1% 7% 1% 3% 0% 8% 1% 2% 0% Decreased Libido 4% 2% 8% 2% 4% 1% 12% 5% 9% 6% NA = male patients were not included in these studies. Less Common Adverse Reactions The following adverse reactions occurred during the clinical studies of PAXIL CR and are not included elsewhere in the labeling. Reactions are categorized by body system and listed in order of decreasing frequency according to the following definitions: Frequent adverse reactions are those that occurred on 1 or more occasions in at least 1/100 patients; infrequent adverse reactions are those that occurred in 1/100 to 1/1,000 patients; rare reactions are those that occurred in fewer than 1/1,000 patients. Cardiovascular System: Infrequent was postural hypotension. Hemic and Lymphatic System: Rare was thrombocytopenia. Metabolic and Nutritional Disorders: Infrequent were generalized edema and hypercholesteremia. Nervous System: Infrequent were convulsion, akathisia, and manic reaction. Psychiatric: Infrequent were hallucinations. Skin and Appendages: Frequent was rash; infrequent was urticaria; rare was angioedema and erythema multiforme. Urogenital System: Infrequent was urinary retention; rare was urinary incontinence. 6.2 Postmarketing Experience The following reactions have been identified during post approval use of paroxetine. Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Blood disorders: events related to impaired hematopoiesis (including agranulocytosis, aplastic anemia, bone marrow aplasia and pancytopenia), haemolytic anaemia Cardiac disorders: torsade de pointes, ventricular fibrillation, ventricular tachycardia Endocrine disorders: hyperprolactinemia, syndrome of inappropriate antidiuretic hormone (SIADH) secretion Gastrointestinal disorders: acute pancreatitis Hepatobiliary disorders: elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction) Immune system disorders : anaphylactic reaction, vasculitis syndromes (such as Henoch-Schönlein purpura). Metabolism and nutrition disorders : porphyria Musculoskeletal and connective tissue disorders : hypertonia Nervous system disorders : extrapyramidal symptoms (i.e. akathisia, bradykinesia, cogwheel rigidity, dystonia, trismus), Guillain-Barré Syndrome, anosmia, hyposmia, optic neuritis, restless legs syndrome (RLS), status epilepticus Pregnancy, puerperium and perinatal conditions: eclampsia, premature birth Renal and urinary disorders : acute renal failure Reproductive system and breast disorders : galactorrhea, priapism Respiratory, thoracic and mediastinal disorders : allergic alveolitis, laryngospasm, pulmonary hypertension Skin and subcutaneous tissue disorders : Drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), Toxic epidermal necrolysis (TEN) Vascular disorders : severe hypotension"
+  ],
+  "adverse_reactions_table": [
+   "<table frame=\"box\" rules=\"all\"> <tbody align=\"center\"> <tr> <td> <content styleCode=\"bold\"> </content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">MDD</content> <content styleCode=\"bold\">  18 to 65 year olds</content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">MDD</content>   <content styleCode=\"bold\">&#x2265;60 years old </content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Panic Disorder</content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Social Anxiety  Disorder</content> </td> </tr> <tr> <td/> <td> PAXIL CR (N=212) %</td> <td> Placebo (N=211) %</td> <td> PAXIL CR (N=104) %</td> <td> Placebo (N=109) %</td> <td> PAXIL CR (N=444) %</td> <td> Placebo (N=445) %</td> <td> PAXIL CR (N=186) %</td> <td> Placebo (N=184) %</td> </tr> <tr> <td align=\"left\"> Headache </td> <td> 27</td> <td> 20</td> <td> 17 </td> <td> 13 </td> <td> NA </td> <td> NA </td> <td> 23 </td> <td> 17 </td> </tr> <tr> <td align=\"left\"> Abnormal Ejaculation<sup>b,c</sup> </td> <td>26</td> <td> 1</td> <td> 17 </td> <td>3</td> <td>27</td> <td>3</td> <td>15</td> <td>1</td> </tr> <tr> <td align=\"left\"> Somnolence</td> <td>22 </td> <td> 8</td> <td> 21</td> <td>12</td> <td>20</td> <td>9</td> <td>9</td> <td> 4 </td> </tr> <tr> <td align=\"left\"> Nausea </td> <td> 22</td> <td> 10</td> <td> - </td> <td> - </td> <td> 23 </td> <td> 17 </td> <td> 22 </td> <td> 6 </td> </tr> <tr> <td align=\"left\"> Diarrhea </td> <td> 18</td> <td> 7</td> <td> 15 </td> <td> 9 </td> <td> 12 </td> <td> 9 </td> <td> 9 </td> <td> 8 </td> </tr> <tr> <td align=\"left\"> Insomnia </td> <td> 17</td> <td> 9</td> <td> 10 </td> <td> 8 </td> <td> 20 </td> <td> 11 </td> <td> 9 </td> <td> 4 </td> </tr> <tr> <td align=\"left\"> Dry Mouth</td> <td> 15</td> <td> 8</td> <td>18</td> <td>7</td> <td>13</td> <td>9</td> <td>3</td> <td>2</td> </tr> <tr> <td align=\"left\">Dizziness</td> <td>14</td> <td> 4</td> <td>9</td> <td>5</td> <td>NA</td> <td>NA</td> <td> 7</td> <td>4</td> </tr> <tr> <td align=\"left\">Asthenia </td> <td> 14</td> <td> 9</td> <td>15</td> <td>14</td> <td>15</td> <td>10</td> <td>18</td> <td>7</td> </tr> <tr> <td align=\"left\">Female Genital Disorder<sup>b,d</sup> </td> <td> 10</td> <td>&lt; 1</td> <td> -</td> <td>-</td> <td>7</td> <td>1</td> <td>3</td> <td>0</td> </tr> <tr> <td align=\"left\"> Constipation</td> <td> 10</td> <td>4</td> <td>13</td> <td>5</td> <td>9</td> <td>6</td> <td>5</td> <td>2</td> </tr> <tr> <td align=\"left\"> Tremor</td> <td> 7</td> <td>1</td> <td>7</td> <td>0</td> <td>8</td> <td>2</td> <td>4</td> <td>2</td> </tr> <tr> <td align=\"left\"> Abdominal Pain</td> <td>7</td> <td>4</td> <td>-</td> <td>-</td> <td>6</td> <td>4</td> <td>5</td> <td>4</td> </tr> <tr> <td align=\"left\"> Libido Decreased</td> <td> 7</td> <td>3</td> <td>8</td> <td>&lt;1</td> <td>9</td> <td>4</td> <td/> <td>1</td> </tr> <tr> <td>Sweating </td> <td> 6</td> <td>2</td> <td>10</td> <td>&lt;1</td> <td>7</td> <td>2</td> <td>14</td> <td>3</td> </tr> <tr> <td align=\"left\">Flatulence </td> <td> 6</td> <td>4</td> <td>-</td> <td>-</td> <td>NA</td> <td>NA</td> <td>NA</td> <td>NA</td> </tr> <tr> <td align=\"left\">Abnormal Vision<sup>a</sup> </td> <td> 5</td> <td>1</td> <td>-</td> <td>-</td> <td>3</td> <td>10</td> <td>1</td> <td>9</td> </tr> <tr> <td align=\"left\"> Impotence<sup>b</sup> </td> <td> 5</td> <td> 3</td> <td> 9 </td> <td> 3 </td> <td> 10 </td> <td> 1 </td> <td> 9 </td> <td> 0 </td> </tr> <tr> <td align=\"left\">Back Pain</td> <td>5</td> <td>3</td> <td>-</td> <td>-</td> <td>NA</td> <td>NA</td> <td>4</td> <td>1</td> </tr> <tr> <td align=\"left\">Decreased Appetite</td> <td/> <td>2</td> <td>12</td> <td>5</td> <td>8</td> <td>6</td> <td>1</td> <td>&lt;1</td> </tr> <tr> <td align=\"left\">Dyspepsia</td> <td>NA</td> <td>NA</td> <td>13</td> <td>10</td> <td>NA</td> <td>NA</td> <td>2</td> <td>&lt;1</td> </tr> <tr> <td align=\"left\">Myalgia</td> <td>NA</td> <td>NA</td> <td>-</td> <td>-</td> <td>5</td> <td>3</td> <td>NA</td> <td>NA</td> </tr> <tr> <td align=\"left\">Sinusitis</td> <td>NA</td> <td>NA</td> <td>-</td> <td>-</td> <td>8</td> <td>5</td> <td>NA</td> <td>NA</td> </tr> <tr> <td align=\"left\">Nervousness</td> <td>NA</td> <td>NA</td> <td>-</td> <td>-</td> <td>8</td> <td>7</td> <td>NA</td> <td>NA</td> </tr> <tr> <td align=\"left\">Anxiety</td> <td>NA</td> <td>NA</td> <td>-</td> <td>-</td> <td>5</td> <td>4</td> <td>2</td> <td>1</td> </tr> <tr> <td align=\"left\">Yawn</td> <td/> <td>0</td> <td>-</td> <td>-</td> <td>3</td> <td>0</td> <td>2</td> <td>0</td> </tr> </tbody> </table>",
+   "<table frame=\"box\" rules=\"all\"> <tbody align=\"center\"> <tr> <td align=\"left\" rowspan=\"2\"> <content styleCode=\"bold\"> </content> <content styleCode=\"bold\"> </content> <content styleCode=\"bold\"/> </td> <td colspan=\"4\"> <content styleCode=\"bold\">% Reporting Adverse Reaction</content> </td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">Continuous Dosing</content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Luteal Phase Dosing</content> </td> </tr> <tr> <td> <content styleCode=\"bold\">PAXIL CR</content> <content styleCode=\"bold\">  (n = 681) </content> </td> <td> <content styleCode=\"bold\">Placebo</content> <content styleCode=\"bold\">  (n = 349)</content> </td> <td> <content styleCode=\"bold\">PAXIL CR</content> <content styleCode=\"bold\">  (n = 246)</content> </td> <td> <content styleCode=\"bold\">Placebo</content> <content styleCode=\"bold\">  (n = 120)</content> </td> </tr> <tr> <td align=\"left\"> Asthenia </td> <td> 17%</td> <td> 6%</td> <td> 15%</td> <td> 4%</td> </tr> <tr> <td align=\"left\">Nausea</td> <td>17%</td> <td>7%</td> <td>18%</td> <td>2%</td> </tr> <tr> <td align=\"left\"> Headache </td> <td> 15%</td> <td>12%</td> <td> NA</td> <td> NA</td> </tr> <tr> <td align=\"left\">Libido Decreased</td> <td>12%</td> <td>5%</td> <td>9%</td> <td>6%</td> </tr> <tr> <td align=\"left\"> Somnolence </td> <td> 9%</td> <td>2%</td> <td>3%</td> <td>&lt;1%</td> </tr> <tr> <td align=\"left\">Female Genital Disorders<sup>c</sup> </td> <td>8%</td> <td>1%</td> <td>2%</td> <td>0%</td> </tr> <tr> <td align=\"left\"> Insomnia </td> <td> 8%</td> <td>2%</td> <td>7%</td> <td>3%</td> </tr> <tr> <td align=\"left\">Sweating</td> <td>7%</td> <td>&lt;1%</td> <td>6%</td> <td>&lt;1%</td> </tr> <tr> <td align=\"left\"> Dizziness </td> <td> 7%</td> <td>3%</td> <td>6%</td> <td> 3%</td> </tr> <tr> <td align=\"left\">Diarrhea</td> <td>6%</td> <td>2%</td> <td>6%</td> <td>3%</td> </tr> <tr> <td align=\"left\">Infection</td> <td>6%</td> <td>4%</td> <td>NA</td> <td>NA</td> </tr> <tr> <td align=\"left\">Constipation</td> <td>5%</td> <td>1%</td> <td>2%</td> <td>&lt;1%</td> </tr> <tr> <td align=\"left\"> Tremor </td> <td>4%</td> <td>&lt;1%</td> <td>5%</td> <td>0%</td> </tr> </tbody> </table>",
+   "<table frame=\"box\" rules=\"all\"> <tbody align=\"center\"> <tr> <td> <content styleCode=\"bold\"> </content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Studies 1 and 2 (MDD)</content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Studies 4, 5 and 6 (PD)</content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Study 7 (SAD)  </content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Studies 8, and 9 and 10 (Continuous Dosing) (PMDD)</content> </td> <td colspan=\"2\"> <content styleCode=\"bold\">Study 11 (Luteal Phase Dosing) (PMDD)</content> </td> </tr> <tr> <td> <content styleCode=\"bold\"> </content> </td> <td> <content styleCode=\"bold\">PAXIL CR</content> </td> <td> <content styleCode=\"bold\">Placebo</content> </td> <td> <content styleCode=\"bold\">PAXIL CR</content> </td> <td> <content styleCode=\"bold\">Placebo</content> </td> <td> <content styleCode=\"bold\">PAXIL CR</content> </td> <td> <content styleCode=\"bold\">Placebo</content> </td> <td> <content styleCode=\"bold\">PAXIL CR</content> </td> <td> <content styleCode=\"bold\">Placebo</content> </td> <td> <content styleCode=\"bold\">PAXIL CR</content> </td> <td> <content styleCode=\"bold\">Placebo</content> </td> </tr> <tr> <td align=\"left\"> <content styleCode=\"bold\">n (males)</content> </td> <td> <content styleCode=\"bold\">78</content> </td> <td> <content styleCode=\"bold\">78</content> </td> <td> <content styleCode=\"bold\">162</content> </td> <td> <content styleCode=\"bold\">194</content> </td> <td> <content styleCode=\"bold\">88</content> </td> <td> <content styleCode=\"bold\">97</content> </td> <td> <content styleCode=\"bold\">NA</content> </td> <td> <content styleCode=\"bold\">NA</content> </td> <td> <content styleCode=\"bold\">NA</content> <content styleCode=\"bold\"/> </td> <td> <content styleCode=\"bold\">NA</content> <content styleCode=\"bold\"/> </td> </tr> <tr> <td align=\"left\">Abnormal ejaculation</td> <td>26%</td> <td>1%</td> <td>27</td> <td>27%</td> <td>3%</td> <td>15%</td> <td>1%</td> <td>NA</td> <td>NA</td> <td>NA</td> </tr> <tr> <td align=\"left\"> Decreased Libido </td> <td>10%</td> <td>5%</td> <td>9%</td> <td>6%</td> <td>13%</td> <td>1%</td> <td> NA </td> <td> NA </td> <td> NA </td> <td> NA </td> </tr> <tr> <td align=\"left\"> Impotence </td> <td> 5%</td> <td>3%</td> <td>10%</td> <td>1%</td> <td>9%</td> <td>0%</td> <td> NA </td> <td> NA </td> <td> NA </td> <td> NA </td> </tr> <tr> <td align=\"left\"> <content styleCode=\"bold\">n (females)</content> </td> <td> <content styleCode=\"bold\">134</content> </td> <td> <content styleCode=\"bold\">133</content> </td> <td> <content styleCode=\"bold\">282</content> </td> <td> <content styleCode=\"bold\">251</content> </td> <td> <content styleCode=\"bold\">98</content> </td> <td> <content styleCode=\"bold\">87</content> </td> <td> <content styleCode=\"bold\">681</content> </td> <td> <content styleCode=\"bold\">349</content> </td> <td> <content styleCode=\"bold\">246</content> </td> <td> <content styleCode=\"bold\">120</content> </td> </tr> <tr> <td align=\"left\">Orgasmic Disturbance</td> <td>10%</td> <td>&lt;1%</td> <td>7%</td> <td>1%</td> <td>3%</td> <td>0%</td> <td>8%</td> <td>1%</td> <td>2%</td> <td>0%</td> </tr> <tr> <td align=\"left\"> Decreased Libido </td> <td> 4%</td> <td>2%</td> <td>8%</td> <td>2%</td> <td>4%</td> <td>1%</td> <td>12%</td> <td>5%</td> <td>9%</td> <td>6%</td> </tr> </tbody> </table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Drugs Highly Bound to Plasma Protein: Monitor for adverse reactions and reduce dosage of PAXIL CR or other protein-bound drugs (e.g., warfarin) as warranted. ( 7 ) CYP2D6 Substrates: Reduce dosage of the CYP2D6 substrate if needed. ( 7 ) Concomitant use with Tamoxifen: Consider use of an alternative antidepressant with little or no CYP2D6 inhibition. ( 5.11 , 7 ) 7.1 Clinically Significant Drug Interactions Table 6 includes clinically significant drug interactions with PAXIL CR. Table 6: Clinically Significant Drug Interactions with PAXIL CR Monoamine Oxidase Inhibitors (MAOIs) Mechanism and Clinical Effect (s) The concomitant use of SSRIs, including PAXIL CR, and MAOIs increases the risk of serotonin syndrome. Prevention or Management PPAXIL CR is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration ( 2.6 ), Warnings and Precautions ( 5.2 )]. CYP2D6 Substrates that Prolong the QTc Interval Mechanism and Clinical Effect(s) PAXIL CR is a CYP2D6 inhibitor. Concomitant use of PAXIL CR with CYP2D6 substrates that prolong the QTc interval can increase the concentration of those CYP2D6 substrates and may result in a greater increase in the QTc interval and adverse reactions associated with QTc interval prolongation [see Warnings and Precautions ( 5.3 )]. Prevention or Management PAXIL CR use is contraindicated in patients who receive drugs that can prolong QTc interval and are CYP2D6 substrates. Other Serotonergic Drugs Mechanism and Clinical Effect(s) The concomitant use of serotonergic drugs with PAXIL CR increases the risk of serotonin syndrome. Prevention or Management Monitor patients for signs and symptoms of serotonin syndrome with concomitant use of PAXIL and other serotonergic drugs, If serotonin syndrome occurs, immediately discontinue treatment with PAXIL CR and/or concomitant serotonergic drugs [see Warnings and Precautions ( 5.2 )]. Drugs that Interfere with Hemostasis (antiplatelet drugs and anticoagulants) Mechanism and Clinical Effect(s) The concomitant use of an antiplatelet drug or anticoagulant with PAXIL CR may potentiate the risk of bleeding. Prevention or Management Inform patients of the increased risk of bleeding associated with the concomitant use of PAXIL CR and antiplatelet drugs and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio when initiating, titrating, or discontinuing PAXIL CR [see Warnings and Precautions ( 5.5 )]. Drugs Highly Bound to Plasma Protein Mechanism and Clinical Effect(s) Paroxetine is highly bound to plasma protein. The concomitant use of PAXIL CR with another drug that is highly bound to plasma protein may increase free concentrations of paroxetine or other tightly-bound drugs in plasma. Prevention or Management Monitor for adverse reactions and reduce dosage of PAXIL CR or other protein-bound drugs as warranted. CYP2D6 Substrates Mechanism and Clinical Effect(s) PAXIL CR is a strong CYP2D6 inhibitor [see Clinical Pharmacology ( 12.3 )] . The concomitant use of PAXIL CR with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate and increase the risk of CYP2D6 substrate-associated adverse reactions. Prevention or Management With concomitant use with PAXIL CR, decrease the dosage of a CYP2D6 substrate if needed. Tamoxifen Mechanism and Clinical Effect(s) Concomitant use of tamoxifen with PAXIL CR may lead to reduced plasma concentrations of the active metabolite of tamoxifen (i.e., endoxifen) and reduced efficacy of tamoxifen. Prevention or Management Consider use of an alternative antidepressant with little or no CYP2D6 inhibition when tamoxifen is used for the treatment or prevention of breast cancer [see Warnings and Precautions ( 5.11 )]. Fosamprenavir/Ritonavir Mechanism and Clinical Effect(s) Concomitant use of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine. Prevention or Management Any PAXIL CR dosage modification should be guided by clinical effect (tolerability and efficacy)."
+  ],
+  "drug_interactions_table": [
+   "<table frame=\"box\" rules=\"all\"> <tbody> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">Monoamine Oxidase Inhibitors (MAOIs)</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect (s)</content> </td> <td>The concomitant use of SSRIs, including PAXIL CR, and MAOIs increases the risk of serotonin syndrome.</td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management</content> </td> <td>PPAXIL CR is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue <content styleCode=\"italics\">[see Dosage and Administration (<linkHtml href=\"#_9ee26a50-ec06-27bd-3253-4ae8cc84391e\">2.6</linkHtml>), Warnings and Precautions (<linkHtml href=\"#_9d97de8c-d4e6-cf20-7af6-a370b55aefc8\">5.2</linkHtml>)].</content> </td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\"> <content styleCode=\"bold\">CYP2D6 Substrates that Prolong the QTc Interval </content> </content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect(s)</content> </td> <td>PAXIL CR is a CYP2D6 inhibitor. Concomitant use of PAXIL CR with CYP2D6 substrates that prolong the QTc interval can increase the concentration of those CYP2D6 substrates and may result in a greater increase in the QTc interval and adverse reactions associated with QTc interval prolongation <content styleCode=\"italics\">[see Warnings and Precautions (<linkHtml href=\"#_d5e8d4ed-5c13-5ecf-40ca-c77df4389f35\">5.3</linkHtml>)].</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management </content> </td> <td>PAXIL CR use is contraindicated in patients who receive drugs that can prolong QTc interval and are CYP2D6 substrates.</td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">Other Serotonergic Drugs</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect(s)</content> </td> <td>The concomitant use of serotonergic drugs with PAXIL CR increases the risk of serotonin syndrome.</td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management </content> </td> <td>Monitor patients for signs and symptoms of serotonin syndrome with concomitant use of PAXIL and other serotonergic drugs, If serotonin syndrome occurs, immediately discontinue treatment with PAXIL CR and/or concomitant serotonergic drugs <content styleCode=\"italics\">[see Warnings and Precautions (<linkHtml href=\"#_a66a362f-5f89-b164-0344-b0c9c7b56ffc\">5.2</linkHtml>)]. </content> </td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">Drugs that Interfere with Hemostasis (antiplatelet drugs and anticoagulants)</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect(s)</content> </td> <td>The concomitant use of an antiplatelet drug or anticoagulant with PAXIL CR may potentiate the risk of bleeding.</td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management </content> </td> <td>Inform patients of the increased risk of bleeding associated with the concomitant use of PAXIL CR and antiplatelet drugs and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio when initiating, titrating, or discontinuing PAXIL CR <content styleCode=\"italics\">[see Warnings and Precautions (<linkHtml href=\"#_1110aa82-a77d-9e4f-d6ac-c028e93a0b24\">5.5</linkHtml>)].</content> </td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">Drugs Highly Bound to Plasma Protein</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect(s)</content> </td> <td>Paroxetine is highly bound to plasma protein. The concomitant use of PAXIL CR with another drug that is highly bound to plasma protein may increase free concentrations of paroxetine or other tightly-bound drugs in plasma.</td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management </content> </td> <td>Monitor for adverse reactions and reduce dosage of PAXIL CR or other protein-bound drugs as warranted.</td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">CYP2D6 Substrates</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect(s)</content> </td> <td>PAXIL CR is a strong CYP2D6 inhibitor <content styleCode=\"italics\">[see Clinical Pharmacology (<linkHtml href=\"#i4i_pharmacokinetics_id_ce5d6da1-4571-43d2-a904-0661c8662dce\">12.3</linkHtml>)]</content>. The concomitant use of PAXIL CR with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate and increase the risk of CYP2D6 substrate-associated adverse reactions.</td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management </content> </td> <td>With concomitant use with PAXIL CR, decrease the dosage of a CYP2D6 substrate if needed. </td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">Tamoxifen</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect(s)</content> </td> <td>Concomitant use of tamoxifen with PAXIL CR may lead to reduced plasma concentrations of the active metabolite of tamoxifen (i.e., endoxifen) and reduced efficacy of tamoxifen.</td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management </content> </td> <td>Consider use of an alternative antidepressant with little or no CYP2D6 inhibition when tamoxifen is used for the treatment or prevention of breast cancer <content styleCode=\"italics\">[see Warnings and Precautions (<linkHtml href=\"#_3c896af5-f949-856e-28c7-3be45f18eee2\">5.11</linkHtml>)].</content> </td> </tr> <tr> <td colspan=\"2\"> <content styleCode=\"bold\">Fosamprenavir/Ritonavir</content> </td> </tr> <tr> <td> <content styleCode=\"italics\">Mechanism and Clinical Effect(s)</content> </td> <td>Concomitant use of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.</td> </tr> <tr> <td> <content styleCode=\"italics\">Prevention or Management </content> </td> <td>Any PAXIL CR dosage modification should be guided by clinical effect (tolerability and efficacy).</td> </tr> </tbody> </table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Pregnancy: Advise women of the risks associated with first trimester use of PAXIL CR, risks associated with third trimester use of PAXIL CR including an increased risk for neonatal complications including persistent pulmonary hypertension of the newborn. Also, advise women of the risks associated with untreated depression in pregnancy in those being treated for MDD ( 8.1 ). SSRI use, particularly later in pregnancy, may increase neonatal risks of persistent pulmonary hypertension and symptoms of poor adaptation (respiratory distress, temperature instability, feeding difficulty, hypotonia, irritability). PAXIL CR should be initiated only after consideration of the other available treatment options ( 5.4 , 8.1 ) Lactation: Infants exposed to PAXIL CR through breastfeeding should be monitored for agitation, irritability, poor feeding and poor weight gain ( 8.2 ). Males of Reproductive Potential: Paroxetine may affect sperm quality which may impair fertility; it is not known if this effect is reversible ( 8.3 ) 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/ pregnancyregistry/antidepressants/ . Risk Summary For women who intend to become pregnant or who are in their first trimester of pregnancy, PAXIL CR should be initiated only after consideration of the other available treatment options. There are risks of persistent pulmonary hypertension of the newborn (PPHN) ( see Data ) and/or poor neonatal adaptation with exposure to SSRIs, including PAXIL CR, during pregnancy. Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions ( 5.5 ) and Clinical Considerations]. Paroxetine is associated with a less than 2-fold increase in cardiovascular malformations when administered to a pregnant woman during the first trimester. While individual epidemiological studies on the association between paroxetine use and cardiovascular malformations have reported inconsistent findings, some meta-analyses of epidemiological studies have identified an increased risk of cardiovascular malformations ( see Data ). Also, consider the risks of untreated depression when discontinuing or changing treatment with antidepressants during pregnancy and the postpartum period (see Clinical Considerations). No evidence of treatment related malformations was observed in animal reproduction studies, when paroxetine was administered during the period of organogenesis at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits. These doses are approximately in rats are approximately 6 times the maximum recommended human dose (MRHD – 75 mg) of PAXIL CR and in rabbits less than 2 times the MRHD on an mg/m 2 basis. When paroxetine was administered to female rats during the last trimester of gestation and continued through lactation, there was an increase in the number of pup deaths during the first four days of lactation. This effect occurred at a dose of 1 mg/kg/day which is less than the MRHD on an mg/m 2 basis ( see Data ). The estimated background risks of major birth defects and miscarriage for pregnant adults with MDD, PD, SAD, or PMDD are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated maternal and/or embryo/fetal risk : Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants. This finding is from a prospective longitudinal study of 201 pregnant women with a history of MDD who were euthymic and taking antidepressants at the beginning of pregnancy. Maternal Adverse Reactions : Use of PAXIL CR in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions ( 5.5 )] . Fetal/Neonatal Adverse Reactions: Neonates of mothers exposed to PAXIL CR and other SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding. Such complications can arise immediately upon delivery. Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremors, jitteriness, irritability, and constant crying. These findings are consistent with either a direct toxic effect of SSRIs or possibly a drug discontinuation syndrome. In some cases, the clinical picture was consistent with serotonin syndrome [see Warnings and Precautions ( 5.4 )] . Data Human Data : Published epidemiological studies on the association between first trimester paroxetine use and cardiovascular malformations have reported inconsistent results; however, meta-analyses of population-based cohort studies published between 1996-2017 indicate a less than 2-fold increased risk for overall cardiovascular malformations. Specific cardiac malformations identified in two meta-analyses include approximately 2 to 2.5-fold increased risk for right ventricular outflow tract defects. One meta-analysis also identified an increased risk (less than 2-fold) for bulbus cordis anomalies and anomalies of cardiac septal closure, and an increased risk for atrial septal defects (pooled OR 2.38, 95% CI 1.14-4.97). Important limitations of the studies included in these meta-analyses include potential confounding by indication, depression severity, and potential exposure misclassification. Exposure to SSRIs, particularly later in pregnancy, may have an increased risk for PPHN. PPHNoccurs in 1-2 per 1000 live births in the general population and is associated with substantialneonatal morbidity and mortality. Animal Data : Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis. These doses are approximately 6 (rat) and less than 2 (rabbit) times the maximum recommended human dose (MRHD – 75 mg) on an mg/m 2 basis. These studies have revealed no evidence of malformations. However, in rats, there was an increase in pup deaths during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation. This effect occurred at a dose of 1 mg/kg/day which is less than the MRHD on an mg/m 2 basis. The no‑effect dose for rat pup mortality was not determined. The cause of these deaths is not known. 8.2 Lactation Risk Summary Data from the published literature report the presence of paroxetine in human milk ( see Data ).There are reports of agitation, irritability, poor feeding and poor weight gain in infants exposedto paroxetine through breast milk ( see Clinical Considerations ). There are no data on the effectsof paroxetine on milk production. The developmental and health benefits of breastfeeding shouldbe considered along with the mother's clinical need for PAXIL CR and any potential adverse effects on the breastfed infant from PAXIL CR or the underlying maternal condition. Clinical Considerations Infants exposed to PAXIL CR through breastfeeding should be monitored for agitation, irritability, poor feeding and poor weight gain. Data Published literature suggests the presence of paroxetine in human milk with relative infant doses ranging between 0.4% to 2.2%, and a milk: plasma ratio of <1. No significant amounts of paroxetine were detected in the plasma of infants after breastfeeding. 8.3 Females and Males of Reproductive Potential Infertility Male s: Based on findings from clinical studies, paroxetine may affect sperm quality which may impairfertility; it is not known if this effect is reversible [see Nonclinical Toxicology ( 13.1 )]. 8.4 Pediatric Use The safety and effectiveness of PAXIL CR in pediatric patients have not been established. Safety and effectiveness of paroxetine for the treatment of MDD in pediatric patients was not demonstrated in three placebo-controlled trials in 752 pediatric patients with MDD treated with immediate-release paroxetine tablets. Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Warnings and Precautions ( 5.1 )] . Decreased appetite and weight loss have been observed in association with the use of SSRIs in pediatric patients. In placebo-controlled clinical trials conducted with pediatric patients, the following adverse reactions were reported in at least 2% of pediatric patients treated with immediate-release paroxetine tablets and at a rate at least twice that for pediatric patients treated with placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation. Adverse reactions upon discontinuation of immediate-release paroxetine tablet treatment (occurred in at least 2% of paroxetine-treated patients and at a rate at least twice that of placebo-treated patients) in the pediatric clinical trials that included a taper phase regimen, were emotional lability (including suicidal ideation, suicide attempt, mood changes, and tearfulness), nervousness, dizziness, nausea, and abdominal pain. 8.5 Geriatric Use SSRIs and SNRIs, including PAXIL CR, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions ( 5.9 )]. In premarketing clinical trials with immediate‑release paroxetine tablets, 17% of paroxetine treated patients (approximately 700) were 65 years or older. Clinical studies of PAXIL CR did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients. The minimum plasma concentration (Cmin) of paroxetine was higher in immediate release paroxetine-treated patients 65 years of age and older compared to younger adult patients [see Clinical Pharmacology ( 12.3 )] ; therefore, the recommended starting PAXIL CR dosage is lower in patients 65 years of age and older for the treatment of MDD and the maximum recommended is lower in patients 65 years of age and older with MDD and , PD, [see Dosage and Administration (2)]. 8.6 Renal Impairment Compared to those with normal renal function, paroxetine plasma concentrations in patients with renal impairment (RI) were increased, which may increase the risk of paroxetine-associated adverse reactions. Paroxetine plasma concentrations were higher in patients with greater degrees of RI. The recommended starting and maximum dosage of PAXIL CR is lower in patients with severe RI compared to those with normal renal function [see Dosage and Administration ( 2.5 ) and Clinical Pharmacology ( 12.3 )] . The recommended PAXIL CR dosage in patients with mild RI or moderate RI is the same as in those with normal renal function. 8.7 Hepatic Impairment Compared to those with normal hepatic function, paroxetine plasma concentrations in patients with severe hepatic impairment (HI) (Child-Pugh Class C) were increased, which may increase the risk of paroxetine-associated adverse reactions. The recommended starting and maximum dosage of PAXIL CR is lower in patients with severe HI compared to those with normal hepatic function [see Dosage and Administration ( 2.5 ) and Clinical Pharmacology ( 12.3 )] . The recommended dosage in patients with mild HI (Child‑Pugh Class A) or moderate HI (Child‑Pugh Class B) is the same as in those with normal hepatic function."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/ pregnancyregistry/antidepressants/ . Risk Summary For women who intend to become pregnant or who are in their first trimester of pregnancy, PAXIL CR should be initiated only after consideration of the other available treatment options. There are risks of persistent pulmonary hypertension of the newborn (PPHN) ( see Data ) and/or poor neonatal adaptation with exposure to SSRIs, including PAXIL CR, during pregnancy. Based on data from published observational studies, exposure to SSRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions ( 5.5 ) and Clinical Considerations]. Paroxetine is associated with a less than 2-fold increase in cardiovascular malformations when administered to a pregnant woman during the first trimester. While individual epidemiological studies on the association between paroxetine use and cardiovascular malformations have reported inconsistent findings, some meta-analyses of epidemiological studies have identified an increased risk of cardiovascular malformations ( see Data ). Also, consider the risks of untreated depression when discontinuing or changing treatment with antidepressants during pregnancy and the postpartum period (see Clinical Considerations). No evidence of treatment related malformations was observed in animal reproduction studies, when paroxetine was administered during the period of organogenesis at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits. These doses are approximately in rats are approximately 6 times the maximum recommended human dose (MRHD – 75 mg) of PAXIL CR and in rabbits less than 2 times the MRHD on an mg/m 2 basis. When paroxetine was administered to female rats during the last trimester of gestation and continued through lactation, there was an increase in the number of pup deaths during the first four days of lactation. This effect occurred at a dose of 1 mg/kg/day which is less than the MRHD on an mg/m 2 basis ( see Data ). The estimated background risks of major birth defects and miscarriage for pregnant adults with MDD, PD, SAD, or PMDD are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated maternal and/or embryo/fetal risk : Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants. This finding is from a prospective longitudinal study of 201 pregnant women with a history of MDD who were euthymic and taking antidepressants at the beginning of pregnancy. Maternal Adverse Reactions : Use of PAXIL CR in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions ( 5.5 )] . Fetal/Neonatal Adverse Reactions: Neonates of mothers exposed to PAXIL CR and other SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding. Such complications can arise immediately upon delivery. Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremors, jitteriness, irritability, and constant crying. These findings are consistent with either a direct toxic effect of SSRIs or possibly a drug discontinuation syndrome. In some cases, the clinical picture was consistent with serotonin syndrome [see Warnings and Precautions ( 5.4 )] . Data Human Data : Published epidemiological studies on the association between first trimester paroxetine use and cardiovascular malformations have reported inconsistent results; however, meta-analyses of population-based cohort studies published between 1996-2017 indicate a less than 2-fold increased risk for overall cardiovascular malformations. Specific cardiac malformations identified in two meta-analyses include approximately 2 to 2.5-fold increased risk for right ventricular outflow tract defects. One meta-analysis also identified an increased risk (less than 2-fold) for bulbus cordis anomalies and anomalies of cardiac septal closure, and an increased risk for atrial septal defects (pooled OR 2.38, 95% CI 1.14-4.97). Important limitations of the studies included in these meta-analyses include potential confounding by indication, depression severity, and potential exposure misclassification. Exposure to SSRIs, particularly later in pregnancy, may have an increased risk for PPHN. PPHNoccurs in 1-2 per 1000 live births in the general population and is associated with substantialneonatal morbidity and mortality. Animal Data : Reproduction studies were performed at doses up to 50 mg/kg/day in rats and 6 mg/kg/day in rabbits administered during organogenesis. These doses are approximately 6 (rat) and less than 2 (rabbit) times the maximum recommended human dose (MRHD – 75 mg) on an mg/m 2 basis. These studies have revealed no evidence of malformations. However, in rats, there was an increase in pup deaths during the first 4 days of lactation when dosing occurred during the last trimester of gestation and continued throughout lactation. This effect occurred at a dose of 1 mg/kg/day which is less than the MRHD on an mg/m 2 basis. The no‑effect dose for rat pup mortality was not determined. The cause of these deaths is not known."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of PAXIL CR in pediatric patients have not been established. Safety and effectiveness of paroxetine for the treatment of MDD in pediatric patients was not demonstrated in three placebo-controlled trials in 752 pediatric patients with MDD treated with immediate-release paroxetine tablets. Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Warnings and Precautions ( 5.1 )] . Decreased appetite and weight loss have been observed in association with the use of SSRIs in pediatric patients. In placebo-controlled clinical trials conducted with pediatric patients, the following adverse reactions were reported in at least 2% of pediatric patients treated with immediate-release paroxetine tablets and at a rate at least twice that for pediatric patients treated with placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation. Adverse reactions upon discontinuation of immediate-release paroxetine tablet treatment (occurred in at least 2% of paroxetine-treated patients and at a rate at least twice that of placebo-treated patients) in the pediatric clinical trials that included a taper phase regimen, were emotional lability (including suicidal ideation, suicide attempt, mood changes, and tearfulness), nervousness, dizziness, nausea, and abdominal pain."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use SSRIs and SNRIs, including PAXIL CR, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions ( 5.9 )]. In premarketing clinical trials with immediate‑release paroxetine tablets, 17% of paroxetine treated patients (approximately 700) were 65 years or older. Clinical studies of PAXIL CR did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients. The minimum plasma concentration (Cmin) of paroxetine was higher in immediate release paroxetine-treated patients 65 years of age and older compared to younger adult patients [see Clinical Pharmacology ( 12.3 )] ; therefore, the recommended starting PAXIL CR dosage is lower in patients 65 years of age and older for the treatment of MDD and the maximum recommended is lower in patients 65 years of age and older with MDD and , PD, [see Dosage and Administration (2)]."
+  ],
+  "abuse": [
+   "9 ABUSE AND DEPENDENCE 9.1 Controlled Substance PAXIL CR contains paroxetine, which is not a controlled substance. 9.3 Dependence Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, included nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures [see Warnings and Precautions ( 5.7 )] ."
+  ],
+  "controlled_substance": [
+   "9.1 Controlled Substance PAXIL CR contains paroxetine, which is not a controlled substance."
+  ],
+  "dependence": [
+   "9.3 Dependence Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, included nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures [see Warnings and Precautions ( 5.7 )] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE The following overdose complications have been reported with paroxetine overdose: Seizures, which may be delayed, and altered mental status including coma. Cardiovascular toxicity, which may be delayed, including QRS and QTcinterval prolongation. Hypertension most commonly seen, but rarely can seehypotension alone or with concomitant products including alcohol. Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk). If an overdose occurs, consider contacting a Poison Help Line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION PAXIL CR, contains paroxetine hydrochloride, an SSRI. It is the hydrochloride salt of a phenylpiperidine compound identified chemically as (-)-trans-4R-(4'-fluorophenyl)-3S-[(3',4'-methylenedioxyphenoxy) methyl] piperidine hydrochloride hemihydrate and has the empirical formula of C 19 H 20 FNO 3 ·HCl·1/2H 2 O. The molecular weight is 374.8 g/mol (329.4 g/mol as free base). The structural formula of paroxetine hydrochloride is: Paroxetine hydrochloride is an odorless, off‑white powder, having a melting point range of 120° C to 138°C and a solubility of 5.4 mg/mL in water. PAXIL CR (paroxetine) extended release tablets are for oral administration. Each extended‑release tablet contains 12.5 mg, 25 mg, or 37.5 mg of paroxetine equivalent to 14.25 mg, 28.51 mg, or 42.76 mg of paroxetine hydrochloride, respectively. One layer of the tablet consists of a degradable barrier layer and the other contains the active material in a hydrophilic matrix. Inactive ingredients consist of glyceryl behenate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer type C, polyethylene glycols, polysorbate 80, polyvinylpyrrolidone, silicon dioxide, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate and the following colorants: D&C Red No. 30 aluminum lake (25 mg), D&C Yellow No. 10 aluminum lake (12.5 mg), FD&C Blue No. 2 aluminum lake (37.5 mg), FD&C Yellow No. 6 aluminum lake (12.5 mg), red ferric oxide (25 mg) and Yellow ferric oxide (12.5 mg and 37.5 mg)."
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The mechanism of action of PAXIL CR in the treatment of major depressive disorder (MDD), panic disorder (PD), social anxiety disorder (SAD), and premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT). 12.2 Pharmacodynamics Studies at clinically relevant paroxetine dosage in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets. In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake (SSRI) and has only very weak effects on norepinephrine and dopamine neuronal reuptake. Cardiac Electrophysiology At the maximum recommended paroxetine dose, a mean increase in the QTc interval >20 milliseconds is unlikely. 12.3 Pharmacokinetics During repeated administration of PAXIL CR (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate‑release dosage forms). In a repeat‑dose study in which healthy male and female subjects (n = 23) received PAXIL CR (25 mg daily), mean steady state C max , C min , and AUC 0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng·hr./mL, respectively. Based on studies using immediate‑release paroxetine, steady‑state paroxetine exposure based on AUC 0-24h was several‑fold greater than that of the single‑dose data. In steady‑state dose proportionality studies with elderly and nonelderly adult patients, at doses of the immediate‑release paroxetine of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, reflecting a saturable metabolic pathway (Figure 3). Absorption Following administration of single oral doses of PAXIL CR (i.e., 12.5 mg, 25 mg, 37.5 mg, or 50 mg) in healthy subjects, paroxetine C max and AUC 0-inf increased disproportionately with dose (as seen also with immediate‑release dosage forms). Mean C max and AUC 0-inf values at these doses were 2, 5.5, 9, and 12.5 ng/mL, and 121, 261, 338, and 540 ng·hr. /mL, respectively. T max was observed typically between 6- and-10 hours post‑dose, reflecting a reduction in absorption rate compared with immediate‑release dosage forms. Food effect Food did not appreciably affect the bioavailability of PAXIL CR 25 mg Distribution Paroxetine distributes throughout the body, including the central nervous system (CNS), with only 1% remaining in the plasma. Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/mL and 400 ng/mL, respectively. Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/mL. Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin. Elimination The elimination half-life was approximately 15 to 20 hours after a single dose of PAXIL CR. Metabolism : Paroxetine is extensively metabolized after oral PAXIL CR administration. The principal metabolites are polar and conjugated products of oxidation and methylation, which are readily cleared. Conjugates with glucuronic acid and sulfate predominate, and major metabolites have been isolated and identified. Data indicate that the metabolites have no more than 1/50 the potency of the parent compound at inhibiting serotonin uptake. The metabolism of paroxetine is accomplished in part by CYP2D6. Saturation of this enzyme at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment. The role of this enzyme in paroxetine metabolism also suggests potential drug‑drug interactions [see Drug Interactions ( 7.3 )]. Excretion : Approximately 64% of 30‑mg dose of paroxetine oral solution was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period. About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10‑day post‑dosing period. Drug Interaction Studies There are clinically significant, known drug interactions between paroxetine and other drugs [see Drug Interactions ( 7 )]. Figure 1. Impact of Paroxetine on the Pharmacokinetics of Concomitantly Administered Drugs (log scale) Pimozide is a moderately sensitive CYP3A4 substrate and is a CYP2D6 substrate; desipramine is a sensitive 2D6 substrate; propranolol is a moderately sensitive 2D6 substrate, digoxin is P-gp substrate, and phenytoin is a strong 3A4 inhibitor. Figure 2. Impact of Concomitantly Administered Drugs on the Pharmacokinetics of Paroxetine Cimetidine is a OCT2, MATE1, and MATE2-K inhibitor, phenobarbital is a 3A4 moderate inducer, phenytoin is a 3A4 strong inhibitor, digoxin is P-gp substrate, and diazepam is a 2C19 moderate sensitive substrate. increased paroxetine exposure after concomitant use of PAXIL CR with cimetidine is not expected to be clinically significant Theophylline: Reports of elevated theophylline levels with concomitant use with immediate‑release paroxetine treatment have been reported. Drugs Metabolized by Cytochrome CYP3A4 : An in vivo interaction study involving the concomitant use of steady‑state paroxetine and a CYP3A4 substrate, revealed no effect of paroxetine on the pharmacokinetics of the CYP3A4 substrate. In addition, in vitro studies have shown ketoconazole, a severe CYP3A4 inhibitor, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for CYP3A4, including triazolam and cyclosporine. Paroxetine’s extent of CYP3A4 inhibition is not expected to be of clinical significance. Specific Populations The impact of specific populations on the pharmacokinetics of paroxetine are shown in Figure 3. Although the AUC and Cmax was higher in patients with mild renal impairment (RI) or moderate RI compared to those with normal renal function, there was a lot of variability in the exposure and the clinical significance of these findings are unknown. For recommendations for use of PAXIL CR in geriatric patients, patients with severe hepatic impairment, or severe hepatic impairment, [see Use in Specific Populations ( 8.5 , 8.6 , and 8.7 )] , respectively. Figure 3. Impact of Specific Population on the Pharmacokinetics of Paroxetine (log scale)"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action The mechanism of action of PAXIL CR in the treatment of major depressive disorder (MDD), panic disorder (PD), social anxiety disorder (SAD), and premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT)."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Studies at clinically relevant paroxetine dosage in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets. In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake (SSRI) and has only very weak effects on norepinephrine and dopamine neuronal reuptake. Cardiac Electrophysiology At the maximum recommended paroxetine dose, a mean increase in the QTc interval >20 milliseconds is unlikely."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics During repeated administration of PAXIL CR (25 mg once daily), steady state was reached within 2 weeks (i.e., comparable to immediate‑release dosage forms). In a repeat‑dose study in which healthy male and female subjects (n = 23) received PAXIL CR (25 mg daily), mean steady state C max , C min , and AUC 0-24 values were 30 ng/mL, 20 ng/mL, and 550 ng·hr./mL, respectively. Based on studies using immediate‑release paroxetine, steady‑state paroxetine exposure based on AUC 0-24h was several‑fold greater than that of the single‑dose data. In steady‑state dose proportionality studies with elderly and nonelderly adult patients, at doses of the immediate‑release paroxetine of 20 mg to 40 mg daily for the elderly and 20 mg to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, reflecting a saturable metabolic pathway (Figure 3). Absorption Following administration of single oral doses of PAXIL CR (i.e., 12.5 mg, 25 mg, 37.5 mg, or 50 mg) in healthy subjects, paroxetine C max and AUC 0-inf increased disproportionately with dose (as seen also with immediate‑release dosage forms). Mean C max and AUC 0-inf values at these doses were 2, 5.5, 9, and 12.5 ng/mL, and 121, 261, 338, and 540 ng·hr. /mL, respectively. T max was observed typically between 6- and-10 hours post‑dose, reflecting a reduction in absorption rate compared with immediate‑release dosage forms. Food effect Food did not appreciably affect the bioavailability of PAXIL CR 25 mg Distribution Paroxetine distributes throughout the body, including the central nervous system (CNS), with only 1% remaining in the plasma. Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/mL and 400 ng/mL, respectively. Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/mL. Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin. Elimination The elimination half-life was approximately 15 to 20 hours after a single dose of PAXIL CR. Metabolism : Paroxetine is extensively metabolized after oral PAXIL CR administration. The principal metabolites are polar and conjugated products of oxidation and methylation, which are readily cleared. Conjugates with glucuronic acid and sulfate predominate, and major metabolites have been isolated and identified. Data indicate that the metabolites have no more than 1/50 the potency of the parent compound at inhibiting serotonin uptake. The metabolism of paroxetine is accomplished in part by CYP2D6. Saturation of this enzyme at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment. The role of this enzyme in paroxetine metabolism also suggests potential drug‑drug interactions [see Drug Interactions ( 7.3 )]. Excretion : Approximately 64% of 30‑mg dose of paroxetine oral solution was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10‑day post‑dosing period. About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10‑day post‑dosing period. Drug Interaction Studies There are clinically significant, known drug interactions between paroxetine and other drugs [see Drug Interactions ( 7 )]. Figure 1. Impact of Paroxetine on the Pharmacokinetics of Concomitantly Administered Drugs (log scale) Pimozide is a moderately sensitive CYP3A4 substrate and is a CYP2D6 substrate; desipramine is a sensitive 2D6 substrate; propranolol is a moderately sensitive 2D6 substrate, digoxin is P-gp substrate, and phenytoin is a strong 3A4 inhibitor. Figure 2. Impact of Concomitantly Administered Drugs on the Pharmacokinetics of Paroxetine Cimetidine is a OCT2, MATE1, and MATE2-K inhibitor, phenobarbital is a 3A4 moderate inducer, phenytoin is a 3A4 strong inhibitor, digoxin is P-gp substrate, and diazepam is a 2C19 moderate sensitive substrate. increased paroxetine exposure after concomitant use of PAXIL CR with cimetidine is not expected to be clinically significant Theophylline: Reports of elevated theophylline levels with concomitant use with immediate‑release paroxetine treatment have been reported. Drugs Metabolized by Cytochrome CYP3A4 : An in vivo interaction study involving the concomitant use of steady‑state paroxetine and a CYP3A4 substrate, revealed no effect of paroxetine on the pharmacokinetics of the CYP3A4 substrate. In addition, in vitro studies have shown ketoconazole, a severe CYP3A4 inhibitor, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for CYP3A4, including triazolam and cyclosporine. Paroxetine’s extent of CYP3A4 inhibition is not expected to be of clinical significance. Specific Populations The impact of specific populations on the pharmacokinetics of paroxetine are shown in Figure 3. Although the AUC and Cmax was higher in patients with mild renal impairment (RI) or moderate RI compared to those with normal renal function, there was a lot of variability in the exposure and the clinical significance of these findings are unknown. For recommendations for use of PAXIL CR in geriatric patients, patients with severe hepatic impairment, or severe hepatic impairment, [see Use in Specific Populations ( 8.5 , 8.6 , and 8.7 )] , respectively. Figure 3. Impact of Specific Population on the Pharmacokinetics of Paroxetine (log scale)"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis Two‑year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day in mice and 1, 5, and 20 mg/kg/day in rats. In mice, these doses were up to approximately 1.6 (mouse) and 2.5 (rat) times the MRHD of PAXIL CR on an mg/m 2 basis. There was a significantly greater number of male rats in the high‑dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low‑, middle‑, and high‑dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats. Female rats were not affected. Although there was a dose‑related increase in the number of tumors in mice, there was no drug‑related increase in the number of mice with tumors. The relevance of these findings to humans is unknown. Mutagenesis Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in vivo assays that included the following: Bacterial mutation assay, mouse lymphoma mutation assay, unscheduled DNA synthesis assay, and tests for cytogenetic aberrations in vivo in mouse bone marrow and in vitro in human lymphocytes and in a dominant lethal test in rats. Impairment of Fertility Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men [see Use in Specific Populations ( 8.3 )]. A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is approximately twice the MRHD of PAXIL CR on an mg/m 2 basis. Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks. These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 6 and 3 times the MRHD of PAXIL CR on an mg/m 2 basis)."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES 14.1 Clinical Studies in Major Depressive Disorder The efficacy of PAXIL CR for the treatment for major depressive disorder (MDD) was established in: Two 12‑week, multicenter, randomized, double-blind, placebo‑controlled, flexible-dose studies with PAXIL CR (Studies 1 and 2) in adult patients who met Diagnostic and Statistical Manual of Mental Disorders (DSM)‑IV criteria for MDD. Studies 1 and 2 included patients 18 to 65 years old who received a PAXIL CR dosage of 25 mg to 62.5 mg (N= 212) or placebo (N= 211) once daily compared to immediate-release paroxetine tablets 20 mg/day to 50 mg/day (N=217). One 12-week, multicenter, randomized, double-blind, placebo‑controlled, flexible dose study with PAXIL CR (Study 3) in elderly patients, with an age range from 60 to 88 years old, with MDD. Patients received a PAXIL CR dosage of 12.5 mg to 50 mg (N=104 ) or placebo (N=109) once daily compared to immediate-release paroxetine tablets 10 mg/day to 40 mg/day (N=106). In these three studies, the PAXIL CR group was statistically superior to the placebo group in improvement of depressive symptoms as measured by the following: Mean change from baseline in the Hamilton Depression Rating Scale (HDRS) total score at Week 12, Mean change from baseline in the Hamilton Depressed Mood item score at Week 12, and Mean change from baseline in the Clinical Global Impression (CGI)–Severity of Illness score. Long-term efficacy of PAXIL CR for treatment of MDD in outpatients was established based on one randomized withdrawal study with immediate-release paroxetine tablets. Below are efficacy results from immediate-release paroxetine tablets. Patients who responded to immediate‑release paroxetine tablets (HDRS total score <8) during an initial 8‑week open‑label treatment phase were then randomized to continue immediate‑release paroxetine tablets or placebo, for up to 1 year. Patients treated with immediate‑release paroxetine tablets demonstrated a statistically significant lower relapse rate during the withdrawal phase (15%) compared to those treated with placebo (39%). Effectiveness was similar in male and female patients. 14.2 Clinical Studies in Panic Disorder The effectiveness of PAXIL CR in the treatment of panic disorder (PD) was evaluated in three 10‑week, multicenter, flexible‑dose studies (Studies 4, 5, and 6) that compared PAXIL CR (12.5 to 75 mg once daily daily) to placebo in adult outpatients 19 to 72 years of age who met panic disorder (with or without agoraphobia) criteria according to DSM‑IV. The key endpoints in these trials were: 1. Proportions of patients free of full panic attacks at Week 10; 2. Change from baseline to Week 10 in the median number of full panic attacks; and 3. Change from baseline to Week 10 in the median Clinical Global Impression Severity score. For all three studies, the mean dosage of PAXIL CR for completers at Week 10 was approximately 50 mg once daily. For Studies 4 and 5, the PAXIL CR group was superior to the placebo group on 2 of these 3 endpoints. Study 6 failed to consistently demonstrate a statistically significant difference between the PAXIL CR and placebo groups in the three endpoints. Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender. Long‑term maintenance effects of PAXIL CR in patients with PD were demonstrated in a randomized-withdrawal study with immediate‑release paroxetine tablets. Below are efficacy results from immediate-release paroxetine tablets. Patients who were responders during a 10‑week, double‑blind trial (followed by a 3-month double-blind maintenance phase) of immediate‑release paroxetine tablets were re-randomized to continue immediate‑release paroxetine tablets or placebo in a 3‑month, double‑blind withdrawal phase. Patients treated with immediate-release paroxetine tablets were statistically significantly less likely to relapse than patients treated with placebo. 14.3 Clinical Studies in Social Anxiety Disorder The efficacy of PAXIL CR as a treatment for social anxiety disorder (SAD) was based on: Extrapolation from the effectiveness of immediate‑release paroxetine tablets in the treatment of SAD. Effectiveness of PAXIL CR in the treatment of SAD in one 12‑week, multicenter, double‑blind, flexible‑dose, placebo‑controlled study of adult outpatients with a primary diagnosis of SAD by DSM‑IV criteria (Study 7). In Study 7, the effectiveness of PAXIL CR (12.5 to 37.5 mg once daily) compared to placebo was evaluated on the basis of (1) change from baseline in the Liebowitz Social Anxiety Scale (LSAS) total score at Week 12 and (2) the proportion of responders who scored 1 or 2 (very much improved or much improved) on the CGI Global Improvement score at Week 12. In Study 7, the PAXIL CR group demonstrated statistically significant superiority over the placebo group on both the change on LSAS total score at Week 12 and the CGI Improvement responder criterion at Week 12. For patients who completed the trial, 64% of patients treated with PAXIL CR compared to 35% of patients treated with placebo were CGI Improvement responders at Week 12. Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of sex. 14.4 Clinical Studies in Premenstrual Dysphoric Disorder The effectiveness of PAXIL CR for the treatment of Premenstrual Dysphoric Disorder (PMDD) utilizing a continuous dosing regimen was been established in two placebo‑controlled trials in female patients ages 18 to 46 (Studies 8 and 9 [N=672]) who met the DSM‑IV criteria for PMDD. Another trial was conducted in female patients 18 to 46 years old with PMDD who received continuous dosing of PAXIL CR at a dosage of 12.5 mg or 25 mg once daily or placebo (Study 10). Of 1,030 patients including Study 10, who were treated with daily doses of PAXIL CR 12.5 or 25 mg/day, or placebo continuously throughout the menstrual cycle for a period of 3 menstrual cycles, the mean duration of the PMDD symptoms was approximately 11 ± 7 years. Patients who were taking systemic hormonal contraceptives were excluded from these trials. Therefore, the efficacy of PAXIL CR in combination with systemic (including oral) hormonal contraceptives for the continuous daily treatment of PMDD is unknown. A key efficacy endpoint in Studies 8 and 9 was the change from baseline to Month 3 on the luteal phase VAS score. The VAS score is a patient‑rated instrument that mirrors the diagnostic criteria of PMDD as identified in the DSM‑IV, and includes assessments for mood, physical symptoms, and other symptoms associated with PMDD. In Studies 8 and 9, the PAXIL CR 12.5 mg/day and 25 mg/day groups were statistically significantly more effective than the placebo group as measured by change from baseline to Month 3 on the luteal phase VAS score. In an additional study with luteal phase dosing (Study 11), female patients (N = 366) were treated for the two weeks prior to the onset of each menses for a period of 3 months with 12.5 or 25 mg/day of PAXIL CR or placebo. In this trial, the PAXIL CR 12.5 mg/day and 25 mg/day groups, as luteal phase dosing, was statistically significantly more effective than placebo as measured by change from baseline to luteal phase VAS score at Month 3. There is insufficient information to determine the effect of race or age on efficacy outcomes in Studies 8, 9, and 11."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING PAXIL CR (paroxetine) extended-release tablets are supplied as follows: 12.5‑mg yellow, round NDC 60505-4377-3 Bottles of 30 (One face is plain and the other is engraved with 12.5) 25-mg pink, round NDC 60505-4378-3 Bottles of 30 (One face is plain and the other is engraved with 25) 37.5 mg blue, round NDC 60505-4379-3 Bottles of 30 (One face is plain and the other is engraved with 37.5) Store at or below 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 30°F [see USP Controlled Room Temperature] ."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Medication Guide). Suicidal Thoughts and Behaviors Advise patients and caregivers to look for the emergence of suicidal thoughts and behaviors, especially early during PAXIL CR treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the health care provider [see Warnings and Precautions ( 5.1 )] . Serotonin Syndrome Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of PAXIL CR with other serotonergic drugs. Instruct patients to contact their health care provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions ( 5.2 ), Drug Interactions ( 7.1 )]. Potential for Drug Interactions with Concomitant Drugs Advise patients to inform their health care provider if they are taking, or plan to take, any prescription or nonprescription drugs, since there is a potential for drug-drug interactions [see Warning and Precautions ( 5.3 ), Drug Interactions ( 7 )]. Increased Risk of Bleeding Inform patients about the concomitant use of PAXIL CR with aspirin, NSAIDs, other antiplatelet drugs, warfarin, or other anticoagulants because the combined use has been associated with an increased risk of bleeding. Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the counter medications that increase the risk of bleeding [see Warnings and Precautions ( 5.5 )]. Activation of Mania/Hypomania Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to their health care provider [see Warnings and Precautions ( 5.6 )]. Discontinuation Syndrome Advise patients not to abruptly discontinue PAXIL CR and to discuss any tapering regimen with their healthcare provider. Inform patients that adverse reactions can occur when PAXIL CR is discontinued [ see Warnings and Precautions ( 5.7 )]. Sexual Dysfunction Advise female and male patients that use of PAXIL CR may cause symptoms of sexual dysfunction. Inform patients that they should discuss any changes in sexual function and potential management strategies with their health care provider [see Warnings and Precautions ( 5.11 )]. Embryo-Fetal Toxicity Advise women to notify their health care provider if they become pregnant or intend to become pregnant during treatment with PAXIL CR. Advise women of the risks of PAXIL CR associated with [see Warnings and Precautions ( 5.4 , 5.5 ), Use in Specific Populations ( 8.1 )] : First trimester use. Third trimester use including an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn Advise women of the risks associated with untreated depression in pregnancy in those being treated for MDD. Advise women of the availability of a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PAXIL CR during pregnancy. Lactation Advise breastfeeding women using PAXIL CR to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations ( 8.2 )] . Males of Reproductive Potential Advise men that PAXIL CR may affect sperm quality, which may impair fertility; it is unknown if this effect is reversible [ see Use in Specific Populations ( 8.3 )] . Hypersensitivity Reactions Advise patients to notify their healthcare provider if they develop a hypersensitivity reaction such as rash, hives, swelling, or difficulty breathing [see Adverse Reactions ( 6.1 , 6.2 )]. Important Administration Instructions Instruct patients to swallow PAXIL CR whole and to not chew or crush the extended-release tablets [see Dosage and Administration ( 2.1 )]. Manufactured by: Apotex Inc. Toronto, Ontario M9L 1T9 Manufactured for: Apotex Corp. Weston FL 33326 All registered trademarks in this document are the property of their respective owners."
+  ],
+  "spl_medguide": [
+   "MEDICATION GUIDE PAXIL CR ® (PAX-il) (paroxetine hydrochloride) extended-release tablets, for oral use What is the most important information I should know about PAXIL CR? PAXIL CR can cause serious side effects, including: Increased risk of suicidal thoughts and actions. PAXIL CR and other antidepressant medicines may increase the risk of suicidal thoughts and actions in people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed. PAXIL CR is not for use in children . Depression or other mental illnesses are the most important causes of suicidal thoughts or actions. How can I watch for and try to prevent suicidal thoughts and actions? Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions. This is very important when an antidepressant medicine is started or when the dose is changed. Tell your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or if you develop suicidal thoughts or actions. Keep all follow-up visits with your healthcare provider as scheduled. Tell your healthcare provider between visits as needed, especially if you have concerns about symptoms. Tell your healthcare provider or get emergency medical help right away if you develop any of the following symptoms, especially if they are new, worse, or worry you: suicide attempts acting aggressive or violent new or worse depression feeling agitated, restless, angry, or irritable an increase in activity or talking more than what is normal for you acting on dangerous impulses thoughts about suicide or dying new or worse anxiety or panic attacks trouble sleeping other unusual changes in behavior or mood See “What are the possible side effects of PAXIL CR?” for more information about side effects. What is PAXIL CR? PAXIL CR is a prescription medicine used in adults to treat: A certain type of depression called major depressive disorder (MDD) Panic disorder Social anxiety disorder (SAD) Premenstrual dysphoric disorder (PMDD) It is not known if PAXIL CR is safe and effective in children. Who should not take PAXIL CR? Do not take PAXIL CR if you: are taking, or have stopped taking within the last 14 days, a medicine called a monoamine oxidase inhibitor (MAOI) , including the antibiotic linezolid or intravenous methylene blue are taking certain medicines that can cause a heart rhythm problem called QT prolongation are allergic to paroxetine or any of the ingredients in PAXIL CR. See the end of this Medication Guide for a complete list of ingredients in PAXIL CR. Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI or one of these medicines. Do not start taking an MAOI for at least 14 days after you stop treatment with PAXIL CR. Before taking PAXIL CR, tell your healthcare provider about all your medical conditions, including if you: have heart problems have or had bleeding problems have, or have a family history of bipolar disorder, mania or hypomania have or had seizures or convulsions have high pressure in the eye (glaucoma) have low sodium levels in your blood have bone problems have kidney or liver problems are pregnant or plan to become pregnant. PAXIL CR can harm your unborn baby. Taking PAXIL CR during your first trimester of pregnancy may cause your baby to be at an increased risk of having a heart problem (cardiac malformations) at birth. Taking PAXIL CR during your third trimester of pregnancy may cause your baby to have breathing,temperature, and feeding problems, low muscle tone, and irritability after birth and may cause your baby to be at an increased risk of a serious lung problem at birth. Talk to your healthcare provider about the risks to your unborn baby if you take PAXIL CR during pregnancy. You may be at increased risk for bleeding after childbirth if you take PAXIL CR in the month before delivery. Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with PAXIL CR. There is a pregnancy registry for females who are exposed to PAXIL CR during pregnancy. The purpose ofthe registry is to collect information about the health of females exposed to PAXIL CR and their baby. Ifyou become pregnant during treatment with PAXIL CR talk to your healthcare provider about registeringwith the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/ . are breastfeeding or plan to breastfeed. PAXIL CR passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with PAXIL CR. If you breastfeed during treatment with PAXIL CR, tell your healthcare provider if your baby develops agitation, irritability, poor feeding, or poor weight gain. Tell your healthcare provider about all the medicines you take , including prescription and over-the-counter medicines, vitamins, and herbal supplements. PAXIL CR and some other medicines may affect each other causing possible serious side effects. PAXIL CR may affect the way other medicines work and other medicines may affect the way PAXIL CR works. Especially tell your healthcare provider if you take: medicines that can increase your risk for developing a serious problem called serotonin syndrome, including: medicines used to treat migraine headaches called triptans medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs), MAOIs, tricyclic antidepressants, lithium, buspirone tramadol, fentanyl, meperidine, methadone, or other opioids tryptophan amphetamines St. John’s Wort medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, or other blood thinners diuretics tamoxifen Ask your healthcare provider if you are not sure if you are taking any of these medicines. Your healthcare provider can tell you if it is safe to take PAXIL CR with your other medicines. Do not start or stop any other medicines during treatment with PAXIL CR without talking to your healthcare provider first. Stopping PAXIL CR suddenly may cause you to have serious side effects. See “What are the possible side effects of PAXIL CR?” Know the medicines you take. Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine. How should I take PAXIL CR? Take PAXIL CR exactly as your healthcare provider tell you to. Your healthcare provider may need to change the dose of PAXIL CR until it is the right dose for you. Take PAXIL CR 1 time each day in the morning. Take PAXIL CR with or without food. Swallow PAXIL CR tablets whole. Do not chew or crush PAXIL CR tablets. If you take too much PAXIL CR, call your healthcare provider or poison help line at 1-800-222-1222 or go to the nearest hospital emergency room right away. What are possible side effects of PAXIL CR? PAXIL CR may cause serious side effects, including : See “What is the most important information I should know about PAXIL CR?” Serotonin syndrome. A potentially life-threatening problem called serotonin syndrome can happen when you take PAXIL CR with certain other medicines. See “ Who should not take PAXIL CR?” and \"Especially tell your healthcare provider if you take:\" Tell your healthcare provider or go to the nearest hospital emergency room right away if you develop any of the following signs and symptoms of serotonin syndrome: agitation seeing or hearing things that are not real (hallucinations) confusion coma fast heart beat changes in blood pressure dizziness sweating flushing high body temperature (hyperthermia) shaking (tremors), stiff muscles, or muscle twitching loss of coordination seizures nausea, vomiting, diarrhea Medicine interactions that can lead to heart rhythm problems. Taking PAXIL CR with certain other medicines may increase the risk of developing a serious heart problem called QT prolongation. See \"Who should not take PAXIL CR?\" Increased risk of bleeding. Taking PAXIL CR with aspirin, NSAIDs, warfarin or other blood thinners may add to this risk. Tell your healthcare provider about any unusual bleeding or bruising. Manic episodes. Manic episodes may happen in people with bipolar disorder who take PAXIL CR. Tell your healthcare provider if you develop any symptoms of mania, which may include: greatly increased energy racing thoughts unusually grand ideas talking more or faster than usual severe problems sleeping reckless behavior excessive happiness or irritability Discontinuation syndrome. Suddenly stopping PAXIL CR may cause you to have serious side effects. Your healthcare provider may want to decrease your dose slowly. Symptoms may include: nausea sweating changes in mood irritability and agitation dizziness electric shock feeling (paresthesia) shaking (tremor) anxiety confusion headache tiredness problems sleeping hypomania ringing in your ears (tinnitus) seizures Seizures (convulsions). Eye problems (angle-closure glaucoma). PAXIL CR may cause a type of eye problem called angle-closure glaucoma in people with certain other eye conditions. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. · Tell your healthcare provider if you develop eye pain, changes in your vision, or swelling or redness in or around the eye. Low sodium levels in your blood (hyponatremia). Low sodium levels in your blood that may be severe and may cause death, can happen during treatment with PAXIL CR. Elderly people and people who take diuretics or become dehydrated certain may be at a greater risk for this. Signs and symptoms may include: headache difficulty concentrating memory changes confusion weakness and unsteadiness which can lead to falls In more severe or more sudden cases, signs and symptoms include: seeing or hearing things that are not real (hallucinations) fainting seizures coma stopping breathing (respiratory arrest) Sexual problems (dysfunction). Taking selective serotonin reuptake inhibitors (SSRIs), including PAXIL CR, may cause sexual problems. Symptoms in males may include: delayed ejaculation or inability to have an ejaculation decreased sex drive problems getting or keeping an erection Symptoms in females may include: Decreased sex drive Delayed orgasm or inability to have an orgasm Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with PAXIL CR. There may be treatments your healthcare provider can suggest. Bone fractures The most common side effects PAXIL CR include: male and female sexual function problems blurred vision weakness (asthenia) constipation decreased appetite diarrhea dizziness dry mouth problems sleeping nausea sleepiness sweating shaking (tremor) PAXIL CR may cause fertility problems in males, which may affect your ability to have children. Talk to your healthcare provider if you have concerns about fertility. Tell your healthcare provider or get emergency medical help right away if you develop an allergic reaction during treatment with PAXIL CR such as rash, hives, swelling or difficulty breathing. These are not all the possible side effects of PAXIL CR. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store PAXIL CR? Store PAXIL CR at room temperature between 68°F to 77°F (20°C to 25°C). Keep PAXIL CR and all medicines out of the reach of children. General information about the safe and effective use of PAXIL CR. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not take PAXIL CR for a condition for which it was not prescribed. Do not give PAXIL CR to other people, even if they have the same symptoms that you have. It may harm them. You may ask your pharmacist or healthcare provider for information about PAXIL CR that is written for health professionals. What are the ingredients in PAXIL CR? Active ingredient: paroxetine hydrochloride Inactive ingredients: glyceryl behenate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer type C, polyethylene glycols, polysorbate 80, polyvinylpyrrolidone, silicon dioxide, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate and the following colorants: D&C Red No. 30 aluminum lake (25 mg), D&C Yellow No. 10 aluminum lake (12.5 mg), FD&C Blue No. 2 aluminum lake (37.5 mg), FD&C Yellow No. 6 aluminum lake (12.5 mg), red ferric oxide (25 mg) and Yellow ferric oxide (12.5 mg and 37.5 mg). All registered trademarks in this document are the property of their respective owners. This Medication Guide has been approved by the U.S. Food and Drug Administration. Manufactured by: Apotex Inc. Toronto, Ontario M9L 1T9 Manufactured for: Apotex Corp. Weston, FL 33326 For more information about PAXIL CR call 1-800-706-5575. This Medication Guide has been approved by the U.S. Food and Drug Administration. 9/2026"
+  ],
+  "set_id": "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+  "id": "537a5f05-8311-a97e-acde-275206595dcd",
+  "effective_time": "20260930",
+  "version": "34"
+ }
+}
