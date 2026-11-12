@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:01Z",
+ "updated": "2026-11-12T11:02Z",
  "n": 416,
  "missing": [
   "norfloxacino",
@@ -1640,19 +1640,19 @@
   },
   {
    "id_es": "clonidina",
-   "generic_en": "clonidine",
+   "generic_en": "clonidine hydrochloride",
    "brand": [
-    "Clonidine"
+    "QLONILIK"
    ],
    "manufacturer": [
-    "XGen Pharmaceuticals DJB, Inc."
+    "CMP Pharma, Inc."
    ],
-   "effective_time": "20240130",
-   "set_id": "ada02f1f-ae78-4435-879e-492ae862d504",
+   "effective_time": "20260812",
+   "set_id": "826de1dc-378e-4c90-86d1-e33f7a4248cd",
    "application": [
-    "ANDA203167"
+    "NDA221094"
    ],
-   "n_candidates": 9
+   "n_candidates": 25
   },
   {
    "id_es": "clopidogrel",

@@ -1,73 +1,48 @@
 {
  "id_es": "clonidina",
- "generic_en": "clonidine",
- "search": "openfda.generic_name.exact:\"CLONIDINE\"",
- "pref": "clonidine|ORAL-IR|",
- "downloaded": "2026-11-12T11:01Z",
+ "generic_en": "clonidine hydrochloride",
+ "search": "openfda.generic_name.exact:\"CLONIDINE HYDROCHLORIDE\"",
+ "pref": "clonidine hydrochloride|ORAL-IR|",
+ "downloaded": "2026-11-12T11:02Z",
  "chosen": {
-  "set_id": "ada02f1f-ae78-4435-879e-492ae862d504",
-  "id": "103027a7-2f0d-8d8c-e063-6294a90aedc7",
-  "effective_time": "20240130",
-  "version": "14",
+  "set_id": "826de1dc-378e-4c90-86d1-e33f7a4248cd",
+  "id": "9d9a0953-57dd-439d-a354-826284f56725",
+  "effective_time": "20260812",
+  "version": "1",
   "brand_name": [
-   "Clonidine"
+   "QLONILIK"
   ],
   "generic_name": [
-   "CLONIDINE"
+   "CLONIDINE HYDROCHLORIDE"
   ],
   "manufacturer_name": [
-   "XGen Pharmaceuticals DJB, Inc."
+   "CMP Pharma, Inc."
   ],
   "route": [
-   "EPIDURAL"
+   "ORAL"
   ],
   "product_type": [
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "ANDA203167"
+   "NDA221094"
   ],
-  "n_sections": 31
+  "n_sections": 26
  },
  "candidates": [
   {
-   "set_id": "7adfc439-e6d0-4593-87dd-0eef36d33c6d",
-   "id": "abb0caaf-1d1c-47c1-9c16-c47656dd4124",
-   "effective_time": "20260915",
-   "version": "14",
+   "set_id": "5366a055-47fd-41eb-81d8-ffb3be1dc38c",
+   "id": "5de59686-56ae-5db7-e063-6394a90a2393",
+   "effective_time": "20261015",
+   "version": "15",
    "brand_name": [
-    "Clonidine"
+    "clonidine hydrochloride"
    ],
    "generic_name": [
-    "CLONIDINE"
+    "CLONIDINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Mylan Pharmaceuticals Inc."
-   ],
-   "route": [
-    "TRANSDERMAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076166"
-   ],
-   "n_sections": 20
-  },
-  {
-   "set_id": "dad35a6f-d57e-f302-e053-2995a90a9efb",
-   "id": "4f83c93a-721f-ca2f-e063-6394a90aa789",
-   "effective_time": "20260415",
-   "version": "2",
-   "brand_name": [
-    "Nexiclon XR"
-   ],
-   "generic_name": [
-    "CLONIDINE"
-   ],
-   "manufacturer_name": [
-    "Rosemont Pharmaceuticals LLC"
+    "PD-Rx Pharmaceuticals, Inc."
    ],
    "route": [
     "ORAL"
@@ -76,23 +51,23 @@
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "NDA022500"
+    "ANDA091368"
    ],
-   "n_sections": 22
+   "n_sections": 23
   },
   {
-   "set_id": "99485427-a120-4fc7-bb61-25857d1900ec",
-   "id": "4f2ad773-518b-4532-bb69-8ff28c4f24c4",
-   "effective_time": "20251205",
+   "set_id": "95b390cc-0578-4cb0-9c08-4853388b2ec9",
+   "id": "5dcde292-d3f5-ce31-e063-6394a90a21dd",
+   "effective_time": "20261014",
    "version": "5",
    "brand_name": [
-    "Clonidine"
+    "Clonidine hydrochloride"
    ],
    "generic_name": [
-    "CLONIDINE"
+    "CLONIDINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Ingenus Pharmaceuticals, LLC"
+    "American Health Packaging"
    ],
    "route": [
     "ORAL"
@@ -101,98 +76,23 @@
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA209675"
+    "ANDA209686"
    ],
-   "n_sections": 30
+   "n_sections": 35
   },
   {
-   "set_id": "c41eb913-5e47-46c4-9d96-9a67f8380919",
-   "id": "3dfdaa58-ccab-5f9a-e063-6394a90a3cbb",
-   "effective_time": "20250904",
-   "version": "11",
+   "set_id": "a9de8b29-5cd2-a49d-e053-2995a90a4f0e",
+   "id": "5d6d75de-cdbf-75ec-e063-6294a90a0a7b",
+   "effective_time": "20261009",
+   "version": "5",
    "brand_name": [
-    "Clonidine"
+    "clonidine hydrochloride"
    ],
    "generic_name": [
-    "CLONIDINE"
+    "CLONIDINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Mayne Pharma Inc."
-   ],
-   "route": [
-    "TRANSDERMAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079090"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "a179570b-eef1-176a-820c-5f603d222a60",
-   "id": "07b162a5-9473-c1d7-9cba-aef238255dee",
-   "effective_time": "20240205",
-   "version": "1",
-   "brand_name": [
-    "Clonidine"
-   ],
-   "generic_name": [
-    "CLONIDINE"
-   ],
-   "manufacturer_name": [
-    "Dr. Reddy's Labratories Inc."
-   ],
-   "route": [
-    "TRANSDERMAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079090"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "ada02f1f-ae78-4435-879e-492ae862d504",
-   "id": "103027a7-2f0d-8d8c-e063-6294a90aedc7",
-   "effective_time": "20240130",
-   "version": "14",
-   "brand_name": [
-    "Clonidine"
-   ],
-   "generic_name": [
-    "CLONIDINE"
-   ],
-   "manufacturer_name": [
-    "XGen Pharmaceuticals DJB, Inc."
-   ],
-   "route": [
-    "EPIDURAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA203167"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "2311836b-de63-4e8c-a021-600c40110024",
-   "id": "0eb6d1fe-949a-312a-e063-6294a90ae10c",
-   "effective_time": "20240111",
-   "version": "1",
-   "brand_name": [
-    "Clonidine"
-   ],
-   "generic_name": [
-    "CLONIDINE"
-   ],
-   "manufacturer_name": [
-    "TruPharma, LLC"
+    "NuCare Pharmaceuticals,Inc."
    ],
    "route": [
     "ORAL"
@@ -201,23 +101,98 @@
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "NDA022500"
+    "ANDA091368"
    ],
-   "n_sections": 22
+   "n_sections": 23
   },
   {
-   "set_id": "e93324f1-ad83-7bbe-e053-2995a90a8c9e",
-   "id": "0eb6eb87-c779-3b79-e063-6294a90a5944",
-   "effective_time": "20240111",
+   "set_id": "88a8db46-0fc9-48cd-b7cc-ac9c9cdea100",
+   "id": "5c1950f4-ba20-4347-8ca0-f50a2d66c039",
+   "effective_time": "20260930",
+   "version": "5",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "61b56917-1442-4068-86d8-0e5a5a59e612",
+   "id": "992a1e09-c131-40c4-8d24-370af6b302a9",
+   "effective_time": "20260929",
+   "version": "7",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "cf493e6a-1603-4c7d-a442-69a119bec843",
+   "id": "cf493e6a-1603-4c7d-a442-69a119bec843",
+   "effective_time": "20260923",
+   "version": "1",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "6d7cfb02-e580-4658-a2fe-2149b515d434",
+   "id": "5b0eaf03-1cf3-d149-e063-6294a90aa8b7",
+   "effective_time": "20260909",
    "version": "2",
    "brand_name": [
-    "Clonidine"
+    "Clonidine Hydrochloride"
    ],
    "generic_name": [
-    "CLONIDINE"
+    "CLONIDINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "PALMETTO PHARMACEUTICALS INC."
+    "REMEDYREPACK INC."
    ],
    "route": [
     "ORAL"
@@ -226,119 +201,529 @@
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "NDA022500"
+    "ANDA202297"
    ],
-   "n_sections": 22
+   "n_sections": 23
   },
   {
-   "set_id": "99a59495-2a48-4276-bbe3-cdd55a45aba4",
-   "id": "996f475b-4f8b-4487-b5c1-6e5c4f284045",
-   "effective_time": "20231128",
-   "version": "13",
+   "set_id": "00c6d67a-bb11-4884-9eeb-4e1b8701a08b",
+   "id": "5af86781-9ae4-f05c-e063-6294a90a28b0",
+   "effective_time": "20260908",
+   "version": "3",
    "brand_name": [
-    "Clonidine transdermal system"
+    "Clonidine Hydrochloride"
    ],
    "generic_name": [
-    "CLONIDINE"
+    "CLONIDINE HYDROCHLORIDE"
    ],
    "manufacturer_name": [
-    "Actavis Pharma, Inc."
+    "REMEDYREPACK INC."
    ],
    "route": [
-    "TRANSDERMAL"
+    "ORAL"
    ],
    "product_type": [
     "HUMAN PRESCRIPTION DRUG"
    ],
    "application_number": [
-    "ANDA090873"
+    "ANDA070974"
    ],
-   "n_sections": 25
+   "n_sections": 24
+  },
+  {
+   "set_id": "4b889e12-0382-4679-9cec-d6829c59e853",
+   "id": "5afbcd20-9c08-a5f4-e063-6394a90ae148",
+   "effective_time": "20260908",
+   "version": "3",
+   "brand_name": [
+    "Clonidine Hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070975"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "826de1dc-378e-4c90-86d1-e33f7a4248cd",
+   "id": "9d9a0953-57dd-439d-a354-826284f56725",
+   "effective_time": "20260812",
+   "version": "1",
+   "brand_name": [
+    "QLONILIK"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CMP Pharma, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA221094"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "58772b44-dec0-7001-e063-6394a90ac40e",
+   "id": "58772ae8-be92-53cd-e063-6294a90a518a",
+   "effective_time": "20260807",
+   "version": "1",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "53df40e7-dd2b-d40e-e063-6394a90a21c4",
+   "id": "57e5e1a6-0a15-8e84-e063-6294a90a800a",
+   "effective_time": "20260731",
+   "version": "2",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "8171776a-dd14-4dcc-8860-3c27d8ea9504",
+   "id": "8dab11da-f83b-4794-b612-3817f7a609b4",
+   "effective_time": "20260727",
+   "version": "4",
+   "brand_name": [
+    "Clonidine Hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA077901"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "d90b2ca4-7753-4012-a1b2-fb92bdf0ebb6",
+   "id": "f3d64f9f-6bfb-48e8-aed1-5623415005ed",
+   "effective_time": "20260707",
+   "version": "2",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Alembic Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "2a183d05-5be7-43e9-a084-700ec05d01e9",
+   "id": "55a1ebee-17b7-0cb4-e063-6394a90a0e8e",
+   "effective_time": "20260702",
+   "version": "6",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "574640a5-829d-4e9d-be32-832a48cbd8dd",
+   "id": "55a157bc-ae92-f669-e063-6294a90a8cec",
+   "effective_time": "20260702",
+   "version": "15",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "32d72d7b-5881-f431-e063-6394a90a3547",
+   "id": "55287a5b-73b3-83f2-e063-6394a90a292d",
+   "effective_time": "20260626",
+   "version": "3",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078895"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "cee049ea-a476-433c-971f-2466a6a3263b",
+   "id": "1a487aeb-d565-4e30-b410-1c007e262560",
+   "effective_time": "20260624",
+   "version": "6",
+   "brand_name": [
+    "Clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070925"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "547beb0f-0c12-2ef4-e063-6394a90a6a73",
+   "id": "547bdccc-80e9-3da1-e063-6394a90ab6d8",
+   "effective_time": "20260617",
+   "version": "1",
+   "brand_name": [
+    "Clonidine Hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070975"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "544ea5bf-6713-f034-e063-6394a90a781b",
+   "id": "544eb617-ea1f-edf8-e063-6394a90afc72",
+   "effective_time": "20260615",
+   "version": "1",
+   "brand_name": [
+    "Clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Unit Dose Solutions, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070923"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "7ec53e25-c50a-48b4-82b0-c0b3626f31dc",
+   "id": "5332cdd6-bd19-da82-e063-6294a90a7d1b",
+   "effective_time": "20260601",
+   "version": "14",
+   "brand_name": [
+    "Clonidine Hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070974"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "be1b921d-152e-4bd5-82bd-56e2f8beef3e",
+   "id": "52ba3bc2-5946-dab7-e063-6394a90a8350",
+   "effective_time": "20260526",
+   "version": "16",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078895"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "200afa03-adf3-4dca-8de8-1569701bd029",
+   "id": "52424472-0f00-acac-e063-6294a90a8330",
+   "effective_time": "20260520",
+   "version": "2",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "ASCLEMED USA INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA078895"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "266af0b1-ce85-6699-e063-6394a90acb4d",
+   "id": "513d0ac1-12b9-13bb-e063-6294a90ace8b",
+   "effective_time": "20260507",
+   "version": "2",
+   "brand_name": [
+    "Clonidine Hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA070975"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "666e757e-9b43-2e40-e053-2991aa0a59a2",
+   "id": "511927b6-627c-3ac5-e063-6294a90ac2a7",
+   "effective_time": "20260505",
+   "version": "5",
+   "brand_name": [
+    "clonidine hydrochloride"
+   ],
+   "generic_name": [
+    "CLONIDINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091368"
+   ],
+   "n_sections": 23
   }
  ],
  "label": {
-  "boxed_warning": [
-   "The 500 mcg/mL strength product should be diluted prior to use in an appropriate solution.",
-   "NOTE: Clonidine hydrochloride injection (epidural clonidine) is not recommended for obstetrical, post-partum, or peri-operative pain management. The risk of hemodynamic instability, especially hypotension and bradycardia, from epidural clonidine may be unacceptable in these patients. However, in a rare obstetrical, post-partum or peri-operative patient, potential benefits may outweigh the possible risks."
-  ],
-  "description": [
-   "DESCRIPTION Clonidine hydrochloride injection is a centrally-acting analgesic solution for use in continuous epidural infusion devices. Clonidine Hydrochloride, USP, is an imidazoline derivative and exists as a mesomeric compound. The chemical names are Benzenamine, 2,6-dichloro-N-2-imidazolidinylidene monohydrochloride and 2-[(2,6-dichlorophenyl)imino]imidazolidine monohydrochloride. The following is the structural formula: C 9 H 9 Cl 2 N 3 · HCl Mol. Wt. 266.56 Clonidine hydrochloride injection is supplied as a clear, colorless, preservative-free, pyrogen-free, aqueous sterile solution (pH 5 to 7) in single-dose, 10 mL vials. Each mL of the 100 mcg/mL (0.1 mg/mL) concentration contains 100 mcg of Clonidine Hydrochloride, USP and 9 mg Sodium Chloride in Water for Injection, USP. Hydrochloric Acid and/or Sodium Hydroxide may have been added for pH adjustment. Each 10 mL vial contains 1 mg (1000 mcg) of clonidine hydrochloride. Each mL of the 500 mcg/mL (0.5 mg/mL) concentration contains 500 mcg of Clonidine Hydrochloride, USP and 9 mg Sodium Chloride in Water for Injection, USP. Hydrochloric Acid and/or Sodium Hydroxide may have been added for pH adjustment. Each 10 mL vial contains 5 mg (5000 mcg) of clonidine hydrochloride. clonidine-structure"
-  ],
-  "description_table": [
-   "<table border=\"0\" width=\"50%\"><tbody><tr><td><content styleCode=\"bold\">C <sub>9</sub>H <sub>9</sub>Cl <sub>2</sub>N <sub>3</sub> &#xB7; HCl </content></td><td><content styleCode=\"bold\">Mol. Wt. 266.56</content></td></tr></tbody></table>"
-  ],
-  "clinical_pharmacology": [
-   "CLINICAL PHARMACOLOGY Mechanism of Action Epidurally administered clonidine produces dose-dependent analgesia not antagonized by opiate antagonists. The analgesia is limited to the body regions innervated by the spinal segments where analgesic concentrations of clonidine are present. Clonidine is thought to produce analgesia at presynaptic and postjunctional alpha-2-adrenoceptors in the spinal cord by preventing pain signal transmission to the brain. Pharmacokinetics Following a 10 minute intravenous infusion of 300 mcg clonidine HCl to five male volunteers, plasma clonidine levels showed an initial rapid distribution phase (mean ± SD t 1⁄2 = 11 ± 9 minutes) followed by a slower elimination phase (t 1⁄2 = 9 ± 2 hours) over 24 hours. Clonidine’s total body clearance (CL) was 219 ± 92 mL/min. Following a 700 mcg clonidine HCl epidural dose given over five minutes to four male and five female volunteers, peak clonidine plasma levels (4.4 ± 1.4 ng/mL) were obtained in 19 ± 27 minutes. The plasma elimination half-life was determined to be 22 ± 15 hours following sample collection for 24 hours. CL was 190 ± 70 mL/min. In cerebral spinal fluid (CSF), peak clonidine levels (418 ± 255 ng/mL) were achieved in 26 ± 11 minutes. The clonidine CSF elimination half-life was 1.3 ± 0.5 hours when samples were collected for 6 hours. Compared to men, women had a lower mean plasma clearance, longer mean plasma half-life, and higher mean peak level of clonidine in both plasma and CSF. In cancer patients who received 14 days of clonidine HCl epidural infusion (rate = 30 mcg/hr) plus morphine by patient-controlled analgesia (PCA), steady state clonidine plasma concentrations of 2.2 ± 1.1 and 2.4 ± 1.4 ng/mL were obtained on dosing days 7 and 14, respectively. CL was 279 ± 184 and 272 ± 163 mL/min on these days. CSF concentrations were not determined in these patients. Distribution Clonidine is highly lipid soluble and readily distributes into extravascular sites including the central nervous system. Clonidine’s volume of distribution is 2.1 ± 0.4 L/kg. The binding of clonidine to plasma protein is primarily to albumin and varies between 20 and 40% in vitro. Epidurally administered clonidine readily partitions into plasma via the epidural veins and attains systemic concentrations (0.5 to 2 ng/mL) that are associated with a hypotensive effect mediated by the central nervous system. Excretion Following an intravenous dose of 14 C-clonidine, 72% of the administered dose was excreted in urine in 96 hours of which 40 to 50% was unchanged clonidine. Renal clearance for clonidine was determined to be 133 ± 66 mL/min. In a study where 14 C-clonidine was given to subjects with varying degrees of kidney function, elimination half-lives varied (17.5 to 41 hours) as a function of creatinine clearance. In subjects undergoing hemodialysis only 5% of body clonidine stores were removed. Metabolism In humans, clonidine metabolism follows minor pathways with the major metabolite, p-hydroxy-clonidine, being present at less than 10% of the concentration of unchanged drug in urine. Special Populations The pharmacokinetics of epidurally administered clonidine has not been studied in the pediatric population or in patients with renal or hepatic disease. Clinical Trials In a double-blind, randomized study of cancer patients with severe intractable pain below the C4 dermatome not controlled by morphine, 38 patients were randomized to an epidural infusion of clonidine hydrochloride injection plus epidural morphine, whereas 47 subjects received epidural placebo plus epidural morphine. Both groups were allowed rescue doses of epidural morphine. Successful analgesia, defined as a decrease in either morphine use or Visual Analog Score (VAS) pain, was significantly more common with epidural clonidine than placebo (45% vs 21%, p=0.016). Only the subgroup of 36 patients with ‘‘neuropathic’’ pain, characterized by the investigator as well-localized, burning, shooting, or electric-like pain in a dermatomal or peripheral nerve distribution had significant analgesic effects relative to placebo in this study. The most frequent adverse events with clonidine were hypotension (45% vs 11% for placebo, p< 0.001), postural hypotension (32% vs 0%, p< 0.001), dizziness (13% vs 4%, p=0.234), anxiety (11% vs 2%, p=0.168) and dry mouth (13% vs 9%, p=0.505). Both mean blood pressure and heart rate were reduced in the clonidine group. At the conclusion of the two-week study period in the clinical trial, all patients were abruptly withdrawn from study drug or placebo. Four patients of the clonidine group suffered rebound hypertension upon withdrawal of clonidine; one of these patients suffered a cerebrovascular accident. Asymptomatic bradycardia was noted in one clonidine patient."
-  ],
-  "mechanism_of_action": [
-   "Mechanism of Action Epidurally administered clonidine produces dose-dependent analgesia not antagonized by opiate antagonists. The analgesia is limited to the body regions innervated by the spinal segments where analgesic concentrations of clonidine are present. Clonidine is thought to produce analgesia at presynaptic and postjunctional alpha-2-adrenoceptors in the spinal cord by preventing pain signal transmission to the brain."
-  ],
-  "pharmacokinetics": [
-   "Pharmacokinetics Following a 10 minute intravenous infusion of 300 mcg clonidine HCl to five male volunteers, plasma clonidine levels showed an initial rapid distribution phase (mean ± SD t 1⁄2 = 11 ± 9 minutes) followed by a slower elimination phase (t 1⁄2 = 9 ± 2 hours) over 24 hours. Clonidine’s total body clearance (CL) was 219 ± 92 mL/min. Following a 700 mcg clonidine HCl epidural dose given over five minutes to four male and five female volunteers, peak clonidine plasma levels (4.4 ± 1.4 ng/mL) were obtained in 19 ± 27 minutes. The plasma elimination half-life was determined to be 22 ± 15 hours following sample collection for 24 hours. CL was 190 ± 70 mL/min. In cerebral spinal fluid (CSF), peak clonidine levels (418 ± 255 ng/mL) were achieved in 26 ± 11 minutes. The clonidine CSF elimination half-life was 1.3 ± 0.5 hours when samples were collected for 6 hours. Compared to men, women had a lower mean plasma clearance, longer mean plasma half-life, and higher mean peak level of clonidine in both plasma and CSF. In cancer patients who received 14 days of clonidine HCl epidural infusion (rate = 30 mcg/hr) plus morphine by patient-controlled analgesia (PCA), steady state clonidine plasma concentrations of 2.2 ± 1.1 and 2.4 ± 1.4 ng/mL were obtained on dosing days 7 and 14, respectively. CL was 279 ± 184 and 272 ± 163 mL/min on these days. CSF concentrations were not determined in these patients."
-  ],
-  "use_in_specific_populations": [
-   "Special Populations The pharmacokinetics of epidurally administered clonidine has not been studied in the pediatric population or in patients with renal or hepatic disease."
-  ],
-  "clinical_studies": [
-   "Clinical Trials In a double-blind, randomized study of cancer patients with severe intractable pain below the C4 dermatome not controlled by morphine, 38 patients were randomized to an epidural infusion of clonidine hydrochloride injection plus epidural morphine, whereas 47 subjects received epidural placebo plus epidural morphine. Both groups were allowed rescue doses of epidural morphine. Successful analgesia, defined as a decrease in either morphine use or Visual Analog Score (VAS) pain, was significantly more common with epidural clonidine than placebo (45% vs 21%, p=0.016). Only the subgroup of 36 patients with ‘‘neuropathic’’ pain, characterized by the investigator as well-localized, burning, shooting, or electric-like pain in a dermatomal or peripheral nerve distribution had significant analgesic effects relative to placebo in this study. The most frequent adverse events with clonidine were hypotension (45% vs 11% for placebo, p< 0.001), postural hypotension (32% vs 0%, p< 0.001), dizziness (13% vs 4%, p=0.234), anxiety (11% vs 2%, p=0.168) and dry mouth (13% vs 9%, p=0.505). Both mean blood pressure and heart rate were reduced in the clonidine group. At the conclusion of the two-week study period in the clinical trial, all patients were abruptly withdrawn from study drug or placebo. Four patients of the clonidine group suffered rebound hypertension upon withdrawal of clonidine; one of these patients suffered a cerebrovascular accident. Asymptomatic bradycardia was noted in one clonidine patient."
-  ],
   "indications_and_usage": [
-   "INDICATIONS AND USAGE Clonidine hydrochloride injection is indicated in combination with opiates for the treatment of severe pain in cancer patients that is not adequately relieved by opioid analgesics alone. Epidural clonidine is more likely to be effective in patients with neuropathic pain than somatic or visceral pain (see Clinical Trials ). The safety of this drug product has only been established in a highly selected group of cancer patients, and only after an adequate trial of opioid analgesia. Other use is of unproven safety and is not recommended. In a rare patient, the potential benefits may outweigh the known risks (see WARNINGS )."
-  ],
-  "contraindications": [
-   "CONTRAINDICATIONS Clonidine hydrochloride injection is contraindicated in patients with a history of sensitization or allergic reactions to clonidine. Epidural administration is contraindicated in the presence of an injection site infection, in patients on anticoagulant therapy, and in those with a bleeding diathesis. Administration of clonidine hydrochloride injection above the C4 dermatome is contraindicated since there are no adequate safety data to support such use (see WARNINGS )."
-  ],
-  "warnings": [
-   "WARNINGS Use in Postoperative or Obstetrical Analgesia Clonidine hydrochloride injection (epidural clonidine) is not recommended for obstetrical, post-partum, or peri-operative pain management. The risk of hemodynamic instability, especially hypotension and bradycardia, from epidural clonidine may be unacceptable in these patients. Hypotension Because severe hypotension may follow the administration of clonidine, it should be used with caution in all patients. It is not recommended in most patients with severe cardiovascular disease or in those who are otherwise hemodynamically unstable. The benefit of its administration in these patients should be carefully balanced against the potential risks resulting from hypotension. Vital signs should be monitored frequently, especially during the first few days of epidural clonidine therapy. When clonidine is infused into the upper thoracic spinal segments, more pronounced decreases in the blood pressure may be seen. Clonidine decreases sympathetic outflow from the central nervous system resulting in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure. However, in the absence of profound hypotension, renal blood flow and glomerular filtration rate remain essentially unchanged. In the pivotal double-blind, randomized study of cancer patients, where 38 subjects were administered epidural clonidine at 30 mcg/hr in addition to epidural morphine, hypotension occurred in 45% of subjects. Most episodes of hypotension occurred within the first four days after beginning epidural clonidine. However, hypotensive episodes occurred throughout the duration of the trial. There was a tendency for these episodes to occur more commonly in women, and in those with higher serum clonidine levels. Patients experiencing hypotension also tended to weigh less than those who did not experience hypotension. The hypotension is usually responsive to intravenous fluids and, if necessary, appropriate parenterally-administered pressor agents. Published reports on the use of epidural clonidine for intraoperative or postoperative analgesia also show a consistent and marked hypotensive response to clonidine. Severe hypotension may occur even if intravenous fluid pretreatment is given. Withdrawal Sudden cessation of clonidine treatment, regardless of the route of administration, has, in some cases, resulted in symptoms such as nervousness, agitation, headache, and tremor, accompanied or followed by a rapid rise in blood pressure. The likelihood of such reactions appears to be greater after administration of higher doses or with concomitant beta-blocker treatment. Special caution is therefore advised in these situations. Rare instances of hypertensive encephalopathy, cerebrovascular accidents and death have been reported after abrupt clonidine withdrawal. Patients with a history of hypertension and/or other underlying cardiovascular conditions may be at particular risk of the consequences of abrupt discontinuation of clonidine. In the pivotal double-blind, randomized cancer pain study, four of 38 subjects receiving 720 mcg of clonidine per day experienced rebound hypertension following abrupt withdrawal. One of these patients with rebound hypertension subsequently experienced a cerebrovascular accident. Careful monitoring of infusion pump function and inspection of catheter tubing for obstruction or dislodgement can help reduce the risk of inadvertent abrupt withdrawal of epidural clonidine. Patients should notify their physician immediately if clonidine administration is inadvertently interrupted for any reason. Patients should also be instructed not to discontinue therapy without consulting their physician. When discontinuing therapy with epidural clonidine, the physician should reduce the dose gradually over 2 to 4 days to avoid withdrawal symptoms. An excessive rise in blood pressure following discontinuation of epidural clonidine can be treated by administration of clonidine or by intravenous phentolamine. If therapy is to be discontinued in patients receiving a beta-blocker and clonidine concurrently, the beta-blocker should be withdrawn several days before the gradual discontinuation of epidural clonidine. Infections Infections related to implantable epidural catheters pose a serious risk. Evaluation of fever in a patient receiving epidural clonidine should include the possibility of a catheter-related infection such as meningitis or epidural abscess."
-  ],
-  "precautions": [
-   "PRECAUTIONS General Cardiac Effects: Epidural clonidine frequently causes decreases in heart rate. Symptomatic bradycardia can be treated with atropine. Rarely, atrioventricular block greater than first degree has been reported. Clonidine does not alter the hemodynamic response to exercise, but may mask the increase in heart rate associated with hypovolemia. Respiratory Depression and Sedation: Clonidine administration may result in sedation through the activation of alpha-adrenoceptors in the brainstem. High doses of clonidine cause sedation and ventilatory abnormalities that are usually mild. Tolerance to these effects can develop with chronic administration. These effects have been reported with bolus doses that are significantly larger than the infusion rate recommended for treating cancer pain. Depression: Depression has been seen in a small percentage of patients treated with oral or transdermal clonidine. Depression commonly occurs in cancer patients and may be exacerbated by treatment with clonidine. Patients, especially those with a known history of affective disorders, should be monitored for the signs and symptoms of depression. Pain of Visceral or Somatic Origin: In the clinical investigations, at doses tested, clonidine hydrochloride injection was most effective in well-localized, “neuropathic” pain that was characterized as electrical, burning, or shooting in nature, and which was localized to a dermatomal or peripheral nerve distribution. Clonidine hydrochloride injection may be less effective, or possibly ineffective in the treatment of pain that is diffuse, poorly localized, or visceral in origin. Information for Patients Patients should be instructed about the risks of rebound hypertension and warned not to discontinue clonidine except under the supervision of a physician. Patients should notify their physician immediately if clonidine administration is inadvertently interrupted for any reason. Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of the potential sedative and hypotensive effects of epidural clonidine. They should also be informed that sedative effects may be increased by CNS-depressing drugs such as alcohol and barbiturates, and that hypotensive effects may be increased by opiates. Drug Interactions Clonidine may potentiate the CNS-depressive effect of alcohol, barbiturates or other sedating drugs. Narcotic analgesics may potentiate the hypotensive effects of clonidine. Tricyclic antidepressants may antagonize the hypotensive effects of clonidine. The effects of tricyclic antidepressants on clonidine’s analgesic actions are not known. Beta-blockers may exacerbate the hypertensive response seen with clonidine withdrawal. Also, due to the potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers, and beta-blockers. There is one reported case of a patient with acute delirium associated with the simultaneous use of fluphenazine and oral clonidine. Symptoms resolved when clonidine was withdrawn and recurred when the patient was rechallenged with clonidine. Epidural clonidine may prolong the duration of pharmacologic effects of epidural local anesthetics, including both sensory and motor blockade. Carcinogenesis, Mutagenesis, Impairment of Fertility In a 132-week study in rats, clonidine hydrochloride administered as a dietary admixture at 5 to 8 times (based on body surface area) the 50 mcg/kg maximum recommended daily human dose (MRDHD) for hypertension did not show any carcinogenic potential. Clonidine was inactive in the Ames test of mutagenicity. Fertility of male or female rats was unaffected by oral clonidine hydrochloride doses as high as 150 mcg/kg, or about 0.5 times the MRDHD. Fertility of female rats did, however, appear to be affected in another experiment at oral dose levels of 500 to 2000 mcg/kg, or 2 to 7 times the MRDHD. Usage in Pregnancy/Teratogenic Effects Reproduction studies in rabbits at clonidine hydrochloride doses up to approximately the MRDHD revealed no evidence of teratogenic or embryotoxic potential. In rats, however, doses as low as one-third the MRDHD were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating. Increased resorptions were not associated with treatment with the same or higher doses up to 0.5 times the MRDHD when dams were treated on days 6 to 15 of gestation. Increased resorptions were observed at higher levels (7-times the MRDHD) in rats and mice treated on days 1 to 14 of gestation. Clonidine readily crosses the placenta and its concentrations are equal in maternal and umbilical cord plasma; amniotic fluid concentrations can be 4-times those found in serum. There are no adequate and well-controlled studies in pregnant women during early gestation when organ formation takes place. Studies using epidural clonidine during labor have demonstrated no apparent adverse effects on the infant at the time of delivery. However, these studies did not monitor the infants for hemodynamic effects in the days following delivery. Clonidine hydrochloride injection should be used during pregnancy only if the potential benefits justify the potential risk to the fetus. Labor and Delivery There are no adequate controlled clinical trials evaluating the safety, efficacy, and dosing of clonidine hydrochloride injection in obstetrical settings. Because maternal perfusion of the placenta is critically dependent on blood pressure, use of clonidine hydrochloride injection as an analgesic during labor and delivery is not indicated (see WARNINGS ). Nursing Mothers Concentrations of clonidine in human breast milk are approximately twice those found in maternal plasma. Caution should be exercised when clonidine is administered to a nursing woman. Because of the potential for severe adverse reactions in nursing infants, a decision should be made to either discontinue nursing or to discontinue clonidine. Pediatric Use The safety and effectiveness of clonidine hydrochloride injection in this limited indication and clinical population have been established in patients old enough to tolerate placement and management of an epidural catheter, based on evidence from adequate and well controlled studies in adults and experience with the use of clonidine in the pediatric age group for other indications. The use of clonidine hydrochloride injection should be restricted to pediatric patients with severe intractable pain from malignancy that is unresponsive to epidural or spinal opiates or other more conventional analgesic techniques. The starting dose of clonidine hydrochloride injection should be selected on per kilogram basis (0.5 mcg per kg per hour) and cautiously adjusted based on the clinical response."
-  ],
-  "general_precautions": [
-   "General Cardiac Effects: Epidural clonidine frequently causes decreases in heart rate. Symptomatic bradycardia can be treated with atropine. Rarely, atrioventricular block greater than first degree has been reported. Clonidine does not alter the hemodynamic response to exercise, but may mask the increase in heart rate associated with hypovolemia. Respiratory Depression and Sedation: Clonidine administration may result in sedation through the activation of alpha-adrenoceptors in the brainstem. High doses of clonidine cause sedation and ventilatory abnormalities that are usually mild. Tolerance to these effects can develop with chronic administration. These effects have been reported with bolus doses that are significantly larger than the infusion rate recommended for treating cancer pain. Depression: Depression has been seen in a small percentage of patients treated with oral or transdermal clonidine. Depression commonly occurs in cancer patients and may be exacerbated by treatment with clonidine. Patients, especially those with a known history of affective disorders, should be monitored for the signs and symptoms of depression. Pain of Visceral or Somatic Origin: In the clinical investigations, at doses tested, clonidine hydrochloride injection was most effective in well-localized, “neuropathic” pain that was characterized as electrical, burning, or shooting in nature, and which was localized to a dermatomal or peripheral nerve distribution. Clonidine hydrochloride injection may be less effective, or possibly ineffective in the treatment of pain that is diffuse, poorly localized, or visceral in origin."
-  ],
-  "information_for_patients": [
-   "Information for Patients Patients should be instructed about the risks of rebound hypertension and warned not to discontinue clonidine except under the supervision of a physician. Patients should notify their physician immediately if clonidine administration is inadvertently interrupted for any reason. Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of the potential sedative and hypotensive effects of epidural clonidine. They should also be informed that sedative effects may be increased by CNS-depressing drugs such as alcohol and barbiturates, and that hypotensive effects may be increased by opiates."
-  ],
-  "drug_interactions": [
-   "Drug Interactions Clonidine may potentiate the CNS-depressive effect of alcohol, barbiturates or other sedating drugs. Narcotic analgesics may potentiate the hypotensive effects of clonidine. Tricyclic antidepressants may antagonize the hypotensive effects of clonidine. The effects of tricyclic antidepressants on clonidine’s analgesic actions are not known. Beta-blockers may exacerbate the hypertensive response seen with clonidine withdrawal. Also, due to the potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers, and beta-blockers. There is one reported case of a patient with acute delirium associated with the simultaneous use of fluphenazine and oral clonidine. Symptoms resolved when clonidine was withdrawn and recurred when the patient was rechallenged with clonidine. Epidural clonidine may prolong the duration of pharmacologic effects of epidural local anesthetics, including both sensory and motor blockade."
-  ],
-  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
-   "Carcinogenesis, Mutagenesis, Impairment of Fertility In a 132-week study in rats, clonidine hydrochloride administered as a dietary admixture at 5 to 8 times (based on body surface area) the 50 mcg/kg maximum recommended daily human dose (MRDHD) for hypertension did not show any carcinogenic potential. Clonidine was inactive in the Ames test of mutagenicity. Fertility of male or female rats was unaffected by oral clonidine hydrochloride doses as high as 150 mcg/kg, or about 0.5 times the MRDHD. Fertility of female rats did, however, appear to be affected in another experiment at oral dose levels of 500 to 2000 mcg/kg, or 2 to 7 times the MRDHD."
-  ],
-  "teratogenic_effects": [
-   "Usage in Pregnancy/Teratogenic Effects Reproduction studies in rabbits at clonidine hydrochloride doses up to approximately the MRDHD revealed no evidence of teratogenic or embryotoxic potential. In rats, however, doses as low as one-third the MRDHD were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating. Increased resorptions were not associated with treatment with the same or higher doses up to 0.5 times the MRDHD when dams were treated on days 6 to 15 of gestation. Increased resorptions were observed at higher levels (7-times the MRDHD) in rats and mice treated on days 1 to 14 of gestation. Clonidine readily crosses the placenta and its concentrations are equal in maternal and umbilical cord plasma; amniotic fluid concentrations can be 4-times those found in serum. There are no adequate and well-controlled studies in pregnant women during early gestation when organ formation takes place. Studies using epidural clonidine during labor have demonstrated no apparent adverse effects on the infant at the time of delivery. However, these studies did not monitor the infants for hemodynamic effects in the days following delivery. Clonidine hydrochloride injection should be used during pregnancy only if the potential benefits justify the potential risk to the fetus."
-  ],
-  "labor_and_delivery": [
-   "Labor and Delivery There are no adequate controlled clinical trials evaluating the safety, efficacy, and dosing of clonidine hydrochloride injection in obstetrical settings. Because maternal perfusion of the placenta is critically dependent on blood pressure, use of clonidine hydrochloride injection as an analgesic during labor and delivery is not indicated (see WARNINGS )."
-  ],
-  "nursing_mothers": [
-   "Nursing Mothers Concentrations of clonidine in human breast milk are approximately twice those found in maternal plasma. Caution should be exercised when clonidine is administered to a nursing woman. Because of the potential for severe adverse reactions in nursing infants, a decision should be made to either discontinue nursing or to discontinue clonidine."
-  ],
-  "pediatric_use": [
-   "Pediatric Use The safety and effectiveness of clonidine hydrochloride injection in this limited indication and clinical population have been established in patients old enough to tolerate placement and management of an epidural catheter, based on evidence from adequate and well controlled studies in adults and experience with the use of clonidine in the pediatric age group for other indications. The use of clonidine hydrochloride injection should be restricted to pediatric patients with severe intractable pain from malignancy that is unresponsive to epidural or spinal opiates or other more conventional analgesic techniques. The starting dose of clonidine hydrochloride injection should be selected on per kilogram basis (0.5 mcg per kg per hour) and cautiously adjusted based on the clinical response."
-  ],
-  "adverse_reactions": [
-   "ADVERSE REACTIONS Adverse reactions seen during continuous epidural clonidine infusion are dose-dependent and typical for a compound of this pharmacologic class. The adverse events most frequently reported in the pivotal controlled clinical trial of continuous epidural clonidine administration consisted of hypotension, postural hypotension, decreased heart rate, rebound hypertension, dry mouth, nausea, confusion, dizziness, somnolence, and fever. Hypotension is the adverse event that most frequently requires treatment. The hypotension is usually responsive to intravenous fluids and, if necessary, appropriate parenterally-administered pressor agents. Hypotension was observed more frequently in women and in lower weight patients, but no dose-related response was established. Implantable epidural catheters are associated with a risk of catheter-related infections, including meningitis and/or epidural abscess. The risk depends on the clinical situation and the type of catheter used, but catheter related infections occur in 5% to 20% of patients, depending on the kind of catheter used, catheter placement technique, quality of catheter care, and length of catheter placement. The inadvertent intrathecal administration of clonidine has not been associated with a significantly increased risk of adverse events, but there are inadequate safety and efficacy data to support the use of intrathecal clonidine. Epidural clonidine was compared to placebo in a two-week double-blind study of 85 terminal cancer patients with intractable pain receiving epidural morphine. The following adverse events were reported in two or more patients and may be related to administration of either clonidine or morphine: Incidence of Adverse Events in the Two-Week Trial Adverse Events Clonidine N = 38 n (%) Placebo N = 47 n (%) Total Number of Patients Who Experienced at Least One Adverse Event 37 (97.4) 38 (80.5) Hypotension 17 (44.8) 5 (10.6) Postural Hypotension 12 (31.6) 0 (0) Dry Mouth 5 (13.2) 4 (8.5) Nausea 5 (13.2) 10 (21.3) Somnolence 5 (13.2) 10 (21.3) Dizziness 5 (13.2) 2 (4.3) Confusion 5 (13.2) 5 (10.6) Vomiting 4 (10.5) 7 (14.9) Nausea/Vomiting 3 (7.9) 1 (2.1) Sweating 2 (5.3) 0 (0) Chest Pain 2 (5.3) 0 (0) Hallucination 2 (5.3) 1 (2.1) Tinnitus 2 (5.3) 0 (0) Constipation 1 (2.6) 2 (4.3) Tachycardia 1 (2.6) 2 (4.3) Hypoventilation 1 (2.6) 2 (4.3) An open label long-term extension of the above trial was performed. Thirty-two subjects received epidural clonidine and morphine for up to 94 weeks with a median dosing period of 10 weeks. The following adverse events (and percent incidence) were reported: hypotension/ postural hypotension (47%); nausea (13%); anxiety/confusion (38%); somnolence (25%); urinary tract infection (22%); constipation, dyspnea, fever, infection (6% each); asthenia, hyperaesthesia, pain, skin ulcer, and vomiting (5% each). Eighteen percent of subjects discontinued this study as a result of catheter-related problems (infections, accidental dislodging, etc.), and one subject developed meningitis, possibly as a result of a catheter-related infection. In this study, rebound hypertension was not assessed, and ECG and laboratory data were not systematically sought. The following adverse reactions have also been reported with the use of any dosage form of clonidine. In many cases patients were receiving concomitant medication and a causal relationship has not been established: Body as a Whole: Weakness, 10%; fatigue, 4%; headache and withdrawal syndrome, each 1%. Also reported were pallor, a weakly positive Coomb's test, and increased sensitivity to alcohol. Cardiovascular: Palpitations and tachycardia, and bradycardia, each 0.5%. Syncope, Raynaud’s phenomenon, congestive heart failure, and electrocardiographic abnormalities (i.e., sinus node arrest, functional bradycardia, high degree AV block) have been reported rarely. Rare cases of sinus bradycardia and atrioventricular block have been reported, both with and without the use of concomitant digitalis. Central Nervous System: Nervousness and agitation, 3%; mental depression, 1%; insomnia, 0.5%. Cerebrovascular accidents, other behavioral changes, vivid dreams or nightmares, restlessness, and delirium have been reported rarely. Dermatological: Rash, 1%; pruritus, 0.7%; hives, angioneurotic edema and urticaria, 0.5%; alopecia, 0.2%. Gastrointestinal: Anorexia and malaise, each 1%; mild transient abnormalities in liver function tests, 1%; hepatitis, parotitis, ileus and pseudo obstruction, and abdominal pain, rarely. Genitourinary: Decreased sexual activity, impotence, and libido, 3%; nocturia, about 1%; difficulty in micturition, about 0.2%; urinary retention, about 0.1%. Hematologic: Thrombocytopenia, rarely. Metabolic: Weight gain, 0.1%; gynecomastia, 1%; transient elevation of glucose or serum phosphatase, rarely. Musculoskeletal: Muscle or joint pain, about 0.6%; leg cramps, 0.3%. Oro-otolaryngeal: Dryness of the nasal mucosa was rarely reported. Ophthalmological: Dryness of the eyes, burning of the eyes and blurred vision were rarely reported. To report SUSPECTED ADVERSE REACTIONS, contact XGen Pharmaceuticals DJB, Inc. at 1-866-390-4411 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
-  ],
-  "adverse_reactions_table": [
-   "<table><caption/><colgroup><col/><col/><col/></colgroup><thead><tr><th align=\"center\" colspan=\"4\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \"><content styleCode=\"bold\">Incidence of Adverse Events in the Two-Week Trial</content></th></tr></thead><tbody><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \"><content styleCode=\"bold\">Adverse Events</content></th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \"><paragraph><content styleCode=\"bold\">Clonidine </content></paragraph><content styleCode=\"bold\">N = 38 n (%)</content></td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \"><paragraph><content styleCode=\"bold\">Placebo</content></paragraph><content styleCode=\"bold\">N = 47 n (%)</content></td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Total Number of Patients Who Experienced at Least One Adverse Event</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">37 (97.4)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">38 (80.5)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Hypotension</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">17 (44.8)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">5 (10.6)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Postural Hypotension</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">12 (31.6)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">0 (0)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Dry Mouth</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">5 (13.2)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">4 (8.5)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Nausea</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">5 (13.2)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">10 (21.3)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Somnolence</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">5 (13.2)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">10 (21.3)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Dizziness</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">5 (13.2)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (4.3)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Confusion</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">5 (13.2)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">5 (10.6)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Vomiting</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">4 (10.5)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">7 (14.9)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Nausea/Vomiting</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">3 (7.9)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">1 (2.1)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Sweating</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (5.3)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">0 (0)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Chest Pain</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (5.3)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">0 (0)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Hallucination</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (5.3)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">1 (2.1)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Tinnitus</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (5.3)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">0 (0)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Constipation</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">1 (2.6)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (4.3)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Tachycardia</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">1 (2.6)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (4.3)</td></tr><tr><th colspan=\"2\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">Hypoventilation</th><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">1 (2.6)</td><td align=\"center\" styleCode=\"Botrule          Toprule         Lrule          Rrule     \">2 (4.3)</td></tr></tbody></table>"
-  ],
-  "overdosage": [
-   "OVERDOSAGE Hypertension may develop early and may be followed by hypotension, bradycardia, respiratory depression, hypothermia, drowsiness, decreased or absent reflexes, irritability, and miosis. With large oral overdoses, reversible cardiac conduction defects or arrhythmias, apnea, coma, and seizures have been reported. As little as 100 mcg of oral clonidine has produced signs of toxicity in pediatric patients. There is no specific antidote for clonidine overdosage. Supportive care may include atropine sulfate for bradycardia, intravenous fluids and/or vasopressor agents for hypotension. Hypertension associated with overdosage has been treated with intravenous furosemide, diazoxide or alpha-blocking agents such as phentolamine. Naloxone may be a useful adjunct in the treatment of clonidine-induced respiratory depression, hypotension, and/or coma; blood pressure should be monitored since the administration of naloxone has occasionally resulted in paradoxical hypertension. Tolazoline administration has yielded inconsistent results and is not recommended as first-line therapy. Dialysis is not likely to significantly enhance the elimination of clonidine. The largest overdose reported to date involved a 28-year old white male who ingested 100 mg of clonidine hydrochloride powder. This patient developed hypertension followed by hypotension, bradycardia, apnea, hallucinations, semi-coma, and premature ventricular contractions. The patient fully recovered after intensive treatment. Plasma clonidine levels were 60 ng/mL after 1 hour, 190 ng/mL after 1.5 hours, 370 ng/mL after 2 hours, and 120 ng/mL after 5.5 and 6.5 hours. In mice and rats, the oral LD 50 of clonidine is 206 and 465 mg/kg, respectively."
+   "1 INDICATIONS AND USAGE QLONILIK TM (clonidine hydrochloride) oral solution is indicated for the treatment of hypertension, to lower blood pressure in adults. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including this drug. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the American College of Cardiology/American Heart Association (ACC/AHA). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. QLONILIK may be employed alone or concomitantly with other antihypertensive agents. QLONILIK is a central alpha-2 adrenergic agonist indicated for the treatment of hypertension, to lower blood pressure in adults. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. It may be employed alone or concomitantly with other antihypertensive agents. ( 1 )"
   ],
   "dosage_and_administration": [
-   "DOSAGE AND ADMINISTRATION The recommended starting dose of clonidine hydrochloride injection for continuous epidural infusion is 30 mcg/hr. Although dosage may be titrated up or down depending on pain relief and occurrence of adverse events, experience with dosage rates above 40 mcg/hr is limited. Familiarization with the continuous epidural infusion device is essential. Patients receiving epidural clonidine from a continuous infusion device should be closely monitored for the first few days to assess their response. The 500 mcg/mL (0.5 mg/mL) strength product must be diluted prior to use in 0.9% Sodium Chloride for Injection, USP, to a final concentration of 100 mcg/mL: Volume of Clonidine Hydrochloride 500 mcg/mL Volume of 0.9% Sodium Chloride for Injection, USP Resulting Final Clonidine Hydrochloride Injection Concentration (100 mcg/mL) 1 mL 4 mL 500 mcg/5 mL 2 mL 8 mL 1000 mcg/10 mL 3 mL 12 mL 1500 mcg/15 mL 4 mL 16 mL 2000 mcg/20 mL 5 mL 20 mL 2500 mcg/25 mL 6 mL 24 mL 3000 mcg/30 mL 7 mL 28 mL 3500 mcg/35 mL 8 mL 32 mL 4000 mcg/40 mL 9 mL 36 mL 4500 mcg/45 mL 10 mL 40 mL 5000 mcg/50 mL Renal Impairment Dosage should be adjusted according to the degree of renal impairment, and patients should be carefully monitored. Since only a minimal amount of clonidine is removed during routine hemodialysis, there is no need to give supplemental clonidine following dialysis. Clonidine hydrochloride injection must not be used with a preservative. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+   "Dosage should be individualized based on response. The recommended initial dosage is 0.1 mg orally twice daily (morning and bedtime). ( 2 ) Titrate in increments of 0.1 mg per day at weekly intervals as necessary. Doses should be taken orally twice a day, with either an equal or higher split dosage taken at bedtime. ( 2 )"
   ],
-  "dosage_and_administration_table": [
-   "<table border=\"0\" width=\"100%\"><tbody><tr><td>Volume of Clonidine Hydrochloride   500 mcg/mL </td><td>Volume of 0.9% Sodium Chloride for Injection, USP</td><td>Resulting Final Clonidine Hydrochloride Injection Concentration   (100 mcg/mL) </td></tr><tr><td>1 mL</td><td>4 mL</td><td>500 mcg/5 mL</td></tr><tr><td>2 mL</td><td>8 mL</td><td>1000 mcg/10 mL</td></tr><tr><td>3 mL</td><td>12 mL</td><td>1500 mcg/15 mL</td></tr><tr><td>4 mL</td><td>16 mL</td><td>2000 mcg/20 mL</td></tr><tr><td>5 mL</td><td>20 mL</td><td>2500 mcg/25 mL</td></tr><tr><td>6 mL</td><td>24 mL</td><td>3000 mcg/30 mL</td></tr><tr><td>7 mL</td><td>28 mL</td><td>3500 mcg/35 mL</td></tr><tr><td>8 mL</td><td>32 mL</td><td>4000 mcg/40 mL</td></tr><tr><td>9 mL</td><td>36 mL</td><td>4500 mcg/45 mL</td></tr><tr><td>10 mL</td><td>40 mL</td><td>5000 mcg/50 mL</td></tr></tbody></table>"
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Oral Solution: 0.05 mg/mL clonidine hydrochloride; clear colorless solution with a raspberry flavor. Oral Solution: 0.05 mg/mL ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS QLONILIK is contraindicated in patients with known hypersensitivity to clonidine. QLONILIK should not be used in patients with known hypersensitivity to clonidine. ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS QLONILIK can cause bradycardia, cardiac conduction abnormalities, and symptomatic hypotension. ( 5.1 ) Abrupt discontinuation of QLONILIK can cause rebound hypertension with elevated plasma catecholamines, especially with higher doses or concomitant beta-blocker use. Symptoms of abrupt discontinuation include tachycardia, rapid blood pressure elevation, headache, nervousness, and agitation. ( 5.2 ) QLONILIK may cause sedation. Advise patients who engage in potentially hazardous activities, such as operating machinery or driving, of possible sedative effects. Avoid use with other central nervous system (CNS) depressants ( 5.3 ) 5.1 Bradycardia, Cardiac Conduction Abnormalities, and Symptomatic Hypotension Treatment with QLONILIK can cause bradycardia, cardiac conduction abnormalities, and symptomatic hypotension [see Adverse Reactions (6.1) ]. The sympatholytic action of clonidine may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs. There have been post-marketing reports of patients with conduction abnormalities and/or taking other sympatholytic drugs who developed severe bradycardia requiring intravenous (IV) atropine, IV isoproterenol, and temporary cardiac pacing while taking clonidine. Titrate QLONILIK slowly in patients with a history of syncope, cardiac conduction abnormalities, and those with underlying conditions that may be worsened by hypotension and bradycardia; e.g., heart block, bradycardia, cardiovascular disease, vascular disease, cerebrovascular disease, or chronic renal failure. Monitor blood pressure and heart rate and adjust dosages accordingly in patients treated concomitantly with antihypertensives or other drugs that can reduce blood pressure or heart rate or increase the risk of syncope. Avoid the use of drugs that can affect the sinus node function or AV node conduction [see Drug Interactions (7) ]. In patients who have a history of syncope or may have a condition that predisposes them to syncope, such as symptomatic hypotension, bradycardia, or dehydration, advise patients to avoid becoming dehydrated or overheated. 5.2 Rebound Hypertension Abrupt discontinuation of QLONILIK can cause rebound hypertension with elevated plasma catecholamines, especially with higher doses or concomitant beta-blocker use. Symptoms of abrupt discontinuation include tachycardia, rapid blood pressure elevation, headache, nervousness, and agitation. Serious cases of hypertensive encephalopathy, stroke, and death have been reported after abrupt clonidine discontinuation. To reduce the risk of rebound hypertension, taper clonidine gradually over 2-4 days. If rebound hypertension occurs, reverse hypertensive crisis with oral clonidine or IV phentolamine. When discontinuing concurrent beta-blocker therapy, withdraw the beta-blocker several days before beginning clonidine taper. Administration of QLONILIK should be continued up to 4 hours before surgery and resumed as soon as possible thereafter. Blood pressure should be carefully monitored during surgery and additional measures to control blood pressure should be available if required. 5.3 Sedation and Somnolence QLONILIK may cause sedation. Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of possible sedative effects of clonidine. Avoid use with other central nervous system (CNS) depressants, as this combination may cause excessive drowsiness or sedation [see Drug Interactions (7) ]."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Most adverse effects are mild and tend to diminish with continued therapy. The most frequent (which appear to be dose-related) are dry mouth (40%), drowsiness (33%); dizziness (16%); constipation and sedation (10%, respectively). The following less frequent adverse experiences have also been reported in patients receiving clonidine hydrochloride tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established. Body as a Whole: Fatigue, headache, pallor, malaise, weakness, and withdrawal syndrome. Cardiovascular: Bradycardia, congestive heart failure, electrocardiographic abnormalities (i.e., sinus node arrest, junctional bradycardia, high degree AV block and arrhythmias), orthostatic symptoms, palpitations, syncope, and tachycardia. Central Nervous System: Agitation, anxiety, delirium, hallucinations (including visual and auditory), insomnia, mental depression, behavioral changes, paresthesia, sleep disorder, and vivid dreams or nightmares. Gastrointestinal: Anorexia, constipation, nausea, and vomiting. Hematologic: Thrombocytopenia. Hepatobiliary: Hepatitis and transaminitis. Hypersensitivity: Angioedema, hives, pruritus, rash, and urticaria. Metabolic: Transient elevation of blood glucose or serum creatine phosphokinase, and weight gain. Musculoskeletal: Leg cramps and muscle or joint pain. Ophthalmological: Accommodation disorder, blurred vision, burning of the eyes, decreased lacrimation, and dryness of eyes. Renal and Urinary: Difficulty in micturition, nocturia, and urinary retention. Reproductive System and Breast Disorders: Gynecomastia. erectile dysfunction, and loss of libido. Vascular: Raynaud’s phenomenon. Most common adverse reactions are dry mouth, drowsiness, dizziness, constipation and sedation. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact CMP Pharma, Inc. at 1-844-321-1443 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS The interactions of QLONILIK with co-administration of other drugs have not been studied. The drug interaction data provided in this section is based on oral immediate-release clonidine formulations. Table 1 displays clinically important drug interactions with QLONILIK. Table 1: Clinically Important Drug Interactions with QLONILIK. Antihypertensive drugs Clinical Implication Concomitant use of antihypertensive drugs with clonidine potentiates the hypotensive effects of clonidine [see Warnings and Precautions (5.1) ]. Intervention Monitor blood pressure and heart rate, and adjust dosage of QLONILIK accordingly in patients treated concomitantly with antihypertensives CNS depressants Clinical Implication Concomitant use of CNS depressants with clonidine potentiates the sedating effects [see Warnings and Precautions (5.3) ]. Intervention Avoid concomitant use of CNS depressants with QLONILIK. Drugs that affect sinus node function or AV node conduction (e.g., digitalis, calcium channel blockers, beta blockers) Clinical Implication Concomitant use of drugs that affect sinus node function or AV node conduction with clonidine potentiate bradycardia and risk of AV block [see Warnings and Precautions (5.1) ]. Intervention Avoid concomitant use of drugs that affect sinus node function or AV node conduction with QLONILIK. Tricyclic antidepressants Clinical Implication Concomitant use of tricyclic antidepressants with clonidine can increase blood pressure and may counteract the hypotensive effects of clonidine. Intervention Monitor blood pressure and adjust dosage of QLONILIK as needed. Concomitant use of antihypertensive drugs with clonidine potentiates the hypotensive effects of clonidine.( 7 ) Concomitant use of CNS depressants with clonidine potentiates the sedating effects. ( 7 ) Concomitant use of drugs that affect sinus node function or AV node conduction with clonidine potentiate bradycardia and risk of AV block. ( 7 ) Concomitant use of tricyclic antidepressants with clonidine can increase blood pressure and may counteract the hypotensive effects of clonidine. ( 7 )"
+  ],
+  "drug_interactions_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\" valign=\"middle\">Antihypertensive drugs</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Clinical Implication</content> </td><td styleCode=\"Rrule\" align=\"justify\" valign=\"middle\"> Concomitant use of antihypertensive drugs with clonidine potentiates the hypotensive effects of clonidine <content styleCode=\"italics\">[see <linkHtml href=\"#S5.1\"> Warnings and Precautions (5.1)</linkHtml>].</content></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Intervention</content> </td><td styleCode=\"Rrule\" align=\"justify\" valign=\"middle\"> Monitor blood pressure and heart rate, and adjust dosage of QLONILIK accordingly in patients treated concomitantly with antihypertensives</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\" valign=\"middle\">CNS depressants </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Clinical Implication</content> </td><td styleCode=\"Rrule\" valign=\"middle\">Concomitant use of CNS depressants with clonidine potentiates the sedating effects <content styleCode=\"italics\">[see <linkHtml href=\"#S5.3\"> Warnings and Precautions (5.3)</linkHtml>].</content> </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Intervention</content> </td><td styleCode=\"Rrule\" align=\"justify\" valign=\"middle\"> Avoid concomitant use of CNS depressants with QLONILIK.</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\" align=\"justify\" valign=\"middle\">Drugs that affect sinus node function or AV node conduction (e.g., digitalis, calcium channel blockers, beta blockers)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Clinical Implication</content> </td><td styleCode=\"Rrule\" valign=\"middle\">Concomitant use of drugs that affect sinus node function or AV node conduction with clonidine potentiate bradycardia and risk of AV block<content styleCode=\"italics\">[see <linkHtml href=\"#S5.1\"> Warnings and Precautions (5.1)</linkHtml>].</content> </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Intervention</content> </td><td styleCode=\"Rrule\" valign=\"middle\">Avoid concomitant use of drugs that affect sinus node function or AV node conduction with QLONILIK. </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" colspan=\"2\" valign=\"middle\">Tricyclic antidepressants</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Clinical Implication</content> </td><td styleCode=\"Rrule\" valign=\"middle\">Concomitant use of tricyclic antidepressants with clonidine can increase blood pressure and may counteract the hypotensive effects of clonidine.</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"italics\">Intervention</content> </td><td styleCode=\"Rrule\" valign=\"middle\">Monitor blood pressure and adjust dosage of QLONILIK as needed.</td></tr></tbody></table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary Prolonged experience with clonidine in pregnant women over several decades, based on published literature, including controlled trials, a retrospective cohort study and case reports, have not identified a drug associated risk of major birth defects, miscarriage, adverse maternal or fetal outcomes. In animal embryofetal studies, increased resorptions were seen in rats and mice administered oral clonidine hydrochloride from implantation through organogenesis at approximately 2 times the maximum recommended human dose (MRHD) (see Data ). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data Oral administration of clonidine hydrochloride to pregnant rabbits during the period of embryo/fetal organogenesis at doses of up to 0.08 mg/kg/day (approximately 0.6 times the oral maximum recommended human dose [MRHD] of 2.4 mg/day on a mg/m 2 basis) produced no developmental effects. In pregnant rats, however, doses as low as 0.015 mg/kg/day (~1/16 the oral MRHD on a mg/m 2 basis) were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating and throughout gestation. Increased resorptions were not associated with treatment at the same or at higher dose levels when treatment of the dams was restricted to gestation days 6-15. Increases in resorptions were observed in both rats and mice at 0.5 mg/kg/day (2 and 1 times the MRHD on a mg/m 2 basis in rats and mice, respectively) or higher when the animals were treated on gestation days 1-14; 0.5 mg/kg/day was the lowest dose employed in this study. 8.2 Lactation Based on published lactation studies, clonidine hydrochloride is present in human milk at relative infant doses ranging from 4.1 to 8.4% of the maternal weight-adjusted dosage. Although in most cases, there were no reported adverse effects in breastfed infants exposed to clonidine, there is one case report of sedation, hypotonia, and apnea in an infant exposed to clonidine through breast milk. If an infant is exposed to clonidine hydrochloride through breastmilk, monitor for symptoms of hypotension and bradycardia, such as sedation, lethargy, tachypnea and poor feeding ( see Clinical Considerations ). The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for QLONILIK and any potential adverse effects on the breastfed child from clonidine or from the underlying maternal condition. Exercise caution when QLONILIK is administered to a nursing woman. Clinical Considerations Monitor breastfeeding infants exposed to QLONILIK through breast milk for symptoms of hypotension and/or bradycardia such as sedation, lethargy, tachypnea, and poor feeding. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.6 Renal Impairment The half-life of clonidine increases in patients with renal impairment [see Clinical Pharmacology (12.3) ]. Patients with renal impairment may start from a lower dose. Since only a minimal amount of clonidine is removed during routine hemodialysis, there is no need to give supplemental QLONILIK following dialysis."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Prolonged experience with clonidine in pregnant women over several decades, based on published literature, including controlled trials, a retrospective cohort study and case reports, have not identified a drug associated risk of major birth defects, miscarriage, adverse maternal or fetal outcomes. In animal embryofetal studies, increased resorptions were seen in rats and mice administered oral clonidine hydrochloride from implantation through organogenesis at approximately 2 times the maximum recommended human dose (MRHD) (see Data ). The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data Oral administration of clonidine hydrochloride to pregnant rabbits during the period of embryo/fetal organogenesis at doses of up to 0.08 mg/kg/day (approximately 0.6 times the oral maximum recommended human dose [MRHD] of 2.4 mg/day on a mg/m 2 basis) produced no developmental effects. In pregnant rats, however, doses as low as 0.015 mg/kg/day (~1/16 the oral MRHD on a mg/m 2 basis) were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating and throughout gestation. Increased resorptions were not associated with treatment at the same or at higher dose levels when treatment of the dams was restricted to gestation days 6-15. Increases in resorptions were observed in both rats and mice at 0.5 mg/kg/day (2 and 1 times the MRHD on a mg/m 2 basis in rats and mice, respectively) or higher when the animals were treated on gestation days 1-14; 0.5 mg/kg/day was the lowest dose employed in this study."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established.",
+   "8.6 Renal Impairment The half-life of clonidine increases in patients with renal impairment [see Clinical Pharmacology (12.3) ]. Patients with renal impairment may start from a lower dose. Since only a minimal amount of clonidine is removed during routine hemodialysis, there is no need to give supplemental QLONILIK following dialysis."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Hypertension may develop early and may be followed by hypotension, bradycardia, respiratory depression, hypothermia, drowsiness, decreased or absent reflexes, weakness, irritability and miosis. The frequency of CNS depression may be higher in pediatric patients than adults. Large overdoses may result in reversible cardiac conduction defects or dysrhythmias, apnea, coma and seizures. Signs and symptoms of overdose generally occur within 30 minutes to two hours after exposure. Dialysis is not likely to significantly enhance the elimination of clonidine."
+  ],
+  "description": [
+   "11 DESCRIPTION QLONILIK contains clonidine, a central alpha-2 adrenergic agonist, available as a solution for oral administration. Clonidine hydrochloride is an imidazoline derivative and exists as a mesomeric compound. The chemical name is 2-(2,6-dichlorophenylamino)-2-imidazoline hydrochloride. The molecular formula for clonidine hydrochloride is C 9 H 9 Cl 2 N 3 ·HCl and the molecular weight is 266.55 g/mol. The following is the structural formula: Clonidine hydrochloride USP is an odorless, bitter, white, crystalline substance soluble in water and alcohol. QLONILIK TM (clonidine hydrochloride) Oral Solution is a clear, colorless solution for oral administration. Each mL contains 0.05 mg clonidine hydrochloride (equivalent to 0.043 mg clonidine) and the following inactive ingredients: methylparaben, propylene glycol, propylparaben, purified water, raspberry flavor, sodium phosphate dibasic dihydrate, sodium phosphate monobasic dihydrate, and sucralose. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Clonidine stimulates alpha-adrenoreceptors in the brain stem. This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure. 12.2 Pharmacodynamics The patient's blood pressure declines within 30 to 60 minutes after an oral dose, the maximum decrease occurring within 2 to 4 hours. Renal blood flow and glomerular filtration rate remain essentially unchanged. Normal postural reflexes are intact; therefore, orthostatic symptoms are mild and infrequent. The antihypertensive effect is reached at plasma concentrations between about 0.2 and 2.0 ng/mL in patients with normal excretory function. A further rise in the plasma levels will not enhance the antihypertensive effect. Acute studies with clonidine hydrochloride in humans have demonstrated a moderate reduction (15% to 20%) of cardiac output in the supine position with no change in the peripheral resistance: at a 45° tilt there is a smaller reduction in cardiac output and a decrease of peripheral resistance. During long term therapy, cardiac output tends to return to control values, while peripheral resistance remains decreased. Slowing of the pulse rate has been observed in most patients given clonidine, but the drug does not alter normal hemodynamic response to exercise. Tolerance to the antihypertensive effect may develop in some patients, necessitating a reevaluation of therapy. Other studies in patients have provided evidence of a reduction in plasma renin activity and in the excretion of aldosterone and catecholamines. The exact relationship of these pharmacologic actions to the antihypertensive effect of clonidine has not been fully elucidated. 12.3 Pharmacokinetics The pharmacokinetics of clonidine is dose-proportional in the range of 0.1 to 0.6 mg. Absorption The absolute bioavailability of clonidine following oral administration is 70% to 80%. The median (range) time to peak plasma concentrations (Tmax) following oral administration of 50 µg/mL QLONILIK solution under fasting condition was 2 hours (0.75 hour to 8 hours). Effect of food Food had no effect on plasma exposure of clonidine after administration of QLONILIK. Distribution Following intravenous administration, clonidine displays biphasic disposition with a distribution half-life of about 20 minutes. Clonidine crosses the placental barrier. Elimination Elimination half-life ranges from 12 to 16 hour. Metabolism About 50% of the absorbed dose is metabolized in the liver. Excretion Following oral administration, about 40% to 60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours. Specific Populations Patients with Renal Impairment The half-life increases up to 41 hours in patients with severe impairment of renal function. Clonidine is minimally removed during hemodialysis."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Clonidine stimulates alpha-adrenoreceptors in the brain stem. This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics The patient's blood pressure declines within 30 to 60 minutes after an oral dose, the maximum decrease occurring within 2 to 4 hours. Renal blood flow and glomerular filtration rate remain essentially unchanged. Normal postural reflexes are intact; therefore, orthostatic symptoms are mild and infrequent. The antihypertensive effect is reached at plasma concentrations between about 0.2 and 2.0 ng/mL in patients with normal excretory function. A further rise in the plasma levels will not enhance the antihypertensive effect. Acute studies with clonidine hydrochloride in humans have demonstrated a moderate reduction (15% to 20%) of cardiac output in the supine position with no change in the peripheral resistance: at a 45° tilt there is a smaller reduction in cardiac output and a decrease of peripheral resistance. During long term therapy, cardiac output tends to return to control values, while peripheral resistance remains decreased. Slowing of the pulse rate has been observed in most patients given clonidine, but the drug does not alter normal hemodynamic response to exercise. Tolerance to the antihypertensive effect may develop in some patients, necessitating a reevaluation of therapy. Other studies in patients have provided evidence of a reduction in plasma renin activity and in the excretion of aldosterone and catecholamines. The exact relationship of these pharmacologic actions to the antihypertensive effect of clonidine has not been fully elucidated."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics The pharmacokinetics of clonidine is dose-proportional in the range of 0.1 to 0.6 mg. Absorption The absolute bioavailability of clonidine following oral administration is 70% to 80%. The median (range) time to peak plasma concentrations (Tmax) following oral administration of 50 µg/mL QLONILIK solution under fasting condition was 2 hours (0.75 hour to 8 hours). Effect of food Food had no effect on plasma exposure of clonidine after administration of QLONILIK. Distribution Following intravenous administration, clonidine displays biphasic disposition with a distribution half-life of about 20 minutes. Clonidine crosses the placental barrier. Elimination Elimination half-life ranges from 12 to 16 hour. Metabolism About 50% of the absorbed dose is metabolized in the liver. Excretion Following oral administration, about 40% to 60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours. Specific Populations Patients with Renal Impairment The half-life increases up to 41 hours in patients with severe impairment of renal function. Clonidine is minimally removed during hemodialysis."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 2 or 1 times the MRHD on a mg/m 2 basis. There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity. Fertility of female rats appeared to be affected at dose levels of 0.5 and 2.0 mg/kg/day (2 to 8 times the MRHD on a mg/m 2 basis). Lower doses have not been adequately evaluated and a no adverse effect level could not be established."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 2 or 1 times the MRHD on a mg/m 2 basis. There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity. Fertility of female rats appeared to be affected at dose levels of 0.5 and 2.0 mg/kg/day (2 to 8 times the MRHD on a mg/m 2 basis). Lower doses have not been adequately evaluated and a no adverse effect level could not be established."
   ],
   "how_supplied": [
-   "HOW SUPPLIED Clonidine hydrochloride injection is supplied as: 100 mcg/mL in cartons containing one 10 mL vial (NDC 39822-2000-1) 500 mcg/mL in cartons containing one 10 mL vial (NDC 39822-2010-1) Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature]. Preservative Free. Discard unused portion. Vial stoppers do not contain natural rubber latex. Manufactured for: XGen Pharmaceuticals DJB, Inc. Big Flats, NY 14814 Rx Only Revised: December 2022 CLON-AV-PI-00 8021569"
+   "16 HOW SUPPLIED/STORAGE AND HANDLING QLONILIK (clonidine hydrochloride) Oral Solution, 0.05 mg/mL is a clear, colorless solution with a raspberry flavor filled in a white, opaque HDPE bottle with a child-resistant closure containing 120 mL of the oral solution. NDC 46287-085-04 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] . Store and dispense in the original container. Discard unused portion 60 days after first opening."
   ],
-  "set_id": "ada02f1f-ae78-4435-879e-492ae862d504",
-  "id": "103027a7-2f0d-8d8c-e063-6294a90aedc7",
-  "effective_time": "20240130",
-  "version": "14"
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Sedation and Somnolence Advise patients not to interrupt QLONILIK therapy without consulting their physician. They should be cautious of potential sedative effects, dizziness, or accommodation issues and avoid activities such as driving or operating machinery. Additionally, advise patients that the sedative effects may be increased by the use of alcohol, barbiturates, or other sedating drugs. [see Drug Interactions (7) and Warnings and Precautions (5.3) ]. Rebound Hypertension Advise patients not to discontinue Clonidine therapy without consulting their physician, as sudden cessation can cause symptoms like tachycardia, rapid blood pressure elevation, headache, nervousness and agitation. The risk is higher with higher doses or ongoing beta-blocker use. [see Warnings and Precautions (5.2) ]. Bradycardia, cardiac conduction abnormalities, and symptomatic hypotension Advise patients who have a history of syncope or may have a condition that predisposes them to syncope, such as symptomatic hypotension, bradycardia, or dehydration, to avoid becoming dehydrated or overheated. Administration Information Instruct patients or caregivers to use an oral dosing syringe or oral dosing cup to correctly measure the prescribed amount of medication. Inform patients that oral dosing syringes may be obtained from their pharmacy. Distributed by: CMP Pharma, Inc. Farmville, NC 27828 3109 R0826"
+  ],
+  "set_id": "826de1dc-378e-4c90-86d1-e33f7a4248cd",
+  "id": "9d9a0953-57dd-439d-a354-826284f56725",
+  "effective_time": "20260812",
+  "version": "1"
  }
 }
