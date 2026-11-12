@@ -62,7 +62,7 @@ def score(r, gen, route="", brand_pref=""):
     is_nda = any(a.startswith(("NDA", "BLA")) for a in o.get("application_number", []))
     rx = "HUMAN PRESCRIPTION DRUG" in o.get("product_type", [])
     has_dose = "dosage_and_administration" in r
-    return (want_brand, (not is_er(r)) if ir else True, want_route, has_dose, rx, is_nda, is_brand, len(r), r.get("effective_time", ""))
+    return (want_brand, want_route, (not is_er(r)) if ir else True, has_dose, rx, is_nda, is_brand, len(r), r.get("effective_time", ""))
 
 def find(gen, brand=""):
     G = gen.upper()
