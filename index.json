@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:46Z",
+ "updated": "2026-11-12T05:20Z",
  "n": 404,
  "missing": [
   "norfloxacino",
@@ -3688,17 +3688,17 @@
    "id_es": "lamotrigina",
    "generic_en": "lamotrigine",
    "brand": [
-    "LAMICTAL XR"
+    "Lamotrigine"
    ],
    "manufacturer": [
-    "GlaxoSmithKline LLC"
+    "Ascend Laboratories, LLC"
    ],
-   "effective_time": "20251010",
-   "set_id": "3e2c9a35-6a39-41d7-ad84-3c0bb8894b09",
+   "effective_time": "20261028",
+   "set_id": "70cd448a-2921-4c69-bdf2-5a6ce883bd07",
    "application": [
-    "NDA022115"
+    "ANDA200694"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "leflunomida",
@@ -5766,17 +5766,17 @@
    "id_es": "tamsulosina",
    "generic_en": "tamsulosin hydrochloride",
    "brand": [
-    "Tamsulosin Hydrochloride"
+    "Tamsulosin hydrochloride"
    ],
    "manufacturer": [
-    "Proficient Rx LP"
+    "Synthon B.V."
    ],
-   "effective_time": "20200201",
-   "set_id": "06b44e53-c6e7-4e12-a8fd-572d092cfa70",
+   "effective_time": "20261027",
+   "set_id": "13a5032d-0be1-4001-916e-459f0b1a051d",
    "application": [
-    "ANDA207405"
+    "ANDA078801"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "tapentadol",
