@@ -1,22 +1,22 @@
 {
  "id_es": "oxibutinina",
  "generic_en": "oxybutynin chloride",
- "search": "openfda.generic_name.exact:\"OXYBUTYNIN CHLORIDE\"",
- "pref": "oxybutynin chloride|ORAL|",
- "downloaded": "2026-11-12T06:32Z",
+ "search": "set_id:9ede5def-d185-4e40-9c10-8663ac654caf",
+ "pref": "",
+ "downloaded": "2026-11-12T06:45Z",
  "chosen": {
-  "set_id": "02ff3be7-fc5c-4b91-8c67-ecdf6e19c42a",
-  "id": "a9056bad-e15c-4be4-a63c-f51362e2f025",
-  "effective_time": "20230531",
-  "version": "2",
+  "set_id": "9ede5def-d185-4e40-9c10-8663ac654caf",
+  "id": "a34f3504-e5d9-426a-abee-6587854406a5",
+  "effective_time": "20260701",
+  "version": "7",
   "brand_name": [
-   "Oxybutynin Chloride Extended Release"
+   "Oxybutynin Chloride"
   ],
   "generic_name": [
    "OXYBUTYNIN CHLORIDE"
   ],
   "manufacturer_name": [
-   "Aphena Pharma Solutions - Tennessee, LLC"
+   "Strides Pharma Science Limited"
   ],
   "route": [
    "ORAL"
@@ -25,286 +25,11 @@
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "ANDA078503"
+   "ANDA075079"
   ],
-  "n_sections": 34
+  "n_sections": 27
  },
  "candidates": [
-  {
-   "set_id": "3a319017-4e25-402e-8ba0-63b9f1eb707e",
-   "id": "5f795004-a687-f0db-e063-6394a90ad0c3",
-   "effective_time": "20261104",
-   "version": "10",
-   "brand_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209025"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "8bd5dce0-d56a-4e64-8de7-e7cd7775526b",
-   "id": "5f515de1-14ee-c1c2-e063-6394a90a5a46",
-   "effective_time": "20261102",
-   "version": "11",
-   "brand_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209025"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "e466d963-469a-4b1c-87f9-2e3e1e9bdf3d",
-   "id": "5f515721-d7e4-be08-e063-6394a90a24ac",
-   "effective_time": "20261102",
-   "version": "14",
-   "brand_name": [
-    "Oxybutynin Chloride Extended Release"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206121"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "8455b543-81ce-4522-ae9b-8396f944945c",
-   "id": "fabef94b-3b42-4cb1-bcac-943256ec715f",
-   "effective_time": "20261012",
-   "version": "4",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Cardinal Health 107, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209823"
-   ],
-   "n_sections": 25
-  },
-  {
-   "set_id": "0e002fe8-fa3f-4a7d-84df-0c6e031e6ae4",
-   "id": "e357743e-6c6d-4cdd-95b8-74ce1b4d245c",
-   "effective_time": "20261009",
-   "version": "5",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Preferred Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209335"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "a1674ddc-44f5-4638-8415-ef02ab6af7cc",
-   "id": "0fe86fc9-7a70-4911-9567-74da2b585e75",
-   "effective_time": "20260918",
-   "version": "2",
-   "brand_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209025"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "1a08a16a-f16d-4ef1-95bb-6943bcae0737",
-   "id": "57ab41d1-e591-f170-e063-6394a90ad2fc",
-   "effective_time": "20260728",
-   "version": "10",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209335"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "7c497c6c-2448-2c80-e053-2991aa0ab8c7",
-   "id": "57a1be6c-ccda-bbd3-e063-6394a90a34d8",
-   "effective_time": "20260727",
-   "version": "6",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "TruPharma LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA210125"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "9578b6b8-5b9d-4263-9142-39b2c7216b85",
-   "id": "df6a21bf-5578-40a0-9d60-e963e18e1beb",
-   "effective_time": "20260721",
-   "version": "2",
-   "brand_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "RISING PHARMA HOLDINGS, INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209025"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "fe4ed76b-0009-455f-be30-47e80fc1afdf",
-   "id": "56339ca6-f009-d0aa-e063-6394a90ac5ee",
-   "effective_time": "20260709",
-   "version": "4",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "ATLANTIC BIOLOGICALS CORP."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA074520"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "55f618d1-4463-3200-e063-6394a90a89a8",
-   "id": "55f616e5-fc5a-5790-e063-6294a90aeeb8",
-   "effective_time": "20260706",
-   "version": "1",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Coupler LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA208165"
-   ],
-   "n_sections": 29
-  },
   {
    "set_id": "9ede5def-d185-4e40-9c10-8663ac654caf",
    "id": "a34f3504-e5d9-426a-abee-6587854406a5",
@@ -329,428 +54,80 @@
     "ANDA075079"
    ],
    "n_sections": 27
-  },
-  {
-   "set_id": "0c71bdfb-01db-49ac-a8e9-0037df0d24af",
-   "id": "55006678-3c42-0b82-e063-6394a90a1103",
-   "effective_time": "20260624",
-   "version": "13",
-   "brand_name": [
-    "Oxybutynin Chloride Extended Release"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "American Health Packaging"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA078503"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "ac10c7b7-d0cb-4068-93e2-c0e51f15866e",
-   "id": "955b2f6c-9576-488f-bbcb-2c442fa40c72",
-   "effective_time": "20260601",
-   "version": "6",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Strides Pharma Science Limited"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA208165"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "73d715dc-868d-4194-b668-4c39ababa698",
-   "id": "7adfd07f-bfc6-4403-8f1e-fdc6650dbc50",
-   "effective_time": "20260520",
-   "version": "2",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA211682"
-   ],
-   "n_sections": 19
-  },
-  {
-   "set_id": "a5965c8b-179d-4665-8a3b-324b693607ee",
-   "id": "b96b1e58-04f2-40be-9b7d-03209475cc2e",
-   "effective_time": "20260519",
-   "version": "5",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA211655"
-   ],
-   "n_sections": 32
-  },
-  {
-   "set_id": "7db4ab81-b379-4a6d-b469-95eb9e184b56",
-   "id": "c450b483-367b-4480-b955-7fef7ac25ba4",
-   "effective_time": "20260514",
-   "version": "102",
-   "brand_name": [
-    "oxybutynin chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207138"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "4574b227-9726-4798-bac2-83bfb9616f09",
-   "id": "4f95e208-d97b-e807-e063-6394a90a801e",
-   "effective_time": "20260416",
-   "version": "2",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "American Health Packaging"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA208165"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "b9d0e5c8-3a71-40a0-a7d3-44bc043392fa",
-   "id": "79d91e25-4e04-4453-9001-82fbaecc525c",
-   "effective_time": "20260217",
-   "version": "5",
-   "brand_name": [
-    "Oxybutynin Chloride Extended Release"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206121"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "9a551ec5-7e80-47c9-a7b9-f458c1478174",
-   "id": "e12456ec-640f-45a5-b78a-66e22c36d24a",
-   "effective_time": "20260216",
-   "version": "3",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA208165"
-   ],
-   "n_sections": 29
-  },
-  {
-   "set_id": "a1f8be75-2eb9-4eef-8fb4-144ef2bf7ae1",
-   "id": "4af5faa0-1358-7489-e063-6294a90aae4e",
-   "effective_time": "20260216",
-   "version": "17",
-   "brand_name": [
-    "oxybutynin chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "PD-Rx Pharmaceuticals, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA207138"
-   ],
-   "n_sections": 33
-  },
-  {
-   "set_id": "46e78c72-a5a3-472f-9125-b120fa4eee31",
-   "id": "499c11a1-a248-9411-e063-6294a90a203a",
-   "effective_time": "20260130",
-   "version": "1",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Chartwell Governmental & Specialty RX, LLC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA075039"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "3688227b-7655-40ca-b34b-073a39fd60f4",
-   "id": "92090e0c-c4f0-420d-b3cf-cf54fcf219ff",
-   "effective_time": "20260114",
-   "version": "3",
-   "brand_name": [
-    "Oxybutynin Chloride Extended Release"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA206121"
-   ],
-   "n_sections": 31
-  },
-  {
-   "set_id": "7bd31561-4c76-4c6b-819b-492549886673",
-   "id": "48596af5-29b7-ab6c-e063-6394a90a1276",
-   "effective_time": "20260114",
-   "version": "8",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Advagen Pharma Limited"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA214415"
-   ],
-   "n_sections": 33
-  },
-  {
-   "set_id": "f330b7a0-bbe0-0f00-e053-2a95a90a37b8",
-   "id": "4950ae3a-d3c8-b948-e063-6394a90afa44",
-   "effective_time": "20260101",
-   "version": "4",
-   "brand_name": [
-    "Oxybutynin Chloride"
-   ],
-   "generic_name": [
-    "OXYBUTYNIN CHLORIDE"
-   ],
-   "manufacturer_name": [
-    "Northwind Health Company, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA209823"
-   ],
-   "n_sections": 25
   }
  ],
  "label": {
-  "indications_and_usage": [
-   "1 INDICATIONS AND USAGE Oxybutynin chloride extended-release tablets are a muscarinic antagonist indicated for the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency, and frequency. Oxybutynin chloride extended-release tablets are also indicated for the treatment of pediatric patients aged 6 years and older with symptoms of detrusor overactivity associated with a neurological condition (e.g., spina bifida). Oxybutynin chloride extended-release tablets are a muscarinic antagonist indicated for the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency, and frequency. (1) Oxybutynin chloride extended-release tablets are also indicated for the treatment of pediatric patients aged 6 years and older with symptoms of detrusor overactivity associated with a neurological condition (e.g., spina bifida). (1)"
-  ],
-  "dosage_and_administration": [
-   "2 DOSAGE AND ADMINISTRATION Oxybutynin chloride extended-release tablets must be swallowed whole with the aid of liquids, and must not be chewed, divided, or crushed. Oxybutynin chloride extended-release tablets may be administered with or without food. Oxybutynin chloride extended-release tablets must be swallowed whole with the aid of liquids, and must not be chewed, divided, or crushed. Oxybutynin chloride extended-release tablets may be administered with or without food. (2) Adults: Start with 5 mg or 10 mg, once daily at approximately the same time every day. Dose should not exceed 30 mg per day. ( 2.1 ) Pediatric patients (6 years of age or older): Start with 5 mg, once daily at approximately the same time every day. Dose should not exceed 20 mg per day. ( 2.2 ) 2.1 Adults The recommended starting dose of Oxybutynin chloride extended-release tablets is 5 or 10 mg once daily at approximately the same time each day. Dosage may be adjusted in 5-mg increments to achieve a balance of efficacy and tolerability (up to a maximum of 30 mg/day). In general, dosage adjustment may proceed at approximately weekly intervals. 2.2 Pediatric Patients Aged 6 Years of Age and Older The recommended starting dose of Oxybutynin chloride extended-release tablets is 5 mg once daily at approximately the same time each day. Dosage may be adjusted in 5-mg increments to achieve a balance of efficacy and tolerability (up to a maximum of 20 mg/day)."
-  ],
-  "dosage_forms_and_strengths": [
-   "3 DOSAGE FORMS AND STRENGTHS Oxybutynin chloride extended-release tablets are available as 5, 10 and 15 mg tablets for oral use: 5 mg: White, round, biconvex tablet with \"270\" printed on one side and \"KU\" printed on the other side with black ink. 10 mg: White, round, biconvex tablet with \"271\" printed on one side and \"KU\" printed on the other side with black ink. 15 mg: White, round, biconvex tablet with \"272\" printed on one side and \"KU\" printed on the other side with black ink. Extended release tablets 5 mg, 10 mg and 15 mg (3)"
-  ],
-  "contraindications": [
-   "4 CONTRAINDICATIONS Oxybutynin chloride extended-release tablets are contraindicated in patients with urinary retention, gastric retention and other severe decreased gastrointestinal motility conditions, uncontrolled narrow-angle glaucoma. Oxybutynin chloride extended-release tablets are also contraindicated in patients who have demonstrated hypersensitivity to the drug substance or other components of the product. There have been reports of hypersensitivity reactions, including anaphylaxis and angiodema. Urinary retention (4) Gastric Retention (4) Uncontrolled narrow angle glaucoma (4) Known hypersensitivity to Oxybutynin chloride extended-release tablets, oxybutynin or any component of Oxybutynin chloride extended-release tablets (4)"
-  ],
-  "warnings_and_cautions": [
-   "5 WARNINGS AND PRECAUTIONS Angioedema: Angioedema has been reported with oxybutynin. If symptoms of angioedema occur, discontinue Oxybutynin chloride extended-release tablets immediately and initiate appropriate therapy. ( 5.1 ) Central Nervous System (CNS) effects: CNS effects have been reported with oxybutynin. If patient experiences anticholinergic CNS effects, consider dose adjustment or discontinuation of Oxybutynin chloride extended-release tablets. ( 5.2 ) Use with caution due to aggravation of symptoms: Pre-existing dementia in patients treated with cholinesterase inhibitors ( 5.2 ), Parkinson's disease ( 5.2 ), Myasthenia gravis ( 5.3 ), and Decreased gastrointestinal motility in patients with autonomic neuropathy. ( 5.4 ) Urinary Retention: Use with caution in patients with clinically significant bladder outflow obstruction because of the risk of urinary retention ( 5.5 ) Gastrointestinal Adverse Reactions: Use with caution in patients with gastrointestinal obstructive disorders or decreased intestinal motility due to risk of gastric retention. Use with caution in patients with gastroesophageal reflux or in patients concurrently taking drugs that can exacerbate esophagitis. ( 5.6 ) 5.1 Angioedema Angioedema of the face, lips, tongue and/or larynx has been reported with oxybutynin. In some cases, angioedema occurred after the first dose. Angioedema associated with upper airway swelling may be life-threatening. If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided. 5.2 Central Nervous System Effects Oxybutynin is associated with anticholinergic central nervous system (CNS) effects [see Adverse Reactions (6) ]. A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence. Patients should be monitored for signs of anticholinergic CNS effects, particularly in the first few months after beginning treatment or increasing the dose. Advise patients not to drive or operate heavy machinery until they know how Oxybutynin chloride extended-release tablets affect them. If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered. Oxybutynin chloride extended-release tablets should be used with caution in patients with preexisting dementia treated with cholinesterase inhibitors due to the risk of aggravation of symptoms. Oxybutynin chloride extended-release tablets should be used with caution in patients with Parkinson's disease due to the risk of aggravation of symptoms. 5.3 Worsening of Symptoms of Myasthenia Gravis Oxybutynin chloride extended-release tablets should be used with caution in patients with myasthenia gravis due to the risk of symptom aggravation. 5.4 Worsening of Symptoms of Decreased Gastrointestinal Motility in Patients with Autonomic Neuropathy Oxybutynin chloride extended-release tablets should be used with caution in patients with autonomic neuropathy due to the risk of aggravation of symptoms of decreased gastrointestinal motility. 5.5 Urinary Retention Oxybutynin chloride extended-release tablets should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention [see Contraindications (4) ]. 5.6 Gastrointestinal Adverse Reactions Oxybutynin chloride extended-release tablets should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention [see Contraindications (4) ]. Oxybutynin chloride extended-release tablets, like other anticholinergic drugs, may decrease gastrointestinal motility and should be used with caution in patients with conditions such as ulcerative colitis and intestinal atony. Oxybutynin chloride extended-release tablets should be used with caution in patients who have gastroesophageal reflux and/or who are concurrently taking drugs (such as bisphosphonates) that can cause or exacerbate esophagitis. As with any other nondeformable material, caution should be used when administering Oxybutynin chloride extended-release tablets to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic). There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of other drugs in nondeformable controlled-release formulations."
-  ],
-  "adverse_reactions": [
-   "6 ADVERSE REACTIONS The most common (incidence ≥5%) adverse reactions were dry mouth, constipation, diarrhea, headache, somnolence, and dizziness. (6) To report SUSPECTED ADVERSE REACTIONS, contact AvKARE, Inc. at 1-855-361-3993 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. The safety and efficacy of Oxybutynin chloride extended-release tablets (5 to 30 mg/day) was evaluated in 774 adult subjects who participated in five double-blind, controlled clinical trials. In four of the five studies, Oxybutynin chloride IR (5 to 20 mg/day in 199 subjects) was an active comparator. Adverse reactions reported by ≥ 1% of subjects are shown in Table 1. Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin chloride extended-release tablets-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin chloride extended-release tablets System/Organ Class Preferred Term Oxybutynin chloride extended-release tablets 5 to 30 mg/day n = 774 % Oxybutynin chloride IR IR = immediate release 5 to 20 mg/day n = 199 % Psychiatric Disorders Insomnia 3.0 5.5 Nervous System Disorders Headache 7.5 8.0 Somnolence 5.6 14.1 Dizziness 5.0 16.6 Dysgeusia 1.6 1.5 Eye Disorders Vision blurred 4.3 9.6 Dry eye 3.1 2.5 Respiratory, Thoracic and Mediastinal Disorders Cough 1.9 3.0 Oropharyngeal pain 1.9 1.5 Dry throat 1.7 2.5 Nasal dryness 1.7 4.5 Gastrointestinal Disorders Dry mouth 34.9 72.4 Constipation 8.7 15.1 Diarrhea 7.9 6.5 Dyspepsia 4.5 6.0 Nausea 4.5 11.6 Abdominal pain 1.6 2.0 Vomiting 1.3 1.5 Flatulence 1.2 2.5 Gastro-esophageal reflux disease 1.0 0.5 Skin and Subcutaneous Tissue Disorders Dry skin 1.8 2.5 Pruritus 1.3 1.5 Renal and Urinary Disorders Dysuria 1.9 2.0 Urinary hesitation 1.9 8.5 Urinary retention 1.2 3.0 General Disorders and Administration Site Conditions Fatigue 2.6 3.0 Investigations Residual urine volume The bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased. 2.3 3.5 The discontinuation rate due to adverse reactions was 4.4% with Oxybutynin chloride extended-release tablets compared to 0% with Oxybutynin chloride IR. The most frequent adverse reaction causing discontinuation of study medication was dry mouth (0.7% ). The following adverse reactions were reported by <1% of Oxybutynin chloride extended-release tablets-treated patients and at a higher incidence than placebo in clinical trials: Metabolism and Nutrition Disorders: anorexia, fluid retention; Vascular disorders: hot flush; Respiratory, thoracic and mediastinal disorders: dysphonia; Gastrointestinal Disorders: dysphagia, frequent bowel movements; General disorders and administration site conditions: chest discomfort, thirst. 6.2 Postmarketing Experience The following additional adverse reactions have been reported from worldwide postmarketing experience with Oxybutynin chloride extended-release tablets. Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Infections and Infestations: Urinary tract infection; Psychiatric Disorders: psychotic disorder, agitation, confusional state, hallucinations, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Respiratory, Thoracic and Mediastinal Disorders: nasal congestion; Cardiac Disorders: arrhythmia, tachycardia, palpitations; QT interval prolongation; Vascular Disorders: flushing, hypertension; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence;General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall. Additional adverse events reported with some other oxybutynin chloride formulations include: cycloplegia, mydriasis, and suppression of lactation. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
-  ],
-  "adverse_reactions_table": [
-   "<table><caption>Table 1: Adverse Drug Reactions Reported by &#x2265; 1% of Oxybutynin chloride extended-release tablets-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin chloride extended-release tablets</caption><col width=\"1px\"/><col width=\"1px\"/><col width=\"1px\"/><thead><tr><th styleCode=\"    Lrule          Rrule     \">System/Organ Class  Preferred Term </th><th align=\"center\" styleCode=\"     Rrule     \">Oxybutynin chloride extended-release tablets  5 to 30 mg/day  n = 774  % </th><th align=\"center\" styleCode=\"     Rrule     \">Oxybutynin chloride IR <footnote ID=\"SPLSERV-f4e9f10a-5f6b-df67-0b71-27284ac06d0a\">IR = immediate release</footnote> 5 to 20 mg/day  n = 199  % </th></tr></thead><tbody><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Psychiatric Disorders</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Insomnia</td><td align=\"center\" styleCode=\"     Rrule     \"> 3.0</td><td align=\"center\" styleCode=\"     Rrule     \"> 5.5</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Nervous System Disorders</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Headache</td><td align=\"center\" styleCode=\"     Rrule     \"> 7.5</td><td align=\"center\" styleCode=\"     Rrule     \"> 8.0</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Somnolence</td><td align=\"center\" styleCode=\"     Rrule     \"> 5.6</td><td align=\"center\" styleCode=\"     Rrule     \"> 14.1</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dizziness</td><td align=\"center\" styleCode=\"     Rrule     \"> 5.0</td><td align=\"center\" styleCode=\"     Rrule     \"> 16.6</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dysgeusia</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.6</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.5</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Eye Disorders</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Vision blurred</td><td align=\"center\" styleCode=\"     Rrule     \"> 4.3</td><td align=\"center\" styleCode=\"     Rrule     \"> 9.6</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dry eye</td><td align=\"center\" styleCode=\"     Rrule     \"> 3.1</td><td align=\"center\" styleCode=\"     Rrule     \"> 2.5</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Respiratory, Thoracic and Mediastinal Disorders</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Cough</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.9</td><td align=\"center\" styleCode=\"     Rrule     \"> 3.0</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Oropharyngeal pain</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.9</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.5</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dry throat</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.7</td><td align=\"center\" styleCode=\"     Rrule     \"> 2.5</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Nasal dryness</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.7</td><td align=\"center\" styleCode=\"     Rrule     \"> 4.5</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Gastrointestinal Disorders</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dry mouth</td><td align=\"center\" styleCode=\"     Rrule     \"> 34.9</td><td align=\"center\" styleCode=\"     Rrule     \"> 72.4</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Constipation</td><td align=\"center\" styleCode=\"     Rrule     \"> 8.7</td><td align=\"center\" styleCode=\"     Rrule     \"> 15.1</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Diarrhea</td><td align=\"center\" styleCode=\"     Rrule     \"> 7.9</td><td align=\"center\" styleCode=\"     Rrule     \"> 6.5</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dyspepsia</td><td align=\"center\" styleCode=\"     Rrule     \"> 4.5</td><td align=\"center\" styleCode=\"     Rrule     \"> 6.0</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Nausea</td><td align=\"center\" styleCode=\"     Rrule     \"> 4.5</td><td align=\"center\" styleCode=\"     Rrule     \"> 11.6</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Abdominal pain</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.6</td><td align=\"center\" styleCode=\"     Rrule     \"> 2.0</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Vomiting</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.3</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.5</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Flatulence</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.2</td><td align=\"center\" styleCode=\"     Rrule     \"> 2.5</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Gastro-esophageal reflux disease</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.0</td><td align=\"center\" styleCode=\"     Rrule     \"> 0.5</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Skin and Subcutaneous Tissue Disorders</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dry skin</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.8</td><td align=\"center\" styleCode=\"     Rrule     \"> 2.5</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Pruritus</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.3</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.5</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Renal and Urinary Disorders</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Dysuria</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.9</td><td align=\"center\" styleCode=\"     Rrule     \"> 2.0</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Urinary hesitation</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.9</td><td align=\"center\" styleCode=\"     Rrule     \"> 8.5</td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Urinary retention</td><td align=\"center\" styleCode=\"     Rrule     \"> 1.2</td><td align=\"center\" styleCode=\"     Rrule     \"> 3.0</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">General Disorders and Administration Site Conditions</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Fatigue</td><td align=\"center\" styleCode=\"     Rrule     \"> 2.6</td><td align=\"center\" styleCode=\"     Rrule     \"> 3.0</td></tr><tr><td colspan=\"3\" styleCode=\"    Lrule          Rrule     \"> <content styleCode=\"bold\">Investigations</content></td></tr><tr><td styleCode=\"    Lrule          Rrule     \"> Residual urine volume <footnote ID=\"SPLSERV-8ac21ede-d791-8c3a-9017-0e62dfb8591b\">The bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased.</footnote></td><td align=\"center\" styleCode=\"     Rrule     \"> 2.3</td><td align=\"center\" styleCode=\"     Rrule     \"> 3.5</td></tr></tbody></table>"
-  ],
-  "drug_interactions": [
-   "7 DRUG INTERACTIONS The concomitant use of oxybutynin with other anticholinergic drugs or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects. Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. This may be of concern for drugs with a narrow therapeutic index. Anticholinergic agents may also antagonize the effects of prokinetic agents, such as metoclopramide. Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when Oxybutynin chloride extended-release tablets were administered with ketoconazole, a potent CYP3A4 inhibitor. Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., C max and AUC). The clinical relevance of such potential interactions is not known. Caution should be used when such drugs are co-administered. Co-administration with other anticholinergic drugs may increase the frequency and/or severity of anticholinergic-like effects. (7) Co-administration with strong cytochrome P450 (CYP) 3A4 inhibitors (e.g., ketoconazole) increases the systemic exposure of oxybutynin. (7)"
-  ],
-  "use_in_specific_populations": [
-   "8 USE IN SPECIFIC POPULATIONS Pediatric Use: Oxybutynin chloride extended-release tablets are not recommended in pediatric patients who cannot swallow the tablet whole without chewing, dividing or crushing, or in children under the age of 6 years. (8.4) Renal or Hepatic Impairment: There have been no studies conducted in patients with renal or hepatic impairment. ( 8.6 , 8.7 ) 8.1 Pregnancy Pregnancy Category B. There are no adequate and well-controlled studies using Oxybutynin chloride extended-release tablets in pregnant women. Oxybutynin chloride extended-release tablets should be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus. Women who become pregnant during Oxybutynin chloride extended-release tablets treatment are encouraged to contact their physician. Risk Summary Based on animal data, oxybutynin is predicted to have a low probability of increasing the risk of adverse developmental effects above background risk. Animal Data Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no evidence of impaired fertility or harm to the animal fetus. 8.3 Nursing Mothers It is not known whether oxybutynin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Oxybutynin chloride extended-release tablets are administered to a nursing woman. 8.4 Pediatric Use The safety and efficacy of Oxybutynin chloride extended-release tablets were studied in 60 children in a 24-week, open-label, non-randomized trial. Patients were aged 6–15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride. Study results demonstrated that administration of Oxybutynin chloride extended-release tablets 5 to 20 mg/day was associated with an increase from baseline in mean urine volume per catheterization from 108 mL to 136 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 189 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 34% to 51%. Urodynamic results were consistent with clinical results. Administration of Oxybutynin chloride extended-release tablets resulted in an increase from baseline in mean maximum cystometric capacity from 185 mL to 254 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 44 cm H 2 O to 33 cm H 2 O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H 2 O) from 60% to 28%. The pharmacokinetics of Oxybutynin chloride extended-release tablets in these patients were consistent with those reported for adults [see Clinical Pharmacology (12.3) ]. Oxybutynin chloride extended-release tablets are not recommended in pediatric patients who cannot swallow the tablet whole without chewing, dividing, or crushing, or in children under the age of 6. 8.5 Geriatric Use The rate and severity of anticholinergic effects reported by patients less than 65 years old and those 65 years and older were similar. The pharmacokinetics of Oxybutynin chloride extended-release tablets were similar in all patients studied (up to 78 years of age). 8.6 Renal Impairment There were no studies conducted with Oxybutynin chloride extended-release tablets in patients with renal impairment. 8.7 Hepatic Impairment There were no studies conducted with Oxybutynin chloride extended-release tablets in patients with hepatic impairment."
-  ],
-  "pregnancy": [
-   "8.1 Pregnancy Pregnancy Category B. There are no adequate and well-controlled studies using Oxybutynin chloride extended-release tablets in pregnant women. Oxybutynin chloride extended-release tablets should be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus. Women who become pregnant during Oxybutynin chloride extended-release tablets treatment are encouraged to contact their physician. Risk Summary Based on animal data, oxybutynin is predicted to have a low probability of increasing the risk of adverse developmental effects above background risk. Animal Data Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no evidence of impaired fertility or harm to the animal fetus."
-  ],
-  "nursing_mothers": [
-   "8.3 Nursing Mothers It is not known whether oxybutynin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Oxybutynin chloride extended-release tablets are administered to a nursing woman."
-  ],
-  "pediatric_use": [
-   "8.4 Pediatric Use The safety and efficacy of Oxybutynin chloride extended-release tablets were studied in 60 children in a 24-week, open-label, non-randomized trial. Patients were aged 6–15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride. Study results demonstrated that administration of Oxybutynin chloride extended-release tablets 5 to 20 mg/day was associated with an increase from baseline in mean urine volume per catheterization from 108 mL to 136 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 189 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 34% to 51%. Urodynamic results were consistent with clinical results. Administration of Oxybutynin chloride extended-release tablets resulted in an increase from baseline in mean maximum cystometric capacity from 185 mL to 254 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 44 cm H 2 O to 33 cm H 2 O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H 2 O) from 60% to 28%. The pharmacokinetics of Oxybutynin chloride extended-release tablets in these patients were consistent with those reported for adults [see Clinical Pharmacology (12.3) ]. Oxybutynin chloride extended-release tablets are not recommended in pediatric patients who cannot swallow the tablet whole without chewing, dividing, or crushing, or in children under the age of 6."
-  ],
-  "geriatric_use": [
-   "8.5 Geriatric Use The rate and severity of anticholinergic effects reported by patients less than 65 years old and those 65 years and older were similar. The pharmacokinetics of Oxybutynin chloride extended-release tablets were similar in all patients studied (up to 78 years of age)."
-  ],
-  "overdosage": [
-   "10 OVERDOSAGE The continuous release of oxybutynin from Oxybutynin chloride extended-release tablets should be considered in the treatment of overdosage. Patients should be monitored for at least 24 hours. Treatment should be symptomatic and supportive. Activated charcoal as well as a cathartic may be administered. Overdosage with oxybutynin chloride has been associated with anticholinergic effects including central nervous system excitation, flushing, fever, dehydration, cardiac arrhythmia, vomiting, and urinary retention. Ingestion of 100 mg oxybutynin chloride in association with alcohol has been reported in a 13-year-old boy who experienced memory loss, and a 34-year-old woman who developed stupor, followed by disorientation and agitation on awakening, dilated pupils, dry skin, cardiac arrhythmia, and retention of urine. Both patients fully recovered with symptomatic treatment."
-  ],
   "description": [
-   "11 DESCRIPTION Oxybutynin chloride extended-release tablets are an antispasmodic, muscarinic antagonist. Each Oxybutynin chloride extended-release tablets contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration. Oxybutynin chloride is administered as a racemate of R- and S-enantiomers. Chemically, oxybutynin chloride is d,l (racemic) 4-diethylamino-2-butynyl phenylcyclohexylglycolate hydrochloride. The empirical formula of oxybutynin chloride is C 22 H 31 NO 3 •HCl. Its structural formula is: Oxybutynin chloride is a white crystalline solid with a molecular weight of 393.9. It is readily soluble in water and acids, but relatively insoluble in alkalis. Oxybutynin chloride extended-release tablets also contain the following inert ingredients: lactose, mannitol, dextrose, tartaric acid, colloidal silicon dioxide, magnesium stearate, cellulose acetate, polyethylene glycol, titanium dioxide, triacetin, black iron oxide, propylene glycol, hypromellose. Chemical Structure System Components and Performance Oxybutynin chloride extended-release tablets uses osmotic pressure to deliver oxybutynin chloride at a controlled rate over approximately 24 hours. The system, which resembles a conventional tablet in appearance, comprises an osmotically active core surrounded by a semipermeable membrane. The unitary tablet core is composed of the drug and excipients (including the osmotically active components). There is a precision-laser drilled orifice in the semipermeable membrane on the side of the tablet. In an aqueous environment, such as the gastrointestinal tract, water permeates through the membrane into the tablet core, causing the drug to go into suspension and the osmotic components to expand. This expansion pushes the drug out through the orifice. The semipermeable membrane controls the rate at which water permeates into the tablet core, which in turn controls the rate of drug delivery. The controlled rate of drug delivery into the gastrointestinal lumen is thus independent of pH or gastrointestinal motility. The function of Oxybutynin chloride extended-release tablets depends on the existence of an osmotic gradient between the contents of the core and the fluid in the gastrointestinal tract. Since the osmotic gradient remains constant, drug delivery remains essentially constant. The biologically inert components of the tablet remain intact during gastrointestinal transit and are eliminated in the feces as an insoluble shell. USP Drug Release Test 3."
+   "DESCRIPTION Each scored oxybutynin chloride tablet contains 2.5 mg or 5 mg of oxybutynin chloride. Chemically, oxybutynin chloride is d,l (racemic) 4-diethylamino-2-butynyl phenylcyclohexylglycolate hydrochloride. The empirical formula of oxybutynin chloride is C 22 H 31 NO 3 •HCl. The structural formula appears below: Oxybutynin chloride is a white crystalline solid with a molecular weight of 393.95. It is readily soluble in water and acids, but relatively insoluble in alkalis. Oxybutynin Chloride Tablets also contain: FD&C Blue #1 aluminum lake, magnesium stearate, microcrystalline cellulose, and pregelatinized starch. Oxybutynin Chloride Tablets are for oral administration. Therapeutic Category: Antispasmodic, anticholinergic. The product meets USP Dissolution Test 2. Structural formula"
   ],
   "clinical_pharmacology": [
-   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects). Antimuscarinic activity resides predominantly in the R-isomer. A metabolite, desethyloxybutynin, has pharmacological activity similar to that of oxybutynin in in vitro studies. 12.2 Pharmacodynamics In patients with conditions characterized by involuntary bladder contractions, cystometric studies have demonstrated that oxybutynin increases bladder (vesical) capacity, diminishes the frequency of uninhibited contractions of the detrusor muscle, and delays the initial desire to void. 12.3 Pharmacokinetics Absorption Following the first dose of Oxybutynin chloride extended-release tablets, oxybutynin plasma concentrations rise for 4 to 6 hours; thereafter steady concentrations are maintained for up to 24 hours, minimizing fluctuations between peak and trough concentrations associated with oxybutynin. The relative bioavailabilities of R- and S-oxybutynin from Oxybutynin chloride extended-release tablets are 156% and 187%, respectively, compared with oxybutynin. The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 2. The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin. Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin chloride extended-release tablets 10 mg (n=43) Parameters (units) R-Oxybutynin S-Oxybutynin C max (ng/mL) 1.0 (0.6) 1.8 (1.0) T max (h) 12.7 (5.4) 11.8 (5.3) t 1/2 (h) 13.2 (6.2) 12.4 (6.1) AUC (0–48) (ng∙h/mL) 18.4 (10.3) 34.2 (16.9) AUC inf (ng∙h/mL) 21.3 (12.2) 39.5 (21.2) Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of Oxybutynin chloride extended-release tablets 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment). Steady state oxybutynin plasma concentrations are achieved by Day 3 of repeated Oxybutynin chloride extended-release tablets dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters. Oxybutynin chloride extended-release tablets steady state pharmacokinetics were studied in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida). The children were on Oxybutynin chloride extended-release tablets total daily dose ranging from 5 to 20 mg (0.10 to 0.77 mg/kg). Sparse sampling technique was used to obtain serum samples. When all available data are normalized to an equivalent of 5 mg per day of Oxybutynin chloride extended-release tablets, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3. The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg per day. Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5–15 Following Administration of 5 to 20 mg Oxybutynin chloride extended-release tablets Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin chloride extended-release tablets 5 mg Once Daily R-Oxybutynin S-Oxybutynin R- Desethyloxybutynin S- Desethyloxybutynin C max (ng/mL) 0.7 ± 0.4 1.3 ± 0.8 7.8 ± 3.7 4.2 ± 2.3 T max (h) 5.0 5.0 5.0 5.0 AUC (ng∙h/mL) 12.8 ± 7.0 23.7 ± 14.4 125.1 ± 66.7 73.6 ± 47.7 Figure 2: Mean steady state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin chloride extended-release tablets once daily in children aged 5–15. Plot represents all available data normalized to an equivalent of Oxybutynin chloride extended-release tablets 5 mg once daily. Figure 1 Figure 2 Food Effects The rate and extent of absorption and metabolism of oxybutynin are similar under fed and fasted conditions. Distribution Oxybutynin is widely distributed in body tissues following systemic absorption. The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride. Both enantiomers of oxybutynin are highly bound (>99%) to plasma proteins. Both enantiomers of N-desethyloxybutynin are also highly bound (>97%) to plasma proteins. The major binding protein is alpha-1 acid glycoprotein. Metabolism Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall. Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active. Following Oxybutynin chloride extended-release tablets administration, plasma concentrations of R- and S-desethyloxybutynin are 73% and 92%, respectively, of concentrations observed with oxybutynin. Excretion Oxybutynin is extensively metabolized by the liver, with less than 0.1% of the administered dose excreted unchanged in the urine. Also, less than 0.1% of the administered dose is excreted as the metabolite desethyloxybutynin. Dose Proportionality Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (C max and AUC) following administration of 5–20 mg of Oxybutynin chloride extended-release tablets are dose proportional. Use in Specific Populations Pediatric The pharmacokinetics of Oxybutynin chloride extended-release tablets were evaluated in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida). The pharmacokinetics of Oxybutynin chloride extended-release tablets in these pediatric patients were consistent with those reported for adults (see Tables 2 and 3, and Figures 1 and 2 above). Gender There are no significant differences in the pharmacokinetics of oxybutynin in healthy male and female volunteers following administration of Oxybutynin chloride extended-release tablets. Race Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on race in healthy volunteers following administration of Oxybutynin chloride extended-release tablets."
+   "CLINICAL PHARMACOLOGY Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. Oxybutynin chloride exhibits only one-fifth of the anticholinergic activity of atropine on the rabbit detrusor muscle, but four to ten times the antispasmodic activity. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects). Oxybutynin chloride relaxes bladder smooth muscle. In patients with conditions characterized by involuntary bladder contractions, cystometric studies have demonstrated that oxybutynin chloride increases bladder (vesical) capacity, diminishes the frequency of uninhibited contractions of the detrusor muscle, and delays the initial desire to void. Oxybutynin chloride thus decreases urgency and the frequency of both incontinent episodes and voluntary urination. Antimuscarinic activity resides predominately in the R-isomer. A metabolite, desethyloxybutynin, has pharmacological activity similar to that of oxybutynin in in vitro studies. Pharmacokinetics Absorption Following oral administration of oxybutynin chloride, oxybutynin is rapidly absorbed achieving C max within an hour, following which plasma concentration decreases with an effective half-life of approximately 2 to 3 hours. The absolute bioavailability of oxybutynin is reported to be about 6% (range 1.6 to 10.9%) for the tablets. Wide interindividual variation in pharmacokinetic parameters is evident following oral administration of oxybutynin. The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 1. The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin. Parameters (units) R-Oxybutynin S-Oxybutynin C max (ng/mL) 3.6 (2.2) 7.8 (4.1) T max (h) 0.89 (0.34) 0.65 (0.32) AUC t (ng•h/mL) 22.6 (11.3) 35.0 (17.3) AUC inf (ng•h/mL) 24.3 (12.3) 37.3 (18.7) Figure 1. Mean R-oxybutynin plasma concentrations following three doses of oxybutynin chloride 5 mg administered every 8 hours for 1 day in 23 healthy adult volunteers Oxybutynin chloride steady-state pharmacokinetics were also studied in 11 pediatric patients with detrusor overactivity associated with a neurological condition (e.g., spina bifida). These pediatric patients were on oxybutynin chloride tablets with total daily dose ranging from 7.5 mg to 15 mg (0.22 to 0.53 mg/kg). Overall, most patients (86.9%) were taking a total daily oxybutynin chloride dose between 10 mg and 15 mg. Sparse sampling technique was used to obtain serum samples. When all available data are normalized to an equivalent of 5 mg twice daily oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 2 . The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg twice daily. Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters In Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N=11) All Available Data Normalized to an Equivalent of Oxybutynin Chloride Tablets 5 mg BID or TID at Steady State R-Oxybutynin S-Oxybutynin R-Desethyloxybutynin S-Desethyloxybutynin C max *(ng/mL) 6.1 ± 3.2 10.1 ± 7.5 55.4 ± 17.9 28.2 ± 10.0 T max (hr) 1.0 1.0 2.0 2.0 AUC**(ng∙hr/mL) 19.8 ± 7.4 28.4 ± 12.7 238.8 ± 77.6 119.5 ± 50.7 *Reflects Cmax for pooled data **AUC 0-end of dosing interval Figure 2. Mean steady-state (±SD) R-oxybutynin plasma concentrations following administration of total daily oxybutynin chloride tablet dose of 7.5 mg to 15 mg (0.22 mg/kg to 0.53 mg/kg) in children 5 to 15 years of age. – Plot represents all available data normalized to the equivalent of oxybutynin chloride 5 mg BID or TID at steady state Food Effects Data in the literature suggests that oxybutynin solution coadministered with food resulted in a slight delay in absorption and an increase in its bioavailability by 25% (n=18). 1 Distribution Oxybutynin is widely distributed in body tissues following systemic absorption. The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride. Both enantiomers of oxybutynin are highly bound (> 99%) to plasma proteins. Both enantiomers of desethyloxybutynin are also highly bound (> 97%) to plasma proteins. The major binding protein is alpha-1 acid glycoprotein. Metabolism Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall. Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active. Excretion Oxybutynin is extensively metabolized by the liver, with less than 0.1% of the administered dose excreted unchanged in the urine. Also, less than 0.1% of the administered dose is excreted as the metabolite desethyloxybutynin. Graph 1 Graph 2"
   ],
   "clinical_pharmacology_table": [
-   "<table><caption>Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin chloride extended-release tablets 10 mg (n=43)</caption><col/><col/><col/><col/><col/><thead><tr><th styleCode=\"    Lrule     \">Parameters (units)</th><th colspan=\"2\" styleCode=\"     Rrule     \">R-Oxybutynin</th><th colspan=\"2\" styleCode=\"     Rrule     \">S-Oxybutynin</th></tr></thead><tbody><tr><td styleCode=\"    Lrule     \"> C <sub>max</sub> (ng/mL) </td><td> 1.0</td><td styleCode=\"     Rrule     \"> (0.6)</td><td> 1.8</td><td styleCode=\"     Rrule     \"> (1.0)</td></tr><tr><td styleCode=\"    Lrule     \"> T <sub>max</sub> (h) </td><td> 12.7</td><td styleCode=\"     Rrule     \"> (5.4)</td><td> 11.8</td><td styleCode=\"     Rrule     \"> (5.3)</td></tr><tr><td styleCode=\"    Lrule     \"> t <sub>1/2</sub> (h) </td><td> 13.2</td><td styleCode=\"     Rrule     \"> (6.2)</td><td> 12.4</td><td styleCode=\"     Rrule     \"> (6.1)</td></tr><tr><td styleCode=\"    Lrule     \"> AUC <sub>(0&#x2013;48)</sub> (ng&#x2219;h/mL) </td><td> 18.4</td><td styleCode=\"     Rrule     \"> (10.3)</td><td> 34.2</td><td styleCode=\"     Rrule     \"> (16.9)</td></tr><tr><td styleCode=\"    Lrule     \"> AUC <sub>inf</sub> (ng&#x2219;h/mL) </td><td> 21.3</td><td styleCode=\"     Rrule     \"> (12.2)</td><td> 39.5</td><td styleCode=\"     Rrule     \"> (21.2)</td></tr></tbody></table>",
-   "<table><caption>Table 3: Mean &#xB1; SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5&#x2013;15 Following Administration of 5 to 20 mg Oxybutynin chloride extended-release tablets Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin chloride extended-release tablets 5 mg Once Daily</caption><col/><col/><col/><col/><col/><thead><tr><th styleCode=\"    Lrule          Rrule     \"/><th>R-Oxybutynin</th><th styleCode=\"     Rrule     \">S-Oxybutynin</th><th styleCode=\"     Rrule     \">R- Desethyloxybutynin</th><th styleCode=\"     Rrule     \">S- Desethyloxybutynin</th></tr></thead><tbody><tr><td styleCode=\"    Lrule     \"> C <sub>max</sub> (ng/mL) </td><td styleCode=\"    Lrule     \"> 0.7 &#xB1; 0.4</td><td styleCode=\"    Lrule     \"> 1.3 &#xB1; 0.8</td><td styleCode=\"    Lrule     \"> 7.8 &#xB1; 3.7</td><td styleCode=\"    Lrule          Rrule     \"> 4.2 &#xB1; 2.3</td></tr><tr><td styleCode=\"    Lrule     \"> T <sub>max</sub> (h) </td><td styleCode=\"    Lrule     \"> 5.0</td><td styleCode=\"    Lrule     \"> 5.0</td><td styleCode=\"    Lrule     \"> 5.0</td><td styleCode=\"    Lrule          Rrule     \"> 5.0</td></tr><tr><td styleCode=\"    Lrule     \"> AUC (ng&#x2219;h/mL)</td><td styleCode=\"    Lrule     \"> 12.8 &#xB1; 7.0</td><td styleCode=\"    Lrule     \"> 23.7 &#xB1; 14.4</td><td styleCode=\"    Lrule     \"> 125.1 &#xB1; 66.7</td><td styleCode=\"    Lrule          Rrule     \"> 73.6 &#xB1; 47.7</td></tr></tbody></table>"
-  ],
-  "mechanism_of_action": [
-   "12.1 Mechanism of Action Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects). Antimuscarinic activity resides predominantly in the R-isomer. A metabolite, desethyloxybutynin, has pharmacological activity similar to that of oxybutynin in in vitro studies."
-  ],
-  "pharmacodynamics": [
-   "12.2 Pharmacodynamics In patients with conditions characterized by involuntary bladder contractions, cystometric studies have demonstrated that oxybutynin increases bladder (vesical) capacity, diminishes the frequency of uninhibited contractions of the detrusor muscle, and delays the initial desire to void."
+   "<table ID=\"ID14\" width=\"49%\" styleCode=\"Noautorules\"><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"> Parameters (units) </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"> R-Oxybutynin </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"> S-Oxybutynin </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> C<sub>max</sub> (ng/mL)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 3.6 (2.2) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 7.8 (4.1) </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> T<sub>max</sub> (h)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 0.89 (0.34) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 0.65 (0.32) </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> AUC<sub>t</sub> (ng&#x2022;h/mL)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 22.6 (11.3) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 35.0 (17.3) </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> AUC<sub>inf</sub> (ng&#x2022;h/mL)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 24.3 (12.3) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 37.3 (18.7) </td></tr></tbody></table>",
+   "<table ID=\"ID16\" width=\"800\" styleCode=\"Noautorules\"><col width=\"160\"/><col width=\"160\"/><col width=\"160\"/><col width=\"160\"/><col width=\"160\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\"/><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> R-Oxybutynin </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> S-Oxybutynin </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> R-Desethyloxybutynin  </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> S-Desethyloxybutynin </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> C<sub>max</sub>*(ng/mL) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 6.1 &#xB1; 3.2 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 10.1 &#xB1; 7.5 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 55.4 &#xB1; 17.9 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 28.2 &#xB1; 10.0 </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> T<sub>max</sub> (hr) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 1.0 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 1.0 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 2.0 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 2.0 </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> AUC**(ng&#x2219;hr/mL) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 19.8 &#xB1; 7.4 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 28.4 &#xB1; 12.7 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 238.8 &#xB1; 77.6 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 119.5 &#xB1; 50.7 </td></tr><tr><td colspan=\"5\" valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> *Reflects Cmax for pooled data   **AUC 0-end of dosing interval </td></tr></tbody></table>"
   ],
   "pharmacokinetics": [
-   "12.3 Pharmacokinetics Absorption Following the first dose of Oxybutynin chloride extended-release tablets, oxybutynin plasma concentrations rise for 4 to 6 hours; thereafter steady concentrations are maintained for up to 24 hours, minimizing fluctuations between peak and trough concentrations associated with oxybutynin. The relative bioavailabilities of R- and S-oxybutynin from Oxybutynin chloride extended-release tablets are 156% and 187%, respectively, compared with oxybutynin. The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 2. The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin. Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin chloride extended-release tablets 10 mg (n=43) Parameters (units) R-Oxybutynin S-Oxybutynin C max (ng/mL) 1.0 (0.6) 1.8 (1.0) T max (h) 12.7 (5.4) 11.8 (5.3) t 1/2 (h) 13.2 (6.2) 12.4 (6.1) AUC (0–48) (ng∙h/mL) 18.4 (10.3) 34.2 (16.9) AUC inf (ng∙h/mL) 21.3 (12.2) 39.5 (21.2) Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of Oxybutynin chloride extended-release tablets 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment). Steady state oxybutynin plasma concentrations are achieved by Day 3 of repeated Oxybutynin chloride extended-release tablets dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters. Oxybutynin chloride extended-release tablets steady state pharmacokinetics were studied in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida). The children were on Oxybutynin chloride extended-release tablets total daily dose ranging from 5 to 20 mg (0.10 to 0.77 mg/kg). Sparse sampling technique was used to obtain serum samples. When all available data are normalized to an equivalent of 5 mg per day of Oxybutynin chloride extended-release tablets, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3. The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg per day. Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5–15 Following Administration of 5 to 20 mg Oxybutynin chloride extended-release tablets Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin chloride extended-release tablets 5 mg Once Daily R-Oxybutynin S-Oxybutynin R- Desethyloxybutynin S- Desethyloxybutynin C max (ng/mL) 0.7 ± 0.4 1.3 ± 0.8 7.8 ± 3.7 4.2 ± 2.3 T max (h) 5.0 5.0 5.0 5.0 AUC (ng∙h/mL) 12.8 ± 7.0 23.7 ± 14.4 125.1 ± 66.7 73.6 ± 47.7 Figure 2: Mean steady state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin chloride extended-release tablets once daily in children aged 5–15. Plot represents all available data normalized to an equivalent of Oxybutynin chloride extended-release tablets 5 mg once daily. Figure 1 Figure 2 Food Effects The rate and extent of absorption and metabolism of oxybutynin are similar under fed and fasted conditions. Distribution Oxybutynin is widely distributed in body tissues following systemic absorption. The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride. Both enantiomers of oxybutynin are highly bound (>99%) to plasma proteins. Both enantiomers of N-desethyloxybutynin are also highly bound (>97%) to plasma proteins. The major binding protein is alpha-1 acid glycoprotein. Metabolism Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall. Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active. Following Oxybutynin chloride extended-release tablets administration, plasma concentrations of R- and S-desethyloxybutynin are 73% and 92%, respectively, of concentrations observed with oxybutynin. Excretion Oxybutynin is extensively metabolized by the liver, with less than 0.1% of the administered dose excreted unchanged in the urine. Also, less than 0.1% of the administered dose is excreted as the metabolite desethyloxybutynin. Dose Proportionality Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (C max and AUC) following administration of 5–20 mg of Oxybutynin chloride extended-release tablets are dose proportional. Use in Specific Populations Pediatric The pharmacokinetics of Oxybutynin chloride extended-release tablets were evaluated in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida). The pharmacokinetics of Oxybutynin chloride extended-release tablets in these pediatric patients were consistent with those reported for adults (see Tables 2 and 3, and Figures 1 and 2 above). Gender There are no significant differences in the pharmacokinetics of oxybutynin in healthy male and female volunteers following administration of Oxybutynin chloride extended-release tablets. Race Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on race in healthy volunteers following administration of Oxybutynin chloride extended-release tablets."
+   "Pharmacokinetics Absorption Following oral administration of oxybutynin chloride, oxybutynin is rapidly absorbed achieving C max within an hour, following which plasma concentration decreases with an effective half-life of approximately 2 to 3 hours. The absolute bioavailability of oxybutynin is reported to be about 6% (range 1.6 to 10.9%) for the tablets. Wide interindividual variation in pharmacokinetic parameters is evident following oral administration of oxybutynin. The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 1. The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin. Parameters (units) R-Oxybutynin S-Oxybutynin C max (ng/mL) 3.6 (2.2) 7.8 (4.1) T max (h) 0.89 (0.34) 0.65 (0.32) AUC t (ng•h/mL) 22.6 (11.3) 35.0 (17.3) AUC inf (ng•h/mL) 24.3 (12.3) 37.3 (18.7) Figure 1. Mean R-oxybutynin plasma concentrations following three doses of oxybutynin chloride 5 mg administered every 8 hours for 1 day in 23 healthy adult volunteers Oxybutynin chloride steady-state pharmacokinetics were also studied in 11 pediatric patients with detrusor overactivity associated with a neurological condition (e.g., spina bifida). These pediatric patients were on oxybutynin chloride tablets with total daily dose ranging from 7.5 mg to 15 mg (0.22 to 0.53 mg/kg). Overall, most patients (86.9%) were taking a total daily oxybutynin chloride dose between 10 mg and 15 mg. Sparse sampling technique was used to obtain serum samples. When all available data are normalized to an equivalent of 5 mg twice daily oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 2 . The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg twice daily. Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters In Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N=11) All Available Data Normalized to an Equivalent of Oxybutynin Chloride Tablets 5 mg BID or TID at Steady State R-Oxybutynin S-Oxybutynin R-Desethyloxybutynin S-Desethyloxybutynin C max *(ng/mL) 6.1 ± 3.2 10.1 ± 7.5 55.4 ± 17.9 28.2 ± 10.0 T max (hr) 1.0 1.0 2.0 2.0 AUC**(ng∙hr/mL) 19.8 ± 7.4 28.4 ± 12.7 238.8 ± 77.6 119.5 ± 50.7 *Reflects Cmax for pooled data **AUC 0-end of dosing interval Figure 2. Mean steady-state (±SD) R-oxybutynin plasma concentrations following administration of total daily oxybutynin chloride tablet dose of 7.5 mg to 15 mg (0.22 mg/kg to 0.53 mg/kg) in children 5 to 15 years of age. – Plot represents all available data normalized to the equivalent of oxybutynin chloride 5 mg BID or TID at steady state Food Effects Data in the literature suggests that oxybutynin solution coadministered with food resulted in a slight delay in absorption and an increase in its bioavailability by 25% (n=18). 1 Distribution Oxybutynin is widely distributed in body tissues following systemic absorption. The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride. Both enantiomers of oxybutynin are highly bound (> 99%) to plasma proteins. Both enantiomers of desethyloxybutynin are also highly bound (> 97%) to plasma proteins. The major binding protein is alpha-1 acid glycoprotein. Metabolism Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall. Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active. Excretion Oxybutynin is extensively metabolized by the liver, with less than 0.1% of the administered dose excreted unchanged in the urine. Also, less than 0.1% of the administered dose is excreted as the metabolite desethyloxybutynin."
   ],
   "pharmacokinetics_table": [
-   "<table><caption>Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin chloride extended-release tablets 10 mg (n=43)</caption><col/><col/><col/><col/><col/><thead><tr><th styleCode=\"    Lrule     \">Parameters (units)</th><th colspan=\"2\" styleCode=\"     Rrule     \">R-Oxybutynin</th><th colspan=\"2\" styleCode=\"     Rrule     \">S-Oxybutynin</th></tr></thead><tbody><tr><td styleCode=\"    Lrule     \"> C <sub>max</sub> (ng/mL) </td><td> 1.0</td><td styleCode=\"     Rrule     \"> (0.6)</td><td> 1.8</td><td styleCode=\"     Rrule     \"> (1.0)</td></tr><tr><td styleCode=\"    Lrule     \"> T <sub>max</sub> (h) </td><td> 12.7</td><td styleCode=\"     Rrule     \"> (5.4)</td><td> 11.8</td><td styleCode=\"     Rrule     \"> (5.3)</td></tr><tr><td styleCode=\"    Lrule     \"> t <sub>1/2</sub> (h) </td><td> 13.2</td><td styleCode=\"     Rrule     \"> (6.2)</td><td> 12.4</td><td styleCode=\"     Rrule     \"> (6.1)</td></tr><tr><td styleCode=\"    Lrule     \"> AUC <sub>(0&#x2013;48)</sub> (ng&#x2219;h/mL) </td><td> 18.4</td><td styleCode=\"     Rrule     \"> (10.3)</td><td> 34.2</td><td styleCode=\"     Rrule     \"> (16.9)</td></tr><tr><td styleCode=\"    Lrule     \"> AUC <sub>inf</sub> (ng&#x2219;h/mL) </td><td> 21.3</td><td styleCode=\"     Rrule     \"> (12.2)</td><td> 39.5</td><td styleCode=\"     Rrule     \"> (21.2)</td></tr></tbody></table>",
-   "<table><caption>Table 3: Mean &#xB1; SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5&#x2013;15 Following Administration of 5 to 20 mg Oxybutynin chloride extended-release tablets Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin chloride extended-release tablets 5 mg Once Daily</caption><col/><col/><col/><col/><col/><thead><tr><th styleCode=\"    Lrule          Rrule     \"/><th>R-Oxybutynin</th><th styleCode=\"     Rrule     \">S-Oxybutynin</th><th styleCode=\"     Rrule     \">R- Desethyloxybutynin</th><th styleCode=\"     Rrule     \">S- Desethyloxybutynin</th></tr></thead><tbody><tr><td styleCode=\"    Lrule     \"> C <sub>max</sub> (ng/mL) </td><td styleCode=\"    Lrule     \"> 0.7 &#xB1; 0.4</td><td styleCode=\"    Lrule     \"> 1.3 &#xB1; 0.8</td><td styleCode=\"    Lrule     \"> 7.8 &#xB1; 3.7</td><td styleCode=\"    Lrule          Rrule     \"> 4.2 &#xB1; 2.3</td></tr><tr><td styleCode=\"    Lrule     \"> T <sub>max</sub> (h) </td><td styleCode=\"    Lrule     \"> 5.0</td><td styleCode=\"    Lrule     \"> 5.0</td><td styleCode=\"    Lrule     \"> 5.0</td><td styleCode=\"    Lrule          Rrule     \"> 5.0</td></tr><tr><td styleCode=\"    Lrule     \"> AUC (ng&#x2219;h/mL)</td><td styleCode=\"    Lrule     \"> 12.8 &#xB1; 7.0</td><td styleCode=\"    Lrule     \"> 23.7 &#xB1; 14.4</td><td styleCode=\"    Lrule     \"> 125.1 &#xB1; 66.7</td><td styleCode=\"    Lrule          Rrule     \"> 73.6 &#xB1; 47.7</td></tr></tbody></table>"
-  ],
-  "nonclinical_toxicology": [
-   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility A 24-month study in rats at dosages of oxybutynin chloride of 20, 80, and 160 mg/kg/day showed no evidence of carcinogenicity. These doses are approximately 6, 25, and 50 times the maximum human exposure, based on a human equivalent dose taking into account normalization of body surface area. Oxybutynin chloride showed no increase of mutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiae , and Salmonella typhimurium test systems. Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no evidence of impaired fertility."
-  ],
-  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
-   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility A 24-month study in rats at dosages of oxybutynin chloride of 20, 80, and 160 mg/kg/day showed no evidence of carcinogenicity. These doses are approximately 6, 25, and 50 times the maximum human exposure, based on a human equivalent dose taking into account normalization of body surface area. Oxybutynin chloride showed no increase of mutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiae , and Salmonella typhimurium test systems. Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no evidence of impaired fertility."
+   "<table ID=\"ID14\" width=\"49%\" styleCode=\"Noautorules\"><col width=\"33%\"/><col width=\"33%\"/><col width=\"33%\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"> Parameters (units) </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"> R-Oxybutynin </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"> S-Oxybutynin </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> C<sub>max</sub> (ng/mL)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 3.6 (2.2) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 7.8 (4.1) </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> T<sub>max</sub> (h)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 0.89 (0.34) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 0.65 (0.32) </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> AUC<sub>t</sub> (ng&#x2022;h/mL)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 22.6 (11.3) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 35.0 (17.3) </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> AUC<sub>inf</sub> (ng&#x2022;h/mL)  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 24.3 (12.3) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 37.3 (18.7) </td></tr></tbody></table>",
+   "<table ID=\"ID16\" width=\"800\" styleCode=\"Noautorules\"><col width=\"160\"/><col width=\"160\"/><col width=\"160\"/><col width=\"160\"/><col width=\"160\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\"/><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> R-Oxybutynin </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> S-Oxybutynin </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> R-Desethyloxybutynin  </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"> S-Desethyloxybutynin </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> C<sub>max</sub>*(ng/mL) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 6.1 &#xB1; 3.2 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 10.1 &#xB1; 7.5 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 55.4 &#xB1; 17.9 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 28.2 &#xB1; 10.0 </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> T<sub>max</sub> (hr) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 1.0 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 1.0 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 2.0 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 2.0 </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> AUC**(ng&#x2219;hr/mL) </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 19.8 &#xB1; 7.4 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 28.4 &#xB1; 12.7 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 238.8 &#xB1; 77.6 </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> 119.5 &#xB1; 50.7 </td></tr><tr><td colspan=\"5\" valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> *Reflects Cmax for pooled data   **AUC 0-end of dosing interval </td></tr></tbody></table>"
   ],
   "clinical_studies": [
-   "14 CLINICAL STUDIES Oxybutynin chloride extended-release tablets were evaluated for the treatment of patients with overactive bladder with symptoms of urge urinary incontinence, urgency, and frequency in three controlled efficacy studies. The majority of patients were Caucasian (89.0%) and female (91.9%) with a mean age of 59 years (range, 18 to 98 years). Entry criteria required that patients have urge or mixed incontinence (with a predominance of urge) as evidenced by ≥ 6 urge incontinence episodes per week and ≥ 10 micturitions per day. Study 1 was a fixed-dose escalation design, whereas the other two studies used a dose-adjustment design in which each patient's final dose was adjusted to a balance between improvement of incontinence symptoms and tolerability of side effects. All three studies included patients known to be responsive to oxybutynin or other anticholinergic medications, and these patients were maintained on a final dose for up to 2 weeks. The efficacy results for the three controlled trials are presented in the following tables and figures. Number of Urge Urinary Incontinence Episodes Per Week Study 1 n Oxybutynin chloride extended-release tablets n Placebo Mean Baseline 34 15.9 16 20.9 Mean (SD) Change from Baseline Covariate adjusted mean with missing observations set to baseline values 34 -15.8 (8.9) 16 -7.6 (8.6) 95% Confidence Interval for Difference (-13.6, -2.8) The difference between Oxybutynin chloride extended-release tabletsand placebo was statistically significant. (Oxybutynin chloride extended-release tablets- Placebo) Study 2 n Oxybutynin chloride extended-release tablets n oxybutynin Mean Baseline 53 27.6 52 23.0 Mean (SD) Change from Baseline Covariate adjusted mean with missing observations set to baseline values 53 -17.6 (11.9) 52 -19.4 (11.9) 95% Confidence Interval for Difference (-2.8, 6.5) (Oxybutynin chloride extended-release tablets- oxybutynin) Study 3 n Oxybutynin chloride extended-release tablets n oxybutynin Mean Baseline 111 18.9 115 19.5 Mean (SD) Change from Baseline Covariate adjusted mean with missing observations set to baseline values 111 -14.5 (8.7) 115 -13.8 (8.6) 95% Confidence Interval for Difference (-3.0, 1.6) The difference between Oxybutynin chloride extended-release tabletsand oxybutynin fulfilled the criteria for comparable efficacy. (Oxybutynin chloride extended-release tablets- oxybutynin) Figure 2 Figure 3 Figure 4"
+   "CLINICAL STUDIES Oxybutynin chloride was well tolerated in patients administered the drug in controlled studies of 30 days' duration and in uncontrolled studies in which some of the patients received the drug for 2 years."
   ],
-  "clinical_studies_table": [
-   "<table><caption>Number of Urge Urinary Incontinence Episodes Per Week</caption><thead><tr><th styleCode=\"Lrule     \" valign=\"top\">Study 1</th><th align=\"center\">n</th><th align=\"center\">Oxybutynin chloride extended-release tablets</th><th align=\"center\">n</th><th align=\"center\" styleCode=\"Rrule     \">Placebo</th></tr></thead><tbody><tr><td styleCode=\"Lrule     \" valign=\"top\">Mean Baseline</td><td align=\"center\">34</td><td align=\"center\">15.9</td><td align=\"center\">16</td><td align=\"center\" styleCode=\"Rrule     \">20.9</td></tr><tr><td styleCode=\"Lrule     \" valign=\"top\">Mean (SD) Change from Baseline <footnote ID=\"SPLSERV-b8e5db06-d36d-55e6-f536-6983685f8150\">Covariate adjusted mean with missing observations set to baseline values</footnote></td><td align=\"center\">34</td><td align=\"center\">-15.8 (8.9)</td><td align=\"center\">16</td><td align=\"center\" styleCode=\"Rrule     \">-7.6 (8.6)</td></tr><tr><td styleCode=\"Lrule     \" valign=\"top\">95% Confidence Interval for Difference</td><td align=\"center\" colspan=\"4\" styleCode=\"Rrule     \">(-13.6, -2.8) <footnote ID=\"SPLSERV-3c4c8483-04e5-d620-59b2-6e89a3d5b373\">The difference between Oxybutynin chloride extended-release tabletsand placebo was statistically significant.</footnote></td></tr><tr><td colspan=\"5\" styleCode=\"Lrule          Rrule     \" valign=\"top\">(Oxybutynin chloride extended-release tablets- Placebo)</td></tr></tbody></table>",
-   "<table><thead><tr><th styleCode=\"Lrule     \" valign=\"top\">Study 2</th><th align=\"center\">n</th><th align=\"center\">Oxybutynin chloride extended-release tablets</th><th align=\"center\">n</th><th align=\"center\" styleCode=\"Rrule     \">oxybutynin</th></tr></thead><tbody><tr><td styleCode=\"Lrule     \" valign=\"top\">Mean Baseline</td><td align=\"center\">53</td><td align=\"center\">27.6</td><td align=\"center\">52</td><td align=\"center\" styleCode=\"Rrule     \">23.0</td></tr><tr><td styleCode=\"Lrule     \" valign=\"top\">Mean (SD) Change from Baseline <footnote ID=\"SPLSERV-8c151e4c-7942-55ff-7345-39387bee83b6\">Covariate adjusted mean with missing observations set to baseline values</footnote></td><td align=\"center\">53</td><td align=\"center\">-17.6 (11.9)</td><td align=\"center\">52</td><td align=\"center\" styleCode=\"Rrule     \">-19.4 (11.9)</td></tr><tr><td styleCode=\"Lrule     \" valign=\"top\">95% Confidence Interval for Difference</td><td align=\"center\" colspan=\"4\" styleCode=\"Rrule     \">(-2.8, 6.5)</td></tr><tr><td colspan=\"5\" styleCode=\"Lrule          Rrule     \" valign=\"top\">(Oxybutynin chloride extended-release tablets- oxybutynin)</td></tr></tbody></table>",
-   "<table><thead><tr><th styleCode=\"Lrule     \" valign=\"top\">Study 3</th><th align=\"center\">n</th><th align=\"center\">Oxybutynin chloride extended-release tablets</th><th align=\"center\">n</th><th align=\"center\" styleCode=\"Rrule     \">oxybutynin</th></tr></thead><tbody><tr><td styleCode=\"Lrule     \" valign=\"top\">Mean Baseline</td><td align=\"center\">111</td><td align=\"center\">18.9</td><td align=\"center\">115</td><td align=\"center\" styleCode=\"Rrule     \">19.5</td></tr><tr><td styleCode=\"Lrule     \" valign=\"top\">Mean (SD) Change from Baseline <footnote ID=\"SPLSERV-a8d9a4bb-b1de-c007-78b9-473740cd9f7b\">Covariate adjusted mean with missing observations set to baseline values</footnote></td><td align=\"center\">111</td><td align=\"center\">-14.5 (8.7)</td><td align=\"center\">115</td><td align=\"center\" styleCode=\"Rrule     \">-13.8 (8.6)</td></tr><tr><td styleCode=\"Lrule     \" valign=\"top\">95% Confidence Interval for Difference</td><td align=\"center\" colspan=\"4\" styleCode=\"Rrule     \">(-3.0, 1.6) <footnote ID=\"SPLSERV-9baf85b3-4a14-cfdb-2cf2-e9bb9765abc6\">The difference between Oxybutynin chloride extended-release tabletsand oxybutynin fulfilled the criteria for comparable efficacy.</footnote></td></tr><tr><td colspan=\"5\" styleCode=\"Lrule          Rrule     \" valign=\"top\">(Oxybutynin chloride extended-release tablets- oxybutynin)</td></tr></tbody></table>"
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Oxybutynin chloride tablets are indicated for the relief of symptoms of bladder instability associated with voiding in patients with uninhibited neurogenic or reflex neurogenic bladder (i.e., urgency, frequency, urinary leakage, urge incontinence, dysuria)."
   ],
-  "how_supplied": [
-   "16 HOW SUPPLIED/STORAGE AND HANDLING Oxybutynin chloride extended-release tablets 5 mg are round, biconvex, white coated tablets imprinted in black ink with \"270\" on one side and \"KU\" on the other side. They are supplied as follows: Bottles of 100 Tablets NDC 42291-633-01 Bottles of 500 Tablets NDC 42291-633-50 Oxybutynin chloride extended-release tablets 10 mg are round, biconvex, white coated tablets imprinted in black ink with \"271\" on one side and \"KU\" on the other side. They are supplied as follows: Bottles of 100 Tablets NDC 42291-634-01 Bottles of 500 Tablets NDC 42291-634-50 Oxybutynin chloride extended-release tablets 15 mg are round, biconvex, white coated tablets imprinted in black ink with \"272\" on one side and \"KU\" on the other side. They are supplied as follows: Bottles of 100 Tablets NDC 42291-635-01 16.1 Storage Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature]. Protect from moisture and humidity."
+  "contraindications": [
+   "CONTRAINDICATIONS Oxybutynin chloride is contraindicated in patients with urinary retention, gastric retention and other severe decreased gastrointestinal motility conditions, uncontrolled narrow-angle glaucoma and in patients who are at risk for these conditions. Oxybutynin chloride is also contraindicated in patients who have demonstrated hypersensitivity to the drug substance or other components of the product."
   ],
-  "storage_and_handling": [
-   "16.1 Storage Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature]. Protect from moisture and humidity."
+  "warnings": [
+   "WARNINGS Angioedema of the face, lips, tongue and/or larynx has been reported with oxybutynin. In some cases, angioedema occurred after the first dose. Angioedema associated with upper airway swelling may be life-threatening. If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided."
+  ],
+  "precautions": [
+   "PRECAUTIONS Central Nervous System Effects Oxybutynin is associated with anticholinergic central nervous system (CNS) effects (see ADVERSE REACTIONS ). A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence. Patients should be monitored for signs of anticholinergic CNS effects, particularly in the first few months after beginning treatment or increasing the dose. If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered. Oxybutynin chloride should be used with caution in patients with pre-existing dementia treated with cholinesterase inhibitors due to the risk of aggravation of symptoms. Oxybutynin chloride should be used with caution in patients with Parkinson's disease due to the risk of aggravation of symptoms. General Oxybutynin chloride should be used with caution in the frail elderly, in patients with hepatic or renal impairment, and in patients with myasthenia gravis. Oxybutynin chloride may aggravate the symptoms of hyperthyroidism, coronary heart disease, congestive heart failure, cardiac arrhythmias, hiatal hernia, tachycardia, hypertension, myasthenia gravis, and prostatic hypertrophy. Urinary Retention Oxybutynin chloride should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention (see CONTRAINDICATIONS ). Gastrointestinal Disorders Oxybutynin chloride should be used with caution in patients with autonomic neuropathy due to the risk of aggravation of symptoms of decreased gastrointestinal motility. Oxybutynin chloride should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (see CONTRAINDICATIONS ). Administration of oxybutynin chloride to patients with ulcerative colitis may suppress intestinal motility to the point of producing a paralytic ileus and precipitate or aggravate toxic megacolon, a serious complication of the disease. Oxybutynin chloride, like other anticholinergic drugs, may decrease gastrointestinal motility and should be used with caution in patients with conditions such as ulcerative colitis, and intestinal atony. Oxybutynin chloride should be used with caution in patients who have gastroesophageal reflux and/or who are concurrently taking drugs (such as bisphosphonates) that can cause or exacerbate esophagitis. Information for Patients Patients should be informed that oxybutynin may produce angioedema that could result in life-threatening airway obstruction. Patients should be advised to promptly discontinue oxybutynin therapy and seek immediate medical attention if they experience edema of the tongue, edema of the laryngopharynx, or difficulty breathing. Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin chloride are administered in the presence of high environmental temperature. Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence), or blurred vision, patients should be advised to exercise caution. Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents such as oxybutynin. Drug Interactions The concomitant use of oxybutynin with other anticholinergic drugs or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects. Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. This may be of concern for drugs with a narrow therapeutic index. Anticholinergic agents may also antagonize the effects of prokinetic agents, such as metoclopramide. Mean oxybutynin chloride plasma concentrations were approximately 3 to 4 fold higher when oxybutynin chloride was administered with ketoconazole, a potent CYP3A4 inhibitor. Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., C max and AUC). The clinical relevance of such potential interactions is not known. Caution should be used when such drugs are coadministered. Carcinogenesis, Mutagenesis, Impairment of Fertility A 24-month study in rats at dosages of oxybutynin chloride of 20, 80, and 160 mg/kg/day showed no evidence of carcinogenicity. These doses are approximately 6, 25, and 50 times the maximum human exposure, based on surface area. Oxybutynin chloride showed no increase of mutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiae and Salmonella typhimurium test systems. Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility. Pregnancy Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility or harm to the animal fetus. The safety of oxybutynin chloride administered to women who are or who may become pregnant has not been established. Therefore, oxybutynin chloride should not be given to pregnant women unless, in the judgment of the physician, the probable clinical benefits outweigh the possible hazards. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when oxybutynin chloride is administered to a nursing woman. Pediatric Use The safety and efficacy of oxybutynin chloride administration have been demonstrated for pediatric patients 5 years of age and older (see DOSAGE AND ADMINISTRATION ). The safety and efficacy of oxybutynin chloride tablets were studied in 30 children in a 24-week, open-label trial. Patients were aged 5 to 15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride. Study results demonstrated that the administration of oxybutynin chloride was associated with improvement in clinical and urodynamic parameters. At total daily doses ranging from 5 mg to 15 mg, treatment with oxybutynin chloride tablets was associated with an increase from baseline in mean urine volume per catheterization from 122 mL to 145 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 168 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 43% to 61%. Urodynamic results in these patients were consistent with the clinical results. Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H 2 O to 33 cm H 2 O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H 2 O) from 39% to 20%. As there is insufficient clinical data for pediatric populations under age 5, oxybutynin chloride is not recommended for this age group. Geriatric Use Clinical studies of oxybutynin chloride did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2 to 3 hours to 5 hours. 2,3,4 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
   ],
   "information_for_patients": [
-   "17 PATIENT COUNSELING INFORMATION Patients should be informed that oxybutynin may produce angioedema that could result in life threatening airway obstruction. Patients should be advised to promptly discontinue oxybutynin therapy and seek immediate medical attention if they experience swelling of the tongue, edema of the laryngopharynx, or difficulty breathing. Patients should be informed that anticholinergic (antimuscarinic) agents such as Oxybutynin chloride extended-release tablets, may produce clinically significant adverse reactions related to anticholinergic activity such as: Urinary retention and constipation Heat prostration due to decreased sweating. Heat prostration can occur when anticholinergic medicines are administered in the presence of high environmental temperature. Patients should be informed that anticholinergic medicines such as Oxybutynin chloride extended-release tablets may produce drowsiness (somnolence), dizziness or blurred vision. Patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until Oxybutynin chloride extended-release tablets effects have been determined. Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents such as Oxybutynin chloride extended-release tablets. Patients should be informed that Oxybutynin chloride extended-release tablets should be swallowed whole with the aid of liquids. Patients should not chew, divide, or crush tablets. The medication is contained within a nonabsorbable shell designed to release the drug at a controlled rate. The tablet shell is eliminated from the body; patients should not be concerned if they occasionally notice in their stool something that looks like a tablet. Oxybutynin chloride extended-release tablets should be taken at approximately the same time each day. For more information call 1-855-361-3993 or visit avkare.com."
+   "Information for Patients Patients should be informed that oxybutynin may produce angioedema that could result in life-threatening airway obstruction. Patients should be advised to promptly discontinue oxybutynin therapy and seek immediate medical attention if they experience edema of the tongue, edema of the laryngopharynx, or difficulty breathing. Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin chloride are administered in the presence of high environmental temperature. Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence), or blurred vision, patients should be advised to exercise caution. Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents such as oxybutynin."
   ],
-  "spl_unclassified_section_table": [
-   "<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"28%\"><colgroup><col width=\"10%\"/><col/></colgroup><tbody><tr styleCode=\"Toprule\"><td valign=\"bottom\" align=\"center\" styleCode=\"bold\">Count</td><td valign=\"bottom\" align=\"center\"><content styleCode=\"bold\">5 mg</content></td><td valign=\"bottom\" align=\"center\"><content styleCode=\"bold\">10 mg</content></td><td valign=\"bottom\" align=\"center\"><content styleCode=\"bold\">15 mg</content></td></tr><tr><td valign=\"bottom\" align=\"center\">30</td><td align=\"center\">43353-282-30</td><td align=\"center\">43353-284-30</td><td align=\"center\">-</td></tr><tr><td valign=\"bottom\" align=\"center\">60</td><td align=\"center\">43353-282-53</td><td align=\"center\">-</td><td align=\"center\">-</td></tr><tr><td valign=\"bottom\" align=\"center\">90</td><td align=\"center\">43353-282-60</td><td align=\"center\">43353-284-60</td><td align=\"center\">-</td></tr><tr><td valign=\"bottom\" align=\"center\">180</td><td align=\"center\">43353-282-80</td><td align=\"center\">-</td><td align=\"center\">-</td></tr><tr><td valign=\"bottom\" align=\"center\">6000</td><td align=\"center\">-</td><td align=\"center\">-</td><td align=\"center\">43353-322-16</td></tr></tbody></table>"
+  "drug_interactions": [
+   "Drug Interactions The concomitant use of oxybutynin with other anticholinergic drugs or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects. Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. This may be of concern for drugs with a narrow therapeutic index. Anticholinergic agents may also antagonize the effects of prokinetic agents, such as metoclopramide. Mean oxybutynin chloride plasma concentrations were approximately 3 to 4 fold higher when oxybutynin chloride was administered with ketoconazole, a potent CYP3A4 inhibitor. Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., C max and AUC). The clinical relevance of such potential interactions is not known. Caution should be used when such drugs are coadministered."
   ],
-  "set_id": "02ff3be7-fc5c-4b91-8c67-ecdf6e19c42a",
-  "id": "a9056bad-e15c-4be4-a63c-f51362e2f025",
-  "effective_time": "20230531",
-  "version": "2"
+  "pregnancy": [
+   "Pregnancy Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility or harm to the animal fetus. The safety of oxybutynin chloride administered to women who are or who may become pregnant has not been established. Therefore, oxybutynin chloride should not be given to pregnant women unless, in the judgment of the physician, the probable clinical benefits outweigh the possible hazards."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when oxybutynin chloride is administered to a nursing woman."
+  ],
+  "pediatric_use": [
+   "Pediatric Use The safety and efficacy of oxybutynin chloride administration have been demonstrated for pediatric patients 5 years of age and older (see DOSAGE AND ADMINISTRATION ). The safety and efficacy of oxybutynin chloride tablets were studied in 30 children in a 24-week, open-label trial. Patients were aged 5 to 15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride. Study results demonstrated that the administration of oxybutynin chloride was associated with improvement in clinical and urodynamic parameters. At total daily doses ranging from 5 mg to 15 mg, treatment with oxybutynin chloride tablets was associated with an increase from baseline in mean urine volume per catheterization from 122 mL to 145 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 168 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 43% to 61%. Urodynamic results in these patients were consistent with the clinical results. Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H 2 O to 33 cm H 2 O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H 2 O) from 39% to 20%. As there is insufficient clinical data for pediatric populations under age 5, oxybutynin chloride is not recommended for this age group."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of oxybutynin chloride did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2 to 3 hours to 5 hours. 2,3,4 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS The safety and efficacy of oxybutynin chloride was evaluated in a total of 199 patients in three clinical trials. These participants were treated with oxybutynin chloride 5 to 20 mg/day for up to 6 weeks. Table 3 shows the incidence of adverse events judged by investigators to be at least possibly related to treatment and reported by at least 5% of patients. Table 3 Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using Oxybutynin Chloride (5 to 20 mg/day) Body System Adverse Event Oxybutynin Chloride (5 to 20 mg/day) (n=199) Infections and Infestations Urinary tract infection 6.5% Psychiatric Disorders Insomnia Nervousness 5.5% 6.5% Nervous System Disorders Dizziness Somnolence Headache 16.6% 14.0% 7.5% Eye Disorders Blurred vision 9.6% Gastrointestinal Disorders Dry mouth Constipation Nausea Dyspepsia 71.4% 15.1% 11.6% 6.0% Renal and Urinary Disorders Urinary Hesitation Urinary Retention 8.5% 6.0% The most common adverse events reported by patients receiving oxybutynin chloride 5 to 20 mg/day were the expected side effects of anticholinergic agents. The incidence of dry mouth was dose-related. In addition, the following adverse events were reported by 1 to < 5% of patients using oxybutynin chloride (5 to 20 mg/day) in all studies. Infections and Infestations: nasopharyngitis, upper respiratory tract infection, bronchitis, cystitis, fungal infection; Metabolism and Nutrition Disorders: fluid retention; Psychiatric Disorders: confusional state; Nervous System Disorders: dysgeusia, sinus headache; Eye Disorders: keratoconjunctivitis sicca, eye irritation; Cardiac Disorders: palpitations, sinus arrhythmia; Vascular Disorders: flushing; Respiratory, Thoracic and Mediastinal Disorders: nasal dryness, cough, pharyngolaryngeal pain, dry throat, sinus congestion, hoarseness, asthma, nasal congestion; Gastrointestinal Disorders: diarrhea, abdominal pain, loose stools, flatulence, vomiting, abdominal pain upper, dysphagia, aptyalism, eructation, tongue coated; Skin and Subcutaneous Tissue Disorders: dry skin, pruritis; Musculoskeletal and Connective Tissue Disorders: back pain, arthralgia, pain in extremity, flank pain; Renal and Urinary Disorders: dysuria, pollakiuria; General Disorders and Administration Site Conditions: fatigue, edema peripheral, asthenia, pain, thirst, edema; Investigations: blood pressure increased, blood glucose increased, blood pressure decreased; Injury, Poisoning, and Procedural Complications: fall. Postmarketing Surveillance Because postmarketing adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following additional adverse events have been reported from worldwide postmarketing experience with oxybutynin chloride: Psychiatric Disorders: psychotic disorder, agitation, hallucination, memory impairment; Nervous System Disorders: convulsions; Eye Disorders: cycloplegia, mydriasis, glaucoma; Cardiac Disorders: tachycardia, QT interval prolongation; chest discomfort ; Gastrointestinal Disorders: decreased gastrointestinal motility; frequent bowel movements; Skin and Subcutaneous Tissue Disorders: rash, decreased sweating; Renal and Urinary Disorders: impotence; Reproductive System and Breast Disorders: suppression of lactation; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; rare anaphylactic reactions requiring hospitalization for emergency treatment; Metabolism and Nutrition Disorders : anorexia; Respiratory, Thoracic and Mediastinal Disorders : dysphonia. To report SUSPECTED ADVERSE REACTIONS, contact Strides Pharma Inc. at 1-877-244-9825 or go to www.strides.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "adverse_reactions_table": [
+   "<table ID=\"ID85\" width=\"639\" styleCode=\"Noautorules\"><col width=\"213\"/><col width=\"213\"/><col width=\"213\"/><tbody><tr><td valign=\"top\" styleCode=\"Lrule Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Body System </content> </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"left\"><content styleCode=\"bold\"> Adverse Event </content> </td><td valign=\"top\" styleCode=\" Toprule Botrule Rrule\" align=\"center\"><content styleCode=\"bold\"> Oxybutynin </content> <content styleCode=\"bold\"> Chloride </content> <content styleCode=\"bold\"> (5 to 20 mg/day) </content> <content styleCode=\"bold\"> (n=199) </content> </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Infections and Infestations  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Urinary tract infection  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 6.5% </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Psychiatric Disorders </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Insomnia  Nervousness  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 5.5%  6.5% </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Nervous System Disorders </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Dizziness  Somnolence  Headache </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 16.6%  14.0%  7.5% </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Eye Disorders </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Blurred vision </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 9.6% </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Gastrointestinal Disorders </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Dry mouth  Constipation   Nausea  Dyspepsia  </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 71.4%  15.1%  11.6%  6.0% </td></tr><tr><td valign=\"top\" styleCode=\"Lrule Botrule Rrule\" align=\"left\"> Renal and Urinary Disorders </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"left\"> Urinary Hesitation  Urinary Retention </td><td valign=\"top\" styleCode=\" Botrule Rrule\" align=\"center\"> 8.5%  6.0% </td></tr></tbody></table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE Treatment should be symptomatic and supportive. Activated charcoal as well as a cathartic may be administered. Overdosage with oxybutynin chloride has been associated with anticholinergic effects including central nervous system excitation (e.g., restlessness, tremor, irritability, convulsions, delirium, hallucinations), flushing, fever, dehydration, cardiac arrhythmia, vomiting, and urinary retention. Other symptoms may include hypotension or hypertension, respiratory failure, paralysis, and coma. Ingestion of 100 mg oxybutynin chloride in association with alcohol has been reported in a 13 year old boy who experienced memory loss, and a 34 year old woman who developed stupor, followed by disorientation and agitation on awakening, dilated pupils, dry skin, cardiac arrhythmia, and retention of urine. Both patients fully recovered with symptomatic treatment."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Adults The usual dose is one 5-mg tablet two to three times a day. The maximum recommended dose is one 5-mg tablet four times a day. A lower starting dose of 2.5 mg two or three times a day is recommended for the frail elderly. Pediatric patients over 5 years of age The usual dose is one 5-mg tablet two times a day. The maximum recommended dose is one 5-mg tablet three times a day."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Oxybutynin Chloride Tablets USP, 2.5 mg, are round, light blue, tablets debossed \"2\" on one side and \"S\" on the other side. The tablets are supplied as follows: • Bottles of 100: NDC 64380-190-01 Oxybutynin Chloride Tablets USP, 5 mg, are round, light blue, scored tablets debossed \"4853\" and \"V\" on one side separated by a horizontal score and plain on the reverse side. The tablets are supplied as follows: Bottles of 100: NDC 64380-162-01 Bottles of 500: NDC 64380-162-02 Bottles of 1000: NDC 64380-162-03 Pharmacist: Dispense in a tight, light-resistant container as defined in the USP/NF. Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]."
+  ],
+  "references": [
+   "REFERENCES 1 Yong C et al. Effect of Food on the Pharmacokinetics of Oxybutynin in normal subjects. Pharm Res. 1991; 8 (Suppl.): S-320. 2 Hughes KM et al. Measurement of oxybutynin and its N-desethyl metabolite in plasma, and its application to pharmacokinetic studies in young, elderly and frail elderly volunteers. Xenobiotica. 1992; 22 (7): 859–869. 3 Ouslander J et al. Pharmacokinetics and Clinical Effects of Oxybutynin in Geriatric Patients. J. Urol. 1988; 140: 47–50. 4 Yarker Y et al. Oxybutynin: A review of its Pharmacodynamic and Pharmacokinetic Properties, and its Therapeutic Use in Detrusor Instability. Drugs & Aging. 1995; 6 (3): 243–262. Distributed by: Strides Pharma Inc. Bridgewater, NJ 08807 Revised: 01/2026"
+  ],
+  "set_id": "9ede5def-d185-4e40-9c10-8663ac654caf",
+  "id": "a34f3504-e5d9-426a-abee-6587854406a5",
+  "effective_time": "20260701",
+  "version": "7"
  }
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T06:32Z",
+ "updated": "2026-11-12T06:45Z",
  "n": 416,
  "missing": [
   "norfloxacino",
@@ -1642,17 +1642,17 @@
    "id_es": "clonidina",
    "generic_en": "clonidine",
    "brand": [
-    "Catapres-TTS-1"
+    "Clonidine"
    ],
    "manufacturer": [
-    "Technomed Inc."
+    "Ingenus Pharmaceuticals, LLC"
    ],
-   "effective_time": "20261007",
-   "set_id": "d4a55825-7041-42f4-b3b2-dd7a25dbe793",
+   "effective_time": "20251205",
+   "set_id": "99485427-a120-4fc7-bb61-25857d1900ec",
    "application": [
-    "NDA018891"
+    "ANDA209675"
    ],
-   "n_candidates": 11
+   "n_candidates": 1
   },
   {
    "id_es": "clopidogrel",
@@ -4904,17 +4904,17 @@
    "id_es": "oxibutinina",
    "generic_en": "oxybutynin chloride",
    "brand": [
-    "Oxybutynin Chloride Extended Release"
+    "Oxybutynin Chloride"
    ],
    "manufacturer": [
-    "Aphena Pharma Solutions - Tennessee, LLC"
+    "Strides Pharma Science Limited"
    ],
-   "effective_time": "20230531",
-   "set_id": "02ff3be7-fc5c-4b91-8c67-ecdf6e19c42a",
+   "effective_time": "20260701",
+   "set_id": "9ede5def-d185-4e40-9c10-8663ac654caf",
    "application": [
-    "ANDA078503"
+    "ANDA075079"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "oxicodona",
@@ -4984,17 +4984,17 @@
    "id_es": "paroxetina",
    "generic_en": "paroxetine hydrochloride",
    "brand": [
-    "PAXIL CR"
+    "PAXIL"
    ],
    "manufacturer": [
     "Apotex Corp"
    ],
-   "effective_time": "20260930",
-   "set_id": "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+   "effective_time": "20260929",
+   "set_id": "ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e",
    "application": [
-    "NDA020936"
+    "NDA020031"
    ],
-   "n_candidates": 22
+   "n_candidates": 1
   },
   {
    "id_es": "patiromero",
