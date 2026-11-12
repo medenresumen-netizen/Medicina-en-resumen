@@ -1,0 +1,709 @@
+{
+ "id_es": "litio",
+ "generic_en": "lithium carbonate",
+ "search": "openfda.generic_name.exact:\"LITHIUM CARBONATE\"",
+ "pref": "lithium carbonate|ORAL|",
+ "downloaded": "2026-11-12T03:46Z",
+ "chosen": {
+  "set_id": "f7f5b69a-c2a1-4586-a189-1475d41387c0",
+  "id": "7f4b23bc-232b-4c3a-aa56-7dfd78df8a44",
+  "effective_time": "20260824",
+  "version": "13",
+  "brand_name": [
+   "LITHOBID"
+  ],
+  "generic_name": [
+   "LITHIUM CARBONATE"
+  ],
+  "manufacturer_name": [
+   "ANI Pharmaceuticals, Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA018027"
+  ],
+  "n_sections": 19
+ },
+ "candidates": [
+  {
+   "set_id": "039f188c-413a-6e64-e063-6294a90a2972",
+   "id": "5df8e185-ab60-ee5f-e063-6294a90a023f",
+   "effective_time": "20261016",
+   "version": "22",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076832"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "16ebe1f9-501d-468b-a37d-f6a46f8f32d1",
+   "id": "5df8f2ea-9ab9-5624-e063-6394a90ad426",
+   "effective_time": "20261016",
+   "version": "31",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA017812"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "c2635909-7ab2-4c05-9a42-2819702dba63",
+   "id": "5df8e8e8-ea48-4d54-e063-6394a90af857",
+   "effective_time": "20261016",
+   "version": "25",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076832"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "c4973d87-d014-42f4-ba13-ae628ca1a451",
+   "id": "5df907ed-4750-3dd1-e063-6294a90ac635",
+   "effective_time": "20261016",
+   "version": "31",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA017812"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "d20ed2aa-aa56-4709-9e7a-9243c71465c9",
+   "id": "5df93d89-9037-a307-e063-6394a90af773",
+   "effective_time": "20261016",
+   "version": "27",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018558"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "f7f5b69a-c2a1-4586-a189-1475d41387c0",
+   "id": "7f4b23bc-232b-4c3a-aa56-7dfd78df8a44",
+   "effective_time": "20260824",
+   "version": "13",
+   "brand_name": [
+    "LITHOBID"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "ANI Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018027"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b839ff4b-f62d-41ab-a823-550a756d58ec",
+   "id": "e89451be-87c9-43df-b41f-b028e56e2c2f",
+   "effective_time": "20260816",
+   "version": "3",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018558",
+    "NDA017812"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "582697c1-063f-366f-e063-6294a90a8d1b",
+   "id": "5826968c-813f-f033-e063-6394a90aa252",
+   "effective_time": "20260803",
+   "version": "1",
+   "brand_name": [
+    "lithium carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090702"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "803eab29-0d0a-4df0-b504-bcd85ec01ead",
+   "id": "571fb4d1-17bf-94ad-e063-6394a90afd8e",
+   "effective_time": "20260721",
+   "version": "11",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079139"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "1c320bff-b4d5-42f2-b2b5-238564fe9589",
+   "id": "56a7865f-e5f5-af85-e063-6394a90a6708",
+   "effective_time": "20260715",
+   "version": "17",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079139"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "05312159-3d8a-45e0-99cb-b83a7b200cd3",
+   "id": "55f33430-806b-6c2b-e063-6294a90ad537",
+   "effective_time": "20260706",
+   "version": "15",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA017812"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "c84cce95-cfcb-4426-aac6-d2f48f946ada",
+   "id": "55f609cf-199d-4cec-e063-6294a90abf31",
+   "effective_time": "20260706",
+   "version": "10",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA018558"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "611b0ea2-6378-4c8f-953d-87f6b35b0634",
+   "id": "55680448-d1a9-159e-e063-6294a90a5ae5",
+   "effective_time": "20260629",
+   "version": "16",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204779"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "453721b5-b1f5-4161-8e01-8b4803151dc5",
+   "id": "54a09f21-32dc-80fa-e063-6394a90acb45",
+   "effective_time": "20260619",
+   "version": "5",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076832"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "aa900d48-a99f-4309-ba29-ecc894162750",
+   "id": "549da339-93ca-8503-e063-6294a90a1488",
+   "effective_time": "20260619",
+   "version": "1",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076691"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b074ca9f-66b2-4e83-b67d-cb317b46411b",
+   "id": "544f52c0-d66c-ae67-e063-6294a90a45d2",
+   "effective_time": "20260615",
+   "version": "14",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA017812"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "0e6b0a2d-b79c-44d8-b785-5267df9e8f72",
+   "id": "e9ce7754-51f4-4b60-bc30-a4348a81f6b2",
+   "effective_time": "20260604",
+   "version": "13",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 107, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA017812"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "1a62d5ae-a4a3-4b10-8281-feba134bbe3a",
+   "id": "996f70c3-6422-4867-8e34-76fb3b3edc74",
+   "effective_time": "20260603",
+   "version": "7",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079139"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "049902a9-3af1-4863-994e-15f36e7a9793",
+   "id": "52bc4799-d1ed-0637-e063-6394a90af8ea",
+   "effective_time": "20260526",
+   "version": "3",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079139"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "51b503f5-211f-a9cc-e063-6294a90a9895",
+   "id": "51b4f7b7-ac58-19ef-e063-6394a90ae98e",
+   "effective_time": "20260513",
+   "version": "1",
+   "brand_name": [
+    "Lithium Carbonate ER"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091616"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "5102eb69-4872-53fb-e063-6394a90a8275",
+   "id": "5102e56d-211e-a113-e063-6294a90a100b",
+   "effective_time": "20260504",
+   "version": "1",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079139"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "01c4facd-ed79-4078-ba33-2044de372d0f",
+   "id": "5072144b-30c0-ed6a-e063-6394a90a2b9c",
+   "effective_time": "20260427",
+   "version": "1",
+   "brand_name": [
+    "lithium carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090702"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "57faf0b0-4380-4bbf-8de7-c3f9d74fc410",
+   "id": "4f59ccaf-7413-bb25-e063-6394a90a64b2",
+   "effective_time": "20260413",
+   "version": "8",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA079139"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "bd4b07d3-ce42-440f-aec3-19f4d1c445a9",
+   "id": "4d740916-d8f8-0331-e063-6394a90a894a",
+   "effective_time": "20260320",
+   "version": "1",
+   "brand_name": [
+    "Lithium Carbonate ER"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091616"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "9cf3ceff-a237-44ea-b0dd-859e72c434d0",
+   "id": "4d667155-edb3-d428-e063-6394a90ab000",
+   "effective_time": "20260319",
+   "version": "4",
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091544"
+   ],
+   "n_sections": 21
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels. Facilities for prompt and accurate serum lithium determinations should be available before initiating therapy (see DOSAGE AND ADMINISTRATION )."
+  ],
+  "description": [
+   "DESCRIPTION LITHOBID ® tablets contain lithium carbonate, a white odorless alkaline powder with molecular formula Li 2 CO 3 and molecular weight 73.89. Lithium is an element of the alkali-metal group with atomic number 3, atomic weight 6.94, and an emission line at 671 nm on the flame photometer. Each peach-colored, film-coated, extended-release tablet contains 300 mg of lithium carbonate. This slowly dissolving film-coated tablet is designed to give lower serum lithium peak concentrations than obtained with conventional oral lithium dosage forms. Inactive ingredients consist of calcium stearate, carnauba wax, cellulose compounds, FD&C Blue No. 2 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake, povidone, propylene glycol, sodium chloride, sodium lauryl sulfate, sodium starch glycolate, sorbitol, and titanium dioxide. Product meets USP Drug Release Test 1."
+  ],
+  "warnings": [
+   "WARNINGS Lithium Toxicity The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2 mEq/L). Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNING and DOSAGE AND ADMINISTRATION ). Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed. Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, lack of coordination, and weakness; to moderate manifestations like giddiness, apathy, drowsiness, hyperreflexia, muscle twitching, ataxia, blurred vision, tinnitus, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma, and death. In rare cases, neurological sequelae may persist despite discontinuing lithium treatment and may be associated with cerebellar atrophy. Cardiac manifestations involve electrocardiographic changes, such as prolonged QT interval, ST and T-wave changes and myocarditis. Renal manifestations include urine concentrating defect, nephrogenic diabetes insipidus, and renal failure. Respiratory manifestations include dyspnea, aspiration pneumonia, and respiratory failure. Gastrointestinal manifestations include nausea, vomiting, diarrhea, and bloating. No specific antidote for lithium poisoning is known (see OVERDOSAGE ). The risk of lithium toxicity is increased by: • Recent onset of concurrent febrile illness • Concomitant administration of drugs which increase lithium serum concentrations by pharmacokinetic interactions or drugs affecting kidney function (see PRECAUTIONS-Drug Interactions ) • Acute ingestion • Impaired renal function • Volume depletion or dehydration • Significant cardiovascular disease • Changes in electrolyte concentrations (especially sodium and potassium) Monitor for signs and symptoms of lithium toxicity. If symptoms occur, decrease dosage or discontinue lithium treatment. Unmasking of Brugada Syndrome There have been postmarketing reports of a possible association between treatment with lithium and the unmasking of Brugada Syndrome. Brugada Syndrome is a disorder characterized by abnormal electrocardiographic (ECG) findings and a risk of sudden death. Lithium should generally be avoided in patients with Brugada Syndrome or those suspected of having Brugada Syndrome. Consultation with a cardiologist is recommended if: (1) treatment with lithium is under consideration for patients suspected of having Brugada Syndrome or patients who have risk factors for Brugada Syndrome, e.g., unexplained syncope, a family history of Brugada Syndrome, or a family history of sudden unexplained death before the age of 45 years, (2) patients who develop unexplained syncope or palpitations after starting lithium therapy. Psuedotumor Cerebri Cases of pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use. If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields, and eventual blindness due to optic atrophy. Lithium should be discontinued, if clinically possible, if this syndrome occurs. Renal Effects Chronic lithium therapy may be associated with diminution of renal concentrating ability, occasionally presenting as nephrogenic diabetes insipidus, with polyuria and polydipsia. Such patients should be carefully managed to avoid dehydration with resulting lithium retention and toxicity. This condition is usually reversible when lithium is discontinued. Post marketing cases consistent with nephrotic syndrome have been reported with the use of lithium. Biopsy findings in patients with nephrotic syndrome include minimal change disease and focal segmental glomerulosclerosis. Discontinuation of lithium in patients with nephrotic syndrome has resulted in remission of nephrotic syndrome. Morphologic changes with glomerular and interstitial fibrosis and nephron atrophy have been reported in patients on chronic lithium therapy. Morphologic changes have also been seen in manic-depressive patients never exposed to lithium. The relationship between renal function and morphologic changes and their association with lithium therapy have not been established. Kidney function should be assessed prior to and during lithium therapy. Routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine, creatinine clearance, or proteinuria). During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for re-evaluation of treatment. Encephalopathic Syndrome An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol. In some instances, the syndrome was followed by irreversible brain damage. Because of possible causal relationship between these events and the concomitant administration of lithium and neuroleptic drugs, patients receiving such combined therapy or patients with organic brain syndrome or other CNS impairment should be monitored closely for early evidence of neurologic toxicity and treatment discontinued promptly if such signs appear. This encephalopathic syndrome may be similar to or the same as Neuroleptic Malignant Syndrome (NMS). Serotonin Syndrome Lithium can precipitate serotonin syndrome, a potentially life-threatening condition. The risk is increased with concomitant use of other serotonergic drugs (including selective serotonin reuptake inhibitors, serotonin and norepinephrine reuptake inhibitors, triptans, tricyclic antidepressants, fentanyl, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs (see PRECAUTIONS ). Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea). Monitor all patients taking lithium for the emergence of serotonin syndrome. Discontinue treatment with lithium and any concomitant serotonergic agents immediately if the above symptoms occur and initiate supportive symptomatic treatment. If concomitant use of lithium with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms. Concomitant Use with Neuromuscular Blocking Agents Lithium may prolong the effects of neuromuscular blocking agents. Therefore, neuromuscular blocking agents should be given with caution to patients receiving lithium. Usage in Pregnancy Adverse effects on nidation in rats, embryo viability in mice, and metabolism in vitro of rat testis and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palate in mice. In humans, lithium may cause fetal harm when administered to a pregnant woman. Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein's anomaly. If this drug is used in women of childbearing potential, or during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised by their physician of the potential hazard to the fetus. Usage in Nursing Mothers Lithium is excreted in human milk. Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of the physician, the potential benefits to the mother outweigh possible hazard to the infant or neonate. Signs and symptoms of lithium toxicity such as hypertonia, hypothermia, cyanosis, and ECG changes have been reported in some infants and neonates. Pediatric Use Safety and effectiveness in pediatric patients under 12 years of age have not been determined; its use in these patients is not recommended. There has been a report of transient syndrome of acute dystonia and hyperreflexia occurring in a 15 kg pediatric patient who ingested 300 mg of lithium carbonate."
+  ],
+  "precautions": [
+   "PRECAUTIONS The ability to tolerate lithium is greater during the acute manic phase and decreases when manic symptoms subside (see DOSAGE AND ADMINISTRATION ). The distribution space of lithium approximates that of total body water. Lithium is primarily excreted in urine with insignificant excretion in feces. Renal excretion of lithium is proportional to its plasma concentration. The elimination half-life of lithium is approximately 24 hours. Lithium decreases sodium reabsorption by the renal tubules which could lead to sodium depletion. Therefore, it is essential for the patient to maintain a normal diet, including salt, and an adequate fluid intake (2500 to 3500 mL) at least during the initial stabilization period. Decreased tolerance to lithium has been reported to ensue from protracted sweating or diarrhea and, if such occur, supplemental fluid and salt should be administered under careful medical supervision and lithium intake reduced or suspended until the condition is resolved. In addition to sweating and diarrhea, concomitant infection with elevated temperatures may also necessitate a temporary reduction or cessation of medication. Previously existing thyroid disorders do not necessarily constitute a contraindication to lithium treatment. Where hypothyroidism preexists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters and/or adjustment of lithium doses, if any. If hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used. Drug Interactions Diuretic-, ACE-, and ARB-induced sodium loss may increase serum lithium concentrations. Start with lower doses of lithium or reduce dosage, while frequently monitoring serum lithium concentrations and signs of lithium toxicity. See WARNINGS for additional caution information. Concomitant administration of lithium with serotonergic drugs can precipitate serotonin syndrome. Monitor patients for signs and symptoms of serotonin syndrome, particularly during lithium initiation. If serotonin syndrome occurs, consider discontinuation of lithium and/or concomitant serotonergic drugs. Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin and norepinephrine reuptake inhibitors (SNRI), and monoamine oxidase inhibitors (MAOI). Concomitant administration of methyldopa, phenytoin, or carbamazepine with lithium may increase the risk of adverse reactions with these drugs. The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations, and alkalinizing agents such as sodium bicarbonate. Concomitant extended use of iodide preparations, especially potassium iodide, with lithium may produce hypothyroidism. Concurrent use of calcium channel blocking agents with lithium may increase the risk of neurotoxicity in the form of ataxia, tremors, nausea, vomiting, diarrhea, and/or tinnitus. Concurrent use of metronidazole with lithium may provoke lithium toxicity due to reduced renal clearance. Patients receiving such combined therapy should be monitored closely. Concurrent use of fluoxetine with lithium has resulted in both increased and decreased serum lithium concentrations. Patients receiving such combined therapy should be monitored closely. Nonsteroidal anti-inflammatory drugs (NSAIDs): Lithium levels should be closely monitored when patients initiate or discontinue NSAID use. In some cases, lithium toxicity has resulted from interactions between a NSAID and lithium. Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations. There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect. In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone. Concomitant use of lithium with a Sodium-Glucose Cotransporter 2 (SGLT2) inhibitor may decrease serum lithium concentrations. Monitor serum lithium concentration more frequently during SGLT2 inhibitor initiation and dosage changes. Lithium may impair mental and/or physical abilities. Patients should be cautioned about activities requiring alertness (e.g., operating vehicles or machinery). Usage in Pregnancy See WARNINGS . Usage in Nursing Mothers Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS ). Pediatric Use Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS ). Geriatric Use Clinical studies of LITHOBID ® tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
+  ],
+  "pregnancy": [
+   "Usage in Pregnancy See WARNINGS ."
+  ],
+  "nursing_mothers": [
+   "Usage in Nursing Mothers Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS )."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS )."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of LITHOBID ® tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS The occurrence and severity of adverse reactions are generally directly related to serum lithium concentrations and to individual patient sensitivity to lithium. They generally occur more frequently and with greater severity at higher concentrations. Adverse reactions may be encountered at serum lithium concentrations below 1.5 mEq/L. Mild to moderate adverse reactions may occur at concentrations from 1.5 to 2.5 mEq/L, and moderate to severe reactions may be seen at concentrations from 2.0 mEq/L and above. Fine hand tremor, polyuria, and mild thirst may occur during initial therapy for the acute manic phase and may persist throughout treatment. Transient and mild nausea and general discomfort may also appear during the first few days of lithium administration. These side effects usually subside with continued treatment or with a temporary reduction or cessation of dosage. If persistent, a cessation of lithium therapy may be required. Diarrhea, vomiting, drowsiness, muscular weakness, and lack of coordination may be early signs of lithium intoxication, and can occur at lithium concentrations below 2.0 mEq/L. At higher concentrations, giddiness, ataxia, blurred vision, tinnitus, and a large output of dilute urine may be seen. Serum lithium concentrations above 3.0 mEq/L may produce a complex clinical picture involving multiple organs and organ systems. Serum lithium concentrations should not be permitted to exceed 2.0 mEq/L during the acute treatment phase. The following reactions have been reported and appear to be related to serum lithium concentrations, including concentrations within the therapeutic range: Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes. Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome (See WARNINGS and PATIENT COUNSELING INFORMATION ). Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion. Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia. Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema, drug reaction with eosinophilia and systemic symptoms (DRESS). Autonomic Nervous System: blurred vision, dry mouth, impotence/sexual dysfunction. Thyroid Abnormalities: euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4. 131 Iodine uptake may be elevated (see PRECAUTIONS ). Paradoxically, rare cases of hyperthyroidism have been reported. EEG Changes: diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm. EKG Changes: reversible flattening, isoelectricity or inversion of T-waves. Miscellaneous: fatigue, lethargy, transient scotomata, exophthalmos, dehydration, weight loss, leucocytosis, headache, transient hyperglycemia, hypercalcemia, hyperparathyroidism, albuminuria, excessive weight gain, edematous swelling of ankles or wrists, metallic taste, dysgeusia/taste distortion, salty taste, thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, and dental caries. Some reports of nephrogenic diabetes insipidus, hyperparathyroidism, and hypothyroidism which persist after lithium discontinuation have been received. A few reports have been received of the development of painful discoloration of fingers and toes and coldness of the extremities within one day of starting lithium treatment. The mechanism through which these symptoms (resembling Raynaud's Syndrome) developed is not known. Recovery followed discontinuance. To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Acute Mania Optimal patient response can usually be established with 1800 mg/day in the following dosages: 1 Can also be administered on 600 mg TID recommended dosing interval. ACUTE MANIA Morning Afternoon Nighttime LITHOBID ® Extended-Release Tablets 1 3 tabs (900 mg) 3 tabs (900 mg) Such doses will normally produce an effective serum lithium concentration ranging between 1.0 and 1.5 mEq/L. Dosage must be individualized according to serum concentrations and clinical response. Regular monitoring of the patient's clinical state and of serum lithium concentrations is necessary. Serum concentrations should be determined twice per week during the acute phase, and until the serum concentrations and clinical condition of the patient have been stabilized. Long-Term Control Desirable serum lithium concentrations are 0.6 to 1.2 mEq/L which can usually be achieved with 900 to 1200 mg/day. Dosage will vary from one individual to another, but generally the following dosages will maintain this concentration: 1 Can be administered on TID recommended dosing interval up to 1200 mg/day. LONG-TERM CONTROL Morning Afternoon Nighttime LITHOBID ® Extended-Release Tablets 1 2 tabs (600 mg) 2 tabs (600 mg) Serum lithium concentrations in uncomplicated cases receiving maintenance therapy during remission should be monitored at least every two months. Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations of 1.0 to 1.5 mEq/L. Geriatric patients often respond to reduced dosage, and may exhibit signs of toxicity at serum concentrations ordinarily tolerated by other patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Important Considerations • Blood samples for serum lithium determinations should be drawn immediately prior to the next dose when lithium concentrations are relatively stable (i.e., 8 to 12 hours after previous dose). Total reliance must not be placed on serum concentrations alone. Accurate patient evaluation requires both clinical and laboratory analysis. • LITHOBID ® Extended-Release Tablets must be swallowed whole and never chewed or crushed."
+  ],
+  "dosage_and_administration_table": [
+   "<table cellpadding=\"0.75pt\" width=\"100%\"><col width=\"45%\"/><col width=\"18%\"/><col width=\"18%\"/><col width=\"18%\"/><tfoot><tr><td align=\"left\" colspan=\"4\" valign=\"top\"><sup>1</sup>Can also be administered on 600 mg TID recommended dosing interval.</td></tr></tfoot><tbody><tr><td align=\"center\" colspan=\"4\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">ACUTE MANIA </content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"/><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Morning</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Afternoon</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Nighttime</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>LITHOBID<sup>&#xAE;</sup> Extended-Release Tablets<sup>1</sup></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>3 tabs (900 mg)</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"/><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>3 tabs (900 mg)</paragraph></td></tr></tbody></table>",
+   "<table cellpadding=\"0.75pt\" width=\"100%\"><col width=\"45%\"/><col width=\"18%\"/><col width=\"18%\"/><col width=\"18%\"/><tfoot><tr><td align=\"left\" colspan=\"4\" valign=\"top\"><sup>1</sup>Can be administered on TID recommended dosing interval up to 1200 mg/day.</td></tr></tfoot><tbody><tr><td align=\"center\" colspan=\"4\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">LONG-TERM CONTROL </content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"/><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Morning</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Afternoon</content></paragraph></td><td align=\"center\" styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Nighttime</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>LITHOBID<sup>&#xAE;</sup></paragraph><paragraph>Extended-Release Tablets<sup>1</sup></paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>2 tabs</paragraph><paragraph>(600 mg)</paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"/><td align=\"center\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"middle\"><paragraph>2 tabs</paragraph><paragraph>(600 mg)</paragraph></td></tr></tbody></table>"
+  ],
+  "overdosage": [
+   "OVERDOSAGE The toxic concentrations for lithium (≥ 1.5 mEq/L) are close to the therapeutic concentrations. It is therefore important that patients and their families be cautioned to watch for early toxic symptoms and to discontinue the drug and inform the physician should they occur (see WARNINGS: Lithium Toxicity ). Treatment No specific antidote for lithium poisoning is known. Treatment is supportive. Early symptoms of lithium toxicity can usually be treated by reduction or cessation of dosage of the drug and resumption of the treatment at a lower dose after 24 to 48 hours. In severe cases of lithium poisoning, the first and foremost goal of treatment consists of elimination of this ion from the patient. Treatment is essentially the same as that used in barbiturate poisoning: 1) gastric lavage, 2) correction of fluid and electrolyte imbalance and, 3) regulation of kidney functioning. Urea, mannitol, and aminophylline all produce significant increases in lithium excretion. Hemodialysis is an effective and rapid means of removing the ion from the severely toxic patient. However, patient recovery may be slow. Infection prophylaxis, regular chest X-rays, and preservation of adequate respiration are essential."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED LITHOBID ® (Lithium Carbonate USP) Extended-Release Tablets, 300 mg, peach-colored imprinted “LITHOBID 300” NDC 62559-280-01 Bottle of 100"
+  ],
+  "storage_and_handling": [
+   "Storage Conditions Store between 59° to 86°F (15° to 30°C). Protect from moisture. Dispense in tight, child-resistant container (USP). Manufactured By: ANI Pharmaceuticals, Inc. Baudette, MN 56623 9694 Rev 05/26 ani"
+  ],
+  "set_id": "f7f5b69a-c2a1-4586-a189-1475d41387c0",
+  "id": "7f4b23bc-232b-4c3a-aa56-7dfd78df8a44",
+  "effective_time": "20260824",
+  "version": "13"
+ }
+}

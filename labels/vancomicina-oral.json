@@ -1,0 +1,744 @@
+{
+ "id_es": "vancomicina-oral",
+ "generic_en": "vancomycin hydrochloride",
+ "search": "brand:FIRVANQ",
+ "pref": "vancomycin hydrochloride|ORAL|FIRVANQ",
+ "downloaded": "2026-11-12T03:46Z",
+ "chosen": {
+  "set_id": "5aca5508-b577-446c-9980-ab4c7582b4b9",
+  "id": "5693e540-a3bf-f5fe-e063-6394a90ab1cc",
+  "effective_time": "20260714",
+  "version": "12",
+  "brand_name": [
+   "FIRVANQ"
+  ],
+  "generic_name": [
+   "VANCOMYCIN HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Azurity Pharmaceuticals, Inc"
+  ],
+  "route": [],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA208910"
+  ],
+  "n_sections": 33
+ },
+ "candidates": [
+  {
+   "set_id": "b79d9671-02dd-40e2-97fb-a6c7be85cda1",
+   "id": "b79d9671-02dd-40e2-97fb-a6c7be85cda1",
+   "effective_time": "20261008",
+   "version": "1",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "GLENMARK PHARMACEUTICALS INC., USA"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205694"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "06dcfd36-942f-4752-86ad-4c5a6fc3e48f",
+   "id": "9618e90e-b925-4d13-9e0f-08bb8c663daf",
+   "effective_time": "20261006",
+   "version": "15",
+   "brand_name": [
+    "Vancomycin"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA200837"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "4843726f-6e79-6e20-2620-4a54616e6479",
+   "id": "b22422fc-f898-4e50-a980-9b78e454f8e8",
+   "effective_time": "20260928",
+   "version": "8",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sagent Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205694"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "bc737938-ae36-460b-a2a8-609f3fe59156",
+   "id": "59468bc9-8c3b-6b7a-e063-6294a90a9b42",
+   "effective_time": "20260817",
+   "version": "6",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Cameron Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210729"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "e1008de0-8530-4998-8f8e-7d302e437e4f",
+   "id": "e1008de0-8530-4998-8f8e-7d302e437e4f",
+   "effective_time": "20260817",
+   "version": "1",
+   "brand_name": [
+    "vancomycin hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aurobindo Pharma Limited"
+   ],
+   "route": [],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA218130"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "127d95d1-8070-41ac-8343-3168b0cf1312",
+   "id": "ad9b2ab1-1df4-49d4-853b-25437a042039",
+   "effective_time": "20260805",
+   "version": "1",
+   "brand_name": [
+    "vancomycin hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210729"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "c757e65b-ca6f-4c00-afe2-025962b43d31",
+   "id": "5bcdb2e4-8cba-4cea-9cc2-872ddbb105c7",
+   "effective_time": "20260731",
+   "version": "1",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Avenacy, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS",
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA210274"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "57d23aed-a3f7-f92e-e063-6394a90add7d",
+   "id": "57d23aed-a3f8-f92e-e063-6394a90add7d",
+   "effective_time": "20260730",
+   "version": "1",
+   "brand_name": [
+    "vancomycin hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065490"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "b01aaa02-8f1d-4b57-96a5-337503428af1",
+   "id": "86642dc9-f3e8-4ba1-9966-c2598a1d352f",
+   "effective_time": "20260720",
+   "version": "19",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Hospira, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA063076"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5aca5508-b577-446c-9980-ab4c7582b4b9",
+   "id": "5693e540-a3bf-f5fe-e063-6394a90ab1cc",
+   "effective_time": "20260714",
+   "version": "12",
+   "brand_name": [
+    "FIRVANQ"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Azurity Pharmaceuticals, Inc"
+   ],
+   "route": [],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208910"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "4c3d2e99-5351-4442-916a-d2001b0a5f5a",
+   "id": "5693f5ad-555a-1e14-e063-6294a90a1f43",
+   "effective_time": "20260714",
+   "version": "4",
+   "brand_name": [
+    "Vancomycin Hydrochloride for Oral Solution"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Wilshire Pharmaceuticals, Inc."
+   ],
+   "route": [],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA208910"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "033efc76-11d5-4a93-91de-56ed41bab9c3",
+   "id": "94dcce5b-629e-4a5b-bec7-67d941700f18",
+   "effective_time": "20260708",
+   "version": "6",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215197"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "7bbd2c81-33d9-4397-8795-8b9fa28cb5cf",
+   "id": "4032896e-b250-4a17-83ea-981e42b606bb",
+   "effective_time": "20260626",
+   "version": "101",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210729"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "d6b8147b-5f93-49ee-8b27-78fe58987c90",
+   "id": "afca593f-0d66-4f38-8dfb-237ee4265929",
+   "effective_time": "20260626",
+   "version": "101",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210729"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "28fe3c01-cf87-41c0-87fd-f93a40524335",
+   "id": "25588ce8-86c6-4c3f-ad63-5271727c9124",
+   "effective_time": "20260616",
+   "version": "104",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA061667"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "6c74b360-022a-4c4d-9e4b-0988219a78fb",
+   "id": "b3b1bf2c-3d1b-44c5-93cc-5fbf450b1c51",
+   "effective_time": "20260612",
+   "version": "101",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA061667"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "8193f588-a032-451e-a0a1-819a5ea834c8",
+   "id": "b4e4f599-a3e8-4452-a388-a5796df00233",
+   "effective_time": "20260612",
+   "version": "101",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA061667"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "826510bd-b611-42d9-a574-ec7ee4151ef5",
+   "id": "18b06c9d-a2d4-4495-93c8-b6e42294eb2c",
+   "effective_time": "20260612",
+   "version": "2",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Eurofarma, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065401"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "99e523d8-9bde-43cb-8434-497015e5dcbd",
+   "id": "0a2ebd45-cef7-4454-95fd-059663d43203",
+   "effective_time": "20260609",
+   "version": "27",
+   "brand_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVITREAL",
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA050671"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "786bde33-9aec-4b4d-ba46-90bfd61956d0",
+   "id": "1802535f-1eaa-48d2-8cfc-b0e6c0c07297",
+   "effective_time": "20260526",
+   "version": "106",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA061667"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "9b6a7a21-4fde-40c6-a420-a8546a4dc701",
+   "id": "a5f8561d-e4dd-40d3-9d56-9cd92155d1e6",
+   "effective_time": "20260526",
+   "version": "105",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA061667"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "a09c589b-e7f4-457c-827f-e1bfa1b26700",
+   "id": "16157db2-78ce-4fe6-9cc5-33d433db882b",
+   "effective_time": "20260526",
+   "version": "105",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA061667"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "57f58371-3ce6-4983-89df-acba33d1139a",
+   "id": "51d75e09-0b72-7ecb-e063-6294a90aee46",
+   "effective_time": "20260515",
+   "version": "9",
+   "brand_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Slate Run Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA212332"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "6ea38b4d-a6d2-4826-8110-ae42c9f7a42a",
+   "id": "51d75a7f-7d5d-630b-e063-6394a90a65c3",
+   "effective_time": "20260515",
+   "version": "2",
+   "brand_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Slate Run Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215821"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "74056e26-57fd-448e-af76-edbccfc3efb7",
+   "id": "74056e26-57fd-448e-af76-edbccfc3efb7",
+   "effective_time": "20260407",
+   "version": "1",
+   "brand_name": [
+    "Vancomycin Hydrochloride"
+   ],
+   "generic_name": [
+    "VANCOMYCIN HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "GLENMARK PHARMACEUTICALS INC., USA"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205694"
+   ],
+   "n_sections": 25
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE FIRVANQ is indicated for the treatment of Clostridium difficil e‑associated diarrhea in adults and pediatric patients less than 18 years of age. FIRVANQ is also indicated for the treatment of enterocolitis caused by Staphylococcus aureus (including methicillin‑resistant strains) in adults and pediatric patients less than 18 years of age. Important Limitations of Use Parenteral administration of vancomycin is not effective for the above infections; therefore, vancomycin must be given orally for these infections. Orally administered vancomycin hydrochloride is not effective for treatment of other types of infections. To reduce the development of drug‑resistant bacteria and maintain the effectiveness of FIRVANQ and other antibacterial drugs, FIRVANQ should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. FIRVANQ is a glycopeptide antibacterial indicated in adults and pediatric patients less than 18 years of age for the treatment of: ( 1 ) Clostridium difficile ‑associated diarrhea Enterocolitis caused by Staphylococcus aureus (including methicillin‑resistant strains) Important Limitations of Use: ( 1 ) ( 5.1 ) Orally administered vancomycin hydrochloride is not effective for treatment of other types of infections. To reduce the development of drug‑resistant bacteria and maintain the effectiveness of FIRVANQ and other antibacterial drugs, FIRVANQ should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION C. difficile‑ associated diarrhea: Adult Patients (18 years of age and older): 125 mg orally 4 times daily for 10 days. ( 2.2 ) Pediatric Patients (less than 18 years of age): 40 mg/kg in 3 or 4 divided doses for 7 to 10 days. The total daily dosage should not exceed 2 g. ( 2.3 ) Staphylococcal enterocolitis: Adult Patients (18 years of age and older): 500 mg to 2 g orally in 3 or 4 divided doses for 7 to 10 days. ( 2.2 ) Pediatric Patients (less than 18 years of age): 40 mg/kg in 3 or 4 divided doses for 7 to 10 days. The total daily dosage should not exceed 2 g. ( 2.3 ) See Full Prescribing Information for preparation and important administration information. ( 2.1 ) 2.1 Important Administration Instructions Prior to oral administration, the supplied FIRVANQ powder must be reconstituted by the healthcare provider (i.e., a pharmacist) to produce the oral solution [ see Dosage and Administration ( 2.4 ) ]. 2.2 Adults C. difficile ‑associated diarrhea: The recommended dose is 125 mg administered orally 4 times daily for 10 days. Staphylococcal enterocolitis: Total daily dosage is 500 mg to 2 g administered orally in 3 or 4 divided doses for 7 to 10 days. 2.3 Pediatric Patients (less than 18 years of age) For both C. difficile ‑associated diarrhea and staphylococcal enterocolitis, the usual daily dosage of FIRVANQ is 40 mg/kg in 3 or 4 divided doses for 7 to 10 days. The total daily dosage should not exceed 2 g. 2.4 Preparation and Storage of Solutions of FIRVANQ Each FIRVANQ kit contains 1 bottle of vancomycin hydrochloride USP powder and 1 bottle of pre‑measured Grape‑Flavored Diluent to be added to the vancomycin bottle. A healthcare provider (i.e., a pharmacist) must reconstitute vancomycin hydrochloride USP powder with the Grape‑Flavored Diluent provided in the kit. FIRVANQ is available in various strengths and volumes in the kit as shown in Table 1 . Table 1: Vancomycin Concentration and Volume after Reconstitution Vancomycin Concentration after Reconstitution Final Volume of FIRVANQ after Reconstitution Vancomycin Strength per Bottle Diluent for FIRVANQ 25 mg/mL 150 mL 3.75 g 147 mL 300 mL 7.5 g 295 mL 50 mg/mL 150 mL 7.5 g 145 mL 300 mL 15.0 g 289 mL Steps for the Preparation of Solutions of FIRVANQ Hold the neck of the bottle containing the vancomycin hydrochloride USP powder for oral solution (see Table 1 ), and tap the bottom edges on a hard surface to loosen the powder. Remove the cap from the vancomycin hydrochloride USP powder for oral solution bottle (“Powder Bottle”). Tap the top of the induction seal liner to loosen any powder that may have adhered to the liner. Carefully and slowly peel back the inner foil seal liner from the Powder Bottle. Shake the Grape‑Flavored Diluent (see Table 1 ) for a few seconds. Remove the cap from the diluent bottle. Carefully and slowly peel back the inner foil seal from the diluent bottle. Transfer approximately one-half the contents of Grape-Flavored Diluent into the Powder Bottle. Replace the Powder Bottle cap, tighten onto the Powder Bottle, and shake the Powder Bottle vertically for approximately 45 seconds. NOTE: DO NOT use the diluent cap on the Powder Bottle as it may cause the solution to leak from the bottle. Re-open the Powder Bottle and add the remaining Grape‑Flavored Diluent into the Powder Bottle. Replace the Powder Bottle cap, tighten onto the Powder Bottle, and shake the Powder Bottle for approximately 30 seconds. NOTE: DO NOT use the diluent cap on the Powder Bottle as it may cause the solution to leak from the bottle. Dispense the Powder Bottle containing reconstituted solution of FIRVANQ oral solution to the patient [ see Patient Counseling Information ( 17 ) ]. Instruct the patient to shake the reconstituted solution of FIRVANQ well before each use and to use an oral dosing device that measures the appropriate volume of the oral solution in milliliters. Store the reconstituted solution of FIRVANQ at refrigerated conditions, 2°C to 8°C (36°F to 46°F) when not in use. Discard the reconstituted solution of FIRVANQ after 14 days, or if it appears hazy or contains particulates."
+  ],
+  "dosage_and_administration_table": [
+   "<table ID=\"_Ref38297091\" cellpadding=\"3.6pt\" width=\"75%\"><caption>Table 1: Vancomycin Concentration and Volume after Reconstitution</caption><col width=\"21%\"/><col width=\"21%\"/><col width=\"21%\"/><col width=\"21%\"/><thead><tr><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Vancomycin Concentration after Reconstitution</content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Final Volume of FIRVANQ after Reconstitution</content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Vancomycin Strength per Bottle</content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Diluent for FIRVANQ</content></th></tr></thead><tbody><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>25 mg/mL</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>150 mL</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>3.75 g</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>147 mL</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"top\"/><td styleCode=\"Botrule \" valign=\"top\"><paragraph>300 mL</paragraph></td><td styleCode=\"Botrule \" valign=\"top\"><paragraph>7.5 g</paragraph></td><td styleCode=\"Botrule \" valign=\"top\"><paragraph>295 mL</paragraph></td></tr><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>50 mg/mL</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>150 mL</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>7.5 g</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>145 mL</paragraph></td></tr><tr><td valign=\"top\"/><td valign=\"top\"><paragraph>300 mL</paragraph></td><td valign=\"top\"><paragraph>15.0 g</paragraph></td><td valign=\"top\"><paragraph>289 mL</paragraph></td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Each FIRVANQ kit contains vancomycin hydrochloride USP as white to almost white or tan to brown powder for oral solution, equivalent to 3.75 g, 7.5 g or 15.0 g vancomycin, and Grape‑Flavored Diluent for reconstitution. Each FIRVANQ kit contains: vancomycin hydrochloride USP, powder for oral solution, equivalent to 3.75 g, 7.5 g or 15.0 g vancomycin, and Grape‑Flavored Diluent. ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS FIRVANQ is contraindicated in patients with known hypersensitivity to vancomycin. Hypersensitivity to vancomycin ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS FIRVANQ must be given orally for treatment of C. difficile ‑associated diarrhea and staphylococcal enterocolitis. Orally administered vancomycin hydrochloride is not effective for treatment of other types of infections. ( 5.1 ) Clinically significant serum concentrations have been reported in some patients who have taken multiple oral doses of vancomycin hydrochloride for C. difficile ‑associated diarrhea. Monitoring of serum concentrations may be appropriate in some instances. ( 5.2 ) Nephrotoxicity has occurred following oral vancomycin hydrochloride therapy and can occur either during or after completion of therapy. The risk is increased in geriatric patients. Monitor renal function. ( 5.3 ) Ototoxicity has occurred in patients receiving vancomycin hydrochloride. Assessment of auditory function may be appropriate in some instances. ( 5.4 ) Severe Dermatologic Reactions: Discontinue FIRVANQ at the first appearance of skin rashes, mucosal lesions, or blisters. ( 5.5 ) Prescribing FIRVANQ in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. ( 5.7 ) 5.1 Oral Use Only FIRVANQ must be given orally for treatment of C. difficile ‑associated diarrhea and staphylococcal enterocolitis. Orally administered vancomycin is not effective for treatment of other types of infections. Parenteral administration of vancomycin is not effective for treatment of C. difficile ‑associated diarrhea and staphylococcal enterocolitis. If parenteral vancomycin therapy is desired, use an intravenous preparation of vancomycin and consult the Full Prescribing Information accompanying that preparation. 5.2 Potential for Systemic Absorption Significant systemic absorption has been reported in some patients (e.g., patients with renal insufficiency and/or colitis) who have taken multiple oral doses of vancomycin hydrochloride for C. difficile ‑associated diarrhea. In these patients, serum vancomycin concentrations reached therapeutic levels for the treatment of systemic infections. Some patients with inflammatory disorders of the intestinal mucosa also may have significant systemic absorption of vancomycin. These patients may be at risk for the development of adverse reactions associated with higher doses of FIRVANQ; therefore, monitoring of serum concentrations of vancomycin may be appropriate in some instances, e.g., in patients with renal insufficiency and/or colitis or in those receiving concomitant therapy with an aminoglycoside antibacterial drug. 5.3 Nephrotoxicity Nephrotoxicity (e.g., reports of renal failure, renal impairment, blood creatinine increased) has occurred following oral vancomycin hydrochloride therapy in randomized controlled clinical trials and can occur either during or after completion of therapy. The risk of nephrotoxicity is increased in patients over 65 years of age [ see Adverse Reactions ( 6.1 ) and Use in Specific Populations ( 8.5 ) ]. In patients over 65 years of age, including those with normal renal function prior to treatment, renal function should be monitored during and following treatment with FIRVANQ to detect potential vancomycin- induced nephrotoxicity. 5.4 Ototoxicity Ototoxicity has occurred in patients receiving vancomycin. It may be transient or permanent. It has been reported mostly in patients who have been given high intravenous doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent, such as an aminoglycoside. Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity [ see Adverse Reactions ( 6.2 ) ]. 5.5 Severe Dermatologic Reactions Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear lgA bullous dermatosis (LABD) have been reported in association with the use of vancomycin. Cutaneous signs or symptoms reported include skin rashes, mucosal lesions, and blisters. Discontinue FIRVANQ at the first appearance of signs and symptoms of TEN, SJS, DRESS, AGEP, or LABD. 5.6 Potential for Microbial Overgrowth Use of FIRVANQ may result in the overgrowth of non‑susceptible bacteria. If superinfection occurs during therapy, appropriate measures should be taken. 5.7 Development of Drug-Resistant Bacteria Prescribing FIRVANQ in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug‑resistant bacteria. 5.8 Hemorrhagic Occlusive Retinal Vasculitis (HORV) Hemorrhagic occlusive retinal vasculitis, including permanent loss of vision, occurred in patients receiving intracameral or intravitreal administration of vancomycin during or after cataract surgery. The safety and efficacy of vancomycin administered by the intracameral or intravitreal route have not been established by adequate and well‑controlled studies. Vancomycin is not indicated for prophylaxis of endophthalmitis."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The most common adverse reactions (≥ 10%) were nausea (17%), abdominal pain (15%), and hypokalemia (13%). ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Azurity Pharmaceuticals, Inc. at 1‑855-379-0383, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. The data described below reflect exposure to vancomycin hydrochloride in 260 adult subjects in two Phase 3 clinical trials for the treatment of C. difficile ‑associated diarrhea. In both trials, subjects received vancomycin hydrochloride 125 mg orally four times daily. The mean duration of treatment was 9.4 days. The median age of patients was 67, ranging between 19 and 96 years of age. Patients were predominantly Caucasian (93%), and 52% were male. Adverse reactions occurring in ≥ 5% of vancomycin hydrochloride‑treated subjects are shown in Table 2 . The most common adverse reactions associated with vancomycin hydrochloride (≥ 10%) were nausea, abdominal pain, and hypokalemia. Table 2: Common (≥ 5%) Adverse Reactions* for Vancomycin Hydrochloride Reported in Clinical Trials for Treatment of C. difficile Associated Diarrhea * Adverse reaction rates were derived from the incidence of treatment‑emergent adverse events. System/Organ Class Adverse Reaction Vancomycin Hydrochloride (%) (N=260) Gastrointestinal disorders Nausea 17 Abdominal pain 15 Vomiting 9 Diarrhea 9 Flatulence 8 General disorders and administration site conditions Pyrexia 9 Edema peripheral 6 Fatigue 5 Infections and infestations Urinary tract infection 8 Metabolism and nutrition disorders Hypokalemia 13 Musculoskeletal and connective tissue disorders Back pain 6 Nervous system disorders Headache 7 Nephrotoxicity (e.g., reports of renal failure, renal impairment, blood creatinine increased) occurred in 5% of subjects treated with vancomycin hydrochloride. Nephrotoxicity following vancomycin hydrochloride typically first occurred within one week after completion of treatment (median day of onset was Day 16). Nephrotoxicity following vancomycin hydrochloride occurred in 6% of subjects over 65 years of age and 3% of subjects 65 years of age and younger [ see Warnings and Precautions ( 5.3 ) ]. Nephrotoxicity can also occur during oral vancomycin administration. The incidences of hypokalemia, urinary tract infection, peripheral edema, insomnia, constipation, anemia, depression, vomiting, and hypotension were higher among subjects over 65 years of age than in subjects 65 years of age and younger [ see Use in Specific Populations ( 8.5 ) ]. Discontinuation of study drug due to adverse events occurred in 7% of subjects treated with vancomycin hydrochloride. The most common adverse events leading to discontinuation of vancomycin hydrochloride were C. difficile colitis (< 1%), nausea (< 1%), and vomiting (< 1%). 6.2 Postmarketing Experience The following adverse reactions have been identified during post‑approval use of vancomycin hydrochloride. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Ototoxicity : Cases of hearing loss associated with intravenously administered vancomycin have been reported. Most of these patients had kidney dysfunction or a preexisting hearing loss or were receiving concomitant treatment with an ototoxic drug [ see Warnings and Precautions ( 5.4 ) ]. Vertigo, dizziness, and tinnitus have been reported. Skin and Subcutaneous Tissue Disorders: Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear lgA bullous dermatosis (LABD) [ see Warnings and Precautions ( 5.5 ) ], rashes (including exfoliative dermatitis). Hematopoietic : Reversible neutropenia, usually starting 1 week or more after onset of intravenous therapy with vancomycin or after a total dose of more than 25 g, has been reported. Neutropenia appears to be promptly reversible when vancomycin is discontinued. Thrombocytopenia has been reported. Miscellaneous : Anaphylaxis, drug fever, chills, nausea, eosinophilia, and vasculitis have been reported with the administration of vancomycin. A condition has been reported with oral vancomycin that is similar to the IV–induced syndrome with symptoms consistent with anaphylactoid reactions, including hypotension, wheezing, dyspnea, urticaria, pruritus, flushing of the upper body (“vancomycin infusion reaction”), pain and muscle spasm of the chest and back. These reactions usually resolve within 20 minutes but may persist for several hours."
+  ],
+  "adverse_reactions_table": [
+   "<table ID=\"_Ref38297854\" cellpadding=\"3.6pt\" width=\"75%\"><caption>Table 2: Common (&#x2265; 5%) Adverse Reactions* for Vancomycin Hydrochloride Reported in Clinical Trials for Treatment of C. difficile Associated Diarrhea</caption><col width=\"28%\"/><col width=\"28%\"/><col width=\"30%\"/><tfoot><tr><td align=\"left\" colspan=\"3\" styleCode=\"Botrule\" valign=\"top\">* Adverse reaction rates were derived from the incidence of treatment&#x2011;emergent adverse events.</td></tr></tfoot><tbody><tr styleCode=\"Toprule\"><td styleCode=\"Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">System/Organ Class</content></paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Adverse Reaction</content></paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Vancomycin Hydrochloride   (%) (N=260) </content></paragraph></td></tr><tr><td rowspan=\"5\" styleCode=\"Toprule \" valign=\"top\"><paragraph>Gastrointestinal disorders</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Nausea</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>17</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Abdominal pain</paragraph></td><td valign=\"top\"><paragraph>15</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Vomiting</paragraph></td><td valign=\"top\"><paragraph>9</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Diarrhea</paragraph></td><td valign=\"top\"><paragraph>9</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"top\"><paragraph>Flatulence</paragraph></td><td styleCode=\"Botrule \" valign=\"top\"><paragraph>8</paragraph></td></tr><tr><td rowspan=\"3\" styleCode=\"Toprule \" valign=\"top\"><paragraph>General disorders and administration site conditions</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Pyrexia</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>9</paragraph></td></tr><tr><td valign=\"top\"><paragraph>Edema peripheral</paragraph></td><td valign=\"top\"><paragraph>6</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"top\"><paragraph>Fatigue</paragraph></td><td styleCode=\"Botrule \" valign=\"top\"><paragraph>5</paragraph></td></tr><tr><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>Infections and infestations</paragraph></td><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>Urinary tract infection</paragraph></td><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>8</paragraph></td></tr><tr><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>Metabolism and nutrition disorders</paragraph></td><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>Hypokalemia</paragraph></td><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>13</paragraph></td></tr><tr><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>Musculoskeletal and connective tissue disorders</paragraph></td><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>Back pain</paragraph></td><td styleCode=\"Toprule Botrule \" valign=\"top\"><paragraph>6</paragraph></td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Nervous system disorders</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Headache</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>7</paragraph></td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS No drug interaction studies have been conducted using orally administered vancomycin hydrochloride products."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Geriatrics : In patients over 65 years of age, including those with normal renal function prior to treatment, renal function should be monitored during and following treatment with vancomycin hydrochloride to detect potential vancomycin induced nephrotoxicity. ( 5.3 ) ( 6.1 ) ( 8.5 ) ( 14.1 ) 8.1 Pregnancy Risk Summary There are no available data on FIRVANQ use in pregnant women to inform a drug-associated risk of major birth defects or miscarriage. Available published data on vancomycin use in pregnancy during the second and third trimesters have not shown an association with adverse pregnancy-related outcomes (see Data ) . Vancomycin did not show adverse developmental effects when administered intravenously to pregnant rats and rabbits during organogenesis at doses less than or equal to the recommended maximum human dose based on body surface area (see Data ) . All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Human Data A published study evaluated hearing loss and nephrotoxicity in infants of pregnant intravenous drug users treated with vancomycin for suspected or documented methicillin‑resistant S. aureus in the second or third trimester. The comparison groups were 10 non‑intravenous drug‑dependent patients who received no treatment, and 10 untreated intravenous drug‑dependent patients served as substance abuse controls. No infant in the vancomycin-exposed group had abnormal sensorineural hearing at 3 months of age or nephrotoxicity. A published prospective study assessed outcomes in 55 pregnant women with a positive Group B Streptococcus culture and a high‑risk penicillin allergy with resistance to clindamycin or unknown sensitivity who were administered vancomycin at the time of delivery. Vancomycin dosing ranged from the standard 1 g intravenously every 12 hours to 20 mg/kg intravenous every 8 hours (maximum individual dose 2 g). No major adverse reactions were recorded either in the mothers or their newborns. None of the newborns had sensorineural hearing loss. Neonatal renal function was not examined, but all of the newborns were discharged in good condition. Animal Data Vancomycin did not cause fetal malformations when administered during organogenesis to pregnant rats (gestation days 6 to 15) and rabbits (gestation days 6 to 18) at the equivalent recommended maximum human dose (based on body surface area comparisons) of 200 mg/kg/day IV to rats or 120 mg/kg/day IV to rabbits. No effects on fetal weight or development were seen in rats at the highest dose tested or in rabbits given 80 mg/kg/day (approximately 1 and 0.8 times the recommended maximum human dose based on body surface area, respectively). Maternal toxicity was observed in rats (at doses 120 mg/kg and above) and rabbits (at 80 mg/kg and above). 8.2 Lactation Risk Summary There are insufficient data to inform the levels of vancomycin in human milk. However, systemic absorption of vancomycin following oral administration is expected to be minimal [ see Clinical Pharmacology ( 12.3 ) ]. There are no data on the effects of FIRVANQ on the breastfed infant or milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for FIRVANQ and any potential adverse effects on the breastfed infant from FIRVANQ or from the underlying maternal condition. 8.4 Pediatric Use FIRVANQ is indicated in pediatric patients less than 18 years of age for the treatment of C. difficile ‑associated diarrhea and enterocolitis caused by S. aureus (including methicillin‑resistant strains) [ see Indications and Usage ( 1 ) and Dosage and Administration ( 2.3 ) ]. 8.5 Geriatric Use In clinical trials, 54% of vancomycin hydrochloride‑treated subjects were > 65 years of age. Of these, 40% were between the ages of > 65 and 75, and 60% were > 75 years of age. Clinical studies with vancomycin hydrochloride in C. difficile ‑associated diarrhea have demonstrated that geriatric subjects are at increased risk of developing nephrotoxicity following treatment with oral vancomycin hydrochloride, which may occur during or after completion of therapy. In patients over 65 years of age, including those with normal renal function prior to treatment, renal function should be monitored during and following treatment with vancomycin hydrochloride to detect potential vancomycin-induced nephrotoxicity [ see Warnings and Precautions( 5.3 ), Adverse Reactions ( 6.1 ) and Clinical Studies ( 14.1 ) ]. Patients over 65 years of age may take longer to respond to therapy compared to patients 65 years of age and younger [ see Clinical Studies ( 14.1 ) ]. Clinicians should be aware of the importance of appropriate duration of vancomycin hydrochloride treatment in patients over 65 years of age and not discontinue or switch to alternative treatment prematurely."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no available data on FIRVANQ use in pregnant women to inform a drug-associated risk of major birth defects or miscarriage. Available published data on vancomycin use in pregnancy during the second and third trimesters have not shown an association with adverse pregnancy-related outcomes (see Data ) . Vancomycin did not show adverse developmental effects when administered intravenously to pregnant rats and rabbits during organogenesis at doses less than or equal to the recommended maximum human dose based on body surface area (see Data ) . All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Human Data A published study evaluated hearing loss and nephrotoxicity in infants of pregnant intravenous drug users treated with vancomycin for suspected or documented methicillin‑resistant S. aureus in the second or third trimester. The comparison groups were 10 non‑intravenous drug‑dependent patients who received no treatment, and 10 untreated intravenous drug‑dependent patients served as substance abuse controls. No infant in the vancomycin-exposed group had abnormal sensorineural hearing at 3 months of age or nephrotoxicity. A published prospective study assessed outcomes in 55 pregnant women with a positive Group B Streptococcus culture and a high‑risk penicillin allergy with resistance to clindamycin or unknown sensitivity who were administered vancomycin at the time of delivery. Vancomycin dosing ranged from the standard 1 g intravenously every 12 hours to 20 mg/kg intravenous every 8 hours (maximum individual dose 2 g). No major adverse reactions were recorded either in the mothers or their newborns. None of the newborns had sensorineural hearing loss. Neonatal renal function was not examined, but all of the newborns were discharged in good condition. Animal Data Vancomycin did not cause fetal malformations when administered during organogenesis to pregnant rats (gestation days 6 to 15) and rabbits (gestation days 6 to 18) at the equivalent recommended maximum human dose (based on body surface area comparisons) of 200 mg/kg/day IV to rats or 120 mg/kg/day IV to rabbits. No effects on fetal weight or development were seen in rats at the highest dose tested or in rabbits given 80 mg/kg/day (approximately 1 and 0.8 times the recommended maximum human dose based on body surface area, respectively). Maternal toxicity was observed in rats (at doses 120 mg/kg and above) and rabbits (at 80 mg/kg and above)."
+  ],
+  "risks": [
+   "Risk Summary There are no available data on FIRVANQ use in pregnant women to inform a drug-associated risk of major birth defects or miscarriage. Available published data on vancomycin use in pregnancy during the second and third trimesters have not shown an association with adverse pregnancy-related outcomes (see Data ) . Vancomycin did not show adverse developmental effects when administered intravenously to pregnant rats and rabbits during organogenesis at doses less than or equal to the recommended maximum human dose based on body surface area (see Data ) . All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.",
+   "Risk Summary There are insufficient data to inform the levels of vancomycin in human milk. However, systemic absorption of vancomycin following oral administration is expected to be minimal [ see Clinical Pharmacology ( 12.3 ) ]. There are no data on the effects of FIRVANQ on the breastfed infant or milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for FIRVANQ and any potential adverse effects on the breastfed infant from FIRVANQ or from the underlying maternal condition."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use FIRVANQ is indicated in pediatric patients less than 18 years of age for the treatment of C. difficile ‑associated diarrhea and enterocolitis caused by S. aureus (including methicillin‑resistant strains) [ see Indications and Usage ( 1 ) and Dosage and Administration ( 2.3 ) ]."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use In clinical trials, 54% of vancomycin hydrochloride‑treated subjects were > 65 years of age. Of these, 40% were between the ages of > 65 and 75, and 60% were > 75 years of age. Clinical studies with vancomycin hydrochloride in C. difficile ‑associated diarrhea have demonstrated that geriatric subjects are at increased risk of developing nephrotoxicity following treatment with oral vancomycin hydrochloride, which may occur during or after completion of therapy. In patients over 65 years of age, including those with normal renal function prior to treatment, renal function should be monitored during and following treatment with vancomycin hydrochloride to detect potential vancomycin-induced nephrotoxicity [ see Warnings and Precautions( 5.3 ), Adverse Reactions ( 6.1 ) and Clinical Studies ( 14.1 ) ]. Patients over 65 years of age may take longer to respond to therapy compared to patients 65 years of age and younger [ see Clinical Studies ( 14.1 ) ]. Clinicians should be aware of the importance of appropriate duration of vancomycin hydrochloride treatment in patients over 65 years of age and not discontinue or switch to alternative treatment prematurely."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Supportive care is advised, with maintenance of glomerular filtration. Vancomycin is poorly removed by dialysis. Hemofiltration and hemoperfusion with polysulfone resin have been reported to result in increased vancomycin clearance. For current information on the management of overdosage, contact the National Poison Control Center at 1‑800‑222‑1222 or www.poison.org ."
+  ],
+  "description": [
+   "11 DESCRIPTION FIRVANQ for oral administration contains the hydrochloride salt of vancomycin, a tricyclic glycopeptide antibiotic derived from Amycolatopsis orientalis (formerly Nocardia orientalis ), which has the chemical formula C 66 H 75 Cl 2 N 9 O 24 •HCl. The molecular weight of vancomycin hydrochloride is 1485.71 g/mol. Vancomycin hydrochloride has the structural formula: Each FIRVANQ kit contains a bottle of vancomycin hydrochloride USP, as white to almost white or tan to brown powder for oral solution, and a bottle of pre‑measured Grape‑Flavored Diluent, in the strengths and volumes listed in Table 3 . Table 3: Vancomycin Strength, Diluent Volume and Vancomycin Concentration after Reconstitution Vancomycin Strength per Bottle Equivalent Amount of Vancomycin Hydrochloride per Bottle Diluent Volume for FIRVANQ Vancomycin Concentration after Reconstitution 3.75 g 3.84 g 147 mL 25 mg/mL 7.5 g 7.7 g 295 mL 7.5 g 7.7 g 145 mL 50 mg/mL 15.0 g 15.4 g 289 mL The Grape‑Flavored Diluent used to reconstitute the oral solution contains: artificial grape flavor, citric acid (anhydrous), D&C Yellow No. 10, FD&C Red No. 40, purified water, sodium benzoate and sucralose. Vancomycin hydrochloride structural formula"
+  ],
+  "description_table": [
+   "<table ID=\"_Ref38298181\" cellpadding=\"3.6pt\" width=\"75%\"><caption>Table 3: Vancomycin Strength, Diluent Volume and Vancomycin Concentration after Reconstitution</caption><col width=\"21%\"/><col width=\"21%\"/><col width=\"21%\"/><col width=\"21%\"/><thead><tr><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Vancomycin Strength per Bottle</content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Equivalent Amount of Vancomycin Hydrochloride   per Bottle </content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Diluent Volume for FIRVANQ</content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Vancomycin Concentration after Reconstitution</content></th></tr></thead><tbody><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>3.75 g</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>3.84 g</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>147 mL</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>25 mg/mL</paragraph></td></tr><tr><td valign=\"top\"><paragraph>7.5 g</paragraph></td><td valign=\"top\"><paragraph>7.7 g</paragraph></td><td valign=\"top\"><paragraph>295 mL</paragraph></td><td valign=\"top\"/></tr><tr><td valign=\"top\"><paragraph>7.5 g</paragraph></td><td valign=\"top\"><paragraph>7.7 g</paragraph></td><td valign=\"top\"><paragraph>145 mL</paragraph></td><td valign=\"top\"><paragraph>50 mg/mL</paragraph></td></tr><tr><td valign=\"top\"><paragraph>15.0 g</paragraph></td><td valign=\"top\"><paragraph>15.4 g</paragraph></td><td valign=\"top\"><paragraph>289 mL</paragraph></td><td valign=\"top\"/></tr></tbody></table>"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Vancomycin is an antibacterial drug [ see Microbiology ( 12.4 ) ]. 12.3 Pharmacokinetics Vancomycin is poorly absorbed after oral administration. During multiple dosing of vancomycin hydrochloride capsules at 250 mg every 8 hours for 7 doses, fecal concentrations of vancomycin in volunteers exceeded 100 mcg/g in the majority of samples. No blood concentrations were detected and urinary recovery did not exceed 0.76%. In anephric subjects with no inflammatory bowel disease who received vancomycin oral solution 2 g for 16 days, blood concentrations of vancomycin were ≤ 0.66 mcg/mL in 2 of 5 subjects. No measurable blood concentrations were attained in the other 3 subjects. Following doses of 2 g daily, concentrations of drug were > 3100 mcg/g in the feces and < 1 mcg/mL in the serum of subjects with normal renal function who had C. difficile ‑associated diarrhea. After multiple‑dose oral administration of vancomycin, measurable serum concentrations may occur in patients with active C. difficile ‑associated diarrhea, and, in the presence of renal impairment, the possibility of accumulation exists. It should be noted that the total systemic and renal clearances of vancomycin are reduced in the elderly [ see Use in Specific Populations ( 8.5 ) ]. 12.4 Microbiology Mechanism of Action The bactericidal action of vancomycin against the vegetative cells of C. difficile and S. aureus results primarily from inhibition of cell‑wall biosynthesis. In addition, vancomycin alters bacterial‑cell‑membrane permeability and RNA synthesis. Mechanism of Resistance C. difficile Isolates of C. difficile generally have vancomycin minimal inhibitory concentrations (MICs) of < 1 mcg/mL; however, vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported. The mechanism which mediates C. difficile 's decreased susceptibility to vancomycin has not been fully elucidated. S. aureus S. aureus isolates with vancomycin MICs as high as 1024 mcg/mL have been reported. The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material. Vancomycin has been shown to be active against susceptible isolates of the following bacteria in clinical infections [ see Indications and Usage ( 1 ) ]. Anaerobic gram‑positive bacteria C. difficile isolates associated with C. difficile ‑associated diarrhea. Gram‑positive bacteria S. aureus (including methicillin‑resistant isolates) associated with enterocolitis."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Vancomycin is an antibacterial drug [ see Microbiology ( 12.4 ) ]."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Vancomycin is poorly absorbed after oral administration. During multiple dosing of vancomycin hydrochloride capsules at 250 mg every 8 hours for 7 doses, fecal concentrations of vancomycin in volunteers exceeded 100 mcg/g in the majority of samples. No blood concentrations were detected and urinary recovery did not exceed 0.76%. In anephric subjects with no inflammatory bowel disease who received vancomycin oral solution 2 g for 16 days, blood concentrations of vancomycin were ≤ 0.66 mcg/mL in 2 of 5 subjects. No measurable blood concentrations were attained in the other 3 subjects. Following doses of 2 g daily, concentrations of drug were > 3100 mcg/g in the feces and < 1 mcg/mL in the serum of subjects with normal renal function who had C. difficile ‑associated diarrhea. After multiple‑dose oral administration of vancomycin, measurable serum concentrations may occur in patients with active C. difficile ‑associated diarrhea, and, in the presence of renal impairment, the possibility of accumulation exists. It should be noted that the total systemic and renal clearances of vancomycin are reduced in the elderly [ see Use in Specific Populations ( 8.5 ) ]."
+  ],
+  "microbiology": [
+   "12.4 Microbiology Mechanism of Action The bactericidal action of vancomycin against the vegetative cells of C. difficile and S. aureus results primarily from inhibition of cell‑wall biosynthesis. In addition, vancomycin alters bacterial‑cell‑membrane permeability and RNA synthesis. Mechanism of Resistance C. difficile Isolates of C. difficile generally have vancomycin minimal inhibitory concentrations (MICs) of < 1 mcg/mL; however, vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported. The mechanism which mediates C. difficile 's decreased susceptibility to vancomycin has not been fully elucidated. S. aureus S. aureus isolates with vancomycin MICs as high as 1024 mcg/mL have been reported. The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material. Vancomycin has been shown to be active against susceptible isolates of the following bacteria in clinical infections [ see Indications and Usage ( 1 ) ]. Anaerobic gram‑positive bacteria C. difficile isolates associated with C. difficile ‑associated diarrhea. Gram‑positive bacteria S. aureus (including methicillin‑resistant isolates) associated with enterocolitis."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No long‑term carcinogenesis studies in animals have been conducted. At concentrations up to 1000 mcg/mL, vancomycin had no mutagenic effect in vitro in the mouse lymphoma forward mutation assay or the primary rat hepatocyte unscheduled DNA synthesis assay. The concentrations tested in vitro were above the peak plasma vancomycin concentrations of 20 to 40 mcg/mL usually achieved in humans after slow infusion of the maximum recommended dose of 1 g. Vancomycin had no mutagenic effect in vivo in the Chinese hamster sister chromatid exchange assay (400 mg/kg IP) or the mouse micronucleus assay (800 mg/kg IP). No definitive fertility studies have been conducted."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No long‑term carcinogenesis studies in animals have been conducted. At concentrations up to 1000 mcg/mL, vancomycin had no mutagenic effect in vitro in the mouse lymphoma forward mutation assay or the primary rat hepatocyte unscheduled DNA synthesis assay. The concentrations tested in vitro were above the peak plasma vancomycin concentrations of 20 to 40 mcg/mL usually achieved in humans after slow infusion of the maximum recommended dose of 1 g. Vancomycin had no mutagenic effect in vivo in the Chinese hamster sister chromatid exchange assay (400 mg/kg IP) or the mouse micronucleus assay (800 mg/kg IP). No definitive fertility studies have been conducted."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES 14.1 Diarrhea Associated with Clostridium difficile In two trials, vancomycin hydrochloride 125 mg orally four times daily for 10 days was evaluated in 266 adult subjects with C. difficile ‑associated diarrhea (CDAD). Enrolled subjects were 18 years of age or older and received no more than 48 hours of treatment with oral vancomycin hydrochloride or oral/intravenous metronidazole in the 5 days preceding enrollment. CDAD was defined as ≥ 3 loose or watery bowel movements within the 24 hours preceding enrollment, and the presence of either C. difficile toxin A or B, or pseudomembranes on endoscopy within the 72 hours preceding enrollment. Subjects with fulminant C. difficile disease, sepsis with hypotension, ileus, peritoneal signs or severe hepatic disease were excluded. Efficacy analyses were performed on the Full Analysis Set (FAS), which included randomized subjects who received at least one dose of vancomycin hydrochloride and had any post‑dosing investigator evaluation data (N = 259; 134 in Trial 1 and 125 in Trial 2). The demographic profile and baseline CDAD characteristics of enrolled subjects were similar in the two trials. Vancomycin hydrochloride‑treated subjects had a median age of 67 years, were mainly white (93%), and male (52%). CDAD was classified as severe (defined as 10 or more unformed bowel movements per day or white blood cell count (WBC) ≥ 15000/mm 3 ) in 25% of subjects, and 47% were previously treated for CDAD. Efficacy was assessed by using clinical success, defined as diarrhea resolution and the absence of severe abdominal discomfort due to CDAD, on Day 10. An additional efficacy endpoint was the time to resolution of diarrhea, defined as the beginning of diarrhea resolution that was sustained through the end of the prescribed active treatment period. The results for clinical success for vancomycin hydrochloride‑treated subjects in both trials are shown in Table 4 . Table 4: Clinical Success Rates (Full Analysis Set) Clinical Success Rate Vancomycin Hydrochloride % (N) 95% Confidence Interval Trial 1 81.3 (134) (74.4, 88.3) Trial 2 80.8 (125) (73.5, 88.1) The median time to resolution of diarrhea was 5 days and 4 days in Trial 1 and Trial 2, respectively. For subjects older than 65 years of age, the median time to resolution was 6 days and 4 days in Trial 1 and Trial 2, respectively. In subjects with diarrhea resolution at end‑of‑treatment with vancomycin hydrochloride, recurrence of CDAD during the following four weeks occurred in 25 of 107 (23%) and 18 of 102 (18%) in Trial 1 and Trial 2, respectively. Restriction Endonuclease Analysis (REA) was used to identify C. difficile baseline isolates in the BI group. In Trial 1, the vancomycin hydrochloride‑treated subjects were classified at baseline as follows: 31 (23%) with BI strain, 69 (52%) with non‑BI strain, and 34 (25%) with unknown strain. Clinical success rates were 87% for BI strain, 81% for non‑BI strain, and 76% for unknown strain. In subjects with diarrhea resolution at end‑of‑treatment with vancomycin hydrochloride, recurrence of CDAD during the following four weeks occurred in 7 of 26 subjects with BI strain, 12 of 56 subjects with non‑BI strain, and 6 of 25 subjects with unknown strain."
+  ],
+  "clinical_studies_table": [
+   "<table ID=\"_Ref38298334\" cellpadding=\"3.6pt\" width=\"75%\"><caption>Table 4: Clinical Success Rates (Full Analysis Set)</caption><col width=\"28%\"/><col width=\"28%\"/><col width=\"28%\"/><tbody><tr styleCode=\"Toprule\"><td styleCode=\"Botrule \" valign=\"middle\"/><td styleCode=\"Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Clinical Success Rate   Vancomycin Hydrochloride % (N) </content></paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">95% Confidence Interval</content></paragraph></td></tr><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>Trial 1</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>81.3 (134)</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>(74.4, 88.3)</paragraph></td></tr><tr styleCode=\"Botrule\"><td valign=\"top\"><paragraph>Trial 2</paragraph></td><td valign=\"top\"><paragraph>80.8 (125)</paragraph></td><td valign=\"top\"><paragraph>(73.5, 88.1)</paragraph></td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied Each FIRVANQ kit contains a bottle of vancomycin hydrochloride USP, as white to almost white or tan to brown powder for oral solution, and a bottle of pre‑measured Grape‑Flavored Diluent, in the strengths and volumes listed in Table 5 . Table 5: Vancomycin Strength, Diluent Volume and National Drug Code (NDC) Numbers Vancomycin Strength per Bottle Diluent Volume for FIRVANQ NDC Numbers 3.75 g 147 mL 65628‑204‑05 7.5 g 295 mL 65628‑205‑10 7.5 g 145 mL 65628‑206‑05 15.0 g 289 mL 65628‑208‑10 Storage and Handling Store the FIRVANQ kit at refrigerated conditions, 2°C to 8°C (36°F to 46°F). Store reconstituted solutions of FIRVANQ at 2°C to 8°C [ see Dosage and Administration ( 2.4 ) ]. Do not freeze. Keep container tightly closed. Protect from light."
+  ],
+  "how_supplied_table": [
+   "<table ID=\"_Ref38298369\" cellpadding=\"3.6pt\" width=\"75%\"><caption>Table 5: Vancomycin Strength, Diluent Volume and National Drug Code (NDC) Numbers</caption><col width=\"28%\"/><col width=\"28%\"/><col width=\"28%\"/><thead><tr><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Vancomycin Strength per Bottle</content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">Diluent Volume for FIRVANQ</content></th><th align=\"left\" styleCode=\"Botrule \" valign=\"middle\"><content styleCode=\"bold\">NDC Numbers</content></th></tr></thead><tbody><tr><td styleCode=\"Toprule \" valign=\"top\"><paragraph>3.75 g</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>147 mL</paragraph></td><td styleCode=\"Toprule \" valign=\"top\"><paragraph>65628&#x2011;204&#x2011;05</paragraph></td></tr><tr><td valign=\"top\"><paragraph>7.5 g</paragraph></td><td valign=\"top\"><paragraph>295 mL</paragraph></td><td valign=\"top\"><paragraph>65628&#x2011;205&#x2011;10</paragraph></td></tr><tr><td valign=\"top\"><paragraph>7.5 g</paragraph></td><td valign=\"top\"><paragraph>145 mL</paragraph></td><td valign=\"top\"><paragraph>65628&#x2011;206&#x2011;05</paragraph></td></tr><tr><td valign=\"top\"><paragraph>15.0 g</paragraph></td><td valign=\"top\"><paragraph>289 mL</paragraph></td><td valign=\"top\"><paragraph>65628&#x2011;208&#x2011;10</paragraph></td></tr></tbody></table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Severe Dermatologic Reactions Advise patients about the signs and symptoms of serious skin manifestations. Instruct patients to stop taking FIRVANQ immediately and promptly seek medical attention at the first signs or symptoms of skin rash, mucosal lesions or blisters, [ see Warnings and Precautions ( 5.5 ) ]. Antibacterial Resistance Patients should be counseled that antibacterial drugs including FIRVANQ should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When FIRVANQ is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by FIRVANQ or other antibacterial drugs in the future. Important Administration and Storage Instructions Instruct the patient or caregiver to [ see Dosage and Administration ( 2.4 ) ]: Shake the reconstituted solutions of FIRVANQ well before each use and to use an oral dosing device that measures the appropriate volume of the oral solution in milliliters. Store the reconstituted solutions of FIRVANQ at refrigerated conditions, 2° C to 8° C (36° F to 46° F) when not in use. Discard reconstituted solutions of FIRVANQ after 14 days, or if it appears hazy or contains particulates."
+  ],
+  "set_id": "5aca5508-b577-446c-9980-ab4c7582b4b9",
+  "id": "5693e540-a3bf-f5fe-e063-6394a90ab1cc",
+  "effective_time": "20260714",
+  "version": "12"
+ }
+}
