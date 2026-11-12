@@ -46,7 +46,14 @@ def meta(r):
             "product_type": o.get("product_type", []), "application_number": o.get("application_number", []),
             "n_sections": len([k for k in r if k not in SKIP_KEYS])}
 
+def is_er(r):
+    o = r.get("openfda", {})
+    txt = " ".join(r.get("description", []) + r.get("indications_and_usage", [])[:1] + o.get("brand_name", []) + o.get("generic_name", [])).lower()
+    return any(k in txt for k in ("extended-release", "extended release", "transdermal", " er ")) or any(b.upper().endswith((" ER", " XR", " LA", "TTS")) for b in o.get("brand_name", []))
+
 def score(r, gen, route="", brand_pref=""):
+    ir = route.endswith("-IR")
+    route = route[:-3] if ir else route
     o = r.get("openfda", {})
     brand = [b.lower() for b in o.get("brand_name", [])]
     want_brand = bool(brand_pref) and any(brand_pref.lower() in b for b in brand)
@@ -55,7 +62,7 @@ def score(r, gen, route="", brand_pref=""):
     is_nda = any(a.startswith(("NDA", "BLA")) for a in o.get("application_number", []))
     rx = "HUMAN PRESCRIPTION DRUG" in o.get("product_type", [])
     has_dose = "dosage_and_administration" in r
-    return (want_brand, want_route, has_dose, rx, is_nda, is_brand, len(r), r.get("effective_time", ""))
+    return (want_brand, (not is_er(r)) if ir else True, want_route, has_dose, rx, is_nda, is_brand, len(r), r.get("effective_time", ""))
 
 def find(gen, brand=""):
     G = gen.upper()
