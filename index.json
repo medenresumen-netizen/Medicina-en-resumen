@@ -1,11 +1,17 @@
 {
- "updated": "2026-11-12T11:02Z",
- "n": 416,
+ "updated": "2026-11-13T22:49Z",
+ "n": 424,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
   "cefepima-enmetazobactam",
-  "acido-obeticolico"
+  "acido-obeticolico",
+  "antiveneno-latrodectus",
+  "antiveneno-coralillo",
+  "inmunoglobulina-antirrabica",
+  "vacuna-antirrabica-imovax",
+  "vacuna-antirrabica-rabavert",
+  "vacuna-tdap"
  ],
  "labels": [
   {
@@ -1417,6 +1423,22 @@
    "n_candidates": 1
   },
   {
+   "id_es": "cetirizina",
+   "generic_en": "cetirizine hydrochloride",
+   "brand": [
+    "Cetirizine Hydrochloride"
+   ],
+   "manufacturer": [
+    "Bionpharma Inc."
+   ],
+   "effective_time": "20251024",
+   "set_id": "41d7af88-87b4-370e-e063-6294a90a8af6",
+   "application": [
+    "ANDA078488"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "cianocobalamina",
    "generic_en": "cyanocobalamin",
    "brand": [
@@ -1989,6 +2011,22 @@
    "n_candidates": 8
   },
   {
+   "id_es": "difenhidramina-iv",
+   "generic_en": "diphenhydramine hydrochloride",
+   "brand": [
+    "Diphenhydramine"
+   ],
+   "manufacturer": [
+    "Avenacy, LLC"
+   ],
+   "effective_time": "20250516",
+   "set_id": "00f862aa-6917-45c7-b6aa-1bebb0a45e14",
+   "application": [
+    "ANDA205336"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "digoxina",
    "generic_en": "digoxin",
    "brand": [
@@ -2241,6 +2279,22 @@
    "set_id": "20635579-c92d-4f6c-a332-1096d51002f2",
    "application": [
     "NDA020164"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "epinefrina-autoinyector",
+   "generic_en": "epinephrine",
+   "brand": [
+    "EPIPEN"
+   ],
+   "manufacturer": [
+    "Asclemed USA, Inc."
+   ],
+   "effective_time": "20230829",
+   "set_id": "311af6d9-20c0-4b87-b236-4185bfa49988",
+   "application": [
+    "NDA019430"
    ],
    "n_candidates": 25
   },
@@ -2515,6 +2569,54 @@
     "NDA021445"
    ],
    "n_candidates": 25
+  },
+  {
+   "id_es": "faboterapico-alacran-anascorp",
+   "generic_en": "centruroides (scorpion) immune f(ab')2 (equine)",
+   "brand": [
+    "ANASCORP"
+   ],
+   "manufacturer": [
+    "Rare Disease Therapeutics, Inc"
+   ],
+   "effective_time": "20250716",
+   "set_id": "5cb65048-a30c-48e5-8bc8-897983d08068",
+   "application": [
+    "BLA125335"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "faboterapico-crotalidos-anavip",
+   "generic_en": "crotalidae immune f(ab')2 (equine)",
+   "brand": [
+    "ANAVIP"
+   ],
+   "manufacturer": [
+    "Rare Disease Therapeutics, Inc"
+   ],
+   "effective_time": "20260123",
+   "set_id": "a16596a5-e87e-40c2-8e34-cea5839849c3",
+   "application": [
+    "BLA125488"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "faboterapico-crotalidos-crofab",
+   "generic_en": "crotalidae polyvalent immune fab",
+   "brand": [
+    "CroFab"
+   ],
+   "manufacturer": [
+    "BTG International Inc."
+   ],
+   "effective_time": "20260413",
+   "set_id": "77abd784-3387-420d-abdc-4fe97215d233",
+   "application": [
+    "BLA103788"
+   ],
+   "n_candidates": 1
   },
   {
    "id_es": "famotidina",
@@ -3347,6 +3449,38 @@
     "BLA103772"
    ],
    "n_candidates": 3
+  },
+  {
+   "id_es": "inmunoglobulina-antirrabica-kedrab",
+   "generic_en": "rabies immune globulin (human)",
+   "brand": [
+    "KEDRAB"
+   ],
+   "manufacturer": [
+    "Kedrion Biopharma Inc."
+   ],
+   "effective_time": "20240221",
+   "set_id": "53f2a23b-c479-4c24-8cab-ee7a33a2633e",
+   "application": [
+    "BLA125613"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "inmunoglobulina-antitetanica",
+   "generic_en": "tetanus immune globulin (human)",
+   "brand": [
+    "HyperTET"
+   ],
+   "manufacturer": [
+    "GRIFOLS USA, LLC"
+   ],
+   "effective_time": "20261101",
+   "set_id": "393fa198-7e07-4162-bd0a-9d873f1544a9",
+   "application": [
+    "BLA101142"
+   ],
+   "n_candidates": 1
   },
   {
    "id_es": "inmunoglobulina-iv",

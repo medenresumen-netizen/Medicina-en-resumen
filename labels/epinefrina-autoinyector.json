@@ -1,0 +1,774 @@
+{
+ "id_es": "epinefrina-autoinyector",
+ "generic_en": "epinephrine",
+ "search": "brand:EPIPEN",
+ "pref": "epinephrine|INTRAMUSCULAR|EPIPEN",
+ "downloaded": "2026-11-13T22:49Z",
+ "chosen": {
+  "set_id": "311af6d9-20c0-4b87-b236-4185bfa49988",
+  "id": "040d1b88-235a-aa09-e063-6394a90adbad",
+  "effective_time": "20230829",
+  "version": "1",
+  "brand_name": [
+   "EPIPEN"
+  ],
+  "generic_name": [
+   "EPINEPHRINE"
+  ],
+  "manufacturer_name": [
+   "Asclemed USA, Inc."
+  ],
+  "route": [
+   "INTRAMUSCULAR"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA019430"
+  ],
+  "n_sections": 28
+ },
+ "candidates": [
+  {
+   "set_id": "cc4ebb51-6020-4339-a36a-ec2380b7d28e",
+   "id": "8d5f102d-e131-4a66-980b-6c1f531cf466",
+   "effective_time": "20261103",
+   "version": "3",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "GLENMARK PHARMACEUTICALS INC., USA"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219239"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "3b1ac82f-6920-4e40-a77e-598398679f2d",
+   "id": "4fd69f94-839b-4e45-baee-4ed7d77b7faf",
+   "effective_time": "20261028",
+   "version": "3",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211363"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "577f987e-d3af-4f49-ab44-5db9cbf46601",
+   "id": "cff9d22e-947e-497f-a58b-635e55434623",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220400"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "60efd409-3555-4182-a68d-1cd7bc0d1bfc",
+   "id": "cdf8a0ef-38b7-4e08-8496-942ac752ebe3",
+   "effective_time": "20261019",
+   "version": "14",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA218475"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "a8e98483-9404-43bc-8800-b827c63c5134",
+   "id": "5dafdc69-8110-601d-e063-6394a90a6106",
+   "effective_time": "20261012",
+   "version": "1",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019430"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "79ca73ca-d3c0-40af-9dec-e2f4ce669cda",
+   "id": "eec70351-16c3-4e07-9c0a-17ef8aa02161",
+   "effective_time": "20260923",
+   "version": "6",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219239"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5f40988b-8365-4f7b-84d1-b88e053725cf",
+   "id": "5bbbd802-1766-6081-e063-6294a90af4a5",
+   "effective_time": "20260918",
+   "version": "1",
+   "brand_name": [
+    "Auvi-Q"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA201739"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "bfc7ab3d-1e0e-4fd9-b6df-09603eb5808c",
+   "id": "5bae43b2-02c0-017a-e063-6394a90a7a57",
+   "effective_time": "20260917",
+   "version": "3",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020800"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "55befbe4-c819-4367-bbe7-de5841786aac",
+   "id": "5a946b3f-1f12-76bb-e063-6394a90a5984",
+   "effective_time": "20260903",
+   "version": "3",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAOCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213708"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "5ba14408-c8fb-4734-aad9-ee19696acac2",
+   "id": "5a1b54bc-f2f1-2894-e063-6294a90a177e",
+   "effective_time": "20260828",
+   "version": "5",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA205029"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5725a519-3ad6-7e5e-e063-6394a90a111f",
+   "id": "58b8f853-3b3b-74ba-e063-6394a90a8e1d",
+   "effective_time": "20260810",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220562"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5726eeca-db88-ba8e-e063-6294a90a927d",
+   "id": "582bb7c6-e26c-48e9-e063-6394a90a0fe7",
+   "effective_time": "20260803",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA205029"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "a6afb9e8-1db9-480c-8d31-58c5c870ca49",
+   "id": "88a60798-b160-482a-b8f8-c52de27af8dc",
+   "effective_time": "20260729",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAOCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213708"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "4f83895f-638c-4515-af03-7c41ae60a42e",
+   "id": "b5fda38c-bff1-4c35-81cd-ea1c6cc39700",
+   "effective_time": "20260715",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA215425"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "6e811e28-0199-4df7-a916-5940c632401d",
+   "id": "6b61346c-8e95-472e-a93e-ea8e8aac8d1e",
+   "effective_time": "20260713",
+   "version": "6",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211363"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "4a79ad00-405b-4454-a692-7f1daac4adec",
+   "id": "a9e8f660-e2e2-43f2-8596-8eed35ecb825",
+   "effective_time": "20260710",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "CIVICA, INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA215425"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "386519ba-7a44-4edd-9eb1-748419b7a71b",
+   "id": "e1635816-3233-45bd-9cbe-dcbeadb2deca",
+   "effective_time": "20260706",
+   "version": "15",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAOCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA205029"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "3b7a4364-668d-4eb2-a20c-04adc35aabe4",
+   "id": "373c1f0e-d2e7-40bf-8a39-fdf404fc91df",
+   "effective_time": "20260701",
+   "version": "24",
+   "brand_name": [
+    "Adrenalin"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204200",
+    "NDA204640"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "0172280c-f7d6-4613-9dbd-f94d3ae5825a",
+   "id": "53c13065-d694-9bb5-e063-6294a90ac630",
+   "effective_time": "20260608",
+   "version": "5",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211363"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "1e8ebac1-5b32-47f9-a930-86a98a24dccc",
+   "id": "64ac9b7d-5060-4318-923f-ab1e0a25c708",
+   "effective_time": "20260505",
+   "version": "2",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220562"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "2052f9db-7d76-443b-b702-b6b499f9a4b8",
+   "id": "50325060-a6dc-c9ae-e063-6294a90a5a34",
+   "effective_time": "20260424",
+   "version": "2",
+   "brand_name": [
+    "neffy"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA214697"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "3a8f5ca2-6c1d-4011-9266-ba93c7a3abb9",
+   "id": "50319f9c-7ccf-533f-e063-6294a90ab546",
+   "effective_time": "20260424",
+   "version": "2",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090589"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "a1758142-a905-401d-8961-05829f51023a",
+   "id": "8c27cd52-6215-4cf8-98cc-f8816bf4c690",
+   "effective_time": "20260409",
+   "version": "7",
+   "brand_name": [
+    "neffy"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "ARS Pharmaceuticals Operations, Inc."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA214697"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "a5ce0c01-dd47-4997-ab09-490de65d3835",
+   "id": "1fbe8c4a-ff3c-48b6-b42f-19c948510266",
+   "effective_time": "20260408",
+   "version": "10",
+   "brand_name": [
+    "Adrenalin"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204640"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "b27e06aa-5b40-44bc-8de7-80b027580a3b",
+   "id": "949de41f-6427-4b8d-bb4b-c2dab1436309",
+   "effective_time": "20260408",
+   "version": "11",
+   "brand_name": [
+    "Adrenalin"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204640"
+   ],
+   "n_sections": 28
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE EpiPen are indicated in the emergency treatment of allergic reactions (Type I) including anaphylaxis to stinging insects (e.g., order Hymenoptera, which include bees, wasps, hornets, yellow jackets and fire ants) and biting insects (e.g., triatoma, mosquitoes), allergen immunotherapy, foods, drugs, diagnostic testing substances (e.g., radiocontrast media) and other allergens, as well as idiopathic anaphylaxis or exercise-induced anaphylaxis. EpiPen are intended for immediate administration in patients who are determined to be at increased risk for anaphylaxis, including individuals with a history of anaphylactic reactions. Anaphylactic reactions may occur within minutes after exposure and consist of flushing, apprehension, syncope, tachycardia, thready or unobtainable pulse associated with a fall in blood pressure, convulsions, vomiting, diarrhea and abdominal cramps, involuntary voiding, wheezing, dyspnea due to laryngeal spasm, pruritus, rashes, urticaria or angioedema. EpiPen are intended for immediate administration as emergency supportive therapy only and are not a substitute for immediate medical care. EpiPen are non-selective alpha and beta-adrenergic receptor agonist indicated in the emergency treatment of allergic reactions (Type I) including anaphylaxis. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Patients greater than or equal to 30 kg (66 lbs): EpiPen 0.3 mg ( 2 ) Inject intramuscularly or subcutaneously into the anterolateral aspect of the thigh, through clothing if necessary. Each device is a single-dose injection . ( 2 ) 2.1 Recommended Dosage According to Patient Body Weight Patients greater than or equal to 30 kg (approximately 66 pounds or more): EpiPen 0.3 mg 2.2 Administration Instructions Inject the single-dose EpiPen intramuscularly or subcutaneously into the anterolateral aspect of the thigh, through clothing if necessary. Do not inject intravenously, and do not inject into buttocks, into digits, hands or feet [see Warnings and Precautions (5.2) ]. Instruct caregivers of young children who are prescribed an EpiPen and who may be uncooperative and kick or move during an injection to hold the leg firmly in place and limit movement prior to and during an injection [see Warnings and Precautions (5.2) ] . Each EpiPen is a single-dose epinephrine injection for single use. Since the doses of epinephrine delivered from EpiPen are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary. With severe persistent anaphylaxis, repeat injections with an additional EpiPen may be necessary. More than two sequential doses of epinephrine should only be administered under direct medical supervision [see Warnings and Precautions (5.1) ] . The epinephrine solution in the clear window of the EpiPen Auto-Injector should be inspected visually for particulate matter and discoloration. Discarding After Use: The EpiPen each contain 2 mL epinephrine solution. Approximately 1.7 mL remains in the auto-injector after activation, but is not available for future use, and should be discarded ."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection: 0.3 mg (0.3 mg/0.3 mL), clear and colorless solution in single-dose pre-filled auto-injector Injection: 0.3 mg (0.3 mg/0.3 mL) single-dose pre-filled auto-injector ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS None None ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS In conjunction with use, seek immediate medical or hospital care. ( 5.1 ) Do not inject intravenously, into buttock, or into digits, hands, or feet. ( 5.2 ) To minimize the risk of injection related injury, hold the child’s leg firmly in place and limit movement prior to and during injection when administering to young children. ( 5.2 ) Rare cases of serious skin and soft tissue infections have been reported following epinephrine injection. Advise patients to seek medical care if they develop signs or symptoms of infection. ( 5.3 ) The presence of a sulfite in this product should not deter use. ( 5.4 ) Administer with caution in patients with heart disease; may aggravate angina pectoris or produce ventricular arrhythmias. ( 5.5 ) 5.1 Emergency Treatment EpiPen are intended for immediate administration as emergency supportive therapy and are not intended as a substitute for immediate medical care. In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care. More than two sequential doses of epinephrine should only be administered under direct medical supervision [ see Indications and Usage (1) , Dosage and Administration (2) and Patient Counseling Information (17) ]. 5.2 Injection-Related Complications EpiPen should only be injected into the anterolateral aspect of the thigh [ see Dosage and Administration (2) and Patient Counseling Information (17) ]. Do not inject intravenously Large doses or accidental intravenous injection of epinephrine may result in cerebral hemorrhage due to sharp rise in blood pressure. Rapidly acting vasodilators can counteract the marked pressor effects of epinephrine if there is such inadvertent administration. Do not inject into buttock Injection into the buttock may not provide effective treatment of anaphylaxis. Advise the patient to go immediately to the nearest emergency room for further treatment of anaphylaxis. Additionally, injection into the buttock has been associated with Clostridial infections (gas gangrene). Cleansing with alcohol does not kill bacterial spores, and therefore, does not lower this risk. Do not inject into digits, hands or feet Since epinephrine is a strong vasoconstrictor, accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area. Advise the patient to go immediately to the nearest emergency room and to inform the healthcare provider in the emergency room of the location of the accidental injection. Treatment of such inadvertent administration should consist of vasodilation, in addition to further appropriate treatment of anaphylaxis [ see Adverse Reactions (6) ]. Hold leg firmly during injection Lacerations, bent needles, and embedded needles have been reported when EpiPen have been injected into the thigh of young children who are uncooperative and kick or move during an injection. To minimize the risk of injection related injury when administering, hold the child’s leg firmly in place and limit movement prior to and during injection. 5.3 Serious Infections at the Injection Site Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis. Clostridium spores can be present on the skin and introduced into the deep tissue with subcutaneous or intramuscular injection. While cleansing with alcohol may reduce presence of bacteria on the skin, alcohol cleansing does not kill Clostridium spores. To decrease the risk of Clostridium infection, do not inject EpiPen into the buttock [see Warnings and Precautions (5.2) ]. Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site. 5.4 Allergic Reactions Associated with Sulfite The presence of a sulfite in this product should not deter administration of the drug for treatment of serious allergic or other emergency situations even if the patient is sulfite-sensitive. Epinephrine is the preferred treatment for serious allergic reactions or other emergency situations even though this product contains sodium metabisulfite, a sulfite that may, in other products, cause allergic-type reactions including anaphylactic symptoms or life-threatening or less severe asthmatic episodes in certain susceptible persons. The alternatives to using epinephrine in a life-threatening situation may not be satisfactory. 5.5 Disease Interactions Some patients may be at greater risk for developing adverse reactions after epinephrine administration. Despite these concerns, it should be recognized that the presence of these conditions is not a contraindication to epinephrine administration in an acute, life-threatening situation. Therefore, patients with these conditions, and/or any other person who might be in a position to administer EpiPen to a patient experiencing anaphylaxis should be carefully instructed in regard to the circumstances under which epinephrine should be used. Patients with Heart Disease Epinephrine should be administered with caution to patients who have heart disease, including patients with cardiac arrhythmias, coronary artery or organic heart disease, or hypertension . In such patients, or in patients who are on drugs that may sensitize the heart to arrhythmias , epinephrine may precipitate or aggravate angina pectoris as well as produce ventricular arrhythmias [ see Drug Interactions (7) and Adverse Reactions (6) ]. Other Patients and Diseases Epinephrine should be administered with caution to patients with hyperthyroidism, diabetes, elderly individuals, and pregnant women. Patients with Parkinson’s disease may notice a temporary worsening of symptoms."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Due to the lack of randomized, controlled clinical trials of epinephrine for the treatment of anaphylaxis, the true incidence of adverse reactions associated with the systemic use of epinephrine is difficult to determine. Adverse reactions reported in observational trials, case reports, and studies are listed below. Common adverse reactions to systemically administered epinephrine include anxiety; apprehensiveness; restlessness; tremor; weakness; dizziness; sweating; palpitations; pallor; nausea and vomiting; headache; and/or respiratory difficulties. These symptoms occur in some persons receiving therapeutic doses of epinephrine, but are more likely to occur in patients with hypertension or hyperthyroidism [ see Warnings and Precautions (5.5) ]. Cardiovascular Reactions Arrhythmias, including fatal ventricular fibrillation, have been reported, particularly in patients with underlying cardiac disease or those receiving certain drugs [ see Warnings and Precautions (5.5) and Drug Interactions (7) ]. Rapid rises in blood pressure have produced cerebral hemorrhage, particularly in elderly patients with cardiovascular disease [ see Warnings and Precautions (5.5) ]. Angina may occur in patients with coronary artery disease [ see Warnings and Precautions (5.5) ]. Rare cases of stress cardiomyopathy have been reported in patients treated with epinephrine. Reactions from Accidental Injection and/or Improper Technique Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area [ see Warnings and Precautions (5.2) ]. Adverse reactions experienced as a result of accidental injections may include increased heart rate, local reactions including injection site pallor, coldness and hypoesthesia or injury at the injection site resulting in bruising, bleeding, discoloration, erythema or skeletal injury. Lacerations, bent needles, and embedded needles have been reported when EpiPen has been injected into the thigh of young children who are uncooperative and kick or move during the injection [ see Warning and Precautions (5.2) ]. Injection into the buttock has resulted in cases of gas gangrene [ see Warnings and Precautions (5.2) ] . Skin and Soft Tissue Infections Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported following epinephrine injection, including EpiPen, in the thigh [ see Warnings and Precautions (5.3) ]. Adverse reactions to epinephrine include anxiety, apprehensiveness, restlessness, tremor, weakness, dizziness, sweating, palpitations, pallor, nausea and vomiting, headache, and/or respiratory difficulties. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Cardiac Glycosides, Diuretics, and Anti-arrhythmics Patients who receive epinephrine while concomitantly taking cardiac glycosides, diuretics, or anti-arrhythmics should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.5) ] . Antidepressants, Monoamine Oxidase Inhibitors, Levothyroxine, and Antihistamines The effects of epinephrine may be potentiated by tricyclic antidepressants, monoamine oxidase inhibitors, levothyroxine sodium, and certain antihistamines, notably chlorpheniramine, tripelennamine, and diphenhydramine. Beta-Adrenergic Blockers The cardiostimulating and bronchodilating effects of epinephrine are antagonized by beta- adrenergic blocking drugs, such as propranolol. Alpha-Adrenergic Blockers The vasoconstricting and hypertensive effects of epinephrine are antagonized by alpha- adrenergic blocking drugs, such as phentolamine. Ergot Alkaloids Ergot alkaloids may also reverse the pressor effects of epinephrine. Cardiac glycosides or diuretics: observe for development of cardiac arrhythmias. ( 7 ) Tricyclic antidepressants, monoamine oxidase inhibitors, levothyroxine sodium, and certain antihistamines potentiate effects of epinephrine. ( 7 ) Beta-adrenergic blocking drugs antagonize cardiostimulating and bronchodilating effects of epinephrine. ( 7 ) Alpha-adrenergic blocking drugs antagonize vasoconstricting and hypertensive effects of epinephrine. ( 7 ) Ergot alkaloids may reverse the pressor effects of epinephrine. ( 7 )"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Elderly patients may be at greater risk of developing adverse reactions. ( 5.5 , 8.5 ) 8.1 Pregnancy Risk Summary There are no adequate and well controlled studies of the acute effect of epinephrine in pregnant women. In animal reproductive studies, epinephrine administered by the subcutaneous route to rabbits, mice, and hamsters during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended human intramuscular and subcutaneous dose on a mg/m 2 basis. Epinephrine is the first-line medication of choice for the treatment of anaphylaxis during pregnancy in humans. Epinephrine should be used for treatment of anaphylaxis during pregnancy in the same manner as it is used in non-pregnant patients. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated maternal and embryo/fetal risk During pregnancy, anaphylaxis can be catastrophic and can lead to hypoxic-ischemic encephalopathy and permanent central nervous system damage or death in the mother and, more commonly, in the fetus or neonate. The prevalence of anaphylaxis occurring during pregnancy is reported to be approximately 3 cases per 100,000 deliveries. Management of anaphylaxis during pregnancy is similar to management in the general population. Epinephrine is the first line-medication of choice for treatment of anaphylaxis; it should be used in the same manner in pregnant and non-pregnant patients. In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care. Data Animal Data In an embryofetal development study with rabbits dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including gastroschisis and embryonic lethality) at doses approximately 40 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days). In an embryofetal development study with mice dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including embryonic lethality) at doses approximately 8 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days). These effects were not seen in mice at approximately 4 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m 2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days). In an embryofetal development study with hamsters dosed during the period of organogenesis from gestation days 7 to 10, epinephrine was shown to be teratogenic at doses approximately 7 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 0.5 mg/kg/day). 8.2 Lactation Risk Summary There is no information on the presence of epinephrine in human milk, the effects on breastfed infants, or the effects on milk production. Epinephrine is the first line-medication of choice for treatment of anaphylaxis; it should be used in the same manner in breastfeeding and non-breastfeeding patients. 8.4 Pediatric Use EpiPen may be administered to pediatric patients at a dosage appropriate to body weight [ see Dosage and Administration (2.1) ] . Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults. Since the doses of epinephrine delivered from EpiPen are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary. 8.5 Geriatric Use Clinical studies for the treatment of anaphylaxis have not been performed in subjects aged 65 and over to determine whether they respond differently from younger subjects. However, other reported clinical experience with use of epinephrine for the treatment of anaphylaxis has identified that geriatric patients may be particularly sensitive to the effects of epinephrine. Therefore, EpiPen should be administered with caution in elderly individuals, who may be at greater risk for developing adverse reactions after epinephrine administration [ see Warnings and Precautions (5.5) , Overdosage (10) ]."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no adequate and well controlled studies of the acute effect of epinephrine in pregnant women. In animal reproductive studies, epinephrine administered by the subcutaneous route to rabbits, mice, and hamsters during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended human intramuscular and subcutaneous dose on a mg/m 2 basis. Epinephrine is the first-line medication of choice for the treatment of anaphylaxis during pregnancy in humans. Epinephrine should be used for treatment of anaphylaxis during pregnancy in the same manner as it is used in non-pregnant patients. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Clinical Considerations Disease-associated maternal and embryo/fetal risk During pregnancy, anaphylaxis can be catastrophic and can lead to hypoxic-ischemic encephalopathy and permanent central nervous system damage or death in the mother and, more commonly, in the fetus or neonate. The prevalence of anaphylaxis occurring during pregnancy is reported to be approximately 3 cases per 100,000 deliveries. Management of anaphylaxis during pregnancy is similar to management in the general population. Epinephrine is the first line-medication of choice for treatment of anaphylaxis; it should be used in the same manner in pregnant and non-pregnant patients. In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care. Data Animal Data In an embryofetal development study with rabbits dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including gastroschisis and embryonic lethality) at doses approximately 40 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days). In an embryofetal development study with mice dosed during the period of organogenesis, epinephrine was shown to be teratogenic (including embryonic lethality) at doses approximately 8 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days). These effects were not seen in mice at approximately 4 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m 2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days). In an embryofetal development study with hamsters dosed during the period of organogenesis from gestation days 7 to 10, epinephrine was shown to be teratogenic at doses approximately 7 times the maximum recommended intramuscular or subcutaneous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 0.5 mg/kg/day)."
+  ],
+  "risks": [
+   "Risk Summary There are no adequate and well controlled studies of the acute effect of epinephrine in pregnant women. In animal reproductive studies, epinephrine administered by the subcutaneous route to rabbits, mice, and hamsters during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended human intramuscular and subcutaneous dose on a mg/m 2 basis. Epinephrine is the first-line medication of choice for the treatment of anaphylaxis during pregnancy in humans. Epinephrine should be used for treatment of anaphylaxis during pregnancy in the same manner as it is used in non-pregnant patients. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.",
+   "Risk Summary There is no information on the presence of epinephrine in human milk, the effects on breastfed infants, or the effects on milk production. Epinephrine is the first line-medication of choice for treatment of anaphylaxis; it should be used in the same manner in breastfeeding and non-breastfeeding patients."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use EpiPen may be administered to pediatric patients at a dosage appropriate to body weight [ see Dosage and Administration (2.1) ] . Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults. Since the doses of epinephrine delivered from EpiPen are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies for the treatment of anaphylaxis have not been performed in subjects aged 65 and over to determine whether they respond differently from younger subjects. However, other reported clinical experience with use of epinephrine for the treatment of anaphylaxis has identified that geriatric patients may be particularly sensitive to the effects of epinephrine. Therefore, EpiPen should be administered with caution in elderly individuals, who may be at greater risk for developing adverse reactions after epinephrine administration [ see Warnings and Precautions (5.5) , Overdosage (10) ]."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdosage of epinephrine may produce extremely elevated arterial pressure, which may result in cerebrovascular hemorrhage, particularly in elderly patients. Overdosage may also result in pulmonary edema because of peripheral vascular constriction together with cardiac stimulation. Treatment consists of rapidly acting vasodilators or alpha-adrenergic blocking drugs and/or respiratory support. Epinephrine overdosage can also cause transient bradycardia followed by tachycardia, and these may be accompanied by potentially fatal cardiac arrhythmias. Premature ventricular contractions may appear within one minute after injection and may be followed by multifocal ventricular tachycardia (prefibrillation rhythm). Subsidence of the ventricular effects may be followed by atrial tachycardia and occasionally by atrioventricular block. Treatment of arrhythmias consists of administration of a beta-adrenergic blocking drug such as propranolol. Overdosage sometimes results in extreme pallor and coldness of the skin, metabolic acidosis, and kidney failure. Suitable corrective measures must be taken in such situations."
+  ],
+  "description": [
+   "11 DESCRIPTION EpiPen (epinephrine injection, USP) 0.3 mg are single-dose auto-injectors and combination products containing drug and device components. Each EpiPen Auto-Injector, 0.3 mg delivers a single dose of 0.3 mg epinephrine from epinephrine injection, USP 0.3 mg/0.3 mL in a sterile solution. Each 0.3 mL in the EpiPen Auto-Injector contains 0.3 mg epinephrine, 1.8 mg sodium chloride, 0.5 mg sodium metabisulfite, hydrochloric acid to adjust pH, and Water for Injection. The pH range is 2.2-5.0. Epinephrine is a sympathomimetic catecholamine. Chemically, epinephrine is (-)-3,4- Dihydroxy-α-[(methylamino)methyl]benzyl alcohol with the following structure: Epinephrine solution deteriorates rapidly on exposure to air or light, turning pink from oxidation to adrenochrome and brown from the formation of melanin. Replace EpiPen if the epinephrine solution appears discolored (pinkish or brown color), cloudy, or contains particles. Thoroughly review the patient instructions and operation of EpiPen with patients and caregivers prior to use [ see Patient Counseling Information (17) ]. Epinephrine Structural Formula"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Epinephrine acts on both alpha- and beta-adrenergic receptors. 12.2 Pharmacodynamics Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension. Through its action on beta-adrenergic receptors, epinephrine causes bronchial smooth muscle relaxation and helps alleviate bronchospasm, wheezing and dyspnea that may occur during anaphylaxis. Epinephrine also alleviates pruritus, urticaria, and angioedema and may relieve gastrointestinal and genitourinary symptoms associated with anaphylaxis because of its relaxer effects on the smooth muscle of the stomach, intestine, uterus and urinary bladder. When given subcutaneously or intramuscularly, epinephrine has a rapid onset and short duration of action."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Epinephrine acts on both alpha- and beta-adrenergic receptors."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension. Through its action on beta-adrenergic receptors, epinephrine causes bronchial smooth muscle relaxation and helps alleviate bronchospasm, wheezing and dyspnea that may occur during anaphylaxis. Epinephrine also alleviates pruritus, urticaria, and angioedema and may relieve gastrointestinal and genitourinary symptoms associated with anaphylaxis because of its relaxer effects on the smooth muscle of the stomach, intestine, uterus and urinary bladder. When given subcutaneously or intramuscularly, epinephrine has a rapid onset and short duration of action."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies to evaluate the carcinogenic potential of epinephrine have not been conducted. Epinephrine and other catecholamines have been shown to have mutagenic potential in vitro . Epinephrine was positive in the Salmonella bacterial reverse mutation assay, positive in the mouse lymphoma assay, and negative in the in vivo micronucleus assay. Epinephrine is an oxidative mutagen based on the E. coli WP2 Mutoxitest bacterial reverse mutation assay. This should not prevent the use of epinephrine where indicated [see Indications and Usage (1) ]. The potential for epinephrine to impair reproductive performance has not been evaluated, but epinephrine has been shown to decrease implantation in female rabbits dosed subcutaneously with 1.2 mg/kg/day (40-fold the highest human intramuscular or subcutaneous daily dose) during gestation days 3 to 9."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies to evaluate the carcinogenic potential of epinephrine have not been conducted. Epinephrine and other catecholamines have been shown to have mutagenic potential in vitro . Epinephrine was positive in the Salmonella bacterial reverse mutation assay, positive in the mouse lymphoma assay, and negative in the in vivo micronucleus assay. Epinephrine is an oxidative mutagen based on the E. coli WP2 Mutoxitest bacterial reverse mutation assay. This should not prevent the use of epinephrine where indicated [see Indications and Usage (1) ]. The potential for epinephrine to impair reproductive performance has not been evaluated, but epinephrine has been shown to decrease implantation in female rabbits dosed subcutaneously with 1.2 mg/kg/day (40-fold the highest human intramuscular or subcutaneous daily dose) during gestation days 3 to 9."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied EpiPen 2-Pak (epinephrine) injection is supplied with 2 single-dose pre-filled auto-injectors and 1 auto-injector trainer device: 0.3 mg/0.3 mL (NDC 76420-584-02 relabeled from NDC 49502-500-02) EpiPen 2-Pak ® also include an S-clip to clip two carrier tubes together. Storage and Handling Protect from light. Epinephrine is light sensitive and should be stored in the carrier tube provided to protect it from light. Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature]. Do not refrigerate. Before using, check to make sure the solution in the auto-injector is clear and colorless. Replace the auto-injector if the solution is discolored (pinkish or brown color), cloudy, or contains particle. Properly dispose all used, unwanted or expired EpiPen auto-injectors."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION See FDA-Approved Patient Labeling ( Patient Information and Instructions for Use ) A healthcare provider should review the patient instructions and operation of EpiPen in detail, with the patient or caregiver. Epinephrine is essential for the treatment of anaphylaxis. Patients who are at risk of or with a history of severe allergic reactions (anaphylaxis) to insect stings or bites, foods, drugs, and other allergens, as well as idiopathic and exercise-induced anaphylaxis, should be carefully instructed about the circumstances under which epinephrine should be used. Administration Instruct patients and/or caregivers in the appropriate use of EpiPen. EpiPen should be injected into the middle of the outer thigh (through clothing, if necessary). Each device is a single-use injection. Advise patients to seek immediate medical care in conjunction with administration of EpiPen. Instruct caregivers to hold the leg of young children firmly in place and limit movement prior to and during injection. Lacerations, bent needles, and embedded needles have been reported when EpiPen have been injected into the thigh of young children who are uncooperative and kick or move during an injection [ see Warnings and Precautions (5.2) ]. Instruct patients and/or caregivers to throw away the blue safety release immediately after using EpiPen. This small part may pose a choking hazard for children. Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen carton. A printed label on the surface of EpiPen shows instructions for use and a diagram depicting the injection process. Training Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of EpiPen in an allergic emergency. The Trainer may be used multiple times. A Trainer device is provided in 2-Pak cartons. Instruct patients and/or caregivers to immediately place the blue safety release back on the Trainer and reset it after practicing. This small part may pose a choking hazard for children. Adverse Reactions Epinephrine may produce symptoms and signs that include an increase in heart rate, the sensation of a more forceful heartbeat, palpitations, sweating, nausea and vomiting, difficulty breathing, pallor, dizziness, weakness or shakiness, headache, apprehension, nervousness, or anxiety. These signs and symptoms usually subside rapidly, especially with rest, quiet and recumbency. Patients with hypertension or hyperthyroidism may develop more severe or persistent effects, and patients with coronary artery disease could experience angina. Patients with diabetes may develop increased blood glucose levels following epinephrine administration. Patients with Parkinson’s disease may notice a temporary worsening of symptoms [ see Warnings and Precautions (5.5) ] . Accidental Injection Advise patients to seek immediate medical care in the case of accidental injection. Since epinephrine is a strong vasoconstrictor when injected into the digits, hands, or feet, treatment should be directed at vasodilatation if there is such an accidental injection to these areas [ see Warnings and Precautions (5.2) ]. Serious Infections at the Injection Site Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis. Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site [ see Warnings and Precautions (5.3) ]. Storage and Handling Instruct patients to inspect the epinephrine solution visually through the clear window of the auto-injector periodically. Replace EpiPen if the epinephrine solution appears discolored (pinkish or brown color), cloudy, or contains particles. Epinephrine is light sensitive and should be stored in the carrier tube provided to protect it from light. The carrier tube is not waterproof. Instruct patients that EpiPen must be used or properly disposed once the blue safety release is removed or after use [ see Storage and Handling (16.2) ]. Advise patients and caregivers to give used EpiPen auto-injectors to their healthcare provider for inspection and proper disposal. Advise patients and caregivers to promptly dispose of medicines that are no longer needed. Dispose of expired, unwanted, or unused EpiPen auto-injectors in an FDA-cleared sharps container. Instruct patients not to dispose EpiPen in their household trash. Instruct patients that if they do not have a FDA-cleared sharps disposal container, they may use a household container that is made of a heavy-duty plastic, can be closed with a tight-fitting and puncture-resistant lid without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container. Inform patients that they can visit the FDA website for additional information on disposal of unused medicines. Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen Auto-Injector carton. Relabeled by: Enovachem PHARMACEUTICALS Torrance, CA 90501"
+  ],
+  "spl_patient_package_insert": [
+   "PATIENT INFORMATION and INSTRUCTIONS FOR USE EPIPEN ® [/epeepen/] (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen ® = one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL For allergic emergencies (anaphylaxis) PATIENT INFORMATION Read this Patient Information leaflet carefully before using the EpiPen ® auto-injector and each time you get a refill. There may be new information. Anyone who may be able to administer the EpiPen auto-injector should know how to use it before you have an allergic emergency. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment. What is the most important information I should know about EpiPen? EpiPen are single-dose automatic injection devices (auto-injectors) that contain epinephrine. Epinephrine is a medicine used to treat allergic emergencies (anaphylaxis). Anaphylaxis can be life threatening and can happen within minutes. If untreated, anaphylaxis can lead to death. This allergic emergency can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes. Symptoms of anaphylaxis may include: trouble breathing wheezing hoarseness (changes in the way your voice sounds) hives (raised reddened rash that may itch) severe itching swelling of your face, lips, mouth, or tongue skin rash, redness, or swelling fast heartbeat weak pulse feeling very anxious confusion stomach pain losing control of urine or bowel movements (incontinence) diarrhea or stomach cramps dizziness, fainting, or “passing out” (unconsciousness) 2. Always carry 2 EpiPen auto-injectors with you because sometimes a single dose of epinephrine may not be enough to treat a serious allergic reaction before seeking medical care. You also need to always carry 2 auto-injectors with you if the first auto-injector is activated before the dose can be given. A device that has been activated by accident cannot be used in an allergic emergency (anaphylaxis). Note: The EpiPen auto-injector has been activated when the blue safety top is removed and a “pop” is heard, the orange needle end of the auto-injector is extended, or the medicine viewing window is blocked. You may not know when anaphylaxis will happen. Talk to your healthcare provider if you need more auto-injectors to keep at work, school, or other locations. If you use 1 EpiPen 1 to treat an emergency allergic reaction, be sure to replace it so you always carry 2 auto-injectors. Tell your family members, caregivers, and others where you keep your EpiPen auto-injectors. Make sure they know how to use it before you need it. You may be unable to speak in an allergic emergency. 3. When you have an allergic emergency (anaphylaxis) use your EpiPen auto-injector right away. Get emergency medical help right away even if you have used the EpiPen auto-injector. You can use a second EpiPen auto-injector if symptoms continue or come back or if the first auto-injector is activated before the dose can be given. For this reason, you should carry 2 EpiPen auto-injectors with you at all times. If you need more than 2 doses for an allergic emergency, they must be given by a healthcare provider. What are EpiPen auto-injectors? EpiPen auto-injectors are disposable, prefilled auto-injectors used to treat life-threatening, allergic emergencies in people who are at risk for or have a history of serious allergic emergencies. Each device contains one dose of epinephrine. EpiPen auto-injectors are for immediate administration by you or your caregiver. They do not take the place of emergency medical care. You should get emergency help right away after using your EpiPen auto-injector. EpiPen auto-injectors are for people who have been prescribed this medicine by their healthcare provider. The EpiPen (0.3 mg) auto-injector is for people who weigh 66 pounds or more (30 kilograms or more). It is not known if EpiPen are safe and effective in children who weigh less than 33 pounds (15 kilograms). What should I tell my healthcare provider before using EpiPen ? Before you use your EpiPen auto-injector, tell your healthcare provider about all your medical conditions. Your healthcare provider may give you more instructions about when and how to use EpiPen if you have the following: heart problems or high blood pressure diabetes thyroid problems asthma a history of depression Parkinson’s disease You may also receive more instructions if you: are pregnant or plan to become pregnant. It is not known if epinephrine will harm your unborn baby. are breastfeeding or plan to breastfeed. It is not known if epinephrine passes into your breast milk. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements. Tell your healthcare provider about all of your known allergies. Especially tell your healthcare provider if you take certain asthma medicines. EpiPen other medicines may affect each other, causing side effects. EpiPen may affect the way other medicines work. Other medicines may affect how EpiPen works. Know the medicines you take. Keep a list of all your medicines, including over-the-counter medicines, vitamins and herbal supplements to show your healthcare provider and pharmacist when you get a new medicine. Use your EpiPen auto-injector for treatment of anaphylaxis as prescribed by your healthcare provider, regardless of your medical conditions or the medicines you take. How should I use the EpiPen auto-injector? Use your single-dose EpiPen auto-injector exactly as your healthcare provider tells you to use it. You may need to use a second EpiPen auto-injector if symptoms continue or come back while you wait for emergency help or if the first auto-injector is activated before the dose can be given. If you need more than 2 doses of epinephrine for a single anaphylaxis episode, more doses must be administered by a healthcare provider. EpiPen should be injected into the middle of your outer thigh (upper leg). It can be injected through your clothing if needed. Do not inject into a vein or into the buttocks, fingers, toes, hands or feet. Read and make sure you understand the Instructions for Use at the end of this Patient Information leaflet to learn the right way to use the EpiPen auto-injector. Your healthcare provider will show you how to safely use the EpiPen auto-injector. It is very important that you hold the EpiPen auto-injector down firmly on the middle of the outer thigh (upper leg) for at least 3 full seconds. If you do not hold it in place long enough, the EpiPen auto-injector might not have time to deliver the correct dose of medicine. • Caution: Never put your thumb, fingers or hand over the orange needle end. Never press or push the orange needle end with your thumb, fingers or hand. The needle comes out of the orange needle end. Accidental injection into fingers, hands or feet may cause a loss of blood flow to these areas. If an accidental injection happens, go immediately to the nearest emergency room. Warning: Do not flip the blue safety top off using a thumb or by pulling it sideways, or by bending and twisting the blue safety top. This may cause the device to activate by accident: a “pop” is heard, the orange needle end is extended and the medicine viewing window is blocked. A device that has been activated by accident cannot be used in an emergency. If this happens, replace it with a new EpiPen . When you are ready to inject, pull the blue safety top straight up and away from the auto-injector. Your EpiPen auto-injector may come in a package with a gray trainer and separate Trainer Instructions for Use. The gray trainer contains no medicine and no needle. Keep the trainer and the real EpiPen auto-injectors away from young children. The real EpiPen auto-injectors and trainer are not toys. For young children, use of the trainer and the real EpiPen auto-injectors should be supervised by an adult. Regularly practice with your gray trainer in non-emergency situations to make sure you can safely use the real EpiPen auto-injector in an emergency. Always carry your 2 real EpiPen auto-injectors with you in case of an allergic emergency. Additional training information is available at www.epipen.com . Do not drop the protective case, EpiPen auto-injector or auto-injector. If the protective case or auto-injector is dropped, check for damage and leakage. If damage or leakage is noticed or suspected, throw away (dispose of) the EpiPen auto-injector and protective case and replace it. What are the possible side effects of EpiPen ? EpiPen may cause serious side effects. EpiPen should only be injected into the middle of your outer thigh (upper leg). Do not inject EpiPen into your:oveinsobuttocksofingers, toes, hands or feet If you accidentally inject EpiPen into any place other than the middle of your outer thigh, go to the nearest emergency room right away. Tell the healthcare provider where on your body you received the accidental injection. Rarely, people who have used the EpiPen auto-injector may get infections at the injection site within a few days of an injection. Some of these infections can be serious. Call your healthcare provider right away if you see any of the following at an injection site:oredness that does not go awayoswellingotendernessothe area feels warm to the touch Cuts on the skin, bent needles and needles that remain in the skin after the injection can happen when young children kick or move during an injection. If you inject a young child with an EpiPen auto-injector, hold their leg firmly in place before and during the 3 second injection to prevent injuries. Follow the Instructions for Use at the end of this Patient Information leaflet. Ask your healthcare provider to show you how to: 1. Hold the young child firmly in place (restrain). 2. With one hand, grip the auto-injector with the orange needle end pointing down. 3. With the other hand, pull the blue safety top straight up and away from the auto-injector. If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your EpiPen auto-injector. Talk to your healthcare provider about all your medical conditions. Common side effects of EpiPen include: fast, irregular or “pounding” heartbeat sweating headache weakness shakiness paleness feelings of over excitement, nervousness or anxiety dizziness nausea or vomiting breathing problems These side effects may go away with rest. Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of EpiPen . For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store EpiPen auto-injectors? Store EpiPen auto-injectors at room temperature between 68° F to 77° F (20° C to 25° C). Keep this medicine out of the sight and reach of young children. Keep protective case in the outer carton to protect from light. When exposed to air or light epinephrine changes quickly to a pinkish or brown color and should not be used. Do not expose to extreme cold or heat. For example, do not store in your vehicle’s glove box or trunk. Do not store in the refrigerator or freezer. Examine the contents in the medicine viewing window of your EpiPen auto-injector regularly. The medicine should be clear. If the medicine is discolored (pinkish or brown color) or contains solid particles, replace the auto-injector. Always keep your 2 EpiPen auto-injectors in the protective cases to prevent damage to the device. The protective case is not waterproof. The blue safety top helps to prevent accidental injection. Keep the blue safety top in place until you need to use the EpiPen auto-injector. After the auto-injector is used, throw away the blue safety top as this may pose a choking hazard for small children. Disposing of an Expired, Unused or Used EpiPen Auto-Injector Your EpiPen auto-injector has an expiration date. Replace the pack of auto-injectors before the expiration date. Throw away (dispose of) expired, unwanted, or unused EpiPen auto-injectors in an FDA-cleared sharps disposal container right away after use. Do not throw away the EpiPen in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: Made of heavy-duty plastic, Can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, Upright and stable during use, Leak-resistant, and Properly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal Visit the FDA’s website (https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know) for more information about how to throw away unused, unwanted or expired medicines. After using your EpiPen auto-injector in an allergic emergency, get emergency medical help right away. Take your used EpiPen auto-injector with you to give to your healthcare provider for disposal. General information about the safe and effective use of EpiPen auto-injectors. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use the EpiPen auto-injector for a condition for which it was not prescribed. Do not give your EpiPen auto-injector to other people. This Patient Information leaflet summarizes the most important information about the EpiPen auto-injectors. If you would like more information, talk to your healthcare provider. You can ask your pharmacist or healthcare provider for information about EpiPen auto-injectors that is written for health professionals. What are the ingredients in EpiPen ? Active Ingredients: epinephrine Inactive Ingredients: sodium chloride, sodium metabisulfite, hydrochloric acid, and water Important Information The EpiPen auto-injector has a yellow colored label. Your EpiPen auto-injector is designed to work through clothing. When receiving an EpiPen auto-injector and before you need to use the EpiPen auto-injector, remove the auto-injector from the protective case and check the auto-injector to make sure the blue safety top is not raised (see Figure D in the Instructions for Use). If the blue safety top is raised, the auto-injector should not be used because the device could activate by accident. Do not try to push the blue safety top back down. Put the auto-injector back in the protective case and replace it with a new EpiPen. Choking hazard : The blue safety top is a small part that may become a choking hazard for children. Throw away the blue safety top immediately after using the EpiPen auto-injector. It is very important that you hold the EpiPen auto-injector down firmly on the middle of the outer thigh (upper leg) for at least 3 full seconds. If you do not hold it in place long enough, the EpiPen auto-injector might not deliver the correct dose of medicine. If an accidental injection happens, get emergency medical help right away. Do not place patient information or any other foreign objects in the protective case with the EpiPen auto-injector, as this may prevent you from removing the auto-injector for use. Each EpiPen auto-injector can be used only 1 time (single-use). The auto-injectors deliver a fixed dose of epinephrine and cannot be reused. Do not try to reuse EpiPen after the device has been activated. It is normal for most of the medicine to remain in the auto-injector after the dose is injected. The correct dose has been administered if the orange needle end is extended to cover the needle and the medicine viewing window is blocked. Incorrect Use and Correct Use of EpiPen Incorrect Use Correct Use and Important Reminders Storage outside the protective case or storage of the EpiPen auto-injector in extreme cold or heat. Always keep your EpiPen stored in the protective case and at room temperature. Keep protective case in the outer carton to protect from light. Wrong storage may stop the EpiPen from working. If the device has been in extreme cold or heat, the EpiPen should be replaced. Failing to remove the auto-injector from the protective case before use. The EpiPen auto-injector must be removed from the protective case it comes in before use. Failing to remove the blue safety top before use. Remove the blue safety top before use. EpiPen will not activate with the blue safety top in place. Activating the auto-injector upside down which will cause an injection into the hand. The needle exits from the orange end of the EpiPen auto-injector, which should be in contact with the outer thigh (upper leg) at a 90˚angle (perpendicular) to the thigh before and during activation. The orange needle end will extend to cover the needle after activation. If you can still see the needle, do not try to reuse the auto-injector. Failing to apply enough force to activate the EpiPen auto-injector. EpiPen should be administered by swinging and pushing the auto-injector firmly against the outer thigh. EpiPen auto-injectors make a distinct pop sound when pushed against the thigh. The pop sound signals that the injection has started. The correct dose has been administered if the orange needle end is extended and the window is blocked. Administering at an injection site other than the outer thigh. Administer EpiPen in the outer thigh only. Failing to hold the auto-injector in place for a full 3 seconds. Hold the EpiPen auto-injector in place for a full 3 seconds following activation (count slowly 1, 2, 3). For more information and video instructions on the use of EpiPen auto-injectors, go to www.epipen.com or call 1-800-395-3376. INSTRUCTIONS FOR USE EPIPEN ® [/epeepen/] (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen ® = one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL for intramuscular and subcutaneous use This Instructions for Use contains information on how to administer the EpiPen auto-injector. Figure A. Single 0.3 mg dose, EpiPen auto-injector (with yellow label) Important Information You Need to Know Before Administering the EpiPen Auto-Injector The single-dose EpiPen auto-injector is for allergic emergency (anaphylaxis) and should be used right away. You can use a second EpiPen auto-injector if symptoms continue or symptoms come back. Before you need to use your EpiPen auto-injector, make sure your healthcare provider shows you the right way to use it. Anyone who may be able to administer the EpiPen auto-injector should also understand how to use it. Carefully read the Instructions for Use in a non-emergency situation and make sure you understand them before using your EpiPen auto-injector. If you have any questions, ask your healthcare provider. It is very important that you hold the EpiPen auto-injector down for at least 3 full seconds. If you do not hold it in place long enough, the EpiPen auto-injector might not have time to deliver the correct dose of medicine. Make sure to always carry 2 EpiPen auto-injectors. One dose may not be enough. Inject EpiPen into the muscle (intramuscular) or under the skin (subcutaneous) in the middle of the outer thigh (see Figure B ). Do not inject EpiPen into any other part of the body. The injection can be given through clothes. Figure B. Inject into middle of the outer thigh Each EpiPen auto-injector can be used only 1 time (single-use). It is normal for most of the medicine to remain in the auto-injector after the dose is injected. The correct dose has been administered if the orange needle end is extended to cover the needle and the medicine viewing window is blocked. Warning: Do not flip the blue safety top off using a thumb or by pulling it sideways, or by bending and twisting the blue safety top. This may cause the device to activate by accident: a “pop” is heard, the orange needle end is extended and the medicine viewing window is blocked. A device that has been activated by accident cannot be used in an emergency. If this happens, replace it with a new EpiPen . Do not take the EpiPen auto-injector apart. Keep the blue safety top in place until you are ready to inject. Always point the orange needle end down (see Figure C ). Keep your fingers, thumb and hand away from the orange needle end. Accidental injection in the fingers, thumb or feet may cause loss of blood flow to these areas. Figure C. Correct way to hold the EpiPen auto-injector with orange needle end pointing down Checking the Blue Safety Top When receiving an EpiPen auto-injector and before you need to use the EpiPen auto-injector, do the following: Remove the EpiPen auto-injector from the protective case and check the auto-injector to make sure the blue safety top is not raised (see Figure D ). If the blue safety top is not raised, the auto-injector is okay to use. Put the auto-injector back in the protective case so that it is ready to be used in an allergic emergency. If the blue safety top is raised (see Figure E ) , the auto-injector should not be used because the device could activate by accident. Do not try to push the blue safety top back down. Put the auto-injector back in the protective case and replace it with a new EpiPen . Preparing to Inject EpiPen Note the following while preparing to inject EpiPen : Remove anything in or around the injection site that blocks you from giving the injection. Check the auto-injector before use. If the auto-injector appears damaged, throw it away (dispose of) and do not use. The gray trainer contains no medicine and no needle. Practice with the gray trainer before an allergic emergency happens to make sure you can safely use the real EpiPen in an emergency. Figure F. Gray Trainer Keep the trainer and the real EpiPen auto-injectors away from young children. The EpiPen auto-injectors and trainer are not toys. Use by young children should be supervised by an adult. While preparing to inject, make sure you know where to inject (see Figure B ) and how to hold the EpiPen auto-injector (see Figure C ). EpiPen auto-injectors have a Never-See-Needle ® that covers the needle before and after you inject (see Figure G ). You should never see a needle. If you can see a needle, do not use the EpiPen auto-injector. Figure G. Never-See-Needle Figure G. Never-See-Needle Make sure the EpiPen auto-injector has not been used. If an EpiPen auto-injector has been used: the orange needle end will be extended (see Step 4 ), the medicine viewing window will be blocked, and the EpiPen auto-injector will no longer fit in the protective case. Preparing to Inject a Child If you are giving EpiPen to a young child, first hold the child firmly in place (restrain) and then use both hands to remove the blue safety top as shown (see Figure J ). Use one hand to hold the auto-injector with the orange needle end pointing down and your other hand to remove the blue safety top to activate the auto-injector. Then, inject in the middle of the outer thigh (see Figure L ). Remember to hold the leg firmly in place before and during the 3 second injection to avoid needlestick injuries including cuts to the thigh. Keep the trainer and the real EpiPen auto-injectors away from young children. The real EpiPen auto-injectors and trainer are not toys. Use by young children should be supervised by an adult. Checking the Medicine Color Examine the liquid in the medicine viewing window of your EpiPen auto-injector regularly. See the information below: Medicine Color: The medicine can be seen through the medicine viewing window located near the middle of the EpiPen auto-injector. To check the medicine color, hold the auto-injector in front of a white background in a well-lit area and look through the medicine viewing window. Figure H. Medicine Viewing Window ✓Use the medicine if it is clear and colorless. Do not use the medicine if it is discolored (pinkish or brown color) or if the medicine has particles floating in it. Throw it away (dispose of) and use a new EpiPen auto-injector (see the section “ Disposing of an Expired, Unused or Used EpiPen Auto-Injector ” on the Patient Information side of this leaflet). Injecting EpiPen Step 1 Slide the EpiPen auto-injector out of the case (Figure I) Remove the auto-injector from the protective case. Figure I. Step 2 Pull off the blue safety top (Figure J) Grip the EpiPen auto-injector with one hand and with the orange needle end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away . Figure J. Note: Do not twist or bend the blue safety top. Failure to pull out the blue safety top correctly (straight up and away) can cause accidental activation. Note: To avoid an accidental injection, never put your thumb, fingers or hand over the orange needle end. If an accidental injection happens, get emergency medical help right away. Step 3 Inject the medicine by self (Figure K) or caregiver (Figure L) administration Place the orange needle end against the outer thigh, through clothing if needed. Push down firmly and hold in place for 3 seconds. Note: EpiPen auto-injectors make a distinct pop sound when pushed against the thigh. This is normal and means that the EpiPen auto-injector is working. After the pop, continue to press the EpiPen auto-injector down firmly on the outer thigh for 3 seconds to make sure that the medicine is given. Figure K. Figure L. Step 4 Check if used (Figure M) Lift the auto-injector straight out from the thigh. The orange needle end will extend to cover the needle. If the needle is visible, do not reuse it. Use a new auto-injector. Throw away the blue safety top. Figure M. Step 5 Get emergency medical help After injecting EpiPen , get emergency medical help right away. You can use a second EpiPen auto-injector if symptoms continue or come back. Take your used EpiPen auto-injector to your healthcare provider. EpiPen are single-dose auto-injectors and cannot be reused. If the needle is visible, do not try to reuse it. Storing EpiPen Auto-Injectors Store the EpiPen auto-injectors at room temperature between 68˚ F to 77˚ F (20˚ C to 25˚ C). Keep protective case in the outer carton to protect from light. When exposed to air or light, the medicine in the EpiPen auto-injector changes rapidly to a pinkish or brown color and should not be used. Disposing of EpiPen Auto-Injectors After using your EpiPen auto-injector, get emergency medical help right away. Take your used auto-injector with you to give to your healthcare provider for disposal. Important: The blue safety top is a small part that may become a choking hazard for children. Throw away the blue safety top immediately after using the EpiPen auto-injector. Your EpiPen auto-injector has an expiration date. Replace it before the expiration date. For more information on how to throw away (dispose of) your expired EpiPen auto-injector, see the section “ Disposing of an Expired, Unused or Used EpiPen Auto-Injector ” on the Patient Information side of this leaflet. Relabeled by: Enovachem PHARMACEUTICALS Torrance, CA 90501 EPIPEN ® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen ® = one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL For more information about EpiPen auto-injectors and proper use of the product, call Mylan at 1-877-446-3679 or visit www.epipen.com for an instructional video. EpiPen Trainer Instructions for Use In an emergency: Do not use the gray Trainer. Use your real yellow EpiPen® auto-injector. Important Information The Trainer label has a gray color. The Trainer contains no medicine and no needle. The orange end of the Trainer is the needle end of the real yellow EpiPen auto-injector. Regularly practice with the gray Trainer in non-emergency situations to make sure you are able to safely use the real yellow EpiPen auto-injector in an emergency situation. Always carry your 2 real yellow EpiPen auto-injectors in case of an allergic emergency. In an actual emergency, you need to use your real yellow EpiPen auto-injector immediately. You should get emergency medical help right away after using your real yellow EpiPen auto-injector. When receiving the real yellow EpiPen auto-injector and before you need to use the real yellow EpiPen auto-injector, check the auto-injector to make sure the blue safety top is not raised (see Patient Information leaflet ). If the blue safety top is raised, the auto-injector should not be used because the device could activate by accident. Do not try to push the blue safety top back down. Put the auto-injector back in the protective case and replace it with a new real yellow EpiPen. Choking hazard: The blue safety top is a small part that may become a choking hazard for children. Put the blue safety top back on the Trainer and reset it immediately after practicing. Keep the gray Trainer away from young children. The Trainer is not a toy. Children should only practice with the Trainer under adult supervision. Carefully read the Instructions for Use for the real yellow EpiPen auto-injector in a non-emergency situation and make sure you understand them before using the real yellow EpiPen . The EpiPen Trainer Familiarize yourself with this gray Trainer. Practice until you are comfortable using it. Your gray Trainer: Figure A. Your Gray Trainer Figure A. Your Gray Trainer Caution: Know the difference between the Trainer and your real yellow EpiPen Auto-Injector Important differences between the Trainer and your real yellow EpiPen auto-injector Trainer (Gray) EpiPen (Yellow) Contains medicine? No Yes Has needle? No Yes Comes in Protective Case? No Yes Color of Label? Gray Yellow Has expiration date? No Yes Can be reused? Yes No (use only one time) Okay to remove and replace blue safety top? Yes No (remove just one time before use) Pressure needed to hold against thigh? Moderate Strong Practice Instructions Using the Trainer Step 1 Pull off the blue safety top (Figure B) Grip the gray Trainer with one hand and with the orange end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away. Note: Do not twist or bend the blue safety top. Warning: Do not flip the blue safety top off using a thumb or by pulling it sideways or by bending and twisting the blue safety top. This may cause the real yellow EpiPen auto-injector to accidentally activate. An EpiPen auto-injector that has been activated by accident cannot be used for a patient in an emergency and must be replaced. Figure B Step 2 Trainer injection simulation by self (Figure C) or caregiver (Figure D) administration Place the orange end against the outer thigh, over clothing if needed. Push down firmly and hold in place for 3 seconds. If practicing an injection on a young child, first hold the child firmly (restrain) and then use one hand to hold the Trainer with the orange end pointing down and your other hand to remove the blue safety top. Hold the leg firmly in place before and during the 3 second practice injection to prevent injuries. Note: The Trainer makes a distinct pop sound when pushed against the thigh. This is normal and means that the auto-injector is working. After the pop, continue to press the Trainer down firmly on the outer thigh for 3 seconds. Figure C Figure D Step 3 Check if used (Figure E) Lift the Trainer straight out from the thigh. Inspect: The Trainer was activated correctly if the orange end is extended. If the orange end is not extended, repeat Step 1 and Step 2. Figure E Step 4 Reset the Trainer (Figure F) Put the blue safety top back on the Trainer immediately. Place the orange end on a hard surface. Squeeze the sides of the orange end and push down on the Trainer with the other hand. Note: This resetting step should never be used with a real yellow EpiPen auto-injector as this may result in injury. Never put your thumb, other fingers, or hand over the orange (needle) end of the real yellow EpiPen auto-injector. Figure F Practice Session Information In case of an allergic emergency, use the real yellow EpiPen auto-injector and not the gray Trainer. Follow instructions above. Repeat as often as needed until you are able to inject quickly and correctly. Regularly practice with the Trainer to make sure that you are able to use the real yellow EpiPen auto-injector in an emergency situation. Reread: The Trainer Instructions for Use The “Patient Information” leaflet that comes with your EpiPen auto-injector Train others who could help you in an emergency: Anyone who may be able to administer the EpiPen auto-injector should know how to help you during an allergic emergency. Before an emergency occurs, have them: Regularly practice preparing the Trainer for injection and simulating an injection Read the Trainer Instructions for Use and the “Patient Information” leaflet For more information about the EpiPen auto-injector and the proper use of the products, go to www.epipen.com . Relabeled by: Enovachem PHARMACEUTICALS Torrance, CA 90501 Figure A. Single 0.3 mg dose, EpiPen auto-injector (with yellow label) and Single 0.15 mg dose, EpiPen Jr auto-injector (with green label) Figure B. Inject into middle of the outer thigh Figure C. Correct way to hold the EpiPen auto-injector with orange needle end pointing down Patient Information Figures D and E Figure F. Gray Trainer Figure G. Never-See-Needle Patient Information Medicine Color Patient Information Figure I Patient Information Figure J Patient Information Figure K Patient Information Figure L Patient Information Figure M Figure A. Your Gray Trainer Trainer EpiPen Practice Instructions Figure B Practice Instructions Figure C Practice Instructions Figure D Practice Instructions Figure E Practice Instructions Figure F"
+  ],
+  "spl_patient_package_insert_table": [
+   "<table width=\"100%\"><col width=\"43%\"/><col width=\"57%\"/><tbody><tr><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Incorrect Use</content></paragraph></td><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Correct Use and</content></paragraph><paragraph><content styleCode=\"bold\">Important Reminders</content></paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Storage outside the protective case or storage of the EpiPen auto-injector in extreme cold or heat.</paragraph></td><td styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>Always keep your EpiPen stored in the protective case and at room temperature. Keep protective case in the outer carton to protect from light. Wrong storage may stop the EpiPen from working. If the device has been in extreme cold or heat, the EpiPen should be replaced.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Failing to remove the auto-injector from the protective case before use.</paragraph></td><td styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>The EpiPen auto-injector must be removed from the protective case it comes in before use.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Failing to remove the blue safety top before use.</paragraph></td><td styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>Remove the blue safety top before use. EpiPen will not activate with the blue safety top in place.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Activating the auto-injector upside down which will cause an injection into the hand.</paragraph></td><td styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>The needle exits from the orange end of the EpiPen auto-injector, which should be in contact with the outer thigh (upper leg) at a 90&#x2DA;angle (perpendicular) to the thigh before and during activation. The orange needle end will extend to cover the needle after activation. If you can still see the needle, do not try to reuse the auto-injector.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Failing to apply enough force to activate the EpiPen auto-injector.</paragraph></td><td styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>EpiPen should be administered by swinging and pushing the auto-injector firmly against the outer thigh. EpiPen auto-injectors make a distinct pop sound when pushed against the thigh. The pop sound signals that the injection has started. The correct dose has been administered if the orange needle end is extended and the window is blocked.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph>Administering at an injection site other than the outer thigh.</paragraph></td><td styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>Administer EpiPen in the outer thigh only.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph>Failing to hold the auto-injector in place for a full 3 seconds.</paragraph></td><td styleCode=\"Botrule Rrule Toprule\" valign=\"top\"><paragraph>Hold the EpiPen auto-injector in place for a full 3 seconds following activation (count slowly 1, 2, 3).</paragraph></td></tr></tbody></table>",
+   "<table width=\"100%\"><col width=\"18%\"/><col width=\"82%\"/><tbody><tr styleCode=\"First Last Toprule\"><td align=\"center\" valign=\"top\"><renderMultiMedia referencedObject=\"DE08CB7D-D847-4C70-8568-980891D482D6\"/></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">Medicine Color:</content></paragraph><list listType=\"unordered\"><item>The medicine can be seen through the medicine viewing window located near the middle of the EpiPen auto-injector.</item></list>To check the medicine color, hold the auto-injector in front of a white background in a well-lit area and look through the medicine viewing window. </td></tr></tbody></table>",
+   "<table width=\"100%\"><col width=\"66%\"/><col width=\"34%\"/><tbody><tr><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 1 Slide the EpiPen auto-injector out of the case (Figure I)</content></paragraph><paragraph>Remove the auto-injector from the protective case.</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"ID_5070b0db-f452-417b-88a8-6c922f531a66\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure I.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 2 Pull off the blue safety top (Figure J)</content></paragraph><paragraph>Grip the EpiPen auto-injector with one hand and with the orange needle end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away <content styleCode=\"bold\">.</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"ID_89a309b5-32e2-4a06-846f-4c53cf76f4ef\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure J.</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Note:</content>Do not twist or bend the blue safety top. Failure to pull out the blue safety top correctly (straight up and away) can cause accidental activation. </paragraph><paragraph/><paragraph><content styleCode=\"bold\">Note:</content>To avoid an accidental injection, never put your thumb, fingers or hand over the orange needle end. If an accidental injection happens, get emergency medical help right away. </paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 3 Inject the medicine by self (Figure K) or caregiver (Figure L) administration</content></paragraph><paragraph/><paragraph>Place the orange needle end against the outer thigh, through clothing if needed.</paragraph><paragraph/><paragraph>Push down firmly and hold in place for 3 seconds.</paragraph><paragraph><content styleCode=\"bold\">Note:</content>EpiPen auto-injectors make a distinct pop sound when pushed against the thigh. This is normal and means that the EpiPen auto-injector is working. After the pop, continue to press the EpiPen auto-injector down firmly on the outer thigh for 3 seconds to make sure that the medicine is given. </paragraph></td><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"E4CC431D-3ED3-4AFA-B6A9-587682C09727\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure K.</paragraph><renderMultiMedia referencedObject=\"ID_8c085b3b-35d2-42c9-98aa-97cf9918510f\"/><paragraph styleCode=\"MultiMediaCaption\">Figure L.</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 4 Check if used (Figure M)</content></paragraph><paragraph>Lift the auto-injector straight out from the thigh.</paragraph><paragraph/><paragraph>The orange needle end will extend to cover the needle. If the needle is visible, do not reuse it. Use a new auto-injector.</paragraph><paragraph/><paragraph>Throw away the blue safety top.</paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"C97BD804-C0F2-476D-B8EC-DBBD580FB4D9\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure M.</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 5 Get emergency medical help</content></paragraph><paragraph/><paragraph>After injecting EpiPen , get emergency medical help right away. You can use a second EpiPen auto-injector if symptoms continue or come back.</paragraph><list listType=\"unordered\"><item>Take your used EpiPen auto-injector to your healthcare provider.</item><item>EpiPen are single-dose auto-injectors and cannot be reused.</item><item>If the needle is visible, do not try to reuse it.</item></list></td></tr></tbody></table>",
+   "<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><tbody><tr><td valign=\"top\"><paragraph/></td><td valign=\"top\"><paragraph><renderMultiMedia referencedObject=\"ID_10d5cdd9-db59-4952-95be-53935f5a333b\"/></paragraph></td><td valign=\"top\"><paragraph><renderMultiMedia referencedObject=\"BDA2DCBB-F1EE-40E2-AF9F-46919A10BE4B\"/></paragraph></td></tr><tr><td valign=\"top\"><paragraph/></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">Trainer (Gray)</content></paragraph></td><td valign=\"top\"><paragraph><content styleCode=\"bold\">EpiPen (Yellow)</content></paragraph></td></tr><tr><td valign=\"top\"><paragraph>Contains medicine?</paragraph></td><td><paragraph><content styleCode=\"bold\">No</content></paragraph></td><td><paragraph><content styleCode=\"bold\">Yes</content></paragraph></td></tr><tr><td valign=\"top\"><paragraph>Has needle?</paragraph></td><td><paragraph><content styleCode=\"bold\">No</content></paragraph></td><td><paragraph><content styleCode=\"bold\">Yes</content></paragraph></td></tr><tr><td valign=\"top\"><paragraph>Comes in Protective Case?</paragraph></td><td><paragraph><content styleCode=\"bold\">No</content></paragraph></td><td><paragraph><content styleCode=\"bold\">Yes</content></paragraph></td></tr><tr><td valign=\"top\"><paragraph>Color of Label?</paragraph></td><td><paragraph><content styleCode=\"bold\">Gray</content></paragraph></td><td><paragraph><content styleCode=\"bold\">Yellow</content></paragraph></td></tr><tr><td valign=\"top\"><paragraph>Has expiration date?</paragraph></td><td><paragraph><content styleCode=\"bold\">No</content></paragraph></td><td><paragraph><content styleCode=\"bold\">Yes</content></paragraph></td></tr><tr><td valign=\"top\"><paragraph>Can be reused?</paragraph></td><td><paragraph><content styleCode=\"bold\">Yes</content></paragraph></td><td><paragraph><content styleCode=\"bold\">No</content>(use only one time) </paragraph></td></tr><tr><td valign=\"top\"><paragraph>Okay to remove and replace blue safety top?</paragraph></td><td><paragraph><content styleCode=\"bold\">Yes</content></paragraph></td><td><paragraph><content styleCode=\"bold\">No</content>(remove just one time before use) </paragraph></td></tr><tr><td valign=\"top\"><paragraph>Pressure needed to hold against thigh?</paragraph></td><td><paragraph><content styleCode=\"bold\">Moderate</content></paragraph></td><td><paragraph><content styleCode=\"bold\">Strong</content></paragraph></td></tr></tbody></table>",
+   "<table width=\"100%\"><col width=\"73%\"/><col width=\"27%\"/><tbody><tr><td colspan=\"2\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Using the Trainer</content></paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 1 Pull off the blue safety top (Figure B)</content></paragraph><paragraph>Grip the gray Trainer with one hand and with the orange end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away. <content styleCode=\"bold\">Note:</content>Do not twist or bend the blue safety top. </paragraph><paragraph/><paragraph><content styleCode=\"bold\">Warning: Do not</content>flip the blue safety top off using a thumb or by pulling it sideways or by bending and twisting the blue safety top. This may cause the real yellow EpiPen auto-injector to accidentally activate. An EpiPen auto-injector that has been activated by accident cannot be used for a patient in an emergency and must be replaced. </paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"ID_609f29b9-3aaf-4fed-9962-7268dd49b1e5\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure B</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 2 Trainer injection simulation by self (Figure C) or caregiver (Figure D) administration</content></paragraph><paragraph>Place the orange end against the outer thigh, over clothing if needed.</paragraph><paragraph>  Push down firmly and hold in place for 3 seconds. If practicing an injection on a young child, first hold the child firmly (restrain) and then use one hand to hold the Trainer with the orange end pointing down and your other hand to remove the blue safety top. Hold the leg firmly in place before and during the 3 second practice injection to prevent injuries. </paragraph><paragraph><content styleCode=\"bold\">Note:</content>The Trainer makes a distinct pop sound when pushed against the thigh. This is normal and means that the auto-injector is working. After the pop, continue to press the Trainer down firmly on the outer thigh for 3 seconds. </paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"ID_962b8525-6f5c-4b49-b9c0-2bb6be22c579\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure C</paragraph><paragraph/><renderMultiMedia referencedObject=\"ID_5e3fe2f1-493b-4f24-987c-2a643dc392d3\"/><paragraph styleCode=\"MultiMediaCaption\">Figure D</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 3 Check if used (Figure E)</content></paragraph><paragraph>Lift the Trainer straight out from the thigh. Inspect: The Trainer was activated correctly if the orange end is extended. If the orange end is not extended, repeat Step 1 and Step 2.</paragraph></td><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"ID_22404594-27a3-430e-9ee6-1c45ee7d3fd7\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure E</paragraph></td></tr><tr><td styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><paragraph><content styleCode=\"bold\">Step 4 Reset the Trainer (Figure F)</content></paragraph><paragraph>Put the blue safety top back on the Trainer immediately. Place the orange end on a hard surface. Squeeze the sides of the orange end and push down on the Trainer with the other hand. <content styleCode=\"bold\">Note:</content>This resetting step should never be used with a real yellow EpiPen auto-injector as this may result in injury. </paragraph><paragraph><content styleCode=\"bold\">Never put your thumb, other fingers, or hand over the orange (needle) end of the real yellow EpiPen auto-injector.</content></paragraph></td><td align=\"center\" styleCode=\"Botrule Lrule Rrule Toprule\" valign=\"top\"><renderMultiMedia referencedObject=\"ID_79873395-86c3-4436-846b-3d5bf3cf8f21\"/><paragraph styleCode=\"First MultiMediaCaption\">Figure F</paragraph></td></tr></tbody></table>"
+  ],
+  "set_id": "311af6d9-20c0-4b87-b236-4185bfa49988",
+  "id": "040d1b88-235a-aa09-e063-6394a90adbad",
+  "effective_time": "20230829",
+  "version": "1"
+ }
+}
