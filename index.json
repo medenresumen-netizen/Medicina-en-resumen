@@ -1,14 +1,11 @@
 {
- "updated": "2026-11-13T22:49Z",
- "n": 424,
+ "updated": "2026-11-13T22:50Z",
+ "n": 427,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
   "cefepima-enmetazobactam",
   "acido-obeticolico",
-  "antiveneno-latrodectus",
-  "antiveneno-coralillo",
-  "inmunoglobulina-antirrabica",
   "vacuna-antirrabica-imovax",
   "vacuna-antirrabica-rabavert",
   "vacuna-tdap"
@@ -619,6 +616,38 @@
    "set_id": "d6203302-2128-41a7-b0b4-0e6c0704d4dc",
    "application": [
     "BLA761123"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "antiveneno-coralillo",
+   "generic_en": "coral snake antivenin",
+   "brand": [
+    "North American Coral Snake Antivenin (Equine)"
+   ],
+   "manufacturer": [
+    "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc."
+   ],
+   "effective_time": "20221122",
+   "set_id": "6d0f94b4-82ca-37c7-edb0-4f0702cf6c8d",
+   "application": [
+    "BLA101099"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "antiveneno-latrodectus",
+   "generic_en": "black widow spider antivenin (equine)",
+   "brand": [
+    "North American Coral Snake Antivenin (Equine)"
+   ],
+   "manufacturer": [
+    "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc."
+   ],
+   "effective_time": "20221122",
+   "set_id": "6d0f94b4-82ca-37c7-edb0-4f0702cf6c8d",
+   "application": [
+    "BLA101099"
    ],
    "n_candidates": 1
   },
@@ -3453,6 +3482,22 @@
   {
    "id_es": "inmunoglobulina-antirrabica-kedrab",
    "generic_en": "rabies immune globulin (human)",
+   "brand": [
+    "KEDRAB"
+   ],
+   "manufacturer": [
+    "Kedrion Biopharma Inc."
+   ],
+   "effective_time": "20240221",
+   "set_id": "53f2a23b-c479-4c24-8cab-ee7a33a2633e",
+   "application": [
+    "BLA125613"
+   ],
+   "n_candidates": 1
+  },
+  {
+   "id_es": "inmunoglobulina-antirrabica",
+   "generic_en": "human rabies virus immune globulin",
    "brand": [
     "KEDRAB"
    ],
