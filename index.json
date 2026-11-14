@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:57Z",
+ "updated": "2026-11-14T07:41Z",
  "n": 432,
  "missing": [
   "norfloxacino",
@@ -6233,17 +6233,17 @@
    "id_es": "telmisartan",
    "generic_en": "telmisartan",
    "brand": [
-    "Micardis HCT"
+    "Telmisartan"
    ],
    "manufacturer": [
-    "Boehringer Ingelheim Pharmaceuticals, Inc."
+    "Glenmark Pharmaceuticals Inc., USA"
    ],
-   "effective_time": "20241231",
-   "set_id": "b078dae2-664d-4144-847a-3b9d9b557402",
+   "effective_time": "20260128",
+   "set_id": "c6eb489d-2946-4c14-839f-d4af761ead31",
    "application": [
-    "NDA021162"
+    "ANDA090032"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "tenecteplasa",
@@ -6569,17 +6569,17 @@
    "id_es": "torasemida",
    "generic_en": "torsemide",
    "brand": [
-    "SOAANZ"
+    "Torsemide"
    ],
    "manufacturer": [
-    "Sarfez Pharmaceuticals Inc"
+    "Kesin Pharma Corporation"
    ],
-   "effective_time": "20260109",
-   "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
+   "effective_time": "20261109",
+   "set_id": "5eeca7b4-92ac-bb1f-e063-6394a90a036a",
    "application": [
-    "NDA213218"
+    "ANDA079234"
    ],
-   "n_candidates": 25
+   "n_candidates": 1
   },
   {
    "id_es": "tramadol",

@@ -1,21 +1,22 @@
 {
  "id_es": "torasemida",
  "generic_en": "torsemide",
- "search": "openfda.generic_name.exact:\"TORSEMIDE\"",
- "downloaded": "2026-11-11T06:42Z",
+ "search": "set_id:5eeca7b4-92ac-bb1f-e063-6394a90a036a",
+ "pref": "",
+ "downloaded": "2026-11-14T07:40Z",
  "chosen": {
-  "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
-  "id": "47fa8bbb-4c81-97c3-e063-6394a90a61cc",
-  "effective_time": "20260109",
-  "version": "4",
+  "set_id": "5eeca7b4-92ac-bb1f-e063-6394a90a036a",
+  "id": "5eeca7c1-eac2-b8d4-e063-6294a90a3bfc",
+  "effective_time": "20261109",
+  "version": "1",
   "brand_name": [
-   "SOAANZ"
+   "Torsemide"
   ],
   "generic_name": [
    "TORSEMIDE"
   ],
   "manufacturer_name": [
-   "Sarfez Pharmaceuticals Inc"
+   "Kesin Pharma Corporation"
   ],
   "route": [
    "ORAL"
@@ -24,9 +25,9 @@
    "HUMAN PRESCRIPTION DRUG"
   ],
   "application_number": [
-   "NDA213218"
+   "ANDA079234"
   ],
-  "n_sections": 6
+  "n_sections": 28
  },
  "candidates": [
   {
@@ -53,615 +54,81 @@
     "ANDA079234"
    ],
    "n_sections": 28
-  },
-  {
-   "set_id": "26a3af16-39fc-482d-8a8e-9473af4b0e3f",
-   "id": "5a0aa5c0-0e07-8778-e063-6394a90ac296",
-   "effective_time": "20260827",
-   "version": "3",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076894"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "1c755d94-b846-4336-a968-aa1b92dc0ac0",
-   "id": "5720dd46-bbe6-8230-e063-6394a90ab3f4",
-   "effective_time": "20260721",
-   "version": "7",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "REMEDYREPACK INC."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076943"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "09305350-e317-419c-96f5-aa8fbeb4044d",
-   "id": "1f177f00-6816-490c-8680-e65d7e59bfb8",
-   "effective_time": "20260326",
-   "version": "4",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Major Pharmaceuticals"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079234"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "7fc14338-92e4-cf57-a3e8-ef64d8d1026c",
-   "id": "4a94f559-d26f-5817-e063-6294a90ab408",
-   "effective_time": "20260211",
-   "version": "9",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "AvKARE"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076346"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
-   "id": "47fa8bbb-4c81-97c3-e063-6394a90a61cc",
-   "effective_time": "20260109",
-   "version": "4",
-   "brand_name": [
-    "SOAANZ"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Sarfez Pharmaceuticals Inc"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "NDA213218"
-   ],
-   "n_sections": 6
-  },
-  {
-   "set_id": "f1439b9c-c01c-a6d4-594b-d92b8e0af26e",
-   "id": "4743586b-3839-ba96-e063-6394a90ac898",
-   "effective_time": "20251231",
-   "version": "5",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "AvPAK"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079234"
-   ],
-   "n_sections": 19
-  },
-  {
-   "set_id": "a3d68763-95e0-4ad6-89c2-c4b1c0b43948",
-   "id": "459f249e-79f0-77db-e063-6294a90afda0",
-   "effective_time": "20251210",
-   "version": "2",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Chartwell RX, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076894"
-   ],
-   "n_sections": 19
-  },
-  {
-   "set_id": "44f2f06d-7bc4-5239-e063-6394a90aac5e",
-   "id": "44f2f06d-7bc5-5239-e063-6394a90aac5e",
-   "effective_time": "20251202",
-   "version": "1",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Redpharm Drug"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA078249"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "0b3cfce4-61fc-42ba-9ea7-51f81ea014f7",
-   "id": "0a086407-4d3c-435c-b251-43640c0d57dc",
-   "effective_time": "20251022",
-   "version": "100",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076894"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "e707eda7-4bde-4944-ae19-1b4fa35b6a3c",
-   "id": "127e6c86-1d66-461a-9c8b-df9e7e63034b",
-   "effective_time": "20251022",
-   "version": "100",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076894"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "da8f2bf5-741c-45f6-b873-31a9fda2f880",
-   "id": "e04998af-0538-4a99-910d-d26eeceac315",
-   "effective_time": "20250626",
-   "version": "100",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076894"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "91d45625-5ba6-b50f-e053-2a95a90ac314",
-   "id": "2be81614-53a3-ed55-e063-6294a90a1152",
-   "effective_time": "20250117",
-   "version": "4",
-   "brand_name": [
-    "TORSEMIDE"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Direct_Rx"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079234"
-   ],
-   "n_sections": 18
-  },
-  {
-   "set_id": "16dfba29-4c26-45e7-ac7d-b2ec2058e2bb",
-   "id": "2f5ea324-9814-40d2-bb05-c24bbc10afa6",
-   "effective_time": "20241104",
-   "version": "103",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076894"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "e58a7d1c-6584-44c3-98ce-a3e9b64e9c82",
-   "id": "342ccc36-eaac-49ec-9005-787d450dd035",
-   "effective_time": "20241031",
-   "version": "1",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079234"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "aaabbaca-ba6f-42d5-980d-71135c7c80ea",
-   "id": "254ff01e-6c3e-2624-e063-6394a90a2ee3",
-   "effective_time": "20241025",
-   "version": "10",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "American Health Packaging"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079234"
-   ],
-   "n_sections": 27
-  },
-  {
-   "set_id": "2411e6f8-4fc3-f986-e063-6294a90a055a",
-   "id": "24121be5-87a3-5f8f-e063-6394a90a0b99",
-   "effective_time": "20241009",
-   "version": "1",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Golden State Medical Supply, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076894"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "05c8a6ee-9517-453f-8dd6-7e5ca83c5a68",
-   "id": "0e5e0708-dcdb-493e-a646-80a4c434214e",
-   "effective_time": "20241001",
-   "version": "1",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "A-S Medication Solutions"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079234"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "99b537f3-1fbf-48b7-ac3e-0a43e6aab313",
-   "id": "3ccef263-cd0f-4935-83a2-9b43a609e94a",
-   "effective_time": "20240930",
-   "version": "1",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "NCS HealthCare of KY, LLC dba Vangard Labs"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076346"
-   ],
-   "n_sections": 24
-  },
-  {
-   "set_id": "234ff9d7-a02e-417f-a1f9-94038783cc77",
-   "id": "21c3ca92-aba8-297c-e063-6394a90a7255",
-   "effective_time": "20240910",
-   "version": "1",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "XLCare Pharmaceuticals Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA079234"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "13d851b6-3355-4541-93e8-73cdaf0f13d1",
-   "id": "8bd378c8-5742-4ee7-adb8-65bdf1f07b35",
-   "effective_time": "20240716",
-   "version": "103",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Bryant Ranch Prepack"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA078249"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "3c8f1c0b-8a44-4ca0-b2cf-3c591f8878fd",
-   "id": "e5f7dcb0-8cfe-4318-a407-72f1c47e0680",
-   "effective_time": "20240508",
-   "version": "5",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Rising Pharma Holdings, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA078249"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "55e88727-864e-4313-860c-31a6ca45168f",
-   "id": "e1cdbb1e-4104-41ee-86af-84fc73d761ba",
-   "effective_time": "20240508",
-   "version": "17",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Aurobindo Pharma Limited"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA078249"
-   ],
-   "n_sections": 28
-  },
-  {
-   "set_id": "159e8c90-ebc6-0991-e063-6394a90aae19",
-   "id": "159e8c9e-1f33-0a23-e063-6394a90abc74",
-   "effective_time": "20240408",
-   "version": "1",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Aphena Pharma Solutions - Tennessee, LLC"
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076943"
-   ],
-   "n_sections": 26
-  },
-  {
-   "set_id": "a6055317-8826-df85-e053-2a95a90a5378",
-   "id": "0d9921c1-ead4-6cc5-e063-6294a90a7d81",
-   "effective_time": "20231228",
-   "version": "3",
-   "brand_name": [
-    "Torsemide"
-   ],
-   "generic_name": [
-    "TORSEMIDE"
-   ],
-   "manufacturer_name": [
-    "Golden State Medical Supply, Inc."
-   ],
-   "route": [
-    "ORAL"
-   ],
-   "product_type": [
-    "HUMAN PRESCRIPTION DRUG"
-   ],
-   "application_number": [
-    "ANDA076943"
-   ],
-   "n_sections": 26
   }
  ],
  "label": {
-  "components": [
-   "Drug Structure Structure Drug Structure"
+  "indications_and_usage": [
+   "1 INDICATIONS & USAGE Torsemide tablets are a loop diuretic indicated for: • the treatment of edema associated with heart failure, renal disease or hepatic disease. (1.1) • the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. (1.2) 1.1 Edema Torsemide tablets are indicated for the treatment of edema associated with heart failure, renal disease or hepatic disease. 1.2 Hypertension Torsemide tablets are indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs. There are no controlled trials demonstrating risk reduction with torsemide. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. The antihypertensive effects of torsemide tablets are on the average greater in black patients than in nonblack patients [see Clinical Pharmacology (12.2)] . Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. Torsemide tablets can be used alone or in combination with other antihypertensive agents."
   ],
-  "set_id": "05eaa163-b6e9-438a-85f8-6a60e743d460",
-  "id": "47fa8bbb-4c81-97c3-e063-6394a90a61cc",
-  "effective_time": "20260109",
-  "version": "4"
+  "dosage_and_administration": [
+   "2 DOSAGE & ADMINISTRATION Edema associated with: • Heart failure: Initial dose is 10 or 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. (2.1) • Chronic Renal Failure: Initial dose is 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. (2.1) • Hepatic Cirrhosis: Initial dose is 5 or 10 mg once daily. Titrate by factors of two; doses above 40 mg have not been studied. (2.1) Hypertension: • The recommended initial dose is 5 mg once daily. After 4 to 6 weeks, increase to 10 mg once daily, if needed. If 10 mg is insufficient, consider adding another agent. (2.2) 2.1 Treatment of Edema Edema associated with heart failure The recommended initial dose is 10 mg or 20 mg oral torsemide tablets once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with chronic renal failure The recommended initial dose is 20 mg oral torsemide tablets once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with hepatic cirrhosis The recommended initial dose is 5 mg or 10 mg oral torsemide tablets once daily, administered together with an aldosterone antagonist or a potassium-sparing diuretic. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 40 mg have not been adequately studied in this population. 2.2 Treatment of Hypertension The recommended initial dose is 5 mg once daily. If the 5 mg dose does not provide adequate reduction in blood pressure within 4 to 6 weeks, increase to 10 mg once daily. If the response to 10 mg is insufficient, add another antihypertensive agent to the treatment regimen."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS & STRENGTHS Torsemide tablets USP, 5 mg are available as white to off white, oval shaped, scored tablets, debossed with ‘56’ on scored side and ‘H’ on the opposite side. Torsemide tablets USP, 10 mg are available as white to off white, oval shaped, scored tablets, debossed with ‘57’ on scored side and ‘H’ on the opposite side. Torsemide tablets USP, 20 mg are available as white to off white, oval shaped, scored tablets, debossed with ‘59’ on scored side and ‘H’ on the opposite side. Torsemide tablets USP, 100 mg are available as white to off white, oval shaped, scored tablets, debossed with ‘60’ on scored side and ‘H’ on the opposite side. Tablets: 5 mg, 10 mg, 20 mg and 100 mg (3)"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Torsemide tablets are contraindicated in patients with known hypersensitivity to torsemide tablets or to povidone. Torsemide tablets are contraindicated in patients who are anuric. Torsemide tablets are contraindicated in patients with hepatic coma. Hypersensitivity to torsemide tablets or povidone, anuria, and hepatic coma. (4)"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Hypotension and worsening renal function: monitor volume status and renal function periodically (5.1) • Electrolyte and metabolic abnormalities: monitor serum electrolytes and blood glucose periodically. (5.2) • Ototoxicity (5.3 , 7.6) 5.1 Hypotension and Worsening Renal Function Excessive diuresis may cause potentially symptomatic dehydration, blood volume reduction and hypotension and worsening renal function, including acute renal failure particularly in salt-depleted patients or those taking renin-angiotensin aldosterone inhibitors. Worsening of renal function can also occur with concomitant use of nephrotoxic drugs (e.g., aminoglycosides, cisplatin, and NSAIDs). Monitor volume status and renal function periodically. 5.2 Electrolyte and Metabolic Abnormalities Torsemide can cause potentially symptomatic hypokalemia, hyponatremia, hypomagnesemia, hypocalcemia, and hypochloremic alkalosis. Treatment with torsemide can cause an increase in blood glucose levels and hyperglycemia. Asymptomatic hyperuricemia can occur and gout may rarely be precipitated. Monitor serum electrolytes and blood glucose periodically. 5.3 Ototoxicity Tinnitus and hearing loss (usually reversible) have been observed with loop diuretics, including torsemide. Higher than recommended doses, severe renal impairment, and hypoproteinemia, appear to increase the risk of ototoxicity."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following risks are discussed in more detail in others sections: • Hypotension and Worsening Renal Function [see Warnings and Precautions (5.1)] • Electrolyte and Metabolic Abnormalities [see Warnings and Precautions (5.2)] • Ototoxicity [see Warnings and Precautions (5.3)] The most common adverse reaction is excessive urination (6.7%). (6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Hetero Labs Limited at 1-866-495-1995 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In pre-approval studies, torsemide has been evaluated for safety in approximately 4000 subjects; over 800 of these subjects received torsemide for at least 6 months, and over 380 were treated for more than 1 year. Among these subjects were 564 who received torsemide during United States-based trials in which 274 other subjects received placebo. Discontinuation of therapy due to adverse reactions occurred in 3.5% of United States patients treated with torsemide and in 4.4% of patients treated with placebo. In United States placebo-controlled trials excessive urination occurred in 6.7% of patients compared with 2.2% of patients receiving placebo. The daily doses of torsemide used in these trials ranged from 1.25 mg to 20 mg, with most patients receiving 5 mg to 10 mg; the duration of treatment ranged from 1 to 52 days, with a median of 41 days. In the placebo-controlled hypertension studies excessive urination was dose related; 1% of patients receiving placebo, 4% of those treated with 5 mg of daily torsemide, and 15% of those treated with 10 mg. Excessive urination was generally not reported as an adverse event among patients who received torsemide for cardiac, renal, or hepatic failure. There was no effect of age or sex on the incidence of adverse reactions. Laboratory Parameters Potassium In controlled studies in the United States, torsemide was administered to hypertensive patients at doses of 5 mg or 10 mg daily. After 6 weeks at these doses, the mean decrease in serum potassium was approximately 0.1 mEq/L. The percentage of patients who had a serum potassium level below 3.5 mEq/L at any time during the studies was 1.5% on torsemide and 3% on placebo. In patients followed for 1 year, there was no progressive change in mean serum potassium levels. In patients with congestive heart failure, hepatic cirrhosis, or renal disease treated with torsemide at doses higher than those studied in United States antihypertensive trials, hypokalemia was observed with greater frequency, in a dose-related manner. Blood Urea Nitrogen (BUN), Creatinine and Uric Acid Torsemide produces small dose-related increases in each of these laboratory values. In hypertensive patients who received 10 mg of torsemide daily for 6 weeks, the mean increase in blood urea nitrogen was 1.8 mg/dL (0.6 mmol/L), the mean increase in serum creatinine was 0.05 mg/dL (4 mmol/L), and the mean increase in serum uric acid was 1.2 mg/dL (70 mmol/L). Little further change occurred with long-term treatment, and all changes reversed when treatment was discontinued. Glucose Hypertensive patients who received 10 mg of daily torsemide experienced a mean increase in serum glucose concentration of 5.5 mg/dL (0.3 mmol/L) after 6 weeks of therapy, with a further increase of 1.8 mg/dL (0.1 mmol/L) during the subsequent year. In long-term studies in diabetics, mean fasting glucose values were not significantly changed from baseline. Serum Lipids Torsemide tablets, 20 mg caused small increases in total cholesterol and triglycerides in short term hypertension studies. The changes subsided with chronic therapy. 6.2 Postmarketing Experience The following adverse reactions have been identified during the post-approval use of torsemide. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure. Gastrointestinal system: Pancreatitis, abdominal pain Nervous System: Paresthesia, confusion, visual impairment, loss of appetite Hematologic: Leucopenia, thrombocytopenia, anemia Hepatobiliary: Increase in liver transaminases, gamma-glutamyltransferase Metabolism: Thiamine (vitamin B1) deficiency Skin/hypersensitivity: Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity reaction, pruritus Urogenital: Acute urinary retention"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS • Non-steroidal anti-inflammatory drugs (NSAIDs): Reduced diuretic, natriuretic, and antihypertensive effects; risk of renal impairment. (7.1) • CYP2C9: Concomitant use with CYP2C9 inhibitors can decrease torsemide clearance. Torsemide may affect the efficacy and safety of sensitive CYP2C9 substrates or of substrates with a narrow therapeutic range, such as warfarin or phenytoin. (7.2) • Cholestyramine: Decreased exposure of torsemide. (7.3) • Organic anion drugs: may decrease diuretic activity of torsemide. (7.4) • Lithium: Risk of lithium toxicity (7.5) • Renin-angiotensin inhibitors: Increased risk of hypotension and renal impairment. (7.7) • Radiocontrast agents: Increased risk of renal toxicity. (7.8) • Corticosteroids and ACTH: Increased risk of hypokalemia. (7.9) 7.1 Nonsteroidal Anti-inflammatory Drugs Because torsemide and salicylates compete for secretion by renal tubules, patients receiving high doses of salicylates may experience salicylate toxicity when torsemide is concomitantly administered. Concomitant use of nonsteroidal anti-inflammatory drugs (NSAIDs) and torsemide has been associated with the development of acute renal failure. The antihypertensive and diuretic effects of torsemide can be reduced by NSAIDs. Partial inhibition of the natriuretic effect of torsemide by concomitant administration of indomethacin has been demonstrated for torsemide under conditions of dietary sodium restriction (50 mEq/day) but not in the presence of normal sodium intake (150 mEq/day). 7.2 Cytochrome P450 2C9 Inhibitors and Inducers Torsemide is a substrate of CYP2C9. Concomitant use of CYP2C9 inhibitors (e.g., amiodarone, fluconazole, miconazole, oxandrolone) can decrease torsemide clearance and increase torsemide plasma concentrations. Concomitant use of CYP2C9 inducers (e.g., rifampin) increase torsemide clearance and decrease plasma torsemide concentrations. Monitor diuretic effect and blood pressure when used in combination with CYP2C9 inhibitor or inducer. Adjust torsemide dose if necessary. Because of its inhibition of CYP2C9 metabolism, torsemide may affect the efficacy and safety of sensitive CYP2C9 substrates, such as celecoxib, or of substrates with a narrow therapeutic range, such as warfarin or phenytoin. Monitor patients and adjust dosages if necessary. 7.3 Cholestyramine Concomitant use of torsemide and cholestyramine has not been studied in humans but, in a study in animals, coadministration of cholestyramine decreased the absorption of orally administered torsemide. If torsemide and cholestyramine should be coadministered, administer torsemide at least one hour before or 4 to 6 h after cholestyramine administration. 7.4 Organic Anion Drugs Coadministration of organic anion drugs (e.g., probenecid) that undergo significant renal tubular secretion have the potential to reduce secretion of torsemide into the proximal tubule and thereby decreases the diuretic activity of torsemide. Monitor diuretic effect and blood pressure during coadministration. 7.5 Lithium Like other diuretics, torsemide reduces the renal clearance of lithium, inducing a high risk of lithium toxicity. Monitor lithium levels periodically when torsemide is coadministered. 7.6 Ototoxic Drugs Loop diuretics increase the ototoxic potential of other ototoxic drugs, including aminoglycoside antibiotics and ethacrynic acid. This effect has been reported with concomitant use of torsemide and gentamycin. Avoid concomitant use of torsemide and aminoglycoside antibiotics, if possible. 7.7 Renin-angiotensin Inhibitors Coadministration of torsemide with ACE inhibitors or angiotensin receptor blockers can increase the risk of hypotension and renal impairment. 7.8 Radiocontrast Agents Torsemide can increase the risk of renal toxicity related to administration of radiocontrast agents. 7.9 Corticosteroids and ACTH Concomitant use with torsemide may increase risk of hypokalemia"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk Summary There are no available data on use of torsemide in pregnant women and the risk of major birth defects or miscarriage. In pregnant rats and rabbits dosed, on a mg/m 2 basis, with 10 and 1.7 times a human dose of 20 mg/day, respectively, there was no fetotoxicity or teratogenicity. However, in pregnant rats and rabbits administered 50 and 6.8 times the human dose, respectively, decreases in body weight, decreased fetal resorption and delayed fetal ossification was observed. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major malformations and miscarriage in clinically recognized pregnancies is 2 to 4%, and 15 to 20%, respectively. Data There was no fetotoxicity or teratogenicity in rats treated with up to 5 mg/kg/day of torsemide (on a mg/kg basis, this is 15 times a human dose of 20 mg/day; on a mg/m 2 basis, the animal dose is 10 times the human dose), or in rabbits, treated with 1.6 mg/kg/day (on a mg/kg basis, 5 times the human dose of 20 mg/kg/day; on a mg/m 2 basis, 1.7 times this dose). Fetal and maternal toxicity (decrease in average body weight, increase in fetal resorption and delayed fetal ossification) occurred in rabbits and rats given doses 4 (rabbits) and 5 (rats) times larger. 8.2 Lactation Risk Summary There are no data regarding the presence of torsemide in human milk or the effects of torsemide on the breastfed child. Diuretics can suppress lactation. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. Administration of another loop diuretic to premature infants has been associated with the precipitation of nephrocalcinosis/nephrolithiasis. Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with the other loop diuretic. The other loop diuretic, when administered during the first weeks of life, has also been reported to increase the risk of persistent patent ductus arteriosus. The use of torsemide in such patients has not been studied. 8.5 Geriatric Use Of the total number of patients who received torsemide in United States clinical studies, 24% were 65 or older while about 4% were 75 or older. No specific age-related differences in effectiveness or safety were observed between younger patients and elderly patients. 8.6 Use in Renal Impairment In single-dose studies in patients with non-anuric renal failure, high doses of torsemide (20 mg to 200 mg) caused marked increases in water and sodium excretion. In patients with non-anuric renal failure, severe enough to require hemodialysis, chronic treatment with up to 200 mg of daily torsemide has not been shown to change steady-state fluid retention. When patients in a study of acute renal failure received total daily doses of 520 mg to 1200 mg of torsemide, 19% experienced seizures. Ninety-six patients were treated in this study; 6/32 treated with torsemide experienced seizures, 6/32 treated with comparably high doses of furosemide experienced seizures, and 1/32 treated with placebo experienced a seizure. 8.7 Use in Hepatic Impairment Torsemide can cause sudden alterations of fluid and electrolyte balance which may precipitate hepatic coma in patients with hepatic disease with cirrhosis and ascites. In these patients, diuresis with torsemide is best initiated in the hospital. Diuretic treatment can cause or contribute to the development of hypovolemia, hypokalemia, metabolic alkalosis, hyponatremia or azotemia which can lead to new or worsening hepatic encephalopathy. Consider suspending or discontinuing torsemide [see Contraindications (4)]. To prevent hypokalemia and metabolic alkalosis, use an aldosterone antagonist or potassium-sparing drug with torsemide in patients with hepatic disease. When given with aldosterone antagonists, torsemide also caused increases in sodium and fluid excretion in patients with edema or ascites due to hepatic cirrhosis. Urinary sodium excretion rate relative to the urinary excretion rate of torsemide is less in cirrhotic patients than in healthy subjects (possibly because of the hyperaldosteronism and resultant sodium retention that are characteristic of portal hypertension and ascites). However, because of the increased renal clearance of torsemide in patients with hepatic cirrhosis, these factors tend to balance each other, and the result is an overall natriuretic response that is similar to that seen in healthy subjects. Chronic use of any diuretic in hepatic disease has not been studied in adequate and well-controlled trials."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no available data on use of torsemide in pregnant women and the risk of major birth defects or miscarriage. In pregnant rats and rabbits dosed, on a mg/m 2 basis, with 10 and 1.7 times a human dose of 20 mg/day, respectively, there was no fetotoxicity or teratogenicity. However, in pregnant rats and rabbits administered 50 and 6.8 times the human dose, respectively, decreases in body weight, decreased fetal resorption and delayed fetal ossification was observed. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major malformations and miscarriage in clinically recognized pregnancies is 2 to 4%, and 15 to 20%, respectively. Data There was no fetotoxicity or teratogenicity in rats treated with up to 5 mg/kg/day of torsemide (on a mg/kg basis, this is 15 times a human dose of 20 mg/day; on a mg/m 2 basis, the animal dose is 10 times the human dose), or in rabbits, treated with 1.6 mg/kg/day (on a mg/kg basis, 5 times the human dose of 20 mg/kg/day; on a mg/m 2 basis, 1.7 times this dose). Fetal and maternal toxicity (decrease in average body weight, increase in fetal resorption and delayed fetal ossification) occurred in rabbits and rats given doses 4 (rabbits) and 5 (rats) times larger."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. Administration of another loop diuretic to premature infants has been associated with the precipitation of nephrocalcinosis/nephrolithiasis. Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with the other loop diuretic. The other loop diuretic, when administered during the first weeks of life, has also been reported to increase the risk of persistent patent ductus arteriosus. The use of torsemide in such patients has not been studied."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Of the total number of patients who received torsemide in United States clinical studies, 24% were 65 or older while about 4% were 75 or older. No specific age-related differences in effectiveness or safety were observed between younger patients and elderly patients."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE The signs and symptoms of overdosage can be anticipated to include those of excessive pharmacologic effect: dehydration, hypovolemia, hypotension, hyponatremia, hypokalemia, hypochloremic alkalosis, and hemoconcentration. Treatment of overdosage should consist of fluid and electrolyte replacement. Laboratory determinations of serum levels of torsemide and its metabolites are not widely available. No data are available to suggest physiological maneuvers (e.g., maneuvers to change the pH of the urine) that might accelerate elimination of torsemide and its metabolites. Torsemide is not dialyzable, so hemodialysis will not accelerate elimination."
+  ],
+  "description": [
+   "11 DESCRIPTION Torsemide is a diuretic of the pyridine-sulfonylurea class. Its chemical name is 1-isopropyl-3-[(4-m-toluidino-3-pyridyl) sulfonyl]urea and its structural formula is: Its molecular formula is C 16 H 20 N 4 O 3 S, its pKa is 6.42, and its molecular weight is 348.43. Torsemide USP is a white to off-white crystalline powder. The tablets for oral administration also contain crospovidone, lactose monohydrate, magnesium stearate, microcrystalline cellulose and povidone. Torsemidestructure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Micropuncture studies in animals have shown that torsemide acts from within the lumen of the thick ascending portion of the loop of Henle, where it inhibits the Na + /K + /2Cl – -carrier system. Clinical pharmacology studies have confirmed this site of action in humans, and effects in other segments of the nephron have not been demonstrated. Diuretic activity thus correlates better with the rate of drug excretion in the urine than with the concentration in the blood. Torsemide increases the urinary excretion of sodium, chloride, and water, but it does not significantly alter glomerular filtration rate, renal plasma flow, or acid-base balance. 12.2 Pharmacodynamics With oral dosing, the onset of diuresis occurs within 1 hour and the peak effect occurs during the first or second hour and diuresis lasts about 6 to 8 hours. In healthy subjects given single doses, the dose-response relationship for sodium excretion is linear over the dose range of 2.5 mg to 20 mg. The increase in potassium excretion is negligible after a single dose of up to 10 mg and only slight (5 mEq to 15 mEq) after a single dose of 20 mg. Edema Torsemide has been studied in controlled trials in patients with New York Heart Association Class II to Class IV heart failure. Patients who received 10 mg to 20 mg of daily torsemide in these studies achieved significantly greater reductions in weight and edema than did patients who received placebo. Hypertension In patients with essential hypertension, torsemide has been shown in controlled studies to lower blood pressure when administered once a day at doses of 5 mg to 10 mg. The antihypertensive effect is near maximal after 4 to 6 weeks of treatment, but it may continue to increase for up to 12 weeks. Systolic and diastolic supine and standing blood pressures are all reduced. There is no significant orthostatic effect, and there is only a minimal peak-trough difference in blood pressure reduction. The antihypertensive effects of torsemide are, like those of other diuretics, on the average greater in black patients (a low-renin population) than in nonblack patients. When torsemide is first administered, daily urinary sodium excretion increases for at least a week. With chronic administration, however, daily sodium loss comes into balance with dietary sodium intake. If the administration of torsemide is suddenly stopped, blood pressure returns to pretreatment levels over several days, without overshoot. Torsemide has been administered together with β-adrenergic blocking agents, ACE inhibitors, and calcium-channel blockers. Adverse drug interactions have not been observed, and special dosage adjustment has not been necessary. 12.3 Pharmacokinetics Absorption The bioavailability of torsemide tablets is approximately 80%, with small inter-subject variation; the 90% confidence interval is 75% to 89%. The drug is absorbed with little first-pass metabolism, and the serum concentration reaches its peak (C max ) within 1 hour after oral administration. C max and area under the serum concentration-time curve (AUC) after oral administration are proportional to dose over the range of 2.5 mg to 200 mg. Simultaneous food intake delays the time to C max by about 30 minutes, but overall bioavailability (AUC) and diuretic activity are unchanged. Distribution The volume of distribution of torsemide is 12 to 15 liters in normal adults or in patients with mild to moderate renal failure or congestive heart failure. In patients with hepatic cirrhosis, the volume of distribution is approximately doubled. Torsemide is extensively bound to plasma protein (> 99%). Metabolism Torsemide is metabolized by the hepatic cytochrome CYP2C9 and, to a minor extent, CYP2C8 and CYP2C18. Three main metabolites have been identified in humans. Metabolite M1 is formed by methyl-hydroxylation of torsemide, metabolite M3 is formed by ring hydroxylation of torsemide, and metabolite M5 is formed by oxidation of M1. The major metabolite in humans is the carboxylic acid derivative M5, which is biologically inactive. Metabolites M1 and M3 possess some pharmacological activity; however, their systemic exposures are much lower when compared to torsemide. Elimination In normal subjects the elimination half-life of torsemide is approximately 3.5 hours. Torsemide is cleared from the circulation by both hepatic metabolism (approximately 80% of total clearance) and excretion into the urine (approximately 20% of total clearance in patients with normal renal function). Because torsemide is extensively bound to plasma protein (> 99%), very little enters tubular urine via glomerular filtration. Most renal clearance of torsemide occurs via active secretion of the drug by the proximal tubules into tubular urine. After a single oral dose, the amounts recovered in urine were: torsemide 21%, metabolite M1 12%, metabolite M3 2%, and metabolite M5 34%. Renal Impairment In patients with renal failure, renal clearance of torsemide is markedly decreased but total plasma clearance is not significantly altered. A smaller fraction of the administered dose is delivered to the intraluminal site of action, and the natriuretic action of any given dose of diuretic is reduced. Hepatic Impairment In patients with hepatic cirrhosis, the volume of distribution, plasma half-life, and renal clearance are all increased, but total clearance is unchanged. Geriatric Patients The renal clearance of torsemide is lower in elderly subjects as compared to younger adults, which is related to the decline in renal function that commonly occurs with aging. However, total plasma clearance and elimination half-life remain unchanged. Heart failure In patients with decompensated congestive heart failure, hepatic and renal clearance are both reduced, probably because of hepatic congestion and decreased renal plasma flow, respectively. The total clearance of torsemide is approximately 50% of that seen in healthy volunteers, and the plasma half-life and AUC are correspondingly increased. Because of reduced renal clearance, a smaller fraction of any given dose is delivered to the intraluminal site of action, so at any given dose there is less natriuresis in patients with heart failure than in normal subjects. Drug Interactions Digoxin: Coadministration of digoxin is reported to increase the AUC for torsemide by 50%, but dose adjustment of torsemide is not necessary. Torsemide does not affect the pharmacokinetics of digoxin. Spironolactone: In healthy subjects, coadministration of torsemide was associated with significant reduction in the renal clearance of spironolactone, with corresponding increases in the AUC. However, the pharmacokinetic profile and diuretic activity of torsemide are not altered by spironolactone. Torsemide does not affect the protein binding of glyburide or warfarin. Cimetidine: The pharmacokinetic profile and diuretic activity of torsemide are not altered by cimetidine."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Micropuncture studies in animals have shown that torsemide acts from within the lumen of the thick ascending portion of the loop of Henle, where it inhibits the Na + /K + /2Cl – -carrier system. Clinical pharmacology studies have confirmed this site of action in humans, and effects in other segments of the nephron have not been demonstrated. Diuretic activity thus correlates better with the rate of drug excretion in the urine than with the concentration in the blood. Torsemide increases the urinary excretion of sodium, chloride, and water, but it does not significantly alter glomerular filtration rate, renal plasma flow, or acid-base balance."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics With oral dosing, the onset of diuresis occurs within 1 hour and the peak effect occurs during the first or second hour and diuresis lasts about 6 to 8 hours. In healthy subjects given single doses, the dose-response relationship for sodium excretion is linear over the dose range of 2.5 mg to 20 mg. The increase in potassium excretion is negligible after a single dose of up to 10 mg and only slight (5 mEq to 15 mEq) after a single dose of 20 mg. Edema Torsemide has been studied in controlled trials in patients with New York Heart Association Class II to Class IV heart failure. Patients who received 10 mg to 20 mg of daily torsemide in these studies achieved significantly greater reductions in weight and edema than did patients who received placebo. Hypertension In patients with essential hypertension, torsemide has been shown in controlled studies to lower blood pressure when administered once a day at doses of 5 mg to 10 mg. The antihypertensive effect is near maximal after 4 to 6 weeks of treatment, but it may continue to increase for up to 12 weeks. Systolic and diastolic supine and standing blood pressures are all reduced. There is no significant orthostatic effect, and there is only a minimal peak-trough difference in blood pressure reduction. The antihypertensive effects of torsemide are, like those of other diuretics, on the average greater in black patients (a low-renin population) than in nonblack patients. When torsemide is first administered, daily urinary sodium excretion increases for at least a week. With chronic administration, however, daily sodium loss comes into balance with dietary sodium intake. If the administration of torsemide is suddenly stopped, blood pressure returns to pretreatment levels over several days, without overshoot. Torsemide has been administered together with β-adrenergic blocking agents, ACE inhibitors, and calcium-channel blockers. Adverse drug interactions have not been observed, and special dosage adjustment has not been necessary."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption The bioavailability of torsemide tablets is approximately 80%, with small inter-subject variation; the 90% confidence interval is 75% to 89%. The drug is absorbed with little first-pass metabolism, and the serum concentration reaches its peak (C max ) within 1 hour after oral administration. C max and area under the serum concentration-time curve (AUC) after oral administration are proportional to dose over the range of 2.5 mg to 200 mg. Simultaneous food intake delays the time to C max by about 30 minutes, but overall bioavailability (AUC) and diuretic activity are unchanged. Distribution The volume of distribution of torsemide is 12 to 15 liters in normal adults or in patients with mild to moderate renal failure or congestive heart failure. In patients with hepatic cirrhosis, the volume of distribution is approximately doubled. Torsemide is extensively bound to plasma protein (> 99%). Metabolism Torsemide is metabolized by the hepatic cytochrome CYP2C9 and, to a minor extent, CYP2C8 and CYP2C18. Three main metabolites have been identified in humans. Metabolite M1 is formed by methyl-hydroxylation of torsemide, metabolite M3 is formed by ring hydroxylation of torsemide, and metabolite M5 is formed by oxidation of M1. The major metabolite in humans is the carboxylic acid derivative M5, which is biologically inactive. Metabolites M1 and M3 possess some pharmacological activity; however, their systemic exposures are much lower when compared to torsemide. Elimination In normal subjects the elimination half-life of torsemide is approximately 3.5 hours. Torsemide is cleared from the circulation by both hepatic metabolism (approximately 80% of total clearance) and excretion into the urine (approximately 20% of total clearance in patients with normal renal function). Because torsemide is extensively bound to plasma protein (> 99%), very little enters tubular urine via glomerular filtration. Most renal clearance of torsemide occurs via active secretion of the drug by the proximal tubules into tubular urine. After a single oral dose, the amounts recovered in urine were: torsemide 21%, metabolite M1 12%, metabolite M3 2%, and metabolite M5 34%. Renal Impairment In patients with renal failure, renal clearance of torsemide is markedly decreased but total plasma clearance is not significantly altered. A smaller fraction of the administered dose is delivered to the intraluminal site of action, and the natriuretic action of any given dose of diuretic is reduced. Hepatic Impairment In patients with hepatic cirrhosis, the volume of distribution, plasma half-life, and renal clearance are all increased, but total clearance is unchanged. Geriatric Patients The renal clearance of torsemide is lower in elderly subjects as compared to younger adults, which is related to the decline in renal function that commonly occurs with aging. However, total plasma clearance and elimination half-life remain unchanged. Heart failure In patients with decompensated congestive heart failure, hepatic and renal clearance are both reduced, probably because of hepatic congestion and decreased renal plasma flow, respectively. The total clearance of torsemide is approximately 50% of that seen in healthy volunteers, and the plasma half-life and AUC are correspondingly increased. Because of reduced renal clearance, a smaller fraction of any given dose is delivered to the intraluminal site of action, so at any given dose there is less natriuresis in patients with heart failure than in normal subjects. Drug Interactions Digoxin: Coadministration of digoxin is reported to increase the AUC for torsemide by 50%, but dose adjustment of torsemide is not necessary. Torsemide does not affect the pharmacokinetics of digoxin. Spironolactone: In healthy subjects, coadministration of torsemide was associated with significant reduction in the renal clearance of spironolactone, with corresponding increases in the AUC. However, the pharmacokinetic profile and diuretic activity of torsemide are not altered by spironolactone. Torsemide does not affect the protein binding of glyburide or warfarin. Cimetidine: The pharmacokinetic profile and diuretic activity of torsemide are not altered by cimetidine."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility No overall increase in tumor incidence was found when torsemide was given to rats and mice throughout their lives at doses up to 9 mg/kg/day (rats) and 32 mg/kg/day (mice). On a body-weight basis, these doses are 27 to 96 times a human dose of 20 mg; on a body-surface-area basis, they are 5 to 8 times this dose. In the rat study, the high-dose female group demonstrated renal tubular injury, interstitial inflammation, and a statistically significant increase in renal adenomas and carcinomas. The tumor incidence in this group was, however, not much higher than the incidence sometimes seen in historical controls. Similar signs of chronic non-neoplastic renal injury have been reported in high-dose animal studies of other diuretics such as furosemide and hydrochlorothiazide. No mutagenic activity was detected in any of a variety of in vivo and in vitro tests of torsemide and its major human metabolite. The tests included the Ames test in bacteria (with and without metabolic activation), tests for chromosome aberrations and sister-chromatid exchanges in human lymphocytes, tests for various nuclear anomalies in cells found in hamster and murine bone marrow, tests for unscheduled DNA synthesis in mice and rats, and others. In doses up to 25 mg/kg/day (75 times a human dose of 20 mg on a body-weight basis; 13 times this dose on a body-surface-area basis), torsemide had no adverse effect on the reproductive performance of male or female rats."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility No overall increase in tumor incidence was found when torsemide was given to rats and mice throughout their lives at doses up to 9 mg/kg/day (rats) and 32 mg/kg/day (mice). On a body-weight basis, these doses are 27 to 96 times a human dose of 20 mg; on a body-surface-area basis, they are 5 to 8 times this dose. In the rat study, the high-dose female group demonstrated renal tubular injury, interstitial inflammation, and a statistically significant increase in renal adenomas and carcinomas. The tumor incidence in this group was, however, not much higher than the incidence sometimes seen in historical controls. Similar signs of chronic non-neoplastic renal injury have been reported in high-dose animal studies of other diuretics such as furosemide and hydrochlorothiazide. No mutagenic activity was detected in any of a variety of in vivo and in vitro tests of torsemide and its major human metabolite. The tests included the Ames test in bacteria (with and without metabolic activation), tests for chromosome aberrations and sister-chromatid exchanges in human lymphocytes, tests for various nuclear anomalies in cells found in hamster and murine bone marrow, tests for unscheduled DNA synthesis in mice and rats, and others. In doses up to 25 mg/kg/day (75 times a human dose of 20 mg on a body-weight basis; 13 times this dose on a body-surface-area basis), torsemide had no adverse effect on the reproductive performance of male or female rats."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING Strength How Supplied NDC Tablet Description 5 mg Carton of 50 (5 x 10 unit-dose) tablets 81033-050-51 White to off white, oval shaped, scored tablets, debossed with “56” on scored side and “H” on the opposite side 10 mg Carton of 100 (10 x 10 unit-dose) tablets 81033-051-11 White to off white, oval shaped, scored tablets, debossed with “57” on scored side and “H” on the opposite side 20 mg Carton of 50 (5 x 10 unit-dose) tablets 81033-052-51 White to off white, oval shaped, scored tablets, debossed with “59” on scored side and “H” on the opposite side 100 mg Carton of 50 (5 x 10 unit-dose) tablets 81033-053-51 White to off white, oval shaped, scored tablets, debossed with “60” on scored side and “H” on the opposite side Storage Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]"
+  ],
+  "how_supplied_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"1\"> <tbody> <tr> <td> <paragraph> <content styleCode=\"bold\">Strength</content> </paragraph> </td> <td> <paragraph> <content styleCode=\"bold\">How Supplied</content> </paragraph> </td> <td> <paragraph> <content styleCode=\"bold\">NDC</content> </paragraph> </td> <td> <paragraph> <content styleCode=\"bold\">Tablet Description</content> </paragraph> </td> </tr> <tr> <td> <paragraph>5 mg</paragraph> </td> <td> <paragraph>Carton of 50</paragraph> <paragraph>(5 x 10 unit-dose) tablets</paragraph> </td> <td> <paragraph>81033-050-51</paragraph> </td> <td> <paragraph>White to off white, oval shaped, scored tablets, debossed with &#x201C;56&#x201D; on scored side and &#x201C;H&#x201D; on the opposite side</paragraph> </td> </tr> <tr> <td> <paragraph>10 mg</paragraph> </td> <td> <paragraph>Carton of 100</paragraph> <paragraph>(10 x 10 unit-dose) tablets</paragraph> </td> <td> <paragraph>81033-051-11</paragraph> </td> <td> <paragraph>White to off white, oval shaped, scored tablets, debossed with &#x201C;57&#x201D; on scored side and &#x201C;H&#x201D; on the opposite side</paragraph> </td> </tr> <tr> <td> <paragraph>20 mg</paragraph> </td> <td> <paragraph>Carton of 50</paragraph> <paragraph>(5 x 10 unit-dose) tablets</paragraph> </td> <td> <paragraph>81033-052-51</paragraph> </td> <td> <paragraph>White to off white, oval shaped, scored tablets, debossed with &#x201C;59&#x201D; on scored side and &#x201C;H&#x201D; on the opposite side</paragraph> </td> </tr> <tr> <td> <paragraph>100 mg</paragraph> </td> <td> <paragraph>Carton of 50</paragraph> <paragraph>(5 x 10 unit-dose) tablets</paragraph> </td> <td> <paragraph>81033-053-51</paragraph> </td> <td> <paragraph>White to off white, oval shaped, scored tablets, debossed with &#x201C;60&#x201D; on scored side and &#x201C;H&#x201D; on the opposite side</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Symptomatic Hypotension: Advise patients receiving torsemide tablets that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician. The patients should be told that if syncope occurs, torsemide should be discontinued until the physician has been consulted. All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope [see Warnings and Precautions (5.1)]. Non-Steroidal Anti-inflammatory Drugs (NSAID): Advise patients to discuss with their physician before taking NSAID medications concomitantly [see Drug Interactions (7.1)]. Distributed by: Kesin Pharma Oldsmar, FL 34677 Rev. 08/2026 PI-050-V01 Kesin Pharma Logo"
+  ],
+  "recent_major_changes": [
+   ""
+  ],
+  "set_id": "5eeca7b4-92ac-bb1f-e063-6394a90a036a",
+  "id": "5eeca7c1-eac2-b8d4-e063-6294a90a3bfc",
+  "effective_time": "20261109",
+  "version": "1"
  }
 }
