@@ -1,0 +1,704 @@
+{
+ "id_es": "hidroxizina",
+ "generic_en": "hydroxyzine hydrochloride",
+ "search": "openfda.generic_name.exact:\"HYDROXYZINE HYDROCHLORIDE\"",
+ "pref": "hydroxyzine hydrochloride|ORAL|",
+ "downloaded": "2026-11-14T08:05Z",
+ "chosen": {
+  "set_id": "3946db7c-dc2d-4329-b9ac-f003d8c6d3e1",
+  "id": "1018a246-77e1-446e-b436-30feac311856",
+  "effective_time": "20240105",
+  "version": "13",
+  "brand_name": [
+   "Hydroxyzine Hydrochloride"
+  ],
+  "generic_name": [
+   "HYDROXYZINE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "A-S Medication Solutions"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA088617"
+  ],
+  "n_sections": 18
+ },
+ "candidates": [
+  {
+   "set_id": "24cb9c83-a7e4-4bae-997c-c3a87426f78c",
+   "id": "5fa2ee51-d9d7-f502-e063-6294a90ae49a",
+   "effective_time": "20261106",
+   "version": "24",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040787"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "31a907e6-7fae-0682-e063-6294a90a24a5",
+   "id": "5f9db9dd-e58d-9274-e063-6294a90a4172",
+   "effective_time": "20261106",
+   "version": "2",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Marlex Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207121"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "6ad55cd1-a284-4c3d-aa90-653704afdb75",
+   "id": "5f9c753a-a845-f392-e063-6294a90ad605",
+   "effective_time": "20261106",
+   "version": "11",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088618"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "44c63e67-a9e0-4a4f-b34e-2ca60a981766",
+   "id": "5f4cd3dd-e8b1-01df-e063-6294a90a3299",
+   "effective_time": "20261102",
+   "version": "24",
+   "brand_name": [
+    "Hydroxyzine hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204279"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "7279ad5a-0a49-432d-8fa2-17e4c6ecbadc",
+   "id": "b6e24c69-928c-4027-bac4-73fd7a061cec",
+   "effective_time": "20261102",
+   "version": "6",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA087408"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "214b3f14-2f6c-4f36-b7a6-e0b1f820e3a7",
+   "id": "5ed87480-461c-9f0f-e063-6394a90a956a",
+   "effective_time": "20261027",
+   "version": "21",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088619"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "7165a30c-09e4-4ca1-8548-bf71998ba12f",
+   "id": "5ed87951-e82a-a0b6-e063-6394a90a1e28",
+   "effective_time": "20261027",
+   "version": "21",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088617"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "2b05bd0e-af57-4e74-92f8-a4311330142f",
+   "id": "5ec279be-cff3-75ce-e063-6394a90a9297",
+   "effective_time": "20261026",
+   "version": "24",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088618"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "4aa896b1-4fd5-513e-e063-6294a90ab950",
+   "id": "5dcf891c-bc67-a2e6-e063-6294a90abbe7",
+   "effective_time": "20261014",
+   "version": "3",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217652"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "7edd582c-039c-4bdc-bf8a-61eac8a5a9a0",
+   "id": "cc294db3-7fec-43cc-829e-597b3c3fe922",
+   "effective_time": "20261014",
+   "version": "4",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217652"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "56c446a3-708b-4ec2-b9f1-319617d51f0e",
+   "id": "d92b8262-6bdb-4def-a422-6c4e312b37b8",
+   "effective_time": "20261009",
+   "version": "1",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217652"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "083e3545-8fa9-418c-ad42-5b2186c26816",
+   "id": "5d2a542d-24d8-b912-e063-6394a90abaa6",
+   "effective_time": "20261006",
+   "version": "1",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Advagen Pharma Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219561"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "4c2c4d8e-c3d1-48c7-8f99-ffa159667465",
+   "id": "5ca075da-5d23-ff90-e063-6294a90a676c",
+   "effective_time": "20260929",
+   "version": "15",
+   "brand_name": [
+    "Hydroxyzine hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204279"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "58d99cf6-2319-410b-b8be-de9c304541b6",
+   "id": "5afc478b-c131-fcff-e063-6394a90aad18",
+   "effective_time": "20260908",
+   "version": "3",
+   "brand_name": [
+    "HydrOXYzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040840"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "5a586fc0-e4e0-5621-e063-6294a90a222b",
+   "id": "5a586f51-24fe-5602-e063-6294a90a32cf",
+   "effective_time": "20260831",
+   "version": "1",
+   "brand_name": [
+    "Hydroxyzine hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204279"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "8f41912e-12ce-4174-a0fb-cfb4888d8d58",
+   "id": "5a0ac021-1985-a531-e063-6294a90a5056",
+   "effective_time": "20260827",
+   "version": "7",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217652"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "583b0ad8-012d-06e5-e063-6294a90a9b12",
+   "id": "583b0a72-79c5-87fd-e063-6394a90aa35c",
+   "effective_time": "20260804",
+   "version": "1",
+   "brand_name": [
+    "Hydroxyzine hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Coupler LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204279"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "9ef6a4b7-362d-61b4-e053-2995a90a0ebb",
+   "id": "57ae485e-ca4b-92da-e063-6294a90af11a",
+   "effective_time": "20260728",
+   "version": "5",
+   "brand_name": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "St Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA088617"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "5dea636d-dee6-47d4-b83c-b9f0c0b1b6ca",
+   "id": "4c40489b-3c42-43ca-b0ab-033ee3083f56",
+   "effective_time": "20260724",
+   "version": "8",
+   "brand_name": [
+    "HydrOXYzine Hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040840"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "30b6f7b3-b620-961a-e063-6394a90a487b",
+   "id": "5747da5b-deeb-5ad6-e063-6394a90af2f5",
+   "effective_time": "20260723",
+   "version": "3",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217652"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "87d4bbff-0498-4c26-86cb-7ce173afa0b6",
+   "id": "81d956c2-b9db-4f60-9d66-5ca552942e59",
+   "effective_time": "20260721",
+   "version": "10",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "APOZEAL PHARMACEUTICALS INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210634"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "7f76580c-96a0-4b56-8986-ff5488bb9869",
+   "id": "4a711adb-4df8-48f2-bac2-90a4ad3641af",
+   "effective_time": "20260715",
+   "version": "5",
+   "brand_name": [
+    "Hydroxyzine hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204279"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "5648abce-f20e-717c-e063-6294a90a88ac",
+   "id": "5648abd7-f01a-43fb-e063-6294a90ab817",
+   "effective_time": "20260710",
+   "version": "1",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Advanced Rx of Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217652"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "66be7bde-d2bd-4c65-bde9-0fb9f5be093f",
+   "id": "7e25dc4d-3e6e-499c-b13d-3311795a7521",
+   "effective_time": "20260702",
+   "version": "100",
+   "brand_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217652"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "83e8d60d-36fd-4223-b50c-e6615045352a",
+   "id": "ec8be809-f91a-4310-91b7-79df492ddd94",
+   "effective_time": "20260701",
+   "version": "7",
+   "brand_name": [
+    "Hydroxyzine hydrochloride"
+   ],
+   "generic_name": [
+    "HYDROXYZINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204279"
+   ],
+   "n_sections": 16
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Hydroxyzine hydrochloride, USP has the chemical name of 2-[2-[4-( p -Chloro-α-phenylbenzyl)-1-piperazinyl]ethoxy]ethanol dihydrochloride. C 21 H 27 ClN 2 O 2 · 2HCl M.W. 447.83 Hydroxyzine hydrochloride, USP occurs as a white, odorless powder which is very soluble in water. Each tablet for oral administration contains 10 mg, 25 mg, or 50 mg hydroxyzine hydrochloride, USP. Inactive ingredients include: anhydrous lactose, carnauba wax, colloidal silicon dioxide, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium starch glycolate, titanium dioxide, and triacetin. structural formula"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Hydroxyzine hydrochloride is unrelated chemically to the phenothiazines, reserpine, meprobamate or the benzodiazepines. Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine’s clinical effects are usually noted within 15 to 30 minutes after oral administration."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus. As a sedative when used as a premedication and following general anesthesia, hydroxyzine may potentiate meperidine and barbiturates , so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis. Atropine and other belladonna alkaloids are not affected by the drug. Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent. The effectiveness of hydroxyzine as an antianxiety agent for long term use, that is more than 4 months, has not been assessed by systematic clinical studies. The physician should reassess periodically the usefulness of the drug for the individual patient."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Oral hydroxyzine hydrochloride is contraindicated in patients with known hypersensitivity to hydroxyzine hydrochloride products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication."
+  ],
+  "warnings": [
+   "WARNINGS Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers."
+  ],
+  "precautions": [
+   "PRECAUTIONS THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced. QT Prolongation/Torsade de Pointes (TdP): Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Since drowsiness may occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine. Patients should also be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effects of alcohol may be increased. Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely. Acute Generalized Exanthematous Pustulosis (AGEP) Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity."
+  ],
+  "geriatric_use": [
+   "Geriatric Use A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Side effects reported with the administration of hydroxyzine hydrochloride are usually mild and transitory in nature. Anticholinergic: Dry mouth. Central Nervous System: Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of dose. Involuntary motor activity including rare instances of tremor and convulsions have been reported, usually with doses considerably higher than those recommended. Clinically significant respiratory depression has not been reported at recommended doses. Cardiac System: QT prolongation, Torsade de Pointes. In postmarketing experience, the following additional undesirable effects have been reported: Body as a Whole: Allergic reaction. Nervous System: Headache. Psychiatric: Hallucination. Skin and Appendages: Oral hydroxyzine is associated with Acute Generalized Exanthematous Pustulosis (AGEP) and fixed drug eruptions in postmarketing reports; pruritus, rash, urticaria."
+  ],
+  "overdosage": [
+   "OVERDOSAGE The most common manifestation of hydroxyzine overdosage is hypersedation. Other reported signs and symptoms were convulsions, stupor, nausea and vomiting. As in the management of overdosage with any drug, it should be borne in mind that multiple agents may have been taken. If vomiting has not occurred spontaneously, it should be induced. Immediate gastric lavage is also recommended. General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated. Hypotension, though unlikely, may be controlled with intravenous fluids and levarterenol or metaraminol. Do not use epinephrine as hydroxyzine counteracts its pressor action. Hydroxyzine overdose may cause QT prolongation and Torsade de Pointes. ECG monitoring is recommended in cases of hydroxyzine overdose. There is no specific antidote. It is doubtful that hemodialysis would be of any value in the treatment of overdosage with hydroxyzine. However, if other agents such as barbiturates have been ingested concomitantly, hemodialysis may be indicated. There is no practical method to quantitate hydroxyzine in body fluids or tissue after its ingestion or administration."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: adults, 50 to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus: adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 to 100 mg for adults and 0.6 mg/kg of body weight in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all potent medication, the dosage should be adjusted according to the patient’s response to therapy."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Product: 50090-4117 NDC: 50090-4117-0 30 TABLET, FILM COATED in a BOTTLE NDC: 50090-4117-3 20 TABLET, FILM COATED in a BOTTLE, PLASTIC"
+  ],
+  "storage_and_handling": [
+   "Storage Dispense in a tight container as defined in the USP, with a child-resistant closure (as required). Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Manufactured In Croatia By: Pliva Hrvatska d.o.o. Zagreb, Croatia Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454"
+  ],
+  "set_id": "3946db7c-dc2d-4329-b9ac-f003d8c6d3e1",
+  "id": "1018a246-77e1-446e-b436-30feac311856",
+  "effective_time": "20240105",
+  "version": "13"
+ }
+}

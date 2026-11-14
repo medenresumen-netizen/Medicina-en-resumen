@@ -1,0 +1,716 @@
+{
+ "id_es": "ergocalciferol",
+ "generic_en": "ergocalciferol",
+ "search": "openfda.generic_name.exact:\"ERGOCALCIFEROL\"",
+ "pref": "ergocalciferol|ORAL|",
+ "downloaded": "2026-11-14T08:05Z",
+ "chosen": {
+  "set_id": "4ae38744-020d-4c37-a6f1-88f55c2f1047",
+  "id": "b427fa56-1a5b-4826-9034-e82c697381d3",
+  "effective_time": "20260904",
+  "version": "3",
+  "brand_name": [
+   "ERGOCALCIFEROL"
+  ],
+  "generic_name": [
+   "ERGOCALCIFEROL"
+  ],
+  "manufacturer_name": [
+   "Torrent Pharmaceuticals Limited"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA003444"
+  ],
+  "n_sections": 22
+ },
+ "candidates": [
+  {
+   "set_id": "ba2076ef-1650-45e1-b092-a4c449dd6210",
+   "id": "35f5df97-247f-48c2-b0d0-d3aebe01bcc2",
+   "effective_time": "20261102",
+   "version": "7",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "7e9b75e3-eb7c-4227-b953-166ac6897e54",
+   "id": "5ed84439-1526-6bd2-e063-6394a90a8cef",
+   "effective_time": "20261027",
+   "version": "11",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "a80436e0-b507-4e7b-9a60-a9d5ddc4a045",
+   "id": "5e475366-cdcd-7eba-e063-6294a90a2d11",
+   "effective_time": "20261020",
+   "version": "26",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "2c4c0a36-12cf-444d-9d57-de983eef4d36",
+   "id": "5ddc5d56-b7ad-0fae-e063-6394a90a02e8",
+   "effective_time": "20261015",
+   "version": "8",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Strides Pharma Science Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "4ae38744-020d-4c37-a6f1-88f55c2f1047",
+   "id": "b427fa56-1a5b-4826-9034-e82c697381d3",
+   "effective_time": "20260904",
+   "version": "3",
+   "brand_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Torrent Pharmaceuticals Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA003444"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "3fe92511-0b4a-43f4-9c89-c8599469c1e2",
+   "id": "56976444-5e2d-121d-e063-6294a90a51e9",
+   "effective_time": "20260714",
+   "version": "16",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "3c0f4142-cc1f-43de-8677-ee06b6f4fc10",
+   "id": "54741cba-d4f4-617e-e063-6294a90ad1eb",
+   "effective_time": "20260617",
+   "version": "6",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0d230fd8-2ea7-4dd6-a506-5f7804e539fc",
+   "id": "0c8eeb9e-179a-4af3-9d6e-706dea805a31",
+   "effective_time": "20260520",
+   "version": "103",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "c4793165-6647-4dba-b100-3986739cd01e",
+   "id": "5f05963b-0d1b-44ca-bb54-d2290f113ca3",
+   "effective_time": "20260519",
+   "version": "5",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "39b72d09-cedc-4130-89a3-1ea03f58ba04",
+   "id": "3720533b-d465-493f-9fa8-d176b682031d",
+   "effective_time": "20260514",
+   "version": "12",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "2475e731-0072-4787-8a40-09137883c625",
+   "id": "5118a9ac-3c52-0aae-e063-6294a90ada17",
+   "effective_time": "20260505",
+   "version": "19",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "5f4ef344-7880-3375-e053-2a91aa0a47b8",
+   "id": "511870de-7153-63e7-e063-6394a90a98e8",
+   "effective_time": "20260505",
+   "version": "5",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "492452d6-2b32-39c0-e054-00144ff8d46c",
+   "id": "50b2cfc7-dfe3-4406-e063-6294a90a2527",
+   "effective_time": "20260430",
+   "version": "10",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "1cd4afc6-ef90-4e7b-9f11-2bfbd137524c",
+   "id": "1cd4afc6-ef90-4e7b-9f11-2bfbd137524c",
+   "effective_time": "20260317",
+   "version": "1",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "a2b82923-f0dd-641f-e053-2995a90a7c4a",
+   "id": "47e3501c-5ccf-b8af-e063-6294a90a9c4c",
+   "effective_time": "20260108",
+   "version": "4",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "AvPAK"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "f3402462-5d86-b4c9-e053-2a95a90aaab0",
+   "id": "49739ebf-fa64-df44-e063-6294a90a2ea2",
+   "effective_time": "20260101",
+   "version": "4",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Northwind Health Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "f55eafcd-dfd9-fdae-c39f-ae07aa852ce1",
+   "id": "450e6d57-a62c-12f5-e063-6294a90a01a4",
+   "effective_time": "20251203",
+   "version": "8",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "AvKARE"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "2a8d73d6-9991-401b-ab8b-81f22e5a0695",
+   "id": "44ea5b7f-37c7-ed1d-e063-6294a90ab33f",
+   "effective_time": "20251201",
+   "version": "7",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Bionpharma Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "26aba724-8990-def9-e063-6394a90a991d",
+   "id": "32d64b6b-bf55-a01c-e063-6294a90a32e9",
+   "effective_time": "20250415",
+   "version": "2",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "a8aa37f4-7e94-4425-beea-49c938294a23",
+   "id": "3ae8bd65-6a5d-48e5-9828-7173799aec9f",
+   "effective_time": "20241002",
+   "version": "7",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b43d7134-6c68-556b-e053-2995a90a38ef",
+   "id": "1d7857e9-d431-561f-e063-6394a90a3ebb",
+   "effective_time": "20240717",
+   "version": "3",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA204276"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "c538ac91-2507-4f42-8f7a-013510539b30",
+   "id": "185aa7a4-cccd-3c84-e063-6394a90af9d7",
+   "effective_time": "20240513",
+   "version": "6",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Aphena Pharma Solutions - Tennessee, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "9e63d720-cce8-4a59-b311-26cfca113957",
+   "id": "92ef1d30-1e94-4874-b265-87e4994f3d10",
+   "effective_time": "20240405",
+   "version": "103",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080704"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "6490770b-82ef-4e7c-be93-999174d4ee59",
+   "id": "f409a4d6-5e02-18ee-e053-2a95a90a090c",
+   "effective_time": "20230206",
+   "version": "2",
+   "brand_name": [
+    "Ergocalciferol"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA040833"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "548365c1-b51c-4a8b-ae3d-50b41aba12db",
+   "id": "a7b1d449-215a-4356-b1f9-bc04f39c9b60",
+   "effective_time": "20220401",
+   "version": "8",
+   "brand_name": [
+    "VITAMIN D"
+   ],
+   "generic_name": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090455"
+   ],
+   "n_sections": 19
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Ergocalciferol capsules, USP, is a synthetic calcium regulator for oral administration. Ergocalciferol is a white, colorless crystal, insoluble in water, soluble in organic solvents, and slightly soluble in vegetable oils. It is affected by air and by light. Ergosterol or provitamin D 2 is found in plants and yeast and has no antirachitic activity. There are more than 10 substances belonging to a group of steroid compounds, classified as having vitamin D or antirachitic activity. One USP unit of vitamin D 2 is equivalent to one International Unit (IU), and 1 mcg of vitamin D 2 is equal to 40 IU. Each capsule contains 1.25 mg (50,000 International Units vitamin D) of ergocalciferol, USP, in an edible vegetable oil. Ergocalciferol, also called vitamin D 2 , is 9, 10-secoergosta-5,7,10 (19), 22-tetraen-3-ol, (3ß,5Z,7E,22 E )-; (C 28 H 44 O) with a molecular weight of 396.65, and has the following structural formula: Inactive Ingredients: Butylated Hydroxylanisole, FD&C Blue #1, FD&C Yellow #5, Gelatin, Glycerin, Purified Water, Soybean Oil. ergocalciferol1"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY The in vivo synthesis of the major biologically active metabolites of vitamin D occurs in two steps. The first hydroxylation of ergocalciferol takes place in the liver (to 25-hydroxyvitamin D) and the second in the kidneys (to 1, 25-dihydroxyvitamin D). Vitamin D metabolites promote the active absorption of calcium and phosphorus by the small intestine, thus elevating serum calcium and phosphate levels sufficiently to permit bone mineralization. Vitamin D metabolites also mobilize calcium and phosphate from bone and probably increase the reabsorption of calcium and perhaps also of phosphate by the renal tubules. There is a time lag of 10 to 24 hours between the administration of vitamin D and the initiation of its action in the body due to the necessity of synthesis of the active metabolites in the liver and kidneys. Parathyroid hormone is responsible for the regulation of this metabolism in the kidneys."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Ergocalciferol is indicated for use in the treatment of hypoparathyroidism, refractory rickets, also known as vitamin D resistant rickets, and familial hypophosphatemia."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS Ergocalciferol is contraindicated in patients with hypercalcemia, malabsorption syndrome, abnormal sensitivity to the toxic effects of vitamin D, and hypervitaminosis D."
+  ],
+  "warnings": [
+   "WARNINGS Hypersensitivity to vitamin D may be one etiologic factor in infants with idiopathic hypercalcemia. In these cases vitamin D must be strictly restricted. Keep out of the reach of children."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Vitamin D administration from fortified foods, dietary supplements, self-administered and prescription drug sources should be evaluated. Therapeutic dosage should be readjusted as soon as there is clinical improvement. Dosage levels must be individualized and great care exercised to prevent serious toxic effects. IN VITAMIN D RESISTANT RICKETS THE RANGE BETWEEN THERAPEUTIC AND TOXIC DOSES IS NARROW. When high therapeutic doses are used progress should be followed with frequent blood calcium determinations. In the treatment of hypoparathyroidism, intravenous calcium, parathyroid hormone, and/or dihydrotachysterol may be required. Maintenance of a normal serum phosphorus level by dietary phosphate restriction and/or administration of aluminum gels as intestinal phosphate binders in those patients with hyperphosphatemia as frequently seen in renal osteodystrophy is essential to prevent metastatic calcification. Adequate dietary calcium is necessary for clinical response to vitamin D therapy. This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals. Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity. Protect from light. Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia. Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term animal studies have been performed to evaluate the drug’s potential in these areas. Pregnancy Animal reproduction studies have shown fetal abnormalities in several species associated with hypervitaminosis D. These are similar to the supravalvular aortic stenosis syndrome described in infants by Black in England (1963). This syndrome was characterized by supravalvular aortic stenosis, elfin facies, and mental retardation. For the protection of the fetus, therefore, the use of vitamin D in excess of the recommended dietary allowance during normal pregnancy should be avoided unless, in the judgment of the physician, potential benefits in a specific, unique case outweigh the significant hazards involved. The safety in excess of 400 IU of vitamin D daily during pregnancy has not been established. Nursing Mothers Caution should be exercised when ergocalciferol is administered to a nursing woman. In a mother given large doses of vitamin D, 25-hydroxycholecalciferol appeared in the milk and caused hypercalcemia in her child. Monitoring of the infant’s serum calcium concentration is required in that case (Goldberg, 1972). Pediatric Use Pediatric doses must be individualized (see DOSAGE AND ADMINISTRATION). Geriatric Use Clinical studies of ergocalciferol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. A few published reports have suggested that the absorption of orally administered vitamin D may be attenuated in elderly compared to younger individuals. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "general_precautions": [
+   "General Vitamin D administration from fortified foods, dietary supplements, self-administered and prescription drug sources should be evaluated. Therapeutic dosage should be readjusted as soon as there is clinical improvement. Dosage levels must be individualized and great care exercised to prevent serious toxic effects. IN VITAMIN D RESISTANT RICKETS THE RANGE BETWEEN THERAPEUTIC AND TOXIC DOSES IS NARROW. When high therapeutic doses are used progress should be followed with frequent blood calcium determinations. In the treatment of hypoparathyroidism, intravenous calcium, parathyroid hormone, and/or dihydrotachysterol may be required. Maintenance of a normal serum phosphorus level by dietary phosphate restriction and/or administration of aluminum gels as intestinal phosphate binders in those patients with hyperphosphatemia as frequently seen in renal osteodystrophy is essential to prevent metastatic calcification. Adequate dietary calcium is necessary for clinical response to vitamin D therapy. This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals. Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity. Protect from light."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term animal studies have been performed to evaluate the drug’s potential in these areas."
+  ],
+  "pregnancy": [
+   "Pregnancy Animal reproduction studies have shown fetal abnormalities in several species associated with hypervitaminosis D. These are similar to the supravalvular aortic stenosis syndrome described in infants by Black in England (1963). This syndrome was characterized by supravalvular aortic stenosis, elfin facies, and mental retardation. For the protection of the fetus, therefore, the use of vitamin D in excess of the recommended dietary allowance during normal pregnancy should be avoided unless, in the judgment of the physician, potential benefits in a specific, unique case outweigh the significant hazards involved. The safety in excess of 400 IU of vitamin D daily during pregnancy has not been established."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Caution should be exercised when ergocalciferol is administered to a nursing woman. In a mother given large doses of vitamin D, 25-hydroxycholecalciferol appeared in the milk and caused hypercalcemia in her child. Monitoring of the infant’s serum calcium concentration is required in that case (Goldberg, 1972)."
+  ],
+  "pediatric_use": [
+   "Pediatric Use Pediatric doses must be individualized (see DOSAGE AND ADMINISTRATION)."
+  ],
+  "geriatric_use": [
+   "Geriatric Use Clinical studies of ergocalciferol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. A few published reports have suggested that the absorption of orally administered vitamin D may be attenuated in elderly compared to younger individuals. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss. To report SUSPECTED ADVERSE REACTIONS, contact Torrent Pharma Inc. at 1-800-912-9561 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "overdosage": [
+   "OVERDOSAGE The effects of administered vitamin D can persist for two or more months after cessation of treatment. Hypervitaminosis D is characterized by: 1. Hypercalcemia with anorexia, nausea, weakness, weight loss, vague aches and stiffness, constipation, mental retardation, anemia, and mild acidosis. 2. Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. 3. Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Bone demineralization (osteoporosis) in adults occurs concomitantly. 4. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism). The treatment of hypervitaminosis D with hypercalcemia consists in immediate withdrawal of the vitamin, a low calcium diet, generous intake of fluids, along with symptomatic and supportive treatment. Hypercalcemic crisis with dehydration, stupor, coma, and azotemia requires more vigorous treatment. The first step should be hydration of the patient. Intravenous saline may quickly and significantly increase urinary calcium excretion. A loop diuretic (furosemide or ethacrynic acid) may be given with the saline infusion to further increase renal calcium excretion. Other reported therapeutic measures include dialysis or the administration of citrates, sulfates, phosphates, corticosteroids, EDTA (ethylenediaminetetraacetic acid), and mithramycin via appropriate regimens. With appropriate therapy, recovery is the usual outcome when no permanent damage has occurred. Deaths via renal or cardiovascular failure have been reported. The LD 50 in animals is unknown. The toxic oral dose of ergocalciferol in the dog is 4 mg/kg."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION THE RANGE BETWEEN THERAPEUTIC AND TOXIC DOSES IS NARROW. Vitamin D Resistant Rickets: 12,000 to 500,000 IU units daily. Hypoparathyroidism: 50,000 to 200,000 IU units daily concomitantly with calcium lactate 4 g, six times per day. DOSAGE MUST BE INDIVIDUALIZED UNDER CLOSE MEDICAL SUPERVISION. Calcium intake should be adequate. Blood calcium and phosphorus determinations must be made every 2 weeks or more frequently if necessary. X-rays of the bones should be taken every month until condition is corrected and stabilized."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Capsules of 1.25 mg (50,000 IU vitamin D) of ergocalciferol, USP are clear, forest green, oval, soft gelatin capsules laser printed with “E09” supplied in HDPE bottles: Bottles of 100 - NDC 13668-757-01 Store at 77°F (25°C); excursions permitted between 59° to 86°F (15° to 30°C) [See USP Controlled Room Temperature]. Dispense in a tight, light-resistant container as defined in the USP/NF. Rx Only Manufactured by: Esjay Pharma Private Limited, Tamilnadu, India - 602117 Distributed by: Torrent Pharma INC. Basking Ridge, NJ 07920. 8113605 P3495/01/25 Rev. 09/2026 logo"
+  ],
+  "set_id": "4ae38744-020d-4c37-a6f1-88f55c2f1047",
+  "id": "b427fa56-1a5b-4826-9034-e82c697381d3",
+  "effective_time": "20260904",
+  "version": "3"
+ }
+}

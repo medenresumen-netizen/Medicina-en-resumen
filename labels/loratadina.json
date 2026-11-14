@@ -1,0 +1,713 @@
+{
+ "id_es": "loratadina",
+ "generic_en": "loratadine",
+ "search": "openfda.generic_name.exact:\"LORATADINE\"",
+ "pref": "loratadine|ORAL|",
+ "downloaded": "2026-11-14T08:05Z",
+ "chosen": {
+  "set_id": "0d74af21-3ef7-418b-a2ef-78737b0af288",
+  "id": "0d74af21-3ef7-418b-a2ef-78737b0af288",
+  "effective_time": "20250613",
+  "version": "2",
+  "brand_name": [
+   "Loratadine"
+  ],
+  "generic_name": [
+   "LORATADINE"
+  ],
+  "manufacturer_name": [
+   "Bryant Ranch Prepack"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA210722"
+  ],
+  "n_sections": 21
+ },
+ "candidates": [
+  {
+   "set_id": "06d1c443-ec23-4aa1-a7f3-f2b7ffcc2588",
+   "id": "2bc5d996-4703-4713-83b9-2b06548ae2a8",
+   "effective_time": "20261106",
+   "version": "3",
+   "brand_name": [
+    "careone childrens allergy relief"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "American Sales Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210033"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1dd299e7-dfdd-459b-bb2b-83e37dd2e63d",
+   "id": "5ee9b8fb-6bf0-5c05-e063-6394a90a430f",
+   "effective_time": "20261028",
+   "version": "3",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Bi-Mart"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210722"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "3881afaf-8d0d-4154-85a8-79a3c7806b49",
+   "id": "5ed6c901-1489-2b67-e063-6394a90a7c81",
+   "effective_time": "20261027",
+   "version": "6",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "WALGREEN COMPANY"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA201865"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "3dea627d-4b0c-e077-e063-6394a90a15a0",
+   "id": "5ed66ffd-e92c-d68b-e063-6394a90af3b1",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "WinCo Foods, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210722"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "240fa3b3-a2f2-4213-98bc-c042f4df1da3",
+   "id": "2777d0aa-200c-44b9-938d-0cca10bd6ae8",
+   "effective_time": "20260921",
+   "version": "2",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA214684"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "113da68e-f658-082a-e063-6294a90ad929",
+   "id": "7bf669d0-b4dd-458f-a998-b1ac1c3e9965",
+   "effective_time": "20260828",
+   "version": "4",
+   "brand_name": [
+    "AMAZON BASIC CARE ALLERGY RELIEF"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA208314"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "2e75a831-eccc-4179-a4e3-9844be24bcda",
+   "id": "5847aab3-e9c2-8bb6-e063-6394a90aeaaf",
+   "effective_time": "20260805",
+   "version": "5",
+   "brand_name": [
+    "Dye-Free Childrens Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "CVS PHARMACY, INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210088"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "41f8fc1d-2d14-48da-a233-23e9c11296d9",
+   "id": "eff828bf-472b-4f68-a285-a7952c1d4a56",
+   "effective_time": "20260723",
+   "version": "7",
+   "brand_name": [
+    "allergy relief"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076301"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "12c8066a-3429-481e-b63a-7ea2b439a170",
+   "id": "5698c3d7-d47a-25e7-e063-6394a90a2d82",
+   "effective_time": "20260714",
+   "version": "5",
+   "brand_name": [
+    "Childrens Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076805"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "190ecdc3-454a-4623-9e4a-09f4ab865084",
+   "id": "490db5be-ca8e-4d91-8610-78ec7568839b",
+   "effective_time": "20260709",
+   "version": "2",
+   "brand_name": [
+    "ALLERGY RELIEF"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Meijer, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076011"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "2bc586e4-5297-44cf-e063-6294a90a531d",
+   "id": "558e2984-e10b-9ce4-e063-6294a90adb9e",
+   "effective_time": "20260629",
+   "version": "3",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "St. Mary's Medical Park Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210722"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0a0d700d-bdba-4c90-a947-5d61d40ce4df",
+   "id": "8d420971-3031-42af-9fbb-22a99001f291",
+   "effective_time": "20260528",
+   "version": "4",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA214684"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "27bb0a40-35ee-4c19-bd6f-fb054c8a2586",
+   "id": "848b8687-3bac-4a69-98a5-6d00a85f2953",
+   "effective_time": "20260528",
+   "version": "4",
+   "brand_name": [
+    "Good Sense childrens allergy relief"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075728"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "43bc8e38-bd74-411c-b4fe-7d809d24ae46",
+   "id": "5241d239-3115-7faa-e063-6394a90a40b1",
+   "effective_time": "20260520",
+   "version": "2",
+   "brand_name": [
+    "ValuMeds Allergy Relief Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Cabinet Health P.B.C."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA214684"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "16f00a3a-0777-f70c-e063-6294a90a71c9",
+   "id": "4ece9297-a72e-a420-e063-6394a90ab367",
+   "effective_time": "20260406",
+   "version": "3",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210722"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "052e0ea2-441f-42cc-b62c-f2574f995bff",
+   "id": "4e532561-358c-e69f-e063-6394a90ad9a6",
+   "effective_time": "20260331",
+   "version": "4",
+   "brand_name": [
+    "ALLERGY RELIEF"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "CARDINAL HEALTH 110, LLC. DBA LEADER"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA206214"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "14d1ecf5-d694-4ce0-87e4-df27f3f4d909",
+   "id": "4e5410fd-6d27-f0d2-e063-6394a90a016f",
+   "effective_time": "20260331",
+   "version": "2",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Safecor Health, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076154"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "3937f769-e8e2-4b32-8338-21b0a74a8697",
+   "id": "434285f9-116c-458e-a598-fcdcd7be2825",
+   "effective_time": "20260320",
+   "version": "9",
+   "brand_name": [
+    "Loratadine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA208314"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0a42baae-554b-4b93-8780-fe45c42fabc0",
+   "id": "c7f2a0cc-cb60-41d0-9370-b05c5fd5e7d9",
+   "effective_time": "20260318",
+   "version": "3",
+   "brand_name": [
+    "Childrens Loratadine Oral"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075728"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "0e84571d-87b6-4742-ac62-9ed68a115c72",
+   "id": "1839ed5b-a3ef-4ff6-9680-c53298a3269f",
+   "effective_time": "20260317",
+   "version": "2",
+   "brand_name": [
+    "CHILDRENS ALLERGY RELIEF"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "CVS WOONSOCKET PRESCRIPTION CENTER, INCORPORATED"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA075728"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "039f144b-891b-4ab0-e063-6394a90aa4c8",
+   "id": "4bbdaf19-94a0-bf42-e063-6294a90ae5ec",
+   "effective_time": "20260226",
+   "version": "12",
+   "brand_name": [
+    "Loratadine antihistamine"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076301"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "3c5b2eaa-24da-3314-e063-6294a90a5b21",
+   "id": "4bc22783-728e-6425-e063-6394a90aac97",
+   "effective_time": "20260226",
+   "version": "2",
+   "brand_name": [
+    "Dr Simi All Day Allergy Relief"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Farmacias De Similares TX LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210722"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "0038bc38-c205-4d8d-ab78-1abbcd76829e",
+   "id": "4fd50f17-7237-4659-bad6-a9e6189fa37c",
+   "effective_time": "20260225",
+   "version": "15",
+   "brand_name": [
+    "allergy relief"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076301"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "23936948-71bf-4c18-9160-22b7075e675d",
+   "id": "db859005-a53d-4de0-aaf8-25c78b746244",
+   "effective_time": "20260115",
+   "version": "4",
+   "brand_name": [
+    "Childrens Loratadine Sugar Free"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076805"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "42a73448-104a-4c7f-aea0-cef44d15f5f1",
+   "id": "484b9983-af1d-ceb0-e063-6294a90a9d8a",
+   "effective_time": "20260113",
+   "version": "5",
+   "brand_name": [
+    "Childrens Loratadine Sugar Free"
+   ],
+   "generic_name": [
+    "LORATADINE"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076805"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "ACTIVE INGREDIENT(S) Loratadine 10 mg"
+  ],
+  "purpose": [
+   "PURPOSE Antihistamine"
+  ],
+  "indications_and_usage": [
+   "USE(S) temporarily relieves these symptoms due to hay fever or other upper respiratory allergies:  runny nose  sneezing  itchy, water eyes  itching of the nose or throat"
+  ],
+  "warnings": [
+   "WARNINGS DO NOT USE if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "do_not_use": [
+   "DO NOT USE if you have ever had an allergic reaction to this product or any of its ingredients"
+  ],
+  "ask_doctor": [
+   "ASK A DOCTOR BEFORE USE IF you have liver or kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+   "WHEN USING THIS PRODUCT do not take more than directed. Taking more than directed may cause drowsiness."
+  ],
+  "stop_use": [
+   "STOP USE AND ASK DOCTOR IF an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "PREGNANCY/BREASTFEEDING ask a health professional before use"
+  ],
+  "keep_out_of_reach_of_children": [
+   "KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+   "DIRECTIONS adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+   "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">adults and children 6 years and over</td><td styleCode=\"Rrule\" valign=\"top\"> 1 tablet daily; not more than 1 tablet in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\"> children under 6 years of age</td><td styleCode=\"Rrule\" valign=\"top\"> ask a doctor</td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\"> consumers with liver or kidney disease</td><td styleCode=\"Rrule\" valign=\"top\"> ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "STORAGE store between 20º to 25ºC (68º to 77ºF)"
+  ],
+  "inactive_ingredient": [
+   "INACTIVE INGREDIENTS Lactose monohydrate, magnesium stearate, sodium starch glycolate and starch maize pregelatinized"
+  ],
+  "recent_major_changes": [
+   ""
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Loratadine 10 mg NDC 71335-2431-1: 20 Tablets in a BOTTLE NDC 71335-2431-2: 30 Tablets in a BOTTLE NDC 71335-2431-3: 60 Tablets in a BOTTLE NDC 71335-2431-4: 14 Tablets in a BOTTLE NDC 71335-2431-5: 10 Tablets in a BOTTLE NDC 71335-2431-6: 90 Tablets in a BOTTLE NDC 71335-2431-7: 28 Tablets in a BOTTLE NDC 71335-2431-8: 15 Tablets in a BOTTLE NDC 71335-2431-9: 100 Tablets in a BOTTLE Store between 20º to 25ºC (68º to 77ºF). Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504"
+  ],
+  "set_id": "0d74af21-3ef7-418b-a2ef-78737b0af288",
+  "id": "0d74af21-3ef7-418b-a2ef-78737b0af288",
+  "effective_time": "20250613",
+  "version": "2"
+ }
+}

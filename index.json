@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T07:52Z",
- "n": 438,
+ "updated": "2026-11-14T08:05Z",
+ "n": 447,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -728,6 +728,22 @@
    "set_id": "6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a",
    "application": [
     "NDA018240"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "atomoxetina",
+   "generic_en": "atomoxetine",
+   "brand": [
+    "atomoxetine"
+   ],
+   "manufacturer": [
+    "Glenmark Pharmaceuticals Inc., USA"
+   ],
+   "effective_time": "20260929",
+   "set_id": "0ab8d905-e890-4e91-a730-3e5d12f5c23f",
+   "application": [
+    "ANDA079019"
    ],
    "n_candidates": 25
   },
@@ -2008,6 +2024,22 @@
    "n_candidates": 1
   },
   {
+   "id_es": "dexametasona-vo",
+   "generic_en": "dexamethasone",
+   "brand": [
+    "Hemady"
+   ],
+   "manufacturer": [
+    "Edenbridge Pharmaceuticals LLC."
+   ],
+   "effective_time": "20260109",
+   "set_id": "6b9cf32c-6d60-4853-bbfd-2304ffc2c129",
+   "application": [
+    "NDA211379"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "dexametasona",
    "generic_en": "dexamethasone sodium phosphate",
    "brand": [
@@ -2500,6 +2532,22 @@
     "NDA211109"
    ],
    "n_candidates": 1
+  },
+  {
+   "id_es": "ergocalciferol",
+   "generic_en": "ergocalciferol",
+   "brand": [
+    "ERGOCALCIFEROL"
+   ],
+   "manufacturer": [
+    "Torrent Pharmaceuticals Limited"
+   ],
+   "effective_time": "20260904",
+   "set_id": "4ae38744-020d-4c37-a6f1-88f55c2f1047",
+   "application": [
+    "NDA003444"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "ertapenem",
@@ -3430,6 +3478,22 @@
    "n_candidates": 4
   },
   {
+   "id_es": "hidroxizina",
+   "generic_en": "hydroxyzine hydrochloride",
+   "brand": [
+    "Hydroxyzine Hydrochloride"
+   ],
+   "manufacturer": [
+    "A-S Medication Solutions"
+   ],
+   "effective_time": "20240105",
+   "set_id": "3946db7c-dc2d-4329-b9ac-f003d8c6d3e1",
+   "application": [
+    "ANDA088617"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "hidroxocobalamina",
    "generic_en": "hydroxocobalamin",
    "brand": [
@@ -4310,6 +4374,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "loratadina",
+   "generic_en": "loratadine",
+   "brand": [
+    "Loratadine"
+   ],
+   "manufacturer": [
+    "Bryant Ranch Prepack"
+   ],
+   "effective_time": "20250613",
+   "set_id": "0d74af21-3ef7-418b-a2ef-78737b0af288",
+   "application": [
+    "ANDA210722"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "lorazepam-vo",
    "generic_en": "lorazepam",
    "brand": [
@@ -4454,6 +4534,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "metformina-glibenclamida",
+   "generic_en": "glyburide and metformin hydrochloride",
+   "brand": [
+    "Glyburide and Metformin Hydrochloride"
+   ],
+   "manufacturer": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "effective_time": "20240612",
+   "set_id": "7facb5ac-c1d5-43b4-e053-2991aa0a2a7b",
+   "application": [
+    "ANDA077870"
+   ],
+   "n_candidates": 12
+  },
+  {
    "id_es": "metformina-xr",
    "generic_en": "metformin hydrochloride",
    "brand": [
@@ -4500,6 +4596,22 @@
     "NDA018934"
    ],
    "n_candidates": 2
+  },
+  {
+   "id_es": "metilfenidato",
+   "generic_en": "methylphenidate hydrochloride",
+   "brand": [
+    "Ritalin"
+   ],
+   "manufacturer": [
+    "Sandoz Inc"
+   ],
+   "effective_time": "20250205",
+   "set_id": "d6fb2750-cdab-4749-ba0d-7534840a5892",
+   "application": [
+    "NDA010187"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "metilprednisolona-iv",
@@ -5588,6 +5700,22 @@
     "ANDA214083"
    ],
    "n_candidates": 1
+  },
+  {
+   "id_es": "prednisolona",
+   "generic_en": "prednisolone sodium phosphate",
+   "brand": [
+    "Orapred ODT"
+   ],
+   "manufacturer": [
+    "Advanz Pharma (US) Corp."
+   ],
+   "effective_time": "20250603",
+   "set_id": "1e379543-c4cf-4e72-953b-db15b7f0c2a1",
+   "application": [
+    "NDA021959"
+   ],
+   "n_candidates": 21
   },
   {
    "id_es": "prednisona",
@@ -7008,6 +7136,22 @@
    "set_id": "5a9b3737-9ce6-4a89-b76e-6aab79eba9cf",
    "application": [
     "NDA021817"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "zolpidem",
+   "generic_en": "zolpidem tartrate",
+   "brand": [
+    "Ambien"
+   ],
+   "manufacturer": [
+    "Cosette Pharmaceuticals, Inc."
+   ],
+   "effective_time": "20250207",
+   "set_id": "747949c5-2c91-4909-8a07-71b6826f8e97",
+   "application": [
+    "NDA019908"
    ],
    "n_candidates": 25
   }

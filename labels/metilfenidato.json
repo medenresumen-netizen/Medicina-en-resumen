@@ -1,0 +1,753 @@
+{
+ "id_es": "metilfenidato",
+ "generic_en": "methylphenidate hydrochloride",
+ "search": "brand:RITALIN",
+ "pref": "methylphenidate hydrochloride|ORAL|RITALIN",
+ "downloaded": "2026-11-14T08:05Z",
+ "chosen": {
+  "set_id": "d6fb2750-cdab-4749-ba0d-7534840a5892",
+  "id": "3cf2c541-a65c-4651-ab30-3451a5581f8f",
+  "effective_time": "20250205",
+  "version": "3",
+  "brand_name": [
+   "Ritalin"
+  ],
+  "generic_name": [
+   "METHYLPHENIDATE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Sandoz Inc"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA010187"
+  ],
+  "n_sections": 34
+ },
+ "candidates": [
+  {
+   "set_id": "29f06562-6b6a-4ca6-b62e-d08a45fb3dd4",
+   "id": "67f59673-53d1-4e48-9c9a-fb8bed2eab3a",
+   "effective_time": "20261021",
+   "version": "4",
+   "brand_name": [
+    "METADATE CD"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lannett Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021259"
+   ],
+   "n_sections": 37
+  },
+  {
+   "set_id": "35be77db-fbe3-487e-a220-a08a11aaec28",
+   "id": "655ab426-36c9-451f-baf0-c9efb04c440b",
+   "effective_time": "20261014",
+   "version": "6",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aurolife Pharma, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209276"
+   ],
+   "n_sections": 33
+  },
+  {
+   "set_id": "e45c75dc-d381-475b-b649-a871c8a36e60",
+   "id": "8e987008-a787-4cbd-8775-69e92239de2f",
+   "effective_time": "20261014",
+   "version": "12",
+   "brand_name": [
+    "methylphenidate hydrochloride CD"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lannett Company, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021259"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "27ea91ad-f64e-43d7-ab10-6f988bca5379",
+   "id": "5d4e3a29-ca13-9c98-e063-6294a90a682d",
+   "effective_time": "20261008",
+   "version": "13",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Granules Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211796"
+   ],
+   "n_sections": 41
+  },
+  {
+   "set_id": "768bf181-d0d8-49e5-9c87-cacbb069e0b2",
+   "id": "5a0c4a86-1350-414a-e063-6294a90a5fbb",
+   "effective_time": "20260827",
+   "version": "3",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Northstar Rx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217229"
+   ],
+   "n_sections": 41
+  },
+  {
+   "set_id": "45d33807-88b2-4b42-9c86-e5b05d7adec1",
+   "id": "594d92d3-4500-ae1e-e063-6394a90ababc",
+   "effective_time": "20260818",
+   "version": "12",
+   "brand_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Granules Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210992"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "18024571-4505-6d51-e063-6294a90a1972",
+   "id": "5943acc6-3fff-91f4-e063-6294a90a98df",
+   "effective_time": "20260817",
+   "version": "3",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217229"
+   ],
+   "n_sections": 41
+  },
+  {
+   "set_id": "98be5c84-b348-6b8e-e053-2995a90ae4cc",
+   "id": "58cc80ac-03f4-5f22-e063-6394a90af825",
+   "effective_time": "20260811",
+   "version": "8",
+   "brand_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210992"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "f7a7ffd1-bc30-4db8-8391-dddf76acd639",
+   "id": "dd7e2d15-d45e-41dc-9d9a-7b68c229b601",
+   "effective_time": "20260529",
+   "version": "9",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Rhodes Pharmaceuticals LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA205831"
+   ],
+   "n_sections": 42
+  },
+  {
+   "set_id": "44737c1d-fe75-409e-8a58-591696d3d7aa",
+   "id": "2b8fd6f1-882d-4344-8617-0b2f66dfbaaf",
+   "effective_time": "20260528",
+   "version": "13",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lannett Company, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211918"
+   ],
+   "n_sections": 42
+  },
+  {
+   "set_id": "10aa0dc0-bd0e-4927-a19a-8722d78ad67d",
+   "id": "b0804310-a328-4743-b417-67c66f56fc94",
+   "effective_time": "20260527",
+   "version": "11",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Amneal Pharmaceuticals of New York LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205105"
+   ],
+   "n_sections": 35
+  },
+  {
+   "set_id": "2cf1b26b-199d-4c7f-ab64-4805a9def2cc",
+   "id": "518e35dd-90ee-6cca-e063-6294a90a840f",
+   "effective_time": "20260511",
+   "version": "10",
+   "brand_name": [
+    "Methylphenidate"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "KVK-Tech, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA207485"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "3d1f5aff-5d39-496c-b5ed-7f3c70ec641c",
+   "id": "8b133cd2-e3c6-4742-b402-2393b56ffc93",
+   "effective_time": "20260501",
+   "version": "32",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Lannett Company, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091695"
+   ],
+   "n_sections": 43
+  },
+  {
+   "set_id": "85ef422d-af27-4126-9841-6892af1871d6",
+   "id": "24aa9277-3773-489d-8459-f9215140c53f",
+   "effective_time": "20260430",
+   "version": "32",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Actavis Pharma, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA076772",
+    "ANDA076655"
+   ],
+   "n_sections": 39
+  },
+  {
+   "set_id": "c45dc1de-adfa-4b3c-a7dc-cffbc8eac74f",
+   "id": "0944cf70-d59a-483b-9698-e96ef955a65a",
+   "effective_time": "20260424",
+   "version": "54",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Trigen Laboratories, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205327"
+   ],
+   "n_sections": 43
+  },
+  {
+   "set_id": "22e5ddfa-7264-fbb1-e063-6394a90a6483",
+   "id": "50289734-e08d-0f5a-e063-6394a90ab421",
+   "effective_time": "20260423",
+   "version": "3",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Golden State Medical Supply, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205327"
+   ],
+   "n_sections": 43
+  },
+  {
+   "set_id": "1a88218c-5b18-4220-8f56-526de1a276cd",
+   "id": "64d7c1e1-e7ed-4d74-a44d-13b4da64af9a",
+   "effective_time": "20260420",
+   "version": "30",
+   "brand_name": [
+    "CONCERTA"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Janssen Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021121"
+   ],
+   "n_sections": 42
+  },
+  {
+   "set_id": "defc1205-8e90-4b1e-b862-05e4c35c7364",
+   "id": "2d9338bb-0c67-4442-9179-f096efd3d0ed",
+   "effective_time": "20260408",
+   "version": "33",
+   "brand_name": [
+    "QuilliChew ER"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NextWave Pharmaceuticals, Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA207960"
+   ],
+   "n_sections": 40
+  },
+  {
+   "set_id": "c2dc2109-44a6-4797-b04e-18761dd9d45a",
+   "id": "b013d8b4-c598-45d9-9934-51fca4539a24",
+   "effective_time": "20260324",
+   "version": "21",
+   "brand_name": [
+    "Quillivant XR"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NextWave Pharmaceuticals, Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA202100"
+   ],
+   "n_sections": 42
+  },
+  {
+   "set_id": "5a29687b-5294-4b27-a556-514b092a877d",
+   "id": "6cdb2cd7-3d68-4e1b-bb74-c3bd808a28a4",
+   "effective_time": "20260317",
+   "version": "102",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091695"
+   ],
+   "n_sections": 43
+  },
+  {
+   "set_id": "cd2c1226-fa19-4734-b62d-89fea73dcb0d",
+   "id": "63f67d96-85b5-47bd-932e-62f09e64d6af",
+   "effective_time": "20260317",
+   "version": "102",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091695"
+   ],
+   "n_sections": 43
+  },
+  {
+   "set_id": "1bf37f9f-29cf-4b09-9c81-eb369e35a042",
+   "id": "476dd35a-34a9-02dd-e063-6394a90a912a",
+   "effective_time": "20260102",
+   "version": "14",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "KVK-TECH, INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206932"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "f6581305-cd1e-4171-8c1b-e184c7bde033",
+   "id": "4522b794-5c43-44cd-e063-6394a90ab39a",
+   "effective_time": "20251204",
+   "version": "6",
+   "brand_name": [
+    "Methylphenidate Hydrochloride"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "American Health Packaging"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA211009"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "9e11e093-4ff3-4bed-8fe9-3ee460b47303",
+   "id": "8ba92af8-0db9-4347-95c3-bd06680fc85f",
+   "effective_time": "20251201",
+   "version": "28",
+   "brand_name": [
+    "Methylphenidate Hydrochloride Extended-Release"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "SpecGx LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA203583"
+   ],
+   "n_sections": 40
+  },
+  {
+   "set_id": "be59f8b4-7842-42cc-9559-bfa747f0baa5",
+   "id": "43e0b75f-01c3-28cd-e063-6394a90a74a8",
+   "effective_time": "20251118",
+   "version": "6",
+   "brand_name": [
+    "METADATE CD"
+   ],
+   "generic_name": [
+    "METHYLPHENIDATE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aytu BioPharma, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021259"
+   ],
+   "n_sections": 37
+  }
+ ],
+ "label": {
+  "boxed_warning": [
+   "WARNING: ABUSE, MISUSE, AND ADDICTION Ritalin has a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction. Misuse and abuse of CNS stimulants, including Ritalin, can result in overdose and death [see Overdosage ( 10 )] , and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection. Before prescribing Ritalin, assess each patient’s risk for abuse, misuse, and addiction. Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug. Throughout Ritalin treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction [see Warnings and Precautions ( 5.1 ) and Drug Abuse and Dependence ( 9.2 )]. WARNING: ABUSE, MISUSE, AND ADDICTION See full prescribing information for complete boxed warning. Ritalin has a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction. Misuse and abuse of CNS stimulants, including Ritalin, can result in overdose and death ( 5.1 , 9.2 , 10 ): • Before prescribing Ritalin, assess each patient’s risk for abuse, misuse, and addiction. • Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug. • Throughout treatment, reassess each patient’s risk and frequently monitor for signs and symptoms of abuse, misuse, and addiction."
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Ritalin is indicated for the treatment of: • Attention Deficit Hyperactivity Disorders (ADHD) in pediatric patients 6 years and older and adults • Narcolepsy Ritalin is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorders (ADHD) and Narcolepsy ( 1 )."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • Pediatric Patients 6 Years and Older: Start with 5 mg twice daily (before breakfast and lunch), titrating the dose weekly in 5- to 10-mg increments. Dosages above 60 mg/day are not recommended ( 2.2 ). • Adults: Average daily dosage is 20 mg to 30 mg, administered 2 or 3 times daily, preferably 30 to 45 minutes before meals. Maximum total daily dosage is 60 mg ( 2.2 ). 2.1 Pretreatment Screening Prior to treating patients with Ritalin, assess: • for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions ( 5.2 )]. • the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating Ritalin [see Warnings and Precautions ( 5.10 )]. 2.2 General Dosing Information Pediatric Patients 6 years and Older : Start with 5 mg orally twice daily (before breakfast and lunch). Increase dosage gradually, in increments of 5-to 10-mg weekly. Daily dosage above 60 mg is not recommended. Adults : Average dosage is 20 to 30 mg daily. Administer orally in divided doses 2 or 3 times daily, preferably 30 to 45 minutes before meals. Maximum total daily dosage is 60 mg. Patients who are unable to sleep if medication is taken late in the day should take the last dose before 6 p.m. 2.3 Dosage Reduction and Discontinuation If paradoxical worsening of symptoms or other adverse reactions occur, reduce the dosage, or, if necessary, discontinue Ritalin. If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued."
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS • 5 mg, round, yellow, flat with CIBA monogram on one side and NDC# 7 on the reverse side • 10 mg, round, pale green, biconvex with CIBA monogram on one side and NDC# 3 and a partial bisection on the reverse side • 20 mg, round, pale yellow, biconvex with CIBA monogram on one side and NDC# 34 and a partial bisection on the reverse side • Tablets: 5 mg, 10 mg, and 20 mg ( 3 )"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS • Hypersensitivity to methylphenidate or other components of Ritalin. Hypersensitivity reactions, such as angioedema and anaphylactic reactions, have been reported in patients treated with methylphenidate [see Adverse Reactions ( 6 )] . • Concomitant treatment with monoamine oxidase inhibitors (MAOIs), or within 14 days following discontinuation of treatment with an MAOI, because of the risk of hypertensive crises [see Drug Interactions ( 7.1 )] . • Known hypersensitivity to methylphenidate or other product components of Ritalin ( 4 ). • Concurrent treatment with a monoamine oxidase inhibitor (MAOI), or use of an MAOI within the preceding 14 days ( 4 )."
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Risks to Patients with Serious Cardiac Disease : Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmias, coronary artery disease, or other serious cardiac disease ( 5.2 ). • Increased Blood Pressure and Heart Rate : Monitor blood pressure and pulse ( 5.3 ). • Psychiatric Adverse Reactions : Prior to initiating Ritalin, screen patients for risk factors for developing a manic episode. If new psychotic or manic symptoms occur, consider discontinuing Ritalin ( 5.4 ). • Priapism : If abnormally sustained or frequent and painful erections occur, patients should seek immediate medical attention ( 5.5 ). • Peripheral Vasculopathy, Including Raynaud’s Phenomenon : Careful observation for digital changes is necessary during Ritalin treatment. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for patients who develop signs or symptoms of peripheral vasculopathy ( 5.6 ). • Long-Term Suppression of Growth in Pediatric Patients : Closely monitor growth (height and weight) in pediatric patients. Pediatric patients not growing or gaining height or weight as expected may need to have their treatment interrupted ( 5.7 ). • Acute Angle Closure Glaucoma: Ritalin -treated patients considered at risk for acute angle closure glaucoma (e.g., patients with significant hyperopia) should be evaluated by an ophthalmologist ( 5.8 ). • Increased Intraocular Pressure (IOP) and Glaucoma: Prescribe Ritalin to patients with open-angle glaucoma or abnormally increased IOP only if the benefit of treatment is considered to outweigh the risk. Closely monitor patients with a history of increased IOP or open angle glaucoma ( 5.9 ). • Motor and Verbal Tics, and Worsening of Tourette’s Syndrome: Before initiating Ritalin, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome. Regularly monitor patients for the emergence or worsening of tics or Tourette’s syndrome. Discontinue treatment if clinically appropriate ( 5.10 ). 5.1 Abuse, Misuse, and Addiction Ritalin have a high potential for abuse and misuse. The use of Ritalin exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction. Ritalin can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence ( 9.2 )]. Misuse and abuse of CNS stimulants, including Ritalin, can result in overdose and death [see Overdosage ( 10 )], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection. Before prescribing Ritalin, assess each patient’s risk for abuse, misuse, and addiction. Educate patients and their families about these risks and proper disposal of any unused drug. Advise patients to store Ritalin in a safe place, preferably locked, and instruct patients to not give Ritalin to anyone else. Throughout Ritalin treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction. 5.2 Risks to Patients with Serious Cardiac Disease Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who are treated with CNS stimulants at the recommended ADHD dosage. Avoid Ritalin use in patients with known serious structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease. 5.3 Increased Blood Pressure and Heart Rate CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 beats per minute). Some patients may have larger increases. Monitor all Ritalin-treated patients for hypertension and tachycardia. 5.4 Psychiatric Adverse Reactions Exacerbation of Pre-existing Psychosis CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder. Induction of a Manic Episode in Patients with Bipolar Disorder CNS stimulants may induce a manic or mixed mood episode in patients. Prior to initiating Ritalin treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression). New Psychotic or Manic Symptoms CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania. In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0% of placebo-treated patients. If such symptoms occur, consider discontinuing Ritalin. 5.5 Priapism Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate use in both adult and pediatric male patients. Although priapism was not reported with methylphenidate initiation, it developed after some time on methylphenidate, often subsequent to an increase in dosage. Priapism also occurred during methylphenidate withdrawal (drug holidays or during discontinuation). Ritalin-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention. 5.6 Peripheral Vasculopathy, Including Raynaud’s Phenomenon CNS stimulants, including Ritalin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon. Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown. Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports and at the therapeutic dosage of CNS stimulants in all age groups throughout the course of treatment. Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant. Careful observation for digital changes is necessary during Ritalin treatment. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for Ritalin-treated patients who develop signs or symptoms of peripheral vasculopathy. 5.7 Long-Term Suppression of Growth in Pediatric Patients CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients. Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year had a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period. Closely monitor growth (weight and height) in Ritalin-treated pediatric patients. Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted. 5.8 Acute Angle Closure Glaucoma There have been reports of angle closure glaucoma associated with methylphenidate treatment. Although the mechanism is not clear, Ritalin -treated patients considered at risk for acute angle closure glaucoma (e.g., patients with significant hyperopia) should be evaluated by an ophthalmologist. 5.9 Increased Intraocular Pressure and Glaucoma There have been reports of an elevation of intraocular pressure (IOP) associated with methylphenidate treatment [see Adverse Reactions ( 6 )]. Prescribe Ritalin to patients with open-angle glaucoma or abnormally increased IOP only if the benefit of treatment is considered to outweigh the risk. Closely monitor Ritalin-treated patients with a history of abnormally increased IOP or open angle glaucoma. 5.10 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics. Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions ( 6 )]. Before initiating Ritalin, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome. Regularly monitor Ritalin-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following are discussed in more detail in other sections of the labeling: • Abuse, Misuse, and Addiction [see Boxed Warning, Warnings and Precautions ( 5.1 ), Drug Abuse and Dependence ( 9.2 , 9.3 )] • Known hypersensitivity to methylphenidate or other ingredients of Ritalin [see Contraindications ( 4 )] • Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications ( 4 ), Drug Interactions ( 7.1 )] • Risks to Patients with Serious Cardiac Disease [see Warnings and Precautions ( 5.2 )] • Increased Blood Pressure and Heart Rate [see Warnings and Precautions ( 5.3 )] • Psychiatric Adverse Reactions [see Warnings and Precautions ( 5.4 )] • Priapism [see Warnings and Precautions ( 5.5 )] • Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions ( 5.6 )] • Long-Term Suppression of Growth in Pediatric Patients [see Warnings and Precautions ( 5.7 )] • Acute Angle Closure Glaucoma [see Warnings and Precautions ( 5.8 )] • Increased Intraocular Pressure and Glaucoma [see Warnings and Precautions ( 5.9 )] • Motor and Verbal Tics, and Worsening of Tourette’s Syndrome [see Warnings and Precautions ( 5.10 )] The following adverse reactions associated with the use of Ritalin and other methylphenidate products were identified in clinical trials, spontaneous reports, and literature. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure. Adverse Reactions Reported with Ritalin Infections and Infestations: nasopharyngitis Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia Immune System Disorders: hypersensitivity reactions, including angioedema, and anaphylaxis Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood, depression Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs Eye Disorders: blurred vision, difficulties in visual accommodation Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris Respiratory, Thoracic, and Mediastinal Disorders: cough Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis, trismus Investigations: weight loss (adult ADHD patients) Vascular Disorders: peripheral coldness, Raynaud's phenomenon Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products The list below shows adverse reactions not listed for Ritalin that have been reported with other methylphenidate-containing products. Blood and Lymphatic Disorders: pancytopenia Immune System Disorders: hypersensitivity reactions, such as auricular swelling, bullous conditions, eruptions, exanthemas Psychiatric Disorders: affect lability, mania, disorientation, and libido changes Nervous System Disorders: migraine, motor and verbal tics Eye Disorders: diplopia, increased intraocular pressure, mydriasis Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea Gastrointestinal Disorders: diarrhea, constipation Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption Musculoskeletal, Connective Tissue, and Bone Disorders: myalgia, muscle twitching Renal and Urinary Disorders: hematuria Reproductive System and Breast Disorders: gynecomastia General Disorders: fatigue, hyperpyrexia Urogenital Disorders: priapism Common adverse reactions: tachycardia, palpitations, headache, insomnia, anxiety, hyperhidrosis, weight loss, decreased appetite, dry mouth, nausea, and abdominal pain ( 6 ). To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS • Antihypertensive Drugs: Monitor blood pressure. Adjust dosage of antihypertensive drug as needed ( 7.1 ). 7.1 Clinically Important Drug Interactions with Ritalin Table 1 presents clinically important drug interactions with Ritalin. Table 1: Clinically Important Drug Interactions with Ritalin Monoamine Oxidase Inhibitors (MAOI) Clinical Impact Concomitant use of MAOIs and CNS stimulants, including Ritalin can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure [see Contraindications ( 4 )] . Intervention Concomitant use of Ritalin with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated. Antihypertensive Drugs Clinical Impact Ritalin may decrease the effectiveness of drugs used to treat hypertension [see Warnings and Precautions ( 5.3 )] . Intervention Monitor blood pressure and adjust the dosage of the antihypertensive drug as needed. Halogenated Anesthetics Clinical Impact Concomitant use of halogenated anesthetics and Ritalin may increase the risk of sudden blood pressure and heart rate increase during surgery. Intervention Avoid use of Ritalin in patients being treated with anesthetics on the day of surgery. Risperidone Clinical Impact Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS) Intervention Monitor for signs of EPS"
+  ],
+  "drug_interactions_table": [
+   "<table ID=\"_RefID0EESAE\" width=\"100%\"><caption>Table 1: Clinically Important Drug Interactions with Ritalin</caption><col width=\"23%\"/><col width=\"77%\"/><tbody><tr><td colspan=\"2\" styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Monoamine Oxidase Inhibitors (MAOI)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Clinical Impact</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Concomitant use of MAOIs and CNS stimulants, including Ritalin can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure <content styleCode=\"italics\">[see Contraindications (<linkHtml href=\"#s4\">4</linkHtml>)]</content>.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Intervention</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Concomitant use of Ritalin with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated.</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Rrule Lrule Botrule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Antihypertensive Drugs</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Clinical Impact</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Ritalin may decrease the effectiveness of drugs used to treat hypertension <content styleCode=\"italics\">[see Warnings and Precautions (<linkHtml href=\"#s5p3\">5.3</linkHtml>)]</content>.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Intervention</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Monitor blood pressure and adjust the dosage of the antihypertensive drug as needed.</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Rrule Lrule Botrule \" valign=\"bottom\"><paragraph><content styleCode=\"bold\">Halogenated Anesthetics</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Clinical Impact</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Concomitant use of halogenated anesthetics and Ritalin may increase the risk of sudden blood pressure and heart rate increase during surgery.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Intervention</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Avoid use of Ritalin in patients being treated with anesthetics on the day of surgery.</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"bold\">Risperidone</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Clinical Impact</content></paragraph></td><td styleCode=\"Rrule Lrule Toprule Botrule \" valign=\"top\"><paragraph>Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS)</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"italics\">Intervention</content></paragraph></td><td styleCode=\"Rrule Botrule Lrule Toprule \" valign=\"top\"><paragraph>Monitor for signs of EPS</paragraph></td></tr></tbody></table>"
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Ritalin, during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD Medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/ . Risk Summary Published studies and postmarketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There may be risks to the fetus associated with the use of CNS stimulants use during pregnancy (see Clinical Considerations) . No effects on morphological development were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses up to 10 and 15 times, respectively, the maximum recommended human dose (MRHD) of 60 mg/day given to adolescents on a mg/m 2 basis. However, spina bifida was observed in rabbits at a dose 52 times the MRHD given to adolescents. A decrease in pup body weight was observed in a pre- and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at doses 6 times the MRHD given to adolescents (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions CNS stimulants, such as Ritalin, can cause vasoconstriction and thereby decrease placental perfusion. No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers. Data Animal Data In embryo-fetal development studies conducted in rats and rabbits, methylphenidate was administered orally at doses of up to 75 and 200 mg/kg/day, respectively, during the period of organogenesis. Malformations (increased incidence of fetal spina bifida) were observed in rabbits at the highest dose, which is approximately 52 times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis. The no effect level for embryo-fetal development in rabbits was 60 mg/kg/day (15times the MRHD given to adolescents on a mg/m 2 basis). There was no evidence of morphological development effects in rats, although increased incidences of fetal skeletal variations were seen at the highest dose level (10 times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis), which was also maternally toxic. The no effect level for embryo-fetal development in rats was 25 mg/kg/day (3 times the MRHD on a mg/m 2 basis). When methylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 45 mg/kg/day, offspring body weight gain was decreased at the highest dose (6 times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis), but no other effects on postnatal development were observed. The no effect level for pre- and postnatal development in rats was 15 mg/kg/day (approximately 2 times the MRHD given to adolescents on a mg/m 2 basis). 8.2 Lactation Risk Summary Limited published literature, based on milk sampling from seven mothers, reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7. There are no reports of adverse effects on the breastfed infant and no effects on milk production. Long-term neurodevelopmental effects on infants from stimulant exposure are unknown. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ritalin and any potential adverse effects on the breastfed infant from Ritalin or from the underlying maternal condition. Clinical Considerations Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia, anorexia, and reduced weight gain. 8.4 Pediatric Use The safety and effectiveness of Ritalin for the treatment of ADHD have been established in pediatric patients aged 6 to 17 years. The safety and effectiveness of Ritalin in pediatric patients less than aged 6 years have not been established. The long-term efficacy of methylphenidate in pediatric patients has not been established. Long-Term Suppression of Growth Growth should be monitored during treatment with stimulants, including Ritalin. Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions ( 5.7 )] . Juvenile Animal Toxicity Data Rats treated with methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood. A deficit in acquisition of a specific learning task was observed in females only. The doses at which these findings were observed are at least 4 times the MRHD of 60 mg/day given to children on a mg/m 2 basis. In a study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal Week 10). When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg/day given to children on a mg/m 2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m 2 basis). The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day ( approximately 0.5 times the MRHD given to children on a mg/m 2 basis). The clinical significance of the long-term behavioral effects observed in rats is unknown. 8.5 Geriatric Use Ritalin has not been studied in the geriatric population."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Ritalin, during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD Medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/ . Risk Summary Published studies and postmarketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There may be risks to the fetus associated with the use of CNS stimulants use during pregnancy (see Clinical Considerations) . No effects on morphological development were observed in embryo-fetal development studies with oral administration of methylphenidate to pregnant rats and rabbits during organogenesis at doses up to 10 and 15 times, respectively, the maximum recommended human dose (MRHD) of 60 mg/day given to adolescents on a mg/m 2 basis. However, spina bifida was observed in rabbits at a dose 52 times the MRHD given to adolescents. A decrease in pup body weight was observed in a pre- and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at doses 6 times the MRHD given to adolescents (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Fetal/Neonatal Adverse Reactions CNS stimulants, such as Ritalin, can cause vasoconstriction and thereby decrease placental perfusion. No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers. Data Animal Data In embryo-fetal development studies conducted in rats and rabbits, methylphenidate was administered orally at doses of up to 75 and 200 mg/kg/day, respectively, during the period of organogenesis. Malformations (increased incidence of fetal spina bifida) were observed in rabbits at the highest dose, which is approximately 52 times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis. The no effect level for embryo-fetal development in rabbits was 60 mg/kg/day (15times the MRHD given to adolescents on a mg/m 2 basis). There was no evidence of morphological development effects in rats, although increased incidences of fetal skeletal variations were seen at the highest dose level (10 times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis), which was also maternally toxic. The no effect level for embryo-fetal development in rats was 25 mg/kg/day (3 times the MRHD on a mg/m 2 basis). When methylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 45 mg/kg/day, offspring body weight gain was decreased at the highest dose (6 times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis), but no other effects on postnatal development were observed. The no effect level for pre- and postnatal development in rats was 15 mg/kg/day (approximately 2 times the MRHD given to adolescents on a mg/m 2 basis)."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of Ritalin for the treatment of ADHD have been established in pediatric patients aged 6 to 17 years. The safety and effectiveness of Ritalin in pediatric patients less than aged 6 years have not been established. The long-term efficacy of methylphenidate in pediatric patients has not been established. Long-Term Suppression of Growth Growth should be monitored during treatment with stimulants, including Ritalin. Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions ( 5.7 )] . Juvenile Animal Toxicity Data Rats treated with methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood. A deficit in acquisition of a specific learning task was observed in females only. The doses at which these findings were observed are at least 4 times the MRHD of 60 mg/day given to children on a mg/m 2 basis. In a study conducted in young rats, methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal Week 10). When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg/day given to children on a mg/m 2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m 2 basis). The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day ( approximately 0.5 times the MRHD given to children on a mg/m 2 basis). The clinical significance of the long-term behavioral effects observed in rats is unknown."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Ritalin has not been studied in the geriatric population."
+  ],
+  "drug_abuse_and_dependence": [
+   "9 DRUG ABUSE AND DEPENDENCE 9.1 Controlled Substance Ritalin contains methylphenidate hydrochloride, a Schedule II controlled substance. 9.2 Abuse Ritalin has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions ( 5.1 )] . Ritalin can be diverted for non-medical use into illicit channels or distribution. Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect. Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence. Misuse and abuse of methylphenidate hydrochloride may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain. Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse. Misuse and abuse of CNS stimulants, including Ritalin, can result in overdose and death [see Overdosage ( 10 )] , and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection. 9.3 Dependence Physical Dependence Ritalin may produce physical dependence. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including Ritalin include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation. Tolerance Ritalin may produce tolerance. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose)."
+  ],
+  "controlled_substance": [
+   "9.1 Controlled Substance Ritalin contains methylphenidate hydrochloride, a Schedule II controlled substance."
+  ],
+  "abuse": [
+   "9.2 Abuse Ritalin has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction [see Warnings and Precautions ( 5.1 )] . Ritalin can be diverted for non-medical use into illicit channels or distribution. Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect. Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence. Misuse and abuse of methylphenidate hydrochloride may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain. Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse. Misuse and abuse of CNS stimulants, including Ritalin, can result in overdose and death [see Overdosage ( 10 )] , and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection."
+  ],
+  "dependence": [
+   "9.3 Dependence Physical Dependence Ritalin may produce physical dependence. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including Ritalin include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation. Tolerance Ritalin may produce tolerance. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose)."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Clinical Effects of Overdose Overdose of CNS stimulants is characterized by the following sympathomimetic effects: • Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension. Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death. Takotsubo cardiomyopathy may develop. • CNS effects including psychomotor agitation, confusion, and hallucinations. Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur. • Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop. Overdose Management Consider the possibility of multiple drug ingestion. Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful. Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION Ritalin contains methylphenidate hydrochloride, a CNS stimulant. It is available as tablets of 5 mg, 10 mg, and 20 mg strengths for oral administration. Methylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydrochloride, and its structural formula is: Methylphenidate hydrochloride USP is a white, odorless, fine crystalline powder. Its solutions are acid to litmus. It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone. Its molecular weight is 269.77 g/mol. Ritalin tablets contains the following inactive ingredients: D&C Yellow No. 10 (5-mg and 20-mg tablets), FD&C Green No. 3 (10-mg tablets), lactose, magnesium stearate, polyethylene glycol, starch (5-mg and 10-mg tablets), sucrose, talc, and tragacanth (20-mg tablets). Methylphenidate hydrochloride structural formula."
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Methylphenidate hydrochloride is a CNS stimulant. The mode of therapeutic action in ADHD and narcolepsy is not known. 12.2 Pharmacodynamics Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers. The d-threo enantiomer is more pharmacologically active than the l-threo enantiomer. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space. Cardiac Electrophysiology A formal QT study has not been conducted in patients taking Ritalin. The effect of dexmethylphenidate, the pharmacologically active d- enantiomer of Ritalin, on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of dexmethlyphenidate XR 40 mg (maximum recommended adult total daily dosage) in 75 healthy volunteers. Electrocardiograms were collected up to 12 hours postdose. Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF). The maximum mean prolongation of QTcF intervals was less than 5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time-matched comparisons versus placebo. This was below the threshold of clinical concern and there was no evident exposure response relationship. 12.3 Pharmacokinetics Absorption The absolute bioavailability of methylphenidate is 22 ± 8 % for the d-enantiomer and 5 ± 3 % for the l-enantiomer. Peak plasma concentrations of approximately 4.3 ± 2.3 ng/mL were reached on an average of 2 hours after administration of 10 mg tablet. The time to peak rate in children was 1.9 hours (0.3 to 4.4 hours) for Ritalin. Effect of Food Ingestion with food has no relevant effect on absorption of Ritalin. Distribution Binding to plasma proteins is low (10% to 33%). The volume of distribution was 2.65 ± 1.11 L/kg for d-methylphenidate and 1.80 ± 0.91 L/kg for l -methylphenidate. Elimination The systemic clearance is 0.40 ± 0.12 L/h/kg for d-methylphenidate and 0.73 ± 0.28 L/h/kg for l -methylphenidate. Metabolism Methylphenidate is metabolized primarily by de-esterification to alpha-phenyl-piperidine acetic acid (ritalinic acid), which has little or no pharmacologic activity. Excretion After oral administration, 78% to 97% of the dose is excreted in the urine and 1% to 3% in feces in the form of metabolites within 48 to 96 hours. Most of the dose is excreted in the urine as alpha-phenyl-2-piperidine acetic acid (60% to 86%). Studies in Specific Populations Male and Female Patients No gender differences in the pharmacokinetics of methylphenidate between healthy male and female adults are expected. Racial or Ethnic Groups There is insufficient experience with the use of Ritalin to detect ethnic variations in pharmacokinetics. Patients with Renal Impairment Ritalin has not been studied in renally-impaired patients. Renal impairment is expected to have minimal effect on the pharmacokinetics of methylphenidate since less than 1% of a radiolabeled dose is excreted in the urine as unchanged compound, and the major metabolite (ritalinic acid), has little or no pharmacologic activity. Patients with Hepatic Impairment Ritalin has not been studied in patients with hepatic impairment. Hepatic impairment is expected to have minimal effect on the pharmacokinetics of methylphenidate since it is metabolized primarily to ritalinic acid by nonmicrosomal hydrolytic esterases that are widely distributed throughout the body."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Methylphenidate hydrochloride is a CNS stimulant. The mode of therapeutic action in ADHD and narcolepsy is not known."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers. The d-threo enantiomer is more pharmacologically active than the l-threo enantiomer. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space. Cardiac Electrophysiology A formal QT study has not been conducted in patients taking Ritalin. The effect of dexmethylphenidate, the pharmacologically active d- enantiomer of Ritalin, on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of dexmethlyphenidate XR 40 mg (maximum recommended adult total daily dosage) in 75 healthy volunteers. Electrocardiograms were collected up to 12 hours postdose. Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF). The maximum mean prolongation of QTcF intervals was less than 5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time-matched comparisons versus placebo. This was below the threshold of clinical concern and there was no evident exposure response relationship."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Absorption The absolute bioavailability of methylphenidate is 22 ± 8 % for the d-enantiomer and 5 ± 3 % for the l-enantiomer. Peak plasma concentrations of approximately 4.3 ± 2.3 ng/mL were reached on an average of 2 hours after administration of 10 mg tablet. The time to peak rate in children was 1.9 hours (0.3 to 4.4 hours) for Ritalin. Effect of Food Ingestion with food has no relevant effect on absorption of Ritalin. Distribution Binding to plasma proteins is low (10% to 33%). The volume of distribution was 2.65 ± 1.11 L/kg for d-methylphenidate and 1.80 ± 0.91 L/kg for l -methylphenidate. Elimination The systemic clearance is 0.40 ± 0.12 L/h/kg for d-methylphenidate and 0.73 ± 0.28 L/h/kg for l -methylphenidate. Metabolism Methylphenidate is metabolized primarily by de-esterification to alpha-phenyl-piperidine acetic acid (ritalinic acid), which has little or no pharmacologic activity. Excretion After oral administration, 78% to 97% of the dose is excreted in the urine and 1% to 3% in feces in the form of metabolites within 48 to 96 hours. Most of the dose is excreted in the urine as alpha-phenyl-2-piperidine acetic acid (60% to 86%). Studies in Specific Populations Male and Female Patients No gender differences in the pharmacokinetics of methylphenidate between healthy male and female adults are expected. Racial or Ethnic Groups There is insufficient experience with the use of Ritalin to detect ethnic variations in pharmacokinetics. Patients with Renal Impairment Ritalin has not been studied in renally-impaired patients. Renal impairment is expected to have minimal effect on the pharmacokinetics of methylphenidate since less than 1% of a radiolabeled dose is excreted in the urine as unchanged compound, and the major metabolite (ritalinic acid), has little or no pharmacologic activity. Patients with Hepatic Impairment Ritalin has not been studied in patients with hepatic impairment. Hepatic impairment is expected to have minimal effect on the pharmacokinetics of methylphenidate since it is metabolized primarily to ritalinic acid by nonmicrosomal hydrolytic esterases that are widely distributed throughout the body."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility Carcinogenesis In a lifetime carcinogenicity study carried out in B6C3F1 mice, methylphenidate caused an increase in hepatocellular adenomas, and in males only, an increase in hepatoblastomas at a daily dose of approximately 60 mg/kg/day. This dose is approximately 2 times the MRHD of 60 mg/day given to children on mg/m 2 basis. Hepatoblastoma is a relatively rare rodent malignant tumor type. There was no increase in total malignant hepatic tumors. The mouse strain used is sensitive to the development of hepatic tumors and the significance of these results to humans is unknown. Methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 4 times the MRHD (children) on a mg/m 2 basis. In a 24-week carcinogenicity study in the transgenic mouse strain p53+/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity. Male and female mice were fed diets containing the same concentration of methylphenidate as in the lifetime carcinogenicity study; the high-dose groups were exposed to 60 to 74 mg/kg/day of methylphenidate. Mutagenesis Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay, in the in vitro mouse lymphoma cell forward mutation assay, or in the in vitro chromosomal aberration assay using human lymphocytes. Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary cells. Methylphenidate was negative in vivo in males and females in the mouse bone marrow micronucleus assay. Impairment of Fertility No human data on the effect of methylphenidate on fertility are available. Methylphenidate did not impair fertility in male or female mice that were fed diets containing the drug in an 18-week continuous breeding study. The study was conducted at doses up to 160 mg/kg/day, approximately 10times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility Carcinogenesis In a lifetime carcinogenicity study carried out in B6C3F1 mice, methylphenidate caused an increase in hepatocellular adenomas, and in males only, an increase in hepatoblastomas at a daily dose of approximately 60 mg/kg/day. This dose is approximately 2 times the MRHD of 60 mg/day given to children on mg/m 2 basis. Hepatoblastoma is a relatively rare rodent malignant tumor type. There was no increase in total malignant hepatic tumors. The mouse strain used is sensitive to the development of hepatic tumors and the significance of these results to humans is unknown. Methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 4 times the MRHD (children) on a mg/m 2 basis. In a 24-week carcinogenicity study in the transgenic mouse strain p53+/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity. Male and female mice were fed diets containing the same concentration of methylphenidate as in the lifetime carcinogenicity study; the high-dose groups were exposed to 60 to 74 mg/kg/day of methylphenidate. Mutagenesis Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay, in the in vitro mouse lymphoma cell forward mutation assay, or in the in vitro chromosomal aberration assay using human lymphocytes. Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary cells. Methylphenidate was negative in vivo in males and females in the mouse bone marrow micronucleus assay. Impairment of Fertility No human data on the effect of methylphenidate on fertility are available. Methylphenidate did not impair fertility in male or female mice that were fed diets containing the drug in an 18-week continuous breeding study. The study was conducted at doses up to 160 mg/kg/day, approximately 10times the MRHD of 60 mg/day given to adolescents on a mg/m 2 basis."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING • 5 mg tablets (NDC 66758-273-01) round, yellow, (imprinted \"CIBA 7\") supplied in bottles of 100 • 10 mg tablets (NDC 66758-274-01) round, pale green, scored, (imprinted \"CIBA 3\") supplied in bottles of 100 • 20 mg tablets (NDC 66758-275-01) round, pale yellow, scored, (imprinted \"CIBA 34\") supplied in bottles of 100 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP controlled room temperature]. Protect from light. Dispense in tight, light-resistant container (USP)."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Medication Guide). Abuse, Misuse, and Addiction Educate patients and their families about the risks of abuse, misuse, and addiction of Ritalin, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions ( 5.1 ), Drug Abuse and Dependence ( 9.2 ), Overdosage ( 10 )] . Advise patients to store Ritalin in a safe place, preferably locked, and instruct patients to not give Ritalin to anyone else. Risks to Patients with Serious Cardiac Disease Advise patients that there are potential risks to patient with serious cardiac disease, including sudden death, with Ritalin use. Instruct patients to contact a healthcare provider immediately if they develop symptoms, such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions ( 5.2 )]. Increased Blood Pressure and Heart Rate Instruct patients that Ritalin can cause elevations of their blood pressure and pulse rate [see Warnings and Precautions ( 5.3 )] . Psychiatric Adverse Reactions Advise patients that Ritalin, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania [see Warnings and Precautions ( 5.4 )] . Priapism Advise patients of the possibility of painful or prolonged penile erections (priapism). Instruct them to seek immediate medical attention in the event of priapism [see Warnings and Precautions ( 5.5 )] . Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon] Instruct patients about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes. Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Ritalin. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions ( 5.6 )] . Long-Term Suppression of Growth in Pediatric Patients Advise patients that Ritalin may cause slowing of growth and weight loss [see Warnings and Precautions ( 5.7 )] . Increased Intraocular Pressure (IOP) and Glaucoma Advise patients that IOP and glaucoma may occur during treatment with Ritalin [see Warnings and Precautions ( 5.9 )] . Motor and Verbal Tics, and Worsening of Tourette’s Syndrome Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with Ritalin. Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs [see Warnings and Precautions ( 5.10 )]. Pregnancy Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including RITALIN, during pregnancy [see Use in Specific Populations ( 8.1 )] . Manufactured by Societal CDMO Gainesville, LLC Gainesville, GA 30504 for Sandoz Inc., Princeton, NJ 08540"
+  ],
+  "spl_medguide": [
+   "MEDICATION GUIDE RITALIN ® (rit-ah-lin) (methylphenidate hydrochloride) tablets, for oral use, CII What is the most important information I should know about RITALIN? RITALIN may cause serious side effects, including: • Abuse, misuse, and addiction. RITALIN has a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of RITALIN, other methylphenidate containing medicines, and amphetamine containing medicines, can lead to overdose and death. The risk of overdose and death is increased with higher doses of RITALIN or when it is used in ways that are not approved, such as snorting or injection. o Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with RITALIN and will monitor you or your child during treatment. o RITALIN may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider. o Do not give RITALIN to anyone else. See “ What is RITALIN? ” for more information. o Keep RITALIN in a safe place and properly dispose of any unused medicine. See “ How should I store RITALIN? ” for more information. o Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs. • Risks for people with serious heart disease. Sudden death has happened in people who have heart defects or other serious heart disease. Your healthcare provider should check you or your child carefully for heart problems before starting RITALIN. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects. Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child has any signs of heart problems, such as chest pain, shortness of breath, or fainting while taking RITALIN. • Increased blood pressure and heart rate. Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with RITALIN. • Mental (psychiatric) problems: All Patients o new or worse behavior and thought problems o new or worse bipolar illness o new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems while taking RITALIN, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. What is RITALIN? • RITALIN is a central nervous system (CNS) stimulant prescription medicine. It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD). RITALIN may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD. • RITALIN should be used as a part of a total treatment program for ADHD that may include counseling or other therapies. • RITALIN is also used in the treatment of a sleep disorder called narcolepsy. It is not known if RITALIN is safe and effective in children under 6 years of age. RITALIN is a federally controlled substance (CII) because it contains methylphenidate that can be a target for people who abuse prescription medicines or street drugs. Keep RITALIN in a safe place to protect it from theft. Never give your RITALIN to anyone else, because it may cause death or harm them. Selling or giving away RITALIN may harm others and is against the law. Who should not take RITALIN? RITALIN should not be taken if you or your child: • are allergic to methylphenidate hydrochloride, or any of the ingredients in RITALIN. See the end of this Medication Guide for a complete list of ingredients in RITALIN. • are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor (MAOI). RITALIN may not be right for you or your child. Before starting RITALIN, tell your or your child’s healthcare provider about all health conditions (or a family history of), including: • heart problems, heart disease, heart defects, or high blood pressure • mental problems, including psychosis, mania, bipolar illness, or depression • circulation problems in fingers or toes • have eye problems, including increased pressure in your eye, glaucoma, or problems with your close-up vision (farsightedness) • have or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndrome. • if you are pregnant or plan to become pregnant. It is not known if RITALIN will harm your unborn baby. o There is a pregnancy registry for females who are exposed to ADHD medications, including RITALIN, during pregnancy. The purpose of the registry is to collect information about the health of females exposed to RITALIN and their baby. If you or your child becomes pregnant during treatment with RITALIN, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhd-medications/. • if you are breastfeeding or plan to breastfeed. RITALIN passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with RITALIN. Tell your healthcare provider about all of the medicines that you or your child takes, including prescription and over-the-counter medicines, vitamins, and herbal supplements. RITALIN and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be adjusted while taking RITALIN. Your healthcare provider will decide whether RITALIN can be taken with other medicines. Especially tell your healthcare provider if you or your child takes: • anti-depression medicines, including MAOIs • blood pressure medicines (anti-hypertensive) Know the medicines that you or your child takes. Keep a list of your medicines with you to show your healthcare provider and pharmacist. • You should not take RITALIN on the day of your operation if a certain type of anesthetic is used. This is because there is a chance of a sudden rise in blood pressure and heart rate during the operation. Do not start any new medicine while taking RITALIN without talking to your healthcare provider first. How should RITALIN be taken? • Take RITALIN exactly as prescribed . Your healthcare provider may adjust the dose until it is right for you or your child. • RITALIN is usually taken 2 to 3 times a day. • Take RITALIN 30 to 45 minutes before a meal. • Your healthcare provider may do regular checks of the blood, heart, and blood pressure while taking RITALIN. Children should have their height and weight checked often while taking RITALIN. If you or your child take too much RITALIN, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away. What are the possible side effects of RITALIN? RITALIN may cause serious side effects, including: • see “What is the most important information I should know about RITALIN?” for information on reported heart and mental problems. • painful and prolonged erections (priapism) have occurred with methylphenidate. If you or your child develops priapism, seek medical help right away. Because of the potential for lasting damage, priapism should be evaluated by a healthcare provider immediately. • circulation problems in fingers and toes (peripheral vasculopathy, including Raynaud’s phenomenon): • fingers or toes may feel numb, cool, painful • fingers or toes may change color from pale, to blue, to red Tell your healthcare provider if you or your child have, numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes. Call your healthcare provider right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking RITALIN. • Slowing of growth (height and weight) in children. Children should have their height and weight checked often during treatment with RITALIN. RITALIN treatment may be stopped if your child is not growing or gaining weight. • Eye problems (increased pressure in the eye and glaucoma). Call your healthcare provider right away if you or your child develop changes in your vision or eye pain, swelling, or redness. • New or worsening tics or worsening Tourette’s syndrome. Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with RITALIN. Common side effects include: • fast heart beat • abnormal heartbeat (palpitations) • headache • trouble sleeping • nervousness • sweating a lot • decreased appetite • dry mouth • nausea • stomach pain Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store RITALIN? • Store RITALIN in a safe place and in a tightly closed container at room temperature between 68°F to 77°F (20°C to 25°C). • Protect from light. • Dispose of remaining, unused, or expired RITALIN by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, mix RITALIN with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container, such as a sealed plastic bag and throw away RITALIN in the household trash. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines. • Keep RITALIN and all medicines out of the reach of children. General information about the safe and effective use of RITALIN. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about RITALIN that is written for healthcare professionals. Do not use RITALIN for a condition for which it was not prescribed. Do not give RITALIN to other people, even if they have the same symptoms that you have. It may harm them and it is against the law. What are the ingredients in RITALIN? Active ingredient: methylphenidate HCl Inactive ingredients: D&C Yellow No.10 (5-mg and 20-mg tablets), FD&C Green No.3 (10-mg tablets), lactose, magnesium stearate, polyethylene glycol, starch (5-mg and 10-mg tablets), sucrose, talc, and tragacanth (20-mg tablets) Manufactured by Societal CDMO Gainesville, LLC Gainesville, GA 30504 for Sandoz Inc., Princeton, NJ 08540 For additional medication guide please go to www.us.sandoz.com or call 1-800-525-8747. 6003324-02 This Medication Guide has been approved by the U.S. Food and Drug Administration. Revised: 10/2023"
+  ],
+  "spl_medguide_table": [
+   "<table width=\"100%\"><col width=\"100%\"/><tbody><tr><td align=\"center\" styleCode=\"Rrule Lrule Toprule \" valign=\"top\"><paragraph><content styleCode=\"bold\">MEDICATION GUIDE</content> <content styleCode=\"bold\">RITALIN<sup>&#xAE;</sup> (rit-ah-lin)</content> <content styleCode=\"bold\">(methylphenidate hydrochloride)</content></paragraph><paragraph><content styleCode=\"bold\">tablets, for oral use, CII</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule \" valign=\"middle\"/></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">What is the most important information I should know about RITALIN?</content></paragraph><paragraph><content styleCode=\"bold\">RITALIN may cause serious side effects, including:</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption><content styleCode=\"bold\">Abuse, misuse, and addiction. </content>RITALIN has a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of RITALIN, other methylphenidate containing medicines, and amphetamine containing medicines, can lead to overdose and death. The risk of overdose and death is increased with higher doses of RITALIN or when it is used in ways that are not approved, such as snorting or injection.</item><item><caption>o</caption>Your healthcare provider should check you or your child&#x2019;s risk for abuse, misuse, and addiction before starting treatment with RITALIN and will monitor you or your child during treatment.</item><item><caption>o</caption>RITALIN may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.</item><item><caption>o</caption>Do not give RITALIN to anyone else. See &#x201C;<content styleCode=\"bold\">What is RITALIN?</content>&#x201D; for more information.</item><item><caption>o</caption>Keep RITALIN in a safe place and properly dispose of any unused medicine. See &#x201C;<content styleCode=\"bold\">How should I store RITALIN?</content>&#x201D; for more information.</item><item><caption>o</caption>Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.</item><item><caption>&#x2022;</caption><content styleCode=\"bold\">Risks for people with serious heart disease. </content>Sudden death has happened in people who have heart defects or other serious heart disease.<list listType=\"unordered\"><item><caption> </caption>Your healthcare provider should check you or your child carefully for heart problems before starting RITALIN.</item></list></item><item><caption> </caption>Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.</item><item><caption> </caption><content styleCode=\"bold\">Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child has any signs of heart problems, such as chest pain, shortness of breath, or fainting while taking RITALIN.</content></item><item><caption>&#x2022;</caption><content styleCode=\"bold\">Increased blood pressure and heart rate.</content></item><item><caption> </caption>Your healthcare provider should check you or your child&#x2019;s blood pressure and heart rate regularly during treatment with RITALIN.</item><item><caption>&#x2022;</caption><content styleCode=\"bold\">Mental (psychiatric) problems:</content></item><item><caption> </caption><content styleCode=\"bold\">All Patients</content></item><item><caption>o</caption>new or worse behavior and thought problems</item><item><caption>o</caption> new or worse bipolar illness</item><item><caption>o</caption>new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms</item><item><caption> </caption>Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.</item><item><caption> </caption><content styleCode=\"bold\">Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems while taking RITALIN, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.</content></item></list></td></tr><tr><td styleCode=\"Rrule Lrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">What is RITALIN?</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>RITALIN is a central nervous system (CNS) stimulant prescription medicine. <content styleCode=\"bold\">It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD). </content>RITALIN may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.</item><item><caption>&#x2022;</caption>RITALIN should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.</item><item><caption>&#x2022;</caption>RITALIN is also used in the treatment of a sleep disorder called narcolepsy.</item></list><paragraph><content styleCode=\"bold\">It is not known if RITALIN is safe and effective in children under 6 years of age.</content></paragraph><paragraph><content styleCode=\"bold\">RITALIN is a federally controlled substance (CII) because it contains methylphenidate that can be a target for people who abuse prescription medicines or street drugs.</content> Keep RITALIN in a safe place to protect it from theft. Never give your RITALIN to anyone else, because it may cause death or harm them. Selling or giving away RITALIN may harm others and is against the law.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"/></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">Who should not take RITALIN?</content></paragraph><paragraph><content styleCode=\"bold\">RITALIN should not be taken if you or your child:</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>are allergic to methylphenidate hydrochloride, or any of the ingredients in RITALIN. See the end of this Medication Guide for a complete list of ingredients in RITALIN.</item><item><caption>&#x2022;</caption>are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor (MAOI).</item></list></td></tr><tr><td styleCode=\"Rrule Lrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">RITALIN may not be right for you or your child. Before starting RITALIN, tell your or your child&#x2019;s healthcare provider about all health conditions (or a family history of), including:</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>heart problems, heart disease, heart defects, or high blood pressure</item><item><caption>&#x2022;</caption>mental problems, including psychosis, mania, bipolar illness, or depression</item><item><caption>&#x2022;</caption>circulation problems in fingers or toes</item><item><caption>&#x2022;</caption>have eye problems, including increased pressure in your eye, glaucoma, or problems with your close-up vision (farsightedness)</item><item><caption>&#x2022;</caption>have or had repeated movements or sounds (tics) or Tourette&#x2019;s syndrome, or have a family history of tics or Tourette&#x2019;s syndrome.</item><item><caption>&#x2022;</caption>if you are pregnant or plan to become pregnant. It is not known if RITALIN will harm your unborn baby.</item><item><caption>o</caption>There is a pregnancy registry for females who are exposed to ADHD medications, including RITALIN, during pregnancy. The purpose of the registry is to collect information about the health of females exposed to RITALIN and their baby. If you or your child becomes pregnant during treatment with RITALIN, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhd-medications/.</item><item><caption>&#x2022;</caption>if you are breastfeeding or plan to breastfeed. RITALIN passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with RITALIN.</item></list><paragraph><content styleCode=\"bold\">Tell your healthcare provider about all of the medicines that you or your child takes, including prescription and over-the-counter medicines, vitamins, and herbal supplements.</content> RITALIN and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be adjusted while taking</paragraph><paragraph>RITALIN.</paragraph><paragraph>Your healthcare provider will decide whether RITALIN can be taken with other medicines.</paragraph><paragraph><content styleCode=\"bold\">Especially tell your healthcare provider if you or your child takes:</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>anti-depression medicines, including MAOIs</item><item><caption>&#x2022;</caption>blood pressure medicines (anti-hypertensive)</item></list><paragraph>Know the medicines that you or your child takes. Keep a list of your medicines with you to show your healthcare provider and pharmacist.</paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>You should not take RITALIN on the day of your operation if a certain type of anesthetic is used. This is because there is a chance of a sudden rise in blood pressure and heart rate during the operation.</item></list><paragraph><content styleCode=\"bold\">Do not start any new medicine while taking RITALIN without talking to your healthcare provider first.</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"/></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">How should RITALIN be taken?</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>Take RITALIN exactly as prescribed<content styleCode=\"bold\">. </content>Your healthcare provider may adjust the dose until it is right for you or your child.</item><item><caption>&#x2022;</caption>RITALIN is usually taken 2 to 3 times a day.</item><item><caption>&#x2022;</caption>Take RITALIN 30 to 45 minutes before a meal.</item><item><caption>&#x2022;</caption>Your healthcare provider may do regular checks of the blood, heart, and blood pressure while taking RITALIN.</item></list><paragraph>Children should have their height and weight checked often while taking RITALIN. If you or your child take too much RITALIN, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away.</paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">What are the possible side effects of RITALIN?</content></paragraph><paragraph><content styleCode=\"bold\">RITALIN may cause serious side effects, including:</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>see <content styleCode=\"bold\">&#x201C;What is the most important information I should know about RITALIN?&#x201D; </content>for information on reported heart and mental problems.</item><item><caption>&#x2022;</caption><content styleCode=\"bold\">painful and prolonged erections (priapism) </content>have occurred with methylphenidate. If you or your child develops priapism, seek medical help right away. Because of the potential for lasting damage, priapism should be evaluated by a healthcare provider immediately.</item><item><caption>&#x2022;</caption><content styleCode=\"bold\">circulation problems in fingers and toes </content>(peripheral vasculopathy, including Raynaud&#x2019;s phenomenon):</item><item><caption>&#x2022;</caption>fingers or toes may feel numb, cool, painful</item><item><caption>&#x2022;</caption>fingers or toes may change color from pale, to blue, to red</item></list><paragraph>Tell your healthcare provider if you or your child have, numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes.</paragraph><paragraph><content styleCode=\"bold\">Call your healthcare provider right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking RITALIN.</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption><content styleCode=\"bold\">Slowing of growth (height and weight) in children.</content> Children should have their height and weight checked often during treatment with RITALIN. RITALIN treatment may be stopped if your child is not growing or gaining weight.</item><item><caption>&#x2022;</caption><content styleCode=\"bold\">Eye problems (increased pressure in the eye and glaucoma). </content>Call your healthcare provider right away if you or your child develop changes in your vision or eye pain, swelling, or redness.</item><item><caption>&#x2022;</caption><content styleCode=\"bold\">New or worsening tics or worsening Tourette&#x2019;s syndrome. </content>Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette&#x2019;s syndrome during treatment with RITALIN.</item></list><paragraph><content styleCode=\"bold\">Common side effects include:</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>fast heart beat</item><item><caption>&#x2022;</caption>abnormal heartbeat (palpitations)</item><item><caption>&#x2022;</caption>headache</item><item><caption>&#x2022;</caption>trouble sleeping</item><item><caption>&#x2022;</caption>nervousness</item><item><caption>&#x2022;</caption>sweating a lot</item><item><caption>&#x2022;</caption>decreased appetite</item><item><caption>&#x2022;</caption>dry mouth</item><item><caption>&#x2022;</caption>nausea</item><item><caption>&#x2022;</caption>stomach pain</item></list><paragraph>Call your doctor for medical advice about side effects. <content styleCode=\"bold\">You may report side effects to FDA at 1-800-FDA-1088.</content></paragraph></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">How should I store RITALIN?</content></paragraph><list listType=\"unordered\"><item><caption>&#x2022;</caption>Store RITALIN in a safe place and in a tightly closed container at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C).</item><item><caption>&#x2022;</caption>Protect from light.</item><item><caption>&#x2022;</caption>Dispose of remaining, unused, or expired RITALIN by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, mix RITALIN with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container, such as a sealed plastic bag and throw away RITALIN in the household trash. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.</item><item><caption>&#x2022;</caption><content styleCode=\"bold\">Keep RITALIN and all medicines out of the reach of children.</content></item></list></td></tr><tr><td styleCode=\"Rrule Lrule Botrule \" valign=\"middle\"><paragraph><content styleCode=\"bold\">General information about the safe and effective use of RITALIN.</content></paragraph><paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about RITALIN that is written for healthcare professionals. Do not use RITALIN for a condition for which it was not prescribed. Do not give RITALIN to other people, even if they have the same symptoms that you have. It may harm them and it is against the law.</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule Lrule \" valign=\"middle\"><list listType=\"ordered\"><item><caption> </caption><content styleCode=\"bold\">What are the ingredients in RITALIN?</content> <content styleCode=\"bold\">Active ingredient:</content> methylphenidate HCl  <content styleCode=\"bold\"> Inactive ingredients:</content> D&amp;C Yellow No.10 (5-mg and 20-mg tablets), FD&amp;C Green No.3 (10-mg tablets), lactose, magnesium stearate, polyethylene glycol, starch (5-mg and 10-mg tablets), sucrose, talc, and tragacanth (20-mg tablets)   Manufactured by</item></list><paragraph>Societal CDMO Gainesville, LLC</paragraph><paragraph>Gainesville, GA 30504 for</paragraph><paragraph>Sandoz Inc., Princeton, NJ 08540</paragraph><paragraph> For additional medication guide please go to www.us.sandoz.com or call 1-800-525-8747.</paragraph><list listType=\"ordered\"><item><caption> </caption>6003324-02</item></list></td></tr></tbody></table>"
+  ],
+  "set_id": "d6fb2750-cdab-4749-ba0d-7534840a5892",
+  "id": "3cf2c541-a65c-4651-ab30-3451a5581f8f",
+  "effective_time": "20250205",
+  "version": "3"
+ }
+}
