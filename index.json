@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T07:41Z",
- "n": 432,
+ "updated": "2026-11-14T07:52Z",
+ "n": 438,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -554,6 +554,22 @@
     "BLA125586"
    ],
    "n_candidates": 1
+  },
+  {
+   "id_es": "anfotericina-b-desoxicolato",
+   "generic_en": "amphotericin b",
+   "brand": [
+    "Amphotericin B liposome"
+   ],
+   "manufacturer": [
+    "Mylan Institutional LLC"
+   ],
+   "effective_time": "20250606",
+   "set_id": "a96a734f-d1c4-4d42-93c2-7c336da7f7b9",
+   "application": [
+    "ANDA212967"
+   ],
+   "n_candidates": 6
   },
   {
    "id_es": "anfotericina-b",
@@ -1404,6 +1420,22 @@
    "n_candidates": 1
   },
   {
+   "id_es": "cefuroxima-vo",
+   "generic_en": "cefuroxime axetil",
+   "brand": [
+    "Cefuroxime axetil"
+   ],
+   "manufacturer": [
+    "Proficient Rx LP"
+   ],
+   "effective_time": "20230701",
+   "set_id": "e9a020ec-e446-469a-b1d1-07e82eefa305",
+   "application": [
+    "ANDA065496"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "cefuroxima",
    "generic_en": "cefuroxime",
    "brand": [
@@ -1465,6 +1497,20 @@
    "application": [
     "ANDA078488"
    ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "cianocobalamina-im",
+   "generic_en": "cyanocobalamin",
+   "brand": [
+    "Non-proprietary name"
+   ],
+   "manufacturer": [
+    "Xseer Pharmaceuticals"
+   ],
+   "effective_time": "20260513",
+   "set_id": "3bb870d8-128d-75ea-e063-6394a90a707b",
+   "application": [],
    "n_candidates": 25
   },
   {
@@ -4136,6 +4182,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "lidocaina-iv",
+   "generic_en": "lidocaine hydrochloride and dextrose",
+   "brand": [
+    "LIDOCAINE HYDROCHLORIDE AND DEXTROSE"
+   ],
+   "manufacturer": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "effective_time": "20260120",
+   "set_id": "1bf999b5-e290-dcbd-e063-6294a90a2bab",
+   "application": [
+    "NDA018461"
+   ],
+   "n_candidates": 1
+  },
+  {
    "id_es": "lidocaina",
    "generic_en": "lidocaine hydrochloride",
    "brand": [
@@ -4244,6 +4306,22 @@
    "set_id": "04a35525-ae8e-b41e-e063-6294a90ab10e",
    "application": [
     "NDA021855"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "lorazepam-vo",
+   "generic_en": "lorazepam",
+   "brand": [
+    "LOREEV XR"
+   ],
+   "manufacturer": [
+    "Almatica Pharma LLC"
+   ],
+   "effective_time": "20251008",
+   "set_id": "227734c1-bf01-9607-73ea-5a1f38a89bd9",
+   "application": [
+    "NDA214826"
    ],
    "n_candidates": 25
   },
@@ -5220,6 +5298,22 @@
    "set_id": "08098cb2-c048-4640-f387-6beec4a38936",
    "application": [
     "NDA020987"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "paracetamol-vo",
+   "generic_en": "acetaminophen",
+   "brand": [
+    "Tylenol 8 HR Arthritis Pain"
+   ],
+   "manufacturer": [
+    "Kenvue Brands LLC"
+   ],
+   "effective_time": "20241113",
+   "set_id": "3af22fc8-e4e0-4863-8696-6bc1257047cb",
+   "application": [
+    "NDA019872"
    ],
    "n_candidates": 25
   },

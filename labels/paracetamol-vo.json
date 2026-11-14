@@ -1,0 +1,706 @@
+{
+ "id_es": "paracetamol-vo",
+ "generic_en": "acetaminophen",
+ "search": "brand:TYLENOL",
+ "pref": "acetaminophen|ORAL|TYLENOL",
+ "downloaded": "2026-11-14T07:52Z",
+ "chosen": {
+  "set_id": "3af22fc8-e4e0-4863-8696-6bc1257047cb",
+  "id": "26c62e88-08c4-1113-e063-6394a90ac1f8",
+  "effective_time": "20241113",
+  "version": "16",
+  "brand_name": [
+   "Tylenol 8 HR Arthritis Pain"
+  ],
+  "generic_name": [
+   "ACETAMINOPHEN"
+  ],
+  "manufacturer_name": [
+   "Kenvue Brands LLC"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "NDA019872"
+  ],
+  "n_sections": 20
+ },
+ "candidates": [
+  {
+   "set_id": "0dd643a4-3cbc-423d-95b4-ba373b09d895",
+   "id": "6122653b-195d-4f15-a03d-ea4054c725ad",
+   "effective_time": "20261106",
+   "version": "9",
+   "brand_name": [
+    "Children Pain and Fever Reliever"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Target Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1116f808-f61e-47ec-b0d0-d4be5aa905be",
+   "id": "83744da6-0604-4a74-bd03-e9ab7eddf8e1",
+   "effective_time": "20261106",
+   "version": "8",
+   "brand_name": [
+    "Children Pain and Fever Reliver"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Target Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "06a0fc1f-4cac-4d0f-9349-90a0fb4cc0c8",
+   "id": "5ee6e09b-cfa0-c558-e063-6294a90ae452",
+   "effective_time": "20261028",
+   "version": "2",
+   "brand_name": [
+    "Acetaminophen"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "05618d62-ebec-4d30-989d-999891977e0e",
+   "id": "5ed1bc7c-6dc4-71e5-e063-6394a90a024c",
+   "effective_time": "20261027",
+   "version": "1",
+   "brand_name": [
+    "Acetaminophen"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "7a60184f-91a9-4b85-b243-871deca63450",
+   "id": "5e691fd8-3462-c044-e063-6294a90ad886",
+   "effective_time": "20261022",
+   "version": "18",
+   "brand_name": [
+    "Tylenol Sinus Severe"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN, GUAIFENESIN, AND PHENYLEPHRINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "02bf0edd-488a-4809-a365-501f6cfea6ac",
+   "id": "4832a91b-676a-4d0e-885f-4da1cdc44250",
+   "effective_time": "20261021",
+   "version": "4",
+   "brand_name": [
+    "DG Health pain relief"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Dolgencorp Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "44e8a92a-748b-4dc3-ae8d-176a350ac83d",
+   "id": "5def488c-5857-81d7-e063-6294a90ac270",
+   "effective_time": "20261016",
+   "version": "6",
+   "brand_name": [
+    "TYLENOL PM Extra Strength"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN AND DIPHENHYDRAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "0ad7b313-5d72-4cc0-97f0-1a30770350af",
+   "id": "5d1916ad-59bc-ce7a-e063-6394a90a2efa",
+   "effective_time": "20261005",
+   "version": "7",
+   "brand_name": [
+    "Vicks PainQuil PAIN RELIEVER"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "The Procter & Gamble Manufacturing Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "1729d4b1-ca3b-4360-8328-2484f239440a",
+   "id": "2efa6a98-6b89-4ce7-a1a1-6f256a476c6e",
+   "effective_time": "20260929",
+   "version": "15",
+   "brand_name": [
+    "Pain and Fever Childrens"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Wal-Mart Stores Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "00c121ff-141d-410b-8632-c884a3909552",
+   "id": "a0a74058-2bcf-445c-ba09-0a2e9257d1e8",
+   "effective_time": "20260916",
+   "version": "22",
+   "brand_name": [
+    "Extra Strength pain relief"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Rite Aid Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "113d92bf-f6c9-cc3d-e063-6294a90af033",
+   "id": "5852c0f6-94f5-4555-8ca8-4c917fe05e4a",
+   "effective_time": "20260902",
+   "version": "3",
+   "brand_name": [
+    "AMAZON BASIC CARE ACETAMINOPHEN"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0e43b885-3843-4f11-9a53-02a38c228313",
+   "id": "5a60fa6b-f275-d579-e063-6294a90af5e8",
+   "effective_time": "20260831",
+   "version": "4",
+   "brand_name": [
+    "MAX relief junior"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Akron Pharma Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "5b95905e-b729-4caf-921a-fc4ef815289c",
+   "id": "598dbb96-4645-0c9b-e063-6394a90ac1da",
+   "effective_time": "20260825",
+   "version": "10",
+   "brand_name": [
+    "Childrens TYLENOL COLD plus COUGH plus RUNNY NOSE"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, AND DEXTROMETHORPHAN HYDROBROMIDE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 22
+  },
+  {
+   "set_id": "594f515c-b369-816d-e063-6294a90a59a1",
+   "id": "594f5167-2628-8160-e063-6294a90aa943",
+   "effective_time": "20260821",
+   "version": "1",
+   "brand_name": [
+    "Extra Strength Tylenol Cold Plus Flu Multi-Symptom Day Night"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "1098d0e7-8202-4018-a2d2-b0c80ee58b56",
+   "id": "6a06c9ee-2b77-4501-ac01-900cd595d597",
+   "effective_time": "20260819",
+   "version": "3",
+   "brand_name": [
+    "Acetaminophen"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Sam's West Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "15921c3f-e8d4-4794-983f-63bb926f6f86",
+   "id": "58edfc4d-baed-4e67-9a1d-da797fa5e844",
+   "effective_time": "20260815",
+   "version": "2",
+   "brand_name": [
+    "Pain Relief Childrens"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "WinCo Foods, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "1c5578e6-7e67-c467-e063-6294a90a6e0b",
+   "id": "58d76586-b95a-dcb2-e063-6394a90a8b26",
+   "effective_time": "20260812",
+   "version": "5",
+   "brand_name": [
+    "TYLENOL COLD PLUS FLU MULTI-SYMPTOM GELS DAY PLUS NIGHT"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN,DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "997b9551-c222-4a9c-8ba1-09a5f97495fa",
+   "id": "5849b0a1-4892-7e13-e063-6394a90afea9",
+   "effective_time": "20260805",
+   "version": "12",
+   "brand_name": [
+    "Infants TYLENOL"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "2143cc16-86db-4060-96da-5c228ae9207b",
+   "id": "57582e5a-7a0c-43af-e063-6394a90a2e20",
+   "effective_time": "20260724",
+   "version": "11",
+   "brand_name": [
+    "Infants TYLENOL"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "103d109d-f520-409c-8da2-eb6b0fbec891",
+   "id": "572fcd5f-40f6-eaf1-e063-6294a90a4143",
+   "effective_time": "20260722",
+   "version": "16",
+   "brand_name": [
+    "Tylenol Extra Strength"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1c5386c1-e45d-9dcb-e063-6294a90aff07",
+   "id": "572ebe9a-09d7-46c2-e063-6394a90a26b5",
+   "effective_time": "20260722",
+   "version": "4",
+   "brand_name": [
+    "TYLENOL COLD PLUS FLU MULTI-SYMPTOM GELS NIGHT"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE AND DOXYLAMINE SUCCINATE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "ce58105b-f010-47af-8f31-6dd4ce4e9cba",
+   "id": "57301337-05f3-6afe-e063-6394a90aa4dd",
+   "effective_time": "20260722",
+   "version": "15",
+   "brand_name": [
+    "Tylenol PM Extra Strength"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN AND DIPHENHYDRAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "1c444202-19e9-8d04-e063-6394a90a9294",
+   "id": "57095db8-9df0-a355-e063-6394a90aaa72",
+   "effective_time": "20260720",
+   "version": "5",
+   "brand_name": [
+    "TYLENOL Cold plus Flu Multi-Symptom Liquid Gels Day"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE"
+   ],
+   "manufacturer_name": [
+    "Kenvue Brands LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 23
+  },
+  {
+   "set_id": "112076c4-cac2-45ab-9c77-5573edae7180",
+   "id": "b049905f-7c30-41a2-abe6-ca500fe21437",
+   "effective_time": "20260710",
+   "version": "2",
+   "brand_name": [
+    "INFANTS PAIN AND FEVER"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "55d0dceb-c9a9-778e-e063-6294a90a2ad7",
+   "id": "55d0dd09-882d-754a-e063-6294a90a15ee",
+   "effective_time": "20260704",
+   "version": "1",
+   "brand_name": [
+    "Tylenol PM Extra Strength"
+   ],
+   "generic_name": [
+    "ACETAMINOPHEN AND DIPHENHYDRAMINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Select Consumer Group"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M013"
+   ],
+   "n_sections": 23
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each caplet) Acetaminophen 650 mg"
+  ],
+  "purpose": [
+   "Purpose Pain reliever/fever reducer"
+  ],
+  "indications_and_usage": [
+   "Uses temporarily relieves minor aches and pains due to: minor pain of arthritis muscular aches backache premenstrual and menstrual cramps the common cold headache toothache temporarily reduces fever"
+  ],
+  "warnings": [
+   "Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 6 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  ],
+  "do_not_use": [
+   "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product"
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if you have liver disease"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin"
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children."
+  ],
+  "dosage_and_administration": [
+   "Directions do not take more than directed (see overdose warning ) adults take 2 caplets every 8 hours with water swallow whole; do not crush, chew, split or dissolve do not take more than 6 caplets in 24 hours do not use for more than 10 days unless directed by a doctor under 18 years of age ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"50%\" styleCode=\"Noautorules\"><col width=\"30%\" align=\"left\" valign=\"top\"/><col width=\"70%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Toprule Rrule\">adults</td><td styleCode=\"Toprule\"><list listType=\"unordered\" styleCode=\"Square\"><item>take 2 caplets every 8 hours with water</item><item>swallow whole; do not crush, chew, split or dissolve</item><item>do not take more than 6 caplets in 24 hours</item><item>do not use for more than 10 days unless directed by a doctor</item></list></td></tr><tr><td styleCode=\"Rrule\">under 18 years of age</td><td><list listType=\"unordered\" styleCode=\"Square\"><item>ask a doctor</item></list></td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Other information store between 20-25°C (68-77°F) do not use if carton is opened. Do not use if foil inner seal imprinted with \"TYLENOL\" is broken or missing"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients carnauba wax, hydroxyethyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, modified starch, povidone, powdered cellulose, pregelatinized starch, sodium starch glycolate, titanium dioxide, triacetin"
+  ],
+  "questions": [
+   "Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)"
+  ],
+  "set_id": "3af22fc8-e4e0-4863-8696-6bc1257047cb",
+  "id": "26c62e88-08c4-1113-e063-6394a90ac1f8",
+  "effective_time": "20241113",
+  "version": "16"
+ }
+}

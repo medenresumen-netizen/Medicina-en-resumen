@@ -1,0 +1,698 @@
+{
+ "id_es": "cianocobalamina-im",
+ "generic_en": "cyanocobalamin",
+ "search": "openfda.generic_name.exact:\"CYANOCOBALAMIN\"",
+ "pref": "cyanocobalamin|INTRAMUSCULAR|",
+ "downloaded": "2026-11-14T07:52Z",
+ "chosen": {
+  "set_id": "3bb870d8-128d-75ea-e063-6394a90a707b",
+  "id": "51b65719-bc88-6e2d-e063-6294a90af60a",
+  "effective_time": "20260513",
+  "version": "2",
+  "brand_name": [
+   "Non-proprietary name"
+  ],
+  "generic_name": [
+   "CYANOCOBALAMIN"
+  ],
+  "manufacturer_name": [
+   "Xseer Pharmaceuticals"
+  ],
+  "route": [
+   "INTRAMUSCULAR",
+   "SUBCUTANEOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [],
+  "n_sections": 10
+ },
+ "candidates": [
+  {
+   "set_id": "4cbc05f6-4b31-4a5f-e063-6394a90a676c",
+   "id": "5f9943a9-01c8-77fc-e063-6394a90a742a",
+   "effective_time": "20261106",
+   "version": "3",
+   "brand_name": [
+    "Cyanocobalamin",
+    "cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Plano Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214390"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "92f08572-cfd9-4a99-bb49-937ab94eeb62",
+   "id": "21a6fd1d-a01d-4e94-93f6-ed6727598b3c",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209255"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "ff32f34b-89b3-4617-ad42-2e8bcb88627e",
+   "id": "182b8feb-8527-4fb8-9e9e-781c27f8b0cd",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209429"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "54f088b1-7cf8-3837-e063-6294a90a88e7",
+   "id": "5a87bc3f-642a-4ba7-e063-6294a90a8ae7",
+   "effective_time": "20260902",
+   "version": "2",
+   "brand_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209429"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "b1e35c97-2157-454e-967f-53a4300827de",
+   "id": "61f5b660-1734-4220-9ff6-c4f2155991ac",
+   "effective_time": "20260806",
+   "version": "7",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Lifestar Pharma LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217839"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "ce0183b3-4410-466a-b57d-cd360d461b7c",
+   "id": "d4565ef2-960a-471e-aef9-2dc3c28d8960",
+   "effective_time": "20260806",
+   "version": "3",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "NorthStar RxLLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217839"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "3bb870d8-128d-75ea-e063-6394a90a707b",
+   "id": "51b65719-bc88-6e2d-e063-6294a90af60a",
+   "effective_time": "20260513",
+   "version": "2",
+   "brand_name": [
+    "Non-proprietary name"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Xseer Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 10
+  },
+  {
+   "set_id": "647842f4-b211-4f52-8b73-975fae767023",
+   "id": "4a16b021-f8d6-e66e-e063-6294a90a4683",
+   "effective_time": "20260205",
+   "version": "2",
+   "brand_name": [
+    "cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206503"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "a61181f5-7e2d-45f9-929a-cb8bc70c992e",
+   "id": "216c7e8c-0229-42a8-9551-3cd0ba1a5b62",
+   "effective_time": "20260106",
+   "version": "6",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209255"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "e559c6c8-2973-77fb-e053-2995a90af43d",
+   "id": "45724f81-e7a3-88cf-e063-6294a90ade9c",
+   "effective_time": "20251208",
+   "version": "9",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "SOLA Pharmaceuticals"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA215417"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "5c603ad0-9023-44cc-955c-3988d5dcf0d3",
+   "id": "44f5a26b-5965-9a7b-e063-6294a90a682a",
+   "effective_time": "20251205",
+   "version": "3",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA217839"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "41ac0dc1-0a71-4c69-8e25-ba838f5f16a3",
+   "id": "a10756d3-74a9-4adf-9d2a-0bbac8ad941b",
+   "effective_time": "20250904",
+   "version": "10",
+   "brand_name": [
+    "cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206503"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "617e44f8-df80-4764-85b9-be0fb6da8db3",
+   "id": "510f352d-5de9-48cb-9c96-71b08f089995",
+   "effective_time": "20250829",
+   "version": "9",
+   "brand_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Somerset Therapeutics, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209429"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "064c6841-3ed2-417f-a77c-a730785b6036",
+   "id": "5a299d3b-fc7a-44a0-a9bc-fbcd7eb83e19",
+   "effective_time": "20250612",
+   "version": "1",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214316"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "9d4ac337-5f4d-ef47-e053-2a95a90a6dbf",
+   "id": "2b395953-c253-8297-e063-6294a90a9d43",
+   "effective_time": "20250108",
+   "version": "3",
+   "brand_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080737"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "2117af8a-723f-4e2f-98a6-83ad2c423751",
+   "id": "7c3b0e85-bd17-4998-aaf4-1a873a357ab4",
+   "effective_time": "20241220",
+   "version": "9",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Vitruvias Therapeutics"
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA209255"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "acff4ff3-4435-4995-a117-dbfcdf72334a",
+   "id": "634b55ef-9667-46f7-9b3e-d41f4b7b819b",
+   "effective_time": "20241215",
+   "version": "4",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "8b1cdee5-3368-40e4-90bf-31a64df1f38a",
+   "id": "0a2dc386-15b3-45a3-91d7-80b9cf202c03",
+   "effective_time": "20241212",
+   "version": "3",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080557"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "9c37fd25-2143-410c-8d89-d39aa5c7b453",
+   "id": "b2ee60e7-c10a-45e1-81e8-28d6838161eb",
+   "effective_time": "20241122",
+   "version": "3",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214316"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "c6436212-9246-4e29-8540-9af992b667eb",
+   "id": "8a611106-589f-4896-baa7-653137dc27ab",
+   "effective_time": "20240603",
+   "version": "1",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA214390"
+   ],
+   "n_sections": 24
+  },
+  {
+   "set_id": "15c4de10-c059-8c2f-e063-6394a90a03a3",
+   "id": "15c4de10-c05a-8c2f-e063-6394a90a03a3",
+   "effective_time": "20240410",
+   "version": "1",
+   "brand_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080737"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "697e0e52-c01b-4b53-9994-f79c46eb6b4f",
+   "id": "4291e3b9-37cb-4aa8-ac03-992725a41c1d",
+   "effective_time": "20240301",
+   "version": "15",
+   "brand_name": [
+    "Nascobal"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA021642"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "953aa8c6-31ce-0c3b-e053-2a95a90ab35f",
+   "id": "10322444-6e5a-3ab9-e063-6294a90a7b2b",
+   "effective_time": "20240130",
+   "version": "5",
+   "brand_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080515"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "a66eb3c4-3e1d-4d49-b963-4fa2334cc9b6",
+   "id": "58925d4c-edff-43c6-9c9b-07102e84e41f",
+   "effective_time": "20231201",
+   "version": "10",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080515"
+   ],
+   "n_sections": 25
+  },
+  {
+   "set_id": "2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+   "id": "28421ba1-7e37-429c-9c66-62cc36f5847c",
+   "effective_time": "20231031",
+   "version": "12",
+   "brand_name": [
+    "Cyanocobalamin"
+   ],
+   "generic_name": [
+    "CYANOCOBALAMIN"
+   ],
+   "manufacturer_name": [
+    "American Regent, Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA080737"
+   ],
+   "n_sections": 23
+  }
+ ],
+ "label": {
+  "description": [
+   "Description Cyanocobalamin 2mg/mL Injection is a sterile, red-colored, preservative-containing injectable solution supplied as a multi-dose vial for intramuscular or subcutaneous administration. Cyanocobalamin is a synthetic form of vitamin B12 essential for normal hematopoietic function, neurologic function, DNA synthesis, and red blood cell maturation. Each mL contains: Cyanocobalamin .................................. 2 mg Benzyl Alcohol .................................. 0.9% Sodium Chloride ................................ 9 mg Sterile Water for Injection .............. q.s. The pH is adjusted with hydrochloric acid and/or sodium hydroxide to a target pH range of 4.0 to 7.5. Cyanocobalamin appears as dark red crystals or crystalline powder and is hygroscopic in the anhydrous form. It is sparingly soluble in water and stable under normal storage conditions when protected from light."
+  ],
+  "components": [
+   "Components Each mL contains: Cyanocobalami 2 mg Benzyl alcohol 0.9% Sodium chloride 9 mg Sterile water for injection qs pH is ajusted to 4.0-7.5 with Hydrochloric acid and/or Sodium Hydroxide"
+  ],
+  "dosage_and_administration": [
+   "Dosage and Administration Cyanocobalamin Injection is a sterile injectable solution containing cyanocobalamin 2 mg/mL supplied in a 30 mL multi-dose vial for intramuscular or subcutaneous administration. Dosage and frequency of administration should be individualized by the prescribing healthcare provider based on the severity of deficiency, patient condition, laboratory monitoring, and therapeutic response. Administer by intramuscular or subcutaneous injection only. Administration should be performed by a licensed healthcare professional under appropriate medical supervision. This product is not intended for self-administration by the patient. Inspect the solution visually prior to administration. Do not use if the solution is cloudy, discolored, or contains particulate matter, or if the container closure is damaged. Use aseptic technique during withdrawal and administration. Follow applicable facility procedures for handling, storage, beyond-use dating after puncture, and disposal of multi-dose vials."
+  ],
+  "contraindications": [
+   "Contraindications Cyanocobalamin Injection is contraindicated in patients with known hypersensitivity to cyanocobalamin, vitamin B12 preparations, cobalt, benzyl alcohol, or any component of the formulation. Hypersensitivity reactions, including anaphylactic shock and death, have been reported following parenteral administration of cyanocobalamin. Administration to patients with hereditary optic nerve atrophy (Leber’s disease) may result in severe and rapid optic nerve atrophy."
+  ],
+  "storage_and_handling": [
+   "Storage and Handling Store Cyanocobalamin Injection at USP Controlled Room Temperature, 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F to 86°F). Protect from light and freezing. Inspect solution visually prior to administration. Do not use if solution is cloudy, discolored, or contains particulate matter. Use aseptic technique when handling and withdrawing product from the multi-dose vial."
+  ],
+  "set_id": "3bb870d8-128d-75ea-e063-6394a90a707b",
+  "id": "51b65719-bc88-6e2d-e063-6294a90af60a",
+  "effective_time": "20260513",
+  "version": "2"
+ }
+}
