@@ -1,0 +1,723 @@
+{
+ "id_es": "clorfenamina",
+ "generic_en": "chlorpheniramine maleate",
+ "search": "openfda.generic_name.exact:\"CHLORPHENIRAMINE MALEATE\"",
+ "pref": "chlorpheniramine maleate|ORAL|",
+ "downloaded": "2026-11-14T04:57Z",
+ "chosen": {
+  "set_id": "588c424a-8dd6-417e-8f76-2ce0cc2b0c12",
+  "id": "7d393588-61e4-0606-e053-2a91aa0a83b2",
+  "effective_time": "20181217",
+  "version": "2",
+  "brand_name": [
+   "Allergy Time"
+  ],
+  "generic_name": [
+   "CHLORPHENIRAMINE MALEATE"
+  ],
+  "manufacturer_name": [
+   "Time Cap Labs Inc"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "part341"
+  ],
+  "n_sections": 25
+ },
+ "candidates": [
+  {
+   "set_id": "c948e612-a491-4ad0-adb9-cf31ef76e4d8",
+   "id": "f1fb7bb4-a029-43af-b712-6aa2cd365af3",
+   "effective_time": "20261102",
+   "version": "105",
+   "brand_name": [
+    "Allergy"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "a645b31e-7da7-4fe6-a04f-ac794ef52494",
+   "id": "b437fce4-b10f-4219-935e-2a1b91d3059f",
+   "effective_time": "20261022",
+   "version": "10",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "CVS PHARMACY"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "68bda134-0a6c-431c-be2e-cbcfcfb35bd7",
+   "id": "5906235b-4f37-49ea-b449-6bbf1cc93b1b",
+   "effective_time": "20260930",
+   "version": "4",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Chain Drug Marketing Association, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "5e886cc6-837a-4a8d-812f-b1090bd6b1c4",
+   "id": "5bab699a-ce6f-4e57-85f6-a6901616666c",
+   "effective_time": "20260929",
+   "version": "7",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "01a1a91e-04ba-4526-8946-10483932b30c",
+   "id": "5bb2539e-7b84-8b52-e063-6294a90a9635",
+   "effective_time": "20260917",
+   "version": "4",
+   "brand_name": [
+    "SPRINSOL"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "FORTUNE PHARMACAL COMPANY LIMITED"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "5e6623c3-6210-4c50-94d6-5554f36876d1",
+   "id": "080c5044-92c2-4dbd-9248-4313a9036dea",
+   "effective_time": "20260831",
+   "version": "7",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "WALMART INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "7a3452a2-930f-48b1-8c59-dbceb10b9c78",
+   "id": "58b37d44-1440-96f3-e063-6394a90a45db",
+   "effective_time": "20260810",
+   "version": "19",
+   "brand_name": [
+    "Chlorpheniramine Maleate"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "66b918d3-5c37-4889-b981-819ced8b6147",
+   "id": "b4ea5878-6db7-4066-9ce9-02d6a334b581",
+   "effective_time": "20260803",
+   "version": "26",
+   "brand_name": [
+    "Allergy"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Major Pharmaceuticals"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "04ca3806-72be-47d4-9fea-5b0dee087683",
+   "id": "7457e524-40ab-432f-a48a-b32eb2c0a93f",
+   "effective_time": "20260708",
+   "version": "17",
+   "brand_name": [
+    "Aller-chlor"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Rugby Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "aaecfda5-1a50-4d8a-9909-7153c1a22bda",
+   "id": "cad6c859-0a91-4d1a-be53-1b702ec8efce",
+   "effective_time": "20260708",
+   "version": "16",
+   "brand_name": [
+    "Allergy Relief 4 Hour"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Cardinal Health 110, LLC. DBA Leader"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "ee052b39-1658-4071-b081-5433c87b5e4a",
+   "id": "48aa8cc4-541b-4f0e-bdbf-e50a1906df16",
+   "effective_time": "20260625",
+   "version": "2",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 21
+  },
+  {
+   "set_id": "db729011-f72f-5911-e053-2a95a90a68bf",
+   "id": "526f9c82-d393-f544-e063-6394a90a29d9",
+   "effective_time": "20260522",
+   "version": "4",
+   "brand_name": [
+    "ClorRelief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "FERRER MEDICAL INNOVATIONS LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "27e911e1-6d22-4a50-8413-1809c8973cbd",
+   "id": "e0abb0d1-6dae-49cc-816e-43307469280a",
+   "effective_time": "20260506",
+   "version": "14",
+   "brand_name": [
+    "Allergy Relief 4 Hour"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "WinCo Foods, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "c9fa8d93-d9d6-4206-a13d-32b9e7555e7f",
+   "id": "2d51a5e6-f8d1-4d8b-902a-21527e0ff302",
+   "effective_time": "20260402",
+   "version": "5",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Strategic Sourcing Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "922ec870-79d5-46be-80d8-20fb0ecd823b",
+   "id": "4d4fdb69-6b50-1c86-e063-6294a90af405",
+   "effective_time": "20260318",
+   "version": "1",
+   "brand_name": [
+    "Allergy"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Bi-Mart"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "0aa4ac07-bd02-46b2-9cf0-0643e0e1a2da",
+   "id": "6b8264a8-f9ab-4664-85ba-2164e365e876",
+   "effective_time": "20260310",
+   "version": "15",
+   "brand_name": [
+    "Allergy"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "United Natural Foods, Inc. dba UNFI"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "35305aa9-4fc1-4cda-b6f0-89df64f9eeff",
+   "id": "784f6f3d-c1fe-47a4-a388-6c5794fda5db",
+   "effective_time": "20260310",
+   "version": "7",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Topco Associates, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b0d70488-ea1d-4c1d-bd07-53dfb0e4d03c",
+   "id": "3d493de6-5cf6-4e36-a790-fbe59df3b23a",
+   "effective_time": "20260218",
+   "version": "20",
+   "brand_name": [
+    "allergy relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Rite Aid Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "eeda80ff-212d-428e-a0c6-782f271357b4",
+   "id": "53b07156-c60e-4ca2-bd59-9b6410b1b03d",
+   "effective_time": "20260218",
+   "version": "10",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Amerisource Bergen"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "09a27aa8-e32e-4754-80b2-d5a8dd7eaa4b",
+   "id": "a42deed3-3328-4690-8709-6ba9da4d1bd9",
+   "effective_time": "20260217",
+   "version": "1",
+   "brand_name": [
+    "Allergy Relief 4 Hour"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "75269bcc-3bb2-49a0-8788-6b7da18796d3",
+   "id": "b73574f8-e1c8-4cf5-8a46-3f7de5d902c0",
+   "effective_time": "20251212",
+   "version": "7",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "CHAIN DRUG MARKETING ASSOCIATION INC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "4a5e5968-1930-465a-9b8c-45ed936a0e11",
+   "id": "423e5c5d-39b6-c528-e063-6394a90aab81",
+   "effective_time": "20251028",
+   "version": "9",
+   "brand_name": [
+    "ED CHLORPED JR"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "EDWARDS PHARMACEUTICALS, INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b3d5d161-8d4c-f1bb-e053-2a95a90a5bc5",
+   "id": "3e4ccd6b-83df-b9f8-e063-6294a90a7b06",
+   "effective_time": "20250908",
+   "version": "5",
+   "brand_name": [
+    "Medique Chlorphen"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Unifirst First Aid Corporation"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "34005c55-3176-4f28-9a3b-7dc6fefd01fe",
+   "id": "2c632d57-d801-46d3-beb6-b7812f177dd7",
+   "effective_time": "20250719",
+   "version": "12",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "Chain Drug Consortium"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b199b5ee-fff3-4746-be68-a04060586f8e",
+   "id": "d8254c0e-4446-4c1a-8c6b-54e1d4cd9cb4",
+   "effective_time": "20240718",
+   "version": "20",
+   "brand_name": [
+    "ALLERGY"
+   ],
+   "generic_name": [
+    "CHLORPHENIRAMINE MALEATE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 21
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each tablet) Chlorpheniramine maleate 4 mg"
+  ],
+  "active_ingredient_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td>Active ingredient (in each tablet) Chlorpheniramine maleate 4 mg</td> </tr> </tbody> </table>"
+  ],
+  "purpose": [
+   "Purpose: Antihistamine"
+  ],
+  "purpose_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td> <paragraph>Purpose: Antihistamine</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "indications_and_usage": [
+   "Uses: temporarily relieves the following symptoms due to hay fever or other upper respiratory allergies: runny nose, sneezing, itching of the nose or throat, itch, watery eyes"
+  ],
+  "indications_and_usage_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td> <paragraph>Uses: temporarily relieves the following symptoms due to hay fever or other upper respiratory allergies:</paragraph> <paragraph>runny nose, sneezing, itching of the nose or throat, itch, watery eyes</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "warnings": [
+   "Warnings Ask a doctor before use if you have: glaucoma; a breathing problem such as emphysema or chronic bronchitis; difficulty urinating due to an enlarged prostate gland"
+  ],
+  "warnings_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td> <paragraph>Warnings</paragraph> <paragraph>Ask a doctor before use if you have:</paragraph> <paragraph>glaucoma; a breathing problem such as emphysema or chronic bronchitis; difficulty urinating due to an enlarged prostate gland</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers."
+  ],
+  "ask_doctor_or_pharmacist_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td>Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.</td> </tr> </tbody> </table>"
+  ],
+  "when_using": [
+   "When using this product: excitability may occur, especially in children; drowsiness may occur; avoid alcoholic beverages; alcohol, sedatives and tranquilizers may increase drowsiness; use caution when driving a motor vehicle operating machinery"
+  ],
+  "when_using_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td> <paragraph>When using this product:</paragraph> <paragraph>excitability may occur, especially in children; drowsiness may occur; avoid alcoholic beverages; alcohol, sedatives and tranquilizers may increase drowsiness; use caution when driving a motor vehicle operating machinery</paragraph> <paragraph/> </td> </tr> </tbody> </table>"
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding ask a health professional before use."
+  ],
+  "pregnancy_or_breast_feeding_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td>If pregnant or breast-feeding ask a health professional before use.</td> </tr> </tbody> </table>"
+  ],
+  "dosage_and_administration": [
+   "Directions Adults and children 12 years and over - 1 tablet every 4 to 6 hours, not to exceed 6 tablets in 24 hours Children 6 to under 12 years of age - 1/2 tablet (break tablet in half) every 4 to 6 hours, not to exceed 3 whole tablets in 24 hours Children under 6 years of age - do not use"
+  ],
+  "dosage_and_administration_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td> <paragraph>Directions</paragraph> <paragraph>Adults and children 12 years and over - 1 tablet every 4 to 6 hours, not to exceed 6 tablets in 24 hours</paragraph> <paragraph>Children 6 to under 12 years of age - 1/2 tablet (break tablet in half) every 4 to 6 hours, not to exceed 3 whole tablets in 24 hours</paragraph> <paragraph>Children under 6 years of age - do not use</paragraph> </td> </tr> </tbody> </table>"
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "keep_out_of_reach_of_children_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td>Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.</td> </tr> </tbody> </table>"
+  ],
+  "inactive_ingredient": [
+   "anhydrous lactose, colloidal silicon dioxide, croscarmellose sodium, D-C yellow #10 aluminum lake, magnesium stearate, microcrystalline cellulose, stearic acid."
+  ],
+  "inactive_ingredient_table": [
+   "<table border=\"0\" width=\"100%\"> <tbody> <tr> <td>anhydrous lactose, colloidal silicon dioxide, croscarmellose sodium, D-C yellow #10 aluminum lake, magnesium stearate, microcrystalline cellulose, stearic acid.</td> </tr> </tbody> </table>"
+  ],
+  "set_id": "588c424a-8dd6-417e-8f76-2ce0cc2b0c12",
+  "id": "7d393588-61e4-0606-e053-2a91aa0a83b2",
+  "effective_time": "20181217",
+  "version": "2"
+ }
+}

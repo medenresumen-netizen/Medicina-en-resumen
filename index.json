@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T22:50Z",
- "n": 427,
+ "updated": "2026-11-14T04:57Z",
+ "n": 432,
  "missing": [
   "norfloxacino",
   "sulbactam-durlobactam",
@@ -1722,6 +1722,22 @@
    "n_candidates": 15
   },
   {
+   "id_es": "clorfenamina",
+   "generic_en": "chlorpheniramine maleate",
+   "brand": [
+    "Allergy Time"
+   ],
+   "manufacturer": [
+    "Time Cap Labs Inc"
+   ],
+   "effective_time": "20181217",
+   "set_id": "588c424a-8dd6-417e-8f76-2ce0cc2b0c12",
+   "application": [
+    "part341"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "clortalidona",
    "generic_en": "chlorthalidone",
    "brand": [
@@ -2312,6 +2328,22 @@
    "n_candidates": 25
   },
   {
+   "id_es": "epinefrina-autoinyector-auviq",
+   "generic_en": "epinephrine",
+   "brand": [
+    "Auvi-Q"
+   ],
+   "manufacturer": [
+    "Sportpharm LLC"
+   ],
+   "effective_time": "20260918",
+   "set_id": "5f40988b-8365-4f7b-84d1-b88e053725cf",
+   "application": [
+    "NDA201739"
+   ],
+   "n_candidates": 25
+  },
+  {
    "id_es": "epinefrina-autoinyector",
    "generic_en": "epinephrine",
    "brand": [
@@ -2324,6 +2356,22 @@
    "set_id": "311af6d9-20c0-4b87-b236-4185bfa49988",
    "application": [
     "NDA019430"
+   ],
+   "n_candidates": 25
+  },
+  {
+   "id_es": "epinefrina-intranasal",
+   "generic_en": "epinephrine",
+   "brand": [
+    "neffy"
+   ],
+   "manufacturer": [
+    "Sportpharm LLC"
+   ],
+   "effective_time": "20260424",
+   "set_id": "2052f9db-7d76-443b-b702-b6b499f9a4b8",
+   "application": [
+    "NDA214697"
    ],
    "n_candidates": 25
   },
@@ -2646,6 +2694,22 @@
     "BLA103788"
    ],
    "n_candidates": 1
+  },
+  {
+   "id_es": "famotidina-iv",
+   "generic_en": "famotidine",
+   "brand": [
+    "Famotidine"
+   ],
+   "manufacturer": [
+    "Medical Purchasing Solutions, LLC"
+   ],
+   "effective_time": "20260402",
+   "set_id": "4e803491-8030-50d0-e063-6294a90a5c8d",
+   "application": [
+    "ANDA075622"
+   ],
+   "n_candidates": 25
   },
   {
    "id_es": "famotidina",
@@ -3270,6 +3334,22 @@
     "NDA219141"
    ],
    "n_candidates": 25
+  },
+  {
+   "id_es": "hidrocortisona-iv",
+   "generic_en": "hydrocortisone sodium succinate",
+   "brand": [
+    "Solu-Cortef"
+   ],
+   "manufacturer": [
+    "Pharmacia & Upjohn Company LLC"
+   ],
+   "effective_time": "20260929",
+   "set_id": "65eefd58-b166-4d71-ade6-45c8fdf86922",
+   "application": [
+    "NDA009866"
+   ],
+   "n_candidates": 9
   },
   {
    "id_es": "hidrocortisona",

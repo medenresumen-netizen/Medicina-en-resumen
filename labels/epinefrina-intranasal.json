@@ -1,0 +1,803 @@
+{
+ "id_es": "epinefrina-intranasal",
+ "generic_en": "epinephrine",
+ "search": "brand:NEFFY",
+ "pref": "epinephrine|NASAL|NEFFY",
+ "downloaded": "2026-11-14T04:57Z",
+ "chosen": {
+  "set_id": "2052f9db-7d76-443b-b702-b6b499f9a4b8",
+  "id": "50325060-a6dc-c9ae-e063-6294a90a5a34",
+  "effective_time": "20260424",
+  "version": "2",
+  "brand_name": [
+   "neffy"
+  ],
+  "generic_name": [
+   "EPINEPHRINE"
+  ],
+  "manufacturer_name": [
+   "Sportpharm LLC"
+  ],
+  "route": [
+   "NASAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA214697"
+  ],
+  "n_sections": 38
+ },
+ "candidates": [
+  {
+   "set_id": "cc4ebb51-6020-4339-a36a-ec2380b7d28e",
+   "id": "8d5f102d-e131-4a66-980b-6c1f531cf466",
+   "effective_time": "20261103",
+   "version": "3",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "GLENMARK PHARMACEUTICALS INC., USA"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219239"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "3b1ac82f-6920-4e40-a77e-598398679f2d",
+   "id": "4fd69f94-839b-4e45-baee-4ed7d77b7faf",
+   "effective_time": "20261028",
+   "version": "3",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Henry Schein, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211363"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "577f987e-d3af-4f49-ab44-5db9cbf46601",
+   "id": "cff9d22e-947e-497f-a58b-635e55434623",
+   "effective_time": "20261027",
+   "version": "3",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220400"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "60efd409-3555-4182-a68d-1cd7bc0d1bfc",
+   "id": "cdf8a0ef-38b7-4e08-8496-942ac752ebe3",
+   "effective_time": "20261019",
+   "version": "14",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Baxter Healthcare Corporation"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA218475"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "a8e98483-9404-43bc-8800-b827c63c5134",
+   "id": "5dafdc69-8110-601d-e063-6394a90a6106",
+   "effective_time": "20261012",
+   "version": "1",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA019430"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "79ca73ca-d3c0-40af-9dec-e2f4ce669cda",
+   "id": "eec70351-16c3-4e07-9c0a-17ef8aa02161",
+   "effective_time": "20260923",
+   "version": "6",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Gland Pharma Limited"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA219239"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "5f40988b-8365-4f7b-84d1-b88e053725cf",
+   "id": "5bbbd802-1766-6081-e063-6294a90af4a5",
+   "effective_time": "20260918",
+   "version": "1",
+   "brand_name": [
+    "Auvi-Q"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA201739"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "bfc7ab3d-1e0e-4fd9-b6df-09603eb5808c",
+   "id": "5bae43b2-02c0-017a-e063-6394a90a7a57",
+   "effective_time": "20260917",
+   "version": "3",
+   "brand_name": [
+    "epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020800"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "55befbe4-c819-4367-bbe7-de5841786aac",
+   "id": "5a946b3f-1f12-76bb-e063-6394a90a5984",
+   "effective_time": "20260903",
+   "version": "3",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAOCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213708"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "5ba14408-c8fb-4734-aad9-ee19696acac2",
+   "id": "5a1b54bc-f2f1-2894-e063-6294a90a177e",
+   "effective_time": "20260828",
+   "version": "5",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA205029"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5725a519-3ad6-7e5e-e063-6394a90a111f",
+   "id": "58b8f853-3b3b-74ba-e063-6394a90a8e1d",
+   "effective_time": "20260810",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220562"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5726eeca-db88-ba8e-e063-6294a90a927d",
+   "id": "582bb7c6-e26c-48e9-e063-6394a90a0fe7",
+   "effective_time": "20260803",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA205029"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "a6afb9e8-1db9-480c-8d31-58c5c870ca49",
+   "id": "88a60798-b160-482a-b8f8-c52de27af8dc",
+   "effective_time": "20260729",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAOCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213708"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "4f83895f-638c-4515-af03-7c41ae60a42e",
+   "id": "b5fda38c-bff1-4c35-81cd-ea1c6cc39700",
+   "effective_time": "20260715",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA215425"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "6e811e28-0199-4df7-a916-5940c632401d",
+   "id": "6b61346c-8e95-472e-a93e-ea8e8aac8d1e",
+   "effective_time": "20260713",
+   "version": "6",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211363"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "4a79ad00-405b-4454-a692-7f1daac4adec",
+   "id": "a9e8f660-e2e2-43f2-8596-8eed35ecb825",
+   "effective_time": "20260710",
+   "version": "2",
+   "brand_name": [
+    "EPINEPHRINE"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "CIVICA, INC."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA215425"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "386519ba-7a44-4edd-9eb1-748419b7a71b",
+   "id": "e1635816-3233-45bd-9cbe-dcbeadb2deca",
+   "effective_time": "20260706",
+   "version": "15",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "A-S Medication Solutions"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAOCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA205029"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "3b7a4364-668d-4eb2-a20c-04adc35aabe4",
+   "id": "373c1f0e-d2e7-40bf-8a39-fdf404fc91df",
+   "effective_time": "20260701",
+   "version": "24",
+   "brand_name": [
+    "Adrenalin"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204200",
+    "NDA204640"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "0172280c-f7d6-4613-9dbd-f94d3ae5825a",
+   "id": "53c13065-d694-9bb5-e063-6294a90ac630",
+   "effective_time": "20260608",
+   "version": "5",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211363"
+   ],
+   "n_sections": 26
+  },
+  {
+   "set_id": "1e8ebac1-5b32-47f9-a930-86a98a24dccc",
+   "id": "64ac9b7d-5060-4318-923f-ab1e0a25c708",
+   "effective_time": "20260505",
+   "version": "2",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Hikma Pharmaceuticals USA Inc."
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA220562"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "2052f9db-7d76-443b-b702-b6b499f9a4b8",
+   "id": "50325060-a6dc-c9ae-e063-6294a90a5a34",
+   "effective_time": "20260424",
+   "version": "2",
+   "brand_name": [
+    "neffy"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA214697"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "3a8f5ca2-6c1d-4011-9266-ba93c7a3abb9",
+   "id": "50319f9c-7ccf-533f-e063-6294a90ab546",
+   "effective_time": "20260424",
+   "version": "2",
+   "brand_name": [
+    "Epinephrine"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Sportpharm LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090589"
+   ],
+   "n_sections": 27
+  },
+  {
+   "set_id": "a1758142-a905-401d-8961-05829f51023a",
+   "id": "8c27cd52-6215-4cf8-98cc-f8816bf4c690",
+   "effective_time": "20260409",
+   "version": "7",
+   "brand_name": [
+    "neffy"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "ARS Pharmaceuticals Operations, Inc."
+   ],
+   "route": [
+    "NASAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA214697"
+   ],
+   "n_sections": 38
+  },
+  {
+   "set_id": "a5ce0c01-dd47-4997-ab09-490de65d3835",
+   "id": "1fbe8c4a-ff3c-48b6-b42f-19c948510266",
+   "effective_time": "20260408",
+   "version": "10",
+   "brand_name": [
+    "Adrenalin"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204640"
+   ],
+   "n_sections": 28
+  },
+  {
+   "set_id": "b27e06aa-5b40-44bc-8de7-80b027580a3b",
+   "id": "949de41f-6427-4b8d-bb4b-c2dab1436309",
+   "effective_time": "20260408",
+   "version": "11",
+   "brand_name": [
+    "Adrenalin"
+   ],
+   "generic_name": [
+    "EPINEPHRINE"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAMUSCULAR",
+    "INTRAVENOUS",
+    "SUBCUTANEOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA204640"
+   ],
+   "n_sections": 28
+  }
+ ],
+ "label": {
+  "recent_major_changes": [
+   "Indications ( 1 ) 3/2025 Dosage and Administration ( 2.1 ) 3/2025"
+  ],
+  "recent_major_changes_table": [
+   "<table width=\"100%\" styleCode=\"Noautorules\"><col width=\"70%\" align=\"left\" valign=\"top\"/><col width=\"30%\" align=\"right\" valign=\"top\"/><tbody><tr><td>Indications ( <linkHtml href=\"#S1\">1</linkHtml>) </td><td>3/2025</td></tr><tr><td>Dosage and Administration ( <linkHtml href=\"#S2.1\">2.1</linkHtml>) </td><td>3/2025</td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Neffy is indicated for emergency treatment of type I allergic reactions, including anaphylaxis, in adult and pediatric patients aged 4 years and older who weigh 15 kg or greater. Neffy is an alpha and beta-adrenergic receptor agonist indicated for emergency treatment of type I allergic reactions, including anaphylaxis, in adult and pediatric patients 4 years of age and older who weigh 15 kg or greater. ( 1 )"
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION The recommended dosage for patients 4 years of age and older who weigh 15 kg or greater is based on weight. Neffy is for nasal administration. ( 2.1 ) Recommended Dosage Patient's Weight Dosage 30 kg or Greater One spray of neffy 2 mg 15 kg to less than 30 kg One spray of neffy 1 mg In absence of clinical improvement or if symptoms worsen after initial treatment, administer a second dose of neffy in the same nostril with a new nasal spray starting 5 minutes after the first dose. ( 2.1 ) Advise patients when to seek emergency medical assistance for close monitoring of the anaphylactic episode and in the event further treatment is required. ( 2.1 ) It is recommended that patients are prescribed and have immediate access to two neffy nasal sprays at all times. See full prescribing information for administration instructions. ( 2.2 ) 2.1 Recommended Dosage The recommended dosage for patients aged 4 years and older who weigh 15 kg or greater is based on weight and the dosage is provided in Table 1. For nasal administration [see Dosage and Administration (2.2) ] . Table 1: Recommended Dosage of Neffy Based on Patient's Weight Patients Weight Dosage 30 kg or Greater One spray of neffy 2 mg 15 kg to less than 30 kg One spray of neffy 1 mg In the absence of clinical improvement or if symptoms worsen after the initial treatment, a second dose of neffy may be administered in the same nostril with a second nasal spray starting 5 minutes after the first dose. Advise patients when to seek emergency medical assistance for close monitoring of the anaphylactic episode and in the event further treatment is required. It is recommended that patients are prescribed and have immediate access to two neffy nasal sprays at all times. 2.2 Administration Instructions Neffy is for nasal use only. Each neffy nasal spray is for single use and delivers the entire dose upon activation. Do not prime or attempt to reuse neffy for more than one administration. Administer neffy by inserting the nozzle of the nasal spray fully into one nostril until fingers touch the nose (see Figure 1 ). Hold the nasal spray straight into the nose - do not angle the nasal spray to the inside septum or outer wall of the nose as some medication may be lost. Press the plunger firmly to activate. Avoid sniffing during and after administration. If a second dose of neffy is needed, administer a new nasal spray into the same nostril starting 5 minutes after the first dose (see Figure 1 ). More than two sequential doses of epinephrine should be administered under direct medical supervision. Refer patients and caregivers to the Instructions for Use for detailed administration instructions. Figure 1: Administration of Neffy If neffy is frozen and is needed in an emergency, do not wait to thaw, seek emergency medical care immediately [see How Supplied/Storage and Handling (16) ]. Figure 1"
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"100%\"><caption>Recommended Dosage</caption><col width=\"50%\" align=\"center\" valign=\"middle\"/><col width=\"50%\" align=\"center\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\">Patient&apos;s Weight</th><th styleCode=\"Rrule\">Dosage</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">30 kg or Greater</td><td styleCode=\"Rrule\">One spray of neffy 2 mg</td></tr><tr><td styleCode=\"Lrule Rrule\">15 kg to less than 30 kg</td><td styleCode=\"Rrule\">One spray of neffy 1 mg</td></tr></tbody></table>",
+   "<table width=\"100%\"><caption>Table 1: Recommended Dosage of Neffy Based on Patient&apos;s Weight</caption><col width=\"50%\" align=\"center\" valign=\"middle\"/><col width=\"50%\" align=\"center\" valign=\"middle\"/><thead><tr><th styleCode=\"Lrule Rrule\">Patients Weight</th><th styleCode=\"Rrule\">Dosage</th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">30 kg or Greater</td><td styleCode=\"Rrule\">One spray of neffy 2 mg</td></tr><tr><td styleCode=\"Lrule Rrule\">15 kg to less than 30 kg</td><td styleCode=\"Rrule\">One spray of neffy 1 mg</td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Nasal spray: 1 mg/0.1 mL of epinephrine per spray ( 3 ) 2 mg/0.1 mL of epinephrine per spray ( 3 ) Nasal spray: 1 mg/0.1 mL of epinephrine per spray in a single-dose nasal spray 2 mg/0.1 mL of epinephrine per spray in a single-dose nasal spray"
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS None. None ( 4 )"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Absorption of neffy may be affected by underlying structural and anatomical nasal conditions. ( 5.1 ) Administer with caution in patients with heart disease; may aggravate angina pectoris or produce ventricular arrhythmias. ( 5.2 ) May aggravate certain coexisting conditions. ( 5.2 ) The presence of a sulfite in this product should not deter use. ( 5.3 ) 5.1 Potential Altered Absorption of Neffy in Patients with Underlying Structural or Anatomical Nasal Conditions Clinical pharmacology studies with neffy included subjects with history of allergic rhinitis, but did not include subjects with underlying structural and anatomical nasal conditions (e.g., polyps, history of nasal fractures or injuries, or history of nasal surgery). Absorption of neffy may be affected by underlying structural and anatomical nasal conditions. Consider use of other epinephrine products given by other routes of administration for patients with underlying structural or anatomical nasal conditions. 5.2 Risks Associated with Use of Epinephrine in Certain Coexisting Conditions Some patients may be at greater risk for developing adverse reactions after epinephrine administration. Despite these concerns, it should be recognized that the presence of these conditions is not a contraindication to epinephrine administration in an acute, life-threatening situation. Therefore, patients with these conditions, and/or any other person who might be in a position to administer neffy to a patient experiencing anaphylaxis should be carefully instructed in regard to the circumstances under which epinephrine should be used. Epinephrine should be administered with caution to patients who have heart disease, including patients with cardiac arrhythmias, coronary artery disease, or hypertension. In such patients, or in patients who are on drugs that may sensitize the heart to arrhythmias, epinephrine may precipitate or aggravate angina pectoris, as well as produce ventricular arrhythmias [see Drug Interactions (7) and Adverse Reactions (6) ] . Epinephrine can temporarily exacerbate the underlying condition or increase symptoms in patients with the following: hyperthyroidism, Parkinson's disease, diabetes, renal impairment. Epinephrine should be administered with caution in patients with these conditions, including elderly patients and pregnant women. 5.3 Allergic Reactions Associated with Sulfite Epinephrine is the preferred treatment for serious allergic or other emergency situations even though neffy contains sodium metabisulfite, a sulfite that may in other products cause allergic-type reactions including anaphylactic symptoms or life-threatening or less severe asthmatic episodes in certain susceptible persons. The alternatives to using epinephrine in a life-threatening situation may not be satisfactory. The presence of a sulfite(s) in neffy should not deter administration of the drug for treatment of serious allergic or other emergency situations."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Risks Associated with Use of Epinephrine in Certain Coexisting Conditions [see Warnings and Precautions (5.2) ] Allergic Reactions Associated with Sulfite [see Warnings and Precautions (5.3) ] Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Most common adverse reactions are: Adults (incidence ≥ 2%): nasal discomfort, headache, rhinorrhea, dizziness, nausea, vomiting, and throat irritation. ( 6 ) Pediatric patients 4 years of age and older who weigh 15 kg or greater (incidence ≥10%): nasal discomfort, nasal congestion, paresthesia, rhinorrhea, sneezing, upper respiratory tract congestion, epistaxis, rhinalgia, nasal dryness, dry throat, fatigue, and feeling jittery. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact ARS Pharmaceuticals Operations, Inc. at 1-877-MY-NEFFY (877-696-3339) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. Adverse Reactions with Neffy in Adult Subjects The safety of neffy 2 mg is based on four clinical pharmacology studies in 175 healthy adults and adults with type I allergy without anaphylaxis, who did not have structural or anatomical nasal conditions [see Clinical Pharmacology (12.2 , 12.3) ] . The four clinical pharmacology studies were designed to compare the pharmacokinetic (PK) and pharmacodynamic (PD) profiles of one dose of neffy 2 mg sprayed into one nostril or two doses of neffy 2 mg sprayed into either the same or opposite nostril, administered 10 minutes apart, with PK and PD profiles of one or two dose(s) of epinephrine injection administered intramuscularly. The common adverse reactions that occurred with neffy 2 mg after one and two dose(s) are listed in Table 2. Table 2: Adverse Reactions with One or Two Dose(s) of Neffy with Incidence Greater than or Equal to 2% in Adults [Studies 1, 2, 3, and 4] Adverse Reaction Data include subjects with nasal allergen challenge induced rhinitis Neffy 2 mg One Dose Neffy 2 mg Two Doses Two nasal doses of neffy 2 mg were administered 10 minutes apart N = 134 The trials used a crossover design and therefore the total number of subjects do not match the number of unique subjects (n = 175) N = 85 Nasal discomfort 13 (10%) 11 (13%) Headache 8 (6%) 15 (18%) Rhinorrhea 4 (3%) 6 (7%) Dizziness 4 (3%) 2 (2%) Nausea 4 (3%) 2 (2%) Vomiting 3 (2%) 2 (2%) Throat irritation 2 (2%) 16 (19%) Feeling jittery 1 (1%) 9 (11%) Abdominal pain 1 (1%) 3 (4%) Tremor 0 (0%) 7 (8%) Nasal pruritus 0 (0%) 3 (4%) Sneezing 0 (0%) 3 (4%) Gingival pain 0 (0%) 3 (4%) Hypoesthesia oral 0 (0%) 3 (4%) Nasal Congestion 0 (0%) 2 (2%) Adverse Reactions with Neffy in Pediatric Subjects 4 Years of Age and Older Weighing 15 kg or Greater A single-arm clinical pharmacology study (Study 5) in pediatric subjects 4 to 17 years of age who weigh 15 kg or greater with type I allergy without anaphylaxis was conducted to assess the pharmacokinetic/pharmacodynamic (PK/PD) of neffy 1 mg and 2 mg [see Clinical Pharmacology (12.2 , 12.3) ] . Pediatric subjects (n=21) who weigh 30 kg or greater received one nasal dose of neffy 2 mg and common adverse reactions reported in these subjects include nasal discomfort (19%), intranasal paresthesia (19%), rhinorrhea (19%), sneezing (14%), epistaxis (10%), rhinalgia (10%), paresthesia (10%), fatigue (10%), and feeling jittery (10%). Pediatric subjects (n=21) who weigh 15 to less than 30 kg received one nasal dose of neffy 1 mg and common adverse reactions reported in these subjects include nasal congestion (19%), upper respiratory tract congestion (14%), dry throat (10%), nasal dryness (10%), and paresthesia (10%). Adverse Reactions from Postapproval Use of Epinephrine Products The following adverse reactions have been identified during postapproval use of epinephrine. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Cardiovascular : angina, arrhythmias (including fatal ventricular fibrillation), cerebral hemorrhage, hypertension, pallor, palpitations, tachyarrhythmia, tachycardia, vasoconstriction, ventricular ectopy, and stress cardiomyopathy Metabolism and Nutrition Disorders : transient hyperglycemia, sweating Neurological : disorientation, impaired memory, panic, psychomotor agitation, sleepiness, tingling, weakness Psychiatric : anxiety, apprehensiveness, restlessness Respiratory : respiratory difficulties"
+  ],
+  "adverse_reactions_table": [
+   "<table width=\"90%\"><caption>Table 2: Adverse Reactions with One or Two Dose(s) of Neffy with Incidence Greater than or Equal to 2% in Adults [Studies 1, 2, 3, and 4]</caption><col width=\"70%\" align=\"left\" valign=\"bottom\"/><col width=\"4%\" align=\"right\" valign=\"bottom\"/><col width=\"8%\" align=\"left\" valign=\"bottom\"/><col width=\"6%\" align=\"right\" valign=\"bottom\"/><col width=\"12%\" align=\"left\" valign=\"bottom\"/><thead><tr styleCode=\"Botrule\"><th rowspan=\"3\" styleCode=\"Lrule Rrule\">Adverse Reaction <footnote ID=\"K1120\">Data include subjects with nasal allergen challenge induced rhinitis</footnote></th><th colspan=\"2\" align=\"center\" styleCode=\"Rrule\">Neffy 2 mg   One Dose </th><th colspan=\"2\" align=\"center\" styleCode=\"Rrule\">Neffy 2 mg   Two Doses <footnote ID=\"K1136\">Two nasal doses of neffy 2 mg were administered 10 minutes apart</footnote></th></tr><tr styleCode=\"Botrule\"><th colspan=\"2\" align=\"center\" styleCode=\"Rrule\">N = 134 <footnote ID=\"foot1\">The trials used a crossover design and therefore the total number of subjects do not match the number of unique subjects (n = 175)</footnote></th><th colspan=\"2\" align=\"center\" styleCode=\"Rrule\">N = 85 <footnoteRef IDREF=\"foot1\"/></th></tr><tr><th align=\"right\" styleCode=\"Rrule\"/><th styleCode=\"Rrule\"/><th styleCode=\"Rrule\"/><th styleCode=\"Rrule\"/></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Nasal discomfort</td><td styleCode=\"Rrule\">13</td><td styleCode=\"Rrule\">(10%)</td><td styleCode=\"Rrule\">11</td><td styleCode=\"Rrule\">(13%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Headache</td><td styleCode=\"Rrule\">8</td><td styleCode=\"Rrule\">(6%)</td><td styleCode=\"Rrule\">15</td><td styleCode=\"Rrule\">(18%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Rhinorrhea</td><td styleCode=\"Rrule\">4</td><td styleCode=\"Rrule\">(3%)</td><td styleCode=\"Rrule\">6</td><td styleCode=\"Rrule\">(7%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Dizziness</td><td styleCode=\"Rrule\">4</td><td styleCode=\"Rrule\">(3%)</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">(2%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Nausea</td><td styleCode=\"Rrule\">4</td><td styleCode=\"Rrule\">(3%)</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">(2%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Vomiting</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">(2%)</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">(2%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Throat irritation</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">(2%)</td><td styleCode=\"Rrule\">16</td><td styleCode=\"Rrule\">(19%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Feeling jittery</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">(1%)</td><td styleCode=\"Rrule\">9</td><td styleCode=\"Rrule\">(11%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Abdominal pain</td><td styleCode=\"Rrule\">1</td><td styleCode=\"Rrule\">(1%)</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">(4%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Tremor</td><td styleCode=\"Rrule\">0</td><td styleCode=\"Rrule\">(0%)</td><td styleCode=\"Rrule\">7</td><td styleCode=\"Rrule\">(8%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Nasal pruritus</td><td styleCode=\"Rrule\">0</td><td styleCode=\"Rrule\">(0%)</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">(4%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Sneezing</td><td styleCode=\"Rrule\">0</td><td styleCode=\"Rrule\">(0%)</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">(4%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Gingival pain</td><td styleCode=\"Rrule\">0</td><td styleCode=\"Rrule\">(0%)</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">(4%)</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\"> Hypoesthesia oral</td><td styleCode=\"Rrule\">0</td><td styleCode=\"Rrule\">(0%)</td><td styleCode=\"Rrule\">3</td><td styleCode=\"Rrule\">(4%)</td></tr><tr><td styleCode=\"Lrule Rrule\"> Nasal Congestion</td><td styleCode=\"Rrule\">0</td><td styleCode=\"Rrule\">(0%)</td><td styleCode=\"Rrule\">2</td><td styleCode=\"Rrule\">(2%)</td></tr></tbody></table>"
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Neffy may alter nasal mucosa for up to 2 weeks after administration and increase systemic absorption of nasal products, including neffy. ( 7.1 ) Cardiac glycosides, diuretics or anti-arrhythmics: observe for development of cardiac arrhythmias. ( 7.2 ) Tricyclic antidepressants, monoamine oxidase inhibitors, levothyroxine sodium, certain antihistamines, and catechol-O-methyl transferase inhibitors may potentiate effects of epinephrine. ( 7.3 ) Beta-adrenergic blocking drugs antagonize cardiostimulating and bronchodilating effects of epinephrine. ( 7.4 ) Alpha-adrenergic blocking drugs antagonize vasoconstricting and hypertensive effects of epinephrine. ( 7.4 ) Ergot alkaloids may reverse the pressor effects of epinephrine. ( 7.4 ) 7.1 Potential Increased Exposure of Nasal Spray Drugs Neffy may alter nasal mucosa for up to 2 weeks after administration, and thus may increase systemic absorption of nasal products, including neffy, potentially increasing the risk of adverse reactions associated with these products. 7.2 Drugs Increasing Risk of Cardiac Arrhythmias Patients who receive epinephrine while concomitantly taking cardiac glycosides, diuretics, or anti-arrhythmics should be observed carefully for the development of cardiac arrhythmias [see Warnings and Precautions (5.2) and Adverse Reactions (6) ] . 7.3 Drugs Potentiating Effects of Epinephrine The effects of epinephrine may be potentiated by tricyclic antidepressants, monoamine oxidase inhibitors, levothyroxine sodium, certain antihistamines, notably chlorpheniramine, tripelennamine, and diphenhydramine, and catechol-O-methyl transferase (COMT) inhibitors such as entacapone. 7.4 Drugs Antagonizing Effects of Epinephrine The cardiostimulating and bronchodilating effects of epinephrine are antagonized by beta- adrenergic blocking drugs, such as propranolol. The vasoconstricting and hypertensive effects of epinephrine are antagonized by alpha- adrenergic blocking drugs, such as phentolamine. Ergot alkaloids may also reverse the pressor effects of epinephrine."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Elderly patients may be at greater risk of developing adverse reactions. ( 8.5 ) 8.1 Pregnancy Risk Summary Prolonged experience with epinephrine use in pregnant women over several decades, based on published literature, have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks to the mother and fetus associated with anaphylaxis, and treatment with epinephrine should not be delayed (see Clinical Considerations ). In animal reproduction studies, epinephrine administered by the subcutaneous route to pregnant rabbits, mice, and hamsters, during the period of organogenesis, resulted in adverse developmental effects (including gastroschisis, and embryonic lethality, and delayed skeletal ossification) at doses approximately 2 times the maximum recommended daily intramuscular, subcutaneous, or intravenous dose (see Data ). The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the United States general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Disease-Associated Maternal and Embryo/Fetal Risk During pregnancy, anaphylaxis can be catastrophic and can lead to hypoxic-ischemic encephalopathy and permanent central nervous system damage or death in the mother and, more commonly, in the fetus or neonate. Treatment of anaphylaxis during pregnancy should not be delayed. Data Animal Data In an embryofetal development study with pregnant rabbits dosed during the period of organogenesis (on days 3 to 5, 6 to 7 or 7 to 9 of gestation), epinephrine caused teratogenic effects (including gastroschisis) at doses approximately 15 times the maximum recommended intramuscular, subcutaneous, or intravenous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days). Animals treated on days 6 to 7 had decreased number of implantations. In an embryofetal development study, pregnant mice were administered epinephrine (0.1 to 10 mg/kg/day) on Gestation Days 6 to 15. Teratogenic effects, embryonic lethality, and delays in skeletal ossification were observed at approximately 3 times the maximum recommended intramuscular, subcutaneous, or intravenous dose (on a mg/m 2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days). These effects were not seen in mice at approximately 2 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m 2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days). In an embryofetal development study with pregnant hamsters dosed during the period of organogenesis from gestation days 7 to 10, epinephrine produced reductions in litter size and delayed skeletal ossification at doses approximately 2 times the maximum recommended intramuscular, subcutaneous, or intravenous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 0.5 mg/kg/day). 8.2 Lactation Risk Summary There are no data on the presence of epinephrine or its metabolite in human milk, the effects on the breastfed infant, or the effects on human milk production. However, due to its poor oral bioavailability and short half-life, transfer of epinephrine into breastmilk is expected to be low. Treatment for anaphylaxis in breastfeeding patients should not be delayed. 8.4 Pediatric Use The safety and effectiveness of neffy for emergency treatment of type I allergic reactions, including anaphylaxis, have been established in pediatric patients aged 4 years and older who weigh 15 kg or greater. Use of neffy for this indication is supported by extrapolation from the clinical pharmacology studies in adults that compared the PK/PD profile of neffy to epinephrine injection products with established safety and effectiveness for this indication and clinical pharmacology data (Study 5) in pediatric patients aged 4 years and older who weigh 15 kg or greater [see Adverse Reactions (6) and Clinical Pharmacology (12.2 , 12.3) ]. The safety and effectiveness of neffy have not been established in pediatric patients less than 4 years of age and who weigh less than 15 kg. 8.5 Geriatric Use Clinical pharmacology studies of neffy for the emergency treatment of type I allergic reactions, including anaphylaxis, did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger adult subjects. However, other reported clinical experience with use of epinephrine for the treatment of anaphylaxis has identified that geriatric patients may be particularly sensitive to the effects of epinephrine. Neffy should be administered with caution in elderly patients who are at greater risk for developing adverse reactions after epinephrine administration."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Prolonged experience with epinephrine use in pregnant women over several decades, based on published literature, have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks to the mother and fetus associated with anaphylaxis, and treatment with epinephrine should not be delayed (see Clinical Considerations ). In animal reproduction studies, epinephrine administered by the subcutaneous route to pregnant rabbits, mice, and hamsters, during the period of organogenesis, resulted in adverse developmental effects (including gastroschisis, and embryonic lethality, and delayed skeletal ossification) at doses approximately 2 times the maximum recommended daily intramuscular, subcutaneous, or intravenous dose (see Data ). The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the United States general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Clinical Considerations Disease-Associated Maternal and Embryo/Fetal Risk During pregnancy, anaphylaxis can be catastrophic and can lead to hypoxic-ischemic encephalopathy and permanent central nervous system damage or death in the mother and, more commonly, in the fetus or neonate. Treatment of anaphylaxis during pregnancy should not be delayed. Data Animal Data In an embryofetal development study with pregnant rabbits dosed during the period of organogenesis (on days 3 to 5, 6 to 7 or 7 to 9 of gestation), epinephrine caused teratogenic effects (including gastroschisis) at doses approximately 15 times the maximum recommended intramuscular, subcutaneous, or intravenous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 1.2 mg/kg/day for two to three days). Animals treated on days 6 to 7 had decreased number of implantations. In an embryofetal development study, pregnant mice were administered epinephrine (0.1 to 10 mg/kg/day) on Gestation Days 6 to 15. Teratogenic effects, embryonic lethality, and delays in skeletal ossification were observed at approximately 3 times the maximum recommended intramuscular, subcutaneous, or intravenous dose (on a mg/m 2 basis at maternal subcutaneous dose of 1 mg/kg/day for 10 days). These effects were not seen in mice at approximately 2 times the maximum recommended daily intramuscular or subcutaneous dose (on a mg/m 2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days). In an embryofetal development study with pregnant hamsters dosed during the period of organogenesis from gestation days 7 to 10, epinephrine produced reductions in litter size and delayed skeletal ossification at doses approximately 2 times the maximum recommended intramuscular, subcutaneous, or intravenous dose (on a mg/m 2 basis at a maternal subcutaneous dose of 0.5 mg/kg/day)."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of neffy for emergency treatment of type I allergic reactions, including anaphylaxis, have been established in pediatric patients aged 4 years and older who weigh 15 kg or greater. Use of neffy for this indication is supported by extrapolation from the clinical pharmacology studies in adults that compared the PK/PD profile of neffy to epinephrine injection products with established safety and effectiveness for this indication and clinical pharmacology data (Study 5) in pediatric patients aged 4 years and older who weigh 15 kg or greater [see Adverse Reactions (6) and Clinical Pharmacology (12.2 , 12.3) ]. The safety and effectiveness of neffy have not been established in pediatric patients less than 4 years of age and who weigh less than 15 kg."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical pharmacology studies of neffy for the emergency treatment of type I allergic reactions, including anaphylaxis, did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger adult subjects. However, other reported clinical experience with use of epinephrine for the treatment of anaphylaxis has identified that geriatric patients may be particularly sensitive to the effects of epinephrine. Neffy should be administered with caution in elderly patients who are at greater risk for developing adverse reactions after epinephrine administration."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Overdosage of epinephrine has been reported to produce extremely elevated arterial pressure, which may result in cerebrovascular hemorrhage, particularly in elderly patients. Overdosage may also result in pulmonary edema because of peripheral vascular constriction together with cardiac stimulation. Epinephrine overdosage can also cause transient bradycardia followed by tachycardia which may be accompanied by fatal cardiac arrhythmias; premature ventricular contractions followed by multifocal ventricular tachycardia; atrial tachycardia and occasionally by atrioventricular block; extreme pallor and coldness of the skin; metabolic acidosis; kidney failure. Epinephrine is rapidly inactivated in the body and treatment following overdosage with epinephrine is primarily supportive. Treatment of epinephrine associated pulmonary edema consists of a rapidly acting alpha-adrenergic blocking drug (such as phentolamine mesylate) and respiratory support. Treatment of epinephrine associated arrhythmias consists of administration of a beta-adrenergic blocking drug (such as propranolol). If necessary, pressor effects may be counteracted by rapidly acting vasodilators or α-adrenergic blocking drugs. If prolonged hypotension follows such measures, it may be necessary to administer another pressor drug. Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations."
+  ],
+  "description": [
+   "11 DESCRIPTION Neffy contains epinephrine, a sympathomimetic catecholamine. Chemically, epinephrine is (-)-3,4-dihydroxy-α-[(methylamino)methyl] benzyl alcohol with molecular weight of 183.21 g/mol and the following structure: Neffy (epinephrine nasal spray) is supplied as single-dose nasal sprays containing 1 mg or 2 mg of epinephrine in 0.1 mL solution for nasal administration. Inactive ingredients include benzalkonium chloride, disodium edetate, n-dodecyl beta-D-maltoside, sodium chloride, sodium metabisulfite, and hydrochloric acid or sodium hydroxide to adjust pH, in water for injection. The pH range is approximately 3 to 5.5. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension. Through its action on beta-adrenergic receptors, epinephrine causes bronchial smooth muscle relaxation and helps alleviate bronchospasm, wheezing and dyspnea that may occur during anaphylaxis. Epinephrine alleviates pruritus, urticaria, and angioedema. It may also relieve gastrointestinal and genitourinary symptoms associated with anaphylaxis because of its relaxer effects on the smooth muscle of the stomach, intestine, uterus, and urinary bladder. 12.2 Pharmacodynamics Four clinical pharmacology studies of neffy in adults and one clinical pharmacology study in pediatric subjects who weigh 30 kg or greater are described below. All doses were administered by study staff unless otherwise stated. Systolic Blood Pressure and Pulse Rate in Healthy Adult Subjects (Study 1) Study 1 was conducted in healthy adult subjects (N=42) that compared the pharmacokinetics (PK) [see Clinical Pharmacology (12.3) ] and pharmacodynamics (PD) (i.e., pulse rate (PR) and systolic blood pressure (SBP)) of epinephrine following: One nasal dose of neffy 2 mg to one intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product and an auto-injector product). Two nasal doses of neffy 2 mg, administered 10 minutes apart, into either same naris or opposite nares to two intramuscular doses of epinephrine injection 0.3 mg (using an auto-injector) administered 10 minutes apart. In Study 1, SBP and PR responses were assessed as change from baseline over 60 minutes. Results following one dose of all epinephrine products demonstrated an increase from baseline SBP and PR as shown in Figure 2. The median/mean increase in SBP and PR for neffy were within the range of both epinephrine injection treatments during the first 10 minutes post-dose. Thereafter, the median/mean SBP and PR responses for neffy were higher than both epinephrine injection treatments through 60 minutes post-dose. Figure 2: Median Pulse Rate (PR) and Systolic Blood Pressure (SBP) Change from Baseline Following One Dose of Epinephrine in Healthy Subjects [Study 1] Results following two nasal doses of neffy (in the same naris or opposite nares) in comparison to two intramuscular doses of epinephrine injection (using an auto-injector) showed a similar trend in median/mean SBP and PR responses. The clinical meaning of SBP and PR responses observed in healthy subjects is unclear in the context of treating anaphylaxis. Figure 2 Figure 2 Systolic Blood Pressure and Pulse Rate in Adult Patients with Type I Allergy without Anaphylaxis (Study 2) Study 2 was conducted in adult patients with type I allergy without anaphylaxis (N=42) that compared the PK and PD of epinephrine following self-administered one nasal dose of neffy 2 mg to staff-administered one intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product). In Study 2, SBP and PR responses were assessed as a change from baseline over 60 minutes. The SBP and PR responses results in Study 2 were similar to Study 1. Systolic Blood Pressure and Pulse Rate in Adult Patients with Nasal Allergen Challenge Induced Rhinitis (Study 3 and 4) Study 3 and Study 4 were conducted in adult subjects with seasonal allergic rhinitis outside of allergy season (neffy is not approved for the treatment of allergic rhinitis). Subjects were required to have seasonal allergic rhinitis which was confirmed with a nasal allergen challenge (NAC) during screening and did not have any allergy symptoms prior to treatment. Allergic rhinitis symptoms were induced by spraying the known allergen into the subject's nostrils in which a minimum Total Nasal Symptom Score (TNSS) of ≥ 5 out of 12, with a congestion component of ≥ 2 out of 3 had to be reached. Study 3 enrolled 36 subjects. In this cross-over study, subjects received epinephrine as each of the following: One nasal dose of neffy 2 mg without nasal allergen challenge (NAC). One nasal dose of neffy 2 mg after undergoing NAC to induce rhinitis/nasal congestion. One intramuscular dose of epinephrine injection 0.3 mg (using a needle syringe) without NAC. One intramuscular dose of epinephrine injection 0.5 mg (using a needle syringe) without NAC. In Study 3, SBP and PR responses were assessed as a change from baseline over 60 minutes. Results showed the following: Median SBP and PR for neffy with NAC initially increased from baseline, but the median responses were lower than the use of neffy without NAC after 5 to 15 minutes post-dose. Median SBP response for neffy with NAC was initially higher than the median SBP response for the intramuscular epinephrine injection without NAC through 20 minutes, after which the median SBP response for neffy with NAC became comparable to the epinephrine injection without NAC through 60 minutes post-dose. Median PR response for neffy with NAC was initially higher than epinephrine injection without NAC during the first 5 minutes post-dose, but then was numerically lower than the median PR response for epinephrine injection without NAC through 60 minutes post-dose. Study 4 enrolled 43 subjects. In this cross-over study, subjects received the following: Two nasal doses of neffy 2 mg (in the opposite nares) without NAC administered 10 minutes apart. Two intramuscular doses of epinephrine injections 0.3 mg (using a needle-syringe) without NAC administered 10 minutes apart. Two nasal doses of neffy 2 mg (either in the same naris or opposite nares) after NAC to induce allergic rhinitis/nasal congestion administered 10 minutes apart. Two intramuscular doses of epinephrine injections 0.3 mg (using a needle-syringe) after NAC to induce allergic rhinitis/nasal congestion administered 10 minutes apart. In Study 4, SBP and PR responses were assessed as a change from baseline over 60 minutes. Results showed the following: Median SBP and PR responses for two nasal doses of neffy (in the same naris) after NAC increased from baseline and remained higher than median SBP and PR response for two intramuscular doses of epinephrine injections after NAC through 60 minutes post-first dose (Figure 3). Median SBP response for two nasal doses of neffy (in the opposite nares) after NAC was higher than for two intramuscular doses of epinephrine injections after NAC within 30 minutes post-first dose, but then decreased and became numerically lower afterwards. Median PR response for two nasal doses of neffy (in the opposite nares) after NAC was also initially higher than two intramuscular doses of epinephrine injection after NAC and became lower after 40 minutes post-first dose. Figure 3: Median Change from Baseline for Pulse Rate (PR) and Systolic Blood Pressure (SBP) Following Two Doses of Epinephrine Administered 10 Minutes Apart in Subjects with and without Nasal Allergen Challenge (NAC) Induced Rhinitis [Study 4] R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product Figure 3 Systolic Blood Pressure and Pulse Rate in Pediatric Patients Aged 4 Years and Older Weighing 15 kg or Greater with Type I Allergy without Anaphylaxis (Study 5) Study 5 was a single-arm study conducted in pediatric patients who weighed 15 kg or greater (age range: 4 to 17 years) with type I allergy without anaphylaxis (N=42) that assessed the PK and PD of epinephrine following one nasal dose of neffy 1 mg (for subjects who weigh 15 kg to < 30 kg) and 2 mg (for subjects who weigh 30 kg or greater). The median change in SBP from baseline over the 60 minutes post-dose were numerically lower than in adults who received neffy 2 mg in Study 1 and 2, while the median change in PR from baseline over 60 minutes post-dose was within the range of adults who received neffy 2 mg in Study 1 and 2. 12.3 Pharmacokinetics Pharmacokinetics assessments were performed in the clinical pharmacology studies described in the Pharmacodynamics subsection [see Clinical Pharmacology (12.2) ] . Pharmacokinetics in Healthy Adult Subjects (Study 1) See Pharmacodynamics (12.2) for a description for Study 1. Following one nasal dose of neffy 2 mg in Study 1, the geometric mean plasma epinephrine concentration-time profile was overall within the range of that following one intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product and an auto-injector product) 60 minutes post-dose. The epinephrine plasma concentration versus time profiles are shown in Figure 4. The pharmacokinetic parameters of epinephrine are summarized in Table 3. Figure 4: Epinephrine Geometric Mean (90% Confidence Interval) Plasma Concentration-Time Profiles Following One Dose of Epinephrine in Healthy Subjects [Study 1] Table 3: Geometric Mean (CV%) Plasma PK Parameters Following One Dose of Epinephrine in Healthy Subjects [Study 1] Product Pharmacokinetic Parameters [%CV] GeoMean Cmax (pg/mL) Median Tmax (min) GeoMean AUC 0-10min (min*pg/mL) Note: Based on within-study comparison results from Studies 1, 2, and 3, the epinephrine exposures in the first 10 minutes following neffy administration were generally within the range observed following epinephrine injection 0.3 mg (needle-syringe) GeoMean AUC 0-20min (min*pg/mL) GeoMean AUC 0-45min (min*pg/mL) GeoMean AUC 0-60min (min*pg/mL) Epinephrine 0.3 mg (Needle-Syringe) (N=42) 283 [62] 45 879 [120] 2032 [89] 6172 [67] 9217 [59] Neffy 2 mg (N=42) 341 [114] 30 704 [92] 2548 [102] 8156 [115] 10916 [116] Epinephrine 0.3 mg (Auto-Injector) (N=42) 604 [79] 8 2771 [115] 5818 [83] 12227 [60] 14762 [57] Following two nasal doses of neffy 2 mg, administered 10 minutes apart, either into the same naris or opposite nares under normal nasal conditions, the C max and AUC 0-60 min increased approximately dose proportionally compared to one nasal dose of neffy 2 mg in healthy adults. The systemic exposures of two doses of neffy 2 mg administered into the same naris or the opposite nares under normal nasal conditions were generally similar and comparable to that of two intramuscular injections of epinephrine 0.3 mg (using an auto-injector product), administered 10 minutes apart, after 20 to 30 minutes post-dose. Figure 4 Pharmacokinetics in Adult Patients with Type I Allergy without Anaphylaxis (Study 2) See the Pharmacodynamics (12.2) for a description for Study 2. The geometric mean plasma epinephrine concentration time profile following one self-administered nasal dose of neffy 2 mg was numerically higher than that of one staff-administered intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product) during the first 60 minutes post-dose (Study 2). The systemic exposure of epinephrine following one self-administered dose of neffy 2 mg in adult patients with type I allergy without anaphylaxis was similar to that following one staff-administered dose of neffy 2 mg in healthy adult subjects from Study 1. Pharmacokinetics in Adult Patients with Nasal Allergen Challenge Induced Rhinitis (Studies 3 and 4) See the Pharmacodynamics (12.2) for a description of Studies 3 and 4. In Study 3, the geometric mean plasma epinephrine concentrations in patients who received one nasal dose of neffy 2 mg after NAC initially increased more rapidly during the first 5 minutes compared to those that received one nasal dose of neffy 2 mg without NAC and one intramuscular dose of epinephrine injection (0.3 mg or 0.5 mg) without NAC. The geometric mean plasma epinephrine concentrations of patients who received neffy 2 mg with NAC declined after approximately 10 minutes post-dose and became numerically lower than both the neffy 2 mg without NAC and epinephrine injection (0.3 mg or 0.5 mg) after 20 minutes post-dose (Figure 5a). In Study 4, the geometric mean of plasma epinephrine concentrations in patients who received two nasal doses of neffy 2 mg, administered 10 minutes apart, (in the same naris) after NAC were higher than those who received two intramuscular doses of epinephrine injection 0.3 mg, administered 10 minutes apart, with or without NAC up to 40 minutes post-first dose and then became similar afterwards (Figure 5b). The geometric mean plasma epinephrine concentrations of patients who received two doses of neffy 2 mg, administered 10 minutes apart, (in the opposite nares) after NAC, were initially higher than those who received two intramuscular doses of epinephrine injection 0.3 mg, administered 10 minutes apart, with or without NAC for around 25 to 30 minutes post-first dose, but became lower afterwards. Figure 5: Epinephrine Geometric Mean Plasma Concentration-Time Profiles Following One or Two Dose(s) of Epinephrine in Adult Subjects with and without Nasal Allergen Challenge Induced Rhinitis [Study 3 and Study 4] a: Epinephrine geometric mean plasma concentration-time profiles following one dose of epinephrine in Study 3 b: Epinephrine geometric mean plasma concentration-time profiles following two doses of epinephrine in Study 4 R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product Figure 5 Pharmacokinetics in Pediatric Patients Aged 4 Years and Older Weighing 15 kg or Greater with Type I Allergy without Anaphylaxis (Study 5) See the Pharmacodynamics (12.2) for a description for Study 5. In pediatric patients with type I allergy without anaphylaxis who weigh 15 kg or greater (age range: 4 to 17 years), following one nasal dose of neffy 1 mg (for subjects who weigh 15 kg to < 30 kg) or 2 mg (for subjects who weigh 30 kg or greater) (Study 5), the geometric mean plasma epinephrine concentration time profiles for both weight groups were numerically higher than that of adults who received neffy 2 mg (Study 1 and 2). Elimination : Metabolism: Epinephrine is extensively metabolized with only a small amount excreted unchanged. Epinephrine is rapidly degraded to vanillylmandelic acid, an inactive metabolite, by monoamine oxidase and catechol-O-methyltransferase that are abundantly expressed in the liver, kidneys and other extraneuronal tissues. The tissues with the highest contribution to removal of circulating exogenous epinephrine are the liver (32%), kidneys (25%), skeletal muscle (20%), and mesenteric organs (12%). Specific Populations: Age: In a PK study of 45-minute epinephrine intravenous infusions given to healthy male subjects aged 20 to 25 years and healthy male subjects aged 60 to 65 years, the mean plasma metabolic clearance rate of epinephrine at steady state was greater among the older male subjects compared to younger male subjects (144.8 versus 78 mL/kg/minute, respectively, for a 0.0143 mcg/kg/minute infusion). Body Weight: Body weight has been found to influence epinephrine PK. Higher body weight was associated with a higher plasma epinephrine clearance and a lower concentration plateau."
+  ],
+  "clinical_pharmacology_table": [
+   "<table width=\"75%\" styleCode=\"Noautorules\"><col width=\"100%\" align=\"left\" valign=\"top\"/><tfoot><tr><td>R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart.   R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart.   Epinephrine 0.3 mg was administered using needle-syringe product </td></tr></tfoot><tbody><tr><td><paragraph><renderMultiMedia referencedObject=\"MM5\"/></paragraph></td></tr></tbody></table>",
+   "<table width=\"95%\"><caption>Table 3: Geometric Mean (CV%) Plasma PK Parameters Following One Dose of Epinephrine in Healthy Subjects [Study 1]</caption><col width=\"20%\" align=\"center\" valign=\"middle\"/><col width=\"10%\" align=\"center\" valign=\"middle\"/><col width=\"9%\" align=\"center\" valign=\"middle\"/><col width=\"16%\" align=\"center\" valign=\"middle\"/><col width=\"14%\" align=\"center\" valign=\"middle\"/><col width=\"14%\" align=\"center\" valign=\"middle\"/><col width=\"17%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"Botrule\"><th rowspan=\"2\" styleCode=\"Lrule Rrule\">Product</th><th colspan=\"6\" styleCode=\"Rrule\">Pharmacokinetic Parameters [%CV]</th></tr><tr><th styleCode=\"Rrule\">GeoMean   Cmax (pg/mL) </th><th styleCode=\"Rrule\">Median   Tmax   (min) </th><th styleCode=\"Rrule\">GeoMean   AUC <sub>0-10min</sub>(min*pg/mL) <footnote ID=\"K2286\">Note: Based on within-study comparison results from Studies 1, 2, and 3, the epinephrine exposures in the first 10 minutes following neffy administration were generally within the range observed following epinephrine injection 0.3 mg (needle-syringe) </footnote></th><th styleCode=\"Rrule\">GeoMean   AUC <sub>0-20min</sub>(min*pg/mL) </th><th styleCode=\"Rrule\">GeoMean   AUC <sub>0-45min</sub>(min*pg/mL) </th><th styleCode=\"Rrule\">GeoMean AUC <sub>0-60min</sub>  (min*pg/mL) </th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Epinephrine 0.3 mg   (Needle-Syringe)   (N=42) </td><td styleCode=\"Rrule\">283 [62]</td><td styleCode=\"Rrule\">45</td><td styleCode=\"Rrule\">879 [120]</td><td styleCode=\"Rrule\">2032 [89]</td><td styleCode=\"Rrule\">6172 [67]</td><td styleCode=\"Rrule\">9217 [59]</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Neffy 2 mg   (N=42) </td><td styleCode=\"Rrule\">341 [114]</td><td styleCode=\"Rrule\">30</td><td styleCode=\"Rrule\">704 [92]</td><td styleCode=\"Rrule\">2548 [102]</td><td styleCode=\"Rrule\">8156 [115]</td><td styleCode=\"Rrule\">10916 [116]</td></tr><tr><td styleCode=\"Lrule Rrule\">Epinephrine 0.3 mg   (Auto-Injector)   (N=42) </td><td styleCode=\"Rrule\">604 [79]</td><td styleCode=\"Rrule\">8</td><td styleCode=\"Rrule\">2771 [115]</td><td styleCode=\"Rrule\">5818 [83]</td><td styleCode=\"Rrule\">12227 [60]</td><td styleCode=\"Rrule\">14762 [57]</td></tr></tbody></table>",
+   "<table width=\"75%\" styleCode=\"Noautorules\"><col width=\"100%\" align=\"left\" valign=\"top\"/><tfoot><tr><td>a: Epinephrine geometric mean plasma concentration-time profiles following one dose of epinephrine in Study 3   b: Epinephrine geometric mean plasma concentration-time profiles following two doses of epinephrine in Study 4   R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart.   R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart.   Epinephrine 0.3 mg was administered using needle-syringe product </td></tr></tfoot><tbody><tr><td><paragraph><renderMultiMedia referencedObject=\"MM7\"/></paragraph></td></tr></tbody></table>"
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension. Through its action on beta-adrenergic receptors, epinephrine causes bronchial smooth muscle relaxation and helps alleviate bronchospasm, wheezing and dyspnea that may occur during anaphylaxis. Epinephrine alleviates pruritus, urticaria, and angioedema. It may also relieve gastrointestinal and genitourinary symptoms associated with anaphylaxis because of its relaxer effects on the smooth muscle of the stomach, intestine, uterus, and urinary bladder."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics Four clinical pharmacology studies of neffy in adults and one clinical pharmacology study in pediatric subjects who weigh 30 kg or greater are described below. All doses were administered by study staff unless otherwise stated. Systolic Blood Pressure and Pulse Rate in Healthy Adult Subjects (Study 1) Study 1 was conducted in healthy adult subjects (N=42) that compared the pharmacokinetics (PK) [see Clinical Pharmacology (12.3) ] and pharmacodynamics (PD) (i.e., pulse rate (PR) and systolic blood pressure (SBP)) of epinephrine following: One nasal dose of neffy 2 mg to one intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product and an auto-injector product). Two nasal doses of neffy 2 mg, administered 10 minutes apart, into either same naris or opposite nares to two intramuscular doses of epinephrine injection 0.3 mg (using an auto-injector) administered 10 minutes apart. In Study 1, SBP and PR responses were assessed as change from baseline over 60 minutes. Results following one dose of all epinephrine products demonstrated an increase from baseline SBP and PR as shown in Figure 2. The median/mean increase in SBP and PR for neffy were within the range of both epinephrine injection treatments during the first 10 minutes post-dose. Thereafter, the median/mean SBP and PR responses for neffy were higher than both epinephrine injection treatments through 60 minutes post-dose. Figure 2: Median Pulse Rate (PR) and Systolic Blood Pressure (SBP) Change from Baseline Following One Dose of Epinephrine in Healthy Subjects [Study 1] Results following two nasal doses of neffy (in the same naris or opposite nares) in comparison to two intramuscular doses of epinephrine injection (using an auto-injector) showed a similar trend in median/mean SBP and PR responses. The clinical meaning of SBP and PR responses observed in healthy subjects is unclear in the context of treating anaphylaxis. Figure 2 Figure 2 Systolic Blood Pressure and Pulse Rate in Adult Patients with Type I Allergy without Anaphylaxis (Study 2) Study 2 was conducted in adult patients with type I allergy without anaphylaxis (N=42) that compared the PK and PD of epinephrine following self-administered one nasal dose of neffy 2 mg to staff-administered one intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product). In Study 2, SBP and PR responses were assessed as a change from baseline over 60 minutes. The SBP and PR responses results in Study 2 were similar to Study 1. Systolic Blood Pressure and Pulse Rate in Adult Patients with Nasal Allergen Challenge Induced Rhinitis (Study 3 and 4) Study 3 and Study 4 were conducted in adult subjects with seasonal allergic rhinitis outside of allergy season (neffy is not approved for the treatment of allergic rhinitis). Subjects were required to have seasonal allergic rhinitis which was confirmed with a nasal allergen challenge (NAC) during screening and did not have any allergy symptoms prior to treatment. Allergic rhinitis symptoms were induced by spraying the known allergen into the subject's nostrils in which a minimum Total Nasal Symptom Score (TNSS) of ≥ 5 out of 12, with a congestion component of ≥ 2 out of 3 had to be reached. Study 3 enrolled 36 subjects. In this cross-over study, subjects received epinephrine as each of the following: One nasal dose of neffy 2 mg without nasal allergen challenge (NAC). One nasal dose of neffy 2 mg after undergoing NAC to induce rhinitis/nasal congestion. One intramuscular dose of epinephrine injection 0.3 mg (using a needle syringe) without NAC. One intramuscular dose of epinephrine injection 0.5 mg (using a needle syringe) without NAC. In Study 3, SBP and PR responses were assessed as a change from baseline over 60 minutes. Results showed the following: Median SBP and PR for neffy with NAC initially increased from baseline, but the median responses were lower than the use of neffy without NAC after 5 to 15 minutes post-dose. Median SBP response for neffy with NAC was initially higher than the median SBP response for the intramuscular epinephrine injection without NAC through 20 minutes, after which the median SBP response for neffy with NAC became comparable to the epinephrine injection without NAC through 60 minutes post-dose. Median PR response for neffy with NAC was initially higher than epinephrine injection without NAC during the first 5 minutes post-dose, but then was numerically lower than the median PR response for epinephrine injection without NAC through 60 minutes post-dose. Study 4 enrolled 43 subjects. In this cross-over study, subjects received the following: Two nasal doses of neffy 2 mg (in the opposite nares) without NAC administered 10 minutes apart. Two intramuscular doses of epinephrine injections 0.3 mg (using a needle-syringe) without NAC administered 10 minutes apart. Two nasal doses of neffy 2 mg (either in the same naris or opposite nares) after NAC to induce allergic rhinitis/nasal congestion administered 10 minutes apart. Two intramuscular doses of epinephrine injections 0.3 mg (using a needle-syringe) after NAC to induce allergic rhinitis/nasal congestion administered 10 minutes apart. In Study 4, SBP and PR responses were assessed as a change from baseline over 60 minutes. Results showed the following: Median SBP and PR responses for two nasal doses of neffy (in the same naris) after NAC increased from baseline and remained higher than median SBP and PR response for two intramuscular doses of epinephrine injections after NAC through 60 minutes post-first dose (Figure 3). Median SBP response for two nasal doses of neffy (in the opposite nares) after NAC was higher than for two intramuscular doses of epinephrine injections after NAC within 30 minutes post-first dose, but then decreased and became numerically lower afterwards. Median PR response for two nasal doses of neffy (in the opposite nares) after NAC was also initially higher than two intramuscular doses of epinephrine injection after NAC and became lower after 40 minutes post-first dose. Figure 3: Median Change from Baseline for Pulse Rate (PR) and Systolic Blood Pressure (SBP) Following Two Doses of Epinephrine Administered 10 Minutes Apart in Subjects with and without Nasal Allergen Challenge (NAC) Induced Rhinitis [Study 4] R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product Figure 3 Systolic Blood Pressure and Pulse Rate in Pediatric Patients Aged 4 Years and Older Weighing 15 kg or Greater with Type I Allergy without Anaphylaxis (Study 5) Study 5 was a single-arm study conducted in pediatric patients who weighed 15 kg or greater (age range: 4 to 17 years) with type I allergy without anaphylaxis (N=42) that assessed the PK and PD of epinephrine following one nasal dose of neffy 1 mg (for subjects who weigh 15 kg to < 30 kg) and 2 mg (for subjects who weigh 30 kg or greater). The median change in SBP from baseline over the 60 minutes post-dose were numerically lower than in adults who received neffy 2 mg in Study 1 and 2, while the median change in PR from baseline over 60 minutes post-dose was within the range of adults who received neffy 2 mg in Study 1 and 2."
+  ],
+  "pharmacodynamics_table": [
+   "<table width=\"75%\" styleCode=\"Noautorules\"><col width=\"100%\" align=\"left\" valign=\"top\"/><tfoot><tr><td>R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart.   R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart.   Epinephrine 0.3 mg was administered using needle-syringe product </td></tr></tfoot><tbody><tr><td><paragraph><renderMultiMedia referencedObject=\"MM5\"/></paragraph></td></tr></tbody></table>"
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Pharmacokinetics assessments were performed in the clinical pharmacology studies described in the Pharmacodynamics subsection [see Clinical Pharmacology (12.2) ] . Pharmacokinetics in Healthy Adult Subjects (Study 1) See Pharmacodynamics (12.2) for a description for Study 1. Following one nasal dose of neffy 2 mg in Study 1, the geometric mean plasma epinephrine concentration-time profile was overall within the range of that following one intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product and an auto-injector product) 60 minutes post-dose. The epinephrine plasma concentration versus time profiles are shown in Figure 4. The pharmacokinetic parameters of epinephrine are summarized in Table 3. Figure 4: Epinephrine Geometric Mean (90% Confidence Interval) Plasma Concentration-Time Profiles Following One Dose of Epinephrine in Healthy Subjects [Study 1] Table 3: Geometric Mean (CV%) Plasma PK Parameters Following One Dose of Epinephrine in Healthy Subjects [Study 1] Product Pharmacokinetic Parameters [%CV] GeoMean Cmax (pg/mL) Median Tmax (min) GeoMean AUC 0-10min (min*pg/mL) Note: Based on within-study comparison results from Studies 1, 2, and 3, the epinephrine exposures in the first 10 minutes following neffy administration were generally within the range observed following epinephrine injection 0.3 mg (needle-syringe) GeoMean AUC 0-20min (min*pg/mL) GeoMean AUC 0-45min (min*pg/mL) GeoMean AUC 0-60min (min*pg/mL) Epinephrine 0.3 mg (Needle-Syringe) (N=42) 283 [62] 45 879 [120] 2032 [89] 6172 [67] 9217 [59] Neffy 2 mg (N=42) 341 [114] 30 704 [92] 2548 [102] 8156 [115] 10916 [116] Epinephrine 0.3 mg (Auto-Injector) (N=42) 604 [79] 8 2771 [115] 5818 [83] 12227 [60] 14762 [57] Following two nasal doses of neffy 2 mg, administered 10 minutes apart, either into the same naris or opposite nares under normal nasal conditions, the C max and AUC 0-60 min increased approximately dose proportionally compared to one nasal dose of neffy 2 mg in healthy adults. The systemic exposures of two doses of neffy 2 mg administered into the same naris or the opposite nares under normal nasal conditions were generally similar and comparable to that of two intramuscular injections of epinephrine 0.3 mg (using an auto-injector product), administered 10 minutes apart, after 20 to 30 minutes post-dose. Figure 4 Pharmacokinetics in Adult Patients with Type I Allergy without Anaphylaxis (Study 2) See the Pharmacodynamics (12.2) for a description for Study 2. The geometric mean plasma epinephrine concentration time profile following one self-administered nasal dose of neffy 2 mg was numerically higher than that of one staff-administered intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product) during the first 60 minutes post-dose (Study 2). The systemic exposure of epinephrine following one self-administered dose of neffy 2 mg in adult patients with type I allergy without anaphylaxis was similar to that following one staff-administered dose of neffy 2 mg in healthy adult subjects from Study 1. Pharmacokinetics in Adult Patients with Nasal Allergen Challenge Induced Rhinitis (Studies 3 and 4) See the Pharmacodynamics (12.2) for a description of Studies 3 and 4. In Study 3, the geometric mean plasma epinephrine concentrations in patients who received one nasal dose of neffy 2 mg after NAC initially increased more rapidly during the first 5 minutes compared to those that received one nasal dose of neffy 2 mg without NAC and one intramuscular dose of epinephrine injection (0.3 mg or 0.5 mg) without NAC. The geometric mean plasma epinephrine concentrations of patients who received neffy 2 mg with NAC declined after approximately 10 minutes post-dose and became numerically lower than both the neffy 2 mg without NAC and epinephrine injection (0.3 mg or 0.5 mg) after 20 minutes post-dose (Figure 5a). In Study 4, the geometric mean of plasma epinephrine concentrations in patients who received two nasal doses of neffy 2 mg, administered 10 minutes apart, (in the same naris) after NAC were higher than those who received two intramuscular doses of epinephrine injection 0.3 mg, administered 10 minutes apart, with or without NAC up to 40 minutes post-first dose and then became similar afterwards (Figure 5b). The geometric mean plasma epinephrine concentrations of patients who received two doses of neffy 2 mg, administered 10 minutes apart, (in the opposite nares) after NAC, were initially higher than those who received two intramuscular doses of epinephrine injection 0.3 mg, administered 10 minutes apart, with or without NAC for around 25 to 30 minutes post-first dose, but became lower afterwards. Figure 5: Epinephrine Geometric Mean Plasma Concentration-Time Profiles Following One or Two Dose(s) of Epinephrine in Adult Subjects with and without Nasal Allergen Challenge Induced Rhinitis [Study 3 and Study 4] a: Epinephrine geometric mean plasma concentration-time profiles following one dose of epinephrine in Study 3 b: Epinephrine geometric mean plasma concentration-time profiles following two doses of epinephrine in Study 4 R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product Figure 5 Pharmacokinetics in Pediatric Patients Aged 4 Years and Older Weighing 15 kg or Greater with Type I Allergy without Anaphylaxis (Study 5) See the Pharmacodynamics (12.2) for a description for Study 5. In pediatric patients with type I allergy without anaphylaxis who weigh 15 kg or greater (age range: 4 to 17 years), following one nasal dose of neffy 1 mg (for subjects who weigh 15 kg to < 30 kg) or 2 mg (for subjects who weigh 30 kg or greater) (Study 5), the geometric mean plasma epinephrine concentration time profiles for both weight groups were numerically higher than that of adults who received neffy 2 mg (Study 1 and 2). Elimination : Metabolism: Epinephrine is extensively metabolized with only a small amount excreted unchanged. Epinephrine is rapidly degraded to vanillylmandelic acid, an inactive metabolite, by monoamine oxidase and catechol-O-methyltransferase that are abundantly expressed in the liver, kidneys and other extraneuronal tissues. The tissues with the highest contribution to removal of circulating exogenous epinephrine are the liver (32%), kidneys (25%), skeletal muscle (20%), and mesenteric organs (12%). Specific Populations: Age: In a PK study of 45-minute epinephrine intravenous infusions given to healthy male subjects aged 20 to 25 years and healthy male subjects aged 60 to 65 years, the mean plasma metabolic clearance rate of epinephrine at steady state was greater among the older male subjects compared to younger male subjects (144.8 versus 78 mL/kg/minute, respectively, for a 0.0143 mcg/kg/minute infusion). Body Weight: Body weight has been found to influence epinephrine PK. Higher body weight was associated with a higher plasma epinephrine clearance and a lower concentration plateau."
+  ],
+  "pharmacokinetics_table": [
+   "<table width=\"95%\"><caption>Table 3: Geometric Mean (CV%) Plasma PK Parameters Following One Dose of Epinephrine in Healthy Subjects [Study 1]</caption><col width=\"20%\" align=\"center\" valign=\"middle\"/><col width=\"10%\" align=\"center\" valign=\"middle\"/><col width=\"9%\" align=\"center\" valign=\"middle\"/><col width=\"16%\" align=\"center\" valign=\"middle\"/><col width=\"14%\" align=\"center\" valign=\"middle\"/><col width=\"14%\" align=\"center\" valign=\"middle\"/><col width=\"17%\" align=\"center\" valign=\"middle\"/><thead><tr styleCode=\"Botrule\"><th rowspan=\"2\" styleCode=\"Lrule Rrule\">Product</th><th colspan=\"6\" styleCode=\"Rrule\">Pharmacokinetic Parameters [%CV]</th></tr><tr><th styleCode=\"Rrule\">GeoMean   Cmax (pg/mL) </th><th styleCode=\"Rrule\">Median   Tmax   (min) </th><th styleCode=\"Rrule\">GeoMean   AUC <sub>0-10min</sub>(min*pg/mL) <footnote ID=\"K2286\">Note: Based on within-study comparison results from Studies 1, 2, and 3, the epinephrine exposures in the first 10 minutes following neffy administration were generally within the range observed following epinephrine injection 0.3 mg (needle-syringe) </footnote></th><th styleCode=\"Rrule\">GeoMean   AUC <sub>0-20min</sub>(min*pg/mL) </th><th styleCode=\"Rrule\">GeoMean   AUC <sub>0-45min</sub>(min*pg/mL) </th><th styleCode=\"Rrule\">GeoMean AUC <sub>0-60min</sub>  (min*pg/mL) </th></tr></thead><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Epinephrine 0.3 mg   (Needle-Syringe)   (N=42) </td><td styleCode=\"Rrule\">283 [62]</td><td styleCode=\"Rrule\">45</td><td styleCode=\"Rrule\">879 [120]</td><td styleCode=\"Rrule\">2032 [89]</td><td styleCode=\"Rrule\">6172 [67]</td><td styleCode=\"Rrule\">9217 [59]</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\">Neffy 2 mg   (N=42) </td><td styleCode=\"Rrule\">341 [114]</td><td styleCode=\"Rrule\">30</td><td styleCode=\"Rrule\">704 [92]</td><td styleCode=\"Rrule\">2548 [102]</td><td styleCode=\"Rrule\">8156 [115]</td><td styleCode=\"Rrule\">10916 [116]</td></tr><tr><td styleCode=\"Lrule Rrule\">Epinephrine 0.3 mg   (Auto-Injector)   (N=42) </td><td styleCode=\"Rrule\">604 [79]</td><td styleCode=\"Rrule\">8</td><td styleCode=\"Rrule\">2771 [115]</td><td styleCode=\"Rrule\">5818 [83]</td><td styleCode=\"Rrule\">12227 [60]</td><td styleCode=\"Rrule\">14762 [57]</td></tr></tbody></table>",
+   "<table width=\"75%\" styleCode=\"Noautorules\"><col width=\"100%\" align=\"left\" valign=\"top\"/><tfoot><tr><td>a: Epinephrine geometric mean plasma concentration-time profiles following one dose of epinephrine in Study 3   b: Epinephrine geometric mean plasma concentration-time profiles following two doses of epinephrine in Study 4   R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart.   R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart.   Epinephrine 0.3 mg was administered using needle-syringe product </td></tr></tfoot><tbody><tr><td><paragraph><renderMultiMedia referencedObject=\"MM7\"/></paragraph></td></tr></tbody></table>"
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies to evaluate the carcinogenic potential of epinephrine have not been conducted. Epinephrine and other catecholamines have been shown to have mutagenic potential in vitro . Epinephrine was positive in the Salmonella bacterial reverse mutation assay, positive in the mouse lymphoma assay, and negative in the in vivo micronucleus assay. Epinephrine is an oxidative mutagen based on the E. coli WP2 Mutoxitest bacterial reverse mutation assay. This should not prevent the use of epinephrine where indicated [see Indications and Usage (1) ] . The potential for epinephrine to impair reproductive performance has not been evaluated, but epinephrine has been shown to decrease implantation in female rabbits dosed subcutaneously with 1.2 mg/kg/day (15-fold the highest human intramuscular or subcutaneous daily dose) during gestation days 3 to 9. 13.2 Animal Toxicology and/or Pharmacology In a single-dose nasal toxicity study, treatment of neffy in rats induced epinephrine-related histopathological changes in the nose, such as minimal ulceration of the exposed mucosa (at ≥2.3-fold the recommended clinical dose of neffy 2 mg based on local surface area), and nasal passages, such as minimal to mild necrosis in the nasal turbinate and parietal wall in the rostral-most level (at ≥1.2-fold the recommended clinical dose of neffy 2 mg based on local surface area) on day 2. These findings were often associated with minimal to mild neutrophilic inflammation and were reversible after 14 days post-dose."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies to evaluate the carcinogenic potential of epinephrine have not been conducted. Epinephrine and other catecholamines have been shown to have mutagenic potential in vitro . Epinephrine was positive in the Salmonella bacterial reverse mutation assay, positive in the mouse lymphoma assay, and negative in the in vivo micronucleus assay. Epinephrine is an oxidative mutagen based on the E. coli WP2 Mutoxitest bacterial reverse mutation assay. This should not prevent the use of epinephrine where indicated [see Indications and Usage (1) ] . The potential for epinephrine to impair reproductive performance has not been evaluated, but epinephrine has been shown to decrease implantation in female rabbits dosed subcutaneously with 1.2 mg/kg/day (15-fold the highest human intramuscular or subcutaneous daily dose) during gestation days 3 to 9."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "13.2 Animal Toxicology and/or Pharmacology In a single-dose nasal toxicity study, treatment of neffy in rats induced epinephrine-related histopathological changes in the nose, such as minimal ulceration of the exposed mucosa (at ≥2.3-fold the recommended clinical dose of neffy 2 mg based on local surface area), and nasal passages, such as minimal to mild necrosis in the nasal turbinate and parietal wall in the rostral-most level (at ≥1.2-fold the recommended clinical dose of neffy 2 mg based on local surface area) on day 2. These findings were often associated with minimal to mild neutrophilic inflammation and were reversible after 14 days post-dose."
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING How Supplied Neffy (epinephrine nasal spray) is available in 1 mg and 2 mg strengths as described in Table 4. Table 4: Neffy Strengths and Package Configurations Strength Package Configuration NDC 1 mg/0.1 mL Carton containing two (2) blister packages each with a single-dose nasal spray for 1 time use NDC 85766-129-02 relabeled from NDC 82580-010-02 2 mg/0.1 mL Carton containing two (2) blister packages each with a single-dose nasal spray for 1 time use NDC 85766-130-02 relabeled from NDC 82580-020-02 Storage and Handling Store neffy nasal spray in the blister pack until ready to use. Store at 68°F to 77°F (20°C to 25°C). Excursions permitted up to 122°F (50°C). Do not freeze. Neffy freezes below 5°F (-15°C). If neffy freezes, it will not deliver epinephrine."
+  ],
+  "how_supplied_table": [
+   "<table width=\"90%\"><caption>Table 4: Neffy Strengths and Package Configurations</caption><col width=\"24%\" align=\"center\" valign=\"bottom\"/><col width=\"50%\" align=\"left\" valign=\"bottom\"/><col width=\"26%\" align=\"center\" valign=\"bottom\"/><thead><tr styleCode=\"First Last\"><th align=\"center\" styleCode=\"Lrule Rrule\">Strength</th><th align=\"center\" styleCode=\"Rrule\">Package Configuration</th><th align=\"center\" styleCode=\"Rrule\">NDC</th></tr></thead><tbody><tr styleCode=\"Botrule First\"><td align=\"center\" styleCode=\"Lrule Rrule\">1 mg/0.1 mL</td><td align=\"left\" styleCode=\"Rrule\">Carton containing two (2) blister packages each with a single-dose nasal spray for 1 time use</td><td align=\"center\" styleCode=\"Rrule\">NDC 85766-129-02 relabeled from NDC 82580-010-02</td></tr><tr><td align=\"center\" styleCode=\"Lrule Rrule\">2 mg/0.1 mL</td><td align=\"left\" styleCode=\"Rrule\">Carton containing two (2) blister packages each with a single-dose nasal spray for 1 time use</td><td align=\"center\" styleCode=\"Rrule\">NDC 85766-130-02 relabeled from NDC 82580-020-02</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Storage and Handling Store neffy nasal spray in the blister pack until ready to use. Store at 68°F to 77°F (20°C to 25°C). Excursions permitted up to 122°F (50°C). Do not freeze. Neffy freezes below 5°F (-15°C). If neffy freezes, it will not deliver epinephrine."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use). Administration Instructions Advise patients and/or caregivers to store neffy nasal spray in the blister pack until ready to use. Neffy nasal spray is for single use and delivers the entire dose upon activation. Advise patients when to seek emergency medical assistance for close monitoring of the anaphylactic episode and in the event further treatment is required. Instruct patients and/or caregivers in the appropriate use of neffy. Administer neffy into one nostril pointing straight into the naris, press the plunger firmly to activate [see Dosage and Administration (2.2) and Instructions for Use] . If a second dose of neffy is needed, administer a new neffy nasal spray into the same nostril (ipsilateral side) starting 5 minutes after the first dose. Advise patients that improper dosing in the nose may result in some drug dripping out of the nose and not being available for absorption. If symptoms do not improve or worsen, patients and/or caregivers should administer a second dose of neffy in the same nostril starting 5 minutes after the first dose. Risks Associated with Certain Coexisting Conditions Advise patients with coexisting conditions (cardiac arrhythmia, coronary artery disease, hypertension, pulmonary edema, hyperthyroidism, renal impairment, Parkinson's disease, diabetes), for increased risks that may be associated with use of epinephrine [see Warnings and Precautions (5.2) ] ."
+  ],
+  "spl_patient_package_insert": [
+   "PATIENT INFORMATION NEFFY ® (ne'fee) (epinephrine nasal spray) For allergic emergencies (anaphylaxis) This Patient Information has been approved by the U.S. Food and Drug Administration Revised: October 2025 Read this Patient Information leaflet carefully before you start using neffy and each time you get a refill. There may be new information. You, your caregiver, or others who may be in a position to administer neffy should know how to use it before you have an allergic emergency. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment. What is the most important information I should know about neffy? Neffy contains epinephrine, a medicine used to treat allergic emergencies (anaphylaxis). Anaphylaxis can be life-threatening, can happen in minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or other unknown causes. Symptoms of anaphylaxis may include: trouble breathing wheezing hoarseness (changes in the way your voice sounds) hives (raised reddened rash that may itch) severe itching swelling of your face, lips, mouth, or tongue skin rash, redness, or swelling fast heartbeat weak pulse feeling very anxious confusion stomach pain losing control of urine or bowel movements (incontinence) diarrhea or stomach cramps dizziness, fainting, or \"passing out\" (unconsciousness) Always carry neffy with you because you may not know when anaphylaxis may happen . It is recommended that you carry 2 neffy devices because you may need a second dose of neffy if symptoms continue or come back. Talk to your healthcare provider if you need additional devices to keep at work, school, or other locations. Tell your family members, caregivers, and others where you keep your neffy device and how to use it before you need it. You may be unable to speak in an allergic emergency. When you have an allergic emergency (anaphylaxis) Use neffy right away . Get emergency medical help for further treatment of the allergic emergency (anaphylaxis), if needed after using neffy . Before you receive neffy, your healthcare provider should talk to you about when to get emergency help. What is neffy? Neffy is a nasal spray used to treat life-threatening, allergic emergencies including anaphylaxis in adults and children aged 4 years and older who weigh 33 pounds or more (15 kilograms or more), who are at risk for or have a history of serious allergic emergencies. Each neffy contains a single dose of epinephrine. Neffy is for immediate self (or caregiver) administration in an allergic emergency. Neffy is for people who have been prescribed this medicine by their healthcare provider. It is not known if neffy is safe and effective in children who weigh less than 33 pounds (15 kilograms). Before using neffy, tell your healthcare provider about all your medical conditions, especially if you : have nasal problems including nasal polyps, history of injury such as a broken nose, or any past nasal surgery. have heart problems. have kidney problems. have low potassium levels in your blood. have Parkinson's disease. have thyroid problems. have high blood pressure. have diabetes. are pregnant or plan to become pregnant. It is not known if epinephrine will harm your unborn baby. are breastfeeding or plan to breastfeed. It is not known if epinephrine passes into your breastmilk. Tell your healthcare provider about all the medicines you take , including prescription and over-the-counter medicines, vitamins and herbal supplements. Tell your healthcare provider of all known allergies. Especially tell your healthcare provider if you take or use : other nasal sprays water pills (diuretics) medicines to treat depression such as tricyclic antidepressants or monoamine oxidase inhibitors (MAO inhibitors) medicines to treat abnormal heart beats (arrhythmias) such as cardiac glycosides medicines to treat Parkinson's disease such as catechol-O-methyl-transferase inhibitors (COMT inhibitors) and ergot alkaloids medicines for heart disease including alpha blockers (such as phentolamine) and beta blockers (such as propranolol) medicines for thyroid disease such as levothyroxine sodium medicines used in labor medicines to treat allergies such as diphenhydramine, tripelennamine or chlorpheniramine (antihistamines) Neffy and other medicines may affect each other, causing side effects. Neffy may affect the way other medicines work, and other medicines may affect how neffy works. Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. Use neffy for the treatment of anaphylaxis as prescribed by your healthcare provider, regardless of your medical conditions or medicine you take. How should I use neffy? Read the Instructions for Use that come with neffy for detailed information about the right way to use the device. Use neffy exactly as your healthcare provider tells you to use it. Talk to your healthcare provider or pharmacist if you have questions about the use of neffy. Neffy is for use in the nose only . Do not spray in the eyes or mouth. Each neffy has 1 dose of medicine and cannot be reused. Do not test or prime (pre-spray) the device. Your neffy comes in a carton with 2 devices. You may need to use a second neffy if symptoms continue or get worse. You should always carry 2 neffy devices with you. Neffy is given as a single dose in either nostril. If a second dose of neffy is needed, it should be given in the same nostril , starting 5 minutes after the first dose. Do not sniff during or after receiving a dose of neffy. If any liquid drips out of the nose, you may not receive the full dose of medicine. If your symptoms continue or get worse, give a second dose of neffy in the same nostril, starting 5 minutes after the first dose. Important: If symptoms continue or get worse after the first dose of neffy, a second dose is needed, even if you did not see liquid drip out of the nose . Give the second dose in the same nostril, starting 5 minutes after the first dose. Get emergency help for further treatment of the anaphylactic episode, if needed, after using neffy. Before you receive neffy, your healthcare provider should talk to you about when to get emergency help. If you use too much neffy, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away. For more information and video instructions on the use of neffy, go to www.neffy.com or call 1-877-MY-NEFFY (1-877-696-3339). What are the possible side effects of neffy ? Neffy may cause serious side effects. If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have more or longer lasting side effects when you use neffy. Talk to your healthcare provider about all your medical conditions. Common side effects of neffy include: nasal discomfort throat irritation headache chest and nasal congestion feeling overly excited, nervous, or anxious nose bleed nose pain sneezing runny nose dry nose or throat tingling sensation, including in the nose feeling tired dizziness nausea vomiting Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of neffy . For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects . You may report side effects to FDA at 1-800-FDA-1088 . How should I store neffy? Store neffy nasal spray in the blister pack until ready to use. Store neffy at room temperature between 68°F to 77°F (20°C to 25°C). Do not freeze. If neffy freezes, the device will not spray . Storage of neffy at high temperatures up to 122°F (50°C) is allowed for a few days. Your neffy has an expiration date. Replace neffy before the expiration date. Keep neffy and all medicines out of the reach of children . General information about the safe and effective use of neffy. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use neffy for a condition for which it was not prescribed. Do not give neffy to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about neffy that is written for health professionals. What are the ingredients in neffy? Active Ingredient : epinephrine Inactive Ingredients : benzalkonium chloride, disodium edetate, n-dodecyl beta-D-maltoside, sodium chloride, sodium metabisulfite, and hydrochloric acid or sodium hydroxide to adjust pH, in water for injection."
+  ],
+  "spl_patient_package_insert_table": [
+   "<table width=\"100%\"><colgroup><col align=\"left\" valign=\"top\" width=\"5%\"/><col align=\"left\" valign=\"top\" width=\"25%\"/><col align=\"left\" valign=\"top\" width=\"20%\"/><col align=\"left\" valign=\"top\" width=\"25%\"/><col align=\"left\" valign=\"top\" width=\"25%\"/></colgroup><thead><tr styleCode=\"Botrule\"><th align=\"center\" colspan=\"5\" styleCode=\"Lrule Rrule\">PATIENT INFORMATION   NEFFY <sup>&#xAE;</sup>(ne&apos;fee)   (epinephrine nasal spray)   For allergic emergencies (anaphylaxis) </th></tr></thead><tfoot><tr><td align=\"left\" colspan=\"4\">This Patient Information has been approved by the U.S. Food and Drug Administration</td><td align=\"right\" colspan=\"1\">Revised: October 2025 </td></tr><tr><td/><td/><td/><td/><td/></tr></tfoot><tbody><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\">Read this Patient Information leaflet carefully before you start using neffy and each time you get a refill. There may be new information. You, your caregiver, or others who may be in a position to administer neffy should know how to use it before you have an allergic emergency. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.</td></tr><tr><td colspan=\"5\" styleCode=\"Lrule Rrule\"><list listType=\"ordered\" styleCode=\"Arabic\"><item><content styleCode=\"bold\">What is the most important information I should know about neffy?</content>  Neffy contains epinephrine, a medicine used to treat allergic emergencies (anaphylaxis). Anaphylaxis can be life-threatening, can happen in minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or other unknown causes.   Symptoms of anaphylaxis may include: </item></list></td></tr><tr><td styleCode=\"Lrule\"/><td colspan=\"2\"><list listType=\"unordered\" styleCode=\"Disc\"><item>trouble breathing</item><item>wheezing</item><item>hoarseness (changes in the way your voice sounds)</item><item>hives (raised reddened rash that may itch)</item><item>severe itching</item><item>swelling of your face, lips, mouth, or tongue</item><item>skin rash, redness, or swelling</item><item>fast heartbeat</item></list></td><td colspan=\"2\" styleCode=\"Rrule\"><list listType=\"unordered\" styleCode=\"Disc\"><item>weak pulse</item><item>feeling very anxious</item><item>confusion</item><item>stomach pain</item><item>losing control of urine or bowel movements (incontinence)</item><item>diarrhea or stomach cramps</item><item>dizziness, fainting, or &quot;passing out&quot; (unconsciousness)</item></list></td></tr><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\"><list listType=\"ordered\" styleCode=\"Arabic\"><item><content styleCode=\"bold\">Always carry neffy with you because you may not know when anaphylaxis may happen</content>. It is recommended that you carry 2 neffy devices because you may need a second dose of neffy if symptoms continue or come back. Talk to your healthcare provider if you need additional devices to keep at work, school, or other locations. Tell your family members, caregivers, and others where you keep your neffy device and how to use it before you need it. You may be unable to speak in an allergic emergency. </item><item><content styleCode=\"bold\">When you have an allergic emergency (anaphylaxis)</content><list listType=\"unordered\" styleCode=\"Disc\"><item><content styleCode=\"bold\">Use neffy right away</content>. </item><item><content styleCode=\"bold\">Get emergency medical help for further treatment of the allergic emergency (anaphylaxis), if needed after using neffy</content>. Before you receive neffy, your healthcare provider should talk to you about when to get emergency help. </item></list></item></list></td></tr><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">What is neffy?</content><list listType=\"unordered\" styleCode=\"Disc\"><item>Neffy is a nasal spray used to treat life-threatening, allergic emergencies including anaphylaxis in adults and children aged 4 years and older who weigh 33 pounds or more (15 kilograms or more), who are at risk for or have a history of serious allergic emergencies. Each neffy contains a single dose of epinephrine.</item><item>Neffy is for immediate self (or caregiver) administration in an allergic emergency.</item><item>Neffy is for people who have been prescribed this medicine by their healthcare provider.</item><item>It is not known if neffy is safe and effective in children who weigh less than 33 pounds (15 kilograms).</item></list></td></tr><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Before using neffy, tell your healthcare provider about all your medical conditions, especially if you</content>: <list listType=\"unordered\" styleCode=\"Disc\"><item>have nasal problems including nasal polyps, history of injury such as a broken nose, or any past nasal surgery.</item><item>have heart problems.</item><item>have kidney problems.</item><item>have low potassium levels in your blood.</item><item>have Parkinson&apos;s disease.</item><item>have thyroid problems.</item><item>have high blood pressure.</item><item>have diabetes.</item><item>are pregnant or plan to become pregnant. It is not known if epinephrine will harm your unborn baby.</item><item>are breastfeeding or plan to breastfeed. It is not known if epinephrine passes into your breastmilk.</item></list><content styleCode=\"bold\">Tell your healthcare provider about all the medicines you take</content>, including prescription and over-the-counter medicines, vitamins and herbal supplements. Tell your healthcare provider of all known allergies.  <content styleCode=\"bold\">Especially tell your healthcare provider if you take or use</content>: <list listType=\"unordered\" styleCode=\"Disc\"><item>other nasal sprays</item><item>water pills (diuretics)</item><item>medicines to treat depression such as tricyclic antidepressants or monoamine oxidase inhibitors (MAO inhibitors)</item><item>medicines to treat abnormal heart beats (arrhythmias) such as cardiac glycosides</item><item>medicines to treat Parkinson&apos;s disease such as catechol-O-methyl-transferase inhibitors (COMT inhibitors) and ergot alkaloids</item><item>medicines for heart disease including alpha blockers (such as phentolamine) and beta blockers (such as propranolol)</item><item>medicines for thyroid disease such as levothyroxine sodium</item><item>medicines used in labor</item><item>medicines to treat allergies such as diphenhydramine, tripelennamine or chlorpheniramine (antihistamines)</item></list> Neffy and other medicines may affect each other, causing side effects. Neffy may affect the way other medicines work, and other medicines may affect how neffy works.   Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.   Use neffy for the treatment of anaphylaxis as prescribed by your healthcare provider, regardless of your medical conditions or medicine you take. </td></tr><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">How should I use neffy?</content><list listType=\"unordered\" styleCode=\"Disc\"><item>Read the Instructions for Use that come with neffy for detailed information about the right way to use the device.</item><item>Use neffy exactly as your healthcare provider tells you to use it. Talk to your healthcare provider or pharmacist if you have questions about the use of neffy.</item><item><content styleCode=\"bold\">Neffy is for use in the nose only</content>. Do not spray in the eyes or mouth. </item><item>Each neffy has 1 dose of medicine and cannot be reused. Do not test or prime (pre-spray) the device.</item><item>Your neffy comes in a carton with 2 devices. You may need to use a second neffy if symptoms continue or get worse.</item><item>You should always carry 2 neffy devices with you.</item><item>Neffy is given as a single dose in either nostril. If a second dose of neffy is needed, it should be given in the <content styleCode=\"bold\">same nostril</content>, starting 5 minutes after the first dose. </item><item><content styleCode=\"bold\">Do not</content>sniff during or after receiving a dose of neffy. </item><item>If any liquid drips out of the nose, you may not receive the full dose of medicine. If your symptoms continue or get worse, give a second dose of neffy in the same nostril, starting 5 minutes after the first dose.</item><item>Important: If symptoms continue or get worse after the first dose of neffy, a second dose is needed, <content styleCode=\"bold\">even if you did not see liquid drip out of the nose</content>. Give the second dose in the same nostril, starting 5 minutes after the first dose. </item><item>Get emergency help for further treatment of the anaphylactic episode, if needed, after using neffy. Before you receive neffy, your healthcare provider should talk to you about when to get emergency help.</item><item>If you use too much neffy, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away.</item><item>For more information and video instructions on the use of neffy, go to www.neffy.com or call 1-877-MY-NEFFY (1-877-696-3339).</item></list></td></tr><tr><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">What are the possible side effects of neffy</content>?  <content styleCode=\"bold\">Neffy may cause serious side effects.</content> <content styleCode=\"bold\">If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have more or longer lasting side effects when you use neffy.</content>Talk to your healthcare provider about all your medical conditions.   Common side effects of neffy include: </td></tr><tr><td styleCode=\"Lrule\"/><td colspan=\"2\"><list listType=\"unordered\" styleCode=\"Disc\"><item>nasal discomfort</item><item>throat irritation</item><item>headache</item><item>chest and nasal congestion</item><item>feeling overly excited, nervous, or anxious</item><item>nose bleed</item><item>nose pain</item><item>sneezing</item></list></td><td colspan=\"2\" styleCode=\"Rrule\"><list listType=\"unordered\" styleCode=\"Disc\"><item>runny nose</item><item>dry nose or throat</item><item>tingling sensation, including in the nose</item><item>feeling tired</item><item>dizziness</item><item>nausea</item><item>vomiting</item></list></td></tr><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">Tell your healthcare provider if you have any side effect that bothers you or that does not go away.</content>  These are not all the possible side effects of neffy <content styleCode=\"bold\">.</content>For more information, ask your healthcare provider or pharmacist.  <content styleCode=\"bold\">Call your doctor for medical advice about side effects</content>. <content styleCode=\"bold\">You may report side effects to FDA at 1-800-FDA-1088</content>. </td></tr><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">How should I store neffy?</content><list listType=\"unordered\" styleCode=\"Disc\"><item>Store neffy nasal spray in the blister pack until ready to use.</item><item>Store neffy at room temperature between 68&#xB0;F to 77&#xB0;F (20&#xB0;C to 25&#xB0;C).</item><item><content styleCode=\"bold\">Do not freeze. If neffy freezes, the device will not spray</content>. </item><item><content styleCode=\"bold\">Storage of neffy at high temperatures up to 122&#xB0;F (50&#xB0;C) is allowed for a few days.</content></item><item>Your neffy has an expiration date. Replace neffy before the expiration date.</item></list><content styleCode=\"bold\">Keep neffy and all medicines out of the reach of children</content>. </td></tr><tr styleCode=\"Botrule\"><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">General information about the safe and effective use of neffy.</content>  Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use neffy for a condition for which it was not prescribed. Do not give neffy to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about neffy that is written for health professionals. </td></tr><tr><td colspan=\"5\" styleCode=\"Lrule Rrule\"><content styleCode=\"bold\">What are the ingredients in neffy?</content> <content styleCode=\"bold\">Active Ingredient</content>: epinephrine  <content styleCode=\"bold\">Inactive Ingredients</content>: benzalkonium chloride, disodium edetate, n-dodecyl beta-D-maltoside, sodium chloride, sodium metabisulfite, and hydrochloric acid or sodium hydroxide to adjust pH, in water for injection. </td></tr></tbody></table>"
+  ],
+  "set_id": "2052f9db-7d76-443b-b702-b6b499f9a4b8",
+  "id": "50325060-a6dc-c9ae-e063-6294a90a5a34",
+  "effective_time": "20260424",
+  "version": "2"
+ }
+}
