@@ -1,0 +1,711 @@
+{
+ "id_es": "fexofenadina",
+ "generic_en": "fexofenadine hydrochloride",
+ "search": "openfda.generic_name.exact:\"FEXOFENADINE HYDROCHLORIDE\"",
+ "pref": "fexofenadine hydrochloride|ORAL|",
+ "downloaded": "2026-11-14T08:43Z",
+ "chosen": {
+  "set_id": "b82d993a-16ff-4037-a182-7010de8e1cdd",
+  "id": "5076f5eb-2ebc-5623-e063-6394a90a3fff",
+  "effective_time": "20260427",
+  "version": "9",
+  "brand_name": [
+   "Allegra Allergy, Travel BASIX",
+   "Allegra Allergy"
+  ],
+  "generic_name": [
+   "FEXOFENADINE HYDROCHLORIDE"
+  ],
+  "manufacturer_name": [
+   "Lil' Drug Store Products, Inc"
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN OTC DRUG"
+  ],
+  "application_number": [
+   "NDA020872"
+  ],
+  "n_sections": 20
+ },
+ "candidates": [
+  {
+   "set_id": "7cac266a-4de8-4af1-8324-b01823a3989a",
+   "id": "ac7956ac-6c7a-4d04-958b-38fa68885955",
+   "effective_time": "20261029",
+   "version": "8",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CVS Pharmacy"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA212971"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "deecbf76-be1d-4b27-85c6-17cfb7e7d1a1",
+   "id": "76ca9cfa-0bc5-4d36-bb73-dede19f608d4",
+   "effective_time": "20261029",
+   "version": "5",
+   "brand_name": [
+    "allergy relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Meijer, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA212971"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "1b5aa481-205d-4935-ae58-fcb8cbc35c4c",
+   "id": "d9dbef15-7535-4292-9ea1-2f2416a813b5",
+   "effective_time": "20260909",
+   "version": "3",
+   "brand_name": [
+    "ALLERGY"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Amazon.com Services LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA212971"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "0a3d4d1f-a99f-4d0a-bb28-b2409a9e073a",
+   "id": "59dbbbcb-e1e3-79e9-e063-6394a90a5ad8",
+   "effective_time": "20260825",
+   "version": "1",
+   "brand_name": [
+    "ALLERGY RELIEF"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Bi-Mart"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211075"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "b21bb11d-bf74-4ee7-9cfe-5b599a3c4775",
+   "id": "58cbdd55-848f-51c5-e063-6294a90aaa53",
+   "effective_time": "20260811",
+   "version": "6",
+   "brand_name": [
+    "Childrens Fexofenadine Hydrochloride Allergy"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Sun Pharmaceutical Industries, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA208123"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "5413d84e-f945-4920-8981-f62978f21d67",
+   "id": "5413d84e-f945-4920-8981-f62978f21d67",
+   "effective_time": "20260806",
+   "version": "1",
+   "brand_name": [
+    "Fexofenadine Hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Aurohealth LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA202039"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "dd0da52b-fc82-4ec9-854c-0d7c52e926fb",
+   "id": "fdf1d6d1-054f-42e6-b4fc-b72f70bbe235",
+   "effective_time": "20260803",
+   "version": "2",
+   "brand_name": [
+    "Fexofenadine Hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NUVICARE LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA204507"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "a79edb5d-02d9-4c53-9509-c69fd6115686",
+   "id": "afdade59-1f22-4ba8-beb3-46a0364a4c95",
+   "effective_time": "20260722",
+   "version": "2",
+   "brand_name": [
+    "HIVES RELIEF"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Walgreen Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA212971"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "2718d6a2-0678-4703-9a5a-26b27d753942",
+   "id": "55fb81c8-4279-4d90-b663-f6d14c40f599",
+   "effective_time": "20260720",
+   "version": "2",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Kroger Company"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA212971"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "852c8ad2-fc7d-4728-b2c6-f64b960fe2ab",
+   "id": "183b156e-0f47-434d-abd8-640d531da232",
+   "effective_time": "20260718",
+   "version": "7",
+   "brand_name": [
+    "equate allergy relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Walmart Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA204097"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "a86aebd0-937e-5d73-e053-2995a90a656a",
+   "id": "56816fcb-3ed9-be09-e063-6294a90a18ae",
+   "effective_time": "20260713",
+   "version": "3",
+   "brand_name": [
+    "Fexofenadine hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "BluePoint Laboratories"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076502"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "864e3052-5787-bf11-9d17-11274ca2304f",
+   "id": "c5d24cd6-8212-e647-78b1-27906e6f62bd",
+   "effective_time": "20260709",
+   "version": "21",
+   "brand_name": [
+    "Fexofenadine hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076502"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "b0121213-eae1-8429-9986-3b3b26f35e47",
+   "id": "ee1ae5bd-d3dc-23a2-c1f3-c25b2ec57b1c",
+   "effective_time": "20260709",
+   "version": "5",
+   "brand_name": [
+    "Fexofenadine Hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA076502"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "c77ee2bb-dc95-d8c9-e053-2995a90a9602",
+   "id": "561af7a3-2594-1384-e063-6394a90abb59",
+   "effective_time": "20260708",
+   "version": "4",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "CVS PHARMACY"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211075"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "84988f6d-85b1-45dd-89be-0333acc6b180",
+   "id": "67f3284f-3041-44b7-9daf-ec9e87fd6701",
+   "effective_time": "20260625",
+   "version": "4",
+   "brand_name": [
+    "Childrens Allergy"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "H2-Pharma, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA203330"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "58193632-2468-4159-b1a9-c24a489f199f",
+   "id": "91c36b66-1f6a-4ff2-8a68-f87b323c70da",
+   "effective_time": "20260624",
+   "version": "1",
+   "brand_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NCS HealthCare of KY, LLC dba Vangard Labs"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA091567"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "a8595b29-1ea3-44aa-b131-030f34f408fc",
+   "id": "67a36c39-7307-4c2c-b656-2d6ef5014627",
+   "effective_time": "20260622",
+   "version": "1",
+   "brand_name": [
+    "Gencare-Allergy Relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Pioneer Life Sciences, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA204507"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "3151bc6d-b40b-4200-a5cf-e57b6791d92a",
+   "id": "5447dc7c-b363-56c6-e063-6294a90a729d",
+   "effective_time": "20260615",
+   "version": "8",
+   "brand_name": [
+    "Fexofenadine Hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Granules India Ltd"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211075"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "e0537b71-fdee-4122-9c09-868ce7352080",
+   "id": "5447e2c4-49cb-5f8d-e063-6294a90a2457",
+   "effective_time": "20260615",
+   "version": "4",
+   "brand_name": [
+    "Fexofenadine Hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Granules India Limited"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211075"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "53fe8ef5-ab65-f23e-e063-6394a90a30f0",
+   "id": "53fea010-2c55-9819-e063-6394a90a103e",
+   "effective_time": "20260611",
+   "version": "1",
+   "brand_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "YYBA Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA210137"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "53e87aa4-9db3-9ded-e063-6294a90a319e",
+   "id": "53e87c12-47d6-9a2f-e063-6294a90aaa6f",
+   "effective_time": "20260610",
+   "version": "1",
+   "brand_name": [
+    "Fexofenadine Hydrochloride"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "YYBA Corp"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211075"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "2de81a41-8488-7e39-e063-6294a90a394b",
+   "id": "533b5815-fd4f-eff3-e063-6294a90ada9a",
+   "effective_time": "20260601",
+   "version": "3",
+   "brand_name": [
+    "Allegra Allergy 24 hour"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Select Consumer Group"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "M012"
+   ],
+   "n_sections": 16
+  },
+  {
+   "set_id": "441ce66e-515a-d380-e063-6394a90aec7d",
+   "id": "5256db44-d05b-1661-e063-6394a90af899",
+   "effective_time": "20260521",
+   "version": "3",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Grocery Outlet, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211075"
+   ],
+   "n_sections": 20
+  },
+  {
+   "set_id": "895de6e9-c5b6-42fe-b450-f5d8331ce2e3",
+   "id": "b395f46e-4c20-44f7-8d87-499b016cd1d2",
+   "effective_time": "20260521",
+   "version": "1",
+   "brand_name": [
+    "Allergy Relief"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "NUVICARE LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA211075"
+   ],
+   "n_sections": 14
+  },
+  {
+   "set_id": "1a1afa95-570d-456e-b436-a0fcfaf68517",
+   "id": "5110b287-1464-50d9-e063-6394a90abe0f",
+   "effective_time": "20260505",
+   "version": "2",
+   "brand_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "generic_name": [
+    "FEXOFENADINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "OHM LABORATORIES INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "application_number": [
+    "ANDA091567"
+   ],
+   "n_sections": 20
+  }
+ ],
+ "label": {
+  "active_ingredient": [
+   "Active ingredient (in each tablet) Fexofenadine HCl 180 mg"
+  ],
+  "purpose": [
+   "Purpose Antihistamine"
+  ],
+  "indications_and_usage": [
+   "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat"
+  ],
+  "warnings": [
+   "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions ) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "do_not_use": [
+   "Do not use if you have ever had an allergic reaction to this product or any of its ingredients."
+  ],
+  "ask_doctor": [
+   "Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose."
+  ],
+  "when_using": [
+   "When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions )"
+  ],
+  "stop_use": [
+   "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+   "Directions adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor"
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"55%\" styleCode=\"Noautorules\"><col width=\"30%\" align=\"left\" valign=\"top\"/><col width=\"70%\" align=\"left\" valign=\"top\"/><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Toprule Rrule\">adults and children 12 years of age and over</td><td styleCode=\"Toprule\">take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">children under 12 years of age</td><td>do not use</td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Rrule\">adults 65 years of age and older</td><td>ask a doctor</td></tr><tr><td styleCode=\"Rrule\">consumers with kidney disease</td><td>ask a doctor</td></tr></tbody></table>"
+  ],
+  "storage_and_handling": [
+   "Other information safety sealed: do not use if carton is opened or if individual blister units are torn or opened store between 20° and 25°C (68° and 77°F) protect from excessive moisture"
+  ],
+  "inactive_ingredient": [
+   "Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide blends, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, pregelatinized starch, titanium dioxide"
+  ],
+  "questions": [
+   "Questions or comments? call toll-free 1-800-633-1610 or www.allegra.com"
+  ],
+  "set_id": "b82d993a-16ff-4037-a182-7010de8e1cdd",
+  "id": "5076f5eb-2ebc-5623-e063-6394a90a3fff",
+  "effective_time": "20260427",
+  "version": "9"
+ }
+}

@@ -1,0 +1,712 @@
+{
+ "id_es": "penicilina-v",
+ "generic_en": "penicillin v potassium",
+ "search": "openfda.generic_name.exact:\"PENICILLIN V POTASSIUM\"",
+ "pref": "penicillin v potassium|ORAL|",
+ "downloaded": "2026-11-14T08:43Z",
+ "chosen": {
+  "set_id": "55a44735-6d6e-3012-e054-00144ff8d46c",
+  "id": "2a96446e-66cc-0625-e063-6294a90acd03",
+  "effective_time": "20241231",
+  "version": "5",
+  "brand_name": [
+   "Penicillin V Potassium"
+  ],
+  "generic_name": [
+   "PENICILLIN V POTASSIUM"
+  ],
+  "manufacturer_name": [
+   "NuCare Pharmaceuticals,Inc."
+  ],
+  "route": [
+   "ORAL"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "ANDA060456"
+  ],
+  "n_sections": 20
+ },
+ "candidates": [
+  {
+   "set_id": "450ad3aa-7c9e-497b-b00e-b1af0322f8d0",
+   "id": "5fdf0535-ef0b-ddfc-e063-6294a90abaea",
+   "effective_time": "20261109",
+   "version": "17",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "4ad879d4-eb32-49f0-af73-c47fc7581936",
+   "id": "5fdeeda7-83fa-4da6-e063-6394a90ac5d9",
+   "effective_time": "20261109",
+   "version": "27",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "64ac283c-fe6a-49f0-ae85-90ab98e38272",
+   "id": "5f511160-0d7f-54f9-e063-6294a90a0a93",
+   "effective_time": "20261102",
+   "version": "15",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "a251a769-280e-4024-ad7a-317746325818",
+   "id": "5f4c7942-3cb6-8eae-e063-6294a90a87df",
+   "effective_time": "20261102",
+   "version": "18",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "8d98ea77-f237-4b93-87fa-41f556436ab5",
+   "id": "5ed837a2-18c3-3d11-e063-6394a90a3779",
+   "effective_time": "20261027",
+   "version": "19",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "7aef4c8b-aee7-453d-bb6f-fce8e4588e3b",
+   "id": "5ec2cb26-518c-b4bf-e063-6394a90a4965",
+   "effective_time": "20261026",
+   "version": "22",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "73cd20d5-2521-4b93-a221-fa3fe490eba6",
+   "id": "5de7064c-0571-a6d7-e063-6394a90aec8a",
+   "effective_time": "20261015",
+   "version": "15",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "c80d2ae9-7a3a-4b35-a297-e324b76cdd92",
+   "id": "c80d2ae9-7a3a-4b35-a297-e324b76cdd92",
+   "effective_time": "20261001",
+   "version": "1",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA060711"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "a0f02ee0-2f7e-449a-a742-be7a98cefec5",
+   "id": "bafe25c6-09de-4161-81d3-b4f82117c521",
+   "effective_time": "20260929",
+   "version": "3",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "dd8a48b2-9ff1-49de-a53e-db4964c2384c",
+   "id": "5a99cb40-b321-3b20-e063-6294a90a0a78",
+   "effective_time": "20260903",
+   "version": "3",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA060711"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "861ccfaa-8b7a-0def-e053-2991aa0a1a39",
+   "id": "59932944-12a4-8fe7-e063-6394a90a209b",
+   "effective_time": "20260821",
+   "version": "5",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "NuCare Pharmaceuticals,Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "58e6fd2f-e595-f788-e063-6394a90a0ea2",
+   "id": "58e6fd67-476b-f81c-e063-6294a90a69e0",
+   "effective_time": "20260813",
+   "version": "1",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "56192625-0564-4131-94b2-8b9c6a0b53b0",
+   "id": "88a2b4d5-d391-4c02-9e1b-6d4031e4259f",
+   "effective_time": "20260812",
+   "version": "5",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "8c342c78-47fb-4f6b-9451-68b1f752555c",
+   "id": "7fa21fdd-b521-4b1e-9683-5af2c63a615b",
+   "effective_time": "20260812",
+   "version": "12",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Preferred Pharmaceuticals, Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA060456"
+   ],
+   "n_sections": 19
+  },
+  {
+   "set_id": "5f0759cc-c553-49b9-9049-80e713758958",
+   "id": "587a9d52-0c41-22a4-e063-6294a90a2be0",
+   "effective_time": "20260807",
+   "version": "10",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "8f9fa2c8-4d25-48a8-9257-43c33d08e83a",
+   "id": "57b1b518-f190-46ab-e063-6394a90aa5cc",
+   "effective_time": "20260728",
+   "version": "2",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 15
+  },
+  {
+   "set_id": "fba1ffe5-809a-495b-bf3e-f2099ac459f6",
+   "id": "57b12d10-bc8e-eb1d-e063-6294a90a43ed",
+   "effective_time": "20260728",
+   "version": "17",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "b5972712-f735-46ed-a94a-b84668bb6a82",
+   "id": "575a874f-ee4d-c3d2-e063-6294a90a2e8c",
+   "effective_time": "20260724",
+   "version": "3",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "REMEDYREPACK INC."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "b0744674-ddf7-4022-be2f-2a22bef0d379",
+   "id": "574b2e4e-febe-2db9-e063-6394a90a3474",
+   "effective_time": "20260723",
+   "version": "2",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Chartwell RX, LLC"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA060711",
+    "ANDA060456"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "546c367a-c786-8326-e063-6294a90ae76c",
+   "id": "568db52d-f35f-cbd8-e063-6394a90a3390",
+   "effective_time": "20260714",
+   "version": "2",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Redpharm Drug"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "b8f797fb-979c-4eab-a3a6-ad4edcb9ff07",
+   "id": "b5417b11-2360-4939-99f9-f0d884f74f1d",
+   "effective_time": "20260601",
+   "version": "6",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Proficient Rx LP"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "609c3e26-9220-4f3c-b393-a2b41b68de6c",
+   "id": "ab76a262-c7ca-46ee-96d9-2ee08616baf7",
+   "effective_time": "20260312",
+   "version": "1",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "8c11af69-146f-47ed-b12a-7b201fec7e50",
+   "id": "45b39807-139e-eda6-e063-6294a90a103c",
+   "effective_time": "20251204",
+   "version": "5",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "QPharma Inc"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA065435"
+   ],
+   "n_sections": 17
+  },
+  {
+   "set_id": "ceddc406-4a17-471f-917e-63b4b03779ea",
+   "id": "415f88da-1cad-b284-e063-6394a90a8b70",
+   "effective_time": "20251017",
+   "version": "18",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "PD-Rx Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  },
+  {
+   "set_id": "bdffe8fe-e6e0-4c08-894c-0653605ff433",
+   "id": "055a5a60-fa76-45cc-85b3-487840acd552",
+   "effective_time": "20250926",
+   "version": "1",
+   "brand_name": [
+    "Penicillin V Potassium"
+   ],
+   "generic_name": [
+    "PENICILLIN V POTASSIUM"
+   ],
+   "manufacturer_name": [
+    "Bryant Ranch Prepack"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090549"
+   ],
+   "n_sections": 18
+  }
+ ],
+ "label": {
+  "description": [
+   "DESCRIPTION Penicillin V is the phenoxymethyl analog of penicillin G. Penicillin V potassium is the potassium salt of penicillin V. Each penicillin V potassium tablet, USP contains penicillin V potassium equivalent to 250 mg (400,000 units) or 500 mg (800,000 units) penicillin V. The inactive ingredients present are dibasic calcium phosphate, magnesium stearate, microcrystalline cellulose, and sodium citrate. Each penicillin V potassium tablet, USP, 250 mg contains 0.71 mEq (27.9 mg) of potassium and each penicillin V potassium tablet, USP, 500 mg contains 1.43 mEq (55.8 mg) of potassium. Penicillin V potassium for oral solution, USP is an off-white to pinkish colored powder, which when reconstituted as directed, yields a red colored solution with cherry flavor in which each 5 mL contains penicillin V potassium equivalent to 125 mg (200,000 units) or 250 mg (400,000 units) penicillin V. The inactive ingredients present are cherry flavor, FD&C Red #40, saccharin sodium, sodium benzoate, and sugar. Each 5 mL of reconstituted penicillin V potassium for oral solution, USP, 125 mg (200,000 units) per 5 mL contains 0.36 mEq (13.9 mg) of potassium. Each 5 mL of reconstituted penicillin V potassium for oral solution, USP, 250 mg (400,000 units) per 5 mL contains 0.71 mEq (27.9 mg) of potassium. Monopotassium (2 S, 5 R, 6 R )-3,3-dimethyl-7-oxo-6-(2-phenoxyacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate. penicillin V potassium structural formula"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Penicillin V exerts a bactericidal action against penicillin-sensitive microorganisms during the stage of active multiplication. It acts through the inhibition of biosynthesis of cell-wall mucopeptide. It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci. The drug exerts high in vitro activity against staphylococci (except penicillinase-producing strains), streptococci (groups A, C, G, H, L, and M), and pneumococci. Other organisms sensitive in vitro to penicillin V are Corynebacterium diphtheriae , Bacillus anthracis , Clostridia , Actinomyces bovis , Streptobacillus moniliformis , Listeria monocytogenes , Leptospira , and Neisseria gonorrhoeae. Treponema pallidum is extremely sensitive. The potassium salt of penicillin V has the distinct advantage over penicillin G in resistance to inactivation by gastric acid. It may be given with meals; however, blood levels are slightly higher when the drug is given on an empty stomach. Average blood levels are two to five times higher than the levels following the same dose of oral penicillin G and also show much less individual variation. Once absorbed, penicillin V is about 80% bound to serum protein. Tissue levels are highest in the kidneys, with lesser amounts in the liver, skin, and intestines. Small amounts are found in all other body tissues and the cerebrospinal fluid. The drug is excreted as rapidly as it is absorbed in individuals with normal kidney function; however, recovery of the drug from the urine indicates that only about 25% of the dose given is absorbed. In neonates, young infants, and individuals with impaired kidney function, excretion is considerably delayed."
+  ],
+  "microbiology": [
+   "MICROBIOLOGY Susceptibility Testing Diffusion Techniques Quantitative methods that require measurement of zone diameters provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds. One such standardized procedure 2,4 which has been recommended for use with disks to test susceptibility of organisms to penicillin uses the 10 Unit (U) penicillin disk. Interpretation involves the correlation of the diameters obtained in the disk test with the minimum inhibitory concentration (MIC) for penicillin. Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 U penicillin disk should be interpreted according to the criteria provided in Table 1 . Dilution Techniques Quantitative methods that are used to determine minimum inhibitory concentrations (MICs) provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds. One such standardized procedure 3,4 uses a standardized dilution method (broth or agar) or equivalent with penicillin powder. The MIC values obtained should be interpreted according to the criteria provided in Table 1 . Table 1: Susceptibility Test Interpretive Criteria Pathogen Susceptibility Test Result Interpretive Criteria Disk diffusion (Zone diameter in mm) Minimal Inhibitory Concentration (MIC in mcg/mL) S I R S I R Staphylococcus spp. ≥ 29 - ≤ 28 ≤ 0.12 - ≥ 0.25 Streptococcus spp. (beta-hemolytic group) ≥ 24 - - ≤ 0.12 - - Streptococcuspneumoniae (non-meningitis isolates) ≤ 0.06 0.12 to 1 ≥ 2 A report of “susceptible” indicates that the pathogen is likely to be inhibited by usually achievable concentrations of the antimicrobial compound in the blood. A report of “Intermediate” (I) indicates that the result should be considered equivocal, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated. This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of the drug can be used. This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation. A report of “resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected. Quality Control Standardized susceptibility test procedures require the use of laboratory control microorganisms 2,3,4 . The 10 U penicillin disk and the standard penicillin powder should provide respectively the following zone diameters and MIC values in these laboratory test quality control strains: Table 2: Acceptable Quality Control Ranges Microorganism Acceptable Quality Control Ranges Disk diffusion (Zone diameter ranges in mm) Minimal Inhibitory Concentration Range (MIC in mcg/mL) Staphylococcus aureus ATCC® 25923 26 to 37 Staphylococcus aureus ATCC® 29213 0.25 to 2 Streptococcus pneumoniae ATCC® 49619 24 to 30 0.25 to 1"
+  ],
+  "microbiology_table": [
+   "<table ID=\"_Refid_125bccbf-94fa-4ba4-9204-d199461a3\" width=\"100%\"><caption>Table 1: Susceptibility Test Interpretive Criteria</caption><col width=\"35%\"/><col width=\"11%\"/><col width=\"6%\"/><col width=\"11%\"/><col width=\"12%\"/><col width=\"14%\"/><col width=\"12%\"/><tbody><tr><td rowspan=\"2\" styleCode=\"Rrule Toprule \"><paragraph><content styleCode=\"bold\">Pathogen</content></paragraph></td><td align=\"center\" colspan=\"6\" styleCode=\"Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\">Susceptibility Test Result Interpretive Criteria</content></paragraph></td></tr><tr><td colspan=\"3\" styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"bold\">Disk diffusion (Zone diameter in mm)</content></paragraph></td><td colspan=\"3\" styleCode=\"Lrule Botrule \"><paragraph><content styleCode=\"bold\">Minimal Inhibitory Concentration (MIC in mcg/mL)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \"/><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>S</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>I</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>R</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>S</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>I</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \"><paragraph>R</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"italics\">Staphylococcus </content>spp. </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>&#x2265; 29</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>-</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>&#x2264; 28</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>&#x2264; 0.12</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>-</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \"><paragraph>&#x2265; 0.25</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"italics\">Streptococcus</content> spp. (beta-hemolytic group) </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>&#x2265; 24</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>-</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>-</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>&#x2264; 0.12</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>-</paragraph></td><td align=\"center\" styleCode=\"Lrule Botrule \"><paragraph>-</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"italics\">Streptococcuspneumoniae</content></paragraph><paragraph>(non-meningitis isolates)</paragraph></td><td styleCode=\"Rrule Botrule \"/><td styleCode=\"Rrule Botrule \"/><td styleCode=\"Rrule Botrule \"/><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>&#x2264; 0.06</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>0.12 to 1</paragraph></td><td align=\"center\" styleCode=\"Botrule \"><paragraph>&#x2265; 2</paragraph></td></tr></tbody></table>",
+   "<table ID=\"_Refid_6ee2420d-2194-4df5-9115-3dcae6685\" width=\"100%\"><caption>Table 2: Acceptable Quality Control Ranges</caption><col width=\"29%\"/><col width=\"30%\"/><col width=\"41%\"/><tbody><tr><td rowspan=\"2\" styleCode=\"Rrule Botrule Toprule \"><paragraph><content styleCode=\"bold\">Microorganism</content></paragraph></td><td colspan=\"2\" styleCode=\"Botrule Lrule Toprule \"><paragraph><content styleCode=\"bold\">Acceptable Quality Control Ranges</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"bold\">Disk diffusion (Zone diameter ranges in mm)</content></paragraph></td><td styleCode=\"Lrule Botrule \"><paragraph><content styleCode=\"bold\">Minimal Inhibitory Concentration Range (MIC in mcg/mL)</content></paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"italics\">Staphylococcus aureus</content> ATCC&#xAE; 25923 </paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>26 to 37</paragraph></td><td styleCode=\"Lrule Botrule \"/></tr><tr><td styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"italics\">Staphylococcus aureus</content> ATCC&#xAE; 29213 </paragraph></td><td styleCode=\"Rrule Botrule \"/><td align=\"center\" styleCode=\"Lrule Botrule \"><paragraph>0.25 to 2</paragraph></td></tr><tr><td styleCode=\"Rrule Botrule \"><paragraph><content styleCode=\"italics\">Streptococcus </content></paragraph><paragraph><content styleCode=\"italics\">pneumoniae </content>ATCC&#xAE; </paragraph><paragraph>49619</paragraph></td><td align=\"center\" styleCode=\"Rrule Botrule \"><paragraph>24 to 30</paragraph></td><td align=\"center\" styleCode=\"Botrule \"><paragraph>0.25 to 1</paragraph></td></tr></tbody></table>"
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE Penicillin V potassium tablets and penicillin V potassium for oral solution are indicated in the treatment of mild to moderately severe infections due to penicillin G-sensitive microorganisms. Therapy should be guided by bacteriological studies (including sensitivity tests) and by clinical response. NOTE: Severe pneumonia, empyema, bacteremia, pericarditis, meningitis, and arthritis should not be treated with penicillin V during the acute stage. Indicated surgical procedures should be performed. The following infections will usually respond to adequate dosage of penicillin V. Streptococcal infections (without bacteremia). Mild-to-moderate infections of the upper respiratory tract, scarlet fever, and mild erysipelas. NOTE: Streptococci in groups A, C, G, H, L, and M are very sensitive to penicillin. Other groups, including group D (enterococcus), are resistant. Pneumococcal infections. Mild to moderately severe infections of the respiratory tract. Staphylococcal infections —penicillin G-sensitive. Mild infections of the skin and soft tissues. NOTE: Reports indicate an increasing number of strains of staphylococci resistant to penicillin G, emphasizing the need for culture and sensitivity studies in treating suspected staphylococcal infections. Fusospirochetosis (Vincent's gingivitis and pharyngitis)—Mild to moderately severe infections of the oropharynx usually respond to therapy with oral penicillin. NOTE: Necessary dental care should be accomplished in infections involving the gum tissue. Medical conditions in which oral penicillin therapy is indicated as prophylaxis: For the prevention of recurrence following rheumatic fever and/or chorea: Prophylaxis with oral penicillin on a continuing basis has proven effective in preventing recurrence of these conditions. Although no controlled clinical efficacy studies have been conducted, penicillin V has been suggested by the American Heart Association and the American Dental Association for use as an oral regimen for prophylaxis against bacterial endocarditis in patients who have congenital heart disease or rheumatic or other acquired valvular heart disease when they undergo dental procedures and surgical procedures of the upper respiratory tract. 1 Oral penicillin should not be used in those patients at particularly high risk for endocarditis (e.g., those with prosthetic heart valves or surgically constructed systemic pulmonary shunts). Penicillin V should not be used as adjunctive prophylaxis for genitourinary instrumentation or surgery, lower-intestinal tract surgery, sigmoidoscopy, and childbirth. Since it may happen that alpha hemolytic streptococci relatively resistant to penicillin may be found when patients are receiving continuous oral penicillin for secondary prevention of rheumatic fever, prophylactic agents other than penicillin may be chosen for these patients and prescribed in addition to their continuous rheumatic fever prophylactic regimen. NOTE: When selecting antibiotics for the prevention of bacterial endocarditis, the physician or dentist should read the full joint statement of the American Heart Association and the American Dental Association. 1 To reduce the development of drug-resistant bacteria and maintain the effectiveness of penicillin V potassium tablets, penicillin V potassium for oral solution, and other antibacterial drugs, penicillin V potassium tablets and penicillin V potassium for oral solution should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS A previous hypersensitivity reaction to any penicillin is a contraindication."
+  ],
+  "warnings": [
+   "WARNINGS SERIOUS AND OCCASIONALLY FATAL HYPERSENSITIVITY (anaphylactic) REACTIONS HAVE BEEN REPORTED IN PATIENTS ON PENICILLIN THERAPY. THESE REACTIONS ARE MORE LIKELY TO OCCUR IN INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY AND/OR A HISTORY OF SENSITIVITY TO MULTIPLE ALLERGENS. THERE HAVE BEEN REPORTS OF INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY WHO HAVE EXPERIENCED SEVERE REACTIONS WHEN TREATED WITH CEPHALOSPORINS. BEFORE INITIATING THERAPY WITH PENICILLIN V POTASSIUM, CAREFUL INQUIRY SHOULD BE MADE CONCERNING PREVIOUS HYPERSENSITIVITY REACTIONS TO PENICILLINS, CEPHALOSPORINS, OR OTHER ALLERGENS. IF AN ALLERGIC REACTION OCCURS, PENICILLIN V POTASSIUM SHOULD BE DISCONTINUED AND APPROPRIATE THERAPY INSTITUTED. SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE. OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED. Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including penicillin V potassium tablets and penicillin V potassium for oral solution, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated."
+  ],
+  "precautions": [
+   "PRECAUTIONS General Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma. Prescribing penicillin V potassium tablets or penicillin V potassium for oral solution in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. The oral route of administration should not be relied upon in patients with severe illness, or with nausea, vomiting, gastric dilatation, cardiospasm, or intestinal hypermotility. Occasionally patients will not absorb therapeutic amounts of orally administered penicillin. In streptococcal infections, therapy must be sufficient to eliminate the organism (10 day minimum); otherwise the sequelae of streptococcal disease may occur. Cultures should be taken following completion of treatment to determine whether streptococci have been eradicated. Prolonged use of antibiotics may promote the overgrowth of nonsusceptible organisms, including fungi. Should superinfection occur, appropriate measures should be taken. Information for Patients Patients should be counseled that antibacterial drugs, including penicillin V potassium tablets and penicillin V potassium for oral solution, should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When penicillin V potassium tablets or penicillin V potassium for oral solution are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by penicillin V potassium tablets, penicillin V potassium for oral solution, or other antibacterial drugs in the future. Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible."
+  ],
+  "general_precautions": [
+   "General Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma. Prescribing penicillin V potassium tablets or penicillin V potassium for oral solution in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. The oral route of administration should not be relied upon in patients with severe illness, or with nausea, vomiting, gastric dilatation, cardiospasm, or intestinal hypermotility. Occasionally patients will not absorb therapeutic amounts of orally administered penicillin. In streptococcal infections, therapy must be sufficient to eliminate the organism (10 day minimum); otherwise the sequelae of streptococcal disease may occur. Cultures should be taken following completion of treatment to determine whether streptococci have been eradicated. Prolonged use of antibiotics may promote the overgrowth of nonsusceptible organisms, including fungi. Should superinfection occur, appropriate measures should be taken."
+  ],
+  "information_for_patients": [
+   "Information for Patients Patients should be counseled that antibacterial drugs, including penicillin V potassium tablets and penicillin V potassium for oral solution, should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When penicillin V potassium tablets or penicillin V potassium for oral solution are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by penicillin V potassium tablets, penicillin V potassium for oral solution, or other antibacterial drugs in the future. Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Although the incidence of reactions to oral penicillins has been reported with much less frequency than following parenteral therapy, it should be remembered that all degrees of hypersensitivity, including fatal anaphylaxis, have been reported with oral penicillin. The most common reactions to oral penicillin are nausea, vomiting, epigastric distress, diarrhea, and black hairy tongue. The hypersensitivity reactions reported are skin eruptions (maculopapular to exfoliative dermatitis), urticaria and other serum-sicknesslike reactions, laryngeal edema, and anaphylaxis. Fever and eosinophilia may frequently be the only reaction observed. Hemolytic anemia, leukopenia, thrombocytopenia, neuropathy, and nephropathy are infrequent reactions and usually associated with high doses of parenteral penicillin."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION The dosage of penicillin V potassium tablets and penicillin V potassium for oral solution should be determined according to the sensitivity of the causative microorganisms and the severity of infection, and adjusted to the clinical response of the patient. The usual dosage recommendations for adults and children 12 years and over are as follows: Streptococcal infections —mild to moderately severe—of the upper respiratory tract and including scarlet fever and erysipelas: 125 to 250 mg (200,000 to 400,000 units) every 6 to 8 hours for 10 days. Pneumococcal infections —mild to moderately severe—of the respiratory tract, including otitis media: 250 to 500 mg (400,000 to 800,000 units) every 6 hours until the patient has been afebrile for at least 2 days. Staphylococcal infections —mild infections of skin and soft tissue (culture and sensitivity tests should be performed): 250 to 500 mg (400,000 to 800,000 units) every 6 to 8 hours. Fusospirochetosis (Vincent’s infection) of the oropharynx. Mild to moderately severe infections: 250 to 500 mg (400,000 to 800,000 units) every 6 to 8 hours. For the prevention of recurrence following rheumatic fever and/or chorea: 125 to 250 mg (200,000 to 400,000 units) twice daily on a continuing basis. For prophylaxis against bacterial endocarditis 1 in patients with congenital heart disease or rheumatic or other acquired valvular heart disease when undergoing dental procedures or surgical procedures of the upper respiratory tract: 2 gram of penicillin V (1 gram for children under 60 lbs.) 1 hour before the procedure, and then, 1 gram (500 mg for children under 60 lbs.) 6 hours later. Directions for Mixing Oral Solution Do not add water until you dispense. When dispensing, tap bottle until all powder flows freely, slowly add the total amount of water for reconstitution (see table below). After partially filling bottle, replace cap and shake vigorously. Add remaining water and repeat shaking. After reconstitution, solution must be stored in a refrigerator. Discard any unused portion after 14 days. 125 mg/5 mL Bottle size Total Amount of Water Required for Reconstitution 100 mL 75 mL 200 mL 150 mL The resulting solution (red in color) will contain penicillin V potassium equivalent to penicillin V 125 mg (200,000 units) in each 5 mL (teaspoonful). 250 mg/5 mL Bottle size Total Amount of Water Required for Reconstitution 100 mL 75 mL 200 mL 150 mL The resulting solution (red in color) will contain penicillin V potassium equivalent to penicillin V 250 mg (400,000 units) in each 5 mL (teaspoonful)."
+  ],
+  "dosage_and_administration_table": [
+   "<table width=\"100%\"><col width=\"20%\"/><col width=\"80%\"/><tbody><tr><td align=\"center\" colspan=\"2\" styleCode=\"Botrule Toprule \" valign=\"middle\"><paragraph>125 mg/5 mL</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>Bottle size</paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>Total Amount of Water Required for Reconstitution</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>100 mL</paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>75 mL</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>200 mL</paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>150 mL</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Botrule \" valign=\"middle\"><paragraph>The resulting solution (red in color) will contain penicillin V potassium equivalent to penicillin V 125 mg (200,000 units) in each 5 mL (teaspoonful).</paragraph></td></tr><tr><td align=\"center\" colspan=\"2\" styleCode=\"Botrule \" valign=\"middle\"><paragraph>250 mg/5 mL</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>Bottle size</paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>Total Amount of Water Required for Reconstitution</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>100 mL</paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>75 mL</paragraph></td></tr><tr><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>200 mL</paragraph></td><td styleCode=\"Botrule \" valign=\"middle\"><paragraph>150 mL</paragraph></td></tr><tr><td colspan=\"2\" styleCode=\"Botrule Lrule \" valign=\"middle\"><paragraph>The resulting solution (red in color) will contain penicillin V potassium equivalent to penicillin V 250 mg (400,000 units) in each 5 mL (teaspoonful).</paragraph></td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Penicillin V potassium tablets, USP are available as follows: Penicillin V potassium for oral solution, USP is available as follows: 250 mg (400,000 Units) per 5 mL: 200 mL (68071-1820-2). Keep tightly closed. Store dry powder at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. After reconstitution, solution must be stored in a refrigerator. Discard any unused portion after 14 days. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN."
+  ],
+  "references": [
+   "REFERENCES American Heart Association. 1984. Prevention of bacterial endocarditis. Circulation 70 (6): 1123A-1127A. Clinical and Laboratory Standards Institute. Performance Standards for Antimicrobial Disk Susceptibility Test; Approved Standard-Eleventh Edition . CLSI document M02-A11. Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012. Clinical and Laboratory Standards Institute. Methods for Dilution Antimicrobial Susceptibility Test for Bacteria That Grow Aerobically; Approved Standard-Ninth Edition . CLSI document M07-A9. Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012. Clinical and Laboratory Standards Institute. Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second Informational Supplement . CLSI document M100-S22. Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012. Manufactured In Canada By: TEVA CANADA LIMITED Toronto, Canada M1B 2K9 Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454 Rev. M 11/2014"
+  ],
+  "set_id": "55a44735-6d6e-3012-e054-00144ff8d46c",
+  "id": "2a96446e-66cc-0625-e063-6294a90acd03",
+  "effective_time": "20241231",
+  "version": "5"
+ }
+}

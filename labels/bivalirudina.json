@@ -1,0 +1,490 @@
+{
+ "id_es": "bivalirudina",
+ "generic_en": "bivalirudin",
+ "search": "openfda.generic_name.exact:\"BIVALIRUDIN\"",
+ "pref": "bivalirudin|INTRAVENOUS|",
+ "downloaded": "2026-11-14T08:43Z",
+ "chosen": {
+  "set_id": "c727199d-f4cd-4658-8fdf-568590beface",
+  "id": "c727199d-f4cd-4658-8fdf-568590beface",
+  "effective_time": "20240527",
+  "version": "1",
+  "brand_name": [
+   "Bivalirudin"
+  ],
+  "generic_name": [
+   "BIVALIRUDIN"
+  ],
+  "manufacturer_name": [
+   "MAIA Pharmaceuticals, Inc."
+  ],
+  "route": [
+   "INTRAVENOUS"
+  ],
+  "product_type": [
+   "HUMAN PRESCRIPTION DRUG"
+  ],
+  "application_number": [
+   "NDA211215"
+  ],
+  "n_sections": 30
+ },
+ "candidates": [
+  {
+   "set_id": "42aa2630-83d6-433d-8277-0f672cf8d71d",
+   "id": "478e629f-0616-49ea-a154-a45387512920",
+   "effective_time": "20260820",
+   "version": "2",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Avenacy, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210031"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "e574d04f-67b4-4a84-9d66-8c2d54f95120",
+   "id": "5648a9e0-d7bb-4b2b-9525-73842ae281a9",
+   "effective_time": "20260710",
+   "version": "9",
+   "brand_name": [
+    "BIVALIRUDIN"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Eugia US LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA205962"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "19a4afc5-151d-4d3c-bfef-48aa8797d695",
+   "id": "53431803-dc0b-42dc-8766-e17c3dbdf4ea",
+   "effective_time": "20250910",
+   "version": "2",
+   "brand_name": [
+    "bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Civica, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020873"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "50975be1-6d1f-497c-b989-1825a0fae1a7",
+   "id": "c6dcd639-86b8-40e0-b18b-e2d4393f274b",
+   "effective_time": "20250827",
+   "version": "4",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090189"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "af943fa0-ab0f-4b62-9ff0-54ee24cdb772",
+   "id": "2f51e657-4541-4458-8020-5063efc51eb7",
+   "effective_time": "20250508",
+   "version": "5",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Fresenius Kabi USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA090189"
+   ],
+   "n_sections": 32
+  },
+  {
+   "set_id": "95d150e7-f152-4091-b831-e469c9578a54",
+   "id": "664ba93e-5cde-4a01-bc5c-17ed394652e8",
+   "effective_time": "20250324",
+   "version": "8",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Mylan Institutional LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA202471"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "61de12ff-e280-4bab-9804-43869ec45fa7",
+   "id": "463422b6-e6d2-4319-a95e-aed834c2c844",
+   "effective_time": "20241223",
+   "version": "5",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Hainan Shuangcheng Pharmaceuticals Co., Ltd."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA210031"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "c20969cb-72d4-469b-9bd8-332250d896c3",
+   "id": "1fbdba30-8018-d7d3-e063-6294a90ae6b6",
+   "effective_time": "20240815",
+   "version": "7",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Accord Healthcare, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA206551"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "c727199d-f4cd-4658-8fdf-568590beface",
+   "id": "c727199d-f4cd-4658-8fdf-568590beface",
+   "effective_time": "20240527",
+   "version": "1",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "MAIA Pharmaceuticals, Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211215"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "26fb46f6-0088-42b8-b6f2-c67224776803",
+   "id": "79d8ee9d-bd04-4fb8-aa3b-61cef7be14f2",
+   "effective_time": "20240404",
+   "version": "1",
+   "brand_name": [
+    "BIVALIRUDIN"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091602"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "91cf9d00-29e0-4357-a184-f70026c47edb",
+   "id": "e7a51342-62b0-420f-ad3c-530e8d1409c1",
+   "effective_time": "20240301",
+   "version": "7",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Par Health USA, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA211215"
+   ],
+   "n_sections": 30
+  },
+  {
+   "set_id": "5d9a45c6-e234-4d56-9132-5e24e65852e6",
+   "id": "c44f8757-1a09-ab1e-e053-2a95a90a44e1",
+   "effective_time": "20210609",
+   "version": "1",
+   "brand_name": [
+    "bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Slate Run Pharmaceuticals, LLC"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA213078"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "4119b710-ef30-4e3e-b99a-38e42b4b3fca",
+   "id": "2b20b742-4bab-4e5b-9d1b-9a7ca9e0daf7",
+   "effective_time": "20210608",
+   "version": "2",
+   "brand_name": [
+    "BIVALIRUDIN"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Meitheal Pharmaceuticals Inc."
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA091602"
+   ],
+   "n_sections": 31
+  },
+  {
+   "set_id": "ce56f806-7845-429d-a1ce-c2dbf79b22eb",
+   "id": "6d393e10-b1f2-42b1-bc50-920309c144c6",
+   "effective_time": "20190930",
+   "version": "5",
+   "brand_name": [
+    "bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Sandoz Inc"
+   ],
+   "route": [
+    "INTRAVENOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "NDA020873"
+   ],
+   "n_sections": 29
+  },
+  {
+   "set_id": "19beb2ae-6064-3c24-fe50-0cee86896979",
+   "id": "2c95d0ae-12a5-4981-d4cf-99e26a7f5a69",
+   "effective_time": "20190716",
+   "version": "10",
+   "brand_name": [
+    "Bivalirudin"
+   ],
+   "generic_name": [
+    "BIVALIRUDIN"
+   ],
+   "manufacturer_name": [
+    "Dr. Reddy's Laboratories Limited"
+   ],
+   "route": [
+    "INTRACAVERNOUS"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "application_number": [
+    "ANDA201577"
+   ],
+   "n_sections": 30
+  }
+ ],
+ "label": {
+  "indications_and_usage": [
+   "1 INDICATIONS AND USAGE Bivalirudin Injection is indicated for use as an anticoagulant in patients undergoing percutaneous coronary intervention (PCI), including patients with heparin-induced thrombocytopenia and heparin-induced thrombocytopenia and thrombosis syndrome. Bivalirudin Injection is a direct thrombin inhibitor indicated for use as an anticoagulant in patients undergoing percutaneous coronary intervention (PCI), including patients with heparin-induced thrombocytopenia and heparin-induced thrombocytopenia and thrombosis syndrome."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION The recommended dosage is a 0.75 mg/kg intravenous bolus dose followed immediately by a 1.75 mg/kg/h intravenous infusion for the duration of the procedure. Five minutes after the bolus dose, assess activated clotting time (ACT) to determine if an additional bolus of 0.3 mg/kg is needed. Consider extending duration of infusion post-procedure up to 4 hours in patients with ST segment elevation MI 2.1 Recommended Dosage The recommended dose of Bivalirudin Injection is an intravenous bolus dose of 0.75 mg/kg, followed immediately by a maintenance infusion of 1.75 mg/kg/h for the duration of the procedure. Five minutes after the bolus dose has been administered, assess activated clotting time (ACT) to determine if an additional bolus of 0.3 mg/kg is needed. Consider extending duration of infusion following PCI at 1.75 mg/kg/h for up to 4 hours post- procedure in patients with ST segment elevation MI (STEMI). 2.2 Dose Adjustment in Renal Impairment Bolus Dose: No reduction in the bolus dose is needed for any degree of renal impairment. Maintenance Infusion: In patients with creatinine clearance less than 30 mL/min (by Cockcroft Gault equation), reduce the infusion rate to 1 mg/kg/h. In patients on hemodialysis, reduce the infusion rate to 0.25 mg/kg/h [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)] . 2.3 Instructions for Administration Bivalirudin Injection is a ready-to-use-sterile solution for intravenous use only. Inspection of Container Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Once removed from the refrigerator, Bivalirudin Injection may be stored at room temperature 20º to 25°C (68º to 77°F) for up to 72 hours [see How Supplied Storage and Handling (16.2)] . Discard any unused portion. Drug Compatibilities No incompatibilities have been observed with administration sets. Do not administer the drugs listed in Table 1 in the same intravenous line with Bivalirudin Injection. Table 1. Drugs Not for Administration in the Same Intravenous Line with Bivalirudin Injection Alteplase Amiodarone HCl Amphotericin B Chlorpromazine HCl Diazepam Dobutamine Prochlorperazine Edisylate Reteplase Streptokinase Vancomycin HCl"
+  ],
+  "dosage_and_administration_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"304.57\"><colgroup><col width=\"100%\"/></colgroup><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Alteplase </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Amiodarone HCl </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Amphotericin B </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Chlorpromazine HCl </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Diazepam </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Dobutamine </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Prochlorperazine Edisylate </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Reteplase </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"top\">Streptokinase </td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"top\">Vancomycin HCl </td></tr></tbody></table>"
+  ],
+  "dosage_forms_and_strengths": [
+   "3 DOSAGE FORMS AND STRENGTHS Injection, clear to slightly opalescent, colorless to yellow sterile solution: 250 mg of bivalirudin per 50 mL (5 mg/mL) in a single-dose vial. Ready-to-use. Each vial contains 250 mg of bivalirudin equivalent to an average of 275 mg bivalirudin trifluoroacetate*. *The range of bivalirudin trifluoroacetate is 270 to 280 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents . Injection: 250 mg/50 mL (5 mg/mL) in a single-dose vial. Ready-to-use."
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Bivalirudin Injection is contraindicated in patients with: Significant active bleeding; Hypersensitivity to Bivalirudin Injection or its components [see Adverse Reactions (6.2)] . Significant active bleeding Hypersensitivity to bivalirudin or its components"
+  ],
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Bleeding events: bivalirudin increases the risk of bleeding. Its anticoagulant effect subsides approximately one hour after discontinuation. Thrombotic risk with coronary artery brachytherapy: An increased risk of thrombus formation, including fatal outcomes, in gamma brachytherapy. 5.1 Bleeding Events Bivalirudin increases the risk of bleeding [see Adverse Reactions (6.1)] . Bivalirudin’s anticoagulant effect subsides approximately one hour after discontinuation [see Clinical Pharmacology (12.2)] . 5.2 Thrombotic Risk with Coronary Artery Brachytherapy An increased risk of thrombus formation, including fatal outcomes, has been associated with the use of bivalirudin in gamma brachytherapy [see Adverse Reactions (6.2)] ."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS Most common adverse reaction was bleeding (3.7%). To report SUSPECTED ADVERSE REACTIONS, contact MAIA Pharmaceuticals, Inc. at 1-888-877-9064 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In the BAT trials, 79 of the 2161 (3.7%) of subjects undergoing PCI for treatment of unstable angina and randomized to bivalirudin experienced intracranial bleeding, retroperitoneal bleeding, clinically overt bleeding with a decrease in hemoglobin greater than 3 g/dL or leading to a transfusion of greater than 2 units of blood. Immunogenicity/Re-Exposure As with all therapeutic proteins, there is potential for immunogenicity. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to bivalirudin in the studies described below with the incidence of antibodies in other studies or to other products may be misleading. In in vitro studies, bivalirudin exhibited no platelet aggregation response against sera from patients with a history of HIT/HITTS. Among 494 subjects who received bivalirudin in clinical trials and were tested for antibodies, 2 subjects had treatment-emergent positive bivalirudin antibody tests. Neither subject demonstrated clinical evidence of allergic or anaphylactic reactions and repeat testing was not performed. Nine additional patients who had initial positive tests were negative on repeat testing. 6.2 Postmarketing Experience Because postmarketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following adverse reactions have been identified during post-approval use of bivalirudin: fatal bleeding; hypersensitivity and allergic reactions including reports of anaphylaxis; lack of anticoagulant effect; thrombus formation during PCI with and without intracoronary brachytherapy, including reports of fatal outcomes; pulmonary hemorrhage; cardiac tamponade; and INR increased."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS In clinical trials in patients undergoing PCI, co-administration of bivalirudin with heparin, warfarin, thrombolytics, or GPIs was associated with increased risks of major bleeding events compared to patients not receiving these concomitant medications. Heparin, warfarin, thrombolytics, or GPIs: Increased major bleeding risk with concomitant use."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS Geriatric patients: Increased bleeding risk possible. Renal impairment: Reduce infusion dose and monitor ACT. 8.1 Pregnancy Risk Summary There are no available data on use of bivalirudin in pregnant women to inform a drug-associated risk of adverse developmental outcomes. Reproduction studies in rats and rabbits administered subcutaneously (SC) doses up to 1.6 times and 3.2 times the maximum recommended human dose (MRHD) based on body surface area (BSA), respectively, revealed no evidence of fetal harm. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data Reproductive studies have been performed in rats at subcutaneous doses up to 150 mg/kg/day, (1.6 times the maximum recommended human dose based on body surface area) and rabbits at subcutaneous doses up to 150 mg/kg/day (3.2 times the maximum recommended human dose based on body surface area). These studies revealed no harm to the fetus attributable to bivalirudin. At 500 mg/kg/day subcutaneously, litter sizes and live fetuses in rats were reduced. Fetal skeletal variations were also noted. Some of these changes could be attributed to maternal toxicity observed at high doses. 8.2 Lactation Risk Summary It is not known whether bivalirudin is present in human milk. No data are available on the effects of bivalirudin on the breastfed child or on milk production. 8.4 Pediatric Use The safety and effectiveness of bivalirudin in pediatric patients have not been established. 8.5 Geriatric Use In studies of patients undergoing PCI, 44% were ≥65 years of age and 12% of patients were ≥75 years old. Elderly patients experienced more bleeding events than younger patients. 8.6 Renal Impairment The disposition of bivalirudin was studied in PTCA patients with mild, moderate and severe renal impairment. The clearance of bivalirudin was reduced approximately 21% in patients with moderate and severe renal impairment and was reduced approximately 70% in dialysis- dependent patients [see Clinical Pharmacology (12.3)] . The infusion dose of Bivalirudin Injection may need to be reduced, and anticoagulant status monitored in patients with renal impairment [see Dosage and Administration (2.2)] ."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary There are no available data on use of bivalirudin in pregnant women to inform a drug-associated risk of adverse developmental outcomes. Reproduction studies in rats and rabbits administered subcutaneously (SC) doses up to 1.6 times and 3.2 times the maximum recommended human dose (MRHD) based on body surface area (BSA), respectively, revealed no evidence of fetal harm. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. Data Animal Data Reproductive studies have been performed in rats at subcutaneous doses up to 150 mg/kg/day, (1.6 times the maximum recommended human dose based on body surface area) and rabbits at subcutaneous doses up to 150 mg/kg/day (3.2 times the maximum recommended human dose based on body surface area). These studies revealed no harm to the fetus attributable to bivalirudin. At 500 mg/kg/day subcutaneously, litter sizes and live fetuses in rats were reduced. Fetal skeletal variations were also noted. Some of these changes could be attributed to maternal toxicity observed at high doses."
+  ],
+  "labor_and_delivery": [
+   "8.2 Lactation Risk Summary It is not known whether bivalirudin is present in human milk. No data are available on the effects of bivalirudin on the breastfed child or on milk production."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of bivalirudin in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use In studies of patients undergoing PCI, 44% were ≥65 years of age and 12% of patients were ≥75 years old. Elderly patients experienced more bleeding events than younger patients."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE Cases of overdose of up to 10 times the recommended bolus or continuous infusion dose of bivalirudin have been reported in clinical trials and in postmarketing reports. A number of the reported overdoses were due to failure to adjust the infusion dose of bivalirudin in persons with renal dysfunction including persons on hemodialysis [see Dosage and Administration (2.2)] . Bleeding, as well as deaths due to hemorrhage, have been observed in some reports of overdose. In cases of suspected overdosage, discontinue bivalirudin immediately and monitor the patient closely for signs of bleeding. There is no known antidote to bivalirudin. Bivalirudin is hemodialyzable [see Clinical Pharmacology (12.3)] ."
+  ],
+  "description": [
+   "11 DESCRIPTION Bivalirudin Injection contains bivalirudin trifluoroacetate, which is a specific and reversible direct thrombin inhibitor. Bivalirudin trifluoroacetate is a synthetic, 20 amino acid peptide salt, with the chemical name of D-phenylalanyl-L-prolyl-L-arginyl-L-prolylglycylglycylglycylglycyl-L-asparagylglycyl-L-α-aspartyl-L-phenylalanyl-L-α-glutamyl-L-α-glutamyl-L-isoleucyl-L-prolyl-L-α-glutamyl-L-α-glutamyl-L-tyrosyl-L-leucine trifluoroacetate. Each molecule of bivalirudin trifluoroacetate contains 1.7 to 2.6 equivalents of trifluoroacetic acid. The molecular formula of bivalirudin free base is C 98 H 138 N 24 O 33 and its molecular weight is 2180.32 Daltons (anhydrous free base peptide). The structural formula of bivalirudin free base is Figure 1: Structural Formula of Bivalirudin Bivalirudin Injection is supplied as a refrigerated, ready-to-use, sterile solution packaged in a 50 mL single-dose vial. Each milliliter of Bivalirudin Injection contains 5 mg bivalirudin (as trifluoroacetate salt)*, 0.8 mg sodium acetate trihydrate, 100 mg polyethylene glycol 400, and Water for Injection. The pH of Bivalirudin Injection may have been adjusted with sodium hydroxide and/or glacial acetic acid to 5.0 to 5.5. The solution is intended for intravenous administration at room temperature (20ºC to 25°C/68ºF to 77°F). *The range of bivalirudin trifluoroacetate is 5.4 to 5.6 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents. bivalirudin-spl-chemical-structure"
+  ],
+  "clinical_pharmacology": [
+   "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Bivalirudin directly inhibits thrombin by specifically binding both to the catalytic site and to the anion-binding exosite of circulating and clot-bound thrombin. Thrombin is a serine proteinase that plays a central role in the thrombotic process, acting to cleave fibrinogen into fibrin monomers and to activate Factor XIII to Factor XIIIa, allowing fibrin to develop a covalently cross-linked framework which stabilizes the thrombus; thrombin also activates Factors V and VIII, promoting further thrombin generation, and activates platelets, stimulating aggregation and granule release. The binding of bivalirudin to thrombin is reversible as thrombin slowly cleaves the bivalirudin-Arg3-Pro4 bond, resulting in recovery of thrombin active site functions. 12.2 Pharmacodynamics In healthy volunteers and patients (with ≥70% vessel occlusion undergoing routine PTCA), bivalirudin exhibited dose- and concentration-dependent anticoagulant activity as evidenced by prolongation of the ACT, aPTT, PT, and TT. Intravenous administration of bivalirudin produces an immediate anticoagulant effect. Coagulation times return to baseline approximately 1 hour following cessation of bivalirudin administration. Bivalirudin also increases INR. In 291 patients with ≥70% vessel occlusion undergoing routine PTCA, a positive correlation was observed between the dose of bivalirudin and the proportion of patients achieving ACT values of 300 sec or 350 sec. At a bivalirudin dose of 1 mg/kg intravenous bolus plus 2.5 mg/kg/h intravenous infusion (1.4 times higher than the approved dose of 1.75 mg/kg/h) for 4 hours, followed by 0.2 mg/kg/h, all patients reached maximal ACT values greater than 300 sec. 12.3 Pharmacokinetics Bivalirudin exhibits linear pharmacokinetics following intravenous administration to patients undergoing PTCA. In these patients, a mean steady state bivalirudin concentration of 12.3 ± 1.7 mcg/mL is achieved following an intravenous bolus of 1 mg/kg and a 4-hour 2.5 mg/kg/h intravenous infusion. Distribution Bivalirudin does not bind to plasma proteins (except thrombin) or to red blood cells. Elimination Bivalirudin has a half-life of 25 minutes in PTCA patients with normal renal function. The total body clearance of bivalirudin in PTCA patients with normal renal function is 3.4 mL/min/kg. Metabolism Bivalirudin is metabolized by proteolytic cleavage. Excretion Bivalirudin undergoes glomerular filtration. Tubular secretion and tubular reabsorption are also implicated in the excretion of bivalirudin, although the extent is unknown. Specific Populations Patients with Renal Impairment Total body clearance was similar for PTCA patients with normal renal function and with mild renal impairment. Clearance was reduced by 21% in patients with moderate and severe renal impairment with a half-life of 34 and 57 minutes, respectively. In dialysis patients, clearance was reduced by 70%, with a half-life of 3.5 hours. Approximately 25% bivalirudin is cleared by hemodialysis."
+  ],
+  "mechanism_of_action": [
+   "12.1 Mechanism of Action Bivalirudin directly inhibits thrombin by specifically binding both to the catalytic site and to the anion-binding exosite of circulating and clot-bound thrombin. Thrombin is a serine proteinase that plays a central role in the thrombotic process, acting to cleave fibrinogen into fibrin monomers and to activate Factor XIII to Factor XIIIa, allowing fibrin to develop a covalently cross-linked framework which stabilizes the thrombus; thrombin also activates Factors V and VIII, promoting further thrombin generation, and activates platelets, stimulating aggregation and granule release. The binding of bivalirudin to thrombin is reversible as thrombin slowly cleaves the bivalirudin-Arg3-Pro4 bond, resulting in recovery of thrombin active site functions."
+  ],
+  "pharmacodynamics": [
+   "12.2 Pharmacodynamics In healthy volunteers and patients (with ≥70% vessel occlusion undergoing routine PTCA), bivalirudin exhibited dose- and concentration-dependent anticoagulant activity as evidenced by prolongation of the ACT, aPTT, PT, and TT. Intravenous administration of bivalirudin produces an immediate anticoagulant effect. Coagulation times return to baseline approximately 1 hour following cessation of bivalirudin administration. Bivalirudin also increases INR. In 291 patients with ≥70% vessel occlusion undergoing routine PTCA, a positive correlation was observed between the dose of bivalirudin and the proportion of patients achieving ACT values of 300 sec or 350 sec. At a bivalirudin dose of 1 mg/kg intravenous bolus plus 2.5 mg/kg/h intravenous infusion (1.4 times higher than the approved dose of 1.75 mg/kg/h) for 4 hours, followed by 0.2 mg/kg/h, all patients reached maximal ACT values greater than 300 sec."
+  ],
+  "pharmacokinetics": [
+   "12.3 Pharmacokinetics Bivalirudin exhibits linear pharmacokinetics following intravenous administration to patients undergoing PTCA. In these patients, a mean steady state bivalirudin concentration of 12.3 ± 1.7 mcg/mL is achieved following an intravenous bolus of 1 mg/kg and a 4-hour 2.5 mg/kg/h intravenous infusion. Distribution Bivalirudin does not bind to plasma proteins (except thrombin) or to red blood cells. Elimination Bivalirudin has a half-life of 25 minutes in PTCA patients with normal renal function. The total body clearance of bivalirudin in PTCA patients with normal renal function is 3.4 mL/min/kg. Metabolism Bivalirudin is metabolized by proteolytic cleavage. Excretion Bivalirudin undergoes glomerular filtration. Tubular secretion and tubular reabsorption are also implicated in the excretion of bivalirudin, although the extent is unknown. Specific Populations Patients with Renal Impairment Total body clearance was similar for PTCA patients with normal renal function and with mild renal impairment. Clearance was reduced by 21% in patients with moderate and severe renal impairment with a half-life of 34 and 57 minutes, respectively. In dialysis patients, clearance was reduced by 70%, with a half-life of 3.5 hours. Approximately 25% bivalirudin is cleared by hemodialysis."
+  ],
+  "nonclinical_toxicology": [
+   "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term studies in animals have been performed to evaluate the carcinogenic potential of bivalirudin. Bivalirudin displayed no genotoxic potential in the in vitro bacterial cell reverse mutation assay (Ames test), the in vitro Chinese hamster ovary cell forward gene mutation test (CHO/HGPRT), the in vitro human lymphocyte chromosomal aberration assay, the in vitro rat hepatocyte unscheduled DNA synthesis (UDS) assay, and the in vitro rat micronucleus assay. Fertility and general reproductive performance in rats were unaffected by subcutaneous doses of bivalirudin up to 150 mg/kg/day, about 1.6 times the dose on a body surface area basis (mg/m 2 ) of a 50 kg person given the maximum recommended dose of 15 mg/kg/day."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term studies in animals have been performed to evaluate the carcinogenic potential of bivalirudin. Bivalirudin displayed no genotoxic potential in the in vitro bacterial cell reverse mutation assay (Ames test), the in vitro Chinese hamster ovary cell forward gene mutation test (CHO/HGPRT), the in vitro human lymphocyte chromosomal aberration assay, the in vitro rat hepatocyte unscheduled DNA synthesis (UDS) assay, and the in vitro rat micronucleus assay. Fertility and general reproductive performance in rats were unaffected by subcutaneous doses of bivalirudin up to 150 mg/kg/day, about 1.6 times the dose on a body surface area basis (mg/m 2 ) of a 50 kg person given the maximum recommended dose of 15 mg/kg/day."
+  ],
+  "clinical_studies": [
+   "14 CLINICAL STUDIES Bivalirudin Angioplasty Trial (BAT) In the BAT studies, patients with unstable angina undergoing PCI were randomized 1:1 to a 1 mg/kg bolus of bivalirudin and then 2.5 mg/kg/h for four hours and then 0.2 mg/kg/h for 14 to 20 hours or to 175 IU/kg bolus of heparin followed by an 18- to 24-hour infusion of 15 IU/kg/h infusion. Additional heparin but not bivalirudin could be administered for ACT less than 350 seconds. The studies were designed to demonstrate the superiority of bivalirudin to heparin on the occurrence of any of the following during hospitalization up to seven days of death, MI, abrupt closure of the dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump. The 4312 subjects ranged in age from 29 to 90 (median 63) years. 68% were male, and 91% were Caucasian. Median weight was 80 kg (39 to 120 kg). 741 (17%) subjects had post-MI angina. Twenty-three percent of patients were treated with heparin within one hour prior to randomization. The studies did not demonstrate that bivalirudin was statistically superior to heparin for reducing the risk of death, MI, abrupt closure of the dilated vessel, or clinical deterioration requiring revascularization or placement of an aortic balloon pump, but the occurrence of these events was similar in both treatment groups. Study outcomes are shown in Table 2 . Table 2: Incidences of In-hospital Endpoints in BAT Trial Endpoint Bivalirudin (n=2161) HEPARIN (n=2151) Primary endpoint † 7.9% 9.3% Death, MI, revascularization 6.2% 7.9% Death 0.2% 0.2% MI 3.3% 4.2% † A composite of death or MI or clinical deterioration of cardiac origin requiring revascularization or placement of an aortic balloon pump or angiographic evidence of abrupt vessel closure AT-BAT Trial (NCT# 00043940) This was a single-arm open-label study in which 51 subjects with heparin-induced thrombocytopenia (HIT) or heparin induced thrombocytopenia and thrombosis syndrome (HITTS) undergoing PCI. The majority of patients achieved adequate ACT at the time of device activation and no major bleeding was reported. Two patients developed thrombocytopenia."
+  ],
+  "clinical_studies_table": [
+   "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"100%\"><colgroup><col width=\"36%\"/><col width=\"37%\"/><col width=\"25%\"/></colgroup><tbody><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\"><content styleCode=\"bold\">Endpoint</content> </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">Bivalirudin (n=2161)</content> </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\"><content styleCode=\"bold\">HEPARIN </content><content styleCode=\"bold\">(n=2151)</content> </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">Primary endpoint<sup>&#x2020;</sup> </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">7.9% </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">9.3% </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">Death, MI, revascularization </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">6.2% </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">7.9% </td></tr><tr styleCode=\"Botrule\"><td styleCode=\"Lrule Rrule\" valign=\"middle\">Death </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">0.2% </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">0.2% </td></tr><tr><td styleCode=\"Lrule Rrule\" valign=\"middle\">MI </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">3.3% </td><td styleCode=\"Rrule\" align=\"center\" valign=\"middle\">4.2% </td></tr></tbody></table>"
+  ],
+  "how_supplied": [
+   "16 HOW SUPPLIED/STORAGE AND HANDLING 16.1 How Supplied Bivalirudin Injection is supplied as a refrigerated, ready-to-use, clear to slightly opalescent, colorless to yellow, sterile solution in 250 mg/50 mL (5 mg/mL) single-dose, glass vials. The single-dose vials are available as follows: NDC 70511-142-50: Carton containing 1 Bivalirudin Injection single-dose vial NDC 70511-142-84: Carton containing 10 Bivalirudin Injection single-dose vials Each vial contains 250 mg of bivalirudin (equivalent to an average of 275 mg bivalirudin trifluoroacetate*). *The range of bivalirudin trifluoroacetate is 270 to 280 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents. 16.2 Storage Store Bivalirudin Injection vials in the refrigerator between 2° to 8°C (36° to 46°F). Once removed from the refrigerator, Bivalirudin Injection may be stored at room temperature 20º to 25°C (68º to 77°F) for up to 72 hours) [see Dosage and Administration (2.3)] . Avoid excess heat."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise patients to watch carefully for any signs of bleeding or bruising and to report these to their healthcare provider when they occur. Manufactured for MAIA Pharmaceuticals, Inc. Princeton, NJ 08540"
+  ],
+  "set_id": "c727199d-f4cd-4658-8fdf-568590beface",
+  "id": "c727199d-f4cd-4658-8fdf-568590beface",
+  "effective_time": "20240527",
+  "version": "1"
+ }
+}
